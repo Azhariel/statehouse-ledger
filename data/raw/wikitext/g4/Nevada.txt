@@ -1,0 +1,1010 @@
+{{Short description|Governors from the Territory and State}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+| post = Governor
+| body = Nevada
+| insignia = File:State Seal of Nevada.svg
+| insignia_caption = Seal of Nevada
+| flag = Flag of Nevada.svg
+| flag_border = yes
+| flag_caption = Flag of Nevada
+| image = CES 2026 - Joe Lombardo 06(cropped).jpg
+| image_size = 
+| incumbent = [[Joe Lombardo]]
+| incumbent_since = January 2, 2023
+| style = {{ublist|[[Governor]]<br />(informal)|[[The Honourable|The Honorable]]<br />(formal)|[[His Excellency]]<br /> (courtesy)}}
+| department = [[Government of Nevada]]
+| status = [[Head of state]]<br>[[Head of government]]
+| term_length = Four years, renewable once
+| residence = [[Nevada Governor's Mansion]]
+| constituting_instrument = [[Constitution of Nevada]]
+| precursor = Governor of the [[Nevada Territory]]
+| inaugural = [[Henry G. Blasdel]]
+| formation = {{start date and age|1864|12|5|p=1|br=1}}
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Nevada|Line of succession]]
+| deputy = [[Lieutenant Governor of Nevada]]
+| salary = $149,730 (2015)<ref>{{Cite web |date=June 25, 2013 |title=CSG Releases 2015 Governor Salaries |url=https://www.scribd.com/document/282288677/Governors-Salaries-2015 |access-date=November 23, 2014 |publisher=The Council of State Governments}}</ref>
+| website = {{URL|gov.nv.gov}}
+}}
+The '''governor of Nevada''' is the [[head of government]] of the [[U.S. state]] of [[Nevada]].<ref name="nvc-5-1">NV Const. art. V, § 1.</ref> The governor is the head of the [[executive branch]] of the [[Government of Nevada|Nevada state government]]. The governor is also the commander-in-chief of the state's [[Nevada National Guard|military forces]].<ref>NV Const. art. V, § 5.</ref> The governor has a duty to enforce state laws<ref>NV Const. art. V, § 7.</ref> and the power to either approve or veto bills passed by the [[Nevada Legislature]],<ref>NV Const. art. IV, § 35.</ref> to convene the legislature at any time,<ref>NV Const. art. V, § 9.</ref> as well as, except in cases of treason or impeachment, to grant [[pardon]]s and [[Pardon|reprieves]].<ref>NV Const. art. V, § 13.</ref>
+
+The governor of Nevada serves a four-year term.<ref>NV Const. art. V, § 2</ref> An amendment in 1970 limits them to two terms, even if they are non-consecutive.<ref>NV Const. art. V, § 3</ref> The [[lieutenant governor of Nevada]] is officially not elected on the same ticket as the governor. Should there be a vacancy in the office of governor, the powers devolve onto the lieutenant governor.
+
+The current governor is [[Nevada Republican Party|Republican]] [[Joe Lombardo]], who took office on January 2, 2023.
+
+==List of governors==
+===Territory of Nevada===
+[[Nevada Territory]] was formed on March 2, 1861, from [[Utah Territory]].<ref>{{usstat|12|209}}</ref> It had only one governor appointed by the [[president of the United States]] before it became a state. 
+
+Before it was organized as a territory, a local convention in [[Genoa, Nevada|Genoa]] elected [[Isaac Roop]] provisional governor, taking office on December 15, 1859.<ref name="LA-19371016">{{Cite web |last=Bruce |first=A. T. |date=October 16, 1937 |title=An Editorial Estimate Seventy Years Ago 1886 |url=http://users.psln.com/pete/roop_isaac.htm |access-date=November 16, 2010 |website=Lassen Advocate}}</ref>
+
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|+ Governor of the Territory of Nevada
+!scope="colgroup" colspan="2"|Governor
+!scope="col"|Term in office
+!scope="col"|Appointed by
+|- style="height:2em;"
+|[[File:James_W._Nye_-_Brady-Handy.jpg|75px]]
+|'''[[James W. Nye]]'''<br>{{Small|(1815–1876)}}<br>{{sfn|McMullin|1984|pp=231–233}}<ref name="nga-nye">{{Cite web |title=James Warren Nye |url=https://www.nga.org/governor/james-warren-nye/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|March 22, 1861{{efn|Nye was nominated on March 20, 1861;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., special sess., [https://books.google.com/books?id=5i8tAQAAMAAJ&pg=PA318 318], accessed March 29, 2023.</ref> confirmed by the Senate on March 22;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., special sess., [https://books.google.com/books?id=5i8tAQAAMAAJ&pg=PA328 328], accessed March 29, 2023.</ref> and arrived in the territory on July 8.{{sfn|McMullin|1984|pp=231–233}}}}<br />&ndash;<br />December 5, 1864<br>{{small|(1355 days; statehood)}}
+|[[Abraham Lincoln]]
+|}
+
+===State of Nevada===
+Nevada was [[admission to the Union|admitted to the Union]] on October 31, 1864.<ref>{{usstat|13|749}}</ref> There have been thirty one governors since. The longest-serving governor was [[Bob Miller (Nevada politician)|Bob Miller]], who served two and a half terms from 1989 to 1999; the shortest-serving governor was [[Frank Bell (governor)|Frank Bell]], who acted as governor for the remaining four months of [[Charles C. Stevenson]]'s term upon the governor's death. The current governor is [[Joe Lombardo]], who took office on January 2, 2023.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Nevada
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Nevada|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1 
+|rowspan="2" data-sort-value="Blasdel, Henry"|[[File:Henry Goode Blasdel.jpg|75px]]
+|rowspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|rowspan="2"|'''[[Henry G. Blasdel]]'''<br>{{Small|(1825–1900)}}<br>{{sfn|Sobel|1978|p=921}}<ref name="nga-blasdel">{{Cite web |title=Henry Goode Blasdel |url=https://www.nga.org/governor/henry-goode-blasdel/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2220"|December 5, 1864<ref>{{Cite news |date=1864-12-05 |title=The Inauguration |page=2 |work=Gold Hill Daily News |url=https://www.newspapers.com/article/121921956/blasdel-inaugurated-december-5/ |access-date=2023-03-30}}</ref><br />–<br />January 2, 1871<br>{{small|(2220 days; retired)}}{{sfn|Sobel|1978|p=921}}
+|rowspan="2"|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1864 Nevada gubernatorial election|1864]]
+|rowspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|John S.|Crosman|nolink=1}}
+|- style="height:2em;"
+|[[1866 Nevada gubernatorial election|1866]]
+|{{sortname|James S.|Slingerland}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Bradley, Lewis"|[[File:Lewis Rice Bradley.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Lewis R. Bradley]]'''<br>{{Small|(1805–1879)}}<br>{{sfn|Sobel|1978|pp=921–922}}<ref name="nga-bradley">{{Cite web |title=Lewis Rice Bradley |url=https://www.nga.org/governor/lewis-rice-bradley/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2928"|January 2, 1871<ref>Nebraska Legislature. ''Journal of the Assembly''. 5th sess., 1871, [https://asm.leg.state.nv.us/Journals/1871%205th%20Session%20Journal%20of%20the%20Nevada%20State%20Assembly.pdf 8], accessed March 29, 2023.</ref><br />–<br />January 7, 1879<br>{{small|(2928 days; lost election)}}
+|rowspan="2"|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1870 Nevada gubernatorial election|1870]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Frank|Denver|nolink=1}}
+|- style="height:2em;"
+|[[1874 Nevada gubernatorial election|1874]]
+|rowspan="2"|{{sortname|Jewett W.|Adams}}{{efn|Represented the [[Nevada Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Kinkead, John"|[[File:John Henry Kinkead.gif|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John Henry Kinkead]]'''<br>{{Small|(1826–1904)}}<br>{{sfn|Sobel|1978|p=922}}<ref name="nga-kinkead">{{Cite web |title=John Henry Kinkead |url=https://www.nga.org/governor/john-henry-kinkead/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1456"|January 7, 1879<ref>Nebraska Legislature. ''Journal of the Assembly''. 9th sess., 1879, [https://asm.leg.state.nv.us/Journals/1879%209th%20Session%20Journal%20of%20the%20Nevada%20State%20Assembly.pdf 15], accessed March 29, 2023.</ref><br />–<br />January 1, 1883<br>{{small|(1456 days; retired)}}{{sfn|Sobel|1978|p=922}}
+|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1878 Nevada gubernatorial election|1878]]
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Adams, Jewett"|[[File:Adams.jpeg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Jewett W. Adams]]'''<br>{{Small|(1835–1920)}}<br>{{sfn|Sobel|1978|pp=922–923}}<ref name="nga-adams">{{Cite web |title=Jewett William Adams |url=https://www.nga.org/governor/jewett-william-adams/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 1, 1883<ref>{{Cite news |date=1883-01-02 |title=The Inaugural |page=3 |work=The Daily Appeal |url=https://www.newspapers.com/article/121924566/adams-inaugurated-january-1/ |access-date=2023-03-30}}</ref><br />–<br />January 3, 1887<br>{{small|(1464 days; lost election)}}
+|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1882 Nevada gubernatorial election|1882]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Charles E.|Laughton}}{{efn|Represented the [[Nevada Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|5
+|rowspan="3" data-sort-value="Stevenson, Charles"|[[File:Stevenson.jpeg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Charles C. Stevenson]]'''<br>{{Small|(1826–1890)}}<br>{{sfn|Sobel|1978|p=923}}<ref name="nga-stevenson">{{Cite web |title=Charles Clark Stevenson |url=https://www.nga.org/governor/charles-clark-stevenson/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1358"|January 3, 1887<ref>{{Cite news |date=1887-01-07 |title=The Governor's Message |page=2 |work=The Silver State |url=https://www.newspapers.com/article/121924915/stevensons-inaugural-message-dated/ |access-date=2023-03-30}}</ref><br />–<br />September 21, 1890<br>{{small|(1358 days; died in office)}}
+|rowspan="3"|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|rowspan="3"|[[1886 Nevada gubernatorial election|1886]]
+|{{sortname|Henry C.|Davis|Henry C. Davis (Nevada politician)}}<br>{{small|(died)}}
+|- style="height:2em;"
+|{{sortname|Samuel W.|Chubbuck|nolink=1}}<br>{{small|(resigned)}}
+|- style="height:2em;"
+|{{sortname|Frank|Bell|Frank Bell (governor)}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Bell, Frank"|[[File:Frank Bell (Nevada Governor).jpg|75px]]
+|'''[[Frank Bell (governor)|Frank Bell]]'''<br>{{Small|(1840–1927)}}<br>{{sfn|Sobel|1978|pp=923–924}}<ref name="nga-bell">{{Cite web |title=Frank Jardine Bell |url=https://www.nga.org/governor/frank-jardine-bell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="107"|September 21, 1890<ref>{{Cite news |date=1890-09-25 |title=Unprecedented |page=3 |work=Daily Independent |url=https://www.newspapers.com/article/121937148/bell-succeeds-stevenson/ |access-date=2023-03-30}}</ref><br />–<br />January 5, 1891<br>{{small|(107 days; retired)}}
+|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Colcord, Roswell"|[[File:Roswell K. Colcord.jpg|75px]]
+|'''[[Roswell K. Colcord]]'''<br>{{Small|(1839–1939)}}<br>{{sfn|Sobel|1978|pp=924–925}}<ref name="nga-colcord">{{Cite web |title=Roswell Keyes Colcord |url=https://www.nga.org/governor/roswell-keyes-colcord/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1465"|January 5, 1891<ref>{{Cite news |date=1891-01-17 |title=Governor Colcord Sworn In |page=3 |work=[[Pioche Record|The Pioche Record]] |url=https://www.newspapers.com/article/121937325/colcord-inaugurated-january-5/ |access-date=2025-02-10|via=[[Newspapers.com]]}}</ref><br />–<br />January 8, 1895<br>{{small|(1465 days; retired)}}{{sfn|Sobel|1978|pp=924–925}}
+|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1890 Nevada gubernatorial election|1890]]
+|{{sortname|Joseph|Poujade}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Jones, John"|[[File:Jones.jpeg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Silver Party}};" title="Represented the Silver Party"|
+|'''[[John Edward Jones (governor)|John Edward Jones]]'''<br>{{Small|(1840–1896)}}<br>{{sfn|Sobel|1978|p=925}}<ref name="nga-jones">{{Cite web |title=John Edward Jones |url=https://www.nga.org/governor/john-edward-jones/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="459"|January 8, 1895<ref>{{Cite news |date=1895-01-10 |title=A New Era |page=3 |work=The Silver State |url=https://www.newspapers.com/article/121937531/jones-inaugurated-january-8/ |access-date=2023-03-30}}</ref><br />–<br />April 10, 1896<br>{{small|(459 days; died in office)}}
+|[[Silver Party|Silver]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1894 Nevada gubernatorial election|1894]]
+|rowspan="6" style="color:inherit;background: {{party color|Silver Party}};" title="Represented the Silver Party"|
+|{{sortname|Reinhold|Sadler}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Sadler, Reinhold"|[[File:Sadler.jpeg|75px]]
+|rowspan="2"|'''[[Reinhold Sadler]]'''<br>{{Small|(1848–1906)}}<br>{{sfn|Sobel|1978|pp=925–926}}<ref name="nga-sadler">{{Cite web |title=Reinhold Sadler |url=https://www.nga.org/governor/reinhold-sadler/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2461"|April 10, 1896<ref>{{Cite news |date=1896-04-11 |title=Governor Jones Dead |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/31729639/reno-gazette-journal/ |access-date=2023-03-30}}</ref><br />–<br />January 5, 1903<br>{{small|(2461 days; retired)}}{{sfn|Sobel|1978|pp=925–926}}
+|rowspan="2"|[[Silver Party|Silver]]{{sfn|Kallenbach|1977|pp=367–368}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+|[[1898 Nevada gubernatorial election|1898]]
+|{{sortname|James R.|Judge|nolink=1}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Sparks, John"|[[File:JohnSparks.jpg|75px]]
+|rowspan="2"|'''[[John Sparks (Nevada politician)|John Sparks]]'''<br>{{Small|(1843–1908)}}<br>{{sfn|Sobel|1978|p=926}}<ref name="nga-sparks">{{Cite web |title=John Sparks |url=https://www.nga.org/governor/john-sparks/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1965"|January 5, 1903<ref>{{Cite news |date=1903-01-05 |title=John Sparks Is Governor |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/121937694/john-sparks-is-governor/ |access-date=2023-03-30}}</ref><br />–<br />May 22, 1908<br>{{small|(1965 days; died in office)}}
+|rowspan="2"|[[Silver Party|Silver-<br>Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1902 Nevada gubernatorial election|1902]]
+|{{sortname|Lemuel|Allen|nolink=1}}
+|- style="height:2em;"
+|[[1906 Nevada gubernatorial election|1906]]
+|{{sortname|Denver S.|Dickerson}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Dickerson, Denver"|[[File:Denver S. Dickerson, c. 1908–1910 (cropped).jpg|75px]]
+|'''[[Denver S. Dickerson]]'''<br>{{Small|(1872–1925)}}<br>{{sfn|Sobel|1978|p=927}}<ref name="nga-dickerson">{{Cite web |title=Denver Sylvester Dickerson |url=https://www.nga.org/governor/denver-sylvester-dickerson/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="956"|May 22, 1908<ref>{{Cite news |date=1908-05-23 |title=D.S. Dickerson Is Now Governor |page=1 |work=The Daily Appeal |url=https://www.newspapers.com/article/121937783/ds-dickerson-is-now-governor/ |access-date=2023-03-30}}</ref><br />–<br />January 2, 1911<br>{{small|(956 days; lost election)}}
+|[[Silver Party|Silver-<br>Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Oddie, Tasker"|[[File:Tasker Oddie, c. 1911–1914 (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Tasker Oddie]]'''<br>{{Small|(1870–1950)}}<br>{{sfn|Sobel|1978|pp=927–928}}<ref name="nga-oddie">{{Cite web |title=Tasker Lowndes Oddie |url=https://www.nga.org/governor/tasker-lowndes-oddie/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 2, 1911<ref>{{Cite news |date=1911-01-03 |title=New State Officers |page=3 |work=Daily Independent |url=https://www.newspapers.com/article/121937837/new-state-officers/ |access-date=2023-03-30}}</ref><br />–<br />January 4, 1915<br>{{small|(1464 days; lost election)}}
+|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1910 Nevada gubernatorial election|1910]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Gilbert C.|Ross|nolink=1}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Boyle, Emmet"|[[File:Emmet D. Boyle.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Emmet D. Boyle]]'''<br>{{Small|(1879–1926)}}<br>{{sfn|Sobel|1978|pp=928–929}}<ref name="nga-boyle">{{Cite web |title=Emmet Derby Boyle |url=https://www.nga.org/governor/emmet-derby-boyle/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 4, 1915<ref>{{Cite news |date=1915-01-05 |title=Simple Ceremonies Mark Inauguration |page=1 |work=Daily Independent |url=https://www.newspapers.com/article/121937922/simple-ceremonies-mark-inauguration/ |access-date=2023-03-30}}</ref><br />–<br />January 1, 1923<br>{{small|(2920 days; retired)}}{{sfn|Sobel|1978|pp=928–929}}
+|rowspan="2"|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1914 Nevada gubernatorial election|1914]]
+|rowspan="3"|{{sortname|Maurice J.|Sullivan}}
+|- style="height:2em;"
+|[[1918 Nevada gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Scrugham, James"|[[File:James G. Scrugham (Nevada Governor and US Senator).jpg|75px]]
+|'''[[James G. Scrugham]]'''<br>{{Small|(1880–1945)}}<br>{{sfn|Sobel|1978|p=929}}<ref name="nga-scrugham">{{Cite web |title=James Graves Scrugham |url=https://www.nga.org/governor/james-graves-scrugham/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 1, 1923<ref>{{Cite news |date=1922-12-27 |title=Colonel J.G. Scrugham Takes Oath of Office |page=1 |work=Nevada State Journal |url=https://www.newspapers.com/article/121938312/colonel-jg-scrugham-takes-oath-of/ |access-date=2023-03-30}}</ref><br />–<br />January 3, 1927<br>{{small|(1464 days; lost election)}}
+|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1922 Nevada gubernatorial election|1922]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Balzar, Fred"|[[File:Fred B. Balzar, c. 1927–1934 (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Fred B. Balzar]]'''<br>{{Small|(1880–1934)}}<br>{{sfn|Sobel|1978|p=930}}<ref name="nga-balzar">{{Cite web |title=Frederick Bennett Balzar |url=https://www.nga.org/governor/frederick-bennett-balzar-2/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2635"|January 3, 1927<ref>{{Cite news |date=1927-01-03 |title=Simple Ceremony Gives to State New Executive Head Today |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/121938601/simple-ceremony-gives-to-state-new/ |access-date=2023-03-30}}</ref><br />–<br />March 21, 1934<br>{{small|(2635 days; died in office)}}
+|rowspan="2"|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1926 Nevada gubernatorial election|1926]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Morley|Griswold}}
+|- style="height:2em;"
+|[[1930 Nevada gubernatorial election|1930]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Griswold, Morley"|[[File:Morley Griswold, 1934 (cropped).jpg|75px]]
+|'''[[Morley Griswold]]'''<br>{{Small|(1890–1951)}}<br>{{sfn|Sobel|1978|pp=930–931}}<ref name="nga-griswold">{{Cite web |title=Morley Isaac Griswold |url=https://www.nga.org/governor/morley-isaac-griswold/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="293"|March 21, 1934<ref>{{Cite news |date=1934-03-22 |title=Morley Griswold Assumes Duties As Executive of Nevada |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122146481/morley-griswold-assumes-duties-as/ |access-date=2023-04-02}}</ref><br />–<br />January 7, 1935<br>{{small|(293 days; lost election)}}
+|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Kirman, Richard"|[[File:Richard Kirman Sr. (Nevada Governor).jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Richard Kirman Sr.]]'''<br>{{Small|(1877–1959)}}<br>{{sfn|Sobel|1978|p=931}}<ref name="nga-kirman">{{Cite web |title=Richard Kirman |url=https://www.nga.org/governor/richard-kirman/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 7, 1935<ref>{{Cite news |date=1935-01-08 |title=Richard Kirman Becomes 18th Nevada Governor |page=7 |work=Nevada State Journal |url=https://www.newspapers.com/article/122146713/richard-kirman-becomes-18th-nevada/ |access-date=2023-04-02}}</ref><br />–<br />January 2, 1939<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|p=931}}
+|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1934 Nevada gubernatorial election|1934]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Fred S.|Alward}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Carville, Edward"|[[File:Edward P. Carville (Nevada Governor and U.S. Senator).jpg|75px]]
+|rowspan="2"|'''[[Edward P. Carville]]'''<br>{{Small|(1885–1956)}}<br>{{sfn|Sobel|1978|pp=931–932}}<ref name="nga-carville">{{Cite web |title=Edward Peter Carville |url=https://www.nga.org/governor/edward-peter-carville/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2396"|January 2, 1939<ref>{{Cite news |date=1939-01-03 |title=E. P. Carville Inaugurated As Nevada's Governor in Brief Ceremony at Capital |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122147114/e-p-carville-inaugurated-as-nevadas/ |access-date=2023-04-02}}</ref><br />–<br />July 24, 1945<br>{{small|(2396 days; resigned)}}{{efn|Carville resigned so that his successor would appoint him to the [[United States Senate]].{{sfn|Sobel|1978|pp=931–932}}}}
+|rowspan="2"|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1938 Nevada gubernatorial election|1938]]
+|{{sortname|Maurice J.|Sullivan}}
+|- style="height:2em;"
+|[[1942 Nevada gubernatorial election|1942]]
+|{{sortname|Vail|Pittman}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Pittman, Vail"|[[File:Vail Pittman, 1940s (cropped).jpg|75px]]
+|rowspan="2"|'''[[Vail Pittman]]'''<br>{{Small|(1880–1964)}}<br>{{sfn|Sobel|1978|pp=932–933}}<ref name="nga-pittman">{{Cite web |title=Vail Montgomery Pittman |url=https://www.nga.org/governor/vail-montgomery-pittman/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1989"|July 24, 1945<ref>{{Cite news |date=1945-07-25 |title=Carville Will Leave for Capital Today; Pittman Takes Over |page=1 |work=Nevada State Journal |url=https://www.newspapers.com/article/122399354/carville-will-leave-for-capital-today/ |access-date=2023-04-06}}</ref><br />–<br />January 2, 1951<br>{{small|(1989 days; lost election)}}
+|rowspan="2"|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+|[[1946 Nevada gubernatorial election|1946]]
+|rowspan="2"|{{sortname|Clifford A.|Jones}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Russell, Charles"|[[File:Charles H. Russell, c. 1951–1958 (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Charles H. Russell]]'''<br>{{Small|(1903–1989)}}<br>{{sfn|Sobel|1978|p=933}}<ref name="nga-russell">{{Cite web |title=Charles Hinton Russell |url=https://www.nga.org/governor/charles-hinton-russell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2926"|January 2, 1951<ref>{{Cite news |date=1951-01-03 |title=Oaths Are Taken by New Officials |page=12 |work=Nevada State Journal |url=https://www.newspapers.com/article/122399983/oaths-are-taken-by-new-officials/ |access-date=2023-04-06}}</ref><br />–<br />January 5, 1959<br>{{small|(2926 days; lost election)}}
+|rowspan="2"|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1950 Nevada gubernatorial election|1950]]
+|- style="height:2em;"
+|[[1954 Nevada gubernatorial election|1954]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Rex|Bell}}{{efn|name=lt-rep}}<br>{{small|(died July 4, 1962)}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|21
+|rowspan="3" data-sort-value="Sawyer, Grant"|[[File:Grant Sawyer (1967).png|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Grant Sawyer]]'''<br>{{Small|(1918–1996)}}<br>{{sfn|Sobel|1978|p=934}}<ref name="nga-sawyer">{{Cite web |title=Grant Sawyer |url=https://www.nga.org/governor/grant-sawyer/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2920"|January 5, 1959<ref>{{Cite news |date=1959-01-05 |title=Crowd Sees Inauguration |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122403511/sawyer-sworn-in-january-5/ |access-date=2023-04-06}}</ref><br />–<br />January 2, 1967<br>{{small|(2920 days; lost election)}}
+|rowspan="3"|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|rowspan="2"|[[1958 Nevada gubernatorial election|1958]]
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Maude|Frazier}}<br>{{small|(appointed)}}
+|- style="height:2em;"
+|[[1962 Nevada gubernatorial election|1962]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Paul|Laxalt}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Laxalt, Paul"|[[File:Governor Laxalt.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Paul Laxalt]]'''<br>{{Small|(1922–2018)}}<br>{{sfn|Sobel|1978|pp=934–935}}<ref name="nga-laxalt">{{Cite web |title=Paul Dominque Laxalt |url=https://www.nga.org/governor/paul-dominque-laxalt/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 2, 1967<ref>{{Cite news |date=1967-01-03 |title=Laxalt Takes Office As Nevada's Governor |page=1 |work=Nevada State Journal |url=https://www.newspapers.com/article/122426272/laxalt-takes-office-as-nevadas-governor/ |access-date=2023-04-07}}</ref><br />–<br />January 4, 1971<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=934–935}}
+|[[Nevada Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1966 Nevada gubernatorial election|1966]]
+|{{sortname|Edward|Fike}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="O'Callaghan, Mike"|[[File:Mike O'Callaghan, c. 1970s (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Mike O'Callaghan]]'''<br>{{Small|(1929–2004)}}<br>{{sfn|Sobel|1978|p=935}}<ref name="nga-ocallaghan">{{Cite web |title=Mike O'Callaghan |url=https://www.nga.org/governor/mike-ocallaghan/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 4, 1971<ref>{{Cite news |date=1971-01-04 |title=O'Callaghan in Governorship With Ceremonies at Carson |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122426364/ocallaghan-in-governorship-with/ |access-date=2023-04-07}}</ref><br />–<br />January 1, 1979<br>{{small|(2920 days; term-limited)}}{{efn|Under a 1970 amendment to the constitution, governors are ineligible to be elected more than twice.<ref>{{Cite web |title=Nev. Const. art. V, § 3 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NV%27&CID=188&art=&sec=&amd=69&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits}}
+|rowspan="2"|[[Nevada Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=367–368}}
+|[[1970 Nevada gubernatorial election|1970]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Harry|Reid}}
+|- style="height:2em;"
+|[[1974 Nevada gubernatorial election|1974]]
+|{{sortname|Robert E.|Rose}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="List, Robert"|[[File:Robert List (NV) (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Robert List]]'''<br>{{small|({{Abbr|b.|born in}} 1936)}}<br><ref name="nga-list">{{Cite web |title=Robert Frank List |url=https://www.nga.org/governor/robert-frank-list/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 1, 1979<ref>{{Cite news |last=Volek |first=Sue |date=1979-01-01 |title=It's Official – List Now Governor |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122426416/its-official-list-now-governor/ |access-date=2023-04-07}}</ref><br />–<br />January 3, 1983<br>{{small|(1464 days; lost election)}}
+|[[Nevada Republican Party|Republican]]<ref name="nga-list" />
+|[[1978 Nevada gubernatorial election|1978]]
+|{{sortname|Myron E.|Leavitt}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Bryan, Richard"|[[File:Richard Bryan (NV).png|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Richard Bryan]]'''<br>{{small|({{Abbr|b.|born in}} 1937)}}<br><ref name="nga-bryan">{{Cite web |title=Richard H. Bryan |url=https://www.nga.org/governor/richard-h-bryan/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2193"|January 3, 1983<ref>{{Cite news |last=McFarren |first=Jack |date=1983-01-03 |title=Bryan Officially Becomes Nevada's 25th Governor |page=1 |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122426441/bryan-officially-becomes-nevadas-25th/ |access-date=2023-04-07}}</ref><br />–<br />January 3, 1989<br>{{small|(2193 days; resigned)}}{{efn|Bryan resigned, having been [[1988 United States Senate election in Nevada|elected]] to the [[United States Senate]].<ref name="nga-bryan" />}}
+|rowspan="2"|[[Nevada Democratic Party|Democratic]]<ref name="nga-bryan" />
+|[[1982 Nevada gubernatorial election|1982]]
+|{{sortname|Bob|Cashell}}
+|- style="height:2em;"
+|[[1986 Nevada gubernatorial election|1986]]
+|{{sortname|Bob|Miller|Bob Miller (Nevada politician)}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Miller, Bob"|[[File:Bob Miller at an event, Dec 22, 1994 - cropped to Miller.jpg|75px]]
+|rowspan="3"|'''[[Bob Miller (Nevada politician)|Bob Miller]]'''<br>{{small|({{Abbr|b.|born in}} 1945)}}<br><ref name="nga-miller">{{Cite web |title=Bob Miller |url=https://www.nga.org/governor/bob-miller/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="3654"|January 3, 1989<ref>{{Cite news |last=Melton |first=Wayne |date=1989-01-04 |title=Nearly 100 Nevadans on Hand As Bryan Takes Senate Oath |page=1A |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/121687439/nearly-100-nevadans-on-hand-as-bryan/ |access-date=2023-04-07}}</ref><br />–<br />January 4, 1999<br>{{small|(3654 days; term-limited)}}{{efn|name=limits}}
+|rowspan="3"|[[Nevada Democratic Party|Democratic]]<ref name="nga-miller" />
+|style="background:#EEEEEE;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+|[[1990 Nevada gubernatorial election|1990]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Sue|Wagner}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1994 Nevada gubernatorial election|1994]]
+|{{sortname|Lonnie|Hammargren}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2"| 27
+|rowspan="2" data-sort-value="Guinn, Kenny"|[[File:Kenny Guinn.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Kenny Guinn]]'''<br>{{Small|(1936–2010)}}<br><ref name="nga-guinn">{{Cite web |title=Kenny Guinn |url=https://www.nga.org/governor/kenny-guinn/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 4, 1999<ref>{{Cite news |last=O'Driscoll |first=Bill |date=1999-01-05 |title=Guinn Takes Oath As Nevada's 28th Governor |page=1A |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122426595/guinn-takes-oath-as-nevadas-28th/ |access-date=2023-04-07}}</ref><br />–<br />January 1, 2007<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Nevada Republican Party|Republican]]<ref name="nga-guinn" />
+|[[1998 Nevada gubernatorial election|1998]]
+|rowspan="2"|{{sortname|Lorraine|Hunt}}
+|- style="height:2em;"
+|[[2002 Nevada gubernatorial election|2002]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Gibbons, Jim"|[[File:Jimgibbons.jpg|75px]]
+|'''[[Jim Gibbons (American politician)|Jim Gibbons]]'''<br>{{small|({{Abbr|b.|born in}} 1944)}}<br><ref name="nga-gibbons">{{Cite web |title=Jim Gibbons |url=https://www.nga.org/governor/jim-gibbons/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 1, 2007<ref>{{Cite news |last=Hagar |first=Ray |date=2007-01-02 |title=Incoming Chief Fills Top Security Posts After Taking Oath Just After Midnight |page=1A |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122426656/incoming-chief-fills-top-security-posts/ |access-date=2023-04-07}}</ref><br />–<br />January 3, 2011<br>{{small|(1464 days;<br>lost nomination)}}
+|[[Nevada Republican Party|Republican]]<ref name="nga-gibbons" />
+|[[2006 Nevada gubernatorial election|2006]]
+|rowspan="2"|{{sortname|Brian|Krolicki}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Sandoval, Brian"|[[File:Brian Sandoval 2010 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Brian Sandoval]]'''<br>{{small|({{Abbr|b.|born in}} 1963)}}<br><ref name="nga-sandoval">{{Cite web |title=Brian Sandoval |url=https://www.nga.org/governor/brian-sandoval/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 3, 2011<ref>{{Cite news |last=Hagar |first=Ray |date=2011-01-04 |title=Sandoval Issues Call for Optimism |page=1A |work=Reno Gazette-Journal |url=https://www.newspapers.com/article/122426687/sandoval-issues-call-for-optimism/ |access-date=2023-04-07}}</ref><br />–<br />January 7, 2019<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Nevada Republican Party|Republican]]<ref name="nga-sandoval" />
+|[[2010 Nevada gubernatorial election|2010]]
+|- style="height:2em;"
+|[[2014 Nevada gubernatorial election|2014]]
+|{{sortname|Mark|Hutchison}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|30
+|rowspan="3" data-sort-value="Sisolak, Steve"|[[File:Steve Sisolak (cropped).jpeg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Steve Sisolak]]'''<br>{{small|({{Abbr|b.|born in}} 1953)}}<br><ref name="nga-sisolak">{{Cite web |title=Steve Sisolak |url=https://www.nga.org/governor/steve-sisolak/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1457"|January 7, 2019<ref>{{Cite news |last=DeHaven |first=James |title=Nevada Gov. Sisolak Delivers Emotional Inaugural Address on the Steps of the Capitol |language=en-US |url=https://www.rgj.com/story/news/politics/2019/01/07/hello-gov-steve-sisolak-hes-being-inaugurated-today-carson-city/2502858002/ |access-date=2023-04-07}}</ref><br />–<br />January 2, 2023<br>{{small|(1457 days; lost election)}}
+|rowspan="3"|[[Nevada Democratic Party|Democratic]]<ref name="nga-sisolak" />
+|rowspan="3"|[[2018 Nevada gubernatorial election|2018]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Kate|Marshall}}<br>{{small|(resigned September 17, 2021)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Lisa Cano|Burkhead}}<br>{{small|(appointed December 16, 2021)}}
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Lombardo, Joe"|[[File:Joe Lombardo by Gage Skidmore.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Joe Lombardo]]'''<br>{{small|({{Abbr|b.|born in}} 1962)}}<br><ref name="nga-lombardo">{{Cite web |title=Joe Lombardo |url=https://www.nga.org/governor/joe-lombardo/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2023|1|2|duration=on|format=no}}"|January 2, 2023<ref>{{Cite news |last=Stern |first=Gabe |date=2023-01-03 |title=Nevada Gov. Lombardo Stresses Unity in Inaugural Address |language=en |agency=Associated Press |url=https://apnews.com/article/politics-nevada-inaugurations-8ab67777173a075f971759cf8f27ce6f |access-date=2023-04-07}}</ref><br />–<br />Incumbent{{efn|Lombardo's term [[2026 Nevada gubernatorial election|will expire]] on January 4, 2027.}}<br>{{small|(in office {{Duration in days nts|2023|1|2|duration=on|format=no}} days)}}
+|[[Nevada Republican Party|Republican]]<ref name="nga-lombardo" />
+|[[2022 Nevada gubernatorial election|2022]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Stavros|Anthony}}
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Nevada governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1860.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1870
+ScaleMinor = unit:year increment:1 start:1861
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:silver  value:rgb(0.64, 0.75, 0.73)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1876 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1861.22 till:1864.93 color:noparty text:"James W. Nye"
+ from:1864.93 till:1871.01 color:rep text:"Henry G. Blasdel"
+ from:1871.01 till:1879.02 color:dem text:"Lewis R. Bradley"
+ from:1879.02 till:1883 color:rep text:"John Henry Kinkead"
+ from:1883 till:1887.01 color:dem text:"Jewett W. Adams"
+ from:1887.01 till:1890.72 color:rep text:"Charles C. Stevenson"
+ from:1890.72 till:1891.01 color:rep text:"Frank Bell"
+ from:1891.01 till:1895.02 color:rep text:"Roswell K. Colcord"
+ from:1895.02 till:1896.28 color:silver text:"John Edward Jones"
+ from:1896.28 till:1903.01 color:silver text:"Reinhold Sadler"
+ from:1903.01 till:1908.39 color:silver text:"John Sparks"
+ from:1908.39 till:1911.01 color:silver text:"Denver S. Dickerson"
+ from:1911.01 till:1915.01 color:rep text:"Tasker Oddie"
+ from:1915.01 till:1923 color:dem text:"Emmet D. Boyle"
+ from:1923 till:1927.01 color:dem text:"James G. Scrugham"
+ from:1927.01 till:1934.22 color:rep text:"Fred B. Balzar"
+ from:1934.22 till:1935.02 color:rep text:"Morley Griswold"
+ from:1935.02 till:1939.01 color:dem text:"Richard Kirman Sr."
+ from:1939.01 till:1945.56 color:dem text:"Edward P. Carville"
+ from:1945.56 till:1951.01 color:dem text:"Vail Pittman"
+ from:1951.01 till:1959.01 color:rep text:"Charles H. Russell"
+ from:1959.01 till:1967.01 color:dem text:"Grant Sawyer"
+ from:1967.01 till:1971.01 color:rep text:"Paul Laxalt"
+ from:1971.01 till:1979 color:dem text:"Mike O'Callaghan"
+ from:1979 till:1983.01 color:rep text:"Robert List"
+ from:1983.01 till:1989.01 color:dem text:"Richard Bryan"
+ from:1989.01 till:1999.01 color:dem text:"Bob Miller"
+ from:1999.01 till:2007 color:rep text:"Kenny Guinn"
+ from:2007 till:2011.01 color:rep text:"Jim Gibbons"
+ from:2011.01 till:2019.02 color:rep text:"Brian Sandoval"
+ from:2019.02 till:2023.01 color:dem text:"Steve Sisolak"
+ from:2023.01 till:$now color:rep text:"Joe Lombardo"
+
+LineData=
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==Electoral history (1950–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |[[Independent American Party of Nevada|Independent American]] nominee
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |[[Green Party (United States)|Green]] nominee
+! colspan="4" scope="col" |Other candidate
+! colspan="4" scope="col" |[[None of These Candidates]]
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1950 Nevada gubernatorial election|1950]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Vail Pittman]]
+| 26,164
+| 42.36%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Charles H. Russell]]'''
+| '''35,609'''
+| '''57.65%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1954 Nevada gubernatorial election|1954]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Vail Pittman]]
+| 36,797
+| 46.90%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Charles H. Russell]]'''
+| '''41,665'''
+| '''53.10%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1958 Nevada gubernatorial election|1958]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Grant Sawyer]]'''
+| '''50,864'''
+| '''59.92%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Charles H. Russell]]
+| 34,025
+| 40.08%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1962 Nevada gubernatorial election|1962]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Grant Sawyer]]'''
+| '''64,784'''
+| '''66.84%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Oran K. Gragson]]
+| 32,145
+| 33.16%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1966 Nevada gubernatorial election|1966]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Grant Sawyer]]
+| 65,870
+| 47.84%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Paul Laxalt]]'''
+| '''71,807'''
+| '''52.16%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1970 Nevada gubernatorial election|1970]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Mike O'Callaghan]]'''
+| '''70,697'''
+| '''48.10%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Ed Fike]]
+| 64,400
+| 43.81%
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Charles E. Springer]]
+| 6,479
+| 4.41%
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Daniel M. Hansen
+| 5,415
+| 3.68%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1974 Nevada gubernatorial election|1974]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Mike O'Callaghan]]'''
+| '''114,114'''
+| '''67.38%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Shirley Crumpler
+| 28,959
+| 17.10%
+| colspan=4| –
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| James Ray Houston
+| 26,285
+| 15.52%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1978 Nevada gubernatorial election|1978]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert E. Rose]]
+| 76,361
+| 39.68%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Robert List]]'''
+| '''108,097'''
+| '''56.17%'''
+| colspan=4| –
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Thomas F. Jefferson
+| 3,282
+| 1.71%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| John W. Grayson
+| 1,487
+| 0.77%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 3,218
+| 1.67%
+|-
+| [[1982 Nevada gubernatorial election|1982]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Richard Bryan]]'''
+| '''128,132'''
+| '''53.44%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Robert List]]
+| 100,104
+| 41.75%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Dan Becan
+| 4,621
+| 1.93%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 6,894
+| 2.88%
+|-
+| [[1986 Nevada gubernatorial election|1986]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Richard Bryan]]'''
+| '''187,268'''
+| '''71.92%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Patricia Cafferata]]
+| 65,081
+| 25.00%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Lou Tomburello
+| 2,555
+| 0.98%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 5,471
+| 2.10%
+|-
+| [[1990 Nevada gubernatorial election|1990]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Bob Miller (Nevada politician)|Bob Miller]]'''
+| '''207,878'''
+| '''64.81%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Jim Gallaway
+| 95,789
+| 29.86%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| James Frye
+| 8,059
+| 2.51%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 9,017
+| 2.81%
+|-
+| [[1994 Nevada gubernatorial election|1994]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Bob Miller (Nevada politician)|Bob Miller]]'''
+| '''200,026'''
+| '''52.68%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Jim Gibbons (American politician)|Jim Gibbons]]
+| 156,875
+| 41.32%
+| colspan=4| –
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Daniel M. Hansen
+| 10,012
+| 2.64%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Denis Sholty
+| 3,978
+| 1.05%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 8,785
+| 2.31%
+|-
+| [[1998 Nevada gubernatorial election|1998]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Jan Laverty Jones]]
+| 182,281
+| 42.04%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Kenny Guinn]]'''
+| '''223,892'''
+| '''51.63%'''
+| colspan=4| –
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Chuck Horne
+| 7,509
+| 1.73%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Terry C. Savage
+| 7,307
+| 1.69%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 12,641
+| 2.92%
+|-
+| [[2002 Nevada gubernatorial election|2002]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Joe Neal (politician)|Joe Neal]]
+| 110,935
+| 22.01%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Kenny Guinn]]'''
+| '''344,001'''
+| '''68.24%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Jerry L. Norton
+| 5,543
+| 1.10%
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| David G. Holmgren
+| 7,047
+| 1.40%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Dick Geyer
+| 8,104
+| 1.61%
+| bgcolor="{{party color|Green Party (United States)}}" |
+| Charles Laws
+| 4,775
+| 0.95%
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 23,674
+| 4.70%
+|-
+| [[2006 Nevada gubernatorial election|2006]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Dina Titus]]
+| 255,684
+| 43.92%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Jim Gibbons (American politician)|Jim Gibbons]]'''
+| '''279,003'''
+| '''47.93%'''
+| colspan=4| –
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Christopher H. Hansen
+| 20,019
+| 3.44%
+| colspan=4| –
+| bgcolor="{{party color|Green Party (United States)}}" |
+| Craig Bergland
+| 6,753
+| 1.16%
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 20,699
+| 3.56%
+|-
+| [[2010 Nevada gubernatorial election|2010]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Rory Reid (politician)|Rory Reid]]
+| 298,171
+| 41.61%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Brian Sandoval]]'''
+| '''382,350'''
+| '''53.56%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Eugene DiSimone
+| 6,403
+| 0.89%
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Floyd Fitzgibbons
+| 5,049
+| 0.70%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Arthur F. Lampitt
+| 4,672
+| 0.65%
+| bgcolor="{{party color|Green Party (United States)}}" |
+| David S. Curtis
+| 4,437
+| 0.62%
+| bgcolor="{{party color|Nonpartisan}}" |
+| Aaron Y. Honig
+| 3,216
+| 0.45%
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 12,231
+| 1.71%
+|-
+| [[2014 Nevada gubernatorial election|2014]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Bob Goodman
+| 130,722
+| 23.88%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Brian Sandoval]]'''
+| '''386,340'''
+| '''70.58%'''
+| colspan=4| –
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| David L. VanDerBeek
+| 14,536
+| 2.66%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 15,751
+| 2.88%
+|-
+| [[2018 Nevada gubernatorial election|2018]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Steve Sisolak]]'''
+| '''480,007'''
+| '''49.39%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Adam Laxalt]]
+| 440,320
+| 45.31%
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Ryan Bundy]]
+| 13,891
+| 1.43%
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Russell Best
+| 10,076
+| 1.04%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Jared Lord
+| 8,640
+| 0.89%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 18,865
+| 1.94%
+|-
+| [[2022 Nevada gubernatorial election|2022]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Steve Sisolak]]
+| 481,991
+| 47.30%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Joe Lombardo]]'''
+| '''497,377'''
+| '''48.81%'''
+| colspan=4| –
+| bgcolor="{{party color|Independent American Party of Nevada}}" |
+| Ed Bridges
+| 9,918
+| 0.97%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Brandon Davis
+| 14,919
+| 1.46%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|None}}" |
+| {{nowrap|[[None Of These Candidates|None Of These<br>Candidates]]}}
+| 14,866
+| 1.46%
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#Nevada]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former Nevada Governors |url=https://www.nga.org/former-governors/nevada/ |access-date=March 26, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Nevada - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=254 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+*[https://gov.nv.gov/ Office of the Governor of Nevada]
+
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Nevada}}
+{{Nevada statewide elected officials}}
+
+{{DEFAULTSORT:Nevada, List of Governors of}}
+[[Category:Lists of state governors of the United States|Nevada]]
+[[Category:Governors of Nevada|*]]
+[[Category:Lists of Nevada politicians|Governors]]

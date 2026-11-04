@@ -1,0 +1,1184 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+| post = Governor
+| body = Montana
+| insignia = Montana-StateSeal.svg
+| insignia_size = 110px
+| insignia_caption = [[Seal of Montana|State seal]]
+| flag = Flag of Montana.svg
+| flag_size = 145px
+| flag_alt = 
+| flag_border = 
+| flag_caption = [[Flag of Montana|State flag]]
+| image = File:Greg Gianforte in Taiwan (cropped).jpg
+| incumbent = [[Greg Gianforte]]
+| incumbent_since = January 4, 2021
+| style = The Honorable
+| department = [[Government of Montana]]
+| residence = [[Montana Governor's Residence]]
+| term_length = Four years, renewable once (limited to eight years in a sixteen year period)
+| formation = {{start date and age|1889|11|8|p=1|br=1}}
+| constituting_instrument = [[Montana Constitution#History|Montana Constitution of 1889]]
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Montana|Line of succession]]
+| deputy = [[Lieutenant Governor of Montana]]
+| inaugural = [[Joseph K. Toole]]
+| salary = $108,167 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/selected-state-administrative-officials-annual-salaries/ |title=Selected State Administrative Officials: Annual Salaries |publisher=The Council of State Governments |access-date=August 7, 2024}}</ref>
+| website = {{URL|governor.mt.gov}}
+}}
+The '''governor of Montana''' is the [[head of government]] of [[Montana]]<ref name="mnc-6-4">[[Montana Constitution]], Article VI, Section 4.</ref> and the commander-in-chief of the [[U.S. state|state's]] [[Montana National Guard|military forces]].<ref>[[Montana Constitution]], Article VI, Section 7.</ref> The governor has a duty to enforce state laws,<ref name="mnc-6-4" /> the power to either approve or veto bills passed by the [[Montana Legislature|Montana State Legislature]],<ref>[[Montana Constitution]], Article VI, Section 10.</ref> to convene the legislature at any time,<ref>[[Montana Constitution]], Article VI, Section 11.</ref> and to grant [[pardon]]s and [[pardon|reprieves]].<ref>[[Montana Constitution]], Article VI, Section 12.</ref>
+
+Montana has had twenty-four governors, consisting of nine [[Montana Republican Party|Republicans]] and fifteen [[Montana Democratic Party|Democrats]]. The longest-serving governor was [[Joseph Toole]], who served from 1889 to 1893 and again from 1901 until his resignation in 1908 with 11 years in office. He is the only governor to serve nonconsecutive terms. The shortest-serving governor was [[Elmer Holt]], who served less than thirteen months when the previous governor died. The current governor is Republican [[Greg Gianforte]], who took office on January 4, 2021.
+
+==List of governors==
+===Territory of Montana===
+[[Montana Territory]] was organized from [[Idaho Territory]] on May 26, 1864.<ref>{{usstat|13|85}}</ref> During its 35-year history, it had nine governors appointed by the [[president of the United States]], and three acting governors, all of whom had been appointed territorial secretary before becoming acting governor. The first, [[Thomas Francis Meagher]], served as acting governor from 1865 until 1867.<ref name="mthist">{{Cite web |author=Allen, Fredrick |date=Spring 2001 |title=Montana Vigilantes: and the Origins of the 3-7-77 |url=http://travel.mt.gov/history/Montana_the_Magazine_of_Western_History/montanavigilantes2.htm |url-status=dead |archive-url=https://web.archive.org/web/20081121162139/http://travel.mt.gov/history/Montana_the_Magazine_of_Western_History/montanavigilantes2.htm |archive-date=21 November 2008 |access-date=17 April 2008 |website=Governor of the State of Montana |publisher=Montana The Magazine of Western History |pages=3–19}}</ref> The second, [[James Tufts]], served in for one month in 1869,<ref>{{Cite book |last=Burlingame |first=Merrill Gildea |url=https://books.google.com/books?id=OkclAAAAMAAJ&q=%22james+tufts+served+as%22 |title=The Montana Frontier |date=1942 |publisher=State Publishing Company |location=Helena, MT |page=166}}</ref> and was succeeded by [[Wiley Scribner]], who served 1869–1870.<ref name="Scribner obit">{{Cite news |date=September 29, 1889 |title=Recorder Scribner Dead |page=11 |work=The Inter Ocean |url=https://www.newspapers.com/article/14513160/wiley-scribner-1840-1889/ |access-date=October 19, 2017 |via=[[Newspapers.com]]}} {{Open access}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Montana
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Edgerton, Sidney"|[[File:SEdgerton.jpg|75px]]
+|'''[[Sidney Edgerton]]'''<br>{{Small|(1818–1900)}}<br>{{sfn|McMullin|1984|pp=211–212}}
+|data-sort-value="752"|June 22, 1864{{efn|Edgerton was nominated on June 20, 1864,<ref>U.S. Congress. ''Senate Exec. Journal''. 38th Cong., 1st sess., [https://books.google.com/books?id=zlug2rKqTNsC&pg=PA590 590], accessed March 24, 2023.</ref> confirmed by the Senate on June 22,<ref>U.S. Congress. ''Senate Exec. Journal''. 38th Cong., 1st sess., [https://books.google.com/books?id=zlug2rKqTNsC&pg=PA594 594], accessed March 24, 2023.</ref> and arrived in the territory in July.{{sfn|McMullin|1984|pp=211–212}}}}<br />–<br />July 13, 1866<br>{{small|(752 days; replaced)}}{{efn|Edgerton left for Washington, D.C., in September 1865 to secure funding, but failed; he never formally resigned, but never returned to the territory. Territorial Secretary [[Thomas Francis Meagher]] acted as governor in the interim.{{sfn|McMullin|1984|pp=211–212}}<ref>{{Cite book |last=Goodspeed |first=Weston Arthur |url=https://books.google.com/books?id=GuUyAQAAIAAJ&q=%22sidney+edgerton%22+%22montana%22+funds+resigned&pg=PA419 |title=The Province and the States: Minnesota, Montana, North Dakota, South Dakota |date=1904 |publisher=Western Historical Association |volume=VI |location=Madison, WI |pages=419–420}}</ref>}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Smith, Green"|[[File:Green Clay Smith - Brady-Handy.jpg|75px]]
+|'''[[Green Clay Smith]]'''<br>{{Small|(1826–1895)}}<br>{{sfn|McMullin|1984|pp=212–213}}
+|data-sort-value="1002"|July 13, 1866{{efn|Smith was nominated on June 13, 1866;<ref>U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 1st sess., [https://books.google.com/books?id=FkRN8TGdjPYC&pg=PA862 862], accessed March 24, 2023.</ref> confirmed by the Senate on July 13;<ref>U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 1st sess., [https://books.google.com/books?id=FkRN8TGdjPYC&pg=PA920 920], accessed March 24, 2023.</ref> and arrived in the territory in October.{{sfn|McMullin|1984|pp=212–213}}}}<br />–<br />April 9, 1869<br>{{small|(1002 days; resigned)}}{{efn|Smith went east in July 1868 to secure funding, and never returned to the territory.<ref>{{Cite book |last=Malone |first=Michael P. |url=https://books.google.com/books?id=p-P59FkOPg0C&q=%22green+clay+smith%22+%22montana%22+%221868%22&pg=PA105 |title=Montana: A History of Two Centuries |date=1976 |publisher=University of Washington Press |isbn=978-0-295-97129-2 |location=Seattle, WA |page=105}}</ref> The nomination of his successor notes that he resigned, but with no further details.<ref name="ashley-nominated" /> Territorial Secretary [[James Tufts]] acted as governor in the interim.{{sfn|McMullin|1984|pp=212–213}}}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Ashley, James"|[[File:James Mitchell Ashley - Brady-Handy.jpg|75px]]
+|'''[[James Mitchell Ashley]]'''<br>{{Small|(1824–1896)}}<br>{{sfn|McMullin|1984|pp=214–215}}
+|data-sort-value="253"|April 9, 1869{{efn|Ashley was nominated on April 5, 1869;<ref name="ashley-nominated">U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 1st sess., [https://books.google.com/books?id=TRhHAQAAMAAJ&pg=PA81 81], accessed March 24, 2023.</ref> confirmed by the Senate on April 9;<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 1st sess., [https://books.google.com/books?id=TRhHAQAAMAAJ&pg=PA120 120], accessed March 24, 2023.</ref> and arrived in the territory that summer.{{sfn|McMullin|1984|pp=214–215}}}}<br />–<br />December 17, 1869<br>{{small|(253 days; removed)}}{{efn|Grant removed Ashley from office abruptly and nominated his successor on December 17, 1869; the office would remain vacant for six months, during which time Territorial Secretary [[Wiley Scribner]] acted as governor.{{sfn|McMullin|1984|pp=214–215}} McMullin says Grant gave no reason, but contemporary news reports offer several reasons, ranging from general fitness for the job to accusations of criticizing Grant's policies.<ref>{{Cite news |date=1869-12-31 |title=The Removal of Gov. Ashley |page=2 |work=Ottawa County Union |url=https://www.newspapers.com/article/121585598/the-removal-of-gov-ashley/ |access-date=2023-03-25}}</ref><ref>{{Cite book |last=Eblen |first=Jack Ericson |url=https://archive.org/details/firstsecondunit00eble |title=The First and Second United States Empires: Governors and Territorial Government, 1784-1912 |date=1968 |publisher=University of Pittsburgh Press |location=Pittsburgh, PA |page=283 |url-access=registration}}</ref><ref>{{Cite book |last=Toole |first=Kenneth Ross |url=https://books.google.com/books?id=2PuBxozvcTQC&pg=PA109 |title=Montana: An Uncommon Land |date=1959 |publisher=University of Oklahoma Press |isbn=9780806118901 |location=Norman, OK |page=109}}</ref>}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Potts, Benjamin"|[[File:Benjamin F Potts.jpg|75px]]
+|rowspan="2"|'''[[Benjamin F. Potts]]'''<br>{{Small|(1836–1887)}}<br>{{sfn|McMullin|1984|pp=215–216}}
+|rowspan="2" data-sort-value="4406"|July 13, 1870{{efn|Potts was nominated on December 17, 1869;<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 2nd sess., [https://books.google.com/books?id=TRhHAQAAMAAJ&pg=PA317 317], accessed March 24, 2023.</ref> confirmed by the Senate on July 13, 1870;<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 2nd sess., [https://books.google.com/books?id=TRhHAQAAMAAJ&pg=PA539 539], accessed March 24, 2023.</ref> and arrived in the territory on August 29.{{sfn|McMullin|1984|pp=215–216}} He was reconfirmed by the Senate on June 22, 1874,<ref>U.S. Congress. ''Senate Exec. Journal''. 43rd Cong., 1st sess., [https://books.google.com/books?id=QVoUAAAAYAAJ&pg=PA367 367], accessed March 24, 2023.</ref> and June 14, 1878.<ref>U.S. Congress. ''Senate Exec. Journal''. 45th Cong., 2nd sess., [https://books.google.com/books?id=cj2DLzVI238C&pg=PA354 354], accessed March 24, 2023.</ref>}}<br />–<br />August 4, 1882<br>{{small|(4406 days; replaced)}}{{efn|Crosby, Potts' successor, was confirmed by the Senate on August 4, 1882, and Potts continued to serve as governor until Crosby arrived on January 15, 1883.{{sfn|McMullin|1984|pp=215–216}}<ref name="crosby-arrived">{{Cite book |url=https://books.google.com/books?id=1FHCmVE3x2cC&pg=PA387 |title=Contributions to the Historical Society of Montana |date=1896 |publisher=State Publishing Company |volume=2 |location=Helena, MT |page=387}}</ref>}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+|{{sortname|Rutherford B.|Hayes}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Crosby, John"|[[File:John Schuyler Crosby.jpg|75px]]
+|'''[[John Schuyler Crosby]]'''<br>{{Small|(1839–1914)}}<br>{{sfn|McMullin|1984|pp=216–217}}
+|data-sort-value="831"|August 4, 1882{{efn|Crosby was nominated on July 26, 1882;<ref>U.S. Congress. ''Senate Exec. Journal''. 47th Cong., 1st sess., [https://books.google.com/books?id=5iZqp6LiAkkC&pg=PA497 497], accessed March 24, 2023.</ref> confirmed by the Senate on August 4;<ref>U.S. Congress. ''Senate Exec. Journal''. 47th Cong., 1st sess., [https://books.google.com/books?id=5iZqp6LiAkkC&pg=PA519 519], accessed March 24, 2023.</ref> and arrived in the territory on January 15, 1883.<ref name="crosby-arrived" />}}<br />–<br />November 11, 1884<br>{{small|(831 days; resigned)}}{{efn|Crosby resigned, having been appointed First Assistant United States Postmaster General.{{sfn|McMullin|1984|pp=216–217}}}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Carpenter, B."|[[File:Benjamin Platt Carpenter (Montana Territorial Governor).jpg|75px]]
+|'''[[B. Platt Carpenter]]'''<br>{{Small|(1837–1921)}}<br>{{sfn|McMullin|1984|pp=217–218}}
+|data-sort-value="194"|December 22, 1884{{efn|Carpenter was nominated on December 16, 1884;<ref>U.S. Congress. ''Senate Exec. Journal''. 48th Cong., 2nd sess., [https://books.google.com/books?id=Zd-tAAAAMAAJ&pg=PA387 387], accessed March 24, 2023.</ref> confirmed by the Senate on December 22;<ref>U.S. Congress. ''Senate Exec. Journal''. 48th Cong., 2nd sess., [https://books.google.com/books?id=Zd-tAAAAMAAJ&pg=PA402 402], accessed March 24, 2023.</ref> and arrived in the territory in January 1885.{{sfn|McMullin|1984|pp=217–218}}}}<br />–<br />July 3, 1885<br>{{small|(194 days; removed)}}{{efn|Carpenter was removed when Democrat [[Grover Cleveland]] succeeded Republican President [[Chester A. Arthur]].{{sfn|McMullin|1984|pp=217–218}}<ref>{{Cite book |last=Spence |first=Clark C. |url=https://archive.org/details/montanabicentenn00spen |title=Montana: A History |date=1978 |publisher=W. W. Norton & Company |isbn=978-0-393-34856-9 |location=New York, NY |page=86 |url-access=registration}}</ref>}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Hauser, Samuel"|[[File:Samuel Thomas Hauser.gif|75px]]
+|'''[[Samuel Thomas Hauser]]'''<br>{{Small|(1833–1914)}}<br>{{sfn|McMullin|1984|pp=218–219}}
+|data-sort-value="245"|May 14, 1886{{efn|Hauser was nominated on December 10, 1885,<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 1st sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA55 55], accessed March 24, 2023.</ref> and confirmed by the Senate on May 14, 1886.<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 1st sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA462 462], accessed March 24, 2023.</ref>}}<br />–<br />January 13, 1887<br>{{small|(245 days; resigned)}}{{efn|Hauser resigned in December 1886 to tend to his business interests. Leslie, Hauser's successor, was confirmed on January 13, 1887, and Hauser continued to serve as governor until Leslie arrived on February 8.{{sfn|McMullin|1984|pp=218–219}}}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Leslie, Preston"|[[File:PHLeslie.jpg|75px]]
+|'''[[Preston Leslie]]'''<br>{{Small|(1819–1907)}}<br>{{sfn|McMullin|1984|pp=219–220}}
+|data-sort-value="805"|January 13, 1887{{efn|Leslie was nominated on December 15, 1886;<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 2nd sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA647 647], accessed March 24, 2023.</ref> confirmed by the Senate on January 13, 1887;<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 2nd sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA698 698], accessed March 24, 2023.</ref> and sworn in February 8.{{sfn|McMullin|1984|pp=219–220}}}}<br />–<br />March 27, 1889<br>{{small|(805 days; replaced)}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="White, Benjami"|[[File:Benjamin Franklin White (Montana Territory Governor).jpg|75px]]
+|'''[[Benjamin F. White (Montana politician)|Benjamin F. White]]'''<br>{{Small|(1838–1920)}}<br>{{sfn|McMullin|1984|pp=220–221}}
+|data-sort-value="227"|March 27, 1889{{efn|White was nominated on March 26, 1889,<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA40 40], accessed March 24, 2023.</ref> and confirmed on March 27.<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA46 46], accessed March 24, 2023.</ref>}}<br />–<br />November 8, 1889<br>{{small|(227 days; statehood)}}
+|{{sortname|Benjamin|Harrison}}
+|}
+
+===State of Montana===
+Montana was [[Admission to the Union|admitted to the Union]] on November 8, 1889.<ref>{{usstat|25|676}}</ref>
+
+The current [[Constitution of Montana|Montana Constitution]], ratified in 1972, calls for a 4-year term for the governor, commencing on the first Monday in January following an election.<ref name="ReferenceA">[[Montana Constitution]], Article VI, Section 1.</ref> A 1992 amendment limits the governor to 8 years in any 16-year period.<ref>[[Montana Constitution]], Article IV, Section 8.</ref> The constitution provides for the election of a [[List of lieutenant governors of Montana|lieutenant governor]] for the same term as the governor. The two offices are elected on the same [[ticket (election)|ticket]];<ref name="ReferenceA" /> a provision which did not appear in the state's first constitution, ratified in 1889. In the event of a vacancy in the office of governor due to resignation, disqualification, or death, the lieutenant governor becomes governor for the remainder of the term. If the governor is unable to perform his duties for any other reason, the lieutenant governor may become acting governor at the discretion of the state legislature.<ref>[[Montana Constitution]], Article VI, Section 14.</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Montana
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[List of lieutenant governors of Montana|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Toole, Joseph"|[[File:JosephKToole.JPG|75px]]
+|style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|'''[[Joseph Toole]]'''<br>{{Small|(1851–1929)}}<br>{{sfn|Sobel|1978|p=873}}<ref name="nga-toole">{{Cite web |title=Joseph Kemp Toole |url=https://www.nga.org/governor/joseph-kemp-toole/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1152"|November 8, 1889<ref>{{Cite news |date=1889-11-09 |title=For Joseph K. Toole |page=1 |work=The Butte Miner |url=https://www.newspapers.com/article/121725379/for-joseph-k-toole/ |access-date=2023-03-27}}</ref><br />–<br />January 2, 1893<br>{{small|(1152 days; retired)}}{{sfn|Sobel|1978|p=873}}
+|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1889 Montana gubernatorial election|1889]]  
+|rowspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|John E.|Rickards}}{{efn|Represented the [[Montana Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Rickards, John"|[[File:John E Rickards.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John E. Rickards]]'''<br>{{Small|(1848–1927)}}<br>{{sfn|Sobel|1978|p=874}}<ref name="nga-rickards">{{Cite web |title=John Ezra Rickards |url=https://www.nga.org/governor/john-ezra-rickards/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 2, 1893<ref>{{Cite news |date=1893-01-03 |title=The Lower House |page=1 |work=The Anaconda Standard |url=https://www.newspapers.com/article/121725490/rickards-inaugurated-january-2/ |access-date=2023-03-27}}</ref><br />–<br />January 4, 1897<br>{{small|(1464 days; retired)}}
+|[[Montana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=349}}
+|[[1892 Montana gubernatorial election|1892]]  
+|{{sortname|Alexander Campbell|Botkin}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Smith, Robert"|[[File:Robert Burns Smith (Montana Governor).jpg|75px]]
+|style="background: #79CDCD;" title="Represented a Democratic-Populist fusion ticket"|
+|'''[[Robert Burns Smith]]'''<br>{{Small|(1854–1908)}}<br>{{sfn|Sobel|1978|pp=874–875}}<ref name="nga-smith">{{Cite web |title=Robert Burns Smith |url=https://www.nga.org/governor/robert-burns-smith/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 4, 1897<ref>{{Cite news |date=1897-01-04 |title=The Governor Sworn In |page=1 |work=The Butte Daily Post |url=https://www.newspapers.com/article/121725552/the-governor-sworn-in/ |access-date=2023-03-27}}</ref><br />–<br />January 7, 1901<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=874–875}}
+|[[Electoral fusion#United States|Fusion]]{{efn|Smith represented both the Democratic and [[Populist Party (United States)|Populist]] parties,{{sfn|Sobel|1978|pp=874–875}} with Glashan labeling him only as a Populist.{{sfn|Glashan|1979|p=181}}}}
+|[[1896 Montana gubernatorial election|1896]]  
+|style="color:inherit;background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|{{sortname|Archibald E.|Spriggs}}{{efn|Represented the [[Populist Party (United States)|Populist Party]]}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Toole, Joseph"|[[File:JosephKToole.JPG|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Joseph Toole]]'''<br>{{Small|(1851–1929)}}<br>{{sfn|Sobel|1978|p=873}}<ref name="nga-toole" />
+|rowspan="2" data-sort-value="2642"|January 7, 1901<ref>{{Cite news |date=1901-01-07 |title=Governor Toole Takes Office |page=1 |work=The Butte Daily Post |url=https://www.newspapers.com/article/121725593/governor-toole-takes-office/ |access-date=2023-03-27}}</ref><br />–<br />April 1, 1908<br>{{small|(2642 days; resigned)}}{{efn|Toole resigned due to health.{{sfn|Sobel|1978|p=873}}}}
+|rowspan="2"|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1900 Montana gubernatorial election|1900]] 
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Frank G.|Higgins}}
+|- style="height:2em;"
+|[[1904 Montana gubernatorial election|1904]] 
+|{{sortname|Edwin L.|Norris}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Norris, Edwin"|[[File:Edwin L. Norris (Montana Governor).jpg|75px]]
+|rowspan="2"|'''[[Edwin L. Norris]]'''<br>{{Small|(1865–1924)}}<br>{{sfn|Sobel|1978|pp=875–876}}<ref name="nga-norris">{{Cite web |title=Edwin Lee Norris |url=https://www.nga.org/governor/edwin-lee-norris/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1742"|April 1, 1908<ref>{{Cite news |date=1908-04-01 |title=It Will Be Gov. Norris Today |page=4 |work=The Butte Miner |url=https://www.newspapers.com/article/121725680/it-will-be-gov-norris-today/ |access-date=2023-03-27}}</ref><br />–<br />January 6, 1913<br>{{small|(1742 days; retired)}}
+|rowspan="2"|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Benjamin F.|White|dab=Montana politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1908 Montana gubernatorial election|1908]] 
+|{{sortname|William|Allen|dab=Montana politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Stewart, Sam"|[[File:Sam V. Stewart.jpg|75px]]
+|rowspan="2"|'''[[Sam V. Stewart]]'''<br>{{Small|(1872–1939)}}<br>{{sfn|Sobel|1978|pp=876–877}}<ref name="nga-stewart">{{Cite web |title=Samuel Vernon Stewart |url=https://www.nga.org/governor/samuel-vernon-stewart/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 6, 1913<ref>{{Cite news |date=1913-01-07 |title=Stewart Sworn In As Governor |page=1 |work=The Anaconda Standard |url=https://www.newspapers.com/article/121725855/stewart-sworn-in-as-governor/ |access-date=2023-03-27}}</ref><br />–<br />January 3, 1921<br>{{small|(2920 days; retired)}}
+|rowspan="2"|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1912 Montana gubernatorial election|1912]] 
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|W. W.|McDowell}}
+|- style="height:2em;"
+|[[1916 Montana gubernatorial election|1916]]  
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Dixon, Joseph"|[[File:Joseph M. Dixon.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Joseph M. Dixon]]'''<br>{{Small|(1867–1934)}}<br>{{sfn|Sobel|1978|p=877}}<ref name="nga-dixon">{{Cite web |title=Joseph Moore Dixon |url=https://www.nga.org/governor/joseph-moore-dixon/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 3, 1921<ref>{{Cite news |date=1921-01-04 |title=Joseph M. Dixon Is Inaugurated Chief Executive |page=1 |work=The Anaconda Standard |url=https://www.newspapers.com/article/121726378/joseph-m-dixon-is-inaugurated-chief/ |access-date=2023-03-27}}</ref><br />–<br />January 5, 1925<br>{{small|(1464 days; lost election)}}
+|[[Montana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=349}}
+|[[1920 Montana gubernatorial election|1920]] 
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Nelson|Story Jr.}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|8
+|rowspan="3" data-sort-value="Erickson, John"|[[File:John Erickson.jpg|75px]]
+|rowspan="8" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[John E. Erickson (Montana politician)|John E. Erickson]]'''<br>{{Small|(1863–1946)}}<br>{{sfn|Sobel|1978|p=878}}<ref name="nga-erickson">{{Cite web |title=John Edward Erickson |url=https://www.nga.org/governor/john-edward-erickson/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2990"|January 5, 1925<ref>{{Cite news |date=1925-01-06 |title=Wheels Wait to Turn at Capital |page=1 |work=The Billings Gazette |url=https://www.newspapers.com/article/121726495/wheels-wait-to-turn-at-capital/ |access-date=2023-03-27}}</ref><br />–<br />March 13, 1933<br>{{small|(2990 days; resigned)}}{{efn|Erickson resigned so that his successor would appoint him to the [[United States Senate]].{{sfn|Sobel|1978|p=878}}}}
+|rowspan="3"|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1924 Montana gubernatorial election|1924]] 
+|{{sortname|W. S.|McCormack}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1928 Montana gubernatorial election|1928]]  
+|{{sortname|Frank A.|Hazelbaker}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1932 Montana gubernatorial election|1932]]  
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Frank Henry|Cooney}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|9
+|rowspan="3" data-sort-value="Cooney, Frank"|[[File:Frank Henry Cooney.jpg|75px]]
+|rowspan="3"|'''[[Frank Henry Cooney]]'''<br>{{Small|(1872–1935)}}<br>{{sfn|Sobel|1978|pp=878–879}}<ref name="nga-cooney">{{Cite web |title=Frank Henry Cooney |url=https://www.nga.org/governor/frank-henry-cooney/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1008"|March 13, 1933<ref>{{Cite news |date=1933-03-14 |title=Erickson Is Montana Senator - Appointed by Cooney After Resignation |page=1 |work=The Missoulian |agency=Associated Press |url=https://www.newspapers.com/article/121726592/erickson-is-montana-senator-appointed/ |access-date=2023-03-27}}</ref><br />–<br />December 15, 1935<br>{{small|(1008 days; died in office)}}
+|rowspan="3"|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|rowspan="3" style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Tom|Kane|dab=politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|{{sortname|Ernest T.|Eaton}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Elmer|Holt}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Holt, Elmer"|[[File:W. Elmer Holt (Montana governor).jpg|75px]]
+|'''[[Elmer Holt]]'''<br>{{Small|(1884–1945)}}<br>{{sfn|Sobel|1978|pp=879–880}}<ref name="nga-holt">{{Cite web |title=William Elmer Holt |url=https://www.nga.org/governor/william-elmer-holt/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="387"|December 15, 1935<ref>{{Cite news |date=1935-12-16 |title=Senator Holt, Miles City, Is Governor, Following Demise of Frank H. Cooney |page=1 |work=Great Falls Tribune |url=https://www.newspapers.com/article/121726655/senator-holt-miles-city-is-governor/ |access-date=2023-03-27}}</ref><br />–<br />January 4, 1937<br>{{small|(387 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=879–880}}
+|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>president of<br>the Senate}}
+|[[William P. Pilgeram]]
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Ayers, Roy"|[[File:Roy E. Ayers.jpg|75px]]
+|'''[[Roy E. Ayers]]'''<br>{{Small|(1882–1955)}}<br>{{sfn|Sobel|1978|p=880}}<ref name="nga-ayers">{{Cite web |title=Roy Elmer Ayers |url=https://www.nga.org/governor/roy-elmer-ayers/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 4, 1937<ref>{{Cite news |date=1937-01-05 |title=Governor Moves Inaugural Rite Ahead to Allay Excitement of Father, Who Administered Oath |page=1 |work=Great Falls Tribune |agency=Associated Press |url=https://www.newspapers.com/article/121726778/governor-moves-inaugural-rite-ahead-to/ |access-date=2023-03-27}}</ref><br />–<br />January 6, 1941<br>{{small|(1464 days; lost election)}}
+|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1936 Montana gubernatorial election|1936]]  
+|{{sortname|Hugh R.|Adair}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|12
+|rowspan="2" data-sort-value="Ford, Sam"|[[File:Sam C. Ford.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Sam C. Ford]]'''<br>{{Small|(1882–1961)}}<br>{{sfn|Sobel|1978|p=881}}<ref name="nga-ford">{{Cite web |title=Samuel Clarence Ford |url=https://www.nga.org/governor/samuel-clarence-ford/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 6, 1941<ref>{{Cite news |date=1941-01-07 |title=Governor Is Paid Tribute At Reception |page=1 |work=The Missoulian |agency=Associated Press |url=https://www.newspapers.com/article/121726846/governor-is-paid-tribute-at-reception/ |access-date=2023-03-27}}</ref><br />–<br />January 3, 1949<br>{{small|(2920 days; lost election)}}
+|rowspan="2"|[[Montana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=349}}
+|[[1940 Montana gubernatorial election|1940]] 
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Ernest T.|Eaton}}
+|- style="height:2em;"
+|[[1944 Montana gubernatorial election|1944]] 
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Bonner, John"|[[File:John W. Bonner.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John W. Bonner]]'''<br>{{Small|(1902–1970)}}<br>{{sfn|Sobel|1978|pp=881–882}}<ref name="nga-bonner">{{Cite web |title=John Woodrow Bonner |url=https://www.nga.org/governor/john-woodrow-bonner/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 3, 1949<ref>{{Cite news |date=1949-01-04 |title=New, Reelected State Officers Are Given Oath |page=1 |work=The Billings Gazette |agency=Associated Press |url=https://www.newspapers.com/article/121726917/new-reelected-state-officers-are-given/ |access-date=2023-03-27}}</ref><br />–<br />January 5, 1953<br>{{small|(1464 days; lost election)}}
+|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1948 Montana gubernatorial election|1948]] 
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Paul C.|Cannon}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Aronson, J."|[[File:J. Hugo Aronson.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[J. Hugo Aronson]]'''<br>{{Small|(1891–1978)}}<br>{{sfn|Sobel|1978|pp=882–883}}<ref name="nga-aronson">{{Cite web |title=John Hugo Aronson |url=https://www.nga.org/governor/john-hugo-aronson/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 5, 1953<ref>{{Cite news |date=1953-01-06 |title=Hundreds Attend Reception for Governor |page=1 |work=The Missoulian |agency=Associated Press |url=https://www.newspapers.com/article/121726998/hundreds-attend-reception-for-governor/ |access-date=2023-03-27}}</ref><br />–<br />January 2, 1961<br>{{small|(2920 days; retired)}}
+|rowspan="2"|[[Montana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=349}}
+|[[1952 Montana gubernatorial election|1952]] 
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|George M.|Gosman}}
+|- style="height:2em;"
+|[[1956 Montana gubernatorial election|1956]]   
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Paul C.|Cannon}}{{efn|Represented the [[Montana Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Nutter, Donald"|[[File:Donald G. Nutter.jpg|75px]]
+|'''[[Donald Grant Nutter]]'''<br>{{Small|(1915–1962)}}<br>{{sfn|Sobel|1978|pp=883–884}}<ref name="nga-nutter">{{Cite web |title=Donald Grant Nutter |url=https://www.nga.org/governor/donald-grant-nutter/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="389"|January 2, 1961<ref>{{Cite news |date=1961-01-03 |title=Donald G. Nutter, State's 15th Governor, "On Job" |page=9 |work=The Independent-Record |url=https://www.newspapers.com/article/121727040/donald-g-nutter-states-15th/ |access-date=2023-03-27}}</ref><br />–<br />January 25, 1962<br>{{small|(389 days; died in office)}}
+|[[Montana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=349}}
+|[[1960 Montana gubernatorial election|1960]] 
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Tim|Babcock}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Babock, Tim"|[[File:Tim Babcock.jpg|75px]]
+|rowspan="2"|'''[[Tim Babcock]]'''<br>{{Small|(1919–2015)}}<br>{{sfn|Sobel|1978|p=884}}<ref name="nga-babcock">{{Cite web |title=Tim M. Babcock |url=https://www.nga.org/governor/tim-m-babcock/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2539"|January 25, 1962<ref>{{Cite news |date=1962-01-26 |title=Babcock, Close Friend of Nutter, Becomes State's 15th Governor |page=1 |work=Great Falls Tribune |agency=Associated Press |url=https://www.newspapers.com/article/37636561/gf-tribune-nutter-crash/ |access-date=2023-03-27}}</ref><br />–<br />January 6, 1969<br>{{small|(2539 days; lost election)}}
+|rowspan="2"|[[Montana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=349}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|David F.|James}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1964 Montana gubernatorial election|1964]] 
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Ted|James|dab=Montana politician}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Anderson, Forrest"|[[File:Forrest H. Anderson (Montana governor).jpg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Forrest H. Anderson]]'''<br>{{Small|(1913–1989)}}<br>{{sfn|Sobel|1978|p=885}}<ref name="nga-anderson">{{Cite web |title=Forrest H. Anderson |url=https://www.nga.org/governor/forrest-h-anderson/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 6, 1969<ref>{{Cite news |last=Van Swearingen |first=Hugh |date=1969-01-07 |title=It's Gov. Forrest Now |page=1 |work=The Billings Gazette |agency=Associated Press |url=https://www.newspapers.com/article/121727188/its-gov-forrest-now/ |access-date=2023-03-27}}</ref><br />–<br />January 1, 1973<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|p=885}}
+|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1968 Montana gubernatorial election|1968]] 
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Thomas Lee|Judge}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Judge, Thomas"|[[file:Elect Tom Judge Governor (cropped).jpg|75px]]
+|rowspan="2"|'''[[Thomas Lee Judge]]'''<br>{{Small|(1934–2006)}}<br>{{sfn|Sobel|1978|pp=885–886}}<ref name="nga-judge">{{Cite web |title=Thomas Lee Judge |url=https://www.nga.org/governor/thomas-lee-judge/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 1, 1973<ref>{{Cite news |date=1973-01-02 |title=Tom Judge Is Inaugurated As State's 17th Governor |page=1 |work=Great Falls Tribune |agency=Associated Press |url=https://www.newspapers.com/article/121727216/tom-judge-is-inaugurated-as-states/ |access-date=2023-03-27}}</ref><br />–<br />January 5, 1981<br>{{small|(2927 days;<br>lost nomination)}}
+|rowspan="2"|[[Montana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=349}}
+|[[1972 Montana gubernatorial election|1972]] 
+|{{sortname|Bill|Christiansen}}
+|- style="height:2em;"
+|[[1976 Montana gubernatorial election|1976]] 
+|{{sortname|Ted|Schwinden}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|19
+|rowspan="3" data-sort-value="Schwinden, Ted"|[[File:Ted-Schwinden-as-Governor.jpg|75px]]
+|rowspan="3"|'''[[Ted Schwinden]]'''<br>{{Small|(1925–2023)}}<br><ref name="nga-schwinden">{{Cite web |title=Ted Schwinden |url=https://www.nga.org/governor/ted-schwinden/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2920"|January 5, 1981<ref>{{Cite news |date=1981-01-06 |title=Schwinden Says Job a Challenge |page=7 |work=The Montana Standard |agency=Associated Press |url=https://www.newspapers.com/article/121727247/schwinden-says-job-a-challenge/ |access-date=2023-03-27}}</ref><br />–<br />January 2, 1989<br>{{small|(2920 days; retired)}}
+|rowspan="3"|[[Montana Democratic Party|Democratic]]<ref name="nga-schwinden" />
+|[[1980 Montana gubernatorial election|1980]]
+|rowspan="2"|{{sortname|George|Turman}}
+|- style="height:2em;"
+|rowspan="2"|[[1984 Montana gubernatorial election|1984]]
+|- style="height:2em;"
+|{{sortname|Gordon|McOmber}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Stephens, Stan"|[[File:Montana governor Stan Stephens.jpeg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Stan Stephens]]'''<br>{{Small|(1929–2021)}}<br><ref name="nga-stephens">{{Cite web |title=Stan Stephens |url=https://www.nga.org/governor/stan-stephens/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1989<ref>{{Cite news |last=O'Connell |first=Sue |date=1989-01-03 |title=State Officials Sworn In, Given Solemn Charge |page=3A |work=Great Falls Tribune |agency=Associated Press |url=https://www.newspapers.com/article/121727295/state-officials-sworn-in-given-solemn/ |access-date=2023-03-27}}</ref><br />–<br />January 4, 1993<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Montana Republican Party|Republican]]<ref name="nga-stephens" />
+|rowspan="2"|[[1988 Montana gubernatorial election|1988]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Allen|Kolstad}}
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Denny|Rehberg}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Racicot, Marc"|[[File:Marc Racicot 2008 (cropped).JPG|75px]]
+|rowspan="2"|'''[[Marc Racicot]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-racicot">{{Cite web |title=Marc Racicot |url=https://www.nga.org/governor/marc-racicot/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2921"|January 4, 1993<ref>{{Cite news |last=Salemy |first=Shirley |date=1993-01-05 |title=Racicot Sworn In As 20th Governor |page=1A |work=Great Falls Tribune |url=https://www.newspapers.com/article/121727339/racicot-sworn-in-as-20th-governor/ |access-date=2023-03-27}}</ref><br />–<br />January 2, 2001<br>{{small|(2921 days; term-limited)}}{{efn|Under a 1993 amendment to the constitution, governors are ineligible to serve more than 8 years in any 16 year period.<ref>{{Cite web |title=Mont. Const. art. IV, § 8 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27MT%27&CID=245&art=4&sec=8&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits}}
+|rowspan="2"|[[Montana Republican Party|Republican]]<ref name="nga-racicot" />
+|[[1992 Montana gubernatorial election|1992]] 
+|- style="height:2em;"
+|[[1996 Montana gubernatorial election|1996]]
+|{{sortname|Judy|Martz}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Martz, Judy"|[[File:Judy Martz 2003 (cropped).jpg|75px]]
+|'''[[Judy Martz]]'''<br>{{Small|(1943–2017)}}<br><ref name="nga-martz">{{Cite web |title=Judy Martz |url=https://www.nga.org/governor/judy-martz/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1463"|January 2, 2001<ref>{{Cite news |last=Johnson |first=Charles S. |date=2001-01-03 |title=Martz Sworn In As Governor, Seeks To Unify Montanans |page=1A |work=The Billings Gazette |url=https://www.newspapers.com/article/121727423/martz-sworn-in-as-governor-seeks-to/ |access-date=2023-03-27}}</ref><br />–<br />January 3, 2005<br>{{small|(1463 days; retired)}}
+|[[Montana Republican Party|Republican]]<ref name="nga-martz" />
+|[[2000 Montana gubernatorial election|2000]]
+|{{sortname|Karl|Ohs}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Schweitzer, Brian"|[[File:Brian Schweitzer official photo.jpg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Brian Schweitzer]]'''<br>{{small|({{Abbr|b.|born in}} 1955)}}<br><ref name="nga-schweitzer">{{Cite web |title=Brian Schweitzer |url=https://www.nga.org/governor/brian-schweitzer/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 3, 2005<ref>{{Cite news |last=McKee |first=Jennifer |date=2005-01-04 |title=Fanfare, Drums Mark Ceremony |page=1A |work=The Billings Gazette |url=https://www.newspapers.com/article/121727721/fanfare-drums-mark-ceremony/ |access-date=2023-03-27}}</ref><br />–<br />January 7, 2013<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Montana Democratic Party|Democratic]]<ref name="nga-schweitzer" />
+|[[2004 Montana gubernatorial election|2004]]
+|rowspan="2"|{{sortname|John|Bohlinger}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[2008 Montana gubernatorial election|2008]] 
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|24
+|rowspan="4" data-sort-value="Bullock, Steve"|[[File:Steve Bullock by Gage Skidmore.jpg|75px]]
+|rowspan="4"|'''[[Steve Bullock (American politician)|Steve Bullock]]'''<br>{{small|({{Abbr|b.|born in}} 1966)}}<br><ref name="nga-bullock">{{Cite web |title=Steve Bullock |url=https://www.nga.org/governor/steve-bullock/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2920"|January 7, 2013<ref>{{Cite news |last=Johnson |first=Charles S. |title=Bullock Sworn In As 24th Governor of Montana |language=en |work=Billings Gazette |url=https://billingsgazette.com/news/state-and-regional/montana/bullock-sworn-in-as-24th-governor-of-montana/article_5aaec51d-c398-509c-85c0-505fd908b750.html |access-date=2023-03-27}}</ref><br />–<br />January 4, 2021<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="4"|[[Montana Democratic Party|Democratic]]<ref name="nga-bullock" />
+|rowspan="3"|[[2012 Montana gubernatorial election|2012]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John|Walsh|dab=U.S. senator}}
+|- style="height:2em;"
+|{{sortname|Angela|McLean}}
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Mike|Cooney}}
+|- style="height:2em;"
+|[[2016 Montana gubernatorial election|2016]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Gianforte, Greg"|[[File:Greg Gianforte in Taiwan (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Greg Gianforte]]'''<br>{{small|({{Abbr|b.|born in}} 1961)}}<br><ref name="nga-gianforte">{{Cite web |title=Greg Gianforte |url=https://www.nga.org/governor/greg-gianforte/ |access-date=March 25, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2021|1|4|duration=on|format=no}}"|January 4, 2021<ref>{{Cite news |last=Samuels |first=Iris |date=2021-04-20 |title=Greg Gianforte Sworn In As Montana's 25th Governor |language=en |agency=Associated Press |url=https://apnews.com/article/election-2020-legislature-helena-greg-gianforte-coronavirus-pandemic-c51265055b7003c2766d3d7941ebb862 |access-date=2023-03-27}}</ref><br />–<br />Incumbent{{efn|Gianforte's second term began on January 6, 2025,<ref>{{Cite news |last=Drew |first=Micah |date=2025-01-06 |title=Gov. Gianforte, statewide elected officials take oaths of office during inauguration ceremony • Daily Montanan |url=https://dailymontanan.com/2025/01/06/gov-gianforte-statewide-elected-officials-take-oaths-of-office-during-inauguration-ceremony/ |access-date=2025-01-23 |work=Daily Montanan |language=en-US}}</ref> and [[2028 Montana gubernatorial election|will expire]] on January 1, 2029; he will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2021|1|4|duration=on|format=no}} days)}}
+|rowspan="2"|[[Montana Republican Party|Republican]]<ref name="nga-gianforte" />
+|[[2020 Montana gubernatorial election|2020]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Kristen|Juras}}
+|- style="height:2em;"
+|[[2024 Montana gubernatorial election|2024]]
+|}
+
+==Timelines==
+===Lifespan timeline===
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Lifespans of Montana governors</strong>
+|-
+|
+<div style="overflow:auto">
+{{#tag:timeline
+|Define $width = 1000 # 4 pixels per year ($end - $start) × 4
+Define $warning = 880 # $width - 120
+Define $height = 700 # 23 x 20 + 160
+
+Define $start = 1818
+Define $end = {{CURRENTYEAR}}
+Define $now = {{CURRENTYEAR}}
+
+ImageSize  = width:1000 height:1000
+PlotArea   = right:10 left:1 bottom:80 top:60
+Period     = from:$start till:$end
+TimeAxis   = orientation:horizontal
+Legend = orientation:vertical position:bottom columns:1
+
+Colors =
+     id:bg              value:white
+     id:lightline       value:rgb(0.9, 0.9, 0.9)
+     id:lighttext       value:rgb(0.5, 0.5, 0.5)
+     id:LIFESPAN        value:rgb(0.88, 0.90, 0.70) Legend: Lifespan
+     id:DEM             value:blue Legend: Democratic
+     id:REP            value:red Legend: Republican
+     id:POP        value:green Legend: Populist
+     id:UN            value:rgb(0.7, 0.7, 0.7) Legend:Unaffiliated
+     id:NAME            value:rgb(0.00, 0.00, 0.05)
+     id:TODAY           value:green
+     id:livinggreen     value:rgb(0.60,0.85,0.60)
+
+BackgroundColors = canvas:bg
+ScaleMinor = gridcolor:lightline unit:year increment:1 start:$start
+ScaleMajor = gridcolor:lighttext unit:year increment:10 start:1820
+
+Define $dy = -5 # shift text to button side of bar
+
+LineData=
+   at:$now color:TODAY width:0.1
+
+PlotData=
+  bar:1 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1818 till:1864 shift:(-0,$dy) textcolor:NAME text:[[Sidney Edgerton]]
+    color:UN
+    from:1864 till:1866
+    color:LIFESPAN
+    from:1866 till:1900
+
+  bar:2 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1826 till:1866 shift:(-0,$dy) textcolor:NAME text:[[Green Clay Smith]]
+    color:UN
+    from:1866 till:1869
+    color:LIFESPAN
+    from:1869 till:1895
+
+  bar:3 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1824 till:1869 shift:(-0,$dy) textcolor:NAME text:[[James Mitchell Ashley]]
+    color:UN
+    from:1869 till:1869.75
+    color:LIFESPAN
+    from:1869.75 till:1896
+
+  bar:4 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1836 till:1870 shift:(-0,$dy) textcolor:NAME text:[[Benjamin F. Potts]]
+    color:UN
+    from:1870.6 till:1882
+    color:LIFESPAN
+    from: 1882 till:1887
+
+ bar:5 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1839 till:1882 shift:(-0,$dy) textcolor:NAME text:[[John Schuyler Crosby]]
+    color:UN
+    from:1882 till:1884
+    color:LIFESPAN
+    from:1884 till:1914
+
+  bar:6 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1837 till:1884 shift:(-0,$dy) textcolor:NAME text:[[B. Platt Carpenter]]
+    color:UN
+    from:1884 till:1885.6
+    color:LIFESPAN
+    from:1885.6 till:1921
+
+  bar:7 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1833 till:1886 shift:(-0,$dy) textcolor:NAME text:[[Samuel Thomas Hauser]]
+    color:UN
+    from:1886 till:1887
+    color:LIFESPAN
+    from:1887 till:1914
+
+  bar:8 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1819 till:1887 shift:(-0,$dy) textcolor:NAME text:[[Preston Leslie]]
+    color:UN
+    from:1887 till:1889
+    color:LIFESPAN
+    from:1889 till:1907
+
+ bar:9 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1838 till:1889 shift:(-0,$dy) textcolor:NAME text:[[Benjamin F. White]]
+    color:UN
+    from:1889 till:1889.9
+    color:LIFESPAN
+    from:1889.9 till:1920
+
+  bar:10 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1851 till:1889 shift:(-0,$dy) textcolor:NAME text:[[Joseph Toole]]
+    color:DEM
+    from:1889 till:1893
+    color:LIFESPAN
+    from:1893 till:1901
+    color:DEM
+    from:1901 till:1908.3
+    color:LIFESPAN
+    from:1908.3 till:1929
+
+  bar:11 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1848 till:1893 shift:(-0,$dy) textcolor:NAME text:[[John E. Rickards]]
+    color:REP
+    from:1893 till:1897
+    color:LIFESPAN
+    from:1897 till:1927
+
+ bar:12 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1854 till:1897 shift:(-0,$dy) textcolor:NAME text:[[Robert Burns Smith]]
+    color:POP
+    from:1897 till:1901
+    color:LIFESPAN
+    from:1901 till:1908
+
+  bar:13 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1865 till:1908 shift:(-0,$dy) textcolor:NAME text:[[Edwin L. Norris]]
+    color:DEM
+    from:1908 till:1913
+    color:LIFESPAN
+    from:1913 till:1924
+
+  bar:14 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1872 till:1913 shift:(-0,$dy) textcolor:NAME text:[[Sam V. Stewart]]
+    color:DEM
+    from:1913 till:1921
+    color:LIFESPAN
+    from:1921 till:1939
+
+  bar:15 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1867 till:1921 shift:(-0,$dy) textcolor:NAME text:[[Joseph M. Dixon]]
+    color:REP
+    from:1921 till:1925
+    color:LIFESPAN
+    from:1925 till:1934
+
+  bar:16 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1863 till:1925 shift:(-0,$dy) textcolor:NAME text:[[John E. Erickson]]
+    color:DEM
+    from:1925 till:1933.4
+    color:LIFESPAN
+    from:1933.4 till:1946
+
+  bar:17 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1872 till:1933 shift:(-0,$dy) textcolor:NAME text:[[Frank Henry Cooner]]
+    color:DEM
+    from:1933 till:1935.9
+
+  bar:18 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1884 till:1935.9 shift:(-0,$dy) textcolor:NAME text:[[Elmer Holt]]
+    color:DEM
+    from:1935.9 till:1937
+    color:LIFESPAN
+    from:1937 till:1945
+
+  bar:19 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1882 till:1937 shift:(-0,$dy) textcolor:NAME text:[[Roy E. Ayers]]
+    color:DEM
+    from:1937 till:1941
+    color:LIFESPAN
+    from:1941 till:1955
+
+  bar:20 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1882 till:1941 shift:(-0,$dy) textcolor:NAME text:[[Sam C. Ford]]
+    color:REP
+    from:1941 till:1949
+    color:LIFESPAN
+    from:1949 till:1961
+
+  bar:21 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1902 till:1949 shift:(-0,$dy) textcolor:NAME text:[[John W. Bonner]]
+    color:DEM
+    from:1949 till:1953
+    color:LIFESPAN
+    from:1953 till:1970
+
+  bar:22 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1891 till:1953 shift:(-0,$dy) textcolor:NAME text:[[J. Hugo Aronson]]
+    color:REP
+    from:1953 till:1961
+    color:LIFESPAN
+    from:1961 till:1978
+
+  bar:23 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1915 till:1961 shift:(-0,$dy) textcolor:NAME text:[[Donald Grant Nutter]]
+    color:REP
+    from:1961 till:1962
+
+  bar:24 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1919 till:1962 shift:(-0,$dy) textcolor:NAME text:[[Tim Babcock]]
+    color:REP
+    from:1962 till:1969
+    color:LIFESPAN
+    from:1969 till:2019
+
+  bar:25 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1913 till:1969 shift:(-0,$dy) textcolor:NAME text:[[Forrest H. Anderson]]
+    color:DEM
+    from:1969 till:1973
+    color:LIFESPAN
+    from:1973 till:1989
+
+  bar:26 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1934 till:1973 shift:(-0,$dy) textcolor:NAME text:[[Thomas Lee Judge]]
+    color:DEM
+    from:1973 till:1981
+    color:LIFESPAN
+    from:1981 till:2006
+
+  bar:27 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1925 till:1981 shift:(-0,$dy) textcolor:NAME text:[[Ted Schwinden]]
+    color:DEM
+    from:1981 till:1989
+    color:LIFESPAN
+    from:1989 till:2023
+
+  bar:28 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1929 till:1989 shift:(-0,$dy) textcolor:NAME text:[[Stan Stephens]]
+    color:REP
+    from:1989 till:1993
+    color:LIFESPAN
+    from:1993 till:2021
+
+  bar:29 width:18
+    color:livinggreen align:center fontsize:M
+    from:1948 till:1993 shift:(-0,$dy) textcolor:NAME text:[[Marc Racicot]]
+    color:REP
+    from:1993 till:2001
+    color:livinggreen
+    from:2001 till:$now
+
+  bar:30 width:18
+    color:LIFESPAN align:center fontsize:M
+    from:1943 till:2001 shift:(-0,$dy) textcolor:NAME text:[[Judy Martz]]
+    color:REP
+    from:2001 till:2005
+    color:LIFESPAN
+    from:2005 till:2017
+
+  bar:31 width:18
+    color:livinggreen align:center fontsize:M
+    from:1955 till:2005 shift:(-0,$dy) textcolor:NAME text:[[Brian Schweitzer]]
+    color:DEM
+    from:2005 till:2013
+    color:livinggreen
+    from:2013 till:$now
+
+  bar:32 width:18
+    color:livinggreen align:center fontsize:M
+    from:1966 till:2013 shift:(-0,$dy) textcolor:NAME text:[[Steve Bullock]]
+    color:DEM
+    from:2013 till:2021
+    color:livinggreen
+    from:2021 till:$now
+
+  bar:33 width:18
+    color:livinggreen align:center fontsize:M
+    from:1961 till:2021 shift:(-0,$dy) textcolor:NAME text:[[Greg Gianforte]]
+    color:REP
+    from:2021 till:$now
+
+TextData =
+  fontsize:M
+  textcolor:black
+  pos:($warning,30)
+  text:Updated {{CURRENTMONTH}}/{{CURRENTYEAR}}
+
+TextData =
+   pos:(320,$height)
+   fontsize:L
+   textcolor:black
+   text:
+}}
+</div>
+|}
+
+===Governor Timeline===
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Montana governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1863.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1870
+ScaleMinor = unit:year increment:1 start:1864
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:fusion  value:rgb(0.47, 0.8, 0.8)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1879 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1864.48 till:1866.53 color:noparty text:"Sidney Edgerton"
+ from:1866.53 till:1869.27 color:noparty text:"Green C. Smith"
+ from:1869.27 till:1869.96 color:noparty text:"James Mitchell Ashley"
+ from:1870.53 till:1882.59 color:noparty text:"Benjamin F. Potts"
+ from:1882.59 till:1884.86 color:noparty text:"John Schuyler Crosby"
+ from:1884.98 till:1885.5 color:noparty text:"B. Platt Carpenter"
+ from:1886.37 till:1887.04 color:noparty text:"Samuel Thomas Hauser"
+ from:1887.04 till:1889.24 color:noparty text:"Preston Leslie"
+ from:1889.24 till:1889.85 color:noparty text:"Benjamin F. White"
+ from:1901.02 till:1908.25 color:dem text:"Joseph Toole"
+ from:1893.01 till:1897.01 color:rep text:"John E. Rickards"
+ from:1897.01 till:1901.02 color:fusion text:"Robert Burns Smith"
+ from:1908.25 till:1913.02 color:dem text:"Edwin L. Norris"
+ from:1913.02 till:1921.01 color:dem text:"Sam V. Stewart"
+ from:1921.01 till:1925.01 color:rep text:"Joseph M. Dixon"
+ from:1925.01 till:1933.2 color:dem text:"John E. Erickson"
+ from:1933.2 till:1935.96 color:dem text:"Frank Henry Cooney"
+ from:1935.96 till:1937.01 color:dem text:"Elmer Holt"
+ from:1937.01 till:1941.02 color:dem text:"Roy E. Ayers"
+ from:1941.02 till:1949.01 color:rep text:"Sam C. Ford"
+ from:1949.01 till:1953.01 color:dem text:"John W. Bonner"
+ from:1953.01 till:1961.01 color:rep text:"J. Hugo Aronson"
+ from:1961.01 till:1962.07 color:rep text:"Donald Grant Nutter"
+ from:1962.07 till:1969.02 color:rep text:"Tim Babcock"
+ from:1969.02 till:1973 color:dem text:"Forrest H. Anderson"
+ from:1973 till:1981.01 color:dem text:"Thomas Lee Judge"
+ from:1981.01 till:1989.01 color:dem text:"Ted Schwinden"
+ from:1989.01 till:1993.01 color:rep text:"Stan Stephens"
+ from:1993.01 till:2001.01 color:rep text:"Marc Racicot"
+ from:2001.01 till:2005.01 color:rep text:"Judy Martz"
+ from:2005.01 till:2013.02 color:dem text:"Brian Schweitzer"
+ from:2013.02 till:2021.01 color:dem text:"Steve Bullock"
+ from:2021.01 till:$now color:rep text:"Greg Gianforte"
+
+LineData=
+ from:1889.85 till:1893.01 atpos:436 color:dem width:6 # JT 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==Electoral history (1952–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |[[Green Party (United States)|Green]] nominee
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1952 Montana gubernatorial election|1952]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[John W. Bonner]]
+| 129,369
+| 49.04%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[J. Hugo Aronson]]'''
+| '''134,423'''
+| '''50.96%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1956 Montana gubernatorial election|1956]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Arnold Olsen]]
+| 131,488
+| 48.63%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[J. Hugo Aronson]]'''
+| '''138,878'''
+| '''51.37%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1960 Montana gubernatorial election|1960]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Paul C. Cannon]]
+| 125,651
+| 44.89%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Donald Grant Nutter|Donald G. Nutter]]'''
+| '''154,230'''
+| '''55.11%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1964 Montana gubernatorial election|1964]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Roland Renne]]
+| 136,862
+| 48.71%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Tim Babcock]]'''
+| '''144,113'''
+| '''51.29%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1968 Montana gubernatorial election|1968]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Forrest H. Anderson]]'''
+| '''150,481'''
+| '''54.11%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Tim Babcock]]
+| 116,432
+| 41.87%
+| bgcolor="{{party color|Nonpartisan}}" |
+| {{nowrap|Wayne Montgomery<br>(New Reform)}}
+| 11,199
+| 4.03%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1972 Montana gubernatorial election|1972]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Thomas Lee Judge]]'''
+| '''172,523'''
+| '''54.12%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Ed Smith
+| 146,231
+| 45.88%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1976 Montana gubernatorial election|1976]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Thomas Lee Judge]]'''
+| '''195,420'''
+| '''61.70%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Bob Woodahl
+| 115,848
+| 36.58%
+| bgcolor="{{party color|Nonpartisan}}" |
+| Charlie Mahoney
+| 5,452
+| 1.72%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1980 Montana gubernatorial election|1980]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Ted Schwinden]]'''
+| '''199,574'''
+| '''55.37%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Jack Ramirez
+| 160,892
+| 44.63%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1984 Montana gubernatorial election|1984]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Ted Schwinden]]'''
+| '''266,578'''
+| '''70.34%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Pat M. Goodover
+| 100,070
+| 26.41%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| [[Larry Dodge]]
+| 12,322
+| 3.25%
+| colspan=4| –
+|-
+| [[1988 Montana gubernatorial election|1988]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Thomas Lee Judge]]
+| 169,313
+| 46.13%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Stan Stephens]]'''
+| '''190,604'''
+| '''51.93%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| William Dee Morris
+| 7,104
+| 1.94%
+| colspan=4| –
+|-
+| [[1992 Montana gubernatorial election|1992]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Dorothy Bradley]]
+| 198,421
+| 48.65%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Marc Racicot]]'''
+| '''209,401'''
+| '''51.35%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1996 Montana gubernatorial election|1996]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Judy Jacobson]]
+| 84,407
+| 20.83%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Marc Racicot]]'''
+| '''320,768'''
+| '''79.17%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2000 Montana gubernatorial election|2000]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Mark O'Keefe (politician)|Mark O'Keefe]]
+| 193,131
+| 47.08%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Judy Martz]]'''
+| '''209,135'''
+| '''50.98%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| [[Stan Jones (Libertarian politician)|Stan Jones]]
+| 7,926
+| 1.93%
+| colspan=4| –
+|-
+| [[2004 Montana gubernatorial election|2004]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Brian Schweitzer]]'''
+| '''225,016'''
+| '''50.44%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Bob Brown (Montana politician)|Bob Brown]]
+| 205,313
+| 46.02%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| [[Stan Jones (Libertarian politician)|Stan Jones]]
+| 7,424
+| 1.66%
+| bgcolor="{{party color|Green Party (United States)}}" |
+| [[Bob Kelleher]]
+| 8,393
+| 1.88%
+|-
+| [[2008 Montana gubernatorial election|2008]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Brian Schweitzer]]'''
+| '''318,670'''
+| '''65.47%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Roy Brown (Montana politician)|Roy Brown]]
+| 158,268
+| 32.52%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| [[Stan Jones (Libertarian politician)|Stan Jones]]
+| 9,976
+| 2.01%
+| colspan=4| –
+|-
+| [[2012 Montana gubernatorial election|2012]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Steve Bullock (American politician)|Steve Bullock]]'''
+| '''236,450'''
+| '''48.90%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Rick Hill]]
+| 228,879
+| 47.34%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Ron Vandevender
+| 18,160
+| 3.76%
+| colspan=4| –
+|-
+| [[2016 Montana gubernatorial election|2016]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Steve Bullock (American politician)|Steve Bullock]]'''
+| '''255,933'''
+| '''50.25%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Greg Gianforte]]
+| 236,115
+| 46.35%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Ted Dunlap
+| 17,312
+| 3.40%
+| colspan=4| –
+|-
+| [[2020 Montana gubernatorial election|2020]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Mike Cooney]]
+| 250,860
+| 41.56%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Greg Gianforte]]'''
+| '''328,548'''
+| '''54.43%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Lyman Bishop
+| 24,179
+| 4.01%
+| colspan=4| –
+|-
+| [[2024 Montana gubernatorial election|2024]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Ryan Busse]]
+| 232,644
+| 38.62%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Greg Gianforte]]'''
+| '''354,569'''
+| '''58.86%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Kaiser Leib
+| 15,191
+| 2.52%
+| colspan=4| –
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#Montana]]
+*[[First Ladies and Gentlemen of Montana]]
+*[[List of Montana state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former Montana Governors |url=https://www.nga.org/former-governors/montana/ |access-date=March 24, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Montana - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=151 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+*[https://governor.mt.gov/ Office of the Governor of Montana]
+
+{{Montana}}
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Governors of Montana}}
+{{MontanansLists}}
+{{Montana statewide elected officials}}
+
+{{DEFAULTSORT:Montana, List of Governors of}}
+[[Category:Governors of Montana|*]]
+[[Category:Lists of state governors of the United States]]
+[[Category:Lists of territorial governors of the United States|Montana Territory]]
+[[Category:Governors of Montana Territory|*]]
+[[Category:Lists of Montana politicians|Governors]]
+[[Category:Montana history-related lists|Governors]]

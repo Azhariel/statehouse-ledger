@@ -1,0 +1,530 @@
+[
+ {
+  "table": 0,
+  "num": "1",
+  "name": "Brigham Young",
+  "range": [
+   "September 28, 1850",
+   "July 11, 1857"
+  ],
+  "party": "{{sortname|Millard|Fillmore}}",
+  "title": null,
+  "acting": false,
+  "start": "1850-09-28",
+  "end": "1857-07-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "2",
+  "name": "Alfred Cumming",
+  "range": [
+   "July 11, 1857",
+   "May 17, 1861"
+  ],
+  "party": "{{sortname|James|Buchanan}}",
+  "title": null,
+  "acting": false,
+  "start": "1857-07-11",
+  "end": "1861-05-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "3",
+  "name": "John W. Dawson",
+  "range": [
+   "October 3, 1861",
+   "December 31, 1861"
+  ],
+  "party": "{{sortname|Abraham|Lincoln}}",
+  "title": null,
+  "acting": false,
+  "start": "1861-10-03",
+  "end": "1861-12-31",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "4",
+  "name": "Stephen S. Harding",
+  "range": [
+   "March 31, 1862",
+   "June 2, 1863"
+  ],
+  "party": "{{sortname|Abraham|Lincoln}}",
+  "title": null,
+  "acting": false,
+  "start": "1862-03-31",
+  "end": "1863-06-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "5",
+  "name": "James Duane Doty",
+  "range": [
+   "June 2, 1863",
+   "June 13, 1865"
+  ],
+  "party": "{{sortname|Abraham|Lincoln}}",
+  "title": null,
+  "acting": false,
+  "start": "1863-06-02",
+  "end": "1865-06-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "6",
+  "name": "Charles Durkee",
+  "range": [
+   "July 15, 1865",
+   "January 17, 1870"
+  ],
+  "party": "{{sortname|Andrew|Johnson}}",
+  "title": null,
+  "acting": false,
+  "start": "1865-07-15",
+  "end": "1870-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "7",
+  "name": "John Shaffer",
+  "range": [
+   "January 17, 1870",
+   "October 31, 1870"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1870-01-17",
+  "end": "1870-10-31",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "8",
+  "name": "Vernon H. Vaughan",
+  "range": [
+   "October 31, 1870",
+   "February 2, 1871"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1870-10-31",
+  "end": "1871-02-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "9",
+  "name": "George Lemuel Woods",
+  "range": [
+   "February 2, 1871",
+   "February 2, 1875"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1871-02-02",
+  "end": "1875-02-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "10",
+  "name": "Samuel Beach Axtell",
+  "range": [
+   "February 2, 1875",
+   "July 1, 1875"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1875-02-02",
+  "end": "1875-07-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "11",
+  "name": "George W. Emery",
+  "range": [
+   "July 1, 1875",
+   "January 27, 1880"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1875-07-01",
+  "end": "1880-01-27",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "12",
+  "name": "Eli Houston Murray",
+  "range": [
+   "January 27, 1880",
+   "March 16, 1886"
+  ],
+  "party": "{{sortname|Rutherford B.|Hayes}}",
+  "title": null,
+  "acting": false,
+  "start": "1880-01-27",
+  "end": "1886-03-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "13",
+  "name": "Caleb Walton West",
+  "range": [
+   "April 21, 1886",
+   "May 6, 1889"
+  ],
+  "party": "{{sortname|Grover|Cleveland}}",
+  "title": null,
+  "acting": false,
+  "start": "1886-04-21",
+  "end": "1889-05-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "14",
+  "name": "Arthur Lloyd Thomas",
+  "range": [
+   "May 6, 1889",
+   "May 9, 1893"
+  ],
+  "party": "{{sortname|Benjamin|Harrison}}",
+  "title": null,
+  "acting": false,
+  "start": "1889-05-06",
+  "end": "1893-05-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "15",
+  "name": "Caleb Walton West",
+  "range": [
+   "May 9, 1893",
+   "January 4, 1896"
+  ],
+  "party": "{{sortname|Grover|Cleveland}}",
+  "title": null,
+  "acting": false,
+  "start": "1893-05-09",
+  "end": "1896-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "1",
+  "name": "Heber Manning Wells",
+  "range": [
+   "January 6, 1896",
+   "January 2, 1905"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1896-01-06",
+  "end": "1905-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "2",
+  "name": "John Christopher Cutler",
+  "range": [
+   "January 2, 1905",
+   "January 4, 1909"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1905-01-02",
+  "end": "1909-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "3",
+  "name": "William Spry",
+  "range": [
+   "January 4, 1909",
+   "January 1, 1917"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1909-01-04",
+  "end": "1917-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "4",
+  "name": "Simon Bamberger",
+  "range": [
+   "January 1, 1917",
+   "January 3, 1921"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1917-01-01",
+  "end": "1921-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "5",
+  "name": "Charles R. Mabey",
+  "range": [
+   "January 3, 1921",
+   "January 5, 1925"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1921-01-03",
+  "end": "1925-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "6",
+  "name": "George Dern",
+  "range": [
+   "January 5, 1925",
+   "January 2, 1933"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1925-01-05",
+  "end": "1933-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "7",
+  "name": "Henry H. Blood",
+  "range": [
+   "January 2, 1933",
+   "January 6, 1941"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1933-01-02",
+  "end": "1941-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "8",
+  "name": "Herbert B. Maw",
+  "range": [
+   "January 6, 1941",
+   "January 3, 1949"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1941-01-06",
+  "end": "1949-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "9",
+  "name": "J. Bracken Lee",
+  "range": [
+   "January 3, 1949",
+   "January 7, 1957"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1949-01-03",
+  "end": "1957-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "10",
+  "name": "George Dewey Clyde",
+  "range": [
+   "January 7, 1957",
+   "January 4, 1965"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1957-01-07",
+  "end": "1965-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "11",
+  "name": "Cal Rampton",
+  "range": [
+   "January 4, 1965",
+   "January 3, 1977"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1965-01-04",
+  "end": "1977-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "12",
+  "name": "Scott M. Matheson",
+  "range": [
+   "January 3, 1977",
+   "January 7, 1985"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1977-01-03",
+  "end": "1985-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "13",
+  "name": "Norman H. Bangerter",
+  "range": [
+   "January 7, 1985",
+   "January 4, 1993"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1985-01-07",
+  "end": "1993-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "14",
+  "name": "Mike Leavitt",
+  "range": [
+   "January 4, 1993",
+   "November 5, 2003"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1993-01-04",
+  "end": "2003-11-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "15",
+  "name": "Olene Walker",
+  "range": [
+   "November 5, 2003",
+   "January 3, 2005"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "2003-11-05",
+  "end": "2005-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "16",
+  "name": "Jon Huntsman Jr.",
+  "range": [
+   "January 3, 2005",
+   "August 11, 2009"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "2005-01-03",
+  "end": "2009-08-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "17",
+  "name": "Gary Herbert",
+  "range": [
+   "August 11, 2009",
+   "January 4, 2021"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "2009-08-11",
+  "end": "2021-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "18",
+  "name": "Spencer Cox",
+  "range": [
+   "January 4, 2021",
+   "Incumbent"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "2021-01-04",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ }
+]

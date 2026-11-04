@@ -1,0 +1,764 @@
+{{Short description|none}}
+{{Use mdy dates|date=June 2012}}
+{{Infobox Political post
+| post = Governor
+| body = Colorado
+| insignia = Seal of the Executive Office of Colorado.svg
+| insignia_size = 110px
+| insignia_caption = Seal of the Executive Office
+| image_size = 235px
+| image = Jared Polis in 2026.jpg
+| incumbent = [[Jared Polis]]
+| incumbent_since = January 8, 2019
+| style = The Honorable
+| department = [[Government of Colorado]]
+| term_length = Four years, renewable once consecutively
+| residence = [[Colorado Governor's Mansion]]
+| inaugural = [[John Long Routt]]
+| formation = August 1, 1876
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Colorado|Line of succession]]
+| deputy = [[List of lieutenant governors of Colorado|Lieutenant Governor of Colorado]]
+| salary = $90,000 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 14, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+| website = {{URL|www.colorado.gov/governor}}
+| type = {{ublist|[[Chief executive]]|[[Head of government]]|[[Commander-in-chief]]}}
+}}
+The '''governor of Colorado''' is the [[head of government]] of the [[U.S. state]] of [[Colorado]]. The [[governor (United States)|governor]] is the head of the [[Executive (government)|executive branch]] of [[Government of Colorado|Colorado's state government]] and is charged with enforcing state laws. The governor has the power to either approve or [[veto]] bills passed by the [[Colorado General Assembly]], to convene the legislature, and to grant [[pardon]]s, except in cases of treason or impeachment.{{sfn|Colo. Const.|loc=art. IV}} The governor is also the [[commander-in-chief]] of the state's [[Colorado National Guard|military forces]].
+
+Seven people served as governor of [[Colorado Territory]] over eight terms, appointed by the president of the United States. Since statehood, there have been 38 governors, serving 43 distinct terms. One governor [[Alva Adams (governor)|Alva Adams]] served three non-consecutive terms, while [[John Long Routt]], [[James Hamilton Peabody]], and [[Edwin C. Johnson]] each served during two non-consecutive periods. The longest-serving governors were [[Richard Lamm]] (1975–1987) and [[Roy Romer]] (1987–1999), who each served 12 years over three terms. The shortest term occurred on March 16 and 17, 1905, when the state had three governors in the span of 24 hours: [[Alva Adams (governor)|Alva Adams]] won the election, but soon after he took office, the legislature declared his opponent, [[James Hamilton Peabody]], governor, but on the condition that he immediately resign, so that his lieutenant governor, [[Jesse Fuller McDonald]], could be governor. Thus, Peabody served less than a day as governor.
+
+The current governor is Democrat [[Jared Polis]], who took office on January 8, 2019.
+
+==List of governors==
+
+===Territory of Jefferson===
+The self-proclaimed [[Jefferson Territory|Provisional Government of the Territory of Jefferson]] was organized on November 7, 1859.{{sfn|University of Colorado|1907|p=71}} Jefferson Territory included all of present-day Colorado, but extended about {{convert|3|mi|km|0|sp=us}} farther east, {{convert|138|mi|km|0|sp=us}} farther north, and about {{convert|50|mi|km|0|sp=us}} farther west.{{sfn|University of Colorado|1907|p=68}} The territory was never recognized by the [[Federal government of the United States|federal government]] in the tumultuous days before the [[American Civil War]].  The Jefferson Territory had only one governor, [[Robert Williamson Steele]], a pro-union Democrat elected by popular vote. He proclaimed the territory dissolved on June 6, 1861, several months after the official formation of the [[Colorado Territory]], but only days after the arrival of its first governor.{{sfn|University of Colorado|1907|pp=75–76}}
+
+===Territory of Colorado===
+The [[Colorado Territory|Territory of Colorado]] was organized on February 28, 1861, from parts of the territories of [[New Mexico Territory|New Mexico]], [[Utah Territory|Utah]], and [[Nebraska Territory|Nebraska]], and the unorganized territory that was previously the western portion of [[Kansas Territory]].<ref>{{usstat|12|172}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Colorado
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Gilpin, William"|[[File:William_Gilpin_(governor).jpg|75px]]
+|'''[[William Gilpin (politician)|William Gilpin]]'''<br>{{Small|(1813–1894)}}<br>{{sfn|McMullin|1984|pp=65–67}}<ref name="co-gilpin">{{Cite web |title=William Gilpin |url=https://archives.colorado.gov/collections/governors/william-gilpin |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 2, 2022 |archive-url=https://web.archive.org/web/20220202123647/https://archives.colorado.gov/collections/governors/william-gilpin |url-status=live}}</ref>
+|data-sort-value="367"|March 25, 1861{{efn|Gilpin was nominated on March 22, 1861,<ref>{{cite book |title=Senate Executive Journal, 37th Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527021&seq=342 |page=324 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on March 25.<ref>{{cite book |title=Senate Executive Journal, 37th Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527021&seq=360 |page=342 |via=[[HathiTrust]]}}</ref> He arrived in the territory on May 27;<ref>{{Cite book |last1=McGinnis |first1=Ralph Y. |title=Abraham Lincoln and the Western Territories |last2=Calvin N. Smith |publisher=Rowman & Littlefield |year=1994 |isbn=0-8304-1247-6 |page=58}}</ref> however, he was not formally sworn in until July 8,{{sfn|McMullin|1984|p=66}} after the territorial courts were set up.}}<br/>–<br/>March 26, 1862<br>{{small|(367 days; replaced)}}{{efn|Gilpin was removed from office for improper financial drafts from the federal treasury.<ref name="co-gilpin" />}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Evans, John"|[[File:John_Evans.gif|75px]]
+|'''[[John Evans (Colorado governor)|John Evans]]'''<br>{{Small|(1814–1897)}}<br>{{sfn|McMullin|1984|pp=67–68}}<ref name="co-evans">{{Cite web |title=John Evans |url=https://archives.colorado.gov/collections/governors/john-evans |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210181626/https://archives.colorado.gov/collections/governors/john-evans |url-status=live}}</ref>
+|data-sort-value="1302"|March 26, 1862{{efn|Evans was nominated on March 18, 1862,<ref>{{cite book |title=Senate Executive Journal, 37th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015040786215&seq=179 |page=169 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on March 26.<ref>{{cite book |title=Senate Executive Journal, 37th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015040786215&seq=201 |page=191 |via=[[HathiTrust]]}}</ref> He was sworn in as governor in Washington, D.C., on April 11, and arrived in the territory on May 16.<ref>{{Cite web |title=John Evans |url=https://coloradoencyclopedia.org/article/john-evans |access-date=October 14, 2026 |website=[[Colorado Encyclopedia]] |archive-date=February 9, 2023 |archive-url=https://web.archive.org/web/20230209060109/https://coloradoencyclopedia.org/article/john-evans |url-status=live}}</ref>}}<br/>–<br/>October 17, 1865<br>{{small|(1302 days; resigned)}}{{efn|Evans resigned at the request of President [[Andrew Johnson]] on July 18, 1865, following the [[Sand Creek massacre]].{{sfn|McMullin|1984|p=68}}}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Cummings, Alexander"|[[File:Alexander_Cummings.gif|75px]]
+|'''[[Alexander Cummings (territorial governor)|Alexander Cummings]]'''<br>{{Small|(1810–1879)}}<br>{{sfn|McMullin|1984|pp=69–70}}<ref name="co-cummings">{{Cite web |title=Alexander Cummings |url=https://archives.colorado.gov/collections/governors/alexander-cummings |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 13, 2023 |archive-url=https://web.archive.org/web/20230113053619/https://archives.colorado.gov/collections/governors/alexander-cummings |url-status=live}}</ref>
+|data-sort-value="569"|October 17, 1865{{efn|It is ambiguous exactly when Evans resigned and Cummings was appointed. Secretary of State [[William H. Seward]] requested Evans' resignation on July 18, 1865,{{sfn|McMullin|1984|p=68}} and Evans submitted it on September 4.<ref>{{Cite book |last=Baker, James H. |url=https://books.google.com/books?id=WdYUFn7e264C&pg=PA502 |title=History of Colorado |date=1927 |publisher=Linderman Co., Inc. |page=502 |via=[[Google Books]]}}</ref> Modern sources say Cummings was appointed on October 17,<ref name="co-cummings" /> during a Senate recess, and sworn in to office on October 21;{{sfn|McMullin|1984|p=69}} however, contemporary news reported on his appointment as early as August 18,<ref>{{Cite news |date=August 18, 1865 |title=News by To-Day's Mail |quote=General Alexander Cummings, of Philadelphia, has been appointed Governor and ex officio superintendent of Indian affairs of the Territory of Colorado. |page=1 |newspaper=[[Alexandria Gazette]] |url=https://www.newspapers.com/article/alexandria-gazette-cummings-appointed/118285057/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926030425/https://www.newspapers.com/article/alexandria-gazette-cummings-appointed/118285057/ |archive-date=September 26, 2023 |url-status=live}}</ref> and other major sources say he was appointed on August 8.<ref name="territorial-co">{{Cite book |url=https://books.google.com/books?id=6IVHAQAAMAAJ&pg=PA6 |title=The Territorial Papers of the United States: Volume I: General |date=1934 |publisher=[[United States Government Publishing Office]] |page=6 |via=[[Google Books]]}}</ref> He was formally nominated on December 19,<ref>{{cite book |title=Senate Executive Journal, 39th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106526775&seq=314 |page=306 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on January 26, 1866.<ref>{{cite book |title=Senate Executive Journal, 39th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106526866&seq=495 |page=487 |via=[[HathiTrust]]}}</ref>}}<br/>–<br/>May 8, 1867<br>{{small|(569 days; resigned)}}{{efn|Cummings resigned after being accused of misappropriating funds; despite being cleared of wrongdoing, his political career in the territory had been ruined.<ref>{{Cite journal |last=Hanchett |first=William |date=April 1957 |title="His Turbulent Excellency," Alexander Cummings, Governor of Colorado Territory, 1865-1867 |url=https://www.historycolorado.org/sites/default/files/media/document/2018/ColoradoMagazine_v34n2_April1957.pdf |journal=The Colorado Magazine |volume=XXXIV |issue=2 |pages=101–103 |format=PDF |access-date=October 14, 2026 |archive-date=January 13, 2023 |archive-url=https://web.archive.org/web/20230113053616/https://www.historycolorado.org/sites/default/files/media/document/2018/ColoradoMagazine_v34n2_April1957.pdf |url-status=live}}</ref> Sources vary on when he resigned; modern sources almost all say April 1867,{{sfn|McMullin|1984|p=70}} but the best contemporary sources found say he tendered his resignation on May 8, the same day his successor was appointed.<ref name="cummings-resigns">{{Cite news |date=May 9, 1867 |title=Washington News |page=1 |newspaper=[[The Philadelphia Inquirer]] |url=https://www.newspapers.com/article/the-philadelphia-inquirer-cummings-tende/118312669/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926030426/https://www.newspapers.com/article/the-philadelphia-inquirer-cummings-tende/118312669/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Hunt, Alexander"|[[File:Alexander_Hunt.gif|75px]]
+|'''[[Alexander Cameron Hunt]]'''<br>{{Small|(1825–1894)}}<br>{{sfn|McMullin|1984|pp=70–72}}<ref name="co-hunt">{{Cite web |title=Alexander Cameron Hunt |url=https://archives.colorado.gov/collections/governors/alexander-cameron-hunt |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 9, 2023 |archive-url=https://web.archive.org/web/20230209222951/https://archives.colorado.gov/collections/governors/alexander-cameron-hunt |url-status=live}}</ref>
+|data-sort-value="713"|May 8, 1867{{efn|Hunt was appointed on May 8, 1867,<ref name="cummings-resigns" /> during a Senate recess; nominated on July 20;<ref>{{cite book |title=Senate Executive Journal, 40th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c109288502&seq=431 |page=851 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on November 29.<ref>{{cite book |title=Senate Executive Journal, 40th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c109288502&seq=440 |page=860 |via=[[HathiTrust]]}}</ref>}}<br/>–<br/>April 19, 1869<br>{{small|(713 days; replaced)}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="McCook, Edward"|[[File:Edward_M._McCook_-_Brady-Handy.jpg|75px]]
+|'''[[Edward M. McCook]]'''<br>{{Small|(1833–1909)}}<br>{{sfn|McMullin|1984|pp=72–73}}<ref name="co-mccook">{{Cite web |title=Edward Moody McCook |url=https://archives.colorado.gov/collections/governors/edward-moody-mccook |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 13, 2023 |archive-url=https://web.archive.org/web/20230113053619/https://archives.colorado.gov/collections/governors/edward-moody-mccook |url-status=live}}</ref>
+|data-sort-value="1460"|April 19, 1869{{efn|McCook was nominated on April 15, 1869,<ref>{{cite book |title=Senate Executive Journal, 41st Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178958&seq=184 |page=182 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 19,<ref>{{cite book |title=Senate Executive Journal, 41st Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178958&seq=221 |page=219 |via=[[HathiTrust]]}}</ref> and took office on June 15.{{sfn|McMullin|1984|p=72}}}}<br/>–<br/>April 17, 1873<br>{{small|(1460 days; replaced)}}{{efn|Sources vary on why McCook left office. Grant's nomination of his successor specified that McCook declined reappointment;<ref name="elbert-nominated" /> the Colorado State Archives say locals petitioned for his removal;<ref name="co-mccook" /> and McMullin says Grant refused to reappoint him.{{sfn|McMullin|1984|p=73}}}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Elbert, Samuel"|[[File:Samuel_Elbert.gif|75px]]
+|'''[[Samuel Hitt Elbert]]'''<br>{{Small|(1833–1899)}}<br>{{sfn|McMullin|1984|pp=73–75}}<ref name="co-elbert">{{Cite web |title=Samuel Hitt Elbert |url=https://archives.colorado.gov/collections/governors/samuel-hitt-elbert |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 13, 2023 |archive-url=https://web.archive.org/web/20230113053624/https://archives.colorado.gov/collections/governors/samuel-hitt-elbert |url-status=live}}</ref>
+|data-sort-value="429"|April 17, 1873{{efn|Elbert was nominated on March 19, 1873,<ref name="elbert-nominated">{{cite book |title=Senate Executive Journal, 43rd Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178974&seq=83 |page=83 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on March 20,<ref>{{cite book |title=Senate Executive Journal, 43rd Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178974&seq=90 |page=90 |via=[[HathiTrust]]}}</ref> for a term to begin April 17.<ref name="elbert-nominated" />}}<br/>–<br/>June 19, 1874{{efn|Most sources do not specify when Elbert left office. According to news dated July 22, 1874, he was still claiming to be governor,<ref>{{Cite news |date=July 2, 1874 |title=none |quote=[Elbert] claims to be legal Governor until formally relieved by his successor. |page=1 |newspaper=[[Akron Beacon Journal|Summit County Beacon]] |url=https://www.newspapers.com/article/the-summit-county-beacon-elbert-claims-t/118350368/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926040438/https://www.newspapers.com/article/the-summit-county-beacon-elbert-claims-t/118350368/ |archive-date=September 26, 2023 |url-status=live}}</ref> and that his successor likely arrived in the territory on July 24.<ref name="mccook-takes-office">{{Cite news |date=July 26, 1874 |title=none |quote=Gov. E. M. McCook, arrived at Denver via Denver Pacific, Friday morning. |page=3 |newspaper=[[Kansas City Journal-Post|Kansas City Journal of Commerce]] |url=https://www.newspapers.com/article/kansas-city-journal-mccook-arrives-in-de/118350477/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926030424/https://www.newspapers.com/article/118350477/mccook-arrives-in-denver/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}<br>{{small|(429 days; replaced)}} 
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="McCook, Edward"|[[File:Edward_M._McCook_-_Brady-Handy.jpg|75px]]
+|'''[[Edward M. McCook]]'''<br>{{Small|(1833–1909)}}<br>{{sfn|McMullin|1984|pp=72–73}}<ref name="co-mccook" />
+|data-sort-value="235"|June 19, 1874{{efn|McCook was nominated on January 28, 1874,<ref>{{cite book |title=Senate Executive Journal, 43rd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069752&seq=237 |page=233 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on June 19.<ref>{{cite book |title=Senate Executive Journal, 43rd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069752&seq=364 |pages=360–361 |via=[[HathiTrust]]}}</ref> He was sworn in out of state on June 26,<ref>{{Cite news |date=June 26, 1874 |publication-date=June 27, 1874 |title=Washington |location=Washington, D.C. |publication-place=Cheyenne, Wyoming |page=1 |newspaper=[[Wyoming Tribune Eagle|Cheyenne Daily Leader]] |url=https://www.newspapers.com/article/the-cheyenne-daily-leader-mccook-sworn-i/118350388/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926030425/https://www.newspapers.com/article/118350388/mccook-sworn-in/ |archive-date=September 26, 2023 |url-status=live}}</ref> and took office in the territory probably on July 26.<ref name="mccook-takes-office" />}}<br/>–<br/>February 8, 1875<br>{{small|(235 days; replaced)}}{{efn|Grant's appointment of McCook's successor specified that McCook resigned;<ref name="routt-nominated" /> contemporary news reports say that he was asked to resign, but refused.<ref>{{Cite news |date=February 3, 1875 |title=Colorado |page=1 |newspaper=[[Missouri Republican|St. Louis Republican]] |url=https://www.newspapers.com/article/the-st-louis-republic-mccook-declines-to/118353355/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926034357/https://www.newspapers.com/article/118353355/mccook-declines-to-resign/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Routt, John"|[[File:John Long Routt.jpg|75px]]
+|'''[[John Long Routt]]'''<br>{{Small|(1826–1907)}}<br>{{sfn|McMullin|1984|pp=75–76}}<ref name="co-routt">{{Cite web |title=John Long Routt |url=https://archives.colorado.gov/collections/governors/john-long-routt |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 13, 2023 |archive-url=https://web.archive.org/web/20230113053622/https://archives.colorado.gov/collections/governors/john-long-routt |url-status=live}}</ref>
+|data-sort-value="635"|February 8, 1875{{efn|Routt was nominated and confirmed by the Senate on February 8, 1875,<ref name="routt-nominated">{{cite book |title=Senate Executive Journal, 43rd Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069752&seq=512 |page=508 |via=[[HathiTrust]]}}</ref> and took office on March 29.{{sfn|McMullin|1984|p=75}}<ref>{{Cite news |date=April 1, 1875 |title=Local News |page=3 |newspaper=[[Lawrence Journal-World|Republican Journal and Daily Kansas Tribune]] |url=https://www.newspapers.com/article/lawrence-daily-journal-routt-sworn-in/118352113/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926102955/https://www.newspapers.com/article/lawrence-daily-journal-routt-sworn-in/118352113/ |archive-date=September 26, 2023 |url-status=live}}</ref><ref name="co-routt" />}}<br/>–<br/>November 3, 1876<br>{{small|(635 days;<br>elected state governor)}}
+|{{sortname|Ulysses S.|Grant}}
+|}
+
+===State of Colorado===
+
+The State of Colorado was [[Admission to the Union|admitted to the Union]] on August 1, 1876.
+
+To serve as governor, one must be at least 30 years old, be a citizen of the United States, and have been a resident of the state for at least two years prior to election. The [[Constitution of Colorado|state constitution]] of 1876 originally called for election of the governor every two years, with their term beginning on the second Tuesday of the January following the election.{{sfn|Thorpe|1909|p=478|loc=1876 art. IV, § 1}} An amendment passed in 1956, taking effect in 1959, increased terms to four years.<ref name="const-1956amend">{{cite news |url=https://www.newspapers.com/article/pueblo-chieftain-citizens-okay-changes-i/208240176/ |title=Citizens Okay Changes In Pension Plan |date=November 8, 1956 |agency=United Press |newspaper=[[The Pueblo Chieftain]] |page=6 |via=Newspapers.com |access-date=October 14, 2026}}</ref> Originally, there was no [[term limit]] applied to the governor; a 1990 amendment allowed governors to succeed themselves only once.<ref>{{cite news |url=https://www.newspapers.com/article/pueblo-chieftain-new-law-will-change-fac/208240431/ |title=New law will change faces of legislature |page=1 |date=November 10, 1990 |newspaper=[[The Pueblo Chieftain]] |access-date=October 13, 2026 |via=Newspapers.com |last=McAvoy |first=Tom |location=Denver |publication-place=Pueblo, Colorado}}</ref> There is however no limit on the total number of terms one may serve as long as one who has served the two term limit is out of office for four years.
+
+Should the office of governor become vacant, the [[list of lieutenant governors of Colorado|lieutenant governor]] becomes governor. If both the offices governor and lieutenant governor are vacant, the line of succession moves down through the senior members of the state senate and state house of representatives of the same party as the governor.{{sfn|Colo. Const.|loc=[https://50constitutions.org/co/constitution/section-id-67745 art. IV, § 13]}} The lieutenant governor was elected separately from the governor until a 1968 amendment to the constitution<ref>{{cite news |url=https://www.newspapers.com/article/colorado-springs-gazette-telegraph-two-a/208240691/ |title=Two Amendments Approved by State Voters |page=1 |date=November 6, 1968 |newspaper=[[The Gazette (Colorado Springs)|The Gazette-Telegraph]] |via=Newspapers.com |access-date=October 13, 2026}}</ref> made it so that they are elected on the same [[ticket (election)|ticket]].{{sfn|Colo. Const.|loc=[https://50constitutions.org/co/constitution/section-id-67718 art. IV, § 3]}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Colorado
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[List of lieutenant governors of Colorado|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Routt, John"|[[File:John Long Routt.jpg|75px]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[John Long Routt]]'''<br>{{Small|(1826–1907)}}<br>{{sfn|Sobel|1978|p=131}}<ref name="nga-routt">{{Cite web |title=John Long Routt |url=https://www.nga.org/governor/john-long-routt/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210181627/https://www.nga.org/governor/john-long-routt/ |url-status=live}}</ref><ref name="co-routt" />
+|data-sort-value="803"|November 3, 1876<ref>{{Cite news |publication-date=November 4, 1876 |date=November 3, 1876 |location=Denver |publication-place=Sioux City, Iowa |title=Colorado's Governor Inaugurated |page=1 |newspaper=[[Sioux City Journal|Sioux City Daily Journal]] |url=https://www.newspapers.com/article/sioux-city-journal-routt-inaugurated-nov/129304936/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802214605/https://www.newspapers.com/article/sioux-city-journal-routt-inaugurated-nov/129304936/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 14, 1879<br>{{small|(803 days; retired)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=77}}
+|[[1876 Colorado gubernatorial election|1876]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Lafayette|Head}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Pitkin, Frederick"|[[File:Frederick_Walker_Pitkin.jpg|75px]]
+|rowspan="2"|'''[[Frederick Walker Pitkin]]'''<br>{{Small|(1837–1886)}}<br>{{sfn|Sobel|1978|pp=131–132}}<ref name="nga-pitkin">{{Cite web |title=Frederick Walker Pitkin |url=https://www.nga.org/governor/frederick-walker-pitkin/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=January 13, 2023 |archive-url=https://web.archive.org/web/20230113175419/https://www.nga.org/governor/frederick-walker-pitkin/ |url-status=live}}</ref><ref name="co-pitkin">{{Cite web |title=Frederick W. Pitkin |url=https://archives.colorado.gov/collections/governors/frederick-w-pitkin |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210181818/https://archives.colorado.gov/collections/governors/frederick-w-pitkin |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 14, 1879<ref>{{Cite news |date=January 15, 1879 |publication-date=January 16, 1879 |location=Denver |publication-place=Omaha, Nebraska |title=State Legislatures |page=5 |newspaper=[[Omaha World-Herald|Omaha Herald]] |url=https://www.newspapers.com/article/the-omaha-herald-pitkin-inaugurated-janu/129305085/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802211543/https://www.newspapers.com/article/the-omaha-herald-pitkin-inaugurated-janu/129305085/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 9, 1883<br>{{small|(1457 days; retired)}}{{efn|Sobel notes that Pitkin ran unsuccessfully for Republican nomination for the [[United States Senate]] in 1882,{{sfn|Sobel|1978|p=132}} but it is unknown which of the two Senate races that year he was running in.}}
+|rowspan="2"|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=77}}
+|[[1878 Colorado gubernatorial election|1878]]
+|rowspan="2"|{{sortname|Horace|Tabor}}
+|- style="height:2em;"
+|[[1880 Colorado gubernatorial election|1880]]
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Grant, James"|[[File:James_Grant.gif|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James Benton Grant]]'''<br>{{Small|(1848–1911)}}<br>{{sfn|Sobel|1978|pp=132–133}}<ref name="nga-grant">{{Cite web |title=James Benton Grant |url=https://www.nga.org/governor/james-benton-grant/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194328/https://www.nga.org/governor/james-benton-grant/ |url-status=live}}</ref><ref name="co-grant">{{Cite web |title=James Benton Grant |url=https://archives.colorado.gov/collections/governors/james-benton-grant |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194327/https://archives.colorado.gov/collections/governors/james-benton-grant |url-status=live}}</ref>
+|data-sort-value="736"|January 9, 1883<ref>{{cite book |title=Senate Journal of the General Assembly, 1883 sess. |author=Colorado Senate |page=73 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881411&seq=81 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1885<br>{{small|(736 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=77}}
+|[[1882 Colorado gubernatorial election|1882]]
+|{{sortname|William H.|Meyer|dab=Colorado politician}}{{efn|Represented the [[Colorado Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Eaton, Benjamin"|[[File:Benjamin_Eaton.gif|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Benjamin Harrison Eaton]]'''<br>{{Small|(1833–1904)}}<br>{{sfn|Sobel|1978|p=133}}<ref name="nga-eaton">{{Cite web |title=Benjamin Harrison Eaton |url=https://www.nga.org/governor/benjamin-harrison-eaton/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194326/https://www.nga.org/governor/benjamin-harrison-eaton/ |url-status=live}}</ref><ref name="co-eaton">{{Cite web |title=Benjamin Harrison Eaton |url=https://archives.colorado.gov/collections/governors/benjamin-harrison-eaton |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194328/https://archives.colorado.gov/collections/governors/benjamin-harrison-eaton |url-status=live}}</ref>
+|data-sort-value="729"|January 13, 1885<ref>{{cite book |title=Senate Journal of the General Assembly, 1885 sess. |author=Colorado Senate |page=106 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881412&seq=112 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1887<br>{{small|(729 days; retired)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=77}}
+|[[1884 Colorado gubernatorial election|1884]]
+|{{sortname|Peter W.|Breene}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Adams, Alva"|[[File:Alvaadams.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Alva Adams (governor)|Alva Adams]]'''<br>{{Small|(1850–1922)}}<br>{{sfn|Sobel|1978|pp=133–134}}<ref name="nga-adams">{{Cite web |title=Alva Adams |url=https://www.nga.org/governor/alva-adams/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194328/https://www.nga.org/governor/alva-adams/ |url-status=live}}</ref><ref name="co-adams">{{Cite web |title=Alva Adams |url=https://archives.colorado.gov/collections/governors/alva-adams |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194328/https://archives.colorado.gov/collections/governors/alva-adams |url-status=live}}</ref>
+|data-sort-value="729"|January 11, 1887<ref>{{cite book |title=Senate Journal of the General Assembly, 1887 sess. |author=Colorado Senate |page=186 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881413&seq=194 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1889<br>{{small|(729 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=77}}
+|[[1886 Colorado gubernatorial election|1886]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Norman H.|Meldrum}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Cooper, Job"|[[File:Job_Cooper.gif|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Job Adams Cooper]]'''<br>{{Small|(1843–1899)}}<br>{{sfn|Sobel|1978|p=134}}<ref name="nga-cooper">{{Cite web |title=Job Adams Cooper |url=https://www.nga.org/governor/job-adams-cooper/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194351/https://www.nga.org/governor/job-adams-cooper/ |url-status=live}}</ref><ref name="co-cooper">{{Cite web |title=Job A. Cooper |url=https://archives.colorado.gov/collections/governors/job-a-cooper |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=March 1, 2024 |archive-url=https://web.archive.org/web/20240301030457/https://archives.colorado.gov/collections/governors/job-a-cooper |url-status=live}}</ref>
+|data-sort-value="736"|January 8, 1889<ref>{{cite book |title=Senate Journal of the General Assembly, 1889 sess. |author=Colorado Senate |page=75 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881414&seq=81 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1891<br>{{small|(736 days; retired)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=77}}
+|[[1888 Colorado gubernatorial election|1888]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William Grover|Smith}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Routt, John"|[[File:John Long Routt.jpg|75px]]
+|'''[[John Long Routt]]'''<br>{{Small|(1826–1907)}}<br>{{sfn|Sobel|1978|p=131}}<ref name="nga-routt" /><ref name="co-routt" />
+|data-sort-value="729"|January 13, 1891<ref>{{cite book |title=Senate Journal of the General Assembly, 1891 sess. |author=Colorado Senate |page=102 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881415&seq=108 |via=[[HathiTrust]]}}</ref><br />–<br />January 10, 1893<br>{{small|(729 days; retired)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=77}}
+|[[1890 Colorado gubernatorial election|1890]]
+|{{sortname|William|Story|dab=attorney}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Waite, Davis"|[[File:Davis_Hanson_Waite.gif|75px]]
+|style="color:inherit;background:{{party color|People's Party (United States)}};" title="Represented the People's Party"|
+|'''[[Davis Hanson Waite]]'''<br>{{Small|(1825–1901)}}<br>{{sfn|Sobel|1978|p=135}}<ref name="nga-waite">{{Cite web |title=Davis Hanson Waite |url=https://www.nga.org/governor/davis-hanson-waite/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194328/https://www.nga.org/governor/davis-hanson-waite/ |url-status=live}}</ref><ref name="co-waite">{{Cite web |title=Davis H. Waite |url=https://archives.colorado.gov/collections/governors/davis-h-waite |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194326/https://archives.colorado.gov/collections/governors/davis-h-waite |url-status=live}}</ref>
+|data-sort-value="729"|January 10, 1893<ref>{{Cite news |date=January 14, 1893 |title=New Executive |page=7 |newspaper=Lamar Register |url=https://www.newspapers.com/article/the-lamar-register-waite-inaugurated/118365323/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926034405/https://www.newspapers.com/article/the-lamar-register-waite-inaugurated/118365323/ |archive-date=September 26, 2023 |url-status=live}}</ref><br />–<br />January 8, 1895<br>{{small|(729 days; lost election)}}
+|[[Populist Party (United States)|People's]]{{efn|Kallenbach labels Waite as a Populist and Silver Democrat.{{sfn|Kallenbach|1977|p=80}}}}
+|[[1892 Colorado gubernatorial election|1892]]
+|style="color:inherit;background:{{party color|People's Party (United States)}};" title="Represented the People's Party"|
+|{{sortname|David H.|Nichols}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="McIntire, Albert"|[[File:Albert_Mcintire.gif|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Albert McIntire]]'''<br>{{Small|(1853–1935)}}<br>{{sfn|Sobel|1978|pp=135–136}}<ref name="nga-mcintire">{{Cite web |title=Albert Wills McIntire |url=https://www.nga.org/governor/albert-wills-mcintire/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210201017/https://www.nga.org/governor/albert-wills-mcintire/ |url-status=live}}</ref><ref name="co-mcintire">{{Cite web |title=Albert W. McIntire |url=https://archives.colorado.gov/collections/governors/albert-w-mcintire |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 5, 2023 |archive-url=https://web.archive.org/web/20230205233529/https://archives.colorado.gov/collections/governors/albert-w-mcintire |url-status=live}}</ref>
+|data-sort-value="736"|January 8, 1895<ref>{{cite book |title=House Journal of the General Assembly, 1895 sess. |author=Colorado House of Representatives |page=75 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882410&seq=81 |via=[[HathiTrust]]}}</ref><br />–<br />January 12, 1897<br>{{small|(736 days; retired)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1894 Colorado gubernatorial election|1894]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Jared L.|Brush}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Adams, Alva"|[[File:Alvaadams.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Alva Adams (governor)|Alva Adams]]'''<br>{{Small|(1850–1922)}}<br>{{sfn|Sobel|1978|pp=133–134}}<ref name="nga-adams" /><ref name="co-adams" />
+|data-sort-value="729"|January 12, 1897<ref>{{cite book |title=House Journal of the General Assembly, 1897 sess. |author=Colorado House of Representatives |page=109 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882411&seq=115 |via=[[HathiTrust]]}}</ref><br />–<br />January 10, 1899<br>{{small|(729 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1896 Colorado gubernatorial election|1896]]
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Thomas, Charles"|[[File:Charles_Spalding_Thomas.jpg|75px]]
+|'''[[Charles S. Thomas]]'''<br>{{Small|(1849–1934)}}<br>{{sfn|Sobel|1978|pp=136–137}}<ref name="nga-thomas">{{Cite web |title=Charles Spalding Thomas |url=https://www.nga.org/governor/charles-spalding-thomas/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194329/https://www.nga.org/governor/charles-spalding-thomas/ |url-status=live}}</ref><ref name="co-thomas">{{Cite web |title=Charles S. Thomas |url=https://archives.colorado.gov/collections/governors/charles-s-thomas |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194328/https://archives.colorado.gov/collections/governors/charles-s-thomas |url-status=live}}</ref>
+|data-sort-value="729"|January 10, 1899<ref>{{cite book |title=House Journal of the General Assembly, 1899 sess. |author=Colorado House of Representatives |page=70 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882412&seq=74 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1901<br>{{small|(729 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{efn|Thomas was a Democrat,{{sfn|Kallenbach|1977|p=78}} but he has been described as a [[Electoral fusion in the United States|fusion]] candidate, as he also had support from the [[Populist Party (United States)|People's Party]].{{sfn|Sobel|1978|p=136}}<ref name="co-thomas" />}}
+|[[1898 Colorado gubernatorial election|1898]]
+|style="color:inherit;background:{{party color|People's Party (United States)}};" title="Represented the People's Party"|
+|{{sortname|Francis Patrick|Carney}}{{efn|Represented the [[Populist Party (United States)|Populist Party]]}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Orman, James"|[[File:James_Orman.gif|75px]]
+|'''[[James Bradley Orman]]'''<br>{{Small|(1849–1919)}}<br>{{sfn|Sobel|1978|p=137}}<ref name="nga-orman">{{Cite web |title=James Bradley Orman |url=https://www.nga.org/governor/james-bradley-orman/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194328/https://www.nga.org/governor/james-bradley-orman/ |url-status=live}}</ref><ref name="co-orman">{{Cite web |title=James B. Orman |url=https://archives.colorado.gov/collections/governors/james-b-orman |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210194329/https://archives.colorado.gov/collections/governors/james-b-orman |url-status=live}}</ref>
+|data-sort-value="736"|January 8, 1901<ref>{{cite book |title=House Journal of the General Assembly, 1901 sess. |author=Colorado House of Representatives |page=112 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2885749&seq=116 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1903<br>{{small|(736 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{efn|Orman was a Democrat,{{sfn|Kallenbach|1977|p=78}} and was also nominated by the [[Populist Party (United States)|People's Party]].{{sfn|Sobel|1978|p=137}}}}
+|[[1900 Colorado gubernatorial election|1900]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|David C.|Coates}}{{efn|The Colorado State Archives labels Coates a Democrat;<ref>{{Cite web |title=Lieutenant Governors of Colorado |url=http://www.colorado.gov/dpa/doit/archives/offic/ltgov.html |access-date=October 25, 2009 |website=Colorado State Archives |archive-date=July 17, 2012 |archive-url=https://web.archive.org/web/20120717004538/http://www.colorado.gov/dpa/doit/archives/offic/ltgov.html |url-status=dead}}</ref> however, a contemporary New York Times article describes him as a Populist elected on a fusion ticket, and that he had renounced all other parties and become a Socialist.<ref>{{Cite news |date=July 13, 1902 |title=General Notes |page=6 |newspaper=[[The New York Times]] |url=https://www.newspapers.com/article/the-new-york-times-general-notes/132436574/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926034402/https://www.newspapers.com/article/the-new-york-times-general-notes/132436574/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Peabody, James"|[[File:James_Hamilton_Peabody.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James Hamilton Peabody]]'''<br>{{Small|(1852–1917)}}<br>{{sfn|Sobel|1978|p=138}}<ref name="nga-peabody">{{Cite web |title=James Hamilton Peabody |url=https://www.nga.org/governor/james-hamilton-peabody/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210201029/https://www.nga.org/governor/james-hamilton-peabody/ |url-status=live}}</ref><ref name="co-peabody">{{Cite web |title=James H. Peabody |url=https://archives.colorado.gov/sites/archives/files/Peabody.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=September 24, 2022 |archive-url=https://web.archive.org/web/20220924191425/https://archives.colorado.gov/sites/archives/files/Peabody.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="729"|January 13, 1903<ref>{{cite book |title=House Journal of the General Assembly, 1903 sess. |author=Colorado House of Representatives |page=95 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2885747&seq=101&q1=oath |via=[[HathiTrust]]}}</ref><br />–<br />January 10, 1905<br>{{small|(729 days; lost election)}}{{efn|The 1904 election was rife with fraud and controversy. Alva Adams won election, but soon after he took office the Republican legislature declared James Peabody to be the actual winner, on the condition that Peabody immediately tender his resignation, postdated to the next day. Peabody's lieutenant governor, Jesse McDonald, then succeeded to the governorship.<ref>{{Cite book |last=Powe, Lucas A. |url=https://books.google.com/books?id=Ba4wDwAAQBAJ&lpg=PR1&pg=PA2 |title=The Fourth Estate and the Constitution: Freedom of the Press in America |publisher=[[University of California Press]] |year=1992 |pages=2–3 |isbn=9780520080386 |via=[[Google Books]]}}</ref><ref>{{Cite news |date=March 18, 1905 |title=none |quote=Three different governors within twenty-four hours is a record established by Colorado this week that will remain undisputed. |page=4 |newspaper=Idaho Springs Siftings |url=https://www.newspapers.com/article/the-idaho-springs-siftings-news/118368463/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926102955/https://www.newspapers.com/article/the-idaho-springs-siftings-news/118368463/ |archive-date=September 26, 2023 |url-status=live}}</ref>|name=elect-1904}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1902 Colorado gubernatorial election|1902]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Warren A.|Haggott}}{{efn|The Colorado State Archives says Haggott served from 1902 to 1903; however, multiple sources say he served with Peabody<ref>{{Cite book |last=Goodspeed, Weston Arthur |url=https://books.google.com/books?id=cCAuAAAAYAAJ&pg=PA481 |title=The Province and the States: Missouri, Kansas, Colorado |year=1904 |page=481 |via=[[Google Books]]}}</ref> well into 1904.<ref>{{Cite news |date=June 7, 1904 |publication-date=June 8, 1904 |location=Denver |publication-place=New York City |title=May Declare Martial Law |page=2 |newspaper=[[The New York Times]] |url=https://www.newspapers.com/article/the-new-york-times-may-declare-martial-l/132436657/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926030426/https://www.newspapers.com/article/the-new-york-times-may-declare-martial-l/132436657/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Adams, Alva"|[[File:Alvaadams.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Alva Adams (governor)|Alva Adams]]'''<br>{{Small|(1850–1922)}}<br>{{sfn|Sobel|1978|pp=133–134}}<ref name="nga-adams" /><ref name="co-adams" />
+|data-sort-value="66"|January 10, 1905<ref>{{cite book |title=House Journal of the General Assembly, 1905 sess. |author=Colorado House of Representatives |page=47 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2885748&seq=53 |via=[[HathiTrust]]}}</ref><br />–<br />March 16, 1905<br>{{small|(66 days; lost election)}}{{efn|name=elect-1904}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|rowspan="2"|[[1904 Colorado gubernatorial election|1904]]{{efn|name=elect-1904}}
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Arthur|Cornforth}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Peabody, James"|[[File:James_Hamilton_Peabody.jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James Hamilton Peabody]]'''<br>{{Small|(1852–1917)}}<br>{{sfn|Sobel|1978|p=138}}<ref name="nga-peabody" /><ref name="co-peabody" />
+|data-sort-value="1"|March 16, 1905<ref>{{cite book |title=Journal of the Fifteenth General Assembly of the State of Colorado in Joint Session: Contest for the Office of Governor |author=Colorado General Assembly |page=424 |hdl=11629/co:33903 |year=1905}}</ref><br />–<br />March 17, 1905<br>{{small|(1 day; resigned)}}{{efn|name=elect-1904}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Jesse Fuller|McDonald}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="McDonald, Jesse"|[[File:Jesse_Mcdonald.gif|75px]]
+|rowspan="2"|'''[[Jesse Fuller McDonald]]'''<br>{{Small|(1858–1942)}}<br>{{sfn|Sobel|1978|pp=138–139}}<ref name="nga-mcdonald">{{Cite web |title=Jesse Fuller McDonald |url=https://www.nga.org/governor/jesse-fuller-mcdonald/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210201028/https://www.nga.org/governor/jesse-fuller-mcdonald/ |url-status=live}}</ref><ref name="co-mcdonald">{{Cite web |title=Jesse Fuller McDonald |url=https://archives.colorado.gov/sites/archives/files/documents/governors-McDonald-finding-aid.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=November 27, 2022 |archive-url=https://web.archive.org/web/20221127031233/https://archives.colorado.gov/sites/archives/files/documents/governors-McDonald-finding-aid.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="663"|March 17, 1905<ref>{{cite book |title=House Journal of the General Assembly, 1905 sess. |author=Colorado House of Representatives |page=582 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2885748&seq=588 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1907<br>{{small|(663 days; retired)}}
+|rowspan="2"|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}{{efn|name=elect-1904}}
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Arthur|Cornforth}}{{efn|name=lt-dem}}<br>{{small|(removed July 5, 1905)}}
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Fred W.|Parks}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Buchtel, Henry"|[[File:Henry_Buchtel.gif|75px]]
+|'''[[Henry Augustus Buchtel]]'''<br>{{Small|(1847–1924)}}<br>{{sfn|Sobel|1978|pp=139–140}}<ref name="nga-buchtel">{{Cite web |title=Henry Augustus Buchtel |url=https://www.nga.org/governor/henry-augustus-buchtel/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210201017/https://www.nga.org/governor/henry-augustus-buchtel/ |url-status=live}}</ref><ref name="co-buchtel">{{Cite web |title=Dr. Henry A. Buchtel |url=https://archives.colorado.gov/sites/archives/files/Buchtel_0.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210201019/https://archives.colorado.gov/sites/archives/files/Buchtel_0.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="736"|January 8, 1907<ref>{{cite book |title=House Journal of the General Assembly, 1907 sess. |author=Colorado House of Representatives |page=51 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2885745&seq=61 |via=[[HathiTrust]]}}</ref><br />–<br />January 12, 1909<br>{{small|(736 days; retired)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1906 Colorado gubernatorial election|1906]]
+|{{sortname|Erastus|Harper}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Shafroth, John"|[[File:John_Shafroth.gif|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John F. Shafroth]]'''<br>{{Small|(1854–1922)}}<br>{{sfn|Sobel|1978|p=140}}<ref name="nga-shafroth">{{Cite web |title=John Franklin Shafroth |url=https://www.nga.org/governor/john-franklin-shafroth/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 10, 2023 |archive-url=https://web.archive.org/web/20230210201019/https://www.nga.org/governor/john-franklin-shafroth/ |url-status=live}}</ref><ref name="co-shafroth">{{Cite web |title=John F. Shafroth |url=https://archives.colorado.gov/sites/archives/files/Shafroth.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=September 24, 2022 |archive-url=https://web.archive.org/web/20220924193203/https://archives.colorado.gov/sites/archives/files/Shafroth.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1909<ref>{{cite book |title=House Journal of the General Assembly, 1909 sess. |author=Colorado House of Representatives |page=65 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882304&seq=73 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1913<br>{{small|(1464 days; retired)}}{{efn|Shafroth was instead [[1912–13 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=140}}}}
+|rowspan="2"|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1908 Colorado gubernatorial election|1908]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Stephen R.|Fitzgarrald}}
+|- style="height:2em;"
+|[[1910 Colorado gubernatorial election|1910]]
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Ammons, Elias"|[[File:Elias_Ammons.gif|75px]]
+|'''[[Elias M. Ammons]]'''<br>{{Small|(1860–1925)}}<br>{{sfn|Sobel|1978|p=141}}<ref name="nga-ammons-elias">{{Cite web |title=Elias Milton Ammons |url=https://www.nga.org/governor/elias-milton-ammons/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 13, 2023 |archive-url=https://web.archive.org/web/20230213173534/https://www.nga.org/governor/elias-milton-ammons/ |url-status=live}}</ref><ref name="co-ammons-elias">{{Cite web |title=Elias M. Ammons |url=https://archives.colorado.gov/sites/archives/files/Ammons.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=November 27, 2022 |archive-url=https://web.archive.org/web/20221127014149/https://archives.colorado.gov/sites/archives/files/Ammons.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="729"|January 14, 1913<ref>{{Cite news |date=January 14, 1913 |publication-date=January 16, 1913 |location=Denver |publication-place=Fort Collins, Colorado |title=Governor Ammons Is Inaugurated |page=3 |newspaper=Fort Collins Weekly Express |url=https://www.newspapers.com/article/the-fort-collins-express-and-the-fort-co/129310397/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802214601/https://www.newspapers.com/article/the-fort-collins-express-and-the-fort-co/129310397/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 12, 1915<br>{{small|(729 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1912 Colorado gubernatorial election|1912]]
+|{{sortname|Benjamin F.|Montgomery}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Carlson, George"|[[File:George_Alfred_Carlson_in_1914.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[George Alfred Carlson]]'''<br>{{Small|(1876–1926)}}<br>{{sfn|Sobel|1978|pp=141–142}}<ref name="nga-carlson">{{Cite web |title=George Alfred Carlson |url=https://www.nga.org/governor/george-alfred-carlson/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 13, 2023 |archive-url=https://web.archive.org/web/20230213173535/https://www.nga.org/governor/george-alfred-carlson/ |url-status=live}}</ref><ref name="co-carlson">{{Cite web |title=George Alfred Carlson |url=https://archives.colorado.gov/sites/archives/files/Carlson.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 13, 2023 |archive-url=https://web.archive.org/web/20230213173536/https://archives.colorado.gov/sites/archives/files/Carlson.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="729"|January 12, 1915<ref>{{cite book |title=House Journal of the General Assembly, 1915 sess. |author=Colorado House of Representatives |page=77 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882309&seq=83 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1917<br>{{small|(729 days; lost election)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1914 Colorado gubernatorial election|1914]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Moses E.|Lewis}}
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Gunter, Julius"|[[File:Julius_Gunter.gif|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Julius Caldeen Gunter]]'''<br>{{Small|(1858–1940)}}<br>{{sfn|Sobel|1978|p=142}}<ref name="nga-gunter">{{Cite web |title=Julius Caldeen Gunter |url=https://www.nga.org/governor/julius-caldeen-gunter/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060449/https://www.nga.org/governor/julius-caldeen-gunter/ |url-status=live}}</ref><ref name="co-gunter">{{Cite web |title=Julius C. Gunter |url=https://archives.colorado.gov/sites/archives/files/Gunter.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 30, 2023 |archive-url=https://web.archive.org/web/20230130014751/https://archives.colorado.gov/sites/archives/files/Gunter.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="736"|January 9, 1917<ref>{{Cite news |date=January 9, 1917 |publication-date=January 11, 1917 |location=Denver |publication-place=Cheyenne Wells, Colorado |title=Gunter Takes Office Quietly |page=3 |newspaper=Cheyenne Record |url=https://www.newspapers.com/article/eastern-colorado-times-gunter-inaugurate/129314672/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802214557/https://www.newspapers.com/article/eastern-colorado-times-gunter-inaugurate/129314672/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 14, 1919<br>{{small|(736 days;<br>lost nomination)}}<ref>{{cite news |url=https://www.newspapers.com/article/the-idaho-springs-siftings-news-result-o/208288393/ |title=Result of Primaries |page=3 |location=Denver |publication-place=Idaho Springs, Colorado |newspaper=Idaho Springs Siftings-News |via=Newspapers.com |access-date=October 14, 2026 |date=October 4, 1918}}</ref>
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1916 Colorado gubernatorial election|1916]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|James|Pulliam}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Shoup, Oliver"|[[File:Oliver_Henry_Shoup.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Oliver Henry Shoup]]'''<br>{{Small|(1869–1940)}}<br>{{sfn|Sobel|1978|p=143}}<ref name="nga-shoup">{{Cite web |title=Oliver Henry Nelson Shoup |url=https://www.nga.org/governor/oliver-henry-nelson-shoup/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060442/https://www.nga.org/governor/oliver-henry-nelson-shoup/ |url-status=live}}</ref><ref name="co-shoup">{{Cite web |title=Oliver H. Shoup |url=https://archives.colorado.gov/sites/archives/files/Shoup.pdf |access-date=February 13, 2023 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060442/https://archives.colorado.gov/sites/archives/files/Shoup.pdf |url-status=dead |format=PDF}}</ref>
+|rowspan="2" data-sort-value="1457"|January 14, 1919<ref>{{cite book |title=House Journal of the General Assembly, 1919 sess. |author=Colorado House of Representatives |page=206 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882312&seq=210 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1923<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1918 Colorado gubernatorial election|1918]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|George|Stephan}}
+|- style="height:2em;"
+|[[1920 Colorado gubernatorial election|1920]]
+|{{sortname|Earl|Cooley|dab=politician}}
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Sweet, William"|[[File:William_Sweet.gif|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William Ellery Sweet]]'''<br>{{Small|(1869–1942)}}<br>{{sfn|Sobel|1978|pp=143–144}}<ref name="nga-sweet">{{Cite web |title=William Ellery Sweet |url=https://www.nga.org/governor/william-ellery-sweet/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060443/https://www.nga.org/governor/william-ellery-sweet/ |url-status=live}}</ref><ref name="co-sweet">{{Cite web |title=William E. Sweet |url=https://archives.colorado.gov/sites/archives/files/Sweet.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 30, 2023 |archive-url=https://web.archive.org/web/20230130024319/https://archives.colorado.gov/sites/archives/files/Sweet.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="736"|January 9, 1923<ref>{{Cite news |publication-date=January 10, 1923 |date=January 9, 1923 |location=Denver |publication-place=Fort Collins, Colorado |title=Attendance at Inauguration Ceremony Largest in History of State; Program Impressive |page=1 |newspaper=[[Fort Collins Coloradoan|Fort Collins Express]] |url=https://www.newspapers.com/article/the-fort-collins-express-sweet-inaugurat/129315044/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802211536/https://www.newspapers.com/article/the-fort-collins-express-sweet-inaugurat/129315044/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 13, 1925<br>{{small|(736 days; lost election)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1922 Colorado gubernatorial election|1922]]
+|{{sortname|Robert F.|Rockwell}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Morley, Clarence"|[[File:Bench_and_bar_of_Colorado_-_CLARENCE_J._MORLEY.png|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Clarence Morley]]'''<br>{{Small|(1869–1948)}}<br>{{sfn|Sobel|1978|p=144}}<ref name="nga-morley">{{Cite web |title=Clarence Morley |url=https://www.nga.org/governor/clarence-morley/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060447/https://www.nga.org/governor/clarence-morley/ |url-status=live}}</ref><ref name="co-morley">{{Cite web |title=Clarence Morley |url=https://archives.colorado.gov/sites/archives/files/Morley.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060441/https://archives.colorado.gov/sites/archives/files/Morley.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="729"|January 13, 1925<ref>{{cite book |title=House Journal of the General Assembly, 1925 sess. |author=Colorado House of Representatives |page=105 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882317&seq=109 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1927<br>{{small|(729 days; retired)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1924 Colorado gubernatorial election|1924]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Sterling Byrd|Lacy}}{{efn|Represented the [[Colorado Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|25
+|rowspan="3" data-sort-value="Adams, Billy"| [[File:State_Senator_Billy_Adams,_Colorado,_1915.png|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Billy Adams (politician)|Billy Adams]]'''<br>{{Small|(1861–1954)}}<br>{{sfn|Sobel|1978|p=145}}<ref name="nga-adams-billy">{{Cite web |title=William Herbert Adams |url=https://www.nga.org/governor/william-herbert-adams/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060445/https://www.nga.org/governor/william-herbert-adams/ |url-status=live}}</ref><ref name="co-adams-billy">{{Cite web |title=William H. Adams |url=https://archives.colorado.gov/sites/archives/files/William%20Adams.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060442/https://archives.colorado.gov/sites/archives/files/William%20Adams.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="3" data-sort-value="2192"|January 11, 1927<ref>{{Cite news |date=January 11, 1927 |location=Denver |publication-place=Fort Collins, Colorado |title=William H. Adams Now Is Governor of Colorado |page=1 |newspaper=[[Fort Collins Coloradoan|Fort Collins Express-Courier]] |agency=Associated Press |url=https://www.newspapers.com/article/fort-collins-coloradoan-adams-inaugurate/129315836/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802214608/https://www.newspapers.com/article/fort-collins-coloradoan-adams-inaugurate/129315836/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 10, 1933<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1926 Colorado gubernatorial election|1926]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|George Milton|Corlett}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1928 Colorado gubernatorial election|1928]]
+|- style="height:2em;"
+|[[1930 Colorado gubernatorial election|1930]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Edwin C.|Johnson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Johnson, Edwin"|[[File:Edwin_Johnson.jpg|75px]]
+|rowspan="2"|'''[[Edwin C. Johnson]]'''<br>{{Small|(1884–1970)}}<br>{{sfn|Sobel|1978|pp=145–146}}<ref name="nga-johnson-edwin">{{Cite web |title=Edwin Carl Johnson |url=https://www.nga.org/governor/edwin-carl-johnson/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=November 30, 2023 |archive-url=https://web.archive.org/web/20231130112534/https://www.nga.org/governor/edwin-carl-johnson/ |url-status=live}}</ref><ref name="co-johnson-edwin">{{Cite web |title=Edwin Johnson |url=https://archives.colorado.gov/sites/archives/files/Edwin%20Johnson.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060439/https://archives.colorado.gov/sites/archives/files/Edwin%20Johnson.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="1454"|January 10, 1933<ref>{{Cite news |last=Hershey |first=Colin Scott |date=January 10, 1933 |title=New Governor of Colorado |page=1 |newspaper=[[Fort Collins Coloradoan|Fort Collins Express-Courier]] |agency=Associated Press |location=Denver |publication-place=Fort Collins, Colorado |url=https://www.newspapers.com/article/fort-collins-coloradoan-johnson-inaugura/129315926/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802210929/https://www.newspapers.com/article/fort-collins-coloradoan-johnson-inaugura/129315926/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 2, 1937<br>{{small|(1454 days; resigned)}}{{efn|Johnson resigned, having been [[1936 United States Senate election in Colorado|elected]] to the [[United States Senate]].<ref name="nga-johnson-edwin" />}}
+|rowspan="2"|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1932 Colorado gubernatorial election|1932]]
+|rowspan="2"|{{sortname|Ray Herbert|Talbot}}
+|- style="height:2em;"
+|[[1934 Colorado gubernatorial election|1934]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Talbot, Ray"|[[File:Raymond Talbot (Colorado governor).jpg|75px]]
+|'''[[Ray Herbert Talbot]]'''<br>{{Small|(1896–1955)}}<br>{{sfn|Sobel|1978|p=146}}<ref name="nga-talbot">{{Cite web |title=Raymond Herbert Talbot |url=https://www.nga.org/governor/raymond-herbert-talbot/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060443/https://www.nga.org/governor/raymond-herbert-talbot/ |url-status=live}}</ref><ref name="co-talbot">{{Cite web |title=Raymond H. Talbot |url=https://archives.colorado.gov/sites/archives/files/Talbot.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060439/https://archives.colorado.gov/sites/archives/files/Talbot.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="11"|January 2, 1937<ref>{{Cite news |publication-date=January 3, 1937 |date=January 2, 1937 |location=Denver |publication-place=Grand Junction, Colorado |title=Colorado Has a New Governor |page=14 |newspaper=[[The Daily Sentinel (Grand Junction, Colorado)|The Daily Sentinel]] |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-sentinel-talbot-inaugurated-j/118604883/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926103838/https://www.newspapers.com/article/the-daily-sentinel-talbot-inaugurated-j/118604883/ |archive-date=September 26, 2023 |url-status=live}}</ref><br />–<br />January 12, 1937<br>{{small|(11 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Ammons, Teller"|[[File:Teller Ammons (Colorado governor).gif|75px]]
+|'''[[Teller Ammons]]'''<br>{{Small|(1895–1972)}}<br>{{sfn|Sobel|1978|p=147}}<ref name="nga-ammons-teller">{{Cite web |title=Teller Ammons |url=https://www.nga.org/governor/teller-ammons/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060444/https://www.nga.org/governor/teller-ammons/ |url-status=live}}</ref><ref name="co-ammons-teller">{{Cite web |title=Teller Ammons |url=https://archives.colorado.gov/sites/archives/files/teller%20ammons.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=November 27, 2022 |archive-url=https://web.archive.org/web/20221127013645/https://archives.colorado.gov/sites/archives/files/teller%20ammons.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="729"|January 12, 1937<ref>{{Cite news |date=January 12, 1937 |title=New Governor Takes Oath at Noon Tuesday |page=1 |newspaper=[[Fort Collins Coloradoan|Fort Collins Express-Courier]] |agency=Associated Press |location=Denver |publication-place=Fort Collins, Colorado |url=https://www.newspapers.com/article/fort-collins-coloradoan-ammons-inaugurat/129316399/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802210930/https://www.newspapers.com/article/fort-collins-coloradoan-ammons-inaugurat/129316399/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 10, 1939<br>{{small|(729 days; lost election)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1936 Colorado gubernatorial election|1936]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Frank|Hayes|dab=unionist}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Carr, Ralph"|[[File:Gov_Ralph_L_Carr_1940 (cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Ralph Lawrence Carr]]'''<br>{{Small|(1887–1950)}}<br>{{sfn|Sobel|1978|pp=147–148}}<ref name="nga-carr">{{Cite web |title=Ralph Lawrence Carr |url=https://www.nga.org/governor/ralph-lawrence-carr/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060444/https://www.nga.org/governor/ralph-lawrence-carr/ |url-status=live}}</ref><ref name="co-carr">{{Cite web |title=Ralph L. Carr |url=https://archives.colorado.gov/sites/archives/files/Carr.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 30, 2023 |archive-url=https://web.archive.org/web/20230130010628/https://archives.colorado.gov/sites/archives/files/Carr.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="1464"|January 10, 1939<ref>{{Cite news |last=Mickel |first=Merlin |date=January 10, 1939 |location=Denver |publication-place=Grand Junction, Colorado |title=Hundreds of Persons Crowd Into State House Corridors |page=1 |newspaper=[[The Daily Sentinel (Grand Junction, Colorado)|The Daily Sentinel]] |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-sentinel-carr-inaugurated-janu/129316986/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802210935/https://www.newspapers.com/article/the-daily-sentinel-carr-inaugurated-janu/129316986/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 12, 1943<br>{{small|(1464 days; retired)}}{{efn|Carr instead [[1942 United States Senate election in Colorado|ran unsuccessfully]] for the [[United States Senate]].}}
+|rowspan="2"|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1938 Colorado gubernatorial election|1938]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|John Charles|Vivian}}
+|- style="height:2em;"
+|[[1940 Colorado gubernatorial election|1940]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Vivian, Charles"|[[File:John C. Vivian (Colorado governor).jpg|75px]]
+|rowspan="2"|'''[[John Charles Vivian]]'''<br>{{Small|(1887–1964)}}<br>{{sfn|Sobel|1978|pp=148–149}}<ref name="nga-vivian">{{Cite web |title=John Charles Vivian |url=https://www.nga.org/governor/john-charles-vivian/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060445/https://www.nga.org/governor/john-charles-vivian/ |url-status=live}}</ref><ref name="co-vivian">{{Cite web |title=John Charles Vivian |url=https://archives.colorado.gov/sites/archives/files/Vivian.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214060444/https://archives.colorado.gov/sites/archives/files/Vivian.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1943<ref>{{cite book |title=House Journal of the General Assembly, 1943 sess. |author=Colorado House of Representatives |page=103 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882332&seq=109 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1947<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1942 Colorado gubernatorial election|1942]]
+|rowspan="2"|{{sortname|William Eugene|Higby}}
+|- style="height:2em;"
+|[[1944 Colorado gubernatorial election|1944]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Knous, William"|[[File:William Lee Knous (CO).png|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[William Lee Knous]]'''<br>{{Small|(1889–1959)}}<br>{{sfn|Sobel|1978|p=149}}<ref name="nga-knous">{{Cite web |title=William Lee Knous |url=https://www.nga.org/governor/william-lee-knous/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 1, 2023 |archive-url=https://web.archive.org/web/20230201125045/https://www.nga.org/governor/william-lee-knous/ |url-status=live}}</ref><ref name="co-knous">{{Cite web |title=William Lee Knous |url=https://archives.colorado.gov/sites/archives/files/Knous.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214191023/https://archives.colorado.gov/sites/archives/files/Knous.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="1188"|January 14, 1947<ref>{{Cite news |date=January 14, 1947 |title=Knous Takes Oath Shortly After Noon |page=1 |newspaper=[[The Daily Sentinel (Grand Junction, Colorado)|The Daily Sentinel]] |agency=Associated Press |location=Denver |publication-place=Grand Junction, Colorado |url=https://www.newspapers.com/article/the-daily-sentinel-knous-inaugurated-jan/129319563/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802210931/https://www.newspapers.com/article/the-daily-sentinel-knous-inaugurated-jan/129319563/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />April 15, 1950<br>{{small|(1188 days; resigned)}}{{efn|Knous resigned, having been confirmed to the [[United States District Court for the District of Colorado]].<ref name="nga-knous" />}}
+|rowspan="2"|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1946 Colorado gubernatorial election|1946]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Homer|Pearson}}
+|- style="height:2em;"
+|[[1948 Colorado gubernatorial election|1948]]
+|{{sortname|Walter Walford|Johnson}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Johnson, Walter"|[[File:CO Gov Walter Walford Johnson.jpg|75px]]
+|'''[[Walter Walford Johnson]]'''<br>{{Small|(1904–1987)}}<br>{{sfn|Sobel|1978|pp=149–150}}<ref name="nga-johnson-walter">{{Cite web |title=Walter Walfred Johnson |url=https://www.nga.org/governor/walter-walfred-johnson/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214191026/https://www.nga.org/governor/walter-walfred-johnson/ |url-status=live}}</ref><ref name="co-johnson-walter">{{Cite web |title=Walter Walford Johnson |url=https://archives.colorado.gov/sites/archives/files/Walter%20Johnson.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214191022/https://archives.colorado.gov/sites/archives/files/Walter%20Johnson.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="270"|April 15, 1950<ref>{{Cite news |date=April 15, 1950 |title=Walt Johnson Now Colorado's 32nd Governor |page=1 |newspaper=Greeley Daily Tribune |agency=Associated Press |location=Denver |publication-place=Greeley, Colorado |url=https://www.newspapers.com/article/greeley-daily-tribune-johnson-succeeds-k/129319617/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802211546/https://www.newspapers.com/article/greeley-daily-tribune-johnson-succeeds-k/129319617/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 9, 1951<br>{{small|(270 days; lost election)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Charles P.|Murphy|nolink=1}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Thornton, Daniel"|[[File:Dan Thornton (Colorado governor).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Daniel I. J. Thornton]]'''<br>{{Small|(1911–1976)}}<br>{{sfn|Sobel|1978|p=150}}<ref name="nga-thornton">{{Cite web |title=Daniel Isaac J. Thornton |url=https://www.nga.org/governor/daniel-issac-j-thornton/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214191020/https://www.nga.org/governor/daniel-issac-j-thornton/ |url-status=live}}</ref><ref name="co-thornton">{{Cite web |title=Daniel I. J. Thornton |url=https://archives.colorado.gov/sites/archives/files/Thornton.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 30, 2023 |archive-url=https://web.archive.org/web/20230130012513/https://archives.colorado.gov/sites/archives/files/Thornton.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="1464"|January 9, 1951<ref>{{cite book |title=House Journal of the General Assembly, 1951 sess. |author=Colorado House of Representatives |page=112 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882337&seq=116 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1955<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1950 Colorado gubernatorial election|1950]]
+|rowspan="2"|{{sortname|Gordon|Allott}}
+|- style="height:2em;"
+|[[1952 Colorado gubernatorial election|1952]]
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Johnson, Edwin"|[[File:Edwin_Johnson.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Edwin C. Johnson]]'''<br>{{Small|(1884–1970)}}<br>{{sfn|Sobel|1978|pp=145–146}}<ref name="nga-johnson-edwin" /><ref name="co-johnson-edwin" />
+|data-sort-value="729"|January 11, 1955<ref>{{Cite news |last=Seymour |first=Hal |date=January 11, 1955 |title=Ed Johnson Takes Oath As Governor |page=1 |newspaper=[[Fort Collins Coloradoan]] |agency=Associated Press |location=Denver |publication-place=Fort Collins, Colorado |url=https://www.newspapers.com/article/fort-collins-coloradoan-johnson-inaugura/129323229/ |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802214607/https://www.newspapers.com/article/fort-collins-coloradoan-johnson-inaugura/129323229/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 8, 1957<br>{{small|(729 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1954 Colorado gubernatorial election|1954]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Stephen|McNichols}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="McNichols, Stephen"|[[File:Stephen_McNichols_1962.jpg|75px]]
+|rowspan="2"|'''[[Stephen McNichols]]'''<br>{{Small|(1914–1997)}}<br>{{sfn|Sobel|1978|p=151}}<ref name="nga-mcnichols">{{Cite web |title=Stephen Lucid Robert McNichols |url=https://www.nga.org/governor/stephen-lucid-robert-mcnichols/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214191025/https://www.nga.org/governor/stephen-lucid-robert-mcnichols/ |url-status=live}}</ref><ref name="co-mcnichols">{{Cite web |title=Stephen McNichols |url=https://archives.colorado.gov/sites/archives/files/McNichols.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214191024/https://archives.colorado.gov/sites/archives/files/McNichols.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="2" data-sort-value="2192"|January 8, 1957<ref>{{Cite news |last=Gauss |first=Gordon G. |date=January 8, 1957 |title=McNichols Urges Go-Slow Policy Pending Surveys |page=1 |newspaper=[[Fort Collins Coloradoan]] |agency=Associated Press |url=https://www.newspapers.com/article/fort-collins-coloradoan-mcnichols-inaugu/129326600/ |location=Denver |publication-place=Fort Collins, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802213052/https://www.newspapers.com/article/fort-collins-coloradoan-mcnichols-inaugu/129326600/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 8, 1963<br>{{small|(2192 days; lost election)}}
+|rowspan="2"|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1956 Colorado gubernatorial election|1956]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Frank L.|Hays}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1958 Colorado gubernatorial election|1958]]{{efn|First term under a 1956 constitutional amendment, which lengthened terms to four years.<ref name="const-1956amend" />}}
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Robert Lee|Knous}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|36
+|rowspan="3" data-sort-value="Love, John"|[[File:John A. Love (CO).png|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[John A. Love]]'''<br>{{Small|(1916–2002)}}<br>{{sfn|Sobel|1978|pp=151–152}}<ref name="nga-love">{{Cite web |title=John Arthur Love |url=https://www.nga.org/governor/john-arthur-love/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=January 31, 2023 |archive-url=https://web.archive.org/web/20230131141747/https://www.nga.org/governor/john-arthur-love/ |url-status=live}}</ref><ref name="co-love">{{Cite web |title=John A. Love |url=https://archives.colorado.gov/sites/archives/files/Love.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214191023/https://archives.colorado.gov/sites/archives/files/Love.pdf |url-status=live |format=PDF}}</ref>
+|rowspan="3" data-sort-value="3843"|January 8, 1963<ref>{{Cite news |date=January 8, 1963 |title=Love Sworn, Pledges To Curb Government |page=1 |newspaper=[[Fort Collins Coloradoan]] |agency=Associated Press |url=https://www.newspapers.com/article/fort-collins-coloradoan-love-inaugurated/129326701/ |location=Denver |publication-place=Fort Collins, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802210932/https://www.newspapers.com/article/fort-collins-coloradoan-love-inaugurated/129326701/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />July 16, 1973<br>{{small|(3843 days; resigned)}}{{efn|Love resigned, having been appointed [[Energy Czar|Director of the Office of Energy Policy]].<ref name="nga-love" />}}
+|rowspan="3"|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|[[1962 Colorado gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1966 Colorado gubernatorial election|1966]]
+|{{sortname|Mark Anthony|Hogan}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1970 Colorado gubernatorial election|1970]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John D.|Vanderhoof}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Vanderhoof, John"|[[File:John D. Vanderhoof (Colorado Governor) (cropped).jpg|75px]]
+|'''[[John D. Vanderhoof]]'''<br>{{Small|(1922–2013)}}<br>{{sfn|Sobel|1978|pp=152–153}}<ref name="nga-vanderhoof">{{Cite web |title=John D. Vanderhoof |url=https://www.nga.org/governor/governor-john-d-vanderhoof/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214201110/https://www.nga.org/governor/governor-john-d-vanderhoof/ |url-status=live}}</ref><ref name="co-vanderhoof">{{Cite web |title=John Vanderhoof |url=https://archives.colorado.gov/sites/archives/files/Vanderhoof.pdf |access-date=October 14, 2026 |website=Colorado State Archives |archive-date=January 30, 2023 |archive-url=https://web.archive.org/web/20230130005651/https://archives.colorado.gov/sites/archives/files/Vanderhoof.pdf |url-status=live |format=PDF}}</ref>
+|data-sort-value="548"|July 16, 1973<ref>{{Cite news |date=July 16, 1973 |title=John Vanderhoof Becomes State's 37th Governor |page=1 |newspaper=[[Fort Collins Coloradoan]] |agency=Associated Press |url=https://www.newspapers.com/article/fort-collins-coloradoan-vanderhoof-succe/129327700/ |location=Denver |publication-place=Fort Collins, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802210934/https://www.newspapers.com/article/fort-collins-coloradoan-vanderhoof-succe/129327700/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 14, 1975<br>{{small|(548 days; lost election)}}
+|[[Colorado Republican Party|Republican]]{{sfn|Kallenbach|1977|p=78}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Ted L.|Strickland}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|38
+|rowspan="3" data-sort-value="Lamm, Richard"|[[File:Richard Lamm (CO).png|75px]]
+|rowspan="8" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Richard Lamm]]'''<br>{{Small|(1935–2021)}}<br>{{sfn|Sobel|1978|p=153}}<ref name="nga-lamm">{{Cite web |title=Richard D. Lamm |url=https://www.nga.org/governor/richard-d-lamm/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214201112/https://www.nga.org/governor/richard-d-lamm/ |url-status=live}}</ref>
+|rowspan="3" data-sort-value="4383"|January 14, 1975<ref>{{Cite news |last=Hilliard |first=Carl |date=January 14, 1975 |title=Black Legislators Walk Out on Lamm |page=1 |newspaper=Greeley Tribune |agency=Associated Press |url=https://www.newspapers.com/article/greeley-daily-tribune-lamm-inaugurated-j/129327890/ |location=Denver |publication-place=Greeley, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802211539/https://www.newspapers.com/article/greeley-daily-tribune-lamm-inaugurated-j/129327890/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 13, 1987<br>{{small|(4383 days; retired)}}
+|rowspan="3"|[[Colorado Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=78}}
+|[[1974 Colorado gubernatorial election|1974]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|George L.|Brown}}
+|- style="height:2em;"
+|[[1978 Colorado gubernatorial election|1978]]
+|rowspan="2"|{{sortname|Nancy|Dick}}
+|- style="height:2em;"
+|[[1982 Colorado gubernatorial election|1982]]
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|39
+|rowspan="5" data-sort-value="Romer, Roy"|[[File:Roy Romer (CO).jpg|75px]]
+|rowspan="5"|'''[[Roy Romer]]'''<br>{{Small|({{Abbr|b.|born in}} 1928)}}<br>{{sfn|Mullaney|1994|pp=57–60}}<ref name="nga-romer">{{Cite web |title=Roy Romer |url=https://www.nga.org/governor/roy-romer/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214201109/https://www.nga.org/governor/roy-romer/ |url-status=live}}</ref>
+|rowspan="5" data-sort-value="4383"|January 13, 1987<ref>{{Cite news |date=January 13, 1987 |title=Romer Sworn In As New Governor |page=1A |newspaper=[[The Daily Sentinel (Grand Junction, Colorado)|The Daily Sentinel]] |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-sentinel-romer-inaugurated-jan/129328005/ |location=Denver |publication-place=Grand Junction, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802213053/https://www.newspapers.com/article/the-daily-sentinel-romer-inaugurated-jan/129328005/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 12, 1999<br>{{small|(4383 days; term-limited)}}{{efn|Under a 1990 amendment to the constitution, governors may not serve more than two consecutive terms.{{sfn|Colo. Const.|loc=[https://50constitutions.org/co/constitution/section-id-67713 art. IV, § 1]}}|name=limits}}
+|rowspan="5"|[[Colorado Democratic Party|Democratic]]<ref name="nga-romer" />
+|[[1986 Colorado gubernatorial election|1986]]
+|rowspan="2"|{{sortname|Mike|Callihan}}<br />{{small|(resigned May 10, 1994)}}
+|- style="height:2em;"
+|rowspan="3"|[[1990 Colorado gubernatorial election|1990]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Samuel H.|Cassidy}}<br />{{small|(took office May 11, 1994)}}
+|- style="height:2em;"
+|[[1994 Colorado gubernatorial election|1994]]
+|{{sortname|Gail|Schoettler}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Owens, Bill"|[[File:Bill Owens 2002 (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Bill Owens (Colorado politician)|Bill Owens]]'''<br>{{Small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-owens">{{Cite web |title=Bill Owens |url=https://www.nga.org/governor/bill-owens/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214201111/https://www.nga.org/governor/bill-owens/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 12, 1999<ref>{{Cite news |last=Cleary |first=C. Patrick |date=January 13, 1999 |title=Gov. Owens Takes the Reins |page=1A |newspaper=[[The Daily Sentinel (Grand Junction, Colorado)|The Daily Sentinel]] |url=https://www.newspapers.com/article/the-daily-sentinel-owens-inaugurated-jan/129328102/ |location=Denver |publication-place=Fort Collins, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802211544/https://www.newspapers.com/article/the-daily-sentinel-owens-inaugurated-jan/129328102/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 9, 2007<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Colorado Republican Party|Republican]]<ref name="nga-owens" />
+|[[1998 Colorado gubernatorial election|1998]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Joe|Rogers|dab=politician}}
+|- style="height:2em;"
+|[[2002 Colorado gubernatorial election|2002]]
+|{{sortname|Jane|Norton}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Ritter, Bill"|[[File:Bill_Ritter_official_photo (cropped 2).jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Bill Ritter]]'''<br>{{Small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-ritter">{{Cite web |title=Bill Ritter |url=https://www.nga.org/governor/bill-ritter/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214201107/https://www.nga.org/governor/bill-ritter/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 2007<ref>{{Cite news |date=January 10, 2007 |title=Colorado's Gov. Ritter Takes Over |page=1A |newspaper=[[The Daily Sentinel (Grand Junction, Colorado)|The Daily Sentinel]] |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-sentinel-ritter-inaugurated-ja/129328236/ |location=Denver |publication-place=Grand Junction, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802211538/https://www.newspapers.com/article/the-daily-sentinel-ritter-inaugurated-ja/129328236/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 11, 2011<br>{{small|(1464 days; retired)}}
+|[[Colorado Democratic Party|Democratic]]<ref name="nga-ritter" />
+|[[2006 Colorado gubernatorial election|2006]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Barbara|O'Brien}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|42
+|rowspan="3" data-sort-value="Hickenlooper, John"|[[File:Governor John Hickenlooper 2015.jpg|75px]]
+|rowspan="3"|'''[[John Hickenlooper]]'''<br>{{Small|({{Abbr|b.|born in}} 1952)}}<br><ref name="nga-hickenlooper">{{Cite web |title=John Hickenlooper |url=https://www.nga.org/governor/john-hickenlooper/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214201112/https://www.nga.org/governor/john-hickenlooper/ |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2920"|January 11, 2011<ref>{{Cite news |last1=Paulson |first1=Steven K. |last2=Wyatt |first2=Kristen |date=January 12, 2011 |title=Hickenlooper Pledges To Work on Economy |page=A1 |newspaper=[[Fort Collins Coloradoan]] |agency=Associated Press |url=https://www.newspapers.com/article/fort-collins-coloradoan-hickenlooper-ina/129328291/ |location=Denver |publication-place=Fort Collins, Colorado |access-date=October 14, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802214559/https://www.newspapers.com/article/fort-collins-coloradoan-hickenlooper-ina/129328291/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 8, 2019<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="3"|[[Colorado Democratic Party|Democratic]]<ref name="nga-hickenlooper" />
+|[[2010 Colorado gubernatorial election|2010]]
+|rowspan="2"|{{sortname|Joseph|Garcia|dab=American politician}}<br />{{small|(resigned May 12, 2016)}}
+|- style="height:2em;"
+|rowspan="2"|[[2014 Colorado gubernatorial election|2014]]
+|- style="height:2em;" 
+|{{sortname|Donna|Lynne}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|43
+|rowspan="2" data-sort-value="Polis, Jared"|[[File:Jared Polis official photo (cropped).jpg|75px]]
+|rowspan="2"|'''[[Jared Polis]]'''<br>{{Small|({{Abbr|b.|born in}} 1975)}}<br><ref name="nga-polis">{{Cite web |title=Jared Polis |url=https://www.nga.org/governor/jared-polis/ |access-date=October 14, 2026 |website=[[National Governors Association]] |archive-date=February 5, 2023 |archive-url=https://web.archive.org/web/20230205200741/https://www.nga.org/governor/jared-polis/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|8|duration=on|format=no}}"|January 8, 2019<ref>{{Cite news |last=Garcia |first=Nic |date=January 8, 2019 |title=Jared Polis sworn in as Colorado governor: "This is a moment in history" |website=[[The Denver Post]] |url=https://www.denverpost.com/2019/01/08/jared-polis-inauguration-gay-governor-colorado/ |access-date=October 14, 2026 |archive-date=August 2, 2023 |archive-url=https://web.archive.org/web/20230802210034/https://www.denverpost.com/2019/01/08/jared-polis-inauguration-gay-governor-colorado/ |url-status=live}}</ref><br />–<br />Incumbent{{efn|Polis' second term began on January 10, 2023,<ref>{{Cite news |title=Gov. Polis, Colorado state leaders sworn into office during 2023 inauguration |url=https://www.rmpbs.org/blogs/news/governor-polis-colorado-inauguration-2023 |access-date=October 14, 2026 |website=Rocky Mountain PBS |date=January 10, 2023 |last=Cooke |first=Kyle |archive-url=https://web.archive.org/web/20230110212105/https://www.rmpbs.org/blogs/news/governor-polis-colorado-inauguration-2023/ |archive-date=January 10, 2023 |url-status=live}}</ref> and [[2026 Colorado gubernatorial election|will expire]] on January 12, 2027; he is term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|8|duration=on|format=no}} days)}}
+|rowspan="2"|[[Colorado Democratic Party|Democratic]]<ref name="nga-polis" />
+|[[2018 Colorado gubernatorial election|2018]]
+|rowspan="2"|{{sortname|Dianne|Primavera}}
+|- style="height:2em;"
+|[[2022 Colorado gubernatorial election|2022]]
+|- style="height:2em;"
+!scope="row"|''44''
+|data-sort-value="Weiser, Phil"|[[File:AG_Phil_Weiser.jpg|75px]]
+|'''''[[Phil Weiser]]'''''<br>{{small|({{abbr|b.|born in}} 1968)}}
+|data-sort-value="{{Duration in days nts|2027|1|12|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 12, 2027''
+|''[[Colorado Democratic Party|Democratic]]''
+|[[2026 Colorado gubernatorial election|2026]]
+|''{{sortname|Lesley|Dahlkemper}}''
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Colorado governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1860.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1870
+ScaleMinor = unit:year increment:1 start:1861
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year    value:rgb(0.8, 0.8, 0.8)
+  id:0year    value:rgb(0.6, 0.6, 0.6)
+  id:noparty  value:rgb(0.7, 0.7, 0.7)
+  id:rep      value:rgb(0.91, 0.11, 0.14)
+  id:dem      value:rgb(0.2, 0.2, 1)
+  id:populist value:rgb(0.67, 0.88, 0.69)
+  id:seat1    value:rgb(0.60, 0.10, 0.10)
+  id:blank    value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1876 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1861.23 till:1862.23 color:noparty text:"William Gilpin"
+ from:1862.23 till:1865.79 color:noparty text:"John Evans"
+ from:1865.79 till:1867.35 color:noparty text:"Alexander Cummings"
+ from:1867.35 till:1869.3 color:noparty text:"Alexander Cameron Hunt"
+ from:1874.47 till:1875.11 color:noparty text:"Edward M. McCook"
+ from:1873.29 till:1874.57 color:noparty text:"Samuel Hitt Elbert"
+ from:1891.04 till:1893.03 color:rep text:"John Long Routt"
+ from:1879.04 till:1883.02 color:rep text:"Frederick Walker Pitkin"
+ from:1883.02 till:1885.04 color:dem text:"James Benton Grant"
+ from:1885.04 till:1887.03 color:rep text:"Benjamin Harrison Eaton"
+ from:1905.03 till:1905.21 color:dem text:"Alva Adams"
+ from:1889.02 till:1891.04 color:rep text:"Job Adams Cooper"
+ from:1893.03 till:1895.02 color:populist text:"Davis Hanson Waite"
+ from:1895.02 till:1897.03 color:rep text:"Albert McIntire"
+ from:1899.03 till:1901.02 color:dem text:"Charles S. Thomas"
+ from:1901.02 till:1903.04 color:dem text:"James Bradley Orman"
+ from:1905.21 till:1905.21 color:rep text:"James Hamilton Peabody"
+ from:1905.21 till:1907.02 color:rep text:"Jesse Fuller McDonald"
+ from:1907.02 till:1909.03 color:rep text:"Henry Augustus Buchtel"
+ from:1909.03 till:1913.04 color:dem text:"John F. Shafroth"
+ from:1913.04 till:1915.03 color:dem text:"Elias M. Ammons"
+ from:1915.03 till:1917.02 color:rep text:"George Alfred Carlson"
+ from:1917.02 till:1919.04 color:dem text:"Julius Caldeen Gunter"
+ from:1919.04 till:1923.02 color:rep text:"Oliver Henry Shoup"
+ from:1923.02 till:1925.04 color:dem text:"William Ellery Sweet"
+ from:1925.04 till:1927.03 color:rep text:"Clarence Morley"
+ from:1927.03 till:1933.03 color:dem text:"Billy Adams"
+ from:1955.03 till:1957.02 color:dem text:"Edwin C. Johnson"
+ from:1937.01 till:1937.03 color:dem text:"Ray Herbert Talbot"
+ from:1937.03 till:1939.03 color:dem text:"Teller Ammons"
+ from:1939.03 till:1943.03 color:rep text:"Ralph Lawrence Carr"
+ from:1943.03 till:1947.04 color:rep text:"John Charles Vivian"
+ from:1947.04 till:1950.29 color:dem text:"William Lee Knous"
+ from:1950.29 till:1951.02 color:dem text:"Walter Walford Johnson"
+ from:1951.02 till:1955.03 color:rep text:"Daniel I. J. Thornton"
+ from:1957.02 till:1963.02 color:dem text:"Stephen McNichols"
+ from:1963.02 till:1973.54 color:rep text:"John Arthur Love"
+ from:1973.54 till:1975.04 color:rep text:"John D. Vanderhoof"
+ from:1975.04 till:1987.04 color:dem text:"Richard Lamm"
+ from:1987.04 till:1999.03 color:dem text:"Roy Romer"
+ from:1999.03 till:2007.02 color:rep text:"Bill Owens"
+ from:2007.02 till:2011.03 color:dem text:"Bill Ritter"
+ from:2011.03 till:2019.02 color:dem text:"John Hickenlooper"
+ from:2019.02 till:$now color:dem text:"Jared Polis"
+
+LineData=
+ from:1869.3 till:1873.29 atpos:722 color:noparty width:6 # EMM 1st term
+ from:1875.11 till:1876.84 atpos:686 color:noparty width:6 # JLR 1st term noparty
+ from:1876.84 till:1879.04 atpos:686 color:rep width:6 # JLR 1st term rep
+ from:1887.03 till:1889.02 atpos:616 color:dem width:6 # AA 1st term
+ from:1897.03 till:1899.03 atpos:616 color:dem width:6 # AA 2nd term
+ from:1903.04 till:1905.03 atpos:510 color:rep width:6 # JHP 1st term
+ from:1933.03 till:1937.01 atpos:317 color:dem width:6 # ECJ 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+{{portal|United States|Colorado}}
+*[[Index of Colorado-related articles]]
+*[[List of Colorado legislatures]]
+*[[Outline of Colorado]]
+*[[Colorado|State of Colorado]]
+*[[Government of Colorado]]
+*[[Gubernatorial lines of succession in the United States#Colorado]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Governors of Colorado |url=https://www.nga.org/former-governors/colorado/ |access-date=October 14, 2026 |website=[[National Governors Association]]}}
+* {{Cite web |title=Governors |url=https://archives.colorado.gov/collections/governors |access-date=October 14, 2026 |website=Colorado State Archives}}
+* {{Cite web |title=Our Campaigns - Governor of Colorado - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=110 |access-date=October 14, 2026 |website=www.ourcampaigns.com}}
+* {{cite web |title=Colorado Constitution |url=https://50constitutions.org/co/constitution |ref={{sfnref|Colo. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 13, 2026}}
+* {{Cite web |title=The Territorial Governors Collection |url=http://www.colorado.gov/dpa/doit/archives/govs/terscope.html |access-date=January 18, 2008 |website=Colorado State Archives |archive-date=September 30, 2007 |archive-url=https://web.archive.org/web/20070930154818/http://www.colorado.gov/dpa/doit/archives/govs/terscope.html |url-status=dead}}
+* {{Cite book |last=University of Colorado |url=https://books.google.com/books?id=xmkcAAAAMAAJ |title=The University of Colorado Studies, volume IV |year=1907 |via=[[Google Books]]}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |via=[[Google Books]]}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons01thor/ |volume=1 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{sister project links|Colorado|auto=yes}}
+*[https://www.colorado.gov/governor/ Office of the Governor of Colorado]
+
+{{Colorado|expanded}}
+{{Governors of Colorado}}
+{{Colorado statewide elected officials}}
+{{Lists of US Governors}}
+{{Current U.S. governors}}
+{{authority control}}
+
+{{coord|38.9972|-105.5478|dim:300000_region:US-CO_type:adm1st|name=State of Colorado|display=title}}
+
+{{featured list}}
+{{DEFAULTSORT:Governor of Colorado}}
+[[Category:Governor of Colorado| ]]
+[[Category:Colorado history-related lists]]
+[[Category:Colorado politics-related lists]]
+[[Category:Lists of Colorado politicians]]
+[[Category:Lists of people from Colorado]]
+[[Category:Lists of state governors of the United States|Colorado]]
+[[Category:Lists of territorial governors of the United States|Colorado]]

@@ -1,0 +1,992 @@
+{{Short description|Politics in the US state of West Virginia}}
+
+[[File:West Virginia voter registration map by county.svg|thumb|Party registration by county as of June 30, 2026:<ref>{{Cite web |title=West Virginia Voter Registration Totals {{!}} WV Secretary of State |url=https://sos.wv.gov/elections/election-data/west-virginia-voter-registration-totals |access-date=July 11, 2026 |website=West Virginia Secretary of State}}</ref>
+
+{{col-begin}}
+{{col-2}}
+'''Republican:'''
+{{legend|#fbdedd|30–40%}}
+{{legend|#f1b4b2|40–50%}}
+{{legend|#ed8783|50–60%}}
+{{legend|#e55651|60–70%}}
+{{legend|#d02923|70–80%}}
+{{col-2}}
+'''Democratic:'''
+{{legend|#dee8fb|30–40%}}
+{{legend|#b4c7ec|40–50%}}
+{{col-end}} 
+]]
+
+The following tables indicate the historic party affiliation of elected officials in the [[U.S. state]] of [[West Virginia]], including: [[List of governors of West Virginia|governor]], [[Secretary of State of West Virginia|secretary of state]], [[List of attorneys general of West Virginia|attorney general]], state auditor,<ref>{{cite web |url=http://www.wvculture.org/history/stateauditor.html |title=West Virginia State Auditors |publisher=WVCulture.org |access-date=2011-01-03 |archive-url=https://web.archive.org/web/20120929081530/http://www.wvculture.org/history/stateauditor.html |archive-date=2012-09-29 |url-status=dead}}</ref> state treasurer,<ref>{{cite web |url=http://www.wvculture.org/history/statetreasurer.html |title=West Virginia State Treasurers |publisher=WVCulture.org |access-date=2011-01-03 |archive-url=https://web.archive.org/web/20111116220909/http://www.wvculture.org/history/statetreasurer.html |archive-date=2011-11-16 |url-status=dead}}</ref> and state agriculture commissioner. The tables also indicate the historical party composition in the [[West Virginia Senate|state Senate]], [[West Virginia House of Delegates|state House of Delegates]],<ref>[http://www.legis.state.wv.us/Educational/Publications/Manual_PDF/24-Political_Composition.pdf Educational Publications Manual], State of West Virginia Legislature</ref> [[List of justices of the Supreme Court of Appeals of West Virginia|Supreme Court of Appeals]], [[List of United States senators from West Virginia|delegation to the U.S. Senate]], and the [[List of United States representatives from West Virginia|delegation to the U.S. House of Representatives]]. For years in which a [[United States presidential election|presidential election]] was held, the tables indicate which party's nominees received the state's electoral votes.
+
+==1863–1899==
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[West Virginia Legislature|State Legislature]]
+!rowspan=2 class=unsortable |[[List of justices of the Supreme Court of Appeals of West Virginia|Supreme<br>Court of<br>Appeals]]
+!class=unsortable colspan=3 |[[West Virginia's congressional delegations|United States Congress]]
+!class=unsortable rowspan=2 |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of West Virginia|Governor]]
+!class=unsortable |[[Secretary of State of West Virginia|Secretary of State]]
+!class=unsortable |[[List of attorneys general of West Virginia|Attorney General]]
+!class=unsortable |Auditor
+!class=unsortable |[[West Virginia State Treasurer|Treasurer]]
+!class=unsortable |[[West Virginia Senate|State Senate]]
+!class=unsortable |[[West Virginia House of Delegates|State House]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator (Class II)]]
+!class=unsortable |[[List of United States representatives from West Virginia|U.S. House]]
+|- style="height:2em"
+!1863
+|rowspan=6 {{Party shading/Republican}} |[[Arthur I. Boreman]] {{small|(R)}}{{efn|Resigned to run for the [[United States Senate]], winning election.}}
+|rowspan=2 {{Party shading/Republican}} |Jacob Edgar Boyers {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Aquilla B. Caldwell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Samuel Crane {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Campbell Tarr {{small|(R)}}
+|rowspan=3 {{Party shading/Unconditional Unionist}} |20UU
+|rowspan=3 {{Party shading/Unconditional Unionist}} |52UU
+|rowspan=8 {{Party shading/Republican}} |3R
+|rowspan=4 {{Party shading/Unconditional Unionist}} |[[Peter G. Van Winkle]] {{small|(UU)}}<ref>{{cite web|url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=V000066 |title=Van Winkle - Biographical Information |publisher=Bioguide.Congress.gov |access-date=2011-01-03}}</ref>
+|rowspan=2 {{Party shading/Unconditional Unionist}} |[[Waitman T. Willey]] {{small|(UU)}}
+|rowspan=2 {{Party shading/Unconditional Unionist}} |3UU
+|- style="height:2em"
+!1864
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{Aye}}
+|- style="height:2em"
+!1865
+|rowspan=2 {{Party shading/Republican}} |[[Granville D. Hall]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Ephraim B. Hall]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Joseph Marcellus McWhorter|Joseph Marcellus<br>McWhorter]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Waitman T. Willey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Unconditional Unionist}} |2UU, 1R
+|- style="height:2em"
+!1866
+|{{Party shading/Republican}} |[[Edwin Maxwell (politician)|Edwin Maxwell]] {{small|(R)}}
+| {{Party shading/Republican}} |19R, 1D
+| {{Party shading/Republican}} |48R, 8D
+|- style="height:2em"
+!1867
+|rowspan=2 {{Party shading/Republican}} |[[John Witcher]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Thayer Melvin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Jacob H. Brister {{small|(R)}}
+| {{Party shading/Republican}} |19R, 3D
+| {{Party shading/Republican}} |41R, 15D
+|rowspan=2 {{Party shading/Republican}} |[[Peter G. Van Winkle]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1868
+| {{Party shading/Republican}} |20R, 2D
+| {{Party shading/Republican}} |42R, 14D
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Schuyler Colfax|Colfax]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1869
+| {{Party shading/Republican}} |[[Daniel D. T. Farnsworth]] {{small|(R)}}{{efn|name=presfilled|As president of the state Senate, filled unexpired term for 7 days.}}
+|rowspan=2 {{Party shading/Republican}} |[[James Pipes]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Aquilla B. Caldwell]] {{small|(R)}}{{efn|name=app|Appointed.}}
+|rowspan=2 {{Party shading/Republican}} |Thomas Boggess {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |James A. Macauley {{small|(R)}}
+| {{Party shading/Republican}} |18R, 4D
+| {{Party shading/Republican}} |32R, 24D
+|rowspan=6 {{Party shading/Republican}} |[[Arthur I. Boreman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1870
+| {{Party shading/Republican}} |[[William E. Stevenson]] {{small|(R)}}
+| {{Party shading/Republican}} |13LR, 5D, 4R
+| {{Party shading/Republican}} |33R, 23D
+|- style="height:2em"
+!1871
+|rowspan=2 {{Party shading/Democratic}} |[[John J. Jacob (West Virginia politician)|John J. Jacob]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[John M. Phelps]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Joseph Sprigg]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Edward A. Bennett]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |John S. Burdett {{small|(D)}}
+| {{Party shading/Democratic}} |12D, 10R
+| {{Party shading/Democratic}} |40D, 16R
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|rowspan=12 {{Party shading/Democratic}} |[[Henry G. Davis]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1872
+| {{Party shading/Democratic}} |18D, 4R
+| {{Party shading/Democratic}} |39D, 16R, 1?
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1873
+|rowspan=4 {{Party shading/Independent}} |[[John J. Jacob (West Virginia politician)|John J. Jacob]] {{small|(I)}}
+|rowspan=4 {{Party shading/Democratic}} |Charles Hedrick {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Henry M. Mathews]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 3R
+|rowspan=2 {{Party shading/Democratic}} |43D, 19R, 3?
+|rowspan=24 {{Party shading/Democratic}} |4D
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1874
+|- style="height:2em"
+!1875
+|rowspan=2 {{Party shading/Democratic}} |19D, 4R, 1I
+|rowspan=2 {{Party shading/Democratic}} |49D, 12R, 4I
+| {{Party shading/Democratic}} |[[Allen T. Caperton]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1876
+| {{Party shading/Democratic}} |Sobieski Brady {{small|(D)}}
+| {{Party shading/Democratic}} |[[Samuel Price]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel J. Tilden|Tilden]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1877
+|rowspan=4 {{Party shading/Democratic}} |[[Henry M. Mathews]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Sobieski Brady {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Robert White (attorney general)|Robert White]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |Joseph S. Miller {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Thomas J. West {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 5R
+|rowspan=2 {{Party shading/Democratic}} |46D, 19R
+|rowspan=4 {{Party shading/Democratic}} |[[Frank Hereford (politician)|Frank Hereford]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1878
+|- style="height:2em"
+!1879
+|rowspan=2 {{Party shading/Democratic}} |21D, 2R, 1GB
+|rowspan=2 {{Party shading/Democratic}} |40D, 17GB, 8R
+|rowspan=2 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1880
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1881
+|rowspan=4 {{Party shading/Democratic}} |[[Jacob B. Jackson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Randolph Stalnaker {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Cornelius Clarkson Watts|Cornelius Clarkson<br>Watts]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas O'Brien (West Virginia politician)|Thomas O'Brien]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 3R, 1GB
+|rowspan=2 {{Party shading/Democratic}} |46D, 17R, 2GB
+|rowspan=6 {{Party shading/Democratic}} |[[Johnson N. Camden]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Democratic}} |17D, 8R, 1GB
+|rowspan=2 {{Party shading/Democratic}} |38D, 27R
+|rowspan=10 {{Party shading/Democratic}} |[[John E. Kenna]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 1R
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1885
+|rowspan=5 {{Party shading/Democratic}} |[[Emanuel Willis Wilson]] {{small|(D)}}{{efn|Did not run for re-election in 1888, but due to the election's being disputed, remained in office until the investigation was complete.}}
+|rowspan=5 {{Party shading/Democratic}} |Henry S. Walker {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Alfred Caldwell]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |Patrick Fee Duffy {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[William T. Thompson (West Virginia)|William T. Thompson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 11R
+|rowspan=2 {{Party shading/Democratic}} |37D, 28R
+|rowspan=2 {{Party shading/Democratic}} |3D, 1R
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=2 {{Party shading/Democratic}} |14D, 12R
+|rowspan=2 {{Party shading/Democratic}} |36D, 29R
+|rowspan=12 {{Party shading/Democratic}} |[[Charles James Faulkner]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 1R
+|- style="height:2em"
+!1888
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Allen G. Thurman|Thurman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Democratic}} |12D, 13R, 1{{abbr|UL|Union Labor}}{{efn|The Union Labor candidate supported a Democratic Senate Presidency.}}
+|rowspan=2 {{Party shading/Democratic}} |34D, 31R
+|rowspan=2 {{Party shading/Tie}} |2D, 2R
+|- style="height:2em"
+!1890
+|rowspan=3 {{Party shading/Democratic}} |[[Aretas B. Fleming]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |William A. Ohley {{small|(D)}}{{efn|name=elec-exp|Elected to fill unexpired term.}}
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Democratic}} |16D, 10R
+|rowspan=2 {{Party shading/Democratic}} |44D, 21R
+|rowspan=2 {{Party shading/Democratic}} |4D
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1893
+|rowspan=4 {{Party shading/Democratic}} |[[William A. MacCorkle]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William E. Chilton]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas S. Riley]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Isaac V. Johnson {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John M. Rowan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 5R
+|rowspan=2 {{Party shading/Democratic}} |41D, 30R
+|rowspan=2 {{Party shading/Democratic}} |[[Johnson N. Camden]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |4D
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=2 {{Party shading/Republican}} |14R, 12D
+|rowspan=2 {{Party shading/Republican}} |49R, 22D
+|rowspan=5 {{Party shading/Republican}} |[[Stephen B. Elkins]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |4R
+|- style="height:2em"
+!1896
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Garret Hobart|Hobart]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1897
+|rowspan=3 {{Party shading/Republican}} |[[George W. Atkinson]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[William M. O. Dawson]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Edgar P. Rucker]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Latelle M. LaFollette Sr.]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |M. A. Kendall {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 5D, 1Pop
+|rowspan=2 {{Party shading/Republican}} |40R, 31D
+|rowspan=3 {{Party shading/Democratic}} |3D, 1R
+|rowspan=2 {{Party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+| {{Party shading/Republican}} |17R, 9D
+| {{Party shading/Democratic}} |37D, 33R, 1?
+| {{Party shading/Republican}} |[[Nathan B. Scott]] {{small|(R)}}
+| {{Party shading/Republican}} |4R
+|}
+
+==1900–1949==
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[West Virginia Legislature|State Legislature]]
+!rowspan=2 class=unsortable |[[List of justices of the Supreme Court of Appeals of West Virginia|Supreme<br>Court of<br>Appeals]]
+!colspan=3 |[[West Virginia's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of West Virginia|Governor]]
+!class=unsortable |[[Secretary of State of West Virginia|Secretary of State]]
+!class=unsortable |[[List of attorneys general of West Virginia|Attorney General]]
+!class=unsortable |Auditor
+!class=unsortable |Treasurer
+!class=unsortable |[[West Virginia Senate|State Senate]]
+!class=unsortable |[[West Virginia House of Delegates|State House]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator (Class II)]]
+!class=unsortable |[[List of United States representatives from West Virginia|U.S. House]]
+|- style="height:2em"
+!1900
+| {{Party shading/Republican}} |[[George W. Atkinson]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[William M. O. Dawson]] {{small|(R)}}
+| {{Party shading/Republican}} |Edgar P. Rucker {{small|(R)}}
+| {{Party shading/Republican}} |[[Latelle M. LaFollette Sr.]] {{small|(R)}}
+| {{Party shading/Republican}} |M. A. Kendall {{small|(R)}}
+| {{Party shading/Republican}} |17R, 9D
+| {{Party shading/Democratic}} |37D, 33R, 1?
+| {{Party shading/Democratic}} |3D, 1R
+|rowspan=11 {{Party shading/Republican}} |[[Nathan B. Scott]] {{small|(R)}}
+|rowspan=11 {{Party shading/Republican}} |[[Stephen B. Elkins]] {{small|(R)}}
+| {{Party shading/Republican}} |4R
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1901
+|rowspan=4 {{Party shading/Republican}} |[[Albert B. White]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Romeo H. Freer]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |Arnold C. Scherr {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Peter Silman {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 8D
+|rowspan=2 {{Party shading/Republican}} |45R, 26D
+|rowspan=2 {{Party shading/Republican}} |3R, 1D
+|rowspan=2 {{Party shading/Republican}} |4R
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=2 {{Party shading/Republican}} |24R, 6D
+|rowspan=2 {{Party shading/Republican}} |57R, 29D
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Republican}} |4R
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1905
+|rowspan=4 {{Party shading/Republican}} |[[William M. O. Dawson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Charles Wesley Swisher {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Clark W. May]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Newton Ogden {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |25R, 5D
+|rowspan=2 {{Party shading/Republican}} |61R, 25D
+|rowspan=19 {{Party shading/Republican}} |5R
+|rowspan=2 {{Party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Republican}} |60R, 25D, 1Proh
+|rowspan=2 {{Party shading/Republican}} |5R
+|- style="height:2em"
+!1908
+|rowspan=6 {{Party shading/Republican}} |[[William G. Conley]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1909
+|rowspan=5 {{Party shading/Republican}} |[[William E. Glasscock]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Stuart F. Reed]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |John S. Darst {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |E. Leslie Long {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 6D
+|rowspan=2 {{Party shading/Republican}} |60R, 26D
+|rowspan=2 {{Party shading/Republican}} |5R
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!rowspan=2 | 1911
+|rowspan=5 {{Party shading/Coalition}} |15R, 15D{{efn|During the 1911-12 sessions, Republicans held the Senate Presidency under [[Henry D. Hatfield]] while each party controlled half the committees; During the 1913-14 sessions, Democrats held the Senate Presidency under [[Samuel V. Woods]], while Republicans were able to select their choice of Sergeant-at-Arms and Clerk and control of all committees.<ref>{{Cite web|last=Kabler|first=Phil|title=WV has a brief, colorful history of deadlocked Senates|url=https://www.wvgazettemail.com/news/wv-has-a-brief-colorful-history-of-deadlocked-senates/article_31857e3d-4ae1-5e42-b51c-7ece205d3f9d.html|access-date=2021-06-30|website=Charleston Gazette-Mail|language=en}}</ref>}}
+|rowspan=3 {{Party shading/Democratic}} |63D, 23R
+|rowspan=7 {{Party shading/Democratic}} |[[William E. Chilton]] {{small|(D)}}
+|{{Party shading/Republican}} |[[Davis Elkins]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Clarence W. Watson]] {{small|(D)}}
+|- style="height:2em"
+!1912
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Republican}} |[[Henry D. Hatfield]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Armistead Abraham Lilly]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |53R, 33D
+|rowspan=6 {{Party shading/Republican}} |[[Nathan Goff Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Republican}} |21R, 9D
+|rowspan=2 {{Party shading/Republican}} |56R, 27D, 3Fus
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1916
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes|Hughes]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Democratic}} |[[John J. Cornwell]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |Houston G. Young {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Edward T. England]] {{small|(R)}}
+|rowspan=16 {{Party shading/Republican}} |W. S. Johnson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 10D
+|rowspan=2 {{Party shading/Democratic}} |52D, 42R
+|rowspan=6 {{Party shading/Republican}} |[[Howard Sutherland]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |5R, 1D
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=2 {{Party shading/Republican}} |23R, 7D
+|rowspan=2 {{Party shading/Republican}} |70R, 24D
+|rowspan=6 {{Party shading/Republican}} |[[Davis Elkins]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |5R, 1D
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Republican}} |[[Ephraim F. Morgan]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |John C. Bond {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 4D
+|rowspan=2 {{Party shading/Republican}} |73R, 21D
+|rowspan=2 {{Party shading/Republican}} |6R
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=2 {{Party shading/Republican}} |19R, 11D
+|rowspan=2 {{Party shading/Democratic}} |65D, 29R
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=6 {{Party shading/Democratic}} |[[Matthew M. Neely]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1925
+|rowspan=4 {{Party shading/Republican}} |[[Howard Mason Gore]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |George W. Sharp {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Howard B. Lee]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 14D
+|rowspan=2 {{Party shading/Republican}} |55R, 39D
+|rowspan=8 {{Party shading/Republican}} |5R
+|rowspan=6 {{Party shading/Republican}} |[[Guy D. Goff]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |6R
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=2 {{Party shading/Republican}} |Sam T. Mallison
+|rowspan=2 {{Party shading/Republican}} |21R, 9D
+|rowspan=2 {{Party shading/Republican}} |60R, 33D, 1{{abbr|SqDl|Square Deal}}
+|rowspan=2 {{Party shading/Republican}} |5R, 1D
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1929
+|rowspan=4 {{Party shading/Republican}} |[[William G. Conley]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Edgar C. Lawson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 6D
+|rowspan=2 {{Party shading/Republican}} |63R, 31D
+|rowspan=6 {{Party shading/Republican}} |[[Henry D. Hatfield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |5R, 1D
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=2 {{Party shading/Democratic}} |68D, 26R
+|rowspan=10 {{Party shading/Democratic}} |[[Matthew M. Neely]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+!1932
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1933
+|rowspan=4 {{Party shading/Democratic}} |[[Herman G. Kump]] {{small|(D)}}
+|rowspan=15 {{Party shading/Democratic}} |[[William Smith O'Brien (American politician)|William Smith O'Brien]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Homer A. Holt]] {{small|(D)}}
+|rowspan=17 {{Party shading/Democratic}} |Edgar B. Simms {{small|(D)}}
+|rowspan=17 {{Party shading/Democratic}} |Richard E. Talbott {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |24D, 6R
+|rowspan=2 {{Party shading/Democratic}} |79D, 15R
+|rowspan=4 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=2 {{Party shading/Democratic}} |82D, 12R
+|rowspan=6 {{Party shading/Democratic}} |[[Rush Holt Sr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1936
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1937
+|rowspan=4 {{Party shading/Democratic}} |[[Homer A. Holt]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Clarence W. Meadows]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |72D, 22R
+|rowspan=4 {{Party shading/Democratic}} |3D, 2R
+|rowspan=2 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=2 {{Party shading/Democratic}} |27D, 5R
+|rowspan=2 {{Party shading/Democratic}} |70D, 24R
+|rowspan=2 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1941
+|rowspan=4 {{Party shading/Democratic}} |[[Matthew M. Neely]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 6R
+|rowspan=2 {{Party shading/Democratic}} |74D, 20R
+|rowspan=9 {{Party shading/Democratic}} |5D
+|rowspan=9 {{Party shading/Democratic}} |[[Harley M. Kilgore]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Joseph Rosier]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1942
+|{{Party shading/Democratic}} |[[William S. Wysong]] {{small|(D)}}
+|{{Party shading/Republican}} |[[Hugh Ike Shott]] {{small|(R)}}
+|- style="height:2em"
+!1943
+|rowspan=2 {{Party shading/Democratic}} |[[James Kay Thomas]] {{small|(D)}}{{efn|name=elec-exp}}
+|rowspan=4 {{Party shading/Democratic}} |21D, 11R
+|rowspan=2 {{Party shading/Democratic}} |50D, 44R
+|rowspan=6 {{Party shading/Republican}} |[[Chapman Revercomb]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1945
+|rowspan=4 {{Party shading/Democratic}} |[[Clarence W. Meadows]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Ira J. Partlow {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |65D, 29R
+|rowspan=2 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=3 {{Party shading/Democratic}} |20D, 12R
+|rowspan=2 {{Party shading/Democratic}} |56D, 38R
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+!1948
+|rowspan=2 {{Party shading/Democratic}} |[[Daniel Pitt O'Brien]] {{small|(D)}}{{efn|name=elec-exp}}
+|rowspan=2 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1949
+| {{Party shading/Democratic}} |[[Okey Patteson]] {{small|(D)}}
+| {{Party shading/Democratic}} |[[William C. Marland]] {{small|(D)}}
+| {{Party shading/Democratic}} |78D, 16R
+| {{Party shading/Democratic}} |[[Matthew M. Neely]] {{small|(D)}}
+| {{Party shading/Democratic}} |6D
+|}
+
+==1950–1999==
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[West Virginia Legislature|State Legislature]]
+!rowspan=2 class=unsortable |[[List of justices of the Supreme Court of Appeals of West Virginia|Supreme<br>Court of<br>Appeals]]
+!colspan=3 |[[West Virginia's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of West Virginia|Governor]]
+!class=unsortable |[[Secretary of State of West Virginia|Secretary<br>of State]]
+!class=unsortable |[[List of attorneys general of West Virginia|Attorney<br>General]]
+!class=unsortable |Auditor
+!class=unsortable |Treasurer
+!class=unsortable |Agriculture<br>Commissioner
+!class=unsortable |[[West Virginia Senate|State<br>Senate]]
+!class=unsortable |[[West Virginia House of Delegates|State<br>House]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from West Virginia|U.S.<br>House]]
+|- style="height:2em"
+!1950
+|rowspan=3 {{Party shading/Democratic}} |[[Okey Patteson]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Daniel Pitt O'Brien]] {{small|(D)}}{{efn|name=elec-exp}}
+|rowspan=2 {{Party shading/Democratic}} |[[William C. Marland]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |Edgar B. Simms {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |William H. Ansel Jr. {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |J. B. McLaughlin {{small|(D)}}{{efn|Appointed in 1932.}}{{efn|name=noelec|Appointed by governor; not an elected position until 1964.}}
+|rowspan=3 {{Party shading/Democratic}} |20D, 12R
+| {{Party shading/Democratic}} |78D, 16R
+|rowspan=9 {{Party shading/Democratic}} |5D
+|rowspan=6 {{Party shading/Democratic}} |[[Harley M. Kilgore]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Matthew M. Neely]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |6D
+|rowspan=2 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{Aye}}
+
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Democratic}} |67D, 27R
+|- style="height:2em"
+!1952
+|{{Party shading/Democratic}} |[[Chauncey Browning Sr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Adlai Stevenson II|Stevenson]]/<br>[[John Sparkman|Sparkman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1953
+|rowspan=4 {{Party shading/Democratic}} |[[William C. Marland]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |John G. Fox {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 10R
+|rowspan=2 {{Party shading/Democratic}} |67D, 33R
+|rowspan=11 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=2 {{Party shading/Democratic}} |23D, 9R
+|rowspan=2 {{Party shading/Democratic}} |76D, 24R
+|- style="height:2em"
+!1956
+|rowspan=10 {{Party shading/Republican}} |John T. Johnson {{small|(R)}}{{efn|name=noelec}}
+| {{Party shading/Democratic}} |[[William Laird III]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1957
+|rowspan=5 {{Party shading/Republican}} |[[Cecil H. Underwood]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Helen F. Holt]] {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Wally Barron]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Orel J. Skeen {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |21D, 11R
+|rowspan=3 {{Party shading/Democratic}} |58D, 42R
+|rowspan=3 {{Party shading/Republican}} |[[Chapman Revercomb]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1958
+|rowspan=8 {{Party shading/Democratic}} |Joe F. Burdett {{small|(D)}}{{efn|name=elec-exp}}
+|rowspan=2 {{Party shading/Republican}} |[[John D. Hoblitzell Jr.]] {{small|(R)}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!1959
+|rowspan=2 {{Party shading/Democratic}} |23D, 9R
+|rowspan=2 {{Party shading/Democratic}} |85D, 15R
+|rowspan=13 {{Party shading/Democratic}} |5D
+|rowspan=44 {{Party shading/Democratic}} |[[Robert Byrd]] {{small|(D)}}
+|rowspan=29 {{Party shading/Democratic}} |[[Jennings Randolph]] {{small|(D)}}
+|- style="height:2em"
+!1960
+| {{Party shading/Republican}} |Litz McGuire {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |[[Wally Barron]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |C. Donald Robertson {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |Denzil L. Gainer {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[John H. Kelly]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 7R
+|rowspan=2 {{Party shading/Democratic}} |82D, 18R
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Democratic}} |23D, 9R
+|rowspan=2 {{Party shading/Democratic}} |76D, 24R
+|rowspan=8 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1965
+|rowspan=4 {{Party shading/Democratic}} |[[Hulett C. Smith]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Robert D. Bailey Jr.]] {{small|(D)}}
+|rowspan=27 {{Party shading/Democratic}} |[[Gus Douglass]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 7R
+|rowspan=2 {{Party shading/Democratic}} |91D, 9R
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=2 {{Party shading/Democratic}} |25D, 9R
+|rowspan=2 {{Party shading/Democratic}} |65D, 35R
+|- style="height:2em"
+!1968
+|rowspan=5 {{Party shading/Democratic}} |[[Hubert Humphrey|Humphrey]]/<br>[[Edmund Muskie|Muskie]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1969
+|rowspan=11 {{Party shading/Republican}} |[[Arch A. Moore Jr.]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jay Rockefeller]] {{small|(D)}}
+|rowspan=19 {{Party shading/Democratic}} |[[Chauncey H. Browning Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 12R
+|rowspan=2 {{Party shading/Democratic}} |63D, 37R
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!rowspan=2 |1971
+|rowspan=4 {{Party shading/Democratic}} |23D, 11R
+|rowspan=4 {{Party shading/Democratic}} |68D, 32R
+|rowspan=4 {{Party shading/Democratic}} |5D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!rowspan=2 |1972
+|rowspan=4 {{Party shading/Republican}} |[[Hike Heiskell]] {{small|(R)}}{{efn|name=elec-exp}}
+|rowspan=7 {{Party shading/Republican}} |John M. Gates {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+|{{Party shading/Republican}} |3R, 2D
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Democratic}} |24D, 10R
+|rowspan=2 {{Party shading/Democratic}} |57D, 43R
+|rowspan=3 {{Party shading/Democratic}} |4D, 1R
+|rowspan=9 {{Party shading/Democratic}} |4D
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!rowspan=2 |1975
+|rowspan=3 {{Party shading/Republican}} |[[James R. McCartney]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |Ronald G. Pearson {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |26D, 8R
+|rowspan=3 {{Party shading/Democratic}} |87D, 13R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1977
+|rowspan=8 {{Party shading/Democratic}} |[[Jay Rockefeller]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[A. James Manchin]] {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[Glen Gainer Jr.]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |Larrie Bailey {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |28D, 6R
+|rowspan=2 {{Party shading/Democratic}} |91D, 9R
+|rowspan=21 {{Party shading/Democratic}} |5D
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=2 {{Party shading/Democratic}} |26D, 8R
+|rowspan=2 {{Party shading/Democratic}} |74D, 26R
+|- style="height:2em"
+!1980
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Democratic}} |27D, 7R
+|rowspan=2 {{Party shading/Democratic}} |78D, 22R
+|rowspan=2 {{Party shading/Tie}} |2R, 2D
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=2 {{Party shading/Democratic}} |31D, 3R
+|rowspan=2 {{Party shading/Democratic}} |87D, 13R
+|rowspan=10 {{Party shading/Democratic}} |4D
+|- style="height:2em"
+!1984
+|rowspan=4 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1985
+|rowspan=4 {{Party shading/Republican}} |[[Arch A. Moore Jr.]] {{small|(R)}}
+|rowspan=15 {{Party shading/Democratic}} |[[Ken Hechler]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Charlie Brown (West Virginia politician)|Charlie Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[A. James Manchin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |30D, 4R
+|rowspan=2 {{Party shading/Democratic}} |73D, 27R
+|rowspan=15 {{Party shading/Democratic}} |[[Jay Rockefeller]] {{small|(D)}}
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=2 {{Party shading/Democratic}} |28D, 6R
+|rowspan=2 {{Party shading/Democratic}} |78D, 22R
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Democratic}} |[[Michael Dukakis|Dukakis]]/<br>[[Lloyd Bentsen|Bentsen]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1989
+|rowspan=8 {{Party shading/Democratic}} |[[Gaston Caperton]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Roger W. Tompkins II]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Thomas E. Loehr {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Cleve Benedict]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |29D, 5R
+|rowspan=2 {{Party shading/Democratic}} |79D, 21R
+|- style="height:2em"
+!1990
+|rowspan=3 {{Party shading/Democratic}} |[[Mario Palumbo]] {{small|(D)}}{{efn|name=elec-exp}}
+|- style="height:2em"
+!1991
+|rowspan=6 {{Party shading/Democratic}} |[[Larrie Bailey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |33D, 1R
+|rowspan=2 {{Party shading/Democratic}} |74D, 26R
+|- style="height:2em"
+!1992
+|rowspan=4 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1993
+|rowspan=7 {{Party shading/Democratic}} |[[Darrell McGraw]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Glen Gainer III]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Gus Douglass]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |32D, 2R
+|rowspan=2 {{Party shading/Democratic}} |79D, 21R
+|rowspan=7 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=2 {{Party shading/Democratic}} |26D, 8R
+|rowspan=2 {{Party shading/Democratic}} |69D, 31R
+|- style="height:2em"
+!1996
+|rowspan=4 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1997
+|rowspan=3 {{Party shading/Republican}} |[[Cecil H. Underwood]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |[[John Perdue]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 9R
+|rowspan=2 {{Party shading/Democratic}} |74D, 26R
+|- style="height:2em"
+!1998
+| {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!1999
+| {{Party shading/Democratic}} |29D, 5R
+| {{Party shading/Democratic}} |75D, 25R
+| {{Party shading/Democratic}} |5D
+|}
+
+==2000–present==
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[West Virginia Legislature|State Legislature]]
+!rowspan=2 class=unsortable |[[List of justices of the Supreme Court of Appeals of West Virginia|Supreme<br>Court of<br>Appeals]]
+!colspan=3 |[[West Virginia's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of West Virginia|Governor]]
+!class=unsortable |[[Secretary of State of West Virginia|Secretary of State]]
+!class=unsortable |[[List of attorneys general of West Virginia|Attorney General]]
+!class=unsortable |Auditor
+!class=unsortable |Treasurer
+!class=unsortable |Ag. Commissioner
+!class=unsortable |[[West Virginia Senate|State Senate]]
+!class=unsortable |[[West Virginia House of Delegates|State House]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from West Virginia|U.S. Senator (Class II)]]
+!class=unsortable |[[List of United States representatives from West Virginia|U.S. House]]
+|- style="height:2em"
+!2000
+| {{Party shading/Republican}} |[[Cecil H. Underwood]] {{small|(R)}}
+|{{Party shading/Democratic}} |[[Ken Hechler]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Darrell McGraw]] {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[Glen Gainer III]] {{small|(D)}}
+|rowspan=23 {{Party shading/Democratic}} |[[John Perdue]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Gus Douglass]] {{small|(D)}}
+|{{Party shading/Democratic}} |29D, 5R
+|rowspan=3 {{Party shading/Democratic}} |75D, 25R
+|{{Party shading/Democratic}} |4D, 1R
+|rowspan=10 {{Party shading/Democratic}} |[[Robert Byrd]] {{small|(D)}}
+|rowspan=15 {{Party shading/Democratic}} |[[Jay Rockefeller]] {{small|(D)}}
+|{{Party shading/Democratic}} |3D
+|rowspan=4 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!2001
+|rowspan=4 {{Party shading/Democratic}} |[[Bob Wise]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Manchin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |28D, 6R
+|rowspan=4 {{Party shading/Democratic}} |5D
+|rowspan=10 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=2 {{Party shading/Democratic}} |24D, 10R
+|rowspan=4 {{Party shading/Democratic}} |68D, 32R
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!2005
+|rowspan=6 {{Party shading/Democratic}} |[[Joe Manchin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Betty Ireland]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 13R
+|rowspan=8 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=2 {{Party shading/Democratic}} |23D, 11R
+|rowspan=2 {{Party shading/Democratic}} |72D, 28R
+|- style="height:2em"
+!2008
+|rowspan=4 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!2009
+|rowspan=8 {{Party shading/Democratic}} |[[Natalie Tennant]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 8R
+|rowspan=2 {{Party shading/Democratic}} |71D, 29R
+|- style="height:2em"
+!2010
+|{{Party shading/Democratic}} |[[Carte Goodwin]] {{small|(D)}}
+|- style="height:2em"
+!2011
+|rowspan=6 {{Party shading/Democratic}} |[[Earl Ray Tomblin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |28D, 6R
+|rowspan=2 {{Party shading/Democratic}} |65D, 35R
+| rowspan=18 {{Party shading/Democratic}} |[[Joe Manchin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!2012
+|rowspan=4 {{Party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!2013
+| rowspan=17 {{Party shading/Republican}} |[[Patrick Morrisey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Walt Helmick]] {{small|(D)}}
+|{{Party shading/Democratic}} |25D, 9R
+|{{Party shading/Democratic}} |54D, 46R
+|rowspan=7 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!2014
+|{{Party shading/Democratic}} |24D, 10R
+|{{Party shading/Democratic}} |53D, 47R
+|- style="height:2em"
+!2015
+|rowspan=2 {{Party shading/Republican}} |18R, 16D
+|rowspan=2 {{Party shading/Republican}} |64R, 36D
+| rowspan=17 {{Party shading/Republican/current}} |[[Shelley Moore Capito]] {{small|(R)}}
+| rowspan=12 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!2016
+|{{Party shading/Democratic}} |[[Lisa Hopkins (politician)|Lisa Hopkins]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |2017
+|{{Party shading/Democratic}} |[[Jim Justice]] {{small|(D)}}
+| rowspan=13 {{Party shading/Republican}} |[[Mac Warner]] {{small|(R)}}
+| rowspan=13 {{Party shading/Republican}} |[[JB McCuskey]] {{small|(R)}}
+| rowspan=15 {{Party shading/Republican/current}} |[[Kent Leonhardt]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |22R, 12D
+|rowspan=4 {{Party shading/Republican}} |64R, 36D{{efn|name=legDtoR|One of the members of the legislature was elected as a Democrat, but switched parties to Republican.}}
+|- style="height:2em"
+| rowspan=12 {{Party shading/Republican}} |[[Jim Justice]] {{small|(R)}}{{efn|Governor Justice announced on August 3, 2017, that he was switching his party registration from Democratic to Republican.<ref>{{cite news|last=Kabler|first=Phil|date=August 3, 2017 |title=WV Gov. Justice switching political parties, returning to GOP|url=http://www.wvgazettemail.com/news-politics/20170803/wv-gov-justice-switching-political-parties-returning-to-gop |publisher=[[Charleston Gazette]] |access-date=August 4, 2017}}</ref>}}
+|- style="height:2em"
+!rowspan=2 |2018
+|- style="height:2em"
+|{{Party shading/Republican}} |4R, 1D
+|- style="height:2em"
+!2019
+|rowspan=2 {{Party shading/Republican}} |20R, 14D
+|rowspan=2 {{Party shading/Republican}} |57R, 43D
+|rowspan=9 {{Party shading/Republican}} |3R, 2D
+|- style="height:2em"
+!2020
+| rowspan=6 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!rowspan=3 |2021
+| rowspan=7 {{Party shading/Republican}} |[[Riley Moore]] {{small|(R)}}
+| rowspan=4 {{Party shading/Republican}} |23R, 11D
+| {{Party shading/Republican}} |76R, 24D
+|-
+|{{Party shading/Republican}} |77R, 23D
+|-
+| rowspan=2 {{Party shading/Republican}} |78R, 22D
+|- style="height:2em"
+!2022
+|- style="height:2em"
+!2023
+|rowspan=3 {{Party shading/Republican}} |31R, 3D{{efn|name=legDtoR}}
+|rowspan=3 {{Party shading/Republican}} |89R, 11D{{efn|name=legDtoR}}
+|rowspan=5 {{Party shading/Republican/current}} |2R
+|- style="height:2em"
+!rowspan=2 |2024
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+| {{Party shading/Independent}} |[[Joe Manchin]] {{small|(I)}}{{efn|Senator Manchin announced on May 31, 2024, that he was switching his party registration from Democratic to independent.<ref>{{cite web|last=Irwin|first=Lauren|url=https://thehill.com/homenews/senate/4696125-manchin-independent-leaves-democrats/|title=Manchin leaves Democratic Party, files as independent|work=[[The Hill (newspaper)|The Hill]]|date=May 31, 2024|accessdate=May 31, 2024}}</ref> See [[Independent Democrat]].}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |[[Patrick Morrisey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |[[Kris Warner]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |[[JB McCuskey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |[[Mark Hunt (politician)|Mark Hunt]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |[[Larry Pack]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |32R, 2D
+|rowspan=2 {{Party shading/Republican/current}} |91R, 9D
+|rowspan=2 {{Party shading/Republican/current}} |4R, 1D
+|rowspan=2 {{Party shading/Republican/current}} |[[Jim Justice]] {{small|(R)}}
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==See also==
+* [[West Virginia#Politics|Politics in West Virginia]]
+* [[Politics of West Virginia]]
+
+{{Political party strength in U.S. states}}
+
+[[Category:Politics of West Virginia]]
+[[Category:Government of West Virginia]]
+[[Category:Political party strength in the United States by state|West Virginia]]

@@ -1,0 +1,49 @@
+0 | 1 |  | J. Pinckney Henderson | 1846-02-19 | 1847-12-21 | Democratic | Represented the Democratic Party
+0 | 2 |  | George Tyler Wood | 1847-12-21 | 1849-12-21 | Democratic | None
+0 | 3 |  | Peter Hansborough Bell | 1849-12-21 | 1853-11-23 | Democratic | None
+0 | 4 |  | James W. Henderson | 1853-11-23 | 1853-12-21 | Democratic | None
+0 | 5 |  | Elisha M. Pease | 1853-12-21 | 1857-12-21 | Democratic | Represented the Democratic Party
+0 | 6 |  | Hardin Richard Runnels | 1857-12-21 | 1859-12-21 | Democratic | None
+0 | 7 |  | Sam Houston | 1859-12-21 | 1861-03-16 | Independent | Represented no party
+0 | 8 |  | Edward Clark | 1861-03-16 | 1861-11-07 | Democratic | Represented the Democratic Party
+0 | 9 |  | Francis Lubbock | 1861-11-07 | 1863-11-05 | Democratic | Represented the Democratic Party
+0 | 10 |  | Pendleton Murrah | 1863-11-05 | 1865-06-17 | Democratic | None
+0 | 11 |  | Andrew Jackson Hamilton | 1865-06-17 | 1866-08-09 | None | Military
+0 | 12 |  | James W. Throckmorton | 1866-08-09 | 1867-07-30 | Democratic | Represented the Democratic Party
+0 | 13 |  | Elisha M. Pease | 1867-07-30 | 1869-09-30 | None | Appointed
+0 | 14 |  | Edmund J. Davis | 1870-01-08 | 1874-01-15 | Republican | Represented the Republican Party
+0 | 15 |  | Richard Coke | 1874-01-15 | 1876-12-01 | Democratic | Represented the Democratic Party
+0 | 16 |  | Richard B. Hubbard | 1876-12-01 | 1879-01-21 | Democratic | None
+0 | 17 |  | Oran Milo Roberts | 1879-01-21 | 1883-01-16 | Democratic | Represented the Democratic Party
+0 | 18 |  | John Ireland | 1883-01-16 | 1887-01-18 | Democratic | None
+0 | 19 |  | Lawrence Sullivan Ross | 1887-01-18 | 1891-01-20 | Democratic | None
+0 | 20 |  | Jim Hogg | 1891-01-20 | 1895-01-15 | Democratic | None
+0 | 21 |  | Charles A. Culberson | 1895-01-15 | 1899-01-17 | Democratic | None
+0 | 22 |  | Joseph D. Sayers | 1899-01-17 | 1903-01-20 | Democratic | None
+0 | 23 |  | S. W. T. Lanham | 1903-01-20 | 1907-01-15 | Democratic | None
+0 | 24 |  | Thomas Mitchell Campbell | 1907-01-15 | 1911-01-17 | Democratic | None
+0 | 25 |  | Oscar Branch Colquitt | 1911-01-17 | 1915-01-19 | Democratic | None
+0 | 26 |  | James E. Ferguson | 1915-01-19 | 1917-09-22 | Democratic | None
+0 | 27 |  | William P. Hobby | 1917-09-22 | 1921-01-18 | Democratic | None
+0 | 28 |  | Pat Morris Neff | 1921-01-18 | 1925-01-20 | Democratic | None
+0 | 29 |  | Miriam A. Ferguson | 1925-01-20 | 1927-01-18 | Democratic | None
+0 | 30 |  | Dan Moody | 1927-01-18 | 1931-01-20 | Democratic | None
+0 | 31 |  | Ross S. Sterling | 1931-01-20 | 1933-01-17 | Democratic | None
+0 | 32 |  | Miriam A. Ferguson | 1933-01-17 | 1935-01-15 | Democratic | None
+0 | 33 |  | James Burr V Allred | 1935-01-15 | 1939-01-17 | Democratic | None
+0 | 34 |  | W. Lee O'Daniel | 1939-01-17 | 1941-08-04 | Democratic | None
+0 | 35 |  | Coke R. Stevenson | 1941-08-04 | 1947-01-21 | Democratic | None
+0 | 36 |  | Beauford H. Jester | 1947-01-21 | 1949-07-11 | Democratic | None
+0 | 37 |  | Allan Shivers | 1949-07-11 | 1957-01-15 | Democratic | None
+0 | 38 |  | Price Daniel | 1957-01-15 | 1963-01-15 | Democratic | None
+0 | 39 |  | John Connally | 1963-01-15 | 1969-01-21 | Democratic | Represented the Democratic Party
+0 | 40 |  | Preston Smith | 1969-01-21 | 1973-01-16 | Democratic | None
+0 | 41 |  | Dolph Briscoe | 1973-01-16 | 1979-01-16 | Democratic | None
+0 | 42 |  | Bill Clements | 1979-01-16 | 1983-01-18 | Republican | Represented the Republican Party
+0 | 43 |  | Mark White | 1983-01-18 | 1987-01-20 | Democratic | Represented the Democratic Party
+0 | 44 |  | Bill Clements | 1987-01-20 | 1991-01-15 | Republican | Represented the Republican Party
+0 | 45 |  | Ann Richards | 1991-01-15 | 1995-01-17 | Democratic | Represented the Democratic Party
+0 | 46 |  | George W. Bush | 1995-01-17 | 2000-12-21 | Republican | Represented the Republican Party
+0 | 47 |  | Rick Perry | 2000-12-21 | 2015-01-20 | Republican | None
+0 | 48 |  | Greg Abbott | 2015-01-20 | None | Republican | None
+0 | ''49'' |  | Gina Hinojosa | None | None | None | Represented the Democratic Party

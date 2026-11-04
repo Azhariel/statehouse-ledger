@@ -1,0 +1,661 @@
+{{Use mdy dates|date=February 2023}}
+{{Short description|None}}
+{{Infobox official post
+| post = Governor
+| body = Wisconsin
+| insignia = Privy Seal of Wisconsin.svg
+| insignia_size = 110px
+| insignia_caption = Gubernatorial seal
+| image = Tony Evers 191109-(A).jpg
+| image_size = 200px
+| incumbent = [[Tony Evers]]
+| incumbent_since = January 7, 2019
+| residence = [[Wisconsin Governor's Mansion]]
+| term_length = Four years, no term limits
+| formation = {{start date|1848|06|07}}
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Wisconsin|Line of succession]]
+| inaugural = [[Nelson Dewey]]
+| deputy = [[Lieutenant Governor of Wisconsin]]
+| salary = $152,756 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/selected-state-administrative-officials-annual-salaries/ |title=Selected State Administrative Officials: Annual Salaries |publisher=The Council of State Governments |access-date=August 7, 2024}}</ref>
+| website = {{URL|governor.wi.gov/}}
+}}
+The [[governor of Wisconsin]] is the [[head of government]] of [[Wisconsin]]<ref name="a5-s1">Wisconsin Constitution article V, § 1</ref> and the [[commander-in-chief]] of the state's [[Wisconsin Army National Guard|army]] and [[Wisconsin Air National Guard|air forces]].<ref name="a5-s4">Wisconsin Constitution article V, § 4</ref> The governor has a duty to enforce state laws,<ref name="a5-s4" /> and the power to either approve or [[veto]] [[Bill (law)|bills]] passed by the [[Wisconsin Legislature]],<ref>Wisconsin Constitution article V, § 10</ref> to convene the legislature,<ref name="a5-s4" /> and to grant [[pardon]]s, except in cases of treason and impeachment.<ref>Wisconsin Constitution article V, § 6</ref>
+
+Forty-four individuals have held the office of governor of Wisconsin since the state's admission to the [[United States|Union]] in 1848, one of whom&mdash;[[Philip La Follette]]&mdash;served non-consecutive terms. [[Nelson Dewey]], the first governor, took office on June 7, 1848. The longest-serving governor was [[Tommy Thompson]], who took office on January 5, 1987, and resigned on February 1, 2001, a total of 14 years and 28 days. [[Arthur MacArthur Sr.]] had the shortest term: he was governor for a total of just 5 days—from March 21 to 25, 1856.<ref name="govlist" /> The current governor is [[Tony Evers]], a [[Democratic Party of Wisconsin|Democrat]] who took office on January 7, 2019.<ref name="govlist" />
+
+==List of governors==
+
+Initially after the [[American Revolution]], parts of the area now known as Wisconsin were claimed by [[Virginia]], [[Massachusetts]] and [[Connecticut]]; however, Virginia ceded its claim in 1784, Massachusetts in 1785 and Connecticut in 1786.<ref name="1911bb">{{Cite book |url=https://digicoll.library.wisc.edu/cgi-bin/WI/WI-idx?id=WI.WIBlueBk1911 |title=The blue book of the state of Wisconsin |publisher=Democrat Printing Company |year=1911 |editor-last=Beck |editor-first=J. D. |location=Madison, Wisconsin |page=512 |access-date=December 11, 2007}}</ref> On July 13, 1787, the [[Northwest Territory]], including the area now called Wisconsin, was formed; Wisconsin remained part of the territory until 1800.<ref name="WIhist">{{Cite book |url=http://www.legis.state.wi.us/lrb/bb/05bb/695-743.pdf |title=State of Wisconsin Blue Book 2005&ndash;2006 |page=696 |chapter=Significant Events in Wisconsin History |access-date=December 11, 2007 |archive-url=https://web.archive.org/web/20071025041703/http://www.legis.state.wi.us/lrb/bb/05bb/695-743.pdf |archive-date=October 25, 2007 |url-status=dead}}</ref> The territorial governor during this period was [[Arthur St. Clair]].<ref name="stclair">{{Cite web |year=2005 |title=St. Clair, Arthur |url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000763 |access-date=December 11, 2007 |website=Biographical Directory of the United States Congress |publisher=[[United States Government Publishing Office|Government Printing Office]]}}</ref> As parts of the Northwest Territory were admitted to the [[United States|Union]] as states, Wisconsin became part of first the [[Indiana Territory]] (1800&ndash;1809), then the [[Illinois Territory]] (1809&ndash;1818), and then the [[Michigan Territory]] (1818&ndash;1836);<ref name="WIhist" /> see the lists of governors [[List of governors of Indiana|of Indiana]], [[List of governors of Illinois|of Illinois]], and [[List of governors of Michigan|of Michigan]] for these periods.
+
+===Wisconsin Territory===
+
+[[Wisconsin Territory]] was formed on July 3, 1836. During the time of its existence, the Wisconsin Territory had three people appointed governor by the President of the United States, one of whom served non-consecutive terms.
+
+When most of Wisconsin Territory was admitted as the state of Wisconsin, the remainder became unorganized territory. However, the citizens of the region maintained a territorial government, and even elected a delegate to the United States House of Representatives, essentially making it a ''de facto'' continuation of Wisconsin Territory.<ref>{{Cite book |last=Williams |first=J. Fletcher |url=https://archive.org/details/henryhastingssib00willrich/page/277 |title=Henry Hastings Sibley: A Memoir |publisher=Minnesota Historical Society |year=1894 |pages=277–281 |access-date=December 28, 2015 |archive-url=https://web.archive.org/web/20160307002027/https://archive.org/details/henryhastingssib00willrich |archive-date=March 7, 2016 |url-status=live}}</ref> As the region no longer had an official governor, Territorial Secretary [[John Catlin (politician)|John Catlin]] acted as governor of the region.<ref name="Western Historical Company">{{Cite book |url=https://books.google.com/books?id=GWxQBg7uyWQC |title=The History of Racine and Kenosha Counties, Wisconsin |publisher=Western Historical Company |year=1879 |location=[[Racine County, Wisconsin]] |pages=54–56 |access-date=January 24, 2008}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Wisconsin
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Dodge, Henry"|[[File:Henry_Dodge_portrait.jpg|75px|alt=Portrait of a well-dressed nineteenth-century man]]
+|rowspan="2"|'''[[Henry Dodge]]'''<br>{{Small|(1782–1867)}}<br>{{sfn|McMullin|1984|pp=329–331}}
+|rowspan="2" data-sort-value="1963"|April 30, 1836{{efn|Dodge was nominated<ref>U.S. Congress. ''Senate Exec. Journal''. 24th Cong., 1st sess., [https://books.google.com/books?id=8dxCAQAAMAAJ&pg=PA535 535], accessed July 22, 2023.</ref> and confirmed by the Senate<ref>U.S. Congress. ''Senate Exec. Journal''. 24th Cong., 1st sess., [https://books.google.com/books?id=8dxCAQAAMAAJ&pg=PA536 536], accessed July 22, 2023.</ref> on April 30, 1836. He was reconfirmed by the Senate on March 2, 1839.<ref>U.S. Congress. ''Senate Exec. Journal''. 25th Cong., 3rd sess., [https://books.google.com/books?id=dJ9b45kNUs8C&pg=PA219 219], accessed July 22, 2023.</ref>}}<br />–<br />September 13, 1841<br>{{small|(1963 days; replaced)}}
+|{{sortname|Andrew|Jackson}}
+|- style="height:2em;"
+|{{sortname|Martin|Van Buren}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Doty, James"|[[File:JamesDuaneDoty.jpg|75px|alt=Portrait of a well-dressed nineteenth-century man]]
+|'''[[James Duane Doty]]'''<br>{{Small|(1799–1865)}}<br>{{sfn|McMullin|1984|pp=331–333}}
+|data-sort-value="1007"|September 13, 1841{{efn|Doty was appointed on April 15, 1841, during a Senate recess;{{sfn|McMullin|1984|pp=331–333}} nominated on June 17;<ref>U.S. Congress. ''Senate Exec. Journal''. 27th Cong., 1st sess., [https://books.google.com/books?id=D6mip5I6goUC&pg=PA386 386], accessed July 22, 2023.</ref> and confirmed by the Senate on September 13.<ref>U.S. Congress. ''Senate Exec. Journal''. 27th Cong., 1st sess., [https://books.google.com/books?id=D6mip5I6goUC&pg=PA441 441], accessed July 22, 2023.</ref>}}<br />–<br />June 15, 1844<br>{{small|(1007 days; replaced)}}
+|{{sortname|John|Tyler}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Tallmadge, Nathaniel"|[[File:Nathaniel P. Tallmadge bioguide.jpg|75px|alt=Portrait of a well-dressed nineteenth-century man]]
+|'''[[Nathaniel P. Tallmadge]]'''<br>{{Small|(1795–1864)}}<br>{{sfn|McMullin|1984|pp=333–335}}
+|data-sort-value="298"|June 15, 1844{{efn|Tallmadge was nominated and confirmed by the Senate on June 15, 1844.<ref>U.S. Congress. ''Senate Exec. Journal''. 28th Cong., 1st sess., [https://books.google.com/books?id=UXyIAAAAMAAJ&pg=PA343 343], accessed July 22, 2023.</ref>}}<br />–<br />April 8, 1845<br>{{small|(298 days; replaced)}}
+|{{sortname|John|Tyler}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Dodge, Henry"|[[File:HenryDodge.jpg|75px|alt=Portrait of a well-dressed nineteenth-century man]]
+|'''[[Henry Dodge]]'''<br>{{Small|(1782–1867)}}<br>{{sfn|McMullin|1984|pp=329–331}}
+|data-sort-value="1173"|April 8, 1845{{efn|Dodge was appointed on April 8, 1845, during a Senate recess;{{sfn|McMullin|1984|pp=329–331}} nominated on December 23, 1846;<ref>U.S. Congress. ''Senate Exec. Journal''. 29th Cong., 1st sess., [https://books.google.com/books?id=m4SIAAAAMAAJ&pg=PA10 10], accessed July 22, 2023.</ref> and confirmed by the Senate on February 3.<ref>U.S. Congress. ''Senate Exec. Journal''. 29th Cong., 1st sess., [https://books.google.com/books?id=m4SIAAAAMAAJ&pg=PA41 41], accessed July 22, 2023.</ref>}}<br />–<br />June 23, 1848<br>{{small|(1173 days; statehood)}}
+|{{sortname|James K.|Polk}}
+|}
+
+===State of Wisconsin===
+
+Wisconsin was admitted to the Union on May 29, 1848. Since then, it has had 45 governors, one of whom served non-consecutive terms.<ref name="govlist" />
+
+Originally, governors of Wisconsin served for two-year terms, but in 1967 the [[Constitution of Wisconsin|state constitution]] was amended to change this to four.<ref name="a5-s1" /> [[Jeremiah McLain Rusk]] served 1 3-year term in the 1880s as the constitution was amended during his first term to move elections from odd to even years, and all officers were allowed to serve an extra year, rather than have their terms cut a year short. [[Patrick Lucey]], elected in the [[Wisconsin gubernatorial elections|1970 election]], was the first governor to serve a 4-year term.<ref name="govlist">{{Cite book |url=http://www.legis.state.wi.us/lrb/bb/05bb/695-743.pdf |title=State of Wisconsin Blue Book 2005&ndash;2006 |page=724 |chapter=Wisconsin Governors since 1848 |access-date=October 5, 2007 |archive-url=https://web.archive.org/web/20071025041703/http://www.legis.state.wi.us/lrb/bb/05bb/695-743.pdf |archive-date=October 25, 2007 |url-status=dead}}</ref> Governors of Wisconsin are not [[term limit]]ed.
+
+[[Lucius Fairchild]], [[Jeremiah McLain Rusk]], [[Robert M. La Follette]], [[Emanuel L. Philipp]], [[John J. Blaine]], [[Walter J. Kohler Jr.]], [[Warren P. Knowles]] and [[Tommy Thompson]] are one of eight Wisconsin governors to have served three terms. Thompson is the only person to have won four terms having been elected in 1986 and reelected in 1990, 1994 and again in 1998 before resigning in February 2001.
+
+The state constitution provides for the election of a [[Lieutenant Governor of Wisconsin|lieutenant governor]]; originally, the governor and lieutenant governor were elected on different [[ticket (election)|ticket]]s, and thus were not necessarily of the same [[political party|party]]. Since the 1967 amendment, however, the two have been nominated, and voted on, together.<ref name="a5-s1" /> Originally, if the office of the governor was vacant for any reason, "the powers and duties of the office . . . devolve[d] upon the lieutenant governor." In 1979, the constitution was amended to make this more specific: if the governor dies, resigns, or is removed from office, the lieutenant governor becomes governor, but becomes acting governor if the governor is absent from the state, impeached, or unable to carry out of duties.<ref>Wisconsin Constitution article V, § 7</ref> If any of these events occur while the office of lieutenant governor is vacant, the [[Secretary of State of Wisconsin|secretary of state]] becomes either governor or acting governor.<ref>Wisconsin Constitution article V, § 8</ref> Two Wisconsin governors have died while in office, one has died after being elected but before taking office, and four have resigned.<ref name="govlist" />
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Wisconsin
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Wisconsin|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Dewey, Nelson"|[[File:Nelson Dewey c.1850s.png|75px]]
+|rowspan="2" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|rowspan="2"|'''[[Nelson Dewey]]'''<br>{{Small|(1813–1889)}}<br>{{sfn|Sobel|1978|pp=1717–1718}}<ref name="nga-dewey">{{Cite web |title=Nelson Dewey |url=https://www.nga.org/governor/nelson-dewey/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1308"|June 7, 1848<ref>Wisconsin Legislature. ''Journal of the Assembly''. 1st sess., [https://babel.hathitrust.org/cgi/pt?id=chi.78122799&seq=30 26], accessed July 22, 2023</ref><br />–<br />January 5, 1852<br>{{small|(1308 days; retired)}}
+|rowspan="2"|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1848 Wisconsin gubernatorial election|1848]]
+|rowspan="3" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|{{sortname|John Edwin|Holmes}}
+|- style="height:2em;"
+|[[1849 Wisconsin gubernatorial election|1849]]
+|{{sortname|Samuel|Beall}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Farwell, Leonard"|[[File:LeonardJFarwell extracted.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Leonard J. Farwell]]'''<br>{{Small|(1819–1889)}}<br>{{sfn|Sobel|1978|pp=1718–1719}}<ref name="nga-farwell">{{Cite web |title=Leonard James Farwell |url=https://www.nga.org/governor/leonard-james-farwell/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|January 5, 1852<ref>{{Cite news |date=1852-01-10 |title=none |page=2 |work=The Sheboygan Mercury |url=https://www.newspapers.com/article/the-sheboygan-mercury-farwell-inaugurate/128680721/ |access-date=2023-07-22 | quote=Our first Whig governor, Leonard J. Farwell, took the oath of office, administered by Chief Justice Whiton, at Madison, on Monday last...}}</ref><br />–<br />January 2, 1854<br>{{small|(729 days; retired)}}{{efn|A convention of [[Free Soil]]ers and others nominated Farwell, but he declined.{{sfn|Sobel|1978|pp=1718–1719}}}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=636–637}}
+|rowspan="2"|[[1851 Wisconsin gubernatorial election|1851]]
+|{{sortname|Timothy|Burns|dab=Wisconsin politician}}{{efn|Represented the [[Democratic Party of Wisconsin|Democratic Party]]|name=lt-dem}}<br />{{small|(died September 21, 1853)}}
+|- style="height:2em;" 
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;" 
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Barstow, William"|[[File:William_A_Barstow_by_William_F_Cogswell,_c1850s.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[William A. Barstow]]'''<br>{{Small|(1813–1865)}}<br>{{sfn|Sobel|1978|pp=1719–1720}}<ref name="nga-barstow">{{Cite web |title=William Augustus Barstow |url=https://www.nga.org/governor/william-augustus-barstow/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="810"|January 2, 1854<ref>{{Cite news |date=1854-01-16 |title=Madison Correspondence |page=2 |work=Daily Free Democrat |url=https://www.newspapers.com/article/daily-free-democrat-barstow-inaugurated/128680872/ |access-date=2023-07-22}}</ref><br />–<br />March 21, 1856<br>{{small|(810 days; resigned)}}{{efn|name=elect1855}}
+|rowspan="2"|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1853 Wisconsin gubernatorial election|1853]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|James T.|Lewis}}{{efn|Represented the [[Republican Party of Wisconsin|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+|rowspan="3"|[[1855 Wisconsin gubernatorial election|1855]]{{efn|The 1855 election was very close, with Barstow initially named the winner by the Democratic state canvassing board, but irregularities were found and Republicans challenged it to the Supreme Court. Barstow resigned on March 21, before the Supreme Court could reach a decision.{{sfn|Sobel|1978|pp=1719–1720}} Lieutenant Governor MacArthur then acted as governor, though there was uncertainty as to the legitimacy of his position; this was complicated further when the Supreme Court ruled on March 25 that Bashford was the winner. Bashford arrived at the capitol and, due to fears of violence, MacArthur did not resist.{{sfn|Sobel|1978|pp=1720–1721}} The legislature recognized Bashford as governor on March 27.{{sfn|Sobel|1978|pp=1721–1723}}|name=elect1855}}
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Arthur|MacArthur Sr.}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="MacArthur, Arthur"|[[File:Arthur macarthur sr.png|75px]]
+|'''[[Arthur MacArthur Sr.]]'''<br>{{Small|(1815–1896)}}<br>{{sfn|Sobel|1978|pp=1720–1721}}<ref name="nga-macarthur">{{Cite web |title=Arthur MacArthur |url=https://www.nga.org/governor/macarthur-arthur/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="5"|March 21, 1856<ref>{{Cite news |date=1856-03-21 |title=Barstow Resigned - The Fraud Confessed |page=2 |work=Daily Free Democrat |url=https://www.newspapers.com/article/daily-free-democrat-macarthur-succeeds-b/128680997/ |access-date=2023-07-22}}</ref><br />–<br />March 25, 1856 <br>{{small|(5 days; removed)}}{{efn|name=elect1855}}
+|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Bashford, Coles"|[[File:Coles Bashford - Brady-Handy (cropped).jpg|75px]]
+|rowspan="11" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Coles Bashford]]'''<br>{{Small|(1816–1878)}}<br>{{sfn|Sobel|1978|pp=1721–1723}}<ref name="nga-bashford">{{Cite web |title=Coles Bashford |url=https://www.nga.org/governor/coles-bashford/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="651"|March 25, 1856<ref>{{Cite news |date=1856-03-27 |title=Message of Governor Coles Bashford |page=3 |work=The Telegraph-Courier |url=https://www.newspapers.com/article/the-telegraph-courier-bashford-takes-off/128681154/ |access-date=2023-07-22}}</ref><br />–<br />January 4, 1858<br>{{small|(651 days; retired)}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|{{sortname|Arthur|MacArthur Sr.}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Randall, Alexander"|[[File:AWRandall.jpg|75px]]
+|rowspan="2"|'''[[Alexander Randall (Wisconsin politician)|Alexander Randall]]'''<br>{{Small|(1819–1872)}}<br>{{sfn|Sobel|1978|pp=1723–1724}}<ref name="nga-randall">{{Cite web |title=Alexander Williams Randall |url=https://www.nga.org/governor/alexander-williams-randall/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1858<ref>{{Cite news |date=1858-01-04 |title=The Inauguration of the New State Officers |page=2 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-randall-inaugura/128681232/ |access-date=2023-07-22}}</ref><br />–<br />January 6, 1862<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1857 Wisconsin gubernatorial election|1857]]
+|{{sortname|Erasmus D.|Campbell}}{{efn|name=lt-dem}}
+|- style="height:2em;" 
+|[[1859 Wisconsin gubernatorial election|1859]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Butler|Noble}}
+|- style="height:2em;" 
+!scope="row"|7
+|data-sort-value="Harvey, Louis"|[[File:Louis P. Harvey.jpg|75px]]
+|'''[[Louis P. Harvey]]'''<br>{{Small|(1820–1862)}}<br>{{sfn|Sobel|1978|pp=1724–1725}}<ref name="nga-harvey">{{Cite web |title=Louis Powell Harvey |url=https://www.nga.org/governor/louis-powell-harvey/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="104"|January 6, 1862<ref>{{Cite news |date=1862-01-06 |title=The Inauguration Ceremonies |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-harvey-inaugurat/128681313/ |access-date=2023-07-22}}</ref><br />–<br />April 19, 1862<br>{{small|(104 days; died in office)}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1861 Wisconsin gubernatorial election|1861]]
+|{{sortname|Edward|Salomon}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Salomon, Edward"|[[File:Wisconsin Governor Edward Salomon.jpg|75px]]
+|'''[[Edward Salomon]]'''<br>{{Small|(1828–1909)}}<br>{{sfn|Sobel|1978|pp=1725–1726}}<ref name="nga-salomon">{{Cite web |title=Edward Salomon |url=https://www.nga.org/governor/edward-salomon/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="626"|April 19, 1862<ref>{{Cite news |date=1862-04-22 |title=Proclamation |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-salomon-succeeds/128681676/ |access-date=2023-07-22}}</ref><br />–<br />January 4, 1864<br>{{small|(626 days;<br>lost nomination)}}<ref>{{Cite news |date=1863-08-27 |title=Republican Union State Convention |page=2 |work=The Telegraph-Courier |url=https://www.newspapers.com/article/the-telegraph-courier-lewis-nominated/128673147/ |access-date=2023-07-22}}</ref>
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Lewis, James"|[[File:James T. Lewis Cropped.jpg|75px]]
+|'''[[James T. Lewis]]'''<br>{{Small|(1819–1904)}}<br>{{sfn|Sobel|1978|pp=1727–1728}}<ref name="nga-lewis">{{Cite web |title=James Taylor Lewis |url=https://www.nga.org/governor/gov-james-taylor-lewis/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 4, 1864<ref>{{Cite news |date=1864-01-04 |title=The New State Administration |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-lewis-inaugurate/128681736/ |access-date=2023-07-22}}</ref><br />–<br />January 1, 1866<br>{{small|(729 days; retired)}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1863 Wisconsin gubernatorial election|1863]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Wyman|Spooner}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|10
+|rowspan="3" data-sort-value="Fairchild, Lucius"|[[File:Lucius Fairchild.png|75px]]
+|rowspan="3"|'''[[Lucius Fairchild]]'''<br>{{Small|(1831–1896)}}<br>{{sfn|Sobel|1978|pp=1728–1729}}<ref name="nga-fairchild">{{Cite web |title=Lucius Fairchild |url=https://www.nga.org/governor/lucius-fairchild/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 1, 1866<ref>{{Cite news |date=1866-01-04 |title=Our New State Officers |page=1 |work=Dodgeville Chronicle |url=https://www.newspapers.com/article/dodgeville-chronicle-fairchild-inaugurat/128681810/ |access-date=2023-07-22}}</ref><br />–<br />January 1, 1872<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1865 Wisconsin gubernatorial election|1865]]
+|- style="height:2em;"
+|[[1867 Wisconsin gubernatorial election|1867]]
+|- style="height:2em;"
+|[[1869 Wisconsin gubernatorial election|1869]]
+|{{sortname|Thaddeus C.|Pound}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Washburn, Cadwallader"|[[File:Cadwallader Colden Washburn.jpg|75px]]
+|rowspan="2"|'''[[Cadwallader C. Washburn]]'''<br>{{Small|(1818–1882)}}<br>{{sfn|Sobel|1978|pp=1729–1731}}<ref name="nga-washburn">{{Cite web |title=Cadwallader Colden Washburn |url=https://www.nga.org/governor/cadwallader-colden-washburn/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|January 1, 1872<ref>{{Cite news |date=1872-01-02 |title=Change of State Administration - Inaugural Ceremonies |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-washburn-inaugur/128681897/ |access-date=2023-07-22}}</ref><br />–<br />January 5, 1874<br>{{small|(736 days; lost election)}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|rowspan="2"|[[1871 Wisconsin gubernatorial election|1871]]
+|{{sortname|Milton|Pettit}}<br />{{small|(died March 23, 1873)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Taylor, William"|[[File:William Robert Taylor.jpg|75px]]
+|style="color:inherit;background: {{party color|Reform Party (19th-century Wisconsin)}};"|
+|'''[[William Robert Taylor]]'''<br>{{Small|(1820–1909)}}<br>{{sfn|Sobel|1978|pp=1731–1732}}<ref name="nga-taylor">{{Cite web |title=William R. Taylor |url=https://www.nga.org/governor/william-r-taylor/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1874<ref>{{Cite news |date=1874-01-05 |title=Out and In |page=4 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-taylor-inaugurat/128681948/ |access-date=2023-07-22}}</ref><br />–<br />January 3, 1876<br>{{small|(729 days; lost election)}}
+|[[Reform Party (19th-century Wisconsin)|Reform]]{{sfn|Glashan|1979|p=340}}
+|[[1873 Wisconsin gubernatorial election|1873]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Charles D.|Parker}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Ludington, Harrison"|[[File:Harrison Ludington.jpg|75px]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Harrison Ludington]]'''<br>{{Small|(1812–1891)}}<br>{{sfn|Sobel|1978|pp=1732–1733}}<ref name="nga-ludington">{{Cite web |title=Harrison Ludington |url=https://www.nga.org/governor/harrison-ludington/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1876<ref>{{Cite news |date=1876-01-03 |title=Inauguration! |page=4 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-ludington-inaugu/128681994/ |access-date=2023-07-22}}</ref><br />–<br />January 7, 1878<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|pp=1732–1733}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1875 Wisconsin gubernatorial election|1875]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Smith, William"|[[File:William E. Smith.jpg|75px]]
+|rowspan="2"|'''[[William E. Smith (politician)|William E. Smith]]'''<br>{{Small|(1824–1883)}}<br>{{sfn|Sobel|1978|pp=1733–1734}}<ref name="nga-smith">{{Cite web |title=William E. Smith |url=https://www.nga.org/governor/william-e-smith/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 7, 1878<ref>{{Cite news |date=1878-01-07 |title=Inauguration. |page=4 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-smith-inaugurate/128682060/ |access-date=2023-07-22}}</ref><br />–<br />January 2, 1882<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1877 Wisconsin gubernatorial election|1877]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|James M.|Bingham}}
+|- style="height:2em;"
+|[[1879 Wisconsin gubernatorial election|1879]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|15
+|rowspan="3" data-sort-value="Rusk, Jeremiah"|[[File:Jeremiah McLain Rusk - Brady-Handy.jpg|75px]]
+|rowspan="3"|'''[[Jeremiah McLain Rusk]]'''<br>{{Small|(1830–1893)}}<br>{{sfn|Sobel|1978|pp=1734–1735}}<ref name="nga-rusk">{{Cite web |title=Jeremiah M. Rusk |url=https://www.nga.org/governor/jeremiah-m-rusk/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2563"|January 2, 1882<ref>{{Cite news |date=1882-01-03 |title=Sworn In |page=4 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-rusk-inaugurated/128682398/ |access-date=2023-07-22}}</ref><br />–<br />January 7, 1889<br>{{small|(2563 days; retired)}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1881 Wisconsin gubernatorial election|1881]]
+|rowspan="2"|{{sortname|Sam|Fifield}}
+|- style="height:2em;"
+|[[1884 Wisconsin gubernatorial election|1884]]
+|- style="height:2em;"
+|[[1886 Wisconsin gubernatorial election|1886]]
+|rowspan="2"|{{sortname|George Washington|Ryland}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Hoard, William"|[[File:William D. Hoard.jpg|75px]]
+|'''[[William D. Hoard]]'''<br>{{Small|(1836–1918)}}<br>{{sfn|Sobel|1978|p=1736}}<ref name="nga-hoard">{{Cite web |title=William Dempster Hoard |url=https://www.nga.org/governor/william-dempster-hoard/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1889<ref>{{Cite news |date=1889-01-07 |title=The Old and New Administrations |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-hoard-inaugurate/128682442/ |access-date=2023-07-22}}</ref><br />–<br />January 5, 1891<br>{{small|(729 days; lost election)}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1888 Wisconsin gubernatorial election|1888]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|17
+|rowspan="3" data-sort-value="Peck, George"|[[File:George W. Peck.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[George Wilbur Peck]]'''<br>{{Small|(1840–1916)}}<br>{{sfn|Sobel|1978|p=1737}}<ref name="nga-peck">{{Cite web |title=George W. Peck |url=https://www.nga.org/governor/george-w-peck/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1464"|January 5, 1891<ref>{{Cite news |date=1891-01-05 |title=All Nature Smiles |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-peck-inaugurated/128682573/ |access-date=2023-07-22}}</ref><br />–<br />January 7, 1895<br>{{small|(1464 days; lost election)}}
+|rowspan="3"|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1890 Wisconsin gubernatorial election|1890]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Charles|Jonas|dab=Wisconsin politician}}<br>{{small|(resigned April 4, 1894)}}
+|- style="height:2em;"
+|rowspan="2"|[[1892 Wisconsin gubernatorial election|1892]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Upham, William"|[[File:William H Upham.jpg|75px]]
+|rowspan="21" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[William H. Upham]]'''<br>{{Small|(1841–1924)}}<br>{{sfn|Sobel|1978|pp=1738–1739}}<ref name="nga-upham">{{Cite web |title=William H. Upham |url=https://www.nga.org/governor/william-h-upham/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1895<ref>{{Cite news |date=1895-01-07 |title=Change of Governors in Wisconsin |page=3 |work=The Journal Times |url=https://www.newspapers.com/article/the-journal-times-upham-inaugurated-janu/128682648/ |access-date=2023-07-22}}</ref><br />–<br />January 4, 1897<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1738–1739}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1894 Wisconsin gubernatorial election|1894]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Emil|Baensch}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Scofield, Edward"|[[File:Edward Scofield.jpg|75px]]
+|rowspan="2"|'''[[Edward Scofield]]'''<br>{{Small|(1842–1925)}}<br>{{sfn|Sobel|1978|pp=1739–1740}}<ref name="nga-scofield">{{Cite web |title=Edward Scofield |url=https://www.nga.org/governor/edward-scofield/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1897<ref>{{Cite news |date=1897-01-04 |title=Scofield Sworn In |page=1 |work=Portage Daily Democrat |url=https://www.newspapers.com/article/portage-daily-democrat-scofield-inaugura/128682808/ |access-date=2023-07-22}}</ref><br />–<br />January 7, 1901<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1896 Wisconsin gubernatorial election|1896]]
+|- style="height:2em;"
+|[[1898 Wisconsin gubernatorial election|1898]]
+|rowspan="2"|{{sortname|Jesse|Stone|dab=Wisconsin politician}}<br />{{small|(died May 11, 1902)}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|20
+|rowspan="4" data-sort-value="La Follette, Robert"|[[File:Robert M. La Follette, Sr.jpg|75px]]
+|rowspan="4"|'''[[Robert M. La Follette]]'''<br>{{Small|(1855–1925)}}<br>{{sfn|Sobel|1978|pp=1740–1741}}<ref name="nga-lafollette-robert">{{Cite web |title=Robert M. La Follette |url=https://www.nga.org/governor/robert-m-la-follette/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1821"|January 7, 1901<ref>{{Cite news |date=1901-01-07 |title=Inaugurated as Governor |page=1 |work=The Journal Times |url=https://www.newspapers.com/article/the-journal-times-la-follette-inaugurate/128682907/ |access-date=2023-07-22}}</ref><br />–<br />January 1, 1906<br>{{small|(1821 days; resigned)}}{{efn|La Follette resigned, having been [[1904–05 United States Senate elections|elected]] to the [[United States Senate]] for a term beginning March 4, 1905; he delayed his resignation for nine months.{{sfn|Kallenbach|1977|pp=636–637}}}}
+|rowspan="4"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|rowspan="2"|[[1900 Wisconsin gubernatorial election|1900]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1902 Wisconsin gubernatorial election|1902]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|James O.|Davidson}}
+|- style="height:2em;"
+|[[1904 Wisconsin gubernatorial election|1904]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|21
+|rowspan="3" data-sort-value="Davidson, James"|[[File:James Ole Davidson, 1906 portrait from Bain Collection retouched.jpg|75px]]
+|rowspan="3"|'''[[James O. Davidson]]'''<br>{{Small|(1854–1922)}}<br>{{sfn|Sobel|1978|pp=1741–1742}}<ref name="nga-davidson">{{Cite web |title=James O. Davidson |url=https://www.nga.org/governor/james-o-davidson/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1828"|January 1, 1906<ref>{{Cite news |date=1906-01-02 |title=Davidson Is Governor |page=7 |work=The Journal Times |url=https://www.newspapers.com/article/the-journal-times-davidson-succeeds-la-f/128683003/ |access-date=2023-07-22}}</ref><br />–<br />January 2, 1911<br>{{small|(1828 days; retired)}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1906 Wisconsin gubernatorial election|1906]]
+|rowspan="13" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William D.|Connor}}
+|- style="height:2em;"
+|[[1908 Wisconsin gubernatorial election|1908]]
+|{{sortname|John|Strange|dab=Wisconsin politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="McGovern, Francis"|[[File:Francis E. McGovern.jpg|75px]]
+|rowspan="2"|'''[[Francis E. McGovern]]'''<br>{{Small|(1866–1946)}}<br>{{sfn|Sobel|1978|pp=1742–1743}}<ref name="nga-mcgovern">{{Cite web |title=Francis E. McGovern |url=https://www.nga.org/governor/francis-e-mcgovern/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1911<ref>{{Cite news |date=1911-01-03 |title=Inauguration Minus Fuss |page=2 |work=Portage Daily Democrat |url=https://www.newspapers.com/article/portage-daily-democrat-mcgovern-inaugura/128683115/ |access-date=2023-07-22}}</ref><br />–<br />January 4, 1915<br>{{small|(1464 days; retired)}}{{efn|McGovern instead [[1914 United States Senate election in Wisconsin|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|pp=1742–1743}}}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1910 Wisconsin gubernatorial election|1910]]
+|rowspan="2"|{{sortname|Thomas|Morris|dab=Wisconsin politician}}
+|- style="height:2em;"
+|[[1912 Wisconsin gubernatorial election|1912]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|23
+|rowspan="3" data-sort-value="Philipp, Emanuel"|[[File:Emanuel Lorenz Philipp (cropped).jpg|75px]]
+|rowspan="3"|'''[[Emanuel L. Philipp]]'''<br>{{Small|(1861–1925)}}<br>{{sfn|Sobel|1978|pp=1743–1745}}<ref name="nga-philipp">{{Cite web |title=Emanuel L. Philipp |url=https://www.nga.org/governor/emanuel-l-philipp/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 4, 1915<ref>{{Cite news |date=1915-01-04 |title=Thousands Witness Philipp Take Oath as Badger Governor |page=1 |work=Janesville Daily Gazette |url=https://www.newspapers.com/article/janesville-daily-gazette-philipp-inaugur/128683158/ |access-date=2023-07-22}}</ref><br />–<br />January 3, 1921<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1914 Wisconsin gubernatorial election|1914]]
+|rowspan="3"|{{sortname|Edward|Dithmar}}
+|- style="height:2em;"
+|[[1916 Wisconsin gubernatorial election|1916]]
+|- style="height:2em;"
+|[[1918 Wisconsin gubernatorial election|1918]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|24
+|rowspan="3" data-sort-value="Blaine, John"|[[File:John J. Blaine (WI).png|75px]]
+|rowspan="3"|'''[[John J. Blaine]]'''<br>{{Small|(1875–1934)}}<br>{{sfn|Sobel|1978|pp=1745–1746}}<ref name="nga-blaine">{{Cite web |title=John J. Blaine |url=https://www.nga.org/governor/john-j-blaine/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 3, 1921<ref>{{Cite news |date=1921-01-03 |title=Huge Throng Witnesses Ceremonies |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-blaine-inaugurated-jan/128683231/ |access-date=2023-07-22}}</ref><br />–<br />January 3, 1927<br>{{small|(2192 days; retired)}}{{efn|Blaine was instead [[1926 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1745–1746}}}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1920 Wisconsin gubernatorial election|1920]]
+|rowspan="2"|{{sortname|George|Comings}}
+|- style="height:2em;"
+|[[1922 Wisconsin gubernatorial election|1922]]
+|- style="height:2em;"
+|[[1924 Wisconsin gubernatorial election|1924]]
+|rowspan="4"|{{sortname|Henry|Huber}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Zimmerman, Fred"|[[File:Fred R. Zimmerman.jpg|75px]]
+|'''[[Fred R. Zimmerman]]'''<br>{{Small|(1880–1954)}}<br>{{sfn|Sobel|1978|pp=1746–1747}}<ref name="nga-zimmerman">{{Cite web |title=Fred R. Zimmerman |url=https://www.nga.org/governor/fred-r-zimmerman/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1927<ref>{{Cite news |last=Griffiths |first=Bryn |date=1927-01-03 |title=Five State Heads Take Oaths Today |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-zimmerman-inaugurated/128683320/ |access-date=2023-07-22}}</ref><br />–<br />January 7, 1929<br>{{small|(736 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1746–1747}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1926 Wisconsin gubernatorial election|1926]]
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Kohler, Walter 1"|[[File:Walter J. Kohler, Sr. (Wisconsin Governor).jpg|75px]]
+|'''[[Walter J. Kohler Sr.]]'''<br>{{Small|(1875–1940)}}<br>{{sfn|Sobel|1978|pp=1747–1748}}<ref name="nga-kohler-walter-1">{{Cite web |title=Walter J. Kohler |url=https://www.nga.org/governor/gov-walter-j-kohler/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1929<ref>{{Cite news |date=1929-01-07 |title=5,000 See Kohler Inaugurated |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-kohler-inaugurated-jan/128703888/ |access-date=2023-07-23}}</ref><br />–<br />January 5, 1931<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1747–1748}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1928 Wisconsin gubernatorial election|1928]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="La Follette, Philip"|[[File:Philip La Follette (1935).jpg|75px]]
+|'''[[Philip La Follette]]'''<br>{{Small|(1897–1965)}}<br>{{sfn|Sobel|1978|pp=1748–1749}}<ref name="nga-lafollette-philip">{{Cite web |title=Philip F. La Follette |url=https://www.nga.org/governor/phillip-f-la-follette/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1931<ref>{{Cite news |last=Smith |first=Willard R. |date=1931-01-05 |title=Philip La Follette Takes Governor's Chair |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-la-follette-inau/128703933/ |access-date=2023-07-23}}</ref><br />–<br />January 2, 1933<br>{{small|(729 days;<br>lost nomination)}}{{efn|La Follette lost the Republican nomination to [[Walter J. Kohler Sr.]]{{sfn|Sobel|1978|pp=1748–1749}}}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1930 Wisconsin gubernatorial election|1930]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Schmedeman, Albert"|[[File:Albert G Schmedeman.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Albert G. Schmedeman]]'''<br>{{Small|(1864–1946)}}<br>{{sfn|Sobel|1978|pp=1749–1750}}<ref name="nga-schmedeman">{{Cite web |title=Albert G. Schmedeman |url=https://www.nga.org/governor/albert-g-schmedeman/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 2, 1933<ref>{{Cite news |last=Browy |first=Calmer |date=1933-01-03 |title=4,000 See Schmedeman Take Oath; Asks Aid of All in Meeting Crisis |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-schmedeman-inaugurated/128704011/ |access-date=2023-07-23}}</ref><br />–<br />January 7, 1935<br>{{small|(736 days; lost election)}}
+|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1932 Wisconsin gubernatorial election|1932]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Thomas J.|O'Malley}}{{efn|name=lt-dem}}<br />{{small|(died May 27, 1936)}}
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|29
+|rowspan="5" data-sort-value="La Follette, Philip"|[[File:Philip La Follette (1935).jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Progressive Party (United States)}};" title="Represented the Progressive Party"|
+|rowspan="5"|'''[[Philip La Follette]]'''<br>{{Small|(1897–1965)}}<br>{{sfn|Sobel|1978|pp=1748–1749}}<ref name="nga-lafollette-philip" />
+|rowspan="5" data-sort-value="1457"|January 7, 1935<ref>{{Cite news |last=Parker |first=Cedric |date=1935-01-07 |title=10,000 See Phil LaFollette Take Oath |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-la-follette-inaugurate/128704053/ |access-date=2023-07-23}}</ref><br />–<br />January 2, 1939<br>{{small|(1457 days; lost election)}}
+|rowspan="5"|[[Wisconsin Progressive Party|Progressive]]{{sfn|Kallenbach|1977|pp=636–637}}
+|rowspan="2"|[[1934 Wisconsin gubernatorial election|1934]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|rowspan="3"|[[1936 Wisconsin gubernatorial election|1936]]
+|style="color:inherit;background: {{party color|Progressive Party (United States)}};" title="Represented the Progressive Party"|
+|{{sortname|Henry|Gunderson}}<br>{{small|(resigned October 16, 1937)}}
+|- style="height:2em;" 
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;" 
+|style="color:inherit;background: {{party color|Progressive Party (United States)}};" title="Represented the Progressive Party"|
+|{{sortname|Herman|Ekern}}<br>{{small|(appointed May 16, 1938)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Heil, Julius"|[[File:Julius P. Heil.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Julius P. Heil]]'''<br>{{Small|(1876–1949)}}<br>{{sfn|Sobel|1978|p=1751}}<ref name="nga-heil">{{Cite web |title=Julius Peter Heil |url=https://www.nga.org/governor/julius-peter-heil-2/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1939<ref>{{Cite news |last=Revell |first=Aldric |date=1939-01-03 |title=Julius Heil Take Oath of Office and Pledges Rigid Economy in His Address |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-heil-inaugurated-janua/128704104/ |access-date=2023-07-23}}</ref><br />–<br />January 4, 1943<br>{{small|(1464 days; lost election)}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1938 Wisconsin gubernatorial election|1938]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Walter Samuel|Goodland}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1940 Wisconsin gubernatorial election|1940]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Loomis, Orland"|[[File:Orland Steen Loomis (Wisconsin governor-elect).jpg|75px]]
+|style="color:inherit;background: {{party color|Progressive Party (United States)}};" title="Represented the Progressive Party"|
+|'''[[Orland Steen Loomis]]'''<br>{{Small|(1893–1942)}}<br>{{sfn|Sobel|1978|p=1752}}
+|data-sort-value="0"|''Died before<br />taking office''
+|[[Wisconsin Progressive Party|Progressive]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1942 Wisconsin gubernatorial election|1942]]{{efn|Loomis was elected in the 1942 election, but died before taking office. Per a ruling of the Wisconsin Supreme Court, Goodland, who had been reelected lieutenant governor in the same election, served as governor for the term.{{sfn|Sobel|1978|pp=1752–1754}}}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|31
+|rowspan="3" data-sort-value="Goodland, Walter"|[[File:Walter Samuel Goodland.jpg|75px]]
+|rowspan="9" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Walter Samuel Goodland]]'''<br>{{Small|(1862–1947)}}<br>{{sfn|Sobel|1978|pp=1752–1754}}<ref name="nga-goodland">{{Cite web |title=Walter S. Goodland |url=https://www.nga.org/governor/walter-s-goodland/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1529"|January 4, 1943<ref>{{Cite news |date=1943-01-04 |title=Goodland Hangs Up His Coat and Goes to Work |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-goodland-inaugurated-j/128704185/ |access-date=2023-07-23}}</ref><br />–<br />March 12, 1947<br>{{small|(1529 days; died in office)}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1944 Wisconsin gubernatorial election|1944]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Oscar|Rennebohm}}
+|- style="height:2em;"
+|[[1946 Wisconsin gubernatorial election|1946]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Rennebohm, Oscar"|[[File:Rennebohm Governor.jpg|75px]]
+|rowspan="2"|'''[[Oscar Rennebohm]]'''<br>{{Small|(1889–1968)}}<br>{{sfn|Sobel|1978|p=1754}}<ref name="nga-rennebohm">{{Cite web |title=Oscar Rennebohm |url=https://www.nga.org/governor/oscar-rennebohm/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1392"|March 12, 1947<ref>{{Cite news |date=1947-03-13 |title=Madisonian Takes Oath at Informal Capitol Ceremonies |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-rennebohm-succee/128704242/ |access-date=2023-07-23}}</ref><br />–<br />January 1, 1951<br>{{small|(1392 days; retired)}}{{sfn|Sobel|1978|p=1754}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1948 Wisconsin gubernatorial election|1948]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|George M.|Smith}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|33
+|rowspan="3" data-sort-value="Kohler, Walter 2"|[[File:Walter J. Kohler Jr. Crop.png|75px]]
+|rowspan="3"|'''[[Walter J. Kohler Jr.]]'''<br>{{Small|(1904–1976)}}<br>{{sfn|Sobel|1978|p=1755}}<ref name="nga-kohler-walter-2">{{Cite web |title=Walter J. Kohler Jr. |url=https://www.nga.org/governor/walter-j-kohler-jr/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2199"|January 1, 1951<ref>{{Cite news |last=Goltz |first=Sanford |date=1951-01-02 |title=3,000 See Kohler Sworn |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-kohler-inaugurat/128704313/ |access-date=2023-07-23}}</ref><br />–<br />January 7, 1957<br>{{small|(2199 days; retired)}}{{sfn|Sobel|1978|p=1755}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1950 Wisconsin gubernatorial election|1950]]
+|- style="height:2em;"
+|[[1952 Wisconsin gubernatorial election|1952]]
+|- style="height:2em;"
+|[[1954 Wisconsin gubernatorial election|1954]]
+|rowspan="2"|{{sortname|Warren P.|Knowles}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Thomson, Vernon"|[[File:Vernon W. Thomson (WI).png|75px]]
+|'''[[Vernon Wallace Thomson]]'''<br>{{Small|(1905–1988)}}<br>{{sfn|Sobel|1978|p=1756}}<ref name="nga-thomson">{{Cite web |title=Vernon W. Thomson |url=https://www.nga.org/governor/vernon-w-thomson/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1957<ref>{{Cite news |date=1957-01-07 |title=Fairchild Is Sworn In by His Father |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-thomson-inaugurated-ja/128704370/ |access-date=2023-07-23}}</ref><br />–<br />January 5, 1959<br>{{small|(729 days; lost election)}}
+|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1956 Wisconsin gubernatorial election|1956]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="Nelson, Gaylord"|[[File:Governor Gaylord Nelson 1961 Edit.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Gaylord Nelson]]'''<br>{{Small|(1916–2005)}}<br>{{sfn|Sobel|1978|p=1757}}<ref name="nga-nelson">{{Cite web |title=Gaylord Anton Nelson |url=https://www.nga.org/governor/gaylord-anton-nelson/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1959<ref>{{Cite news |last=Revell |first=Aldric |date=1959-01-05 |title=Revision of Taxes Asked |page=1 |work=The Capital Times |url=https://www.newspapers.com/article/the-capital-times-nelson-inaugurated-jan/128704418/ |access-date=2023-07-23}}</ref><br />–<br />January 7, 1963<br>{{small|(1464 days; retired)}}{{efn|Nelson was instead [[1962 United States Senate election in Wisconsin|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1757}}}}
+|rowspan="2"|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1958 Wisconsin gubernatorial election|1958]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Philleo|Nash}}
+|- style="height:2em;"
+|[[1960 Wisconsin gubernatorial election|1960]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Warren P.|Knowles}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Reynolds, John"|[[File:John W. Reynolds Jr. (WI).png|75px]]
+|'''[[John W. Reynolds Jr.]]'''<br>{{Small|(1921–2002)}}<br>{{sfn|Sobel|1978|pp=1758–1759}}<ref name="nga-reynolds">{{Cite web |title=John W. Reynolds |url=https://www.nga.org/governor/john-w-reynolds/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1963<ref>{{Cite news |last=Roberts |first=Llewellyn G. |date=1963-01-08 |title=Gov. Reynolds Urges Unity |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-reynolds-inaugur/128704469/ |access-date=2023-07-23}}</ref><br />–<br />January 4, 1965<br>{{small|(729 days; lost election)}}
+|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1962 Wisconsin gubernatorial election|1962]]
+|{{sortname|Jack B.|Olson}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|37
+|rowspan="3" data-sort-value="Knowles, Warren"|[[File:Warren P. Knowles (Wisconsin governor).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Warren P. Knowles]]'''<br>{{Small|(1908–1993)}}<br>{{sfn|Sobel|1978|pp=1759–1760}}<ref name="nga-knowles">{{Cite web |title=Warren P. Knowles |url=https://www.nga.org/governor/warren-p-knowles/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 4, 1965<ref>{{Cite news |last=Brissee |first=William |date=1965-01-05 |title=Knowles Seeks State's Aid in Move Forward |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-knowles-inaugura/128704514/ |access-date=2023-07-23}}</ref><br />–<br />January 4, 1971<br>{{small|(2192 days; retired)}}{{sfn|Sobel|1978|pp=1759–1760}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1964 Wisconsin gubernatorial election|1964]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Patrick|Lucey}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1966 Wisconsin gubernatorial election|1966]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Jack B.|Olson}}
+|- style="height:2em;"
+|[[1968 Wisconsin gubernatorial election|1968]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|38
+|rowspan="2" data-sort-value="Lucey, Patrick"|[[File:Patrick Lucey.png|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Patrick Lucey]]'''<br>{{Small|(1918–2014)}}<br>{{sfn|Sobel|1978|pp=1760–1761}}<ref name="nga-lucey">{{Cite web |title=Patrick Joseph Lucey |url=https://www.nga.org/governor/patrick-joseph-lucey/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2376"|January 4, 1971<ref>{{Cite news |last=Selk |first=James D. |date=1971-01-05 |title=Lucey Hopes to Bridge Troubled State Waters |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-lucey-inaugurate/128704580/ |access-date=2023-07-23}}</ref><br />–<br />July 6, 1977<br>{{small|(2376 days; resigned)}}{{efn|Lucey resigned, having been confirmed as [[List of ambassadors of the United States to Mexico|United States Ambassador to Mexico]].{{sfn|Sobel|1978|pp=1760–1761}}}}
+|rowspan="2"|[[Democratic Party of Wisconsin|Democratic]]{{sfn|Kallenbach|1977|pp=636–637}}
+|[[1970 Wisconsin gubernatorial election|1970]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Martin J.|Schreiber}}
+|- style="height:2em;"
+|[[1974 Wisconsin gubernatorial election|1974]]
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Schreiber, Martin"|[[File:Martin J. Schreiber (1977).png|75px]]
+|'''[[Martin J. Schreiber]]'''<br>{{small|({{Abbr|b.|born in}} 1939)}}<br>{{sfn|Sobel|1978|pp=1761–1762}}<ref name="nga-schreiber">{{Cite web |title=Martin James Schreiber |url=https://www.nga.org/governor/martin-james-schreiber/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="547"|July 6, 1977<ref>{{Cite news |last=Beveridge |first=Reid |date=1977-07-08 |title=Schreiber Takes State Reins |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-schreiber-succee/128704694/ |access-date=2023-07-23}}</ref><br />–<br />January 3, 1979<br>{{small|(lost election)}}
+|[[Democratic Party of Wisconsin|Democratic]]<ref name="nga-schreiber" />
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Dreyfus, Lee"|[[File:Lee Dreyfus (Wisconsin Governor).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Lee S. Dreyfus]]'''<br>{{Small|(1926–2008)}}<br><ref name="nga-dreyfus">{{Cite web |title=Lee Sherman Dreyfus |url=https://www.nga.org/governor/lee-sherman-dreyfus/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 3, 1979<ref>{{Cite news |last=Simms |first=Patricia |date=1979-01-04 |title=Dreyfus Becomes Governor |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-dreyfus-inaugura/128704720/ |access-date=2023-07-23}}</ref><br />–<br />January 3, 1983<br>{{small|(1462 days; retired)}}
+|[[Republican Party of Wisconsin|Republican]]<ref name="nga-dreyfus" />
+|[[1978 Wisconsin gubernatorial election|1978]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Russell|Olson}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Earl, Tony"|[[File:Anthony Earl (Wisconsin Governor) (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Tony Earl]]'''<br>{{Small|(1936–2023)}}<br><ref name="nga-earl">{{Cite web |title=Anthony S. Earl |url=https://www.nga.org/governor/anthony-s-earl/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 3, 1983<ref>{{Cite news |last=Still |first=Thomas W. |date=1983-01-04 |title=Earl, Upbeat, Now the 40th |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-earl-inaugurated/128704764/ |access-date=2023-07-23}}</ref><br />–<br />January 5, 1987<br>{{small|(1464 days; lost election)}}
+|[[Democratic Party of Wisconsin|Democratic]]<ref name="nga-earl" />
+|[[1982 Wisconsin gubernatorial election|1982]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|James|Flynn|dab=politician}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|42
+|rowspan="4" data-sort-value="Thompson, Tommy"|[[File:Tommy Thompson (WI).jpg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|'''[[Tommy Thompson]]'''<br>{{small|({{Abbr|b.|born in}} 1941)}}<br><ref name="nga-thompson">{{Cite web |title=Tommy G. Thompson |url=https://www.nga.org/governor/tommy-g-thompson/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="5142"|January 5, 1987<ref>{{Cite news |last=Mell |first=Doug |date=1987-01-06 |title=Tommy Promises a Better State |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-thompson-sworn-i/128704796/ |access-date=2023-07-23}}</ref><br />–<br />February 1, 2001<br>{{small|(5142 days; resigned)}}{{efn|Thompson resigned, having been confirmed as [[United States Secretary of Health and Human Services]].<ref name="nga-thompson" />}}
+|rowspan="4"|[[Republican Party of Wisconsin|Republican]]<ref name="nga-thompson" />
+|[[1986 Wisconsin gubernatorial election|1986]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|{{sortname|Scott|McCallum}}
+|- style="height:2em;"
+|[[1990 Wisconsin gubernatorial election|1990]]
+|- style="height:2em;"
+|[[1994 Wisconsin gubernatorial election|1994]]
+|- style="height:2em;"
+|[[1998 Wisconsin gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|43
+|rowspan="2" data-sort-value="McCallum, Scott"|[[File:Governor Scott McCallum 2001 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Scott McCallum]]'''<br>{{small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-mccallum">{{Cite web |title=Scott McCallum |url=https://www.nga.org/governor/scott-mccallum/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="705"|February 1, 2001<ref>{{Cite news |last=Milfred |first=Scott |date=2001-02-02 |title=McCallum Pledges to Cut Taxes |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-mccallum-inaugur/128704873/ |access-date=2023-07-23}}</ref><br />–<br />January 6, 2003<br>{{small|(705 days; lost election)}}
+|rowspan="2"|[[Republican Party of Wisconsin|Republican]]<ref name="nga-mccallum" />
+|rowspan="2" style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;" 
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Margaret|Farrow}}<br>{{small|(appointed May 9, 2001)}}
+|- style="height:2em;" 
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Doyle, Jim"|[[File:Governor Doyle (2819500847) (1).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jim Doyle]]'''<br>{{small|({{Abbr|b.|born in}} 1945)}}<br><ref name="nga-doyle">{{Cite web |title=Jim Doyle |url=https://www.nga.org/governor/jim-doyle/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 6, 2003<ref>{{Cite news |last=Brinkman |first=Phil |date=2003-01-07 |title=Doyle's Vow: People First |page=1 |work=Wisconsin State Journal |url=https://www.newspapers.com/article/wisconsin-state-journal-doyle-inaugurate/128704925/ |access-date=2023-07-23}}</ref><br />–<br />January 3, 2011<br>{{small|(2920 days; retired)}}
+|rowspan="2"|[[Democratic Party of Wisconsin|Democratic]]<ref name="nga-doyle" />
+|[[2002 Wisconsin gubernatorial election|2002]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Barbara|Lawton}}
+|- style="height:2em;"
+|[[2006 Wisconsin gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|45
+|rowspan="3" data-sort-value="Walker, Scott"|[[File:Scott Walker by Gage Skidmore 4.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Scott Walker (politician)|Scott Walker]]'''<br>{{small|({{Abbr|b.|born in}} 1967)}}<br><ref name="nga-walker">{{Cite web |title=Scott Walker |url=https://www.nga.org/governor/scott-walker/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2927"|January 3, 2011<ref>{{Cite news |date=2011-01-04 |title=Walker Takes First Steps |page=1 |work=The La Crosse Tribune |agency=Associated Press |url=https://www.newspapers.com/article/the-la-crosse-tribune-walker-inaugurated/128704998/ |access-date=2023-07-23}}</ref><br />–<br />January 7, 2019<br>{{small|(2927 days; lost election)}}
+|rowspan="3"|[[Republican Party of Wisconsin|Republican]]<ref name="nga-walker" />
+|[[2010 Wisconsin gubernatorial election|2010]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Rebecca|Kleefisch}}
+|- style="height:2em;"
+|[[2012 Wisconsin gubernatorial recall election|2012]]<br />{{small|(recall)}}
+|- style="height:2em;"
+|[[2014 Wisconsin gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="Evers, Tony"|[[File:Tony Evers 191109-(A).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Tony Evers]]'''<br>{{small|({{Abbr|b.|born in}} 1951)}}<br><ref name="nga-evers">{{Cite web |title=Tony Evers |url=https://www.nga.org/governor/tony-evers/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|7|duration=on|format=no}}"|January 7, 2019<ref>{{Cite news |last=Anderson |first=Madeleine |date=2019-01-07 |title='Change is coming:' Governor Tony Evers celebrates inauguration at gala in Madison |language=en-US |work=Fox 6 Milwaukee |url=https://www.fox6now.com/news/change-is-coming-governor-tony-evers-celebrates-inauguration-at-gala-in-madison |access-date=2023-07-23}}</ref><br />–<br />Incumbent{{efn|Evers' second term began on January 3, 2023,<ref>{{Cite news |last=De Sisti |first=Mike |date=2023-01-03 |title=Gov. Tony Evers sworn in for his second term as governor |url=https://www.jsonline.com/picture-gallery/news/local/wisconsin/2023/01/03/gov-tony-evers-sworn-his-second-term-governor/10983463002/ |access-date=2025-01-23 |work=Milwaukee Journal Sentinel |language=en-US}}</ref> and [[2026 Wisconsin gubernatorial election|will expire]] on January 4, 2027.}}<br>{{small|(in office {{Duration in days nts|2019|1|7|duration=on|format=no}} days)}}
+|rowspan="2"|[[Democratic Party of Wisconsin|Democratic]]<ref name="nga-evers" />
+|[[2018 Wisconsin gubernatorial election|2018]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Mandela|Barnes}}
+|- style="height:2em;"
+|[[2022 Wisconsin gubernatorial election|2022]]
+|{{sortname|Sara|Rodriguez}}
+|- style="height:2em;"
+!scope="row"|''47''
+|data-sort-value="Crowley, David"|[[File:Milwaukee_County_Executive_David_Crowley_during_Democratic_Primary_debate_on_July_28,_2026.jpg|75px]]
+|'''''[[David Crowley (Wisconsin politician)|David Crowley]]'''''<br>{{small|({{abbr|b.|born in}} 1986)}}
+|data-sort-value="{{Duration in days nts|2027|1|4|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 4, 2027''
+|''[[Democratic Party of Wisconsin|Democratic]]''
+|[[2026 Wisconsin gubernatorial election|2026]]
+|''{{sortname|Sarah|Godlewski}}''
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#Wisconsin]]
+* [[List of Wisconsin state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former Wisconsin Governors |url=https://www.nga.org/former-governors/wisconsin/ |access-date=July 22, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+*{{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite web |title=Our Campaigns - Governor of Wisconsin - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=298 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+==External links==
+
+{{commons category | Governors of Wisconsin}}
+*[https://governor.wi.gov/ Office of the Governor of Wisconsin]
+
+{{Wisconsin}}
+{{Governors of Wisconsin}}
+{{Lists of US Governors}}
+{{Wisconsin constitutional officers}}
+
+{{Featured list}}
+
+{{DEFAULTSORT:Wisconsin, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Wisconsin| ]]
+[[Category:Lists of Wisconsin politicians|Governors]]
+[[Category:Lists of territorial governors of the United States]]
+[[Category:Politics of Wisconsin]]
+[[Category:Wisconsin history-related lists|Governors]]

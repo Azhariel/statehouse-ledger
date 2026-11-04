@@ -1,0 +1,982 @@
+{{Short description|Politics in the US state of Idaho}}
+{{more citations needed|date=January 2021}}
+{{align|right|{{Switcher |[[File:2026 Idaho voter registration map by county.svg|180px]] |Voter registration by county|<!-- Please do not remove this map as it shows the correct congressional district results for this in addition to the 2022 U.S. Senate election -->[[File:2022 United States Senate election in Idaho results map by congressional district.svg|180px]] |Voter registration by congressional district<br>{{collapsible list|title = Legend:|
+{{legend|#FFC8CD|30–40%}} |
+{{legend|#FFB2B2|40–50%}} |
+{{legend|#E27F7F|50–60%}} |
+{{legend|#D75D5D|60–70%}} |
+{{legend|#D72F30|70–80%}} |
+{{legend|#C21B18|80–90%}} |}}}}}}
+
+The following table indicates the '''parties of elected officials in the [[U.S. state]] of [[Idaho]]''':
+*[[List of governors of Idaho|Governor]]
+*[[List of lieutenant governors of Idaho|Lieutenant Governor]]
+*[[Secretary of State of Idaho|Secretary of State]]
+*[[Idaho Attorney General|Attorney General]]
+*State Auditor/[[Idaho state controller|State Controller]]{{efn |Office renamed per 1994 amendment to state Constitution.}}
+*State Treasurer
+*Superintendent of Public Instruction
+*Inspector of Mines (before 1974)
+
+The table also indicates the historical party composition in the:
+*[[Idaho Senate|State Senate]]
+*[[Idaho House of Representatives|State House of Representatives]]
+*[[List of United States senators from Idaho|State delegation to the United States Senate]]
+*[[List of United States representatives from Idaho|State delegation to the United States House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+The parties are as follows: {{legend2|#B0CEFF |[[Democratic Party (United States)|Democratic]] |border=1px solid #AAAAAA}} {{small|(D)}}, {{legend2|#CCF7E6|Democratic&ndash;[[People's Party (United States)|Populist]] [[Electoral fusion|fusion]] |border=1px solid #AAAAAA}} (D/P), {{legend2|#79CDCD|Democratic&ndash;Populist&ndash;[[Silver Republican Party|Silver Republican]] fusion|border=1px solid #AAAAAA}} (D/P/SR), {{legend2|#A3DEE6|Democratic&ndash;Silver Republican fusion|border=1px solid #AAAAAA}} (D/SR), {{legend2|#DCDCDC |[[Independent politician|Independent]] |border=1px solid #AAAAAA}} {{small|(I)}}, {{legend2|#ACE1AF|Populist|border=1px solid #AAAAAA}} (P), {{legend2|#FFB6B6 |[[Republican Party (United States)|Republican]] |border=1px solid #AAAAAA}} {{small|(R)}}, {{legend2|#FF6060 |[[Socialist Party of America|Socialist]] |border=1px solid #AAAAAA}} (S), {{legend2|#F2CED4|Silver Republican|border=1px solid #AAAAAA}} (SR), and {{legend2|#D8BFD8|a tie or coalition within a group of elected officials|border=1px solid #AAAAAA}}.
+
+==1863–1890==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style=text-align:center
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |Territorial Council
+![[Idaho's congressional delegations|U.S. Congress]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Idaho|Governor]]
+!class=unsortable |[[Secretary of State of Idaho|Sec. of State]]
+!class=unsortable |[[Idaho Attorney General|Atty. Gen.]]
+!class=unsortable |Auditor
+!class=unsortable |Treasurer
+!class=unsortable |Supt. of Pub. Inst.
+!class=unsortable |Senate
+!class=unsortable |House
+!class=unsortable |[[Idaho Territory's at-large congressional district|Territorial delegate]]
+|- style="height:2em"
+!1863
+|{{Party shading/Republican}} |[[William H. Wallace]] {{small|(R)}}{{efn |name=terr-gov|Territorial governor appointed by the [[President of the United States]].}}
+|[[William B. Daniels]]{{efn |name=sec-terr|Secretary of [[Idaho Territory]].}}
+|rowspan=26 |''no such office''
+|[[John M. Bacon (Idaho politician)|John M. Bacon]]
+|[[Derrick S. Kenyon]]
+|''no such office''
+|colspan=2 |''no such offices''
+|''no such office''
+|- style="height:2em"
+!1864
+|rowspan=2 {{Party shading/Republican}} |[[Caleb Lyon]] {{small|(R)}}{{efn |name=terr-gov}}
+|[[C. DeWitt Smith]]{{efn |name=sec-terr}}
+|rowspan=3 |[[Benjamin F. Lamkin]]
+|rowspan=3 |[[Ephraim Smith]]
+|rowspan=2 |[[J. R. Chittenden]]
+|rowspan=21 {{Party shading/Democratic}} |D maj.
+|rowspan=21 {{Party shading/Democratic}} |D maj.
+|{{Party shading/Republican}} |William H. Wallace {{small|(R)}}{{efn |name=delegate |[[Non-voting members of the United States House of Representatives|Delegate]] to the [[United States House of Representatives|U.S. House of Representatives]] from the Idaho Territory.}}
+|- style="height:2em"
+!1865
+|[[Horace G. Gilson]]{{efn |name=sec-terr}}
+|rowspan=2 {{Party shading/Democratic}} |[[Edward D. Holbrook]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1866
+|rowspan=5 {{Party shading/Republican}} |[[David W. Ballard]] {{small|(R)}}{{efn |name=terr-gov}}
+|rowspan=4 |[[S. R. Howlett]]{{efn |name=sec-terr}}
+|rowspan=25 |[[W. R. Bishop]]
+|- style="height:2em"
+!rowspan=2 |1867
+|[[Horace B. Lane]]
+|rowspan=6 |[[Edward C. Sterling]]
+|rowspan=6 {{Party shading/Democratic}} |[[Jacob K. Shafer]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+|[[William R. Bishop]]
+|- style="height:2em"
+!1868
+|rowspan=10 |[[Daniel Cram]]
+|- style="height:2em"
+!1869
+|rowspan=12 |[[Edward J. Curtis]]{{efn |name=sec-terr}}
+|- style="height:2em"
+!rowspan=2 |1870
+|[[Samuel Bard (politician)|Samuel Bard]]{{efn |name=terr-gov}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Gilman Marston]] {{small|(R)}}{{efn |name=terr-gov}}
+|- style="height:2em"
+!rowspan=3 |1871
+|{{Party shading/Republican}} |[[Alexander H. Conner]] {{small|(R)}}{{efn |name=terr-gov}}
+|rowspan=3 {{Party shading/Republican}} |[[John S. Gray (Idaho politician)|John S. Gray]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel A. Merritt]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Thomas M. Bowen]] {{small|(R)}}{{efn |name=terr-gov}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Thomas W. Bennett (Idaho politician)|Thomas W. Bennett]] {{small|(R)}}{{efn |name=terr-gov}}
+|- style="height:2em"
+!1872
+|rowspan=13 |[[John Huntoon]]
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Democratic}} |[[John Hailey]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1874
+|- style="height:2em"
+!1875
+|{{Party shading/Democratic}} |[[David P. Thompson]] {{small|(D)}}{{efn |name=terr-gov}}
+|rowspan=6 |[[Joseph Perrault (Idaho politician)|Joseph Perrault]]
+|{{Party shading/Independent}} |Thomas W. Bennett {{small|(I)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1876
+|rowspan=2 {{Party shading/Republican}} |[[Mason Brayman]] {{small|(R)}}{{efn |name=terr-gov}}
+|rowspan=3 {{Party shading/Democratic}} |[[Stephen S. Fenn]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1877
+|- style="height:2em"
+!1878
+|rowspan=2 {{Party shading/Republican}} |[[John Philo Hoyt]] {{small|(R)}}{{efn |name=terr-gov}}
+|rowspan=2 |[[Robert A. Sidebotham]]{{efn |name=sec-terr}}
+|- style="height:2em"
+!1879
+|rowspan=4 {{Party shading/Democratic}} |[[George Ainslie (Idaho politician)|George Ainslie]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1880
+|rowspan=3 {{Party shading/Republican}} |[[John Baldwin Neil]] {{small|(R)}}{{efn |name=terr-gov}}
+|rowspan=3 {{Party shading/Republican}} |[[Theodore Frelinghuysen Singiser|Theodore Frelinghuysen<br>Singiser]] {{small|(R)}}{{efn |name=sec-terr}}
+|- style="height:2em"
+!1881
+|rowspan=4 |[[James L. Onderdonk]]
+|rowspan=10 |{{Data missing|?|date=July 2021}}
+|rowspan=10 |{{Data missing|?|date=July 2021}}
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|{{Party shading/Republican}} |[[John N. Irwin]] {{small|(R)}}{{efn |name=terr-gov}}
+|[[Edward L. Curtis]]{{efn |name=sec-terr}}
+|rowspan=2 {{Party shading/Republican}} |[[Theodore Frelinghuysen Singiser|Theodore Felinghuysen<br>Singiser]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1884
+|{{Party shading/Republican}} |[[William M. Bunn]] {{small|(R)}}{{efn |name=terr-gov}}
+|[[David P. B. Pride]]{{efn |name=sec-terr}}
+|- style="height:2em"
+!1885
+|rowspan=4 {{Party shading/Democratic}} |[[Edward A. Stevenson]] {{small|(D)}}{{efn |name=terr-gov}}
+|rowspan=6 |Edward J. Curtis{{efn |name=sec-terr}}
+|rowspan=2 |[[David P. B. Pride]]
+|rowspan=2 |[[Silas W. Moody]]
+|rowspan=2 |[[Joseph Perrault (Idaho politician)|Joseph Perrault]]
+|rowspan=2 {{Party shading/Democratic}} |John Hailey {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=4 |[[Richard Z. Johnson]]
+|rowspan=4 |[[J. H. Wickersham]]
+|rowspan=4 |[[Charlies Himrod]]
+|rowspan=2 |Silas W. Moody
+|rowspan=4 {{Party shading/Republican}} |[[Fred Dubois]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1888
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Republican}} |[[George L. Shoup]] {{small|(R)}}{{efn |name=terr-gov}}
+|rowspan=2 |[[Charles C. Stevenson (Idaho politician)|Charles C. Stevenson]]
+|- style="height:2em"
+!1890
+|}
+
+==1890–1974==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style=text-align:center
+!rowspan=2 class=unsortable |Year
+!colspan=8|Executive offices
+!colspan=2 |[[Idaho Legislature|State Legislature]]
+!colspan=4 |[[Idaho's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Idaho|Governor]]
+!class=unsortable |[[Lieutenant Governor of Idaho|Lt. Gov.]]
+!class=unsortable |[[Secretary of State of Idaho|Sec. of State]]
+!class=unsortable |[[Idaho Attorney General|Atty. Gen.]]
+!class=unsortable |Auditor/<br>[[Idaho state controller|Controller]]
+!class=unsortable |Treasurer
+!class=unsortable |Supt. of Pub. Inst.
+!class=unsortable |Insp. Mines
+!class=unsortable |[[Idaho Senate|State Senate]]
+!class=unsortable |[[Idaho House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Idaho|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States senators from Idaho|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[Idaho's 1st congressional district|U.S. House<br>District 1]]
+!class=unsortable |[[Idaho's 2nd congressional district|U.S. House<br>District 2]]
+|- style="height:2em"
+!1890
+|{{Party shading/Republican}} |[[George L. Shoup]] {{small|(R)}}{{efn |Resigned to take an elected seat in the [[United States Senate]].}}
+|{{Party shading/Republican}} |[[N. B. Willey]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[A. J. Pinkham]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[George H. Roberts]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Silas W. Moody]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Frank R. Coffin]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Joseph Harroun]] {{small|(R)}}
+|rowspan=3 |''no such<br>office''
+|rowspan=3 {{Party shading/Republican}} |14R, 4D
+|rowspan=3 {{Party shading/Republican}} |31R, 5D
+|''vacant''
+|{{Party shading/Republican}} |[[William J. McConnell]] {{small|(R)}}
+|colspan=2 rowspan=5 {{Party shading/Republican}} |[[Willis Sweet]] {{small|(R)}}
+|rowspan=2 |
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Republican}} |[[N. B. Willey]] {{small|(R)}}{{efn |name=ltfilled|As lieutenant governor, acted as governor for unexpired term.}}
+|rowspan=2 {{Party shading/Republican}} |[[John S. Gray (Idaho politician)|John S. Gray]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[George L. Shoup]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Fred Dubois]] {{small|(R)}}
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Populist}} |[[James B. Weaver|Weaver]]/<br>[[James G. Field|Field]] {{small|(Pop)}} {{nay}}
+|- style="height:2em"
+!1893
+|rowspan=4 {{Party shading/Republican}} |[[William J. McConnell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[F. B. Willis]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[J. F. Curtis]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[George M. Parsons]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Frank C. Ramsey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[W. C. Hill]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[B. B. Lower]] {{small|(R)}}
+|rowspan=2 |[[William S. Haskins]]
+|rowspan=2 bgcolor=#CCF7E6|8D, 6R, 4Pop{{efn |A Democrat, Alexander Mayhew, was chosen as President Pro Tempore and a coalition of Democrats and Populists and organized the chamber.}}
+|rowspan=2 {{Party shading/Republican}} |20R, 9D, 7Pop
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=2 {{Party shading/Republican}} |[[F. J. Mills]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[I. W. Garrett]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles Bunting]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[C. A. Foresman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[E. H. Dewey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 5Pop, 2D, 1I
+|rowspan=2 {{Party shading/Republican}} |25R, 8Pop, 1D, 1I
+|colspan= 2 rowspan=2 {{Party shading/Republican}} |[[Edgar Wilson]] {{small|(R)}}
+|- style="height:2em"
+!1896
+|{{Party shading/Silver Republican}} |[[Fred Dubois]] {{small|(SvR)}}
+|rowspan=4 bgcolor=#A3DEE6 |[[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D/SvR)}} {{nay}}
+|- style="height:2em"
+!1897
+|rowspan=4 bgcolor=#CCF7E6 |[[Frank Steunenberg]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6 |[[George F. Moore (Idaho politician)|George F. Moore]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6 |[[George Lewis (Idaho politician)|George Lewis]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6 |[[Robert E. McFarland (Idaho politician)|Robert E. McFarland]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6 |[[James H. Anderson (Idaho politician)|James H. Anderson]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6 |[[George H. Storer]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6 |[[Louis Anderson (Idaho politician)|Louis Anderson]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6 |[[Benjamin Hastings (politician)|Benjamin Hastings]] {{small|(D/Pop)}}
+|rowspan=2 bgcolor=#CCF7E6|7D, 7Pop, 7R{{efn |A coalition of Democrats and Populists elected a Populist, [[Joseph C. Rich]], as President Pro Tempore and organized the chamber.}}
+|rowspan=2 bgcolor=#CCF7E6|17R, 16Pop, 15D{{efn |A coalition of Democrats and Populists elected a Democrat, David L. Evans, as Speaker and organized the chamber.}}
+|rowspan=6 bgcolor=#CCF7E6 |[[Henry Heitfeld]] {{small|(D/Pop)}}
+|colspan= 2 rowspan=2 {{Party shading/Populist}} |[[James Gunn (Idaho politician)|James Gunn]] {{small|(Pop)}}
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=2 bgcolor=#A3DEE6 |[[J. H. Hutchinson]] {{small|(D/SvR)}}
+|rowspan=2 {{Party shading/Republican}} |[[M. A. Patrie]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[S. H. Hays]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Bartlett Sinclair]] {{small|(D)}}
+|rowspan=2 {{Party shading/Fusion}} |[[L. C. Rice]]<br>{{small|(D/Pop/SvR)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Permeal J. French]] {{small|(D)}}
+|rowspan=2 bgcolor=#A3DEE6 |[[Jay A. Czizek]] {{small|(D/SvR)}}
+|rowspan=2 {{Party shading/Coalition}} |9R, 7D/Pop/SvR, 3D, 2P{{efn |A coalition of Republicans and Populists elected a Republican, [[Frank R. Gooding]], as President Pro Tempore, and organized the chamber.}}
+|rowspan=2 {{Party shading/Fusion}} |17D/Pop/SvR, 14D, 12R, 6Pop{{efn |A coalition of Democrats, Populists, and Silver Republicans elected a Democrat, David L. Evans, as Speaker and organized the chamber.}}
+|colspan= 2 rowspan=2 {{Party shading/Silver Republican}} |Edgar Wilson {{small|(SvR)}}
+|- style="height:2em"
+!1900
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Democratic}} |[[Frank W. Hunt]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas F. Terrell]] {{small|(D)}}
+|rowspan=2 bgcolor=#A3DEE6 |[[Charles Bassett (Idaho politician)|Charles Bassett]] {{small|(D/SvR)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Frank Martin (Idaho politician)|Frank Martin]] {{small|(D)}}
+|rowspan=2 bgcolor=#A3DEE6 |[[E. W. Jones]] {{small|(D/SvR)}}
+|rowspan=2 {{Party shading/Democratic}} |[[J. J. Plummer]] {{small|(D)}}
+|rowspan=2 {{Party shading/Fusion}} |[[Martin Jacobs]]<br>{{small|(D/Pop/SvR)}}
+|rowspan=2 {{Party shading/Fusion}} |10D, 7R, 3Pop, 1SvR{{efn |A coalition of Democrats, Populists, and Silver Republicans elected a Populist, J.W. Ballantine, as President Pro Tempore and organized the chamber.}}
+|rowspan=2 {{Party shading/Fusion}} |20R, 16D, 7SvR, 6Pop{{efn |A coalition of Democrats, Populists, and Silver Republicans elected a Democrat, Glenn P. McKinley, as Speaker and organized the chamber.}}
+|{{Party shading/Silver Republican}} |[[Fred Dubois]] {{small|(SvR)}}
+|colspan= 2 rowspan=2 {{Party shading/Populist}} |[[Thomas L. Glenn]] {{small|(Pop)}}
+|- style="height:2em"
+!1902
+|rowspan=5 {{Party shading/Democratic}} |[[Fred Dubois]] {{small|(D)}}
+|- style="height:2em"
+!1903
+|rowspan=2 {{Party shading/Republican}} |[[John T. Morrison]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[James M. Stevens]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Will H. Gibson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John A. Bagley]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Theo Turner]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry C. Coffin]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[May L. Scott]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Robert N. Bell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |14R, 6D, 1I
+|rowspan=2 {{Party shading/Republican}} |36R, 13D
+|rowspan=9 {{Party shading/Republican}} |[[Weldon B. Heyburn]] {{small|(R)}}
+|colspan= 2 rowspan=6 {{Party shading/Republican}} |[[Burton L. French]] {{small|(R)}}
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=4 {{Party shading/Republican}} |[[Frank R. Gooding]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Burpee L. Steeves]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John Guheen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert S. Bragaw]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 2D
+|rowspan=2 {{Party shading/Republican}} |48R, 2D
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Republican}} |[[Ezra A. Burrell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert Lansdon]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[C. A. Hastings]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[S. Belle Chamberlain]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 6D
+|rowspan=2 {{Party shading/Republican}} |38R, 12D, 1I
+|rowspan=34 {{Party shading/Republican}} |[[William Borah]] {{small|(R)}}{{efn |name=died|Died in office.}}
+|- style="height:2em"
+!1908
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{Party shading/Republican}} |[[James H. Brady]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lewis H. Sweetser]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[D. C. McDougall]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[S. D. Taylor]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[F. Cushing Moore]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |13R, 10D
+|rowspan=2 {{Party shading/Republican}} |44R, 9D
+|colspan= 2 rowspan=2 {{Party shading/Republican}} |[[Thomas R. Hamer]] {{small|(R)}}
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=2 {{Party shading/Democratic}} |[[James H. Hawley]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Wilford L. Gifford]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[O. V. Allen]] {{small|(R)}}{{efn |name=resigned|Resigned.}}
+|rowspan=4 {{Party shading/Republican}} |[[Grace M. Shepherd]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |Robert N. Bell {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |14R, 9D
+|rowspan=2 {{Party shading/Republican}} |34R, 25D
+|colspan= 2 rowspan=2 {{Party shading/Republican}} |Burton L. French {{small|(R)}}
+|- style="height:2em"
+!1912
+|{{Party shading/Democratic}} |[[Kirtland I. Perky]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|rowspan=2 {{Party shading/Republican}} |[[John M. Haines]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Herman H. Taylor]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Joseph H. Peterson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Fred L. Huston]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 3D
+|rowspan=2 {{Party shading/Republican}} |56R, 4D
+|rowspan=5 {{Party shading/Republican}} |James H. Brady {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Burton L. French {{small|(R)}}{{efn |name=AL|Elected [[at-large]] on a [[general ticket]].}}
+|rowspan=6 {{Party shading/Republican}} |[[Addison T. Smith]] {{small|(R)}}{{efn |name=AL}}
+|- style="height:2em"
+!1914
+|{{Party shading/Republican}} |[[E. H. Dewey]] {{small|(R)}}{{efn |name=app|Appointed to fill a vacancy.}}
+|- style="height:2em"
+!1915
+|rowspan=4 {{Party shading/Democratic}} |[[Moses Alexander]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[George R. Barker (Idaho politician)|George R. Barker]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[John W. Eagleson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Bernice McCoy]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 11D, 2Prog, 1Soc
+|rowspan=2 {{Party shading/Republican}} |32R, 28D, 1Prog
+|rowspan=2 {{Party shading/Republican}} |[[Robert M. McCracken]] {{small|(R)}}{{efn |name=AL}}
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=2 {{Party shading/Democratic}} |[[Ernest L. Parker]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William T. Dougherty]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[T. A. Walters]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Clarence Van Deusen]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |[[Ethel E. Redfield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 16R
+|rowspan=2 {{Party shading/Democratic}} |36D, 29R
+|rowspan=2 {{Party shading/Republican}} |Burton L. French {{small|(R)}}{{efn |name=AL}}
+|- style="height:2em"
+!1918
+|rowspan=3 {{Party shading/Democratic}} |[[John F. Nugent]] {{small|(D)}}
+|- style="height:2em"
+!1919
+|rowspan=4 {{Party shading/Republican}} |[[D. W. Davis]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles C. Moore]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert O. Jones]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Roy L. Black]] {{small|(R)}}
+|rowspan=15 {{Party shading/Republican}} |[[Edward G. Gallett]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 12D
+|rowspan=2 {{Party shading/Republican}} |46R, 18D
+|rowspan=15 {{Party shading/Republican}} |Burton L. French {{small|(R)}}
+|rowspan=15 {{Party shading/Republican}} |Addison T. Smith {{small|(R)}}
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=6 {{Party shading/Republican}} |[[Daniel F. Banks]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Stewart Campbell (Idaho politician)|Stewart Campbell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |39R, 5D
+|rowspan=2 {{Party shading/Republican}} |51R, 3D
+|rowspan=7 {{Party shading/Republican}} |Frank R. Gooding {{small|(R)}}
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=4 {{Party shading/Republican}} |[[Charles C. Moore]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[H. C. Baldridge]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[F. A. Jeter]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[A. H. Conner]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Elizabeth Russum]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |25R, 14D, 5Prog
+|rowspan=2 {{Party shading/Republican}} |37R, 22D, 6Prog
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Republican}} |32R, 7Prog, 5D
+|rowspan=2 {{Party shading/Republican}} |45R, 12Prog, 5D
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=5 {{Party shading/Republican}} |[[H. C. Baldridge]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Oscar Hailey]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Fred E. Lukens]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Frank L. Stephan]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Byron Defenbach]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Mabelle McConnell Lyman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 11D, 4Prog
+|rowspan=2 {{Party shading/Republican}} |52R, 8Prog, 7D, 1I
+|- style="height:2em"
+!1928
+|rowspan=6 {{Party shading/Republican}} |[[John Thomas (Idaho politician)|John Thomas]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1929
+|{{Party shading/Republican}} |[[W. B. Kinne]]{{efn |name=died}}
+|rowspan=3 {{Party shading/Republican}} |[[W. D. Gillis]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Myrtle R. Davis]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |32R, 12D
+|rowspan=3 {{Party shading/Republican}} |50R, 9D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |Oscar Hailey {{small|(R)}}
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=6 {{Party shading/Democratic}} |[[C. Ben Ross]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[G. P. Mix]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Fred J. Babcock]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[George Barrett (Idaho politician)|George Barrett]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 21D
+|rowspan=2 {{Party shading/Republican}} |43R, 27D
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=2 {{Party shading/Democratic}} |[[George Hill (Idaho politician)|George Hill]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Girard]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Bert H. Miller]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Harry C. Parsons]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Myrtle P. Enking]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[John W. Condie]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[W. H. Simons]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |35D, 9R
+|rowspan=2 {{Party shading/Democratic}} |59D, 4R
+|rowspan=6 {{Party shading/Democratic}} |[[James P. Pope]] {{small|(D)}}
+|rowspan=15 {{Party shading/Democratic}} |[[Compton I. White]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas C. Coffin]] {{small|(D)}}
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=2 {{Party shading/Democratic}} |G. P. Mix {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Arthur Campbell (Idaho politician)|Arthur Campbell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |36D, 8R
+|rowspan=2 {{Party shading/Democratic}} |53D, 6R
+|rowspan=4 {{Party shading/Democratic}} |[[D. Worth Clark]] {{small|(D)}}
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!1937
+|rowspan=2 {{Party shading/Democratic}} |[[Barzilla W. Clark]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Charles C. Gossett]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Ira H. Masters]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[J. W. Taylor]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |33D, 11R
+|rowspan=2 {{Party shading/Democratic}} |50D, 9R
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=2 {{Party shading/Republican}} |[[C. A. Bottolfsen]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Donald S. Whitehead]] {{small|(R)}}
+|rowspan=6 {{Party shading/Democratic}} |[[George H. Curtis]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Calvin E. Wright]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 17D
+|rowspan=2 {{Party shading/Republican}} |39R, 20D
+|rowspan=6 {{Party shading/Democratic}} |[[D. Worth Clark]] {{small|(D)}}
+|rowspan=9 {{Party shading/Republican}} |[[Henry Dworshak]] {{small|(R)}}
+|- style="height:2em"
+!1940
+|rowspan=6 {{Party shading/Republican}} |John Thomas {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=2 {{Party shading/Democratic}} |[[Chase A. Clark]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Charles C. Gossett {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Bert H. Miller {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[C. E. Roberts]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 21R
+|rowspan=2 {{Party shading/Democratic}} |38D, 21R
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=2 {{Party shading/Republican}} |[[C. A. Bottolfsen]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Edwin Nelson (politician)|Edwin Nelson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 13D
+|rowspan=2 {{Party shading/Republican}} |32R, 27D
+|- style="height:2em"
+!1944
+|{{Party shading/Republican}} |[[Acel H. Chatburn]] {{small|(R)}}{{efn |name=app}}
+|rowspan=6 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1945
+|{{Party shading/Democratic}} |[[Charles C. Gossett]] {{small|(D)}}{{efn |Resigned so that Lieutenant Governor [[Arnold Williams (American politician)|Arnold Williams]] would succeed him and then appoint him to the United States Senate.}}
+|{{Party shading/Democratic}} |[[Arnold Williams (American politician)|Arnold Williams]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Ira H. Masters {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Frank Langley (politician)|Frank Langley]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Ernest G. Hansen]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Ruth G. Moon]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[G. C. Sullivan]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |24R, 20D
+|rowspan=3 {{Party shading/Republican}} |30R, 29D
+|rowspan=8 {{Party shading/Democratic}} |[[Glen H. Taylor]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Arnold Williams (American politician)|Arnold Williams]] {{small|(D)}}{{efn |name=ltfilled}}
+|rowspan=2 {{Party shading/Democratic}} |[[A. R. McCabe]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Charles C. Gossett]] {{small|(D)}}
+|- style="height:2em"
+!1946
+|rowspan=4 {{Party shading/Republican}} |[[Henry Dworshak]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1947
+|rowspan=5 {{Party shading/Republican}} |[[C. A. Robins]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Donald S. Whitehead]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Cy Price]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Robert Ailshie]] {{small|(R)}}{{efn |name=died}}
+|rowspan=11 {{Party shading/Republican}} |[[N. P. Nielson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=6 {{Party shading/Republican}} |[[Lela D. Painter]] {{small|(R)}}{{efn |name=died}}
+|rowspan=13 {{Party shading/Republican}} |[[Alton B. Jones]] {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |[[George A. McDowell]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=3 {{Party shading/Republican}} |31R, 13D
+|rowspan=3 {{Party shading/Republican}} |42R, 17D
+|rowspan=3 {{Party shading/Republican}} |[[Abe Goff]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[John C. Sanborn]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=8 {{Party shading/Republican}} |[[Robert E. Smylie]] {{small|(R)}}{{efn |name=app-elec|Initially appointed to fill vacancy; later elected in his own right.}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=2 {{Party shading/Democratic}} |24D, 20R
+|rowspan=2 {{Party shading/Republican}} |35R, 24D
+|{{Party shading/Democratic}} |[[Bert H. Miller]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |Compton I. White {{small|(D)}}
+|- style="height:2em"
+!1950
+|rowspan=12 {{Party shading/Republican}} |[[Henry Dworshak]] {{small|(R)}}
+|- style="height:2em"
+!1951
+|rowspan=4 {{Party shading/Republican}} |[[Len Jordan]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Edson Deal]] {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic}} |Ira H. Masters {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |29R, 15D
+|rowspan=2 {{Party shading/Republican}} |36R, 23D
+|rowspan=6 {{Party shading/Republican}} |[[Herman Welker]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John Travers Wood]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Hamer Budge|Hamer H. Budge]] {{small|(R)}}
+|- style="height:2em"
+!1952
+|rowspan=3 {{Party shading/Republican}} |[[Margaret Gilbert (politician)|Margaret Gilbert]] {{small|(R)}}{{efn |name=app}}
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=2 {{Party shading/Republican}} |33R, 11D
+|rowspan=2 {{Party shading/Republican}} |45R, 14D
+|rowspan=10 {{Party shading/Democratic}} |[[Gracie Pfost]] {{small|(D)}}
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=12 {{Party shading/Republican}} |[[Robert E. Smylie]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[J. Berkeley Larsen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Graydon W. Smith]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Ruth G. Moon {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |24R, 20D
+|rowspan=2 {{Party shading/Republican}} |36R, 23D
+|- style="height:2em"
+!1956
+|rowspan=3 {{Party shading/Republican}} |[[James H. Young]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Republican}} |[[Rulon A. Swensen]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 19R
+|rowspan=2 {{Party shading/Republican}} |32R, 27D
+|rowspan=19 {{Party shading/Democratic}} |[[Frank Church]] {{small|(D)}}
+|- style="height:2em"
+!1958
+|{{Party shading/Republican}} |[[O. T. Hansen]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!1959
+|rowspan=8 {{Party shading/Democratic}} |[[William Drevlow]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |Arnold Williams {{small|(D)}}{{efn |name=resigned}}
+|rowspan=4 {{Party shading/Democratic}} |[[Frank L. Benson]] {{small|(D)}}
+|rowspan=17 {{Party shading/Democratic}} |[[Joe R. Williams]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=4 {{Party shading/Republican}} |Rulon A. Swensen {{small|(R)}}{{efn |name=app}}
+|rowspan=17 {{Party shading/Democratic}} |[[D. F. Engelking]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[George D. Fletcher]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 17R
+|rowspan=2 {{Party shading/Democratic}} |35D, 24R
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Republican}} |23R, 21D
+|rowspan=2 {{Party shading/Republican}} |31R, 28D
+|rowspan=4 {{Party shading/Democratic}} |[[Ralph Harding]] {{small|(D)}}
+|- style="height:2em"
+!1962
+|rowspan=12 {{Party shading/Republican}} |Len Jordan {{small|(R)}}
+|- style="height:2em"
+!1963
+|rowspan=7 {{Party shading/Republican}} |[[Allan Shepard]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=13 {{Party shading/Democratic}} |[[Marjorie Ruth Moon]] {{small|(D)}}
+|rowspan=9 {{Party shading/Republican}} |O. T. Hansen
+|rowspan=2 {{Party shading/Republican}} |34R, 29D
+|rowspan=4 {{Party shading/Democratic}} |[[Compton I. White Jr.]] {{small|(D)}}
+|- style="height:2em"
+!1964
+|rowspan=5 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Republican}} |25R, 19D
+|rowspan=2 {{Party shading/Republican}} |42R, 37D
+|rowspan=5 {{Party shading/Republican}} |[[George V. Hansen]] {{small|(R)}}
+|- style="height:2em"
+!1966
+|{{Party shading/Democratic}} |[[Louis E. Clapp]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!rowspan=2 |1967
+|rowspan=5 {{Party shading/Republican}} |[[Don Samuelson]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Jack M. Murphy]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Edson Deal]] {{small|(R)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Republican}} |22R, 13D
+|rowspan=5 {{Party shading/Republican}} |38R, 32D
+|rowspan=7 {{Party shading/Republican}} |[[Jim McClure (politician)|Jim McClure]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=8 {{Party shading/Republican}} |[[Pete Cenarrusa]] {{small|(R)}}{{efn |name=app-elec}}
+|- style="height:2em"
+!1968
+|rowspan=7 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Republican}} |[[Robert M. Robson]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |20R, 15D
+|rowspan=6 {{Party shading/Republican}} |[[Orval Hansen]] {{small|(R)}}
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=4 {{Party shading/Democratic}} |[[Cecil Andrus]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[W. Anthony Park]] {{small|(D)}}
+|rowspan=3 |[[W. Carl Griner]]{{efn |Inspector of Mines became appointed position effective January 1971.}}
+|rowspan=2 {{Party shading/Republican}} |19R, 16D
+|rowspan=2 {{Party shading/Republican}} |41R, 29D
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Republican}} |23R, 12D
+|rowspan=2 {{Party shading/Republican}} |51R, 19D
+|rowspan=2 {{Party shading/Republican}} |Jim McClure {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Steve Symms]] {{small|(R)}}
+|- style="height:2em"
+!1974
+|''office<br>abolished''{{efn |Office abolished by state legislature, with duties delegated to the state Department of Labor and Industrial Services, effective July 1, 1974.}}
+|}
+
+==1975–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style=text-align:center
+!rowspan=2 class=unsortable |Year
+!colspan=7 |Executive offices
+!colspan=2 |[[Idaho Legislature|State Legislature]]
+!colspan=4 |[[Idaho's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Idaho|Governor]]
+!class=unsortable |[[Lieutenant Governor of Idaho|Lt. Governor]]
+!class=unsortable |[[Secretary of State of Idaho|Sec. of State]]
+!class=unsortable |[[Idaho Attorney General|Atty. Gen.]]
+!class=unsortable |Auditor/<br>[[Idaho state controller|Controller]]
+!class=unsortable |Treasurer
+!class=unsortable |Supt. of Pub. Inst.
+!class=unsortable |[[Idaho Senate|State Senate]]
+!class=unsortable |[[Idaho House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Idaho|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States senators from Idaho|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[Idaho's 1st congressional district|U.S. House<br>District 1]]
+!class=unsortable |[[Idaho's 2nd congressional district|U.S. House<br>District 2]]
+|- style="height:2em"
+!1975
+|rowspan=3 {{Party shading/Democratic}} |[[Cecil Andrus]] {{small|(D)}}{{efn |name=res-interior|Resigned to become [[United States Secretary of the Interior]].}}
+|rowspan=3 {{Party shading/Democratic}} |[[John Evans (Idaho politician)|John Evans]] {{small|(D)}}
+|rowspan=31 {{Party shading/Republican}} |[[Pete Cenarrusa]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Wayne Kidwell]] {{small|(R)}}
+|rowspan=16 {{Party shading/Democratic}} |Joe R. Williams {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |Marjorie Ruth Moon {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Roy F. Truby]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 14D
+|rowspan=2 {{Party shading/Republican}} |43R, 27D
+|rowspan=18 {{Party shading/Republican}} |[[Jim McClure (politician)|Jim McClure]] {{small|(R)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Frank Church]] {{small|(D)}}
+|rowspan=7 {{Party shading/Republican}} |[[Steve Symms]] {{small|(R)}}
+|rowspan=11 {{Party shading/Republican}} |[[George V. Hansen]] {{small|(R)}}
+|
+|- style="height:2em"
+!1976
+|rowspan=5 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1977
+|rowspan=3 {{Party shading/Republican}} |20R, 15D
+|rowspan=3 {{Party shading/Republican}} |48R, 22D
+|- style="height:2em"
+|rowspan=10 {{Party shading/Democratic}} |[[John Evans (Idaho politician)|John Evans]] {{small|(D)}}{{efn |name=ltelected|As lieutenant governor, acted as governor for unexpired term, and was later elected in his own right.}}
+|rowspan=2 {{Party shading/Democratic}} |[[William J. Murphy (Idaho politician)|William J. Murphy]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Republican}} |[[Phil Batt]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[David Leroy]] {{small|(R)}}
+|rowspan=17 {{Party shading/Republican}} |[[Jerry L. Evans]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 16D
+|rowspan=2 {{Party shading/Republican}} |50R, 20D
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Republican}} |23R, 12D
+|rowspan=2 {{Party shading/Republican}} |56R, 14D
+|rowspan=13 {{Party shading/Republican}} |[[Steve Symms]] {{small|(R)}}
+|rowspan=11 {{Party shading/Republican}} |[[Larry Craig]] {{small|(R)}}
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=4 {{Party shading/Republican}} |[[David Leroy]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Jim Jones (judge)|Jim Jones]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 14D
+|rowspan=2 {{Party shading/Republican}} |51R, 19D
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=2 {{Party shading/Republican}} |28R, 14D
+|rowspan=2 {{Party shading/Republican}} |67R, 17D
+|rowspan=9 {{Party shading/Democratic}} |[[Richard Stallings]] {{small|(D)}}
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=9 {{Party shading/Democratic}} |[[Cecil Andrus]] {{small|(D)}}
+|rowspan=15 {{Party shading/Republican}} |[[Butch Otter]] {{small|(R)}}{{efn |Resigned to take an elected seat in the [[United States House of Representatives]].}}
+|rowspan=13 {{Party shading/Republican}} |[[Lydia Justice-Edwards]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 16D
+|rowspan=5 {{Party shading/Republican}} |64R, 20D
+|- style="height:2em"
+!1988
+|rowspan=5 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1989
+|rowspan=3 {{Party shading/Republican}} |23R, 19D
+|- style="height:2em"
+|rowspan=14 {{Party shading/Democratic}} |[[J. D. Williams (Idaho politician)|J. D. Williams]] {{small|(D)}}{{efn |name=app-elec}}
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=4 {{Party shading/Democratic}} |[[Larry Echo Hawk]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |21R, 21D{{efn |The Republican Lt. Governor, [[Butch Otter]], broke the tie to keep a Republican, [[Mike Crapo]], as President Pro Tempore. The membership of committees, however, was split evenly between the parties.<ref>{{Cite web|last=Fick|first=Bob|title=IDAHO DOMINATED BY DEBATE OVER ABORTION|url=https://lmtribune.com/northwest/idaho-dominated-by-debate-over-abortion/article_b4d0e821-655d-547b-bfd3-9f0b7d39a68d.html|access-date=2021-06-21|website=The Lewiston Tribune|date=31 December 1990 |language=en}}</ref>}}
+|rowspan=2 {{Party shading/Republican}} |56R, 28D
+|rowspan=20 {{Party shading/Republican}} |[[Larry Craig]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Larry LaRocco]] {{small|(D)}}
+|- style="height:2em"
+!1992
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Republican}} |23R, 12D
+|rowspan=2 {{Party shading/Republican}} |50R, 20D
+|rowspan=6 {{Party shading/Republican}} |[[Dirk Kempthorne]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Mike Crapo]] {{small|(R)}}
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=4 {{Party shading/Republican}} |[[Phil Batt]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Alan Lance]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Anne C. Fox]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 8D
+|rowspan=2 {{Party shading/Republican}} |57R, 13D
+|rowspan=6 {{Party shading/Republican}} |[[Helen Chenoweth-Hage]] {{small|(R)}}
+|- style="height:2em"
+!1996
+|rowspan=4 {{Party shading/Republican}} |[[Bob Dole|Dole]]/<br>[[Jack Kemp|Kemp]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1997
+|rowspan=2 {{Party shading/Republican}} |30R, 5D
+|rowspan=2 {{Party shading/Republican}} |59R, 11D
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=9 {{Party shading/Republican}} |[[Dirk Kempthorne]] {{small|(R)}}{{efn |name=res-interior}}
+|rowspan=22 {{Party shading/Republican}} |[[Ron Crane (politician)|Ron Crane]] {{small|(R)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Marilyn Howard]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 4D
+|rowspan=2 {{Party shading/Republican}} |58R, 12D
+|rowspan=30 {{Party shading/Republican/current}} |[[Mike Crapo]] {{small|(R)}}
+|rowspan=30 {{Party shading/Republican/current}} |[[Mike Simpson]] {{small|(R)}}
+|- style="height:2em"
+!2000
+|rowspan=10 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2001
+|rowspan=3 {{Party shading/Republican}} |[[Jack Riggs]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |32R, 3D
+|rowspan=3 {{Party shading/Republican}} |61R, 9D
+|rowspan=8 {{Party shading/Republican}} |[[Butch Otter]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |2002
+|- style="height:2em"
+|rowspan=6 {{Party shading/Republican}} |[[Keith Johnson (Idaho politician)|Keith Johnson]] {{small|(R)}}{{efn |name=app-elec}}
+|- style="height:2em"
+!2003
+|rowspan=4 {{Party shading/Republican}} |[[Jim Risch]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Ben Ysursa]] {{small|(R)}}
+|rowspan=21 {{Party shading/Republican}} |[[Lawrence Wasden]] {{small|(R)}}
+|rowspan=15 {{Party shading/Republican}} |28R, 7D
+|rowspan=2 {{Party shading/Republican}} |54R, 16D
+|- style="height:2em"
+!2004
+|- style="height:2em"
+!2005
+|rowspan=3 {{Party shading/Republican}} |57R, 13D
+|- style="height:2em"
+!rowspan=2 |2006
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Jim Risch]] {{small|(R)}}{{efn |name=ltfilled}}
+|{{Party shading/Republican}} |[[Mark Ricks]] {{small|(R)}}{{efn |name=app2|Appointed by governor to fill vacancy and confirmed by state Senate.}}
+|- style="height:2em"
+!2007
+|rowspan=12 {{Party shading/Republican}} |[[Butch Otter]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Jim Risch]] {{small|(R)}}{{efn |Resigned following election to United States Senate.}}
+|rowspan=6 {{Party shading/Republican}} |[[Donna Jones (Idaho politician)|Donna Jones]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=8 {{Party shading/Republican}} |[[Tom Luna]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |51R, 19D
+|rowspan=2 {{Party shading/Republican}} |[[Bill Sali]] {{small|(R)}}
+|- style="height:2em"
+!2008
+|rowspan=4 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2009
+|rowspan=10 {{Party shading/Republican}} |[[Brad Little]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |52R, 18D
+|rowspan=18 {{Party shading/Republican/current}} |[[Jim Risch]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Walt Minnick]] {{small|(D)}}
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=4 {{party shading/Republican}} |57R, 13D
+|rowspan=8 {{party shading/Republican}} |[[Raúl Labrador]] {{small|(R)}}
+|- style="height:2em"
+!2012
+|rowspan=4 {{Party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2013
+|rowspan=14 {{party shading/Republican/current}} |[[Brandon Woolf]] {{small|(R)}}
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=8 {{party shading/Republican}} |[[Lawerence Denney]] {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |[[Sherri Ybarra]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |56R, 14D
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2017
+|rowspan=2 {{Party shading/Republican}} |29R, 6D
+|rowspan=2 {{Party shading/Republican}} |59R, 11D
+|- style="height:2em"
+!2018
+|- style="height:2em"
+!2019
+|rowspan=8 {{Party shading/Republican/current}} |[[Brad Little]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Janice McGeachin]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican/current}} |[[Julie Ellsworth]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |28R, 7D
+|rowspan=2 {{Party shading/Republican}} |56R, 14D
+|rowspan=8 {{Party shading/Republican/current}} |[[Russ Fulcher]] {{small|(R)}}
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2021
+|rowspan=2 {{Party shading/Republican}} |58R, 12D
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=4 {{Party shading/Republican/current}} |[[Scott Bedke]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |[[Phil McGrane]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |[[Raúl Labrador]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |[[Debbie Critchfield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |59R, 11D
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |29R, 6D
+|rowspan=2 {{Party shading/Republican/current}} |61R, 9D
+|- style="height:2em"
+!2026
+|}
+{{notelist}}
+
+==See also==
+*[[Idaho#Politics|Politics in Idaho]]
+
+== References ==
+{{reflist}}
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Idaho}}
+[[Category:Politics of Idaho]]
+[[Category:Government of Idaho]]
+[[Category:Political party strength in the United States by state|Idaho]]

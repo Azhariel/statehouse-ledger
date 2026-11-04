@@ -1,0 +1,838 @@
+[
+ {
+  "table": 0,
+  "num": "1",
+  "name": "John Allen Campbell",
+  "range": [
+   "April 7, 1869",
+   "February 10, 1875"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1869-04-07",
+  "end": "1875-02-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "2",
+  "name": "John Milton Thayer",
+  "range": [
+   "February 10, 1875",
+   "April 10, 1878"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1875-02-10",
+  "end": "1878-04-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "3",
+  "name": "John Wesley Hoyt",
+  "range": [
+   "April 10, 1878",
+   "August 3, 1882"
+  ],
+  "party": "{{sortname|Rutherford B.|Hayes}}",
+  "title": null,
+  "acting": false,
+  "start": "1878-04-10",
+  "end": "1882-08-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "4",
+  "name": "William Hale",
+  "range": [
+   "August 3, 1882",
+   "January 13, 1885"
+  ],
+  "party": "{{sortname|Chester A.|Arthur}}",
+  "title": null,
+  "acting": false,
+  "start": "1882-08-03",
+  "end": "1885-01-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "5",
+  "name": "Francis E. Warren",
+  "range": [
+   "February 27, 1885",
+   "November 11, 1886"
+  ],
+  "party": "{{sortname|Chester A.|Arthur}}",
+  "title": null,
+  "acting": false,
+  "start": "1885-02-27",
+  "end": "1886-11-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "6",
+  "name": "George W. Baxter",
+  "range": [
+   "November 11, 1886",
+   "December 20, 1886"
+  ],
+  "party": "{{sortname|Grover|Cleveland}}",
+  "title": null,
+  "acting": false,
+  "start": "1886-11-11",
+  "end": "1886-12-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "7",
+  "name": "Thomas Moonlight",
+  "range": [
+   "December 20, 1886",
+   "April 9, 1889"
+  ],
+  "party": "{{sortname|Grover|Cleveland}}",
+  "title": null,
+  "acting": false,
+  "start": "1886-12-20",
+  "end": "1889-04-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "8",
+  "name": "Francis E. Warren",
+  "range": [
+   "April 9, 1889",
+   "October 11, 1890"
+  ],
+  "party": "{{sortname|Benjamin|Harrison}}",
+  "title": null,
+  "acting": false,
+  "start": "1889-04-09",
+  "end": "1890-10-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "1",
+  "name": "Francis E. Warren",
+  "range": [
+   "October 11, 1890",
+   "November 24, 1890"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1890-10-11",
+  "end": "1890-11-24",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "2",
+  "name": "Amos W. Barber",
+  "range": [
+   "November 24, 1890",
+   "January 2, 1893"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": true,
+  "start": "1890-11-24",
+  "end": "1893-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "3",
+  "name": "John Eugene Osborne",
+  "range": [
+   "January 2, 1893",
+   "January 7, 1895"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1893-01-02",
+  "end": "1895-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "4",
+  "name": "William A. Richards",
+  "range": [
+   "January 7, 1895",
+   "January 2, 1899"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1895-01-07",
+  "end": "1899-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "5",
+  "name": "DeForest Richards",
+  "range": [
+   "January 2, 1899",
+   "April 28, 1903"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1899-01-02",
+  "end": "1903-04-28",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "6",
+  "name": "Fenimore Chatterton",
+  "range": [
+   "April 28, 1903",
+   "January 2, 1905"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": true,
+  "start": "1903-04-28",
+  "end": "1905-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "7",
+  "name": "Bryant Butler Brooks",
+  "range": [
+   "January 2, 1905",
+   "January 2, 1911"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1905-01-02",
+  "end": "1911-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "8",
+  "name": "Joseph M. Carey",
+  "range": [
+   "January 2, 1911",
+   "January 4, 1915"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1911-01-02",
+  "end": "1915-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "9",
+  "name": "John B. Kendrick",
+  "range": [
+   "January 4, 1915",
+   "February 24, 1917"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1915-01-04",
+  "end": "1917-02-24",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "10",
+  "name": "Frank L. Houx",
+  "range": [
+   "February 24, 1917",
+   "January 6, 1919"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": true,
+  "start": "1917-02-24",
+  "end": "1919-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "11",
+  "name": "Robert D. Carey",
+  "range": [
+   "January 6, 1919",
+   "January 1, 1923"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1919-01-06",
+  "end": "1923-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "12",
+  "name": "William B. Ross",
+  "range": [
+   "January 1, 1923",
+   "October 2, 1924"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1923-01-01",
+  "end": "1924-10-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "13",
+  "name": "Frank Lucas",
+  "range": [
+   "October 2, 1924",
+   "January 5, 1925"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": true,
+  "start": "1924-10-02",
+  "end": "1925-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "14",
+  "name": "Nellie Tayloe Ross",
+  "range": [
+   "January 5, 1925",
+   "January 3, 1927"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1925-01-05",
+  "end": "1927-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "15",
+  "name": "Frank Emerson",
+  "range": [
+   "January 3, 1927",
+   "February 18, 1931"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1927-01-03",
+  "end": "1931-02-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "16",
+  "name": "Alonzo M. Clark",
+  "range": [
+   "February 18, 1931",
+   "January 2, 1933"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": true,
+  "start": "1931-02-18",
+  "end": "1933-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "17",
+  "name": "Leslie A. Miller",
+  "range": [
+   "January 2, 1933",
+   "January 2, 1939"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1933-01-02",
+  "end": "1939-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "18",
+  "name": "Nels H. Smith",
+  "range": [
+   "January 2, 1939",
+   "January 4, 1943"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1939-01-02",
+  "end": "1943-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "19",
+  "name": "Lester C. Hunt",
+  "range": [
+   "January 4, 1943",
+   "January 3, 1949"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1943-01-04",
+  "end": "1949-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "20",
+  "name": "Arthur G. Crane",
+  "range": [
+   "January 3, 1949",
+   "January 1, 1951"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": true,
+  "start": "1949-01-03",
+  "end": "1951-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "21",
+  "name": "Frank A. Barrett",
+  "range": [
+   "January 1, 1951",
+   "January 3, 1953"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1951-01-01",
+  "end": "1953-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "22",
+  "name": "Clifford Joy Rogers",
+  "range": [
+   "January 3, 1953",
+   "January 3, 1955"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": true,
+  "start": "1953-01-03",
+  "end": "1955-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "23",
+  "name": "Milward Simpson",
+  "range": [
+   "January 3, 1955",
+   "January 5, 1959"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1955-01-03",
+  "end": "1959-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "24",
+  "name": "Joe Hickey",
+  "range": [
+   "January 5, 1959",
+   "January 2, 1961"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1959-01-05",
+  "end": "1961-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "25",
+  "name": "Jack R. Gage",
+  "range": [
+   "January 2, 1961",
+   "January 7, 1963"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": true,
+  "start": "1961-01-02",
+  "end": "1963-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "26",
+  "name": "Clifford Hansen",
+  "range": [
+   "January 7, 1963",
+   "January 2, 1967"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1963-01-07",
+  "end": "1967-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "27",
+  "name": "Stanley K. Hathaway",
+  "range": [
+   "January 2, 1967",
+   "January 6, 1975"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1967-01-02",
+  "end": "1975-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "28",
+  "name": "Edgar Herschler",
+  "range": [
+   "January 6, 1975",
+   "January 5, 1987"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1975-01-06",
+  "end": "1987-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "29",
+  "name": "Mike Sullivan",
+  "range": [
+   "January 5, 1987",
+   "January 2, 1995"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1987-01-05",
+  "end": "1995-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "30",
+  "name": "Jim Geringer",
+  "range": [
+   "January 2, 1995",
+   "January 6, 2003"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1995-01-02",
+  "end": "2003-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "31",
+  "name": "Dave Freudenthal",
+  "range": [
+   "January 6, 2003",
+   "January 3, 2011"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2003-01-06",
+  "end": "2011-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "32",
+  "name": "Matt Mead",
+  "range": [
+   "January 3, 2011",
+   "January 7, 2019"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2011-01-03",
+  "end": "2019-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "33",
+  "name": "Mark Gordon",
+  "range": [
+   "January 7, 2019",
+   "Incumbent"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "2019-01-07",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''34''",
+  "name": "Eric Barlow",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1950",
+  "name": "Frank A. Barrett",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1954",
+  "name": "Milward Simpson",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1958",
+  "name": "John J. Hickey",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1962",
+  "name": "Clifford Hansen",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1966",
+  "name": "Stanley Hathaway",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1970",
+  "name": "Stanley Hathaway",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1974",
+  "name": "Edgar Herschler",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1978",
+  "name": "Edgar Herschler",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1982",
+  "name": "Edgar Herschler",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1986",
+  "name": "Mike Sullivan",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1990",
+  "name": "Mike Sullivan",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1994",
+  "name": "Jim Geringer",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1998",
+  "name": "Jim Geringer",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2002",
+  "name": "Dave Freudenthal",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2006",
+  "name": "Dave Freudenthal",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2010",
+  "name": "Matt Mead",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2014",
+  "name": "Matt Mead",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2018",
+  "name": "Mark Gordon",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2022",
+  "name": "Mark Gordon",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ }
+]

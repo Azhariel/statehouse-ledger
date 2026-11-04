@@ -1,0 +1,1528 @@
+{{Short description|Politics in the US state of Florida}}
+{{More citations needed|date=September 2020}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=November 2025}}
+{{Politics of Florida}}
+
+The state of [[Florida]] has historically been dominated by the [[Democratic Party (United States)|Democratic party]], with a brief period of [[Republican Party (United States)|Republican]] officeholders during [[Reconstruction era|Reconstruction]], before becoming a core state of the [[Solid South]]. A dramatic reversal began in the late 20th century, with the 21st century having been dominated by Republicans.<ref>{{cite web|last=Bowman|first=Meghan|date=November 7, 2025|title=Red, blue, or neither? The changing color of Florida politics|url=https://www.wusf.org/politics-issues/2025-11-07/red-blue-neither-changing-color-florida-politics|website=wusf|access-date=May 30, 2026}}</ref>
+
+==Party affiliation==
+===Current===
+{|class=wikitable
+|+ Party registration as of May 23, 2026<ref>{{cite web|last=Winger|first=Richard|date=May 23, 2026|title=New Florida Registration Data|url=https://ballot-access.org/2026/05/23/new-florida-registration-data-12/|website=[[Ballot Access News]] |access-date=May 30, 2026}}</ref>
+|-
+!colspan=2 |Party
+!Number<br>of voters
+!Fraction
+|-
+|{{party color cell|Republican Party (United States)}}
+|[[Republican Party of Florida|Republican]]
+|5,533,168
+|41.4%
+|-
+|{{party color cell|Democratic Party (United States)}}
+|[[Florida Democratic Party|Democratic]]
+|4,027,949
+|30.1%
+|-
+|{{party color cell|Independent politician}}
+|[[Independent voter|No Party Affiliation]]
+|3,317,918
+|24.8%
+|-
+|{{party color cell|Independent Party of Florida}}
+|[[Independent Party of Florida]]
+|315,225
+|2.4%
+|-
+|{{party color cell|Conservative Party (US)}}
+|Conservative Party of Florida
+|41,339
+|0.3%
+|-
+|{{party color cell|Libertarian Party (United States)}}
+|[[Libertarian Party of Florida|Libertarian]]
+|34,594
+|0.3%
+|-
+|{{party color cell|Independent politician}}
+|America First Party of Florida
+|19,777
+|0.1%
+|-
+|{{party color cell|Constitution Party (United States)}}
+|[[Constitution Party (United States)|Constitution]]
+|18,383
+|0.1%
+|-
+|{{party color cell|Independent politician}}
+|Boricua Party
+|17,311
+|0.1%
+|-
+|{{party color cell|Green Party of the United States}}
+|[[Green Party of Florida|Green]]
+|9,533
+|0.1%
+|-
+|{{party color cell|Independent politician}}
+|Coalition with a Purpose
+|8,605
+|0.1%
+|-
+|{{party color cell|American Solidarity Party}}
+|[[American Solidarity Party]]
+|7,982
+|0.1%
+|-
+|{{party color cell|Ecology Party of Florida}}
+|[[Ecology Party of Florida]]
+|7,982
+|0.1%
+|-
+|{{party color cell|Party for Socialism and Liberation}}
+|[[Party for Socialism and Liberation]]
+|2,258
+|0.0%
+|-
+|{{party color cell|Forward Party (United States)}}
+|[[Forward Party (United States)|Forward Party]]
+|1,909
+|0.0%
+|-
+|{{party color cell|Independent politician}}
+|Jeffersonian
+|106
+|0.0%
+|-
+|{{party color cell|Independent politician}}
+|[[Men Going Their Own Way|MGTOW]]
+|61
+|0.0%
+|-
+|{{party color cell|Independent politician}}
+|We the People
+|12
+|0.0%
+|-
+!colspan=2 |Total
+!align="center" |13,360,319
+!align="center" |100.0%
+|}
+{{align|right|{{Switcher |[[File:Florida voter registration map by county.svg|300px]] |Voter registration by county<br>{{collapsible list|title = Legend:|
+{{legend|#FFC8CD|30–40%}} |
+{{legend|#FFB2B2|40–50%}} |
+{{legend|#E27F7F|50–60%}} |
+{{legend|#D75D5D|60–70%}} |
+{{legend|#D72F30|70–80%}} |
+{{legend|#BDD3FF|30–40%}} |
+{{legend|#A5B0FF|40–50%}} |
+{{legend|#6674DE|60–70%}} |}}}}}}
+{{table alignment}}
+
+===Historically===
+{|class="wikitable sortable" style="text-align: center; font-size: 80%;"
+|+Political party registration by year<ref>{{cite web|title=Book Closing Reports|url=https://dos.fl.gov/elections/data-statistics/voter-registration-statistics/bookclosing/|publisher=Florida Division of Elections|access-date=May 30, 2026}}</ref>
+|-
+!rowspan=2 |Year
+![[Republican Party of Florida|REP]]
+![[Democratic Party of Florida|DEM]]
+![[Independent Party of Florida|IPF]]
+![[Libertarian Party of Florida|LPF]]
+![[Constitution Party (US)|CPF]]
+![[Green Party of Florida|GRE]]
+![[Reform Party (US)|REF]]
+![[Independence Party of Florida|IDP]]
+!rowspan=2 |''Others''
+![[Independent politician|Unaffiliated]]
+!rowspan=2 |Total
+|-
+!style="background:{{party color|Republican Party (United States)}};" |
+!style="background:{{party color|Democratic Party (United States)}};" |
+!style="background:{{party color|Independent Party of Florida}};" |
+!style="background:{{party color|Libertarian Party (United States)}};" |
+!style="background:{{party color|Constitution Party (United States)}};" |
+!style="background:{{party color|Green Party (United States)}};" |
+!style="background:{{party color|Reform Party of the United States of America}};" |
+!style="background:{{party color|Independence Party of Florida}};" |
+!style="background:{{party color|Independent politician}};" |
+|-
+|2024
+|{{Party shading/Republican}} |'''5,499,717'''
+|4,421,790
+|276,467
+|35,964
+|19,708
+|9,089
+|188
+|colspan=1 style="background:#ccc; |–
+|70,075{{efn |
+"Other" political affiliations listed as follows:
+*Conservative Party of Florida – 30,022
+*[[No Labels]] – 16,163
+*Boricua Party – 9,297
+*Coalition with a Purpose – 4,247
+*[[Ecology Party of Florida]] – 3,264
+*[[Party for Socialism and Liberation]] – 2,172
+*[[American Solidarity Party]] – 1,966
+*[[People's Party (United States, 2017)|People's Party]] – 1,553
+*[[Forward Party (United States)|Forward Party]] – 735
+*[[Natural Law Party (United States)]] – 656
+}}
+|3,616,170
+|13,949,168
+|-
+|2022
+|{{Party shading/Republican}} |'''5,277,394'''
+|4,971,444
+|206,024
+|39,451
+|3,893
+|7,826
+|1,456
+|colspan=1 style="background:#ccc; |–
+|3,505{{efn |
+"Other" political affiliations listed as follows:
+*[[Party for Socialism and Liberation]] – 1,604
+*[[Ecology Party of Florida]] – 1,253
+*[[People's Party (United States, 2017)|People's Party]] – 579
+*Coalition with a Purpose – 69
+}}
+|3,992,985
+|14,503,978
+|-
+|2020
+|5,169,012
+|{{Party shading/Democratic}} |'''5,303,254'''
+|163,406
+|39,538
+|2,492
+|7,335
+|1,474
+|colspan=1 style="background:#ccc; |–
+|2,072{{efn |
+"Other" political affiliations listed as follows:
+*[[Party for Socialism and Liberation]] – 1157 
+*[[Ecology Party of Florida]] – 915 
+}}
+|3,753,286
+|14,441,869
+|-
+|2018
+|4,681,598
+|{{Party shading/Democratic}} |'''4,944,867'''
+|58,413
+|32,843
+|1,724
+|6,915
+|1,407
+|colspan=1 style="background:#ccc; |–
+|1,209{{efn |
+"Other" political affiliations listed as follows:
+*[[Party for Socialism and Liberation]] – 606 
+*[[Ecology Party of Florida]] – 603
+}}
+|3,549,094
+|13,278,070
+|-
+|2016
+|4,550,311<!--REP-->
+|{{Party shading/Democratic}} |'''4,877,749'''
+|262,599<!--IND-->
+|28,287<!--LPF-->
+|1,265<!--CPF-->
+|6,605<!--GRE-->
+|1,511<!--REF-->
+|44,194<!--IDP-->
+|1,323{{efn |
+"Other" political affiliations listed as follows:
+*America's Party of Florida – 768
+*[[Ecology Party of Florida]] – 314
+*[[Party for Socialism and Liberation]] – 241 
+}}
+|3,089,929
+|12,863,773
+|-
+|2014
+|4,172,232<!--REP-->
+|{{Party shading/Democratic}} |'''4,628,178 '''
+|268,358<!--IND-->
+|23,665<!--LPF-->
+|1,142<!--CPF-->
+|5,901<!--GRE-->
+|1,717<!--REF-->
+|49,112<!--IDP-->
+|2,681{{efn |
+"Other" political affiliations listed as follows:
+*Florida Tea Party – 1264
+*America's Party of Florida – 607
+*[[Peace and Freedom]] – 306
+*[[Ecology Party of Florida]] – 191
+*[[Party for Socialism and Liberation]] – 127 
+*Florida Socialist Worker's Party – 100 
+*[[Justice Party (United States)|Justice Party]] – 86
+}}
+|2,778,547
+|11,931,041
+
+|-
+|2012
+|4,245,991<!--REP-->
+|{{Party shading/Democratic}} |'''4,781,978'''
+|248,671<!--IND-->
+|19,892<!--LPF-->
+|974<!--CPF-->
+|5,705<!--GRE-->
+|1,961<!--REF-->
+|55,074<!--IDP-->
+|1,299{{efn |
+"Other" political affiliations listed as follows:
+*America's Party of Florida – 395 
+*Florida Tea Party – 227
+*Florida Pirate Party – 214
+*[[Ecology Party of Florida]] – 151
+*[[Party for Socialism and Liberation]] – 108
+*[[Americans Elect]] – 103
+*Objectivist Party – 66
+*[[Florida Whig Party]] – 15
+*Florida Socialist Worker's Party – 10
+*[[Peace and Freedom]] – 10 
+}}
+|2,572,901
+|11,934,109
+
+|-
+|2010
+|4,039,259<!--REP-->
+|{{Party shading/Democratic}} |'''4,631,068'''
+|262,116<!--IND-->
+|17,888<!--LPF-->
+|1,112<!--CPF-->
+|5,827<!--GRE-->
+|2,473<!--REF-->
+|57,761<!--IDP-->
+|13,634{{efn |
+"Other" political affiliations listed as follows:
+*Independent Democrats – 7,703 
+*Christian Party of Florida – 1,130 
+*Veterans' Party of Florida – 826 
+*[[Socialist Party of Florida]] – 584
+*Florida Tea Party – 514
+*Surfers' Party – 417 
+*Family Values Party – 385 
+*[[Socialist Workers Party (United States)|Socialist Worker's Party]] – 326
+*Faith and Patience – 312 
+*American Reform Party – 219
+*America's Party of Florida – 205
+*American Party of Florida – 178 
+*Unity '08 – 152 
+*[[Florida Whig Party]] – 121
+*[[Ecology Party of Florida]] – 106
+*Progressive Libertarian Party – 106 
+*Real Food Party – 82 
+*Possibility Party – 79 
+*Objectivist Party – 48
+*Prohibition Party – 44 
+*British Reformed Sectarian Party – 38
+*[[Party for Socialism and Liberation]] – 21
+*''Others'' – 38
+}}
+|2,186,246
+|11,217,384
+
+|-
+|2008
+|4,064,301<!--REP-->
+|{{Party shading/Democratic}} |'''4,722,076'''
+|253,520<!--IND-->
+|16,883<!--LPF-->
+|982<!--CPF-->
+|6,007<!--GRE-->
+|3,093<!--REF-->
+|63,415<!--IDP-->
+|13,756{{efn |
+"Other" political affiliations listed as follows:
+*Independent Democrats – 7,767
+*Christian Party of Florida – 1,268 
+*Veterans' Party of Florida – 932 
+*[[Socialist Party of Florida]] – 614
+*Family Values Party – 429 
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 380
+*Faith and Patience – 385
+*Surfers' Party – 352
+*American Reform Party – 258
+*Poor People's Party – 236
+*Unity '08 – 161 
+*American Party of Florida – 119
+*[[Ecology Party of Florida]] – 101
+*Progressive Libertarian Party – 96
+*Real Food Party – 88
+*Possibility Party – 84
+*[[Florida Whig Party]] – 59
+*Florida Tea Party – 51
+*Prohibition Party – 51
+*British Reformed Sectarian Party – 43
+*Objectivist Party – 40
+*Southern Party of Florida – 39
+*America's Party of Florida – 30
+*Term Limits for Congress Party – 8
+*[[Party for Socialism and Liberation]] – 7 
+*America First Party – 640
+}}
+|2,103,119
+|11,247,634
+
+|-
+|2006
+|3,935,675<!--REP-->
+|{{Party shading/Democratic}} |'''4,219,531'''
+|237,990<!--IND-->
+|15,533<!--LPF-->
+|847<!--CPF-->
+|6,607<!--GRE-->
+|3,790<!--REF-->
+|39,791<!--IDP-->
+| 9,962{{efn |
+"Other" political affiliations listed as follows:
+*Independent Democrats – 4,440
+*Christian Party of Florida – 1,354
+*Veterans' Party of Florida – 1,129
+*[[Socialist Party of Florida]] – 553 
+*Surfers' Party – 169
+*America First Party – 527
+*Family Values Party – 484 
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 311
+*Faith and Patience – 209
+*American Reform Party – 345 
+*American Libertarian Party – 105 
+*Progressive Libertarian Party – 85
+*Possibility Party – 24
+*Prohibition Party – 39
+*Moderate Party of Florida – 80 
+*Poor Peoples' Party – 75 
+*British Reformed Sectarian Party – 33
+}}
+|1,964,123
+|10,433,849
+
+|-
+|2004
+|3,892,492<!--REP-->
+|{{Party shading/Democratic}} |'''4,261,249'''
+|212,750<!--IND-->
+|13,806<!--LPF-->
+|585<!--CPF-->
+|6,646<!--GRE-->
+|3,872<!--REF-->
+|16,838<!--IDP-->
+|7,039{{efn |
+"Other" political affiliations listed as follows:
+*Veterans' Party of Florida – 1,502
+*Independent Democrats – 1,246
+*Christian Party of Florida – 1,034
+*No Partisan Affiliation Party – 717
+*Southern Party of Florida – 484
+*Family Values Party – 411
+*American Reform Party – 384
+*[[Socialist Party of Florida]] – 363 
+*America First Party – 305
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 266
+*Faith and Patience – 132
+*Citizens' Party of Florida – 94
+*Progressive Libertarian Party – 39
+*Patriot Party of Florida – 22
+*United Independents of God – 21
+*British Reformed Sectarian Party – 16
+*Surfers' Party – 3
+}}
+|1,886,013
+|10,301,290
+
+|-
+|2002
+|3,599,053<!--REP-->
+|{{Party shading/Democratic}} |'''3,958,910'''
+|179,711<!--IND-->
+|11,852<!--LPF-->
+|336<!--CPF-->
+|5,590<!--GRE-->
+|4,616<!--REF-->
+|5,018<!--IDP-->
+|3,107{{efn |
+"Other" political affiliations listed as follows:
+*We The People Party – 502
+*Southern Party of Florida – 444
+*American Reform Party – 431
+*Family Values Party – 343
+*[[Natural Law Party (United States)|Natural Law Party]] – 310
+*[[Socialist Party of Florida]] – 264 
+*Reform–Silly Party – 240
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 201 
+*[[Workers World]] – 51
+*America First Party – 24
+*Reform Party USA – 14
+*Faith and Patience – 11
+*No Partisan Affiliation Party – 6
+*Progressive Libertarian Party – 0 
+}}
+|1,534,433
+|9,302,360
+
+|-
+|2000
+|3,420,238<!--REP-->
+|{{Party shading/Democratic}} |'''3,803,081'''
+|146,559<!--IND-->
+|9,462<!--LPF-->
+|94<!--CPF-->
+|2,728<!--GRE-->
+|4,672<!--REF-->
+|colspan=1 style="background:#ccc; |–
+|2,452{{efn |
+"Other" political affiliations listed as follows:
+*[[Natural Law Party (United States)|Natural Law Party]] – 669
+*Conservative Party of Florida – 486
+*American Reform Party – 357
+*Reform–Silly Party – 168
+*[[Socialist Party of Florida]] – 167
+*Southern Party of Florida – 165
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 156
+*Family Values Party – 151
+*We The People Party – 77
+*Christian Party of Florida – 40
+*[[Workers World]] – 16
+}}
+|1,353,431
+|8,742,717
+
+|-
+|1998
+|3,292,589<!--REP-->
+|{{Party shading/Democratic}} |'''3,691,742'''
+|113,361<!--IND-->
+|7,037<!--LPF-->
+|colspan=1 style="background:#ccc; |–
+|965<!--GRE-->
+|2,695<!--REF-->
+|colspan=1 style="background:#ccc; |–
+|1,910{{efn |
+"Other" political affiliations listed as follows:
+*Conservative Party of Florida – 1,356
+*[[Natural Law Party (United States)|Natural Law Party]] – 207
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 117 
+*[[Socialist Party of Florida]] – 87
+*American Reform Party – 57
+*Reform–Silly Party – 54
+*Family Values Party – 16
+*We The People Party – 16
+}}
+|1,109,960
+|8,220,259
+
+|-
+|1996
+|3,309,105<!--REP-->
+|{{Party shading/Democratic}} |'''3,728,513 '''
+|101,138<!--IND-->
+|5,509<!--LPF-->
+|79<!--CPF-->
+|731<!--GRE-->
+|1,557<!--REF-->
+|1,148<!--IDP-->
+|1,605{{efn |
+"Other" political affiliations listed as follows:
+*Conservative Party of Florida – 1,159
+*American Party of Florida – 183
+*[[Natural Law Party (United States)|Natural Law Party]] – 119
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 107 
+*Reform–Silly Party – 37
+}}
+|928,492
+|8,077,877
+
+|-
+|1994
+|2,747,074<!--REP-->
+|{{Party shading/Democratic}} |'''3,245,518'''
+|34,403<!--IND-->
+|3,585<!--LPF-->
+|35<!--CPF-->
+|453<!--GRE-->
+|colspan=1 style="background:#ccc; |–
+|474<!--IDP-->
+|375{{efn |
+"Other" political affiliations listed as follows:
+*American Taxpayers' Party – 177
+*[[Socialist Workers Party (United States)|Socialist Workers Party]] – 72 
+*Populist Party of Florida – 81
+Whig Party – 45
+}}
+|527,681
+|6,559,598
+|}
+
+==Partisan affiliation of elected officials==
+The following tables indicate party affiliation in the [[U.S. state]] of [[Florida]] for the individual elected offices of: 
+*[[List of governors of Florida|Governor]]
+*[[Lieutenant Governor of Florida|Lieutenant Governor]]
+*[[Florida Attorney General|Attorney General]]
+*[[Chief Financial Officer of Florida|Chief Financial Officer]]
+*[[Florida Commissioner of Agriculture|Commissioner of Agriculture]]
+
+As well as the following historical offices that were elected from 1889 to 2005:
+*[[Secretary of State of Florida|Secretary of State]]
+*[[Florida Comptroller|Comptroller]]
+*[[Treasurer, Insurance Commissioner, and Fire Marshal of Florida|Treasurer/Insurance Commissioner/Fire Marshal]]
+*[[Florida Department of Education|Commissioner of Education]] (called the Superintendent of Public Instruction before 1969)
+The table also indicates the historical party composition in the:
+*[[Florida Senate|State Senate]]
+*[[Florida House of Representatives|State House of Representatives]]
+*[[List of United States senators from Florida|State delegation to the U.S. Senate]] (individually)
+*[[List of United States representatives from Florida|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes. For the [[American Civil War|Civil War]] years, the table indicates the state's delegation to the [[Confederate States Congress|Confederate Congress]], in lieu of the [[United States Congress|U.S. Congress]].
+
+===1845–1888===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=2 |Executive offices
+!colspan=2 |[[Florida Legislature|State Legislature]]
+!colspan=3 |[[Florida's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Florida|Governor]]
+!class=unsortable |[[Lieutenant Governor of Florida|Lt. Governor]]
+!class=unsortable |[[Florida Senate|State Senate]]
+!class=unsortable |[[Florida House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from Florida|U.S. House]]
+|- style="height:2em"
+!1845
+|rowspan=4 {{Party shading/Democratic}} |[[William Dunn Moseley]] {{small|(D)}}
+|rowspan=24 |''no such office''
+|rowspan=2 {{Party shading/Democratic}} |11D, 6W
+|rowspan=2 {{Party shading/Democratic}} |30D, 10W, 1?
+|rowspan=6 {{Party shading/Democratic}} |[[David Levy Yulee]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James Westcott]] {{small|(D)}}
+|{{Party shading/Whig}} |[[Edward C. Cabell]] {{small|(W)}}
+|rowspan=3 |
+|- style="height:2em"
+!1846
+|{{Party shading/Democratic}} |[[William H. Brockenbrough]] {{small|(D)}}{{efn |name=demcontested|The election was successfully contested in the U.S. House by the Democrat who initially lost.}}
+|- style="height:2em"
+!1847
+|{{Party shading/Democratic}} |12D, 7W
+|{{Party shading/Democratic}} |22D, 17W
+|rowspan=6 {{Party shading/Whig}} |[[Edward C. Cabell]] {{small|(W)}}
+|- style="height:2em"
+!1848
+|rowspan=3 {{Party shading/Whig}} |12W, 7D
+|{{Party shading/Whig}} |21W, 11D, 7?
+|rowspan=4 {{Party shading/Whig}} |[[Zachary Taylor]]/<br>[[Millard Fillmore]] {{small|(W)}} {{aye}}
+|- style="height:2em"
+!1849
+|rowspan=4 {{Party shading/Whig}} |[[Thomas Brown (Florida politician)|Thomas Brown]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |24W, 16D
+|rowspan=6 {{Party shading/Whig}} |[[Jackson Morton]] {{small|(W)}}
+|- style="height:2em"
+!1850
+|- style="height:2em"
+!1851
+|rowspan=2 {{Party shading/Democratic}} |10D, 9W
+|rowspan=2 {{Party shading/Democratic}} |21D, 19W
+|rowspan=10 {{Party shading/Democratic}} |[[Stephen Mallory]] {{small|(D)}}
+|- style="height:2em"
+!1852
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce]]/<br>[[William R. King]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1853
+|rowspan=4 {{Party shading/Democratic}} |[[James E. Broome]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 6W, 1I
+|rowspan=2 {{Party shading/Democratic}} |26D, 13W, 1&nbsp;vac.
+|rowspan=4 {{Party shading/Democratic}} |[[Augustus Maxwell]] {{small|(D)}}
+|- style="height:2em"
+!1854
+|- style="height:2em"
+!1855
+|rowspan=2 {{Party shading/Democratic}} |11D, 7W, 1&nbsp;vac.
+|rowspan=2 {{Party shading/Democratic}} |23D, 17W, 1?
+|rowspan=6 {{Party shading/Democratic}} |[[David Levy Yulee]] {{small|(D)}}
+|- style="height:2em"
+!1856
+|rowspan=4 {{Party shading/Democratic}} |[[James Buchanan]]/<br>[[John C. Breckinridge]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1857
+|rowspan=4 {{Party shading/Democratic}} |[[Madison S. Perry]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |13D, 7KN, 1?
+|rowspan=2 {{Party shading/Democratic}} |29D, 16KN
+|rowspan=4 {{Party shading/Democratic}} |[[George Sydney Hawkins]] {{small|(D)}}
+|- style="height:2em"
+!1858
+|- style="height:2em"
+!1859
+|rowspan=2 {{Party shading/Democratic}} |15D, 6O
+|rowspan=2 {{Party shading/Democratic}} |35D, 10O
+|- style="height:2em"
+!1860
+|rowspan=4 {{Party shading/Southern Democratic}} |[[John C. Breckinridge]]/<br>[[Joseph Lane]] {{small|({{abbr|SD|Southern Democratic}})}} {{Nay}}
+|- style="height:2em"
+!1861
+|rowspan=4 {{Party shading/Democratic}} |[[John Milton (Florida politician)|John Milton]] {{small|(D)}}{{efn |name=died|Died in office.}}
+|rowspan=2 {{Party shading/Democratic}} |13D, 8O
+|rowspan=2 {{Party shading/Democratic}} |37D, 10O
+|colspan=3 |''vacant during [[American Civil War|Civil War]]''
+|- style="height:2em"
+!1862
+|rowspan=4 {{Party shading/Independent}} |[[James McNair Baker|James McNair<br>Baker]] {{small|(Fmr.&nbsp;W/KN)}}{{efn |name=CSA|Served in the [[Confederate States Congress|Congress of the Confederate States]].}}
+|rowspan=4 {{Party shading/Independent}} |[[Augustus Maxwell]] {{small|(Fmr.&nbsp;D)}}{{efn |name=CSA}}
+|rowspan=4 {{Party shading/Independent}} |2 Fmr.&nbsp;D{{efn |name=CSA}}
+|- style="height:2em"
+!1863
+|colspan=2 rowspan=6 |
+|- style="height:2em"
+!1864
+|rowspan=8 |''[[American Civil War|Civil War]]''
+|- style="height:2em"
+!rowspan=4 |1865
+|{{Party shading/Democratic}} |[[Abraham K. Allison]] {{small|(D)}}{{efn |name=presfilled|As president of state Senate, filled unexpired term.}}{{efn |Resigned from office to go into hiding from approaching [[Union (American Civil War)|Union]] troops.}}
+|- style="height:2em"
+|''vacant''
+|rowspan=3 colspan=3 |''vacant during [[Reconstruction era|Reconstruction]]''
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[William Marvin]] {{small|(D)}}{{efn |Appointed Provisional Governor by [[President of the United States|President]] [[Andrew Johnson]] following the [[American Civil War|Civil War]].}}
+|- style="height:2em"
+|''vacant''
+|- style="height:2em"
+!1866
+|rowspan=3 {{Party shading/Independent Republican}} |[[David S. Walker]] {{small|(IR)}}{{efn |Most sources state Walker was a Democrat; the state archives say he was "Conservative". He was formerly a [[Whig Party (United States)|Whig]], [[Know Nothing]], and [[Constitutional Union Party (United States)|Constitutional Unionist]], and he ran in the 1868 election as an "Independent Republican."<ref>{{cite web|url=http://www.floridamemory.com/Collections/governors/walker.cfm |title=David Shelby Walker |publisher=State Library and Archives of Florida |access-date=April 4, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20110123013404/http://www.floridamemory.com/Collections/governors/walker.cfm |archive-date=January 23, 2011 }}</ref><ref>{{cite book|url=https://books.google.com/books?id=WYJAIOabIPgC&pg=PA96 |title= United States Gubernatorial Elections, 1861-1911 |isbn= 9780786456468 |access-date=April 4, 2017|last1= Dubin |first1= Michael J. |date= 10 January 2014 }}</ref>}}
+|rowspan=3 {{Party shading/Republican}} |[[William W. J. Kelly]] {{small|(R)}}
+|rowspan=3 {{Party shading/Nonpartisan}} |21NP
+|rowspan=3 {{Party shading/Nonpartisan}} |47NP
+|{{Party shading/Democratic}} |''[[William Marvin]] {{small|(D)}}''{{efn |name=ReconSens|Elected in 1865, but his credentials were not accepted by the Congress.}}
+|{{Party shading/Democratic}} |''[[Wilkinson Call]] {{small|(D)}}''{{efn |name=ReconSens}}
+|{{Party shading/Democratic}} |''[[Frederick McLeod]] {{small|(D)}}''{{efn |name=ReconSens}}
+|- style="height:2em"
+!1867
+|rowspan=2 colspan=3 |''vacant during [[Reconstruction era|Reconstruction]]''
+|- style="height:2em"
+!rowspan=2 |1868
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[Harrison Reed (politician)|Harrison Reed]] {{small|(R)}}{{efn |Was popularly elected; assumed office on June 8, 1868. It was not until July 4, 1868, however, that the military commander of Florida, still under Reconstruction, recognized the validity of the state constitution and the election.}}
+|{{Party shading/Republican}} |[[William Henry Gleason]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |16R, 8D
+|rowspan=3 {{Party shading/Republican}} |37R, 15D
+|{{Party shading/Republican}} |[[Adonijah Welch]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Thomas W. Osborn]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Charles Memorial Hamilton]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant]]/<br>[[Schuyler Colfax]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1869
+|''vacant''
+|rowspan=6 {{Party shading/Republican}} |[[Abijah Gilbert]] {{small|(R)}}
+|- style="height:2em"
+!1870
+|{{Party shading/Republican}} |[[Edmund C. Weeks]] {{small|(R)}}
+|- style="height:2em"
+!1871
+|rowspan=2 {{Party shading/Republican}} |[[Samuel T. Day]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 10D{{efn |The Legislature rejected the returns from three Senate districts; had they been admitted, the Senate would have been tied 12-12.}}
+|rowspan=2 {{Party shading/Republican}} |23R, 20D{{efn |The Legislature rejected the returns from nine House districts; had they been admitted, the House would have had a 28-23 Democratic majority with 1 Independent.}}
+|{{Party shading/Republican}} |[[Josiah T. Walls]] {{small|(R)}}
+|- style="height:2em"
+!1872
+|{{Party shading/Democratic}} |[[Silas L. Niblack]] {{small|(D)}}{{efn |name=demcontested}}
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant]]/<br>[[Henry Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|{{Party shading/Republican}} |[[Ossian B. Hart]] {{small|(R)}}{{efn |name=died}}
+|{{Party shading/Republican}} |[[Marcellus Stearns]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |13R, 11D
+|rowspan=2 {{Party shading/Republican}} |29R, 23D
+|rowspan=6 {{Party shading/Republican}} |[[Simon B. Conover]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1874
+|rowspan=3 {{Party shading/Republican}} |[[Marcellus Stearns|Marcellus Sterns]] {{small|(R)}}{{efn |name=ltfilled|As lieutenant governor, filled unexpired term.}}
+|rowspan=3 |''vacant''
+|- style="height:2em"
+!1875
+|rowspan=2 {{Party shading/Tie}} |12D, 12R
+|rowspan=2 {{Party shading/Democratic}} |28D, 24R
+|rowspan=12 {{Party shading/Democratic}} |[[Charles W. Jones]] {{small|(D)}}
+|{{Party shading/Republican}} |2R
+|- style="height:2em"
+!1876
+|{{Party shading/Tie}} |1D, 1R{{efn |name=demcontested2|The election for the 2nd District was successfully contested in the U.S. House by the Democrat who initially lost.}}
+|rowspan=4 {{Party shading/Republican}} |[[Rutherford B. Hayes]]/<br>[[William A. Wheeler]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1877
+|rowspan=4 {{Party shading/Democratic}} |[[George Franklin Drew]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Noble A. Hull]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 9R
+|rowspan=2 {{Party shading/Democratic}} |31D, 21R
+|{{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1878
+|{{Party shading/Democratic}} |2D{{efn |name=demcontested2}}
+|- style="height:2em"
+!1879
+|rowspan=2 {{Party shading/Democratic}} |25D, 7R
+|rowspan=2 {{Party shading/Democratic}} |46D, 28R, 1I, 1 tied
+|rowspan=10 {{Party shading/Democratic}} |[[Wilkinson Call]] {{small|(D)}}
+|{{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1880
+|{{Party shading/Tie}} |1D, 1R{{efn |name=repcontested2|The election for the 2nd District was successfully contested in the U.S. House by the Republican who initially lost.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock]]/<br>[[William Hayden English]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1881
+|rowspan=4 {{Party shading/Democratic}} |[[William D. Bloxham]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Livingston W. Bethel]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 5R
+|rowspan=2 {{Party shading/Democratic}} |58D, 18R
+|{{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1882
+|rowspan=3 {{Party shading/Tie}} |1D, 1R{{efn |name=repcontested2}}
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Democratic}} |17D, 9I, 6R
+|rowspan=2 {{Party shading/Democratic}} |34D, 27R, 15I{{efn |Though not winning enough seats to form an outright majority, the Democrats received enough votes to claim the Speakership and organize the House.}}
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland]]/<br>[[Thomas A. Hendricks]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1885
+|rowspan=4 {{Party shading/Democratic}} |[[Edward A. Perry]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Milton H. Mabry]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 8I, 7R
+|rowspan=2 {{Party shading/Democratic}} |48D, 25R, 3I
+|rowspan=4 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=2 {{Party shading/Democratic}} |24D, 5R, 3I
+|rowspan=2 {{Party shading/Democratic}} |55D, 13R, 8I
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel Pasco]] {{small|(D)}}
+|- style="height:2em"
+!1888
+|{{Party shading/Democratic}} |[[Grover Cleveland]]/<br>[[Allen G. Thurman]] {{small|(D)}} {{nay}}
+|}
+
+===1889–1960===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=7 |Executive offices
+!colspan=2 |[[Florida Legislature|State Legislature]]
+!colspan=3 |[[Florida's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Florida|Governor]]
+!class=unsortable |[[Secretary of State of Florida|Sec. of State]]
+!class=unsortable |[[Florida Attorney General|Attorney General]]<ref>{{Cite web |title=Florida Attorney General - Florida Attorneys General (1845 - ) |url=http://myfloridalegal.com/pages.nsf/4492d797dc0bd92f85256cb80055fb97/21d3e99c36cfb89385256cc60071795b!OpenDocument |access-date=2022-11-24 |website=myfloridalegal.com}}</ref>
+!class=unsortable |[[Florida Comptroller|Comptroller]]
+!class=unsortable |[[Treasurer, Insurance Commissioner, and Fire Marshal of Florida|Treasurer]]
+!class=unsortable |[[Florida Department of Education|Comm. of Ed.]]
+!class=unsortable |[[Florida Commissioner of Agriculture|Comm. of Ag.]]
+!class=unsortable |[[Florida Senate|State<br>Senate]]
+!class=unsortable |[[Florida House of Representatives|State<br>House]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Florida|U.S.<br>House]]
+|- style="height:2em"
+!1889
+|rowspan=4 {{Party shading/Democratic}} |[[Francis P. Fleming]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[John L. Crawford]] {{small|(D)}}
+|rowspan=14 {{Party shading/Democratic}} |[[William Bailey Lamar]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[William D. Barnes]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Francis J. Pons]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Albert J. Russell]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Lucius B. Wombwell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 5R
+|rowspan=2 {{Party shading/Democratic}} |58D, 9R, 9I
+|rowspan=10 {{Party shading/Democratic}} |[[Samuel Pasco]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Wilkinson Call]] {{small|(D)}}
+|rowspan=14 {{Party shading/Democratic}} |2D
+|rowspan=3 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Allen G. Thurman|Thurman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1890
+|rowspan=7 {{Party shading/Democratic}} |[[William D. Bloxham]] {{small|(D)}}
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Democratic}} |[[E. J. Triay]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |31D, 1R
+|rowspan=4 {{Party shading/Democratic}} |76D
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1893
+|rowspan=4 {{Party shading/Democratic}} |[[Henry L. Mitchell]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Clarence B. Collins]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[William N. Sheats]] {{small|(D)}}
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=4 {{Party shading/Democratic}} |31D, 1P
+|rowspan=2 {{Party shading/Democratic}} |74D, 1R, 1I
+|- style="height:2em"
+!1896
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1897
+|rowspan=4 {{Party shading/Democratic}} |[[William D. Bloxham]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William H. Reynolds (politician)|William H. Reynolds]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[James B. Whitfield]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |63D, 3R, 2I
+|rowspan=10 {{Party shading/Democratic}} |[[Stephen Mallory II]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=30 {{Party shading/Democratic}} |32D
+|rowspan=4 {{Party shading/Democratic}} |68D
+|rowspan=12 {{Party shading/Democratic}} |[[James Taliaferro]] {{small|(D)}}
+|- style="height:2em"
+!1900
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1901
+|rowspan=4 {{Party shading/Democratic}} |[[William Sherman Jennings]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |[[A. C. Croom]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |[[Benjamin E. McLin]] {{small|(D)}}
+|- style="height:2em"
+!1902
+|rowspan=27 {{Party shading/Democratic}} |[[Henry Clay Crawford]] {{small|(D)}}{{efn |name=app-elec|Initially appointed to fill vacancy; later elected in his own right.}}
+|- style="height:2em"
+!1903
+|{{Party shading/Democratic}} |[[James B. Whitfield]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[William V. Knott]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |67D, 1R
+|rowspan=10 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1904
+|rowspan=5 {{Party shading/Democratic}} |[[W. H. Ellis]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Alton B. Parker|Parker]]/<br>[[Henry G. Davis|Davis]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1905
+|rowspan=4 {{Party shading/Democratic}} |[[Napoleon B. Broward]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[William N. Holloway]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |68D
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=4 {{Party shading/Democratic}} |67D, 1Soc
+|{{Party shading/Democratic}} |[[William James Bryan]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1908
+|{{Party shading/Democratic}} |[[William Hall Milton]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[John W. Kern|Kern]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1909
+|rowspan=4 {{Party shading/Democratic}} |[[Albert W. Gilchrist]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Park Trammell]] {{small|(D)}}
+|rowspan=27 {{Party shading/Democratic}} |[[Duncan U. Fletcher]] {{small|(D)}}{{efn |name=died}}
+
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=2 {{Party shading/Democratic}} |68D
+|rowspan=6 {{Party shading/Democratic}} |[[Nathan P. Bryan]] {{small|(D)}}
+|- style="height:2em"
+!1912
+|rowspan=5 {{Party shading/Democratic}} |William V. Knott {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[J. C. Luning]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[J. C. Luning]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Democratic}} |[[Park Trammell]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas F. West]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[William N. Sheats]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[William Allen McRae]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |71D
+|rowspan=20 {{Party shading/Democratic}} |4D
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Democratic}} |73D
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Prohibition}} |[[Sidney Johnston Catts]] {{small|(Proh)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Van C. Swearingen]] {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[Ernest Amos (Florida politician)|Ernest Amos]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |74D, 1R
+|rowspan=19 {{Party shading/Democratic}} |[[Park Trammell]] {{small|(D)}}
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=6 {{Party shading/Democratic}} |77D
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Democratic}} |[[James M. Cox|Cox]]/<br>[[Franklin D. Roosevelt|Roosevelt]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Democratic}} |[[Cary A. Hardee]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Rivers H. Buford]] {{small|(D)}}
+|- style="height:2em"
+!1922
+|rowspan=15 {{Party shading/Democratic}} |[[William S. Cawthon]] {{small|(D)}}
+|- style="height:2em"
+!1923
+|rowspan=38 {{Party shading/Democratic}} |[[Nathan Mayo]] {{small|(D)}}
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Davis|Davis]]/<br>[[Charles W. Bryan|Bryan]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1925
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Martin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[J. B. Johnson (Attorney General of Florida)|J. B. Johnson]] {{small|(D)}}
+|{{Party shading/Democratic}} |84D
+|- style="height:2em"
+!1926
+|{{Party shading/Democratic}} |87D{{efn |Three counties were added to the state in 1925 after the Legislature started, adding three seats to the House mid-term.}}
+|- style="height:2em"
+!1927
+|rowspan=4 {{Party shading/Democratic}} |[[Fred Henry Davis]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |95D
+|- style="height:2em"
+!1928
+|rowspan=13 {{Party shading/Democratic}} |William V. Knott {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=4 {{Party shading/Democratic}} |[[Doyle E. Carlton]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[William Monroe Igou]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |37D, 1R
+|rowspan=2 {{Party shading/Democratic}} |93D, 2R
+|- style="height:2em"
+!1930
+|rowspan=32 {{Party shading/Democratic}} |[[Robert Andrew Gray]] {{small|(D)}}
+|- style="height:2em"
+!1931
+|rowspan=7 {{Party shading/Democratic}} |[[Cary D. Landis]] {{small|(D)}}
+|rowspan=22 {{Party shading/Democratic}} |38D
+|rowspan=2 {{Party shading/Democratic}} |95D
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=4 {{Party shading/Democratic}} |[[David Sholtz]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[James Martin Lee]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |94D, 1R
+|rowspan=10 {{Party shading/Democratic}} |5D
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=12 {{Party shading/Democratic}} |95D
+|- style="height:2em"
+!1936
+|{{Party shading/Democratic}} |[[Scott Loftin]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[William Luther Hill]] {{small|(D)}}
+|- style="height:2em"
+!1937
+|rowspan=4 {{Party shading/Democratic}} |[[Fred P. Cone]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Colin English]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Charles O. Andrews]] {{small|(D)}}
+|rowspan=14 {{Party shading/Democratic}} |[[Claude Pepper]] {{small|(D)}}
+|- style="height:2em"
+!1938
+|rowspan=3 {{Party shading/Democratic}} |[[George Couper Gibbs]] {{small|(D)}}
+|- style="height:2em"
+!1939
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=4 {{Party shading/Democratic}} |[[Spessard Holland]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[J. Thomas Watson]] {{small|(D)}}
+|rowspan=21 {{Party shading/Democratic}} |[[J. Edwin Larson]] {{small|(D)}}
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=10 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=4 {{Party shading/Democratic}} |[[Millard Caldwell]] {{small|(D)}}
+|- style="height:2em"
+!1946
+|rowspan=10 {{Party shading/Democratic}} |[[Clarence M. Gay]] {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[Spessard Holland]] {{small|(D)}}
+|- style="height:2em"
+!1947
+|rowspan=2 {{Party shading/Democratic}} |94D, 1R
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Democratic}} |[[Fuller Warren]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Richard Ervin]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Thomas D. Bailey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |95D
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Democratic}} |92D, 3R
+|rowspan=11 {{Party shading/Democratic}} |[[George Smathers]] {{small|(D)}}
+|- style="height:2em"
+!1952
+|rowspan=9 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1953
+|{{Party shading/Democratic}} |[[Daniel T. McCarty]] {{small|(D)}}{{efn |name=died}}
+|rowspan=9 {{Party shading/Democratic}} |37D, 1R
+|rowspan=3 {{Party shading/Democratic}} |90D, 5R
+|rowspan=3 {{Party shading/Democratic}} |8D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Charley Eugene Johns]] {{small|(D)}}{{efn |name=presfilled}}
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=6 {{Party shading/Democratic}} |[[LeRoy Collins]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Ray E. Green]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |89D, 6R
+|rowspan=6 {{Party shading/Democratic}} |7D, 1R
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=2 {{Party shading/Democratic}} |92D, 3R
+|- style="height:2em"
+!1960
+|{{party shading/Democratic}} |Lee Thompson {{small|(D)}}
+|{{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|}
+
+===1961–2002===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=8|Executive offices
+!colspan=2 |[[Florida Legislature|State Legislature]]
+!colspan=3 |[[Florida's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Florida|Governor]]<ref>{{Cite web |title=Florida Governors - Florida Department of State |url=https://dos.fl.gov/florida-facts/florida-history/florida-governors/ |access-date=2022-11-24 |website=dos.myflorida.com}}</ref>
+!class=unsortable |[[Lieutenant Governor of Florida|Lt. Governor]]
+!class=unsortable |[[Secretary of State of Florida|Sec. of State]]
+!class=unsortable |[[Florida Attorney General|Attorney General]]<ref>{{Cite web |title=Florida Attorney General - Florida Attorneys General (1845 - ) |url=http://myfloridalegal.com/pages.nsf/4492d797dc0bd92f85256cb80055fb97/21d3e99c36cfb89385256cc60071795b!OpenDocument |access-date=2022-11-24 |website=myfloridalegal.com}}</ref>
+!class=unsortable |[[Florida Comptroller|Comptroller]]
+!class=unsortable |[[Treasurer, Insurance Commissioner, and Fire Marshal of Florida|Treasurer]]
+!class=unsortable |[[Florida Department of Education|Comm. of Ed.]]
+!class=unsortable |[[Florida Commissioner of Agriculture|Comm. of Ag.]]
+!class=unsortable |[[Florida Senate|State<br>Senate]]
+!class=unsortable |[[Florida House of Representatives|State<br>House]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Florida|U.S.<br>House]]
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |[[C. Farris Bryant]] {{small|(D)}}
+|rowspan=8 |''no such office''
+|rowspan=10 {{Party shading/Democratic}} |[[Thomas Burton Adams Jr.|Thomas Burton<br>Adams Jr.]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Richard Ervin]] {{small|(D)}}{{efn |Resigned in order to accept appointment to the [[Florida Supreme Court]].}}
+|rowspan=4 {{Party shading/Democratic}} |[[Ray E. Green]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[J. Edwin Larson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas D. Bailey]] {{small|(D)}}
+|rowspan=31 {{Party shading/Democratic}} |[[Doyle Conner]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |37D, 1R
+|rowspan=2 {{Party shading/Democratic}} |88D, 7R
+|rowspan=10 {{Party shading/Democratic}} |[[Spessard Holland]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[George Smathers]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |7D, 1R
+|rowspan=3 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=4 {{Party shading/Democratic}} |41D, 2R{{efn |name=Baker|Due to the effects of Baker vs. Carr, the 1962 midterms were thrown out by a court, and a redistricting was conducted with new elections thereafter. The original results for the Senate yielded a 37-1 Democratic majority, and the original results for the House yielded a 90-5 Democratic majority.}}
+|rowspan=2 {{Party shading/Democratic}} |109D, 16R{{efn |name=Baker}}
+|rowspan=4 {{Party shading/Democratic}} |10D, 2R
+|- style="height:2em"
+!1964
+|{{Party shading/Democratic}} |[[James W. Kynes]] {{small|(D)}}{{efn |name=app|Appointed by governor to fill vacancy.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Democratic}} |[[W. Haydon Burns]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Earl Faircloth]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Fred O. Dickinson]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Broward Williams]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Floyd T. Christian]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |102D, 10R
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Republican}} |[[Claude R. Kirk Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |28D, 20R{{efn |name=omov|Due to additional efforts to satisfy "one man, one vote"-style redistricting failing, the 1966 midterms were thrown out by a court, and a redistricting by the judiciary was conducted with new elections thereafter. The original results for the Senate yielded a 37-11 Democratic majority, and the original results for the House yielded a 91-26 Democratic majority.}}
+|rowspan=2 {{Party shading/Democratic}} |80D, 39R{{efn |name=omov}}
+|rowspan=6 {{Party shading/Democratic}} |9D, 3R
+|- style="height:2em"
+!1968
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Republican}} |[[Ray Osborne]] {{small|(R)}}{{efn |First lieutenant governor under the state constitution of 1968 and the state's first lieutenant governor since 1889. Appointed by Governor [[Claude R. Kirk Jr.]]}}
+|rowspan=2 {{Party shading/Democratic}} |32D, 16R
+|rowspan=2 {{Party shading/Democratic}} |77D, 42R
+|rowspan=6 {{Party shading/Republican}} |[[Edward Gurney]] {{small|(R)}}
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=8 {{Party shading/Democratic}} |[[Reubin Askew]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Burton Adams Jr.|Thomas Burton<br>Adams Jr.]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Richard Stone (politician)|Richard Stone]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Robert Shevin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas D. O'Malley]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |33D, 15R
+|rowspan=2 {{Party shading/Democratic}} |81D, 38R
+|rowspan=19 {{Party shading/Democratic}} |[[Lawton Chiles]] {{small|(D)}}
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Democratic}} |25D, 14R, 1I
+|rowspan=2 {{Party shading/Democratic}} |77D, 43R
+|rowspan=2 {{Party shading/Democratic}} |11D, 4R
+|- style="height:2em"
+!1974
+|rowspan=1 {{Party shading/Democratic}} |[[Dorothy Glisson]] {{small|(D)}}
+|- style="height:2em"
+!1975
+|rowspan=4 {{Party shading/Democratic}} |[[Jim Williams (politician)|Jim Williams]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Bruce Smathers]] {{small|(D)}}{{efn |Resigned in order to run for governor.}}
+|rowspan=21 {{Party shading/Democratic}} |[[Gerald Lewis (politician)|Gerald Lewis]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Phil Ashler]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Ralph Turlington]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 12R, 1I
+|rowspan=2 {{Party shading/Democratic}} |86D, 34R
+|rowspan=6 {{Party shading/Democratic}} |Richard Stone {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |10D, 5R
+|- style="height:2em"
+!1976
+|rowspan=14 {{Party shading/Democratic}} |[[Bill Gunter]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Democratic}} |30D, 9R, 1I
+|rowspan=2 {{Party shading/Democratic}} |92D, 28R
+|- style="height:2em"
+!1978
+|{{Party shading/Democratic}} |[[Jesse J. McCrary Jr.]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!1979
+|rowspan=8 {{Party shading/Democratic}} |[[Bob Graham]] {{small|(D)}}{{efn |Resigned to take elected seat in the [[United States Senate]].}}
+|rowspan=8 {{Party shading/Democratic}} |[[Wayne Mixson]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[George Firestone]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[James C. Smith (politician)|James C. Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |29D, 11R
+|rowspan=2 {{Party shading/Democratic}} |89D, 31R
+|rowspan=2 {{Party shading/Democratic}} |12D, 3R
+|- style="height:2em"
+!1980
+|rowspan=9 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Democratic}} |27D, 13R
+|rowspan=2 {{Party shading/Democratic}} |81D, 39R
+|rowspan=6 {{Party shading/Republican}} |[[Paula Hawkins (politician)|Paula Hawkins]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |11D, 4R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=2 {{Party shading/Democratic}} |32D, 8R
+|rowspan=2 {{Party shading/Democratic}} |84D, 36R
+|rowspan=2 {{Party shading/Democratic}} |13D, 6R
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|{{Party shading/Democratic}} |31D, 9R
+|rowspan=2 {{Party shading/Democratic}} |77D, 43R
+|rowspan=5 {{Party shading/Democratic}} |12D, 7R
+|- style="height:2em"
+!1986
+|{{Party shading/Democratic}} |30D, 10R{{efn |Republican [[Ander Crenshaw]] won a special election to a vacant seat, flipping the seat from the Democrats to the Republicans.}}
+|- style="height:2em"
+!rowspan=2 |1987
+|{{Party shading/Democratic}} |[[Wayne Mixson]] {{small|(D)}}{{efn |name=ltfilled}}
+|''vacant''
+|rowspan=9 {{Party shading/Republican}} |[[James C. Smith (politician)|James C. Smith]] {{small|(R)}}
+|rowspan=17 {{Party shading/Democratic}} |[[Bob Butterworth]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Betty Castor]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |25D, 15R
+|rowspan=3 {{Party shading/Democratic}} |73D, 47R
+|rowspan=18 {{Party shading/Democratic}} |[[Bob Graham]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Bob Martinez]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Bobby Brantley]] {{small|(R)}}
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|rowspan=6 {{Party shading/Republican}} |[[Tom Gallagher]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |23D, 17R
+|rowspan=2 {{Party shading/Democratic}} |70D, 50R
+|rowspan=13 {{Party shading/Republican}} |[[Connie Mack III]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 8D
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=8 {{Party shading/Democratic}} |[[Lawton Chiles]] {{small|(D)}}{{efn |name=died}}
+|rowspan=8 {{Party shading/Democratic}} |[[Buddy MacKay]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |[[Bob Crawford (Florida politician)|Bob Crawford]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |74D, 46R
+|rowspan=2 {{Party shading/Republican}} |10R, 9D
+|- style="height:2em"
+!1992
+|{{Party shading/Democratic}} |22D, 18R{{efn |name=dtor|One Democrat changed party affiliation to Republican.}}
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Tie}} |20D, 20R{{efn |Due to the split chamber, the Senate worked out a power-sharing agreement where a Republican served as Senate President in 1993, and a Democrat served in 1994.}}
+|rowspan=2 {{Party shading/Democratic}} |71D, 49R
+|rowspan=2 {{Party shading/Republican}} |13R, 10D
+|- style="height:2em"
+!1994
+|{{Party shading/Democratic}} |[[Doug Jamerson]] {{small|(D)}}
+|- style="height:2em"
+!1995
+|rowspan=4 {{Party shading/Republican}} |[[Sandra Mortham]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Bob Milligan]] {{small|(R)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Bill Nelson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Frank Brogan]] {{small|(R)}}
+|{{Party shading/Republican}} |21R, 19D
+|rowspan=2 {{Party shading/Democratic}} |63D, 57R
+|rowspan=9 {{Party shading/Republican}} |15R, 8D
+|- style="height:2em"
+!1996
+|{{Party shading/Republican}} |22R, 18D{{efn |name=dtor}}
+|rowspan=5 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1997
+|{{Party shading/Republican}} |23R, 17D
+|{{Party shading/Republican}} |61R, 59D
+|- style="height:2em"
+!1998
+|rowspan=6 {{Party shading/Republican}} |25R, 15D{{efn |Republicans gained one seat in a March 1998 special election. One senator changed party affiliation from Democratic to Republican in July 1998.}}
+|{{Party shading/Republican}} |66R, 54D{{efn |Four members changed party affiliation from Democratic to Republican between May 1997 and April 1998. Republicans gained a seat in an October 1997 special election.}}
+|- style="height:2em"
+!rowspan=2 |1999
+|{{Party shading/Democratic}} |[[Buddy MacKay]] {{small|(D)}}{{efn |name=ltfilled}}
+|''vacant''
+|rowspan=5 {{Party shading/Republican}} |[[Katherine Harris]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Tom Gallagher]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |73R, 47D
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Jeb Bush]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Frank Brogan]] {{small|(R)}}
+|- style="height:2em"
+!2000
+|{{Party shading/Republican}} |75R, 45D{{efn |Democrats gained a seat in a March 1999 special election. Three representatives changed party affiliation from Democratic to Republican between May and December 1999.}}
+|rowspan=3 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Republican}} |[[Tom Gallagher]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charlie Crist]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles Bronson (politician)|Charles Bronson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |77R, 43D
+|rowspan=2 {{Party shading/Democratic}} |[[Bill Nelson]] {{small|(D)}}
+|- style="height:2em"
+!2002
+|{{Party shading/Republican}} |[[Richard E. Doran]] {{small|(R)}}
+|}
+
+===2003–present===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[Florida Legislature|State Legislature]]
+!colspan=3 |[[Florida's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Florida|Governor]]<ref>{{Cite web |title=Florida Governors - Florida Department of State |url=https://dos.fl.gov/florida-facts/florida-history/florida-governors/ |access-date=2022-11-24 |website=dos.myflorida.com}}</ref>
+!class=unsortable |[[Lieutenant Governor of Florida|Lt. Governor]]
+!class=unsortable |[[Florida Attorney General|Attorney General]]<ref>{{Cite web |title=Florida Attorney General - Florida Attorneys General (1845 - ) |url=http://myfloridalegal.com/pages.nsf/4492d797dc0bd92f85256cb80055fb97/21d3e99c36cfb89385256cc60071795b!OpenDocument |access-date=2022-11-24 |website=myfloridalegal.com}}</ref>
+!class=unsortable |[[Chief Financial Officer of Florida|CFO]]
+!class=unsortable |[[Florida Commissioner of Agriculture|Commissioner<br>of Agriculture]]
+!class=unsortable |[[Florida Senate|State Senate]]
+!class=unsortable |[[Florida House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from Florida|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from Florida|U.S. House]]
+|- style="height:2em"
+!2003
+|rowspan=4 {{Party shading/Republican}} |[[Jeb Bush]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Toni Jennings]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charlie Crist]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Tom Gallagher]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Charles Bronson (politician)|Charles Bronson]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |26R, 14D
+|rowspan=2 {{Party shading/Republican}} |81R, 39D
+|rowspan=16 {{Party shading/Democratic}} |[[Bill Nelson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Bob Graham]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |18R, 7D
+|rowspan=5 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2004
+|- style="height:2em"
+!2005
+|{{Party shading/Republican}} |84R, 36D
+|rowspan=5 {{Party shading/Republican}} |[[Mel Martínez]] {{small|(R)}}
+|- style="height:2em"
+!2006
+|{{Party shading/Republican}} |85R, 35D{{efn |name=dtor}}
+|- style="height:2em"
+!2007
+|rowspan=3 {{Party shading/Republican}} |[[Charlie Crist]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jeff Kottkamp]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Bill McCollum]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Alex Sink]] {{small|(D)}}
+|{{Party shading/Republican}} |78R, 42D
+|rowspan=2 {{Party shading/Republican}} |16R, 9D
+|- style="height:2em"
+!2008
+|{{Party shading/Republican}} |77R, 43D{{efn |One representative changed party affiliation from Democratic to Republican in November 2006. Democrats gained two seats in special elections in April 2007 and February 2008.}}
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/Republican}} |76R, 44D
+|rowspan=2 {{Party shading/Republican}} |15R, 10D
+|- style="height:2em"
+!2010
+|{{Party shading/Independent}} |[[Charlie Crist]] {{small|(I)}}{{efn |Crist changed his affiliation from Republican to Independent while in office during 2010.}}
+|{{Party shading/Republican}} |[[George LeMieux]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!2011
+|rowspan=8 {{Party shading/Republican}} |[[Rick Scott]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Jennifer Carroll]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Pam Bondi]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Jeff Atwater]] {{small|(R)}}{{efn |Resigned to take a job in the administration at [[Florida Atlantic University]].}}
+|rowspan=8 {{Party shading/Republican}} |[[Adam Putnam]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 12D
+|rowspan=2 {{Party shading/Republican}} |81R, 39D
+|rowspan=14 {{Party shading/Republican}} |[[Marco Rubio]] {{small|(R)}}{{efn |Resigned after being confirmed as [[United States Secretary of State]].}}
+|rowspan=2 {{Party shading/Republican}} |19R, 6D
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|''Vacant''
+|rowspan=4 {{party shading/Republican}} |26R, 14D
+|{{party shading/Republican}} |76R, 44D
+|rowspan=4 {{party shading/Republican}} |17R, 10D
+|- style="height:2em"
+!2014
+|rowspan=5 {{party shading/Republican}} |[[Carlos Lopez-Cantera]] {{small|(R)}}
+|{{party shading/Republican}} |75R, 45D{{efn |Democrats gained a seat in an October 2013 special election.}}
+|- style="height:2em"
+!2015
+|rowspan=2 {{party shading/Republican}} |81R, 39D
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2017
+|rowspan=8 {{Party shading/Republican}} |[[Jimmy Patronis]] {{small|(R)}}{{efn |name=app}}
+|{{Party shading/Republican}} |25R, 15D
+|{{Party shading/Republican}} |79R, 41D
+|rowspan=2 {{Party shading/Republican}} |16R, 11D
+|- style="height:2em"
+!2018
+|{{Party shading/Republican}} |24R, 16D{{efn |Democrats gained a seat in a September 2017 special election.}}
+|{{Party shading/Republican}} |78R, 42D{{efn |Democrats gained a seat in a February 2018 special election.}}
+|- style="height:2em"
+!2019
+|rowspan=8 {{Party shading/Republican/current}} |[[Ron DeSantis]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Jeanette Nuñez]] {{small|(R)}}{{efn |Resigned February 2025 to become president of the [[Florida International University]].}}
+|rowspan=6 {{Party shading/Republican}} |[[Ashley Moody]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Nikki Fried]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 17D
+|rowspan=2 {{Party shading/Republican}} |73R, 47D
+|rowspan=8 {{Party shading/Republican/current}} |[[Rick Scott]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |14R, 13D
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2021
+|rowspan=2 {{Party shading/Republican}} |24R, 16D
+|rowspan=2 {{Party shading/Republican}} |78R, 42D
+|rowspan=2 {{Party shading/Republican}} |16R, 11D
+|-
+!2022
+|- style="height:2em"
+!2023
+|rowspan=4 {{Party shading/Republican/current}} |[[Wilton Simpson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |28R, 12D
+|{{Party shading/Republican}} |85R, 35D
+|rowspan=3 {{Party shading/Republican}} |20R, 8D
+|- style="height:2em"
+!2024
+|{{Party shading/Republican}} |84R, 36D{{efn |In district 35, Democrat [[Tom Keen (politician)|Tom Keen]] won a special election on January 16 to replace Republican [[Fred Hawkins (politician)|Fred Hawkins]], who had resigned.}}
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |[[Jay Collins]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican/current}} |[[James Uthmeier]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican/current}} |[[Blaise Ingoglia]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican/current}} |87R, 33D{{efn |Republicans gained one seat in the [[2024 Florida House of Representatives election|2024 elections]], and subsequently two Democratic representatives [[Party switching in the United States|switched parties]] to Republican.}}
+|rowspan=2 {{Party shading/Republican/current}} |[[Ashley Moody]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!2026
+| {{Party shading/Republican/current}} |20R, 7D{{efn|Democrat Representative from 20th district resigned on 21 April 2026, bringing strength done to 27.}}
+|}
+{{United States political party shading key}}
+
+==Notes==
+{{notelist}}
+
+==See also==
+*[[Elections in Florida]]
+*[[Government of Florida]]
+*[[Politics of Florida]]
+*Parties:
+**[[Republican Party of Florida]]
+**[[Florida Democratic Party]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states|state=expanded}}
+{{florida}}
+
+{{DEFAULTSORT:Political Party Strength In Florida}}
+[[Category:Politics of Florida]]
+[[Category:Government of Florida]]
+[[Category:Political party strength in the United States by state|Florida]]

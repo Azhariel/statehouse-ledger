@@ -1,0 +1,1525 @@
+[
+ {
+  "table": 1,
+  "name": "Jonathan Trumbull",
+  "term_raw": "October 13, 1769 – May 13, 1784 {{small|(5327 days; retired)}}",
+  "dates": [
+   [
+    "1769-10-13",
+    "day"
+   ],
+   [
+    "1784-05-13",
+    "day"
+   ],
+   [
+    "5327-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "No parties",
+  "acting_hint": false,
+  "succ_raw": "1776",
+  "name_cell": "Jonathan Trumbull {{Small|(1710–1785)}}"
+ },
+ {
+  "table": 1,
+  "name": "Matthew Griswold",
+  "term_raw": "May 13, 1784 – May 11, 1786 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1784-05-13",
+    "day"
+   ],
+   [
+    "1786-05-11",
+    "day"
+   ]
+  ],
+  "party_raw": "1784",
+  "acting_hint": false,
+  "succ_raw": "{{sortname|Samuel|Huntington|dab=Connecticut politician}}",
+  "name_cell": "Matthew Griswold {{Small|(1714–1799)}}"
+ },
+ {
+  "table": 1,
+  "name": "Samuel Huntington",
+  "term_raw": "May 11, 1786 – January 5, 1796 {{small|(3527 days; died in office)}}",
+  "dates": [
+   [
+    "1786-05-11",
+    "day"
+   ],
+   [
+    "1796-01-05",
+    "day"
+   ],
+   [
+    "3527-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1786",
+  "name_cell": "Samuel Huntington {{Small|(1731–1796)}}"
+ },
+ {
+  "table": 1,
+  "name": "Oliver Wolcott",
+  "term_raw": "January 5, 1796 – December 1, 1797 {{small|(697 days; died in office)}}",
+  "dates": [
+   [
+    "1796-01-05",
+    "day"
+   ],
+   [
+    "1797-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "Oliver Wolcott {{Small|(1726–1797)}}"
+ },
+ {
+  "table": 1,
+  "name": "Jonathan Trumbull Jr.",
+  "term_raw": "December 1, 1797 – August 7, 1809 {{small|(4267 days; died in office)}}",
+  "dates": [
+   [
+    "1797-12-01",
+    "day"
+   ],
+   [
+    "1809-08-07",
+    "day"
+   ],
+   [
+    "4267-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "Jonathan Trumbull Jr. {{Small|(1740–1809)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Treadwell",
+  "term_raw": "August 7, 1809 – May 9, 1811 {{small|(641 days; lost election)}}",
+  "dates": [
+   [
+    "1809-08-07",
+    "day"
+   ],
+   [
+    "1811-05-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "John Treadwell {{Small|(1745–1823)}}"
+ },
+ {
+  "table": 1,
+  "name": "Roger Griswold",
+  "term_raw": "May 9, 1811 – October 25, 1812 {{small|(536 days; died in office)}}",
+  "dates": [
+   [
+    "1811-05-09",
+    "day"
+   ],
+   [
+    "1812-10-25",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1811",
+  "name_cell": "Roger Griswold {{Small|(1762–1812)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Cotton Smith",
+  "term_raw": "October 25, 1812 – May 8, 1817 {{small|(1657 days; lost election)}}",
+  "dates": [
+   [
+    "1812-10-25",
+    "day"
+   ],
+   [
+    "1817-05-08",
+    "day"
+   ],
+   [
+    "1657-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "John Cotton Smith {{Small|(1765–1845)}}"
+ },
+ {
+  "table": 1,
+  "name": "Oliver Wolcott Jr.",
+  "term_raw": "May 8, 1817 – May 2, 1827 {{small|(3647 days; lost election)}}",
+  "dates": [
+   [
+    "1817-05-08",
+    "day"
+   ],
+   [
+    "1827-05-02",
+    "day"
+   ],
+   [
+    "3647-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Toleration",
+  "acting_hint": false,
+  "succ_raw": "1817",
+  "name_cell": "Oliver Wolcott Jr. {{Small|(1760–1833)}}"
+ },
+ {
+  "table": 1,
+  "name": "Gideon Tomlinson",
+  "term_raw": "May 2, 1827 – March 2, 1831 {{small|(1401 days; resigned)}}",
+  "dates": [
+   [
+    "1827-05-02",
+    "day"
+   ],
+   [
+    "1831-03-02",
+    "day"
+   ],
+   [
+    "1401-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "1827",
+  "name_cell": "Gideon Tomlinson {{Small|(1780–1854)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Samuel Peters",
+  "term_raw": "March 2, 1831 – May 4, 1833 {{small|(795 days; lost election)}}",
+  "dates": [
+   [
+    "1831-03-02",
+    "day"
+   ],
+   [
+    "1833-05-04",
+    "day"
+   ]
+  ],
+  "party_raw": "National Republican",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "John Samuel Peters {{Small|(1772–1858)}}"
+ },
+ {
+  "table": 1,
+  "name": "(vacant)",
+  "raw": "1831 Vacant"
+ },
+ {
+  "table": 1,
+  "name": "Henry W. Edwards",
+  "term_raw": "May 4, 1833 – May 7, 1834 {{small|(369 days; lost election)}}",
+  "dates": [
+   [
+    "1833-05-04",
+    "day"
+   ],
+   [
+    "1834-05-07",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1833",
+  "name_cell": "Henry W. Edwards {{Small|(1779–1847)}}"
+ },
+ {
+  "table": 1,
+  "name": "Samuel A. Foot",
+  "term_raw": "May 7, 1834 – May 6, 1835 {{small|(365 days; lost election)}}",
+  "dates": [
+   [
+    "1834-05-07",
+    "day"
+   ],
+   [
+    "1835-05-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1834",
+  "name_cell": "Samuel A. Foot {{Small|(1780–1846)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry W. Edwards",
+  "term_raw": "May 6, 1835 – May 3, 1838 {{small|(1094 days; retired)}}",
+  "dates": [
+   [
+    "1835-05-06",
+    "day"
+   ],
+   [
+    "1838-05-03",
+    "day"
+   ],
+   [
+    "1094-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1835",
+  "name_cell": "Henry W. Edwards {{Small|(1779–1847)}}"
+ },
+ {
+  "table": 1,
+  "name": "William W. Ellsworth",
+  "term_raw": "May 3, 1838 – May 6, 1842 {{small|(1465 days; lost election)}}",
+  "dates": [
+   [
+    "1838-05-03",
+    "day"
+   ],
+   [
+    "1842-05-06",
+    "day"
+   ],
+   [
+    "1465-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1838",
+  "name_cell": "William W. Ellsworth {{Small|(1791–1868)}}"
+ },
+ {
+  "table": 1,
+  "name": "Chauncey F. Cleveland",
+  "term_raw": "May 6, 1842 – May 2, 1844 {{small|(728 days; lost election)}}",
+  "dates": [
+   [
+    "1842-05-06",
+    "day"
+   ],
+   [
+    "1844-05-02",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1842",
+  "name_cell": "Chauncey F. Cleveland {{Small|(1799–1887)}}"
+ },
+ {
+  "table": 1,
+  "name": "Roger Sherman Baldwin",
+  "term_raw": "May 2, 1844 – May 8, 1846 {{small|(737 days; retired)}}",
+  "dates": [
+   [
+    "1844-05-02",
+    "day"
+   ],
+   [
+    "1846-05-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1844",
+  "name_cell": "Roger Sherman Baldwin {{Small|(1793–1863)}}"
+ },
+ {
+  "table": 1,
+  "name": "Isaac Toucey",
+  "term_raw": "May 8, 1846 – May 5, 1847 {{small|(363 days; lost nomination)}}",
+  "dates": [
+   [
+    "1846-05-08",
+    "day"
+   ],
+   [
+    "1847-05-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1846",
+  "name_cell": "Isaac Toucey {{Small|(1792–1869)}}"
+ },
+ {
+  "table": 1,
+  "name": "Clark Bissell",
+  "term_raw": "May 5, 1847 – May 3, 1849 {{small|(730 days; lost nomination)}}",
+  "dates": [
+   [
+    "1847-05-05",
+    "day"
+   ],
+   [
+    "1849-05-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1847",
+  "name_cell": "Clark Bissell {{Small|(1782–1857)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joseph Trumbull",
+  "term_raw": "May 3, 1849 – May 2, 1850 {{small|(365 days; retired)}}",
+  "dates": [
+   [
+    "1849-05-03",
+    "day"
+   ],
+   [
+    "1850-05-02",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1849",
+  "name_cell": "Joseph Trumbull {{Small|(1782–1861)}}"
+ },
+ {
+  "table": 1,
+  "name": "Thomas H. Seymour",
+  "term_raw": "May 2, 1850 – October 13, 1853 {{small|(1261 days; resigned)}}",
+  "dates": [
+   [
+    "1850-05-02",
+    "day"
+   ],
+   [
+    "1853-10-13",
+    "day"
+   ],
+   [
+    "1261-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1850",
+  "name_cell": "Thomas H. Seymour {{Small|(1807–1868)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles H. Pond",
+  "term_raw": "October 13, 1853 – May 4, 1854 {{small|(204 days; retired)}}",
+  "dates": [
+   [
+    "1853-10-13",
+    "day"
+   ],
+   [
+    "1854-05-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "Charles H. Pond {{Small|(1781–1861)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry Dutton",
+  "term_raw": "May 4, 1854 – May 3, 1855 {{small|(365 days; lost election)}}",
+  "dates": [
+   [
+    "1854-05-04",
+    "day"
+   ],
+   [
+    "1855-05-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1854",
+  "name_cell": "Henry Dutton {{Small|(1796–1869)}}"
+ },
+ {
+  "table": 1,
+  "name": "William T. Minor",
+  "term_raw": "May 3, 1855 – May 6, 1857 {{small|(735 days; retired)}}",
+  "dates": [
+   [
+    "1855-05-03",
+    "day"
+   ],
+   [
+    "1857-05-06",
+    "day"
+   ]
+  ],
+  "party_raw": "American",
+  "acting_hint": false,
+  "succ_raw": "1855",
+  "name_cell": "William T. Minor {{Small|(1815–1889)}}"
+ },
+ {
+  "table": 1,
+  "name": "Alexander H. Holley",
+  "term_raw": "May 6, 1857 – May 5, 1858 {{small|(365 days; retired)}}",
+  "dates": [
+   [
+    "1857-05-06",
+    "day"
+   ],
+   [
+    "1858-05-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1857",
+  "name_cell": "Alexander H. Holley {{Small|(1804–1887)}}"
+ },
+ {
+  "table": 1,
+  "name": "William A. Buckingham",
+  "term_raw": "May 5, 1858 – May 2, 1866 {{small|(2920 days; retired)}}",
+  "dates": [
+   [
+    "1858-05-05",
+    "day"
+   ],
+   [
+    "1866-05-02",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1858",
+  "name_cell": "William A. Buckingham {{Small|(1804–1875)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joseph R. Hawley",
+  "term_raw": "May 2, 1866 – May 1, 1867 {{small|(365 days; lost election)}}",
+  "dates": [
+   [
+    "1866-05-02",
+    "day"
+   ],
+   [
+    "1867-05-01",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1866",
+  "name_cell": "Joseph R. Hawley {{Small|(1826–1905)}}"
+ },
+ {
+  "table": 1,
+  "name": "James E. English",
+  "term_raw": "May 1, 1867 – May 5, 1869 {{small|(736 days; lost election)}}",
+  "dates": [
+   [
+    "1867-05-01",
+    "day"
+   ],
+   [
+    "1869-05-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1867",
+  "name_cell": "James E. English {{Small|(1812–1890)}}"
+ },
+ {
+  "table": 1,
+  "name": "Marshall Jewell",
+  "term_raw": "May 5, 1869 – May 4, 1870 {{small|(365 days; lost election)}}",
+  "dates": [
+   [
+    "1869-05-05",
+    "day"
+   ],
+   [
+    "1870-05-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1869",
+  "name_cell": "Marshall Jewell {{Small|(1825–1883)}}"
+ },
+ {
+  "table": 1,
+  "name": "James E. English",
+  "term_raw": "May 4, 1870 – May 16, 1871 {{small|(378 days; lost election)}}",
+  "dates": [
+   [
+    "1870-05-04",
+    "day"
+   ],
+   [
+    "1871-05-16",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1870",
+  "name_cell": "James E. English {{Small|(1812–1890)}}"
+ },
+ {
+  "table": 1,
+  "name": "Marshall Jewell",
+  "term_raw": "May 16, 1871 – May 7, 1873 {{small|(723 days; retired)}}",
+  "dates": [
+   [
+    "1871-05-16",
+    "day"
+   ],
+   [
+    "1873-05-07",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1871",
+  "name_cell": "Marshall Jewell {{Small|(1825–1883)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles Roberts Ingersoll",
+  "term_raw": "May 7, 1873 – January 3, 1877 {{small|(1338 days; retired)}}",
+  "dates": [
+   [
+    "1873-05-07",
+    "day"
+   ],
+   [
+    "1877-01-03",
+    "day"
+   ],
+   [
+    "1338-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1873",
+  "name_cell": "Charles Roberts Ingersoll {{Small|(1821–1903)}}"
+ },
+ {
+  "table": 1,
+  "name": "Richard D. Hubbard",
+  "term_raw": "January 3, 1877 – January 9, 1879 {{small|(737 days; lost election)}}",
+  "dates": [
+   [
+    "1877-01-03",
+    "day"
+   ],
+   [
+    "1879-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "Nov. 1876",
+  "name_cell": "Richard D. Hubbard {{Small|(1818–1884)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles B. Andrews",
+  "term_raw": "January 9, 1879 – January 5, 1881 {{small|(728 days; retired)}}",
+  "dates": [
+   [
+    "1879-01-09",
+    "day"
+   ],
+   [
+    "1881-01-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1878",
+  "name_cell": "Charles B. Andrews {{Small|(1834–1902)}}"
+ },
+ {
+  "table": 1,
+  "name": "Hobart B. Bigelow",
+  "term_raw": "January 5, 1881 – January 3, 1883 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1881-01-05",
+    "day"
+   ],
+   [
+    "1883-01-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1880",
+  "name_cell": "Hobart B. Bigelow {{Small|(1834–1891)}}"
+ },
+ {
+  "table": 1,
+  "name": "Thomas M. Waller",
+  "term_raw": "January 3, 1883 – January 8, 1885 {{small|(737 days; lost election)}}",
+  "dates": [
+   [
+    "1883-01-03",
+    "day"
+   ],
+   [
+    "1885-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1882",
+  "name_cell": "Thomas M. Waller {{Small|(1839–1924)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry Baldwin Harrison",
+  "term_raw": "January 8, 1885 – January 6, 1887 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1885-01-08",
+    "day"
+   ],
+   [
+    "1887-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1884",
+  "name_cell": "Henry Baldwin Harrison {{Small|(1821–1901)}}"
+ },
+ {
+  "table": 1,
+  "name": "Phineas C. Lounsbury",
+  "term_raw": "January 6, 1887 – January 10, 1889 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1887-01-06",
+    "day"
+   ],
+   [
+    "1889-01-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1886",
+  "name_cell": "Phineas C. Lounsbury {{Small|(1841–1925)}}"
+ },
+ {
+  "table": 1,
+  "name": "Morgan Bulkeley",
+  "term_raw": "January 10, 1889 – January 4, 1893 {{small|(1456 days; retired)}}",
+  "dates": [
+   [
+    "1889-01-10",
+    "day"
+   ],
+   [
+    "1893-01-04",
+    "day"
+   ],
+   [
+    "1456-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1888",
+  "name_cell": "Morgan Bulkeley {{Small|(1837–1922)}}"
+ },
+ {
+  "table": 1,
+  "name": "Luzon B. Morris",
+  "term_raw": "January 4, 1893 – January 9, 1895 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1893-01-04",
+    "day"
+   ],
+   [
+    "1895-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1892",
+  "name_cell": "Luzon B. Morris {{Small|(1827–1895)}}"
+ },
+ {
+  "table": 1,
+  "name": "Owen Vincent Coffin",
+  "term_raw": "January 9, 1895 – January 6, 1897 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1895-01-09",
+    "day"
+   ],
+   [
+    "1897-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1894",
+  "name_cell": "Owen Vincent Coffin {{Small|(1836–1921)}}"
+ },
+ {
+  "table": 1,
+  "name": "Lorrin A. Cooke",
+  "term_raw": "January 6, 1897 – January 4, 1899 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1897-01-06",
+    "day"
+   ],
+   [
+    "1899-01-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1896",
+  "name_cell": "Lorrin A. Cooke {{Small|(1831–1902)}}"
+ },
+ {
+  "table": 1,
+  "name": "George E. Lounsbury",
+  "term_raw": "January 4, 1899 – January 9, 1901 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1899-01-04",
+    "day"
+   ],
+   [
+    "1901-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1898",
+  "name_cell": "George E. Lounsbury {{Small|(1838–1904)}}"
+ },
+ {
+  "table": 1,
+  "name": "George P. McLean",
+  "term_raw": "January 9, 1901 – January 7, 1903 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1901-01-09",
+    "day"
+   ],
+   [
+    "1903-01-07",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1900",
+  "name_cell": "George P. McLean {{Small|(1857–1932)}}"
+ },
+ {
+  "table": 1,
+  "name": "Abiram Chamberlain",
+  "term_raw": "January 7, 1903 – January 4, 1905 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1903-01-07",
+    "day"
+   ],
+   [
+    "1905-01-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1902",
+  "name_cell": "Abiram Chamberlain {{Small|(1837–1911)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry Roberts",
+  "term_raw": "January 4, 1905 – January 9, 1907 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1905-01-04",
+    "day"
+   ],
+   [
+    "1907-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1904",
+  "name_cell": "Henry Roberts {{Small|(1853–1929)}}"
+ },
+ {
+  "table": 1,
+  "name": "Rollin S. Woodruff",
+  "term_raw": "January 9, 1907 – January 6, 1909 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1907-01-09",
+    "day"
+   ],
+   [
+    "1909-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1906",
+  "name_cell": "Rollin S. Woodruff {{Small|(1854–1925)}}"
+ },
+ {
+  "table": 1,
+  "name": "George L. Lilley",
+  "term_raw": "January 6, 1909 – April 21, 1909 {{small|(106 days; died in office)}}",
+  "dates": [
+   [
+    "1909-01-06",
+    "day"
+   ],
+   [
+    "1909-04-21",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1908",
+  "name_cell": "George L. Lilley {{Small|(1859–1909)}}"
+ },
+ {
+  "table": 1,
+  "name": "Frank B. Weeks",
+  "term_raw": "April 21, 1909 – January 4, 1911 {{small|(624 days; retired)}}",
+  "dates": [
+   [
+    "1909-04-21",
+    "day"
+   ],
+   [
+    "1911-01-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "Frank B. Weeks {{Small|(1854–1935)}}"
+ },
+ {
+  "table": 1,
+  "name": "Simeon E. Baldwin",
+  "term_raw": "January 4, 1911 – January 6, 1915 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1911-01-04",
+    "day"
+   ],
+   [
+    "1915-01-06",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1910",
+  "name_cell": "Simeon E. Baldwin {{Small|(1840–1927)}}"
+ },
+ {
+  "table": 1,
+  "name": "Marcus H. Holcomb",
+  "term_raw": "January 6, 1915 – January 5, 1921 {{small|(2192 days; retired)}}",
+  "dates": [
+   [
+    "1915-01-06",
+    "day"
+   ],
+   [
+    "1921-01-05",
+    "day"
+   ],
+   [
+    "2192-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1914",
+  "name_cell": "Marcus H. Holcomb {{Small|(1844–1932)}}"
+ },
+ {
+  "table": 1,
+  "name": "Everett J. Lake",
+  "term_raw": "January 5, 1921 – January 3, 1923 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1921-01-05",
+    "day"
+   ],
+   [
+    "1923-01-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1920",
+  "name_cell": "Everett J. Lake {{Small|(1871–1948)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles A. Templeton",
+  "term_raw": "January 3, 1923 – January 7, 1925 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1923-01-03",
+    "day"
+   ],
+   [
+    "1925-01-07",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1922",
+  "name_cell": "Charles A. Templeton {{Small|(1871–1955)}}"
+ },
+ {
+  "table": 1,
+  "name": "Hiram Bingham III",
+  "term_raw": "January 7, 1925 – January 8, 1925 {{small|(2 days; resigned)}}",
+  "dates": [
+   [
+    "1925-01-07",
+    "day"
+   ],
+   [
+    "1925-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1924",
+  "name_cell": "Hiram Bingham III {{Small|(1875–1956)}}"
+ },
+ {
+  "table": 1,
+  "name": "John H. Trumbull",
+  "term_raw": "January 8, 1925 – January 7, 1931 {{small|(2191 days; retired)}}",
+  "dates": [
+   [
+    "1925-01-08",
+    "day"
+   ],
+   [
+    "1931-01-07",
+    "day"
+   ],
+   [
+    "2191-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "John H. Trumbull {{Small|(1873–1961)}}"
+ },
+ {
+  "table": 1,
+  "name": "Wilbur Lucius Cross",
+  "term_raw": "January 7, 1931 – January 4, 1939 {{small|(2920 days; lost election)}}",
+  "dates": [
+   [
+    "1931-01-07",
+    "day"
+   ],
+   [
+    "1939-01-04",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1930",
+  "name_cell": "Wilbur Lucius Cross {{Small|(1862–1948)}}"
+ },
+ {
+  "table": 1,
+  "name": "Raymond E. Baldwin",
+  "term_raw": "January 4, 1939 – January 8, 1941 {{small|(736 days; lost election)}}",
+  "dates": [
+   [
+    "1939-01-04",
+    "day"
+   ],
+   [
+    "1941-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1938",
+  "name_cell": "Raymond E. Baldwin {{Small|(1893–1986)}}"
+ },
+ {
+  "table": 1,
+  "name": "Robert A. Hurley",
+  "term_raw": "January 8, 1941 – January 6, 1943 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1941-01-08",
+    "day"
+   ],
+   [
+    "1943-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1940",
+  "name_cell": "Robert A. Hurley {{Small|(1895–1968)}}"
+ },
+ {
+  "table": 1,
+  "name": "Raymond E. Baldwin",
+  "term_raw": "January 6, 1943 – December 27, 1946 {{small|(1452 days; resigned)}}",
+  "dates": [
+   [
+    "1943-01-06",
+    "day"
+   ],
+   [
+    "1946-12-27",
+    "day"
+   ],
+   [
+    "1452-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1942",
+  "name_cell": "Raymond E. Baldwin {{Small|(1893–1986)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles Wilbert Snow",
+  "term_raw": "December 27, 1946 – January 8, 1947 {{small|(13 days; retired)}}",
+  "dates": [
+   [
+    "1946-12-27",
+    "day"
+   ],
+   [
+    "1947-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "Charles Wilbert Snow {{Small|(1884–1977)}}"
+ },
+ {
+  "table": 1,
+  "name": "James L. McConaughy",
+  "term_raw": "January 8, 1947 – March 7, 1948 {{small|(425 days; died in office)}}",
+  "dates": [
+   [
+    "1947-01-08",
+    "day"
+   ],
+   [
+    "1948-03-07",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1946",
+  "name_cell": "James L. McConaughy {{Small|(1887–1948)}}"
+ },
+ {
+  "table": 1,
+  "name": "James C. Shannon",
+  "term_raw": "March 7, 1948 – January 5, 1949 {{small|(305 days; lost election)}}",
+  "dates": [
+   [
+    "1948-03-07",
+    "day"
+   ],
+   [
+    "1949-01-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "James C. Shannon {{Small|(1896–1980)}}"
+ },
+ {
+  "table": 1,
+  "name": "Chester B. Bowles",
+  "term_raw": "January 5, 1949 – January 3, 1951 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1949-01-05",
+    "day"
+   ],
+   [
+    "1951-01-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1948",
+  "name_cell": "Chester B. Bowles {{Small|(1901–1986)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Davis Lodge",
+  "term_raw": "January 3, 1951 – January 5, 1955 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1951-01-03",
+    "day"
+   ],
+   [
+    "1955-01-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1950",
+  "name_cell": "John Davis Lodge {{Small|(1903–1985)}}"
+ },
+ {
+  "table": 1,
+  "name": "Abraham Ribicoff",
+  "term_raw": "January 5, 1955 – January 21, 1961 {{small|(2209 days; resigned)}}",
+  "dates": [
+   [
+    "1955-01-05",
+    "day"
+   ],
+   [
+    "1961-01-21",
+    "day"
+   ],
+   [
+    "2209-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1954",
+  "name_cell": "Abraham Ribicoff {{Small|(1910–1998)}}"
+ },
+ {
+  "table": 1,
+  "name": "John N. Dempsey",
+  "term_raw": "January 21, 1961 – January 6, 1971 {{small|(3638 days; retired)}}",
+  "dates": [
+   [
+    "1961-01-21",
+    "day"
+   ],
+   [
+    "1971-01-06",
+    "day"
+   ],
+   [
+    "3638-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "John N. Dempsey {{Small|(1915–1989)}}"
+ },
+ {
+  "table": 1,
+  "name": "Thomas Meskill",
+  "term_raw": "January 6, 1971 – January 8, 1975 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1971-01-06",
+    "day"
+   ],
+   [
+    "1975-01-08",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1970",
+  "name_cell": "Thomas Meskill {{Small|(1928–2007)}}"
+ },
+ {
+  "table": 1,
+  "name": "Ella Grasso",
+  "term_raw": "January 8, 1975 – December 31, 1980 {{small|(2185 days; resigned)}}",
+  "dates": [
+   [
+    "1975-01-08",
+    "day"
+   ],
+   [
+    "1980-12-31",
+    "day"
+   ],
+   [
+    "2185-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1974",
+  "name_cell": "Ella Grasso {{Small|(1919–1981)}}"
+ },
+ {
+  "table": 1,
+  "name": "William A. O'Neill",
+  "term_raw": "December 31, 1980 – January 9, 1991 {{small|(3662 days; retired)}}",
+  "dates": [
+   [
+    "1980-12-31",
+    "day"
+   ],
+   [
+    "1991-01-09",
+    "day"
+   ],
+   [
+    "3662-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "William A. O'Neill {{Small|(1930–2007)}}"
+ },
+ {
+  "table": 1,
+  "name": "Lowell Weicker",
+  "term_raw": "January 9, 1991 – January 4, 1995 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1991-01-09",
+    "day"
+   ],
+   [
+    "1995-01-04",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "A Connecticut Party",
+  "acting_hint": false,
+  "succ_raw": "1990",
+  "name_cell": "Lowell Weicker {{Small|(1931–2023)}}"
+ },
+ {
+  "table": 1,
+  "name": "John G. Rowland",
+  "term_raw": "January 4, 1995 – July 1, 2004 {{small|(3467 days; resigned)}}",
+  "dates": [
+   [
+    "1995-01-04",
+    "day"
+   ],
+   [
+    "2004-07-01",
+    "day"
+   ],
+   [
+    "3467-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1994",
+  "name_cell": "John G. Rowland {{Small|({{Abbr|b.|born in}} 1957)}}"
+ },
+ {
+  "table": 1,
+  "name": "Jodi Rell",
+  "term_raw": "July 1, 2004 – January 5, 2011 {{small|(2380 days; retired)}}",
+  "dates": [
+   [
+    "2004-07-01",
+    "day"
+   ],
+   [
+    "2011-01-05",
+    "day"
+   ],
+   [
+    "2380-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Jodi Rell {{Small|(1946–2024)}}"
+ },
+ {
+  "table": 1,
+  "name": "Dannel Malloy",
+  "term_raw": "January 5, 2011 – January 9, 2019 {{small|(2927 days; retired)}}",
+  "dates": [
+   [
+    "2011-01-05",
+    "day"
+   ],
+   [
+    "2019-01-09",
+    "day"
+   ],
+   [
+    "2927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2010",
+  "name_cell": "Dannel Malloy {{Small|({{Abbr|b.|born in}} 1955)}}"
+ },
+ {
+  "table": 1,
+  "name": "Ned Lamont",
+  "term_raw": "2019|1|9|duration=on|format=no}}\"|January 9, 2019 – Incumbent {{small|(in office {{Duration in days nts|2019|1|9|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2019-01-01",
+    "year"
+   ],
+   [
+    "2019-01-09",
+    "day"
+   ],
+   [
+    "2019-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2018",
+  "name_cell": "Ned Lamont {{Small|({{Abbr|b.|born in}} 1954)}}"
+ }
+]

@@ -1,0 +1,1316 @@
+[
+ {
+  "table": 1,
+  "name": "James Miller",
+  "term_raw": "March 3, 1819 – December 27, 1824 {{small|(2127 days; resigned)}}",
+  "dates": [
+   [
+    "1819-03-03",
+    "day"
+   ],
+   [
+    "1824-12-27",
+    "day"
+   ],
+   [
+    "2127-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|James|Monroe}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "James Miller {{Small|(1776–1851)}}"
+ },
+ {
+  "table": 1,
+  "name": "George Izard",
+  "term_raw": "March 3, 1825 – November 22, 1828 {{small|(1361 days; died in office)}}",
+  "dates": [
+   [
+    "1825-03-03",
+    "day"
+   ],
+   [
+    "1828-11-22",
+    "day"
+   ],
+   [
+    "1361-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|James|Monroe}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "George Izard {{Small|(1776–1828)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Pope",
+  "term_raw": "March 9, 1829 – March 9, 1835 {{small|(2192 days; replaced)}}",
+  "dates": [
+   [
+    "1829-03-09",
+    "day"
+   ],
+   [
+    "1835-03-09",
+    "day"
+   ],
+   [
+    "2192-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Andrew|Jackson}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Pope {{Small|(1770–1845)}}"
+ },
+ {
+  "table": 1,
+  "name": "William S. Fulton",
+  "term_raw": "March 9, 1835 – September 13, 1836 {{small|(555 days; statehood)}}",
+  "dates": [
+   [
+    "1835-03-09",
+    "day"
+   ],
+   [
+    "1836-09-13",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Andrew|Jackson}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "William S. Fulton {{Small|(1795–1844)}}"
+ },
+ {
+  "table": 2,
+  "name": "James Sevier Conway",
+  "term_raw": "September 13, 1836 – November 4, 1840 {{small|(1514 days; retired)}}",
+  "dates": [
+   [
+    "1836-09-13",
+    "day"
+   ],
+   [
+    "1840-11-04",
+    "day"
+   ],
+   [
+    "1514-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1836",
+  "name_cell": "James Sevier Conway {{Small|(1796–1855)}}"
+ },
+ {
+  "table": 2,
+  "name": "Archibald Yell",
+  "term_raw": "November 4, 1840 – April 29, 1844 {{small|(1273 days; resigned)}}",
+  "dates": [
+   [
+    "1840-11-04",
+    "day"
+   ],
+   [
+    "1844-04-29",
+    "day"
+   ],
+   [
+    "1273-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1840",
+  "name_cell": "Archibald Yell {{Small|(1797–1847)}}"
+ },
+ {
+  "table": 2,
+  "name": "Samuel Adams",
+  "term_raw": "April 29, 1844 – November 9, 1844 {{small|(195 days; retired)}}",
+  "dates": [
+   [
+    "1844-04-29",
+    "day"
+   ],
+   [
+    "1844-11-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Samuel Adams {{Small|(1805–1850)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas S. Drew",
+  "term_raw": "November 9, 1844 – January 10, 1849 {{small|(1524 days; resigned)}}",
+  "dates": [
+   [
+    "1844-11-09",
+    "day"
+   ],
+   [
+    "1849-01-10",
+    "day"
+   ],
+   [
+    "1524-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1844",
+  "name_cell": "Thomas S. Drew {{Small|(1802–1879)}}"
+ },
+ {
+  "table": 2,
+  "name": "Richard C. Byrd",
+  "term_raw": "January 10, 1849 – April 19, 1849 {{small|(100 days; retired)}}",
+  "dates": [
+   [
+    "1849-01-10",
+    "day"
+   ],
+   [
+    "1849-04-19",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Richard C. Byrd {{Small|(1805–1854)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Selden Roane",
+  "term_raw": "April 19, 1849 – November 15, 1852 {{small|(1307 days; retired)}}",
+  "dates": [
+   [
+    "1849-04-19",
+    "day"
+   ],
+   [
+    "1852-11-15",
+    "day"
+   ],
+   [
+    "1307-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1849 {{small|(special)}}",
+  "name_cell": "John Selden Roane {{Small|(1817–1867)}}"
+ },
+ {
+  "table": 2,
+  "name": "Elias Nelson Conway",
+  "term_raw": "November 15, 1852 – November 15, 1860 {{small|(2923 days; term-limited)}}",
+  "dates": [
+   [
+    "1852-11-15",
+    "day"
+   ],
+   [
+    "1860-11-15",
+    "day"
+   ],
+   [
+    "2923-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1852",
+  "name_cell": "Elias Nelson Conway {{Small|(1812–1892)}}"
+ },
+ {
+  "table": 2,
+  "name": "Henry Rector",
+  "term_raw": "November 15, 1860 – November 3, 1862 {{small|(719 days; resigned)}}",
+  "dates": [
+   [
+    "1860-11-15",
+    "day"
+   ],
+   [
+    "1862-11-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Independent Democratic",
+  "acting_hint": false,
+  "succ_raw": "1860",
+  "name_cell": "Henry Rector {{Small|(1816–1899)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas Fletcher",
+  "term_raw": "November 3, 1862 – November 15, 1862 {{small|(13 days; retired)}}",
+  "dates": [
+   [
+    "1862-11-03",
+    "day"
+   ],
+   [
+    "1862-11-15",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Thomas Fletcher {{Small|(1817–1880)}}"
+ },
+ {
+  "table": 2,
+  "name": "Harris Flanagin",
+  "term_raw": "November 15, 1862 – June 1, 1865 {{small|(930 days; government-in-exile disestablished)}}",
+  "dates": [
+   [
+    "1862-11-15",
+    "day"
+   ],
+   [
+    "1865-06-01",
+    "day"
+   ]
+  ],
+  "party_raw": "Independent",
+  "acting_hint": false,
+  "succ_raw": "1862",
+  "name_cell": "Harris Flanagin {{Small|(1817–1874)}}"
+ },
+ {
+  "table": 2,
+  "name": "Isaac Murphy",
+  "term_raw": "January 20, 1864 – July 2, 1868 {{small|(1626 days; retired)}}",
+  "dates": [
+   [
+    "1864-01-20",
+    "day"
+   ],
+   [
+    "1868-07-02",
+    "day"
+   ],
+   [
+    "1626-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Independent",
+  "acting_hint": false,
+  "succ_raw": "{{small|Provisional governor appointed by constitutional convention}}",
+  "name_cell": "Isaac Murphy {{Small|({{Abbr|d.|died in}} 1882)}}"
+ },
+ {
+  "table": 2,
+  "name": "Powell Clayton",
+  "term_raw": "July 2, 1868 – March 17, 1871 {{small|(989 days; resigned)}}",
+  "dates": [
+   [
+    "1868-07-02",
+    "day"
+   ],
+   [
+    "1871-03-17",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1868",
+  "name_cell": "Powell Clayton {{Small|(1833–1914)}}"
+ },
+ {
+  "table": 2,
+  "name": "Ozra Amander Hadley",
+  "term_raw": "March 17, 1871 – January 6, 1873 {{small|(662 days, retired)}}",
+  "dates": [
+   [
+    "1871-03-17",
+    "day"
+   ],
+   [
+    "1873-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Ozra Amander Hadley {{Small|(1826–1915)}}"
+ },
+ {
+  "table": 2,
+  "name": "Elisha Baxter",
+  "term_raw": "January 6, 1873 – November 12, 1874 {{small|(676 days; retired)}}",
+  "dates": [
+   [
+    "1873-01-06",
+    "day"
+   ],
+   [
+    "1874-11-12",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1872",
+  "name_cell": "Elisha Baxter {{Small|(1827–1899)}}"
+ },
+ {
+  "table": 2,
+  "name": "Augustus H. Garland",
+  "term_raw": "November 12, 1874 – January 11, 1877 {{small|(792 days; retired)}}",
+  "dates": [
+   [
+    "1874-11-12",
+    "day"
+   ],
+   [
+    "1877-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1874",
+  "name_cell": "Augustus H. Garland {{Small|(1832–1899)}}"
+ },
+ {
+  "table": 2,
+  "name": "William Read Miller",
+  "term_raw": "January 11, 1877 – January 13, 1881 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1877-01-11",
+    "day"
+   ],
+   [
+    "1881-01-13",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1876",
+  "name_cell": "William Read Miller {{Small|(1823–1887)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas James Churchill",
+  "term_raw": "January 13, 1881 – January 13, 1883 {{small|(731 days; retired)}}",
+  "dates": [
+   [
+    "1881-01-13",
+    "day"
+   ],
+   [
+    "1883-01-13",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1880",
+  "name_cell": "Thomas James Churchill {{Small|(1824–1905)}}"
+ },
+ {
+  "table": 2,
+  "name": "James H. Berry",
+  "term_raw": "January 13, 1883 – January 15, 1885 {{small|(734 days; retired)}}",
+  "dates": [
+   [
+    "1883-01-13",
+    "day"
+   ],
+   [
+    "1885-01-15",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1882",
+  "name_cell": "James H. Berry {{Small|(1841–1913)}}"
+ },
+ {
+  "table": 2,
+  "name": "Simon P. Hughes Jr.",
+  "term_raw": "January 15, 1885 – January 17, 1889 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1885-01-15",
+    "day"
+   ],
+   [
+    "1889-01-17",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1884",
+  "name_cell": "Simon P. Hughes Jr. {{Small|(1830–1906)}}"
+ },
+ {
+  "table": 2,
+  "name": "James Philip Eagle",
+  "term_raw": "January 17, 1889 – January 14, 1893 {{small|(1459 days; retired)}}",
+  "dates": [
+   [
+    "1889-01-17",
+    "day"
+   ],
+   [
+    "1893-01-14",
+    "day"
+   ],
+   [
+    "1459-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1888",
+  "name_cell": "James Philip Eagle {{Small|(1837–1904)}}"
+ },
+ {
+  "table": 2,
+  "name": "William Meade Fishback",
+  "term_raw": "January 14, 1893 – January 18, 1895 {{small|(735 days; retired)}}",
+  "dates": [
+   [
+    "1893-01-14",
+    "day"
+   ],
+   [
+    "1895-01-18",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1892",
+  "name_cell": "William Meade Fishback {{Small|(1831–1903)}}"
+ },
+ {
+  "table": 2,
+  "name": "James P. Clarke",
+  "term_raw": "January 18, 1895 – January 18, 1897 {{small|(732 days; retired)}}",
+  "dates": [
+   [
+    "1895-01-18",
+    "day"
+   ],
+   [
+    "1897-01-18",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1894",
+  "name_cell": "James P. Clarke {{Small|(1854–1916)}}"
+ },
+ {
+  "table": 2,
+  "name": "Daniel Webster Jones",
+  "term_raw": "January 18, 1897 – January 18, 1901 {{small|(1461 days; retired)}}",
+  "dates": [
+   [
+    "1897-01-18",
+    "day"
+   ],
+   [
+    "1901-01-18",
+    "day"
+   ],
+   [
+    "1461-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1896",
+  "name_cell": "Daniel Webster Jones {{Small|(1839–1918)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jeff Davis",
+  "term_raw": "January 18, 1901 – January 18, 1907 {{small|(2192 days; retired)}}",
+  "dates": [
+   [
+    "1901-01-18",
+    "day"
+   ],
+   [
+    "1907-01-18",
+    "day"
+   ],
+   [
+    "2192-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1900",
+  "name_cell": "Jeff Davis {{Small|(1862–1913)}}"
+ },
+ {
+  "table": 2,
+  "name": "John S. Little",
+  "term_raw": "January 18, 1907 – February 11, 1907 {{small|(25 days; resigned)}}",
+  "dates": [
+   [
+    "1907-01-18",
+    "day"
+   ],
+   [
+    "1907-02-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1906",
+  "name_cell": "John S. Little {{Small|(1851–1916)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Isaac Moore",
+  "term_raw": "February 11, 1907 – May 14, 1907 {{small|(93 days; legislature adjourned)}}",
+  "dates": [
+   [
+    "1907-02-11",
+    "day"
+   ],
+   [
+    "1907-05-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "John Isaac Moore {{Small|(1856–1937)}}"
+ },
+ {
+  "table": 2,
+  "name": "Xenophon Overton Pindall",
+  "term_raw": "May 14, 1907 – January 11, 1909 {{small|(609 days; senate term expired)}}",
+  "dates": [
+   [
+    "1907-05-14",
+    "day"
+   ],
+   [
+    "1909-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Xenophon Overton Pindall {{Small|(1873–1935)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jesse M. Martin",
+  "term_raw": "January 11, 1909 – January 14, 1909 {{small|(4 days; retired)}}",
+  "dates": [
+   [
+    "1909-01-11",
+    "day"
+   ],
+   [
+    "1909-01-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Jesse M. Martin {{Small|(1877–1915)}}"
+ },
+ {
+  "table": 2,
+  "name": "George Washington Donaghey",
+  "term_raw": "January 14, 1909 – January 16, 1913 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1909-01-14",
+    "day"
+   ],
+   [
+    "1913-01-16",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1908",
+  "name_cell": "George Washington Donaghey {{Small|(1856–1937)}}"
+ },
+ {
+  "table": 2,
+  "name": "Joseph T. Robinson",
+  "term_raw": "January 16, 1913 – March 8, 1913 {{small|(52 days; resigned)}}",
+  "dates": [
+   [
+    "1913-01-16",
+    "day"
+   ],
+   [
+    "1913-03-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1912",
+  "name_cell": "Joseph T. Robinson {{Small|(1872–1937)}}"
+ },
+ {
+  "table": 2,
+  "name": "William Kavanaugh Oldham",
+  "term_raw": "March 8, 1913 – March 13, 1913 {{small|(6 days; new president of the senate elected)}}",
+  "dates": [
+   [
+    "1913-03-08",
+    "day"
+   ],
+   [
+    "1913-03-13",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "William Kavanaugh Oldham {{Small|(1865–1938)}}"
+ },
+ {
+  "table": 2,
+  "name": "Junius Marion Futrell",
+  "term_raw": "March 13, 1913 – August 6, 1913 {{small|(147 days; retired)}}",
+  "dates": [
+   [
+    "1913-03-13",
+    "day"
+   ],
+   [
+    "1913-08-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Junius Marion Futrell {{Small|(1870–1955)}}"
+ },
+ {
+  "table": 2,
+  "name": "George Washington Hays",
+  "term_raw": "August 6, 1913 – January 10, 1917 {{small|(1254 days; retired)}}",
+  "dates": [
+   [
+    "1913-08-06",
+    "day"
+   ],
+   [
+    "1917-01-10",
+    "day"
+   ],
+   [
+    "1254-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1913 {{small|(special)}}",
+  "name_cell": "George Washington Hays {{Small|(1863–1927)}}"
+ },
+ {
+  "table": 2,
+  "name": "Charles Hillman Brough",
+  "term_raw": "January 10, 1917 – January 12, 1921 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1917-01-10",
+    "day"
+   ],
+   [
+    "1921-01-12",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1916",
+  "name_cell": "Charles Hillman Brough {{Small|(1876–1935)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas C. McRae",
+  "term_raw": "January 12, 1921 – January 14, 1925 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1921-01-12",
+    "day"
+   ],
+   [
+    "1925-01-14",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1920",
+  "name_cell": "Thomas C. McRae {{Small|(1851–1929)}}"
+ },
+ {
+  "table": 2,
+  "name": "Tom Terral",
+  "term_raw": "January 14, 1925 – January 11, 1927 {{small|(728 days; lost nomination)}}",
+  "dates": [
+   [
+    "1925-01-14",
+    "day"
+   ],
+   [
+    "1927-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1924",
+  "name_cell": "Tom Terral {{Small|(1882–1946)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Ellis Martineau",
+  "term_raw": "January 11, 1927 – March 14, 1928 {{small|(429 days; resigned)}}",
+  "dates": [
+   [
+    "1927-01-11",
+    "day"
+   ],
+   [
+    "1928-03-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1926",
+  "name_cell": "John Ellis Martineau {{Small|(1873–1937)}}"
+ },
+ {
+  "table": 2,
+  "name": "Harvey Parnell",
+  "term_raw": "March 14, 1928 – January 10, 1933 {{small|(1764 days; retired)}}",
+  "dates": [
+   [
+    "1928-03-14",
+    "day"
+   ],
+   [
+    "1933-01-10",
+    "day"
+   ],
+   [
+    "1764-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Harvey Parnell {{Small|(1880–1936)}}"
+ },
+ {
+  "table": 2,
+  "name": "Junius Marion Futrell",
+  "term_raw": "January 10, 1933 – January 12, 1937 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1933-01-10",
+    "day"
+   ],
+   [
+    "1937-01-12",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1932",
+  "name_cell": "Junius Marion Futrell {{Small|(1870–1955)}}"
+ },
+ {
+  "table": 2,
+  "name": "Carl E. Bailey",
+  "term_raw": "January 12, 1937 – January 14, 1941 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1937-01-12",
+    "day"
+   ],
+   [
+    "1941-01-14",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1936",
+  "name_cell": "Carl E. Bailey {{Small|(1894–1948)}}"
+ },
+ {
+  "table": 2,
+  "name": "Homer Martin Adkins",
+  "term_raw": "January 14, 1941 – January 9, 1945 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1941-01-14",
+    "day"
+   ],
+   [
+    "1945-01-09",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1940",
+  "name_cell": "Homer Martin Adkins {{Small|(1890–1964)}}"
+ },
+ {
+  "table": 2,
+  "name": "Benjamin T. Laney",
+  "term_raw": "January 9, 1945 – January 11, 1949 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1945-01-09",
+    "day"
+   ],
+   [
+    "1949-01-11",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1944",
+  "name_cell": "Benjamin T. Laney {{Small|(1896–1977)}}"
+ },
+ {
+  "table": 2,
+  "name": "Sid McMath",
+  "term_raw": "January 11, 1949 – January 13, 1953 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1949-01-11",
+    "day"
+   ],
+   [
+    "1953-01-13",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1948",
+  "name_cell": "Sid McMath {{Small|(1912–2003)}}"
+ },
+ {
+  "table": 2,
+  "name": "Francis Cherry",
+  "term_raw": "January 13, 1953 – January 11, 1955 {{small|(729 days; lost nomination)}}",
+  "dates": [
+   [
+    "1953-01-13",
+    "day"
+   ],
+   [
+    "1955-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1952",
+  "name_cell": "Francis Cherry {{Small|(1908–1965)}}"
+ },
+ {
+  "table": 2,
+  "name": "Orval Faubus",
+  "term_raw": "January 11, 1955 – January 10, 1967 {{small|(4383 days; retired)}}",
+  "dates": [
+   [
+    "1955-01-11",
+    "day"
+   ],
+   [
+    "1967-01-10",
+    "day"
+   ],
+   [
+    "4383-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1954",
+  "name_cell": "Orval Faubus {{Small|(1910–1994)}}"
+ },
+ {
+  "table": 2,
+  "name": "Winthrop Rockefeller",
+  "term_raw": "January 10, 1967 – January 12, 1971 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1967-01-10",
+    "day"
+   ],
+   [
+    "1971-01-12",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1966",
+  "name_cell": "Winthrop Rockefeller {{Small|(1912–1973)}}"
+ },
+ {
+  "table": 2,
+  "name": "Dale Bumpers",
+  "term_raw": "January 12, 1971 – January 3, 1975 {{small|(1453 days; resigned)}}",
+  "dates": [
+   [
+    "1971-01-12",
+    "day"
+   ],
+   [
+    "1975-01-03",
+    "day"
+   ],
+   [
+    "1453-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1970",
+  "name_cell": "Dale Bumpers {{Small|(1925–2016)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bob C. Riley",
+  "term_raw": "January 3, 1975 – January 14, 1975 {{small|(12 days; retired)}}",
+  "dates": [
+   [
+    "1975-01-03",
+    "day"
+   ],
+   [
+    "1975-01-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Bob C. Riley {{Small|(1924–1994)}}"
+ },
+ {
+  "table": 2,
+  "name": "David Pryor",
+  "term_raw": "January 14, 1975 – January 3, 1979 {{small|(1451 days; resigned)}}",
+  "dates": [
+   [
+    "1975-01-14",
+    "day"
+   ],
+   [
+    "1979-01-03",
+    "day"
+   ],
+   [
+    "1451-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1974",
+  "name_cell": "David Pryor {{Small|(1934–2024)}}"
+ },
+ {
+  "table": 2,
+  "name": "Joe Purcell",
+  "term_raw": "January 3, 1979 – January 9, 1979 {{small|(7 days; retired)}}",
+  "dates": [
+   [
+    "1979-01-03",
+    "day"
+   ],
+   [
+    "1979-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Joe Purcell {{Small|(1923–1987)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bill Clinton",
+  "term_raw": "January 9, 1979 – January 13, 1981 {{small|(736 days; lost election)}}",
+  "dates": [
+   [
+    "1979-01-09",
+    "day"
+   ],
+   [
+    "1981-01-13",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1978",
+  "name_cell": "Bill Clinton {{Small|({{Abbr|b.|born in}} 1946)}}"
+ },
+ {
+  "table": 2,
+  "name": "Frank D. White",
+  "term_raw": "January 13, 1981 – January 11, 1983 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1981-01-13",
+    "day"
+   ],
+   [
+    "1983-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1980",
+  "name_cell": "Frank D. White {{Small|(1933–2003)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bill Clinton",
+  "term_raw": "January 11, 1983 – December 12, 1992 {{small|(3624 days; resigned)}}",
+  "dates": [
+   [
+    "1983-01-11",
+    "day"
+   ],
+   [
+    "1992-12-12",
+    "day"
+   ],
+   [
+    "3624-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1982",
+  "name_cell": "Bill Clinton {{Small|({{Abbr|b.|born in}} 1946)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jim Guy Tucker",
+  "term_raw": "December 12, 1992 – July 15, 1996 {{small|(1312 days; resigned)}}",
+  "dates": [
+   [
+    "1992-12-12",
+    "day"
+   ],
+   [
+    "1996-07-15",
+    "day"
+   ],
+   [
+    "1312-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Jim Guy Tucker {{Small|(1943–2025)}}"
+ },
+ {
+  "table": 2,
+  "name": "Mike Huckabee",
+  "term_raw": "July 15, 1996 – January 9, 2007 {{small|(3831 days; term-limited)}}",
+  "dates": [
+   [
+    "1996-07-15",
+    "day"
+   ],
+   [
+    "2007-01-09",
+    "day"
+   ],
+   [
+    "3831-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Mike Huckabee {{Small|({{Abbr|b.|born in}} 1955)}}"
+ },
+ {
+  "table": 2,
+  "name": "Mike Beebe",
+  "term_raw": "January 9, 2007 – January 13, 2015 {{small|(2927 days; term-limited)}}",
+  "dates": [
+   [
+    "2007-01-09",
+    "day"
+   ],
+   [
+    "2015-01-13",
+    "day"
+   ],
+   [
+    "2927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2006",
+  "name_cell": "Mike Beebe {{Small|({{Abbr|b.|born in}} 1946)}}"
+ },
+ {
+  "table": 2,
+  "name": "Asa Hutchinson",
+  "term_raw": "January 13, 2015 – January 10, 2023 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "2015-01-13",
+    "day"
+   ],
+   [
+    "2023-01-10",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2014",
+  "name_cell": "Asa Hutchinson {{Small|({{Abbr|b.|born in}} 1950)}}"
+ },
+ {
+  "table": 2,
+  "name": "Sarah Huckabee Sanders",
+  "term_raw": "2023|1|10|duration=on|format=no}}\"|January 10, 2023 – Incumbent {{small|(in office {{Duration in days nts|2023|1|10|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2023-01-01",
+    "year"
+   ],
+   [
+    "2023-01-10",
+    "day"
+   ],
+   [
+    "2023-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2022",
+  "name_cell": "Sarah Huckabee Sanders {{Small|({{Abbr|b.|born in}} 1982)}}"
+ }
+]

@@ -1,0 +1,1583 @@
+{{Short description|Politics in the US state of California}}
+{{more citations needed|date=January 2021}}
+{{align|right|{{Switcher |[[File:California 2025 Voter Registration by County.svg|250px]]|Voter registration by county |[[File:CA 2025 Voter Registration by CD.svg|250px]]|Voter registration by congressional district |[[File:CA 2025 Voter Registration by SS.svg|350px]]|Voter registration by state senate district |[[File:CA 2025 Voter Registration by SA.svg|350px]]|Voter registration by state assembly district<br>{{collapsible list|title = Legend:|{{legend|#BDD3FF|30–40%}} |
+{{legend|#A5B0FF|40–50%}} |
+{{legend|#7996E2|50–60%}} |
+{{legend|#6674DE|60–70%}} |
+{{legend|#FFC8CD|30–40%}} |
+{{legend|#FFB2B2|40–50%}} |
+{{legend|#E27F7F|50–60%}} |}}}}}}
+
+California was a former [[Republican Party (United States)|Republican]] leaning state until the 1990s, but since then has become a [[Red states and blue states|stronghold]] of the  [[Democratic Party (United States)|Democratic]] and considered to be one of the "Big Three" Democratic strongholds alongside [[Political party strength in New York (state)|New York]] and [[Political party strength in Illinois|Illinois]]. Originally a [[swing state]] following statehood, California began regularly supporting Republicans for the first half of the 20th century. Republican dominance waned with demographic change, accelerating with increased immigration beginning in the 1980s. The party remained competitive with Democratic candidates until [[1992 United States presidential election|1992]]. This changed amidst a struggling economy, when California flipped from Republican to elect Democrat [[Bill Clinton]] as President. Republicans still won statewide contests in the state until the late 2000s, with [[Arnold Schwarzenegger]] elected governor.
+
+==Party affiliation==
+===Current===
+{|class=wikitable
+|+ Party registration as of May 18, 2026<ref>{{cite web|title=Report of Registration as of May 18, 2026|url=https://elections.cdn.sos.ca.gov/ror/15day-primary-2026/county.pdf|publisher=California Secretary of State|access-date=May 31, 2026}}</ref>
+|-
+!colspan=2 |Party
+!Number<br>of voters
+!Fraction
+|-
+|{{party color cell|Democratic Party (United States)}}
+|[[California Democratic Party|Democratic]]
+|10,397,692
+|44.90%
+|-
+|{{party color cell|Republican Party (United States)}}
+|[[California Republican Party|Republican]]
+|5,779,786
+|24.96%
+|-
+|{{party color cell|Independent politician}}
+|[[Independent voter|No Party Affiliation]]
+|5,284,968
+|22.82%
+|-
+|{{party color cell|American Independent Party}}
+|[[American Independent Party|American Independent]]
+|965,068
+|4.17%
+|-
+|{{party color cell|Libertarian Party (United States)}}
+|[[Libertarian Party of California|Libertarian]]
+|231,107
+|1.00%
+|-
+|{{party color cell|Peace and Freedom Party}}
+|[[Peace and Freedom Party|Peace and Freedom]]
+|154,305
+|0.67%
+|-
+|{{party color cell|Green Party of California}}
+|[[Green Party of California|Green]]
+|113,790
+|0.49%
+|-
+|{{party color cell|Independent politician}}
+|Others
+|228,731
+|1.00%
+|-
+!colspan=2 |Total
+!align="center" |23,155,447
+!align="center" |100.0%
+|}
+
+===Historically===
+{|class="wikitable sortable" style="text-align: center; font-size: 80%;"
+|+Political party registration by year<ref>{{cite web|title=Report of Registration|url=https://www.sos.ca.gov/elections/report-registration|publisher=California Secretary of State|access-date=May 31, 2026}}</ref>{{efn|Data taken from the February of each year}}
+|-
+!rowspan=2 |Year
+![[California Democratic Party|DEM]]
+![[Republican Party of Florida|REP]]
+![[American Independent Party|AIP]]
+![[Green Party of California|GRE]]
+![[Libertarian Party of California|LP]]
+![[Natural Law Party|NLP]]
+![[Peace and Freedom Party|PFP]]
+![[Reform Party of the United States of America|RP]]
+!rowspan=2 |''Others''
+![[Independent politician|Independent]]
+!rowspan=2 |Total
+|-
+!style="background:{{party color|Democratic Party (United States)}};" |
+!style="background:{{party color|Republican Party (United States)}};" |
+!style="background:{{party color|American Independent Party}};" |
+!style="background:{{party color|Green Party (United States)}};" |
+!style="background:{{party color|Libertarian Party (United States)}};" |
+!style="background:{{party color|Natural Law Party}};" |
+!style="background:{{party color|Peace and Freedom Party}};" |
+!style="background:{{party color|Reform Party of the United States of America}};" |
+!style="background:{{party color|Independent politician}};" |
+|-
+|2026
+|{{Party shading/Democratic}} |'''10,382,269'''
+|5,784,486
+|959,354
+|113,205
+|231,356
+|colspan=1 style="background:#ccc; |–
+|152,497
+|colspan=1 style="background:#ccc; |–
+|229,879
+|5,259,808
+|23,112,854
+
+|-
+|2025
+|{{Party shading/Democratic}} |'''10,367,321'''
+|5,776,356
+|896,260
+|110,649
+|233,052
+|colspan=1 style="background:#ccc; |–
+|141,785
+|colspan=1 style="background:#ccc; |–
+|258,490
+|5,116,983
+|22,900,896
+
+|-
+|2024
+|{{Party shading/Democratic}} |'''10,285,108'''
+|5,388,479
+|834,730
+|102,659
+|240,618
+|colspan=1 style="background:#ccc; |–
+|138,238
+|colspan=1 style="background:#ccc; |–
+|264,954
+|4,822,547
+|22,077,333
+
+|-
+|2023
+|{{Party shading/Democratic}} |'''10,305,901'''
+|5,236,952
+|793,272
+|97,253
+|234,743
+|colspan=1 style="background:#ccc; |–
+|125,196
+|colspan=1 style="background:#ccc; |–
+|246,137
+|4,941,314
+|21,980,768
+
+|-
+|2022
+|{{Party shading/Democratic}} |'''10,275,371'''
+|5,271,141
+|731,426
+|89,997
+|219,512
+|colspan=1 style="background:#ccc; |–
+|113,278
+|colspan=1 style="background:#ccc; |–
+|264,890
+|5,039,628
+|22,005,243
+
+|-
+|2021
+|{{Party shading/Democratic}} |'''10,228,144'''
+|5,347,377
+|680,573
+|85,828
+|204,345
+|colspan=1 style="background:#ccc; |–
+|105,535
+|colspan=1 style="background:#ccc; |–
+|244,279
+|5,258,223
+|22,154,304
+
+|-
+|2020
+|{{Party shading/Democratic}} |'''9,361,582'''
+|4,937,986
+|600,057
+|83,281
+|175,352
+|colspan=1 style="background:#ccc; |–
+|95,242
+|colspan=1 style="background:#ccc; |–
+|225,174
+|5,181,791
+|20,660,465
+
+|-
+|2019
+|{{Party shading/Democratic}} |'''8,612,368'''
+|4,709,851
+|517,872
+|88,771
+|153,348
+|colspan=1 style="background:#ccc; |–
+|76,784
+|colspan=1 style="background:#ccc; |–
+|173,790
+|5,645,665
+|19,978,449
+
+|-
+|2018
+|{{Party shading/Democratic}} |'''8,405,464'''
+|4,763,967
+|502,304
+|90,459
+|139,620
+|colspan=1 style="background:#ccc; |–
+|73,962
+|colspan=1 style="background:#ccc; |–
+|143,735
+|4,735,318
+|18,854,829
+
+|-
+|2017
+|{{Party shading/Democratic}} |'''8,700,440'''
+|5,027,714
+|510,486
+|94,720
+|141,461
+|colspan=1 style="background:#ccc; |–
+|76,021
+|colspan=1 style="background:#ccc; |–
+|119,555
+|4,762,212
+|19,432,609
+
+|-
+|2016
+|{{Party shading/Democratic}} |'''7,438,655'''
+|4,767,259
+|472,019
+|102,688
+|120,578
+|colspan=1 style="background:#ccc; |–
+|75,579
+|colspan=1 style="background:#ccc; |–
+|140,775
+|4,141,860
+|17,259,413
+
+|-
+|2015
+|{{Party shading/Democratic}} |'''7,645,173'''
+|4,958,225
+|480,124
+|109,836
+|121,876
+|colspan=1 style="background:#ccc; |–
+|78,295
+|colspan=1 style="background:#ccc; |–
+|148,764
+|4,175,643
+|17,717,936
+
+|-
+|2014
+|{{Party shading/Democratic}} |'''7,678,424'''
+|5,041,564
+|472,536
+|109,157
+|114,656
+|colspan=1 style="background:#ccc; |–
+|77,594
+|colspan=1 style="background:#ccc; |–
+|444,020
+|3,718,931
+|17,660,486
+
+|-
+|2013
+|{{Party shading/Democratic}} |'''7,932,373'''
+|5,225,675
+|476,157
+|112,973
+|109,636
+|colspan=1 style="background:#ccc; |–
+|61,612
+|colspan=1 style="background:#ccc; |–
+|367,483
+|3,766,457
+|18,055,783
+
+|-
+|2012
+|{{Party shading/Democratic}} |'''7,429,684'''
+|5,170,592
+|428,560
+|111,319
+|93,300
+|colspan=1 style="background:#ccc; |–
+|59,012
+|colspan=1 style="background:#ccc; |–
+|115,192
+|3,617,466
+|17,028,290
+
+|-
+|2011
+|{{Party shading/Democratic}} |'''7,569,581'''
+|5,307,411
+|417,567
+|113,118
+|92,246
+|colspan=1 style="background:#ccc; |–
+|58,470
+|colspan=1 style="background:#ccc; |–
+|121,019
+|3,507,119
+|17,186,531
+
+|-
+|2010
+|{{Party shading/Democratic}} |'''7,545,617'''
+|5,199,961
+|382,380
+|111,395
+|84,462
+|colspan=1 style="background:#ccc; |–
+|55,036
+|colspan=1 style="background:#ccc; |–
+|118,194
+|3,412,529
+|16,909,574
+
+|-
+|2009
+|{{Party shading/Democratic}} |'''7,716,790'''
+|5,397,434
+|376,849
+|116,048
+|83,786
+|colspan=1 style="background:#ccc; |–
+|56,116
+|colspan=1 style="background:#ccc; |–
+|121,907
+|3,465,345
+|17,334,275
+
+|-
+|2008
+|{{Party shading/Democratic}} |'''6,749,406'''
+|5,229,425
+|328,261
+|127,042
+|80,435
+|colspan=1 style="background:#ccc; |–
+|57,182
+|colspan=1 style="background:#ccc; |–
+|97,838
+|3,043,164
+|15,712,753
+
+|-
+|2007
+|{{Party shading/Democratic}} |'''6,667,437'''
+|5,362,473
+|313,461
+|138,861
+|83,420
+|colspan=1 style="background:#ccc; |–
+|58,264
+|colspan=1 style="background:#ccc; |–
+|105,028
+|2,953,414
+|15,682,358
+
+|-
+|2006
+|{{Party shading/Democratic}} |'''6,747,602'''
+|5,483,104
+|310,987
+|145,786
+|83,465
+|23,645
+|59,193
+|colspan=1 style="background:#ccc; |–
+|82,394
+|2,874,236
+|15,810,412
+
+|-
+|2005
+|{{Party shading/Democratic}} |'''7,156,449'''
+|5,734,536
+|330,082
+|157,565
+|89,328
+|28,571
+|67,238
+|colspan=1 style="background:#ccc; |–
+|91,587
+|2,973,317
+|16,628,673
+
+|-
+|2004
+|{{Party shading/Democratic}} |'''6,518,631'''
+|5,364,832
+|291,055
+|157,749
+|86,053
+|30,597
+|70,475
+|colspan=1 style="background:#ccc; |–
+|91,729
+|2,480,039
+|15,091,160
+
+|-
+|2003
+|{{Party shading/Democratic}} |'''6,733,858'''
+|5,341,974
+|295,060
+|156,803
+|89,356
+|42,656
+|colspan=1 style="background:#ccc; |–
+|colspan=1 style="background:#ccc; |–
+|184,117
+|2,324,439
+|15,168,263
+
+|-
+|2002
+|{{Party shading/Democratic}} |'''6,867,529'''
+|5,332,482
+|308,009
+|144,396
+|91,986
+|50,059
+|colspan=1 style="background:#ccc; |–
+|74,050
+|132,504
+|2,237,532
+|15,232,154
+
+|-
+|2001
+|{{Party shading/Democratic}} |'''7,099,243'''
+|5,414,933
+|317,382
+|141,637
+|93,360
+|54,013
+|colspan=1 style="background:#ccc; |–
+|74,050
+|134,527
+|2,248,541
+|15,577,686
+
+|-
+|2000
+|{{Party shading/Democratic}} |'''6,684,668'''
+|5,140,951
+|295,387
+|108,904
+|87,183
+|62,183
+|colspan=1 style="background:#ccc; |–
+|85,869
+|133,997
+|2,032,663
+|14,631,805
+
+|-
+|1999
+|{{Party shading/Democratic}} |'''6,939,917'''
+|5,238,394
+|291,922
+|98,350
+|82,339
+|64,068
+|colspan=1 style="background:#ccc; |–
+|colspan=1 style="background:#ccc; |–
+|223,691
+|1,914,440
+|14,853,121
+|}
+
+<gallery>
+File:California 1999 Voter Registration by County.svg|1999 California Voter Registration by County
+File:California 2001 Voter Registration by County.svg|2001 California Voter Registration by County
+File:California 2003 Voter Registration by County.svg|2003 California Voter Registration by County
+File:California 2005 Voter Registration by County.svg|2005 California Voter Registration by County
+File:California 2007 Voter Registration by County.svg|2007 California Voter Registration by County
+File:California 2009 Voter Registration by County.svg|2009 California Voter Registration by County
+File:California 2011 Voter Registration by County.svg|2011 California Voter Registration by County
+File:California 2013 Voter Registration by County.svg|2013 California Voter Registration by County
+File:California 2015 Voter Registration by County.svg|2015 California Voter Registration by County
+File:California 2017 Voter Registration by County.svg|2017 California Voter Registration by County
+File:California 2019 Voter Registration by County.svg|2019 California Voter Registration by County
+File:California 2021 Voter Registration by County.svg|2021 California Voter Registration by County
+File:California 2023 Voter Registration by County.svg|2023 California Voter Registration by County
+File:California voter registration by county.svg|2024 California Voter Registration by County
+File:California 2025 Voter Registration by County.svg|2025 California Voter Registration by County
+</gallery>
+
+==Electoral history==
+The following table indicates the party of elected officials in California:
+*[[List of governors of California|Governor]]
+*[[List of lieutenant governors of California|Lieutenant Governor]]
+*[[Attorney General of California|Attorney General]]
+*[[Secretary of State of California|Secretary of State]]
+*[[California State Treasurer|Treasurer]]
+*[[California State Controller|Controller]]
+*[[California Insurance Commissioner|Insurance Commissioner]]
+*[[California State Superintendent of Public Instruction|California Superintendent of Public Instruction]]
+
+The table also indicates the historical party composition in the:
+*[[California State Board of Equalization|Board of Equalization]]
+*[[California State Senate|State Senate]]
+*[[California State Assembly|State Assembly]]
+*[[List of United States senators from California|State delegation to the U.S. Senate]]
+*[[List of United States representatives from California|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+Note that ties on the Board of Equalization are broken by the vote of the State Controller.
+
+===1849–1990===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center;"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=7 |[[California executive branch|Executive offices]]
+!rowspan=2 class=unsortable |[[California State Board of Equalization|BOE]]
+!colspan=2 |[[California State Legislature|State Legislature]]
+!colspan=3 |[[California's congressional delegations|United States Congress]]
+!rowspan=2 class="unsortable nowrap" |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of California|Governor]]
+!class=unsortable |[[List of lieutenant governors of California|Lieutenant<br>Governor]]
+!class=unsortable |[[Attorney General of California|Attorney<br>General]]
+!class=unsortable |[[Secretary of State of California|Secretary<br>of State]]
+!class=unsortable |[[California State Treasurer|Treasurer]]
+!class=unsortable |[[California State Controller|Controller]]
+!class=unsortable |[[California Department of Education|Supt. of<br>Pub. Inst.]]
+!class=unsortable |[[California State Senate|State<br>Senate]]
+!class=unsortable |[[California State Assembly|State<br>Assem.]]
+!class=unsortable |[[List of United States senators from California|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from California|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from California|U.S.<br>House]]
+|- style="height:2em"
+
+|- style="height:2em"
+!1849
+|rowspan=2 {{party shading/Democratic}} |[[Peter Hardeman Burnett|Peter Hardeman<br>Burnett]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[John McDougal]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Edward J. C. Kewen]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Van Voohies]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Richard Roman]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[John S. Houston]] {{small|(D)}}
+|rowspan=2|
+|rowspan=31 |''no such<br>office''
+|rowspan=2 {{Party shading/Nonpartisan}} |16NP
+|rowspan=2 {{Party shading/Nonpartisan}} |36NP
+|colspan=3|
+|rowspan=3|
+|- style="height:2em"
+!1850
+|{{party shading/Democratic}} |[[John C. Frémont]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[William M. Gwin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |1D, 1I
+|- style="height:2em"
+!1851
+|{{party shading/Democratic}} |John McDougal {{small|(D)}}
+|{{party shading/Democratic}} |[[David C. Broderick]] {{small|(D)}}
+|{{party shading/Democratic}} |[[James A. McDougall]] {{small|(D)}}
+|rowspan=3 {{party shading/Democratic}} |[[John Gage Marvin]] {{small|(D)}}
+|{{party shading/Democratic}} |10D, 4W, 2I
+|{{Party shading/Tie}} |18W, 17D, 1I{{efn|A Democrat, [[John Bigler]], was re-elected Speaker, continuing in his service from when it was a non-partisan body.}}
+ |''vacant''
+|- style="height:2em"
+!1852
+|rowspan=4 {{party shading/Democratic}} |[[John Bigler]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Samuel Purdy]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Serranus Clinton Hastings]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Winslow S. Pierce]] {{small|(D)}}
+|{{party shading/Democratic}} |26D, 2W
+|{{party shading/Democratic}} |41D, 21W, 1I
+|rowspan=5 {{party shading/Democratic}} |[[John B. Weller]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |2D
+|rowspan=4 {{party shading/Democratic}} |[[Franklin Pierce|Pierce]]/<br>[[William R. King|King]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1853
+|rowspan=2 {{party shading/Democratic}} |[[James W. Denver]] {{small|(D)}}
+|{{party shading/Democratic}} |20D, 7W
+|{{party shading/Democratic}} |41D, 22W
+|- style="height:2em"
+!1854
+|rowspan=2 {{party shading/Democratic}} |[[John R. McConnell]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Selden A. McMeans]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Samuel Bell (California politician)|Samuel Bell]] {{small|(D)}}
+|rowspan=3 {{party shading/Democratic}} |[[Paul K. Hubbs]] {{small|(D)}}
+|{{party shading/Democratic}} |26D, 8W
+|{{party shading/Democratic}} |68D, 12W
+|- style="height:2em"
+!1855
+|{{party shading/Democratic}} |[[Charles R. Hempstead]] {{small|(D)}}
+|{{party shading/Democratic}} |26D, 7W
+|{{party shading/Democratic}} |42D, 36W, 2I
+|rowspan=2 |''vacant''
+|- style="height:2em"
+!1856
+|rowspan=2 {{party shading/Know Nothing}} |[[J. Neely Johnson]] {{small|(KN)}}
+|rowspan=2 {{party shading/Know Nothing}} |[[Robert M. Anderson (politician)|Robert M. Anderson]] {{small|(KN)}}
+|rowspan=2 {{party shading/Know Nothing}} |[[William T. Wallace]] {{small|(KN)}}
+|rowspan=2 {{party shading/Know Nothing}} |[[David F. Douglass]] {{small|(KN)}}
+|{{party shading/Know Nothing}} |[[Henry Bates (politician)|Henry Bates]] {{small|(KN)}}
+|{{party shading/Know Nothing}} |[[George W. Whitman]] {{small|(KN)}}
+|{{party shading/Know Nothing}} |16KN, 16D, 1W{{efn|The Whig voted with the Know-Nothings to elect a Know-Nothing President Pro Tempore, Delos R. Ashley.}}
+|{{party shading/Know Nothing}} |56KN, 23D, 1I
+|rowspan=4 {{party shading/Democratic}} |[[James Buchanan|Buchanan]]/<br>[[John C. Breckinridge|Breckinridge]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1857
+|{{party shading/Know Nothing}} |[[James L. English]] {{small|(KN)}}
+|{{party shading/Know Nothing}} |[[Edward F. Burton]] {{small|(KN)}}
+|rowspan=7 {{party shading/Democratic}} |[[Andrew J. Moulder]] {{small|(D)}}
+|{{party shading/Democratic}} |19D, 11KN, 3R
+|{{party shading/Democratic}} |61D, 11R, 8KN
+|rowspan=3 {{party shading/Democratic}} |David C. Broderick {{small|(D)}}{{efn|name=died|Died in office.}}
+|rowspan=5 {{party shading/Democratic}} |William M. Gwin {{small|(D)}}
+|- style="height:2em"
+!1858
+|rowspan=2 {{party shading/Democratic}} |John B. Weller {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Joseph Walkup]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[Thomas H. Williams (California official)|Thomas H. Williams]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Ferris Foreman]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[Thomas Findley]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |[[Aaron R. Melony]] {{small|(D)}}
+|{{party shading/Democratic}} |27D, 5R, 3KN
+|{{party shading/Democratic}} |66D, 9R, 4KN, 1I
+|- style="height:2em"
+!1859
+|{{party shading/Democratic}} |30D, 4R, 1I
+|{{party shading/Democratic}} |72D, 8R
+|- style="height:2em"
+!rowspan=2|1860
+|{{party shading/Democratic}} |[[Milton Latham]] {{small|(D)}}
+|{{party shading/Democratic}} |[[John G. Downey]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Johnson Price]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel H. Brooks]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |33D, 2R
+|rowspan=2 {{party shading/Democratic}} |78D, 2R
+|{{party shading/Democratic}} |[[Henry P. Haun]] {{small|(D)}}
+|rowspan=5 {{party shading/Republican}} |[[Abraham Lincoln|Lincoln]]/<br>[[Hannibal Hamlin|Hamlin]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=2 {{party shading/Democratic}} |[[John G. Downey]] {{small|(D)}}
+|{{party shading/Democratic}} |[[Isaac N. Quinn]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Milton Latham {{small|(D)}}
+|- style="height:2em"
+!1861
+|{{party shading/Democratic}} |[[Pablo de la Guerra]] {{small|(D)}}
+|{{party shading/Democratic}} |[[James S. Gillan]] {{small|(D)}}
+|{{party shading/Democratic}} |30D, 6R
+|{{party shading/Democratic}} |60D, 19R, 1[[Constitutional Union Party (United States)|CU]]
+|rowspan=6 {{party shading/Democratic}} |James A. McDougall {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1862
+|rowspan=2 {{Party shading/Republican}} |[[Leland Stanford]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John F. Chellis]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Frank M. Pixley]] {{small|(R)}}
+|{{Party shading/Republican}} |[[William H. Weeks (California politician)|William H. Weeks]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Delos R. Ashley]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Gilbert R. Warren]] {{small|(R)}}
+|{{party shading/Democratic}} |23D, 17R
+|{{party shading/Democratic}} |41D, 39R
+|- style="height:2em"
+!1863
+|rowspan=4 {{Party shading/Republican}} |[[John L. McCullogh]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin B. Redding]] {{small|(R)}}
+|rowspan=4 {{Party shading/National Union}} |[[Romualdo Pacheco]] {{small|(NU)}}
+|rowspan=4 {{Party shading/Republican}} |[[George R. Oultan]] {{small|(R)}}
+|rowspan=4 {{Party shading/National Union}} |[[John Swett]] {{small|(NU)}}
+|{{Party shading/Republican}} |31R, 9D
+|{{Party shading/Republican}} |63R, 17D
+|rowspan=6 {{party shading/Republican}} |[[John Conness]] {{small|(R)}}
+|- style="height:2em"
+!1864
+|rowspan=4 {{party shading/Republican}} |[[Frederick Low]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Tim N. Machin]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |35R, 5D
+|rowspan=2 {{party shading/Republican}} |70R, 10D
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{aye}}
+|- style="height:2em"
+!1865
+|- style="height:2em"
+!1866
+|rowspan=2 {{party shading/Republican}} |31R, 9D
+|rowspan=2 {{party shading/Republican}} |61R, 19D
+|- style="height:2em"
+!1867
+|rowspan=4 {{party shading/Democratic}} |[[Jo Hamilton (politician)|Jo Hamilton]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Henry L. Nichols]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Antonio F. Coronel]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Robert Watt (California politician)|Robert Watt]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Oscar Penn Fitzgerald]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |[[Cornelius Cole]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1868
+|rowspan=4 {{Party shading/Democratic}} |[[Henry Huntly Haight]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Holden (politician)|William Holden]] {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |21R, 19D
+|rowspan=2 {{Party shading/Democratic}} |52D, 28R
+|rowspan=4 {{party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Schuyler Colfax|Colfax]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1869
+|rowspan=5 {{party shading/Democratic}} |[[Eugene Casserly]] {{small|(D)}}
+|- style="height:2em"
+!1870
+|rowspan=2 {{party shading/Democratic}} |26D, 12R, 2I
+|rowspan=2 {{party shading/Democratic}} |67D, 10R, 3I
+|- style="height:2em"
+!1871
+|rowspan=4 {{Party shading/Republican}} |[[John Lord Love]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Drury Melone]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Ferdinand Baehr]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James J. Green]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry Nicholas Bolander]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |3R
+|- style="height:2em"
+!1872
+|rowspan=3 {{party shading/Republican}} |[[Newton Booth]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[Romualdo Pacheco]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 17R, 1I
+|rowspan=2 {{party shading/Republican}} |54R, 25D, 1I
+|rowspan=4 {{party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|rowspan=6 {{party shading/Republican}} |[[Aaron A. Sargent]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!1874
+|rowspan=2 {{party shading/Democratic}} |18R, 14D, 8{{abbr|PI|People's Independent Party}}{{efn|A Democrat, [[William Irwin (California politician)|William Irwin]], was elected President Pro Tempore with the support of the People's Independent Party.}}
+|rowspan=2 {{party shading/Independent}} |34{{abbr|PI|People's Independent Party}}, 27R, 19D{{efn|A representative of the People's Independent Party, [[Morris M. Estee]], was elected Speaker with the support of the Democrats.}}
+|{{party shading/Democratic}} |[[John S. Hager]] {{small|(D)}}
+|- style="height:2em"
+!1875
+|{{Party shading/Republican}} |[[Romualdo Pacheco]] {{small|(R)}}
+|{{Party shading/Democratic}} |[[William Irwin (California politician)|William Irwin]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |Jo Hamilton {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[Thomas Bock (California politician)|Thomas Bock]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[José Guadalupe Estudillo]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[James W. Mandeville]] {{small|(D)}}
+|rowspan=5 {{party shading/Republican}} |[[Ezra S. Carr]] {{small|(R)}}
+|rowspan=6 {{Party shading/Anti-Monopoly}} |[[Newton Booth]] {{small|(AM)}}
+|rowspan=2 {{party shading/Democratic}} |3D, 1R
+|- style="height:2em"
+!1876
+|rowspan=4 {{Party shading/Democratic}} |[[William Irwin (California politician)|William Irwin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James A. Johnson (California politician)|James A. Johnson]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[William B. C. Brown]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 11I, 6R, 3ID
+|rowspan=2 {{Party shading/Democratic}} |64D, 12R, 4I
+|rowspan=4 {{party shading/Republican}} |[[Rutherford B. Hayes|Hayes]]/<br>[[William A. Wheeler|Wheeler]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1877
+|rowspan=6 {{party shading/Republican}} |[[Daniel M. Kenfield]] {{small|(R)}}
+|{{Party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!1878
+|rowspan=2 {{party shading/Democratic}} |27D, 10R, 2I, 1[[Workingmen's Party of California|WPC]]
+|rowspan=2 {{party shading/Democratic}} |55D, 24R, 1WPC
+|{{Party shading/Tie}} |2D, 2R
+|- style="height:2em"
+!1879
+|rowspan=4 {{Party shading/Republican}} |3R, 1D
+|rowspan=6 {{Party shading/Democratic}} |[[James T. Farley]] {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!1880
+|rowspan=3 {{party shading/Republican}} |[[George C. Perkins]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[John Mansfield (American politician)|John Mansfield]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[Augustus L. Hart]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[Daniel M. Burns]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[John Weil]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[Frederick M. Campbell]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |23R, 10WPC, 7D
+|{{party shading/Republican}} |46R, 18D, 16WPC
+|rowspan=4 {{party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1881
+|rowspan=2 {{party shading/Republican}} |42R, 33D, 4WPC, 1GB
+|rowspan=5 {{party shading/Republican}} |[[John Franklin Miller (California politician)|John Franklin Miller]] {{small|(R)}}{{efn|name=died}}
+|rowspan=2 {{Party shading/Tie}} |2D, 2R
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|rowspan=5 {{party shading/Democratic}} |[[George Stoneman]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[John Daggett]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[Edward C. Marshall]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[Thomas Larkin Thompson]] {{small|(D)}}
+|{{party shading/Democratic}} |[[William A. January]] {{small|(D)}}
+|rowspan=9 {{party shading/Democratic}} |[[John P. Dunn]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |[[William T. Weckler]] {{small|(D)}}
+|rowspan=9 {{party shading/Democratic}} |3D, 1R
+|rowspan=2 {{party shading/Democratic}} |32D, 8R
+|rowspan=2 {{party shading/Democratic}} |61D, 19R
+|rowspan=2 {{party shading/Democratic}} |6D
+|- style="height:2em"
+!1884
+|rowspan=4 {{party shading/Democratic}} |[[Denis J. Oullahan]] {{small|(D)}}
+|rowspan=5 {{party shading/Republican}} |[[James G. Blaine|Blaine]]/<br>[[John A. Logan|Logan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1885
+|rowspan=3 {{party shading/Tie}} |20D, 20R{{efn|The senate elected a Democratic President Pro Tempore.}}
+|rowspan=3 {{party shading/Republican}} |60R, 20D
+|rowspan=10 {{party shading/Republican}} |[[Leland Stanford]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |5R, 1D
+|- style="height:2em"
+!rowspan=2|1886
+|{{party shading/Democratic}} |[[George Hearst]] {{small|(D)}}{{efn|name=appointed|Appointed to fill vacancy.}}
+|- style="height:2em"
+|{{party shading/Republican}} |[[Abram Williams]] {{small|(R)}}
+|- style="height:2em"
+!1887
+|{{party shading/Democratic}} |[[Washington Bartlett]] {{small|(D)}}{{efn|name=died}}
+|{{party shading/Republican}} |[[Robert Waterman (governor)|Robert Waterman]] {{small|(R)}}
+|rowspan=4 {{party shading/Democratic}} |[[George A. Johnson]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[William C. Hendricks]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Adam Herald]] {{small|(D)}}
+|rowspan=4 {{party shading/Republican}} |[[Ira G. Haitt]] {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |22D, 18R
+|rowspan=2 {{Party shading/Republican}} |41R, 39D
+|rowspan=4 {{party shading/Democratic}} |[[George Hearst]] {{small|(D)}}{{efn|name=died}}
+|rowspan=10 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+!1888
+|rowspan=3 {{party shading/Republican}} |[[Robert Waterman (governor)|Robert Waterman]] {{small|(R)}}
+|rowspan=3 {{party shading/Democratic}} |[[Stephen M. White]] {{small|(D)}}
+|rowspan=4 {{party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Levi P. Morton|Morton]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Democratic}} |22D, 18R
+|rowspan=2 {{Party shading/Democratic}} |42D, 38R
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=4 {{party shading/Republican}} |[[Henry Markham]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[John B. Reddick]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William H. Hart]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[Edwin G. Waite]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[J.R. McDonald]] {{small|(R)}}
+|rowspan=15 {{party shading/Republican}} |[[Edward P. Colgan]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |J. W. Anderson {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |3R, 1D
+|rowspan=2 {{Party shading/Republican}} |28R, 12D
+|rowspan=2 {{Party shading/Republican}} |60R 19D, 1KN
+|rowspan=2 {{Party shading/Republican}} |[[Charles N. Felton]] {{small|(R)}}
+|- style="height:2em"
+!1892
+|rowspan=4 {{party shading/Democratic}} |8 - [[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{aye}}<br>1 - [[Benjamin Harrison|Harrison]]/<br>[[Whitelaw Reid|Reid]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{party shading/Republican}} |22R, 18D
+|rowspan=2 {{Party shading/Democratic}} |45D, 31R, 2I, 2Pop
+|rowspan=6 {{party shading/Democratic}} |[[Stephen M. White]] {{small|(D)}}
+|- style="height:2em"
+!1894
+|{{party shading/Republican}} |[[Albert Hart (politician)|Albert Hart]] {{small|(R)}}
+|rowspan=21 {{Party shading/Republican}} |[[George C. Perkins]] {{small|(R)}}
+|- style="height:2em"
+!1895
+|rowspan=4 {{party shading/Democratic}} |[[James Budd]] {{small|(D)}}
+|{{Party shading/Republican}} |[[Spencer G. Millard]] {{small|(R)}}{{efn|name=died}}
+|rowspan=4 {{party shading/Republican}} |[[William F. Fitzgerald]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lewis H. Brown]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Levi Ratcliffe]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Samuel T. Black]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |25R, 15D
+|rowspan=2 {{party shading/Republican}} |64R, 14D, 2Pop
+|- style="height:2em"
+!1896
+|rowspan=3 {{Party shading/Democratic}} |[[William T. Jeter]] {{small|(D)}}{{efn|name=appointed}}
+|rowspan=4 {{party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{party shading/Republican}} |28R, 12D
+|rowspan=2 {{party shading/Republican}} |47R, 16Fus, 9Pop, 8D
+|rowspan=2 {{party shading/Republican}} |3R, 2D, 2Pop
+|- style="height:2em"
+!1898
+|{{party shading/Democratic}} |[[Will S. Green]] {{small|(D)}}
+|{{party shading/Democratic}} |[[Charles T. Meredith]] {{small|(D)}}
+|- style="height:2em"
+!1899
+|rowspan=4 {{Party shading/Republican}} |[[Henry T. Gage]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jacob H. Neff]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Tirey L. Ford]] {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |[[Charles F. Curry]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Truman Reeves]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |Thomas J. Kirk {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |2R, 2D{{efn|name=RepBoE|Republicans held the State Controller's office for the duration of this tie and cast the tie-breaking vote here, giving control of the Board to the Republicans.}}
+|rowspan=2 {{party shading/Republican}} |26R, 14D
+|rowspan=2 {{party shading/Republican}} |59R, 20D, 2I
+ |''vacant''
+|{{party shading/Republican}} |6R, 1D
+|- style="height:2em"
+!1900
+|rowspan=5 {{Party shading/Republican}} |[[Thomas R. Bard]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |7R
+|rowspan=4 {{party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{party shading/Republican}} |34R, 6D
+|rowspan=2 {{party shading/Republican}} |60R, 20D
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=4 {{Party shading/Republican}} |[[George Pardee]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Alden Anderson]] {{small|(R)}}
+|rowspan=36 {{party shading/Republican}} |[[Ulysses S. Webb]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |33R, 7D
+|rowspan=2 {{party shading/Republican}} |60R, 19D, 1{{abbr|UL|Union Labor}}
+|rowspan=2 {{party shading/Republican}} |5R, 3D
+|- style="height:2em"
+!1904
+|rowspan=4 {{party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=2 {{party shading/Republican}} |33R, 4{{abbr|UL|Union Labor}}, 3D
+|rowspan=2 {{party shading/Republican}} |72R, 4D, 4{{abbr|UL|Union Labor}}
+|rowspan=6 {{party shading/Republican}} |[[Frank Flint]] {{small|(R)}}
+|rowspan=6 {{party shading/Republican}} |8R
+|- style="height:2em"
+!1906
+|rowspan=7 {{Party shading/Republican}} |[[A. B. Nye]] {{small|(R)}}
+|- style="height:2em"
+!1907
+|rowspan=4 {{Party shading/Republican}} |[[James Gillett]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Warren R. Porter]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[William R. Williams]] {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |[[Edward Hyatt]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |4R
+|rowspan=2 {{party shading/Republican}} |33R, 6D, 1I
+|rowspan=2 {{party shading/Republican}} |73R, 6D, 1I
+|- style="height:2em"
+!1908
+|rowspan=4 {{party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{party shading/Republican}} |30R, 9D, 1I
+|rowspan=2 {{party shading/Republican}} |60R, 20D
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|{{Party shading/Republican}} |[[Hiram Johnson]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Albert Joseph Wallace]] {{small|(R)}}
+|rowspan=29 {{Party shading/Republican}} |[[Frank C. Jordan]] {{small|(R)}}{{efn|name=died}}
+|rowspan=4 {{Party shading/Republican}} |[[Edward D. Roberts]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |32R, 18D
+|rowspan=2 {{party shading/Republican}} |69R, 11D
+|rowspan=6 {{party shading/Republican}} |[[John D. Works]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |7R, 1D
+|- style="height:2em"
+!1912
+|rowspan=5 {{party shading/Progressive}} |[[Hiram Johnson]] {{small|(Prog)}}
+|rowspan=4 {{party shading/Bull Moose}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Hiram Johnson|Johnson]] {{small|(Prog)}} {{nay}}
+|- style="height:2em"
+!1913
+|rowspan=8 {{party shading/Republican}} |[[John S. Chambers]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |30R, 10D
+|rowspan=2 {{party shading/Republican}} |54R, 25D, 1Soc
+|rowspan=2 {{party shading/Republican}} |7R, 3D, 1I
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|{{party shading/Progressive}} |[[John Morton Eshleman]] {{small|(Prog)}}{{efn|name=died}}
+|rowspan=8 {{party shading/Progressive}} |[[Friend Richardson]] {{small|(Prog)}}
+|rowspan=12 {{Party shading/Republican}} |3R, 1D
+|rowspan=2 {{party shading/Republican}} |21R, 10D, 9Prog
+|rowspan=2 {{party shading/Fusion}} |33R, 28Prog, 15D, 3Soc, 1Proh{{efn|A Progressive Speaker was elected with Democratic support.}}
+|rowspan=6 {{party shading/Democratic}} |[[James D. Phelan]] {{small|(D)}}
+|{{Party shading/Republican}} |4R, 3D, 2Prog, 1I, 1Proh
+|- style="height:2em"
+!1916
+|{{Party shading/Republican}} |[[William Stephens (American politician)|William Stephens]] {{small|(R)}}
+|{{Party shading/Republican}} |5R, 3D, 1Prog, 1I, 1Proh
+|rowspan=4 {{party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1917
+|rowspan=6 {{party shading/Republican}} |[[William Stephens (American politician)|William Stephens]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[C. C. Young]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |20R, 11D, 8P, 1I
+|rowspan=2 {{party shading/Republican}} |69R, 9D, 1Prog, 1Proh
+|rowspan=29 {{Party shading/Republican}} |[[Hiram Johnson]] {{small|(R)}}{{efn|name=died}}
+|rowspan=2 {{party shading/Republican}} |5R, 4D, 1Prog, 1Proh
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Will C. Wood]] {{small|(NP)}}
+|rowspan=2 {{party shading/Republican}} |32R, 7D, 1I
+|rowspan=2 {{party shading/Republican}} |70R, 10D
+|rowspan=8 {{party shading/Republican}} |9R, 2D
+|- style="height:2em"
+!1920
+|rowspan=4 {{party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=16 {{Party shading/Republican}} |[[Roy C. Riley]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |33R, 7D
+|rowspan=2 {{party shading/Republican}} |73R, 7D
+|rowspan=12 {{Party shading/Republican}} |[[Samuel M. Shortridge]] {{small|(R)}}
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=4 {{Party shading/Republican}} |[[Friend Richardson]] {{small|(R)}}
+|rowspan=34 {{party shading/Republican}} |[[Charles G. Johnson]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |36R, 3D, 1I
+|rowspan=2 {{party shading/Republican}} |76R, 4D
+|- style="height:2em"
+!1924
+|rowspan=4 {{party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{party shading/Republican}} |37R, 3D
+|rowspan=2 {{party shading/Republican}} |75R, 5D
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=4 {{party shading/Republican}} |[[C. C. Young]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |[[Buron Fitts]] {{small|(R)}}
+|rowspan=2 {{Party shading/Nonpartisan}} |[[William John Cooper]] {{small|(NP/R)}}
+|rowspan=12 {{Party shading/Republican}} |4R
+|rowspan=4 {{party shading/Republican}} |35R, 5D
+|rowspan=2 {{party shading/Republican}} |74R, 6D
+|rowspan=6 {{Party shading/Republican}} |10R, 1D
+|- style="height:2em"
+!1928
+|rowspan=4 {{party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=2 {{party shading/Republican}} |[[Herschel L. Carnahan]] {{small|(R)}}
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Vierling C. Kersey]] {{small|(NP)}}
+|rowspan=2 {{party shading/Republican}} |71R, 7D, 2I
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=3 {{party shading/Republican}} |[[James Rolph]] {{small|(R)}}{{efn|name=died}}
+|rowspan=3 {{party shading/Republican}} |[[Frank Merriam]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |36R, 4D
+|rowspan=2 {{party shading/Republican}} |73R, 7D
+|- style="height:2em"
+!1932
+|rowspan=8 {{party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=2 {{party shading/Republican}} |35R, 5D
+|rowspan=2 {{party shading/Republican}} |55R, 25D
+|rowspan=6 {{party shading/Democratic}} |[[William Gibbs McAdoo]] {{small|(D)}}{{efn|Resigned November 8, 1938. [[Thomas M. Storke]] {{small|(D)}} was appointed to replace McAdoo on November 9, but as Congress was not in session Storke never took any legislative action or cast any votes during his time as Senator.}}
+|rowspan=2 {{party shading/Democratic}} |11D, 9R
+|- style="height:2em"
+!1934
+|rowspan=5 {{Party shading/Republican}} |[[Frank Merriam]] {{small|(R)}}
+ |''vacant''
+|- style="height:2em"
+!1935
+|rowspan=4 {{Party shading/Republican}} |[[George J. Hatfield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 8D, 1I
+|rowspan=2 {{Party shading/Republican}} |42R, 37D, 1I
+|rowspan=2 {{party shading/Democratic}} |13D, 7R
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!1937
+|rowspan=10 {{party shading/Republican}} |[[Harry B. Riley]] {{small|(R)}}
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Walter F. Dexter]] {{small|(NP/R)}}
+|rowspan=2 {{party shading/Republican}} |25R, 15D
+|rowspan=2 {{Party shading/Democratic}} |47D, 33R
+|rowspan=2 {{party shading/Democratic}} |15D, 4R, 1Prog
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=4 {{party shading/Democratic}} |[[Culbert Olson]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Ellis E. Patterson]] {{small|(D)}}
+|rowspan=4 {{party shading/Republican}} |[[Earl Warren]] {{small|(R)}}
+|rowspan=15 {{Party shading/Republican}} |3R, 1D
+|rowspan=2 {{party shading/Republican}} |21R, 19D
+|rowspan=2 {{Party shading/Democratic}} |44D, 36R
+|rowspan=12 {{Party shading/Democratic}} |[[Sheridan Downey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |11D, 8R, 1Prog
+|- style="height:2em"
+!1940
+|rowspan=3 {{Party shading/Democratic}} |[[Paul Peek (politician)|Paul Peek]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=4 {{party shading/Republican}} |24R, 16D
+|rowspan=2 {{Party shading/Democratic}} |42D, 38R
+|rowspan=2 {{Party shading/Tie}} |10D, 10R
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=11 {{party shading/Republican}} |[[Earl Warren]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Frederick F. Houser]] {{small|(R)}}
+|rowspan=4 {{party shading/Democratic}} |[[Robert W. Kenny]] {{small|(D)}}
+|rowspan=28 {{Party shading/Republican}} |[[Frank M. Jordan]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |44R, 36D
+|rowspan=2 {{Party shading/Democratic}} |13D, 10R
+|- style="height:2em"
+!1944
+|rowspan=4 {{party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=18 {{Party shading/Nonpartisan}} |[[Roy E. Simpson]] {{small|(NP)}}
+|rowspan=4 {{party shading/Republican}} |24R, 20D
+|rowspan=2 {{party shading/Republican}} |42R, 37D, 1I
+|rowspan=2 {{Party shading/Democratic}} |16D, 7R
+|- style="height:2em"
+!1946
+|rowspan=13 {{Party shading/Republican}} |[[William Knowland]] {{small|(R)}}{{efn|name=appointed}}
+|- style="height:2em"
+!1947
+|rowspan=7 {{party shading/Republican}} |[[Goodwin Knight]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Frederick N. Howser]] {{small|(R)}}
+|rowspan=6 {{party shading/Republican}} |[[Thomas Kuchel]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |48R, 32D
+|rowspan=2 {{party shading/Republican}} |14R, 9D
+|- style="height:2em"
+!1948
+|rowspan=4 {{party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=2 {{party shading/Republican}} |26R, 14D
+|rowspan=2 {{party shading/Republican}} |45R, 35D
+|rowspan=4 {{party shading/Republican}} |12R, 11D
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=8 {{party shading/Democratic}} |[[Pat Brown]] {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |28R, 12D
+|rowspan=2 {{party shading/Republican}} |47R, 33D
+|rowspan=2 {{party shading/Republican}} |[[Richard Nixon]] {{small|(R)}}
+|- style="height:2em"
+!1952
+|rowspan=8 {{party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=6 {{party shading/Republican}} |[[Robert C. Kirkwood]] {{small|(R)}}{{efn|name=appointed}}
+|rowspan=2 {{party shading/Republican}} |29R, 11D
+|rowspan=2 {{party shading/Republican}} |53R, 27D
+|rowspan=17 {{Party shading/Republican}} |[[Thomas Kuchel]] {{small|(R)}}{{efn|name=appointed}}
+|rowspan=4 {{party shading/Republican}} |19R, 11D
+|- style="height:2em"
+!1954
+|rowspan=5 {{Party shading/Republican}} |[[Goodwin Knight]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Harold J. Powers]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |2R, 2D{{efn|name=RepBoE}}
+|- style="height:2em"
+!1955
+|rowspan=2 {{party shading/Republican}} |22R, 18D
+|rowspan=2 {{party shading/Republican}} |47R, 23D
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=2 {{party shading/Republican}} |[[A. Ronald Burton]] {{small|(R)}}
+|rowspan=2 {{party shading/Tie}} |20D, 20R{{efn|A Democrat, [[Hugh M. Burns]] was elected Senate President Pro Tempore.}}
+|rowspan=2 {{party shading/Republican}} |42R, 38D
+|rowspan=2 {{party shading/Republican}} |17R, 13D
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=9 {{party shading/Democratic}} |[[Pat Brown]] {{small|(D)}}
+|rowspan=9 {{party shading/Democratic}} |[[Glenn M. Anderson]] {{small|(D)}}
+|rowspan=6 {{party shading/Democratic}} |[[Stanley Mosk]] {{small|(D)}}
+|rowspan=9 {{party shading/Democratic}} |[[Bert A. Betts]] {{small|(D)}}
+|rowspan=9 {{party shading/Democratic}} |[[Alan Cranston]] {{small|(D)}}
+|rowspan=21 {{party shading/Democratic}} |4D
+|rowspan=2 {{Party shading/Democratic}} |26D, 14R
+|rowspan=4 {{Party shading/Democratic}} |47D, 33R
+|rowspan=6 {{party shading/Democratic}} |[[Clair Engle]] {{small|(D)}}{{efn|name=died}}
+|rowspan=2 {{Party shading/Democratic}} |16D, 14R
+|- style="height:2em"
+!1960
+|rowspan=4 {{party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1961
+|rowspan=2 {{Party shading/Democratic}} |30D, 10R
+|rowspan=2 {{Party shading/Democratic}} |24D, 14R
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=9 {{Party shading/Nonpartisan}} |[[Max Rafferty]] {{small|(NP/R)}}
+|rowspan=5 {{party shading/Democratic}} |27D, 13R
+|rowspan=3 {{Party shading/Democratic}} |52D, 28R
+|rowspan=5 {{Party shading/Democratic}} |23D, 15R
+|- style="height:2em"
+!rowspan=2|1964
+|rowspan=5 {{party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=7 {{Party shading/Democratic}} |[[Thomas C. Lynch]] {{small|(D)}}{{efn|name=appointed}}
+|{{Party shading/Democratic}} |[[Pierre Salinger]] {{small|(D)}}{{efn|name=appointed}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{party shading/Democratic}} |49D, 31R
+|rowspan=6 {{Party shading/Republican}} |[[George Murphy]] {{small|(R)}}
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=8 {{party shading/Republican}} |[[Ronald Reagan]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |[[Robert Finch (politician)|Robert Finch]] {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |[[Ivy Baker Priest]] {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |[[Houston Flournoy]] {{small|(R)}}
+|{{Party shading/Democratic}} |21D, 19R{{efn|A Democrat, [[J. Eugene McAteer]] died in office in May 1967 and was succeeded by a Republican [[Milton Marks]] in August 1967 shifting the Senate to 20D, 20R.}}
+|rowspan=2 {{Party shading/Democratic}} |42D, 38R
+|rowspan=4 {{party shading/Democratic}} |21D, 17R
+|- style="height:2em"
+!1968
+|{{party shading/Tie}} |20D, 20R
+|rowspan=8 {{party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=5 {{party shading/Republican}} |[[Edwin Reinecke]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |21R, 19D
+|rowspan=2 {{party shading/Republican}} |41R, 39D
+|rowspan=22 {{Party shading/Democratic}} |[[Alan Cranston]] {{small|(D)}}
+|- style="height:2em"
+!1970
+|{{Party shading/Republican}} |[[H. P. Sullivan]] {{small|(R)}}
+|- style="height:2em"
+!1971
+|rowspan=8 {{Party shading/Republican}} |[[Evelle J. Younger]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jerry Brown]] {{small|(D)}}
+|rowspan=12 {{Party shading/Nonpartisan}} |[[Wilson Riles]] {{small|(NP/D)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 19R
+|rowspan=2 {{Party shading/Democratic}} |43D, 37R
+|rowspan=6 {{Party shading/Democratic}} |[[John V. Tunney]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 18R
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Tie}} |20D, 20R{{efn|Democrat James Mills continued as Senate President Pro Tempore.}}
+|rowspan=2 {{Party shading/Democratic}} |51D, 29R
+|rowspan=2 {{Party shading/Democratic}} |23D, 20R
+|- style="height:2em"
+!1974
+|{{Party shading/Republican}} |[[John L. Harmer]] {{small|(R)}}
+|- style="height:2em"
+!1975
+|rowspan=8 {{party shading/Democratic}} |[[Jerry Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Mervyn Dymally]] {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[March Fong Eu]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Jesse M. Unruh]] {{small|(D)}}{{efn|name=died}}
+|rowspan=12 {{Party shading/Democratic}} |[[Kenneth Cory]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 15R
+|rowspan=2 {{Party shading/Democratic}} |55D, 25R
+|rowspan=2 {{Party shading/Democratic}} |28D, 15R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Democratic}} |28D, 12R
+|rowspan=2 {{Party shading/Democratic}} |57D, 23R
+|rowspan=6 {{Party shading/Republican}} |[[S. I. Hayakawa]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |29D, 14R
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=4 {{party shading/Republican}} |[[Mike Curb]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[George Deukmejian]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |3D, 1R
+|rowspan=4 {{Party shading/Democratic}} |26D, 14R
+|rowspan=2 {{Party shading/Democratic}} |50D, 30R
+|rowspan=2 {{Party shading/Democratic}} |28D, 15R
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Democratic}} |47D, 33R
+|rowspan=2 {{Party shading/Democratic}} |22D, 21R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=8 {{party shading/Republican}} |[[George Deukmejian]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Leo T. McCarthy]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[John Van de Kamp]] {{small|(D)}}
+|rowspan=5 {{Party shading/Nonpartisan}} |[[Bill Honig]] {{small|(NP)}}
+|rowspan=4 {{Party shading/Democratic}} |25D, 15R
+|rowspan=2 {{Party shading/Democratic}} |48D, 32R
+|rowspan=8 {{Party shading/Republican}} |[[Pete Wilson]] {{small|(R)}}{{efn|Resigned to take office as [[Governor of California]].}}
+|rowspan=8 {{Party shading/Democratic}} |28D, 17R
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=2 {{Party shading/Democratic}} |47D, 33R
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=4 {{Party shading/Democratic}} |[[Gray Davis]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |2D, 2R{{efn|name=boetie|Democratic State Controllers held office for the entire duration of this tie, giving Democrats control of the Board.}}
+|rowspan=4 {{Party shading/Democratic}} |24D, 14R, 1I
+|rowspan=2 {{Party shading/Democratic}} |44D, 36R
+|- style="height:2em"
+!1988
+|{{Party shading/Democratic}} |[[Elizabeth Whitney (treasurer)|Elizabeth Whitney]] {{small|(D)}}{{efn|name=acting|Deputy officer who served in an acting capacity during a vacancy.}}
+|rowspan=3 {{Party shading/Nonpartisan}} |Bill Honig {{small|(NP/D)}}
+|rowspan=3 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|rowspan=2 {{party shading/Republican}} |[[Thomas W. Hayes]] {{small|(R)}}{{efn|name=appointed}}
+|rowspan=2 {{Party shading/Democratic}} |47D, 33R
+|- style="height:2em"
+!1990
+|}
+
+===1991–present===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center;"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=8 |[[California executive branch|Executive offices]]
+!rowspan=2 class=unsortable |[[California State Board of Equalization|BOE]]
+!colspan=2 |[[California State Legislature|State Legislature]]
+!colspan=3 |[[California's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable nowrap |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of California|Governor]]
+!class=unsortable |[[List of lieutenant governors of California|Lieutenant<br>Governor]]
+!class=unsortable |[[Attorney General of California|Attorney<br>General]]
+!class=unsortable |[[Secretary of State of California|Secretary<br>of State]]
+!class=unsortable |[[California State Treasurer|Treasurer]]
+!class=unsortable |[[California State Controller|Controller]]
+!class=unsortable |[[California Insurance Commissioner|Insurance<br>Comm.]]
+!class=unsortable |[[California Department of Education|Supt. of<br>Pub. Inst.]]
+!class=unsortable |[[California State Senate|State<br>Senate]]
+!class=unsortable |[[California State Assembly|State<br>Assem.]]
+!class=unsortable |[[List of United States senators from California|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from California|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from California|U.S.<br>House]]
+|- style="height:2em"
+!1991
+|rowspan=8 {{party shading/Republican}} |[[Pete Wilson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Leo T. McCarthy]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |[[Dan Lungren]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |[[March Fong Eu]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Kathleen Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Gray Davis]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John Garamendi]] {{small|(D)}}
+|rowspan=2 {{Party shading/Nonpartisan}} |[[Bill Honig]] {{small|(NP/D)}}
+|rowspan=28 {{Party shading/Democratic}} |2D, 2R{{efn|name=boetie}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 14R, 1I
+|rowspan=2 {{Party shading/Democratic}} |46D, 34R
+|rowspan=2 {{party shading/Republican}} |[[John Seymour (California politician)|John Seymour]] {{small|(R)}}{{efn|name=appointed}}
+|rowspan=2 {{Party shading/Democratic}} |[[Alan Cranston]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 19R
+|
+|- style="height:2em"
+!1992
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Nonpartisan}} |[[David Dawson (California politician)|David Dawson]] {{small|(NP)}}{{efn|name=acting}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 15R, 2I
+|rowspan=2 {{Party shading/Democratic}} |48D, 32R
+|rowspan=32 {{Party shading/Democratic}} |[[Dianne Feinstein]] {{small|(D)}}{{efn|name=died}}
+|rowspan=24 {{Party shading/Democratic}} |[[Barbara Boxer]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |30D, 22R
+|- style="height:2em"
+!1994
+|{{Party shading/Democratic}} |[[Tony Miller (California politician)|Tony Miller]] {{small|(D)}}{{efn|name=acting}}
+|- style="height:2em"
+!1995
+|rowspan=4 {{Party shading/Democratic}} |[[Gray Davis]] {{small|(D)}}
+|rowspan=8 {{party shading/Republican}} |[[Bill Jones (California politician)|Bill Jones]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Matt Fong]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Kathleen Connell]] {{small|(D)}}
+|rowspan=5 {{party shading/Republican}} |[[Chuck Quackenbush|Chuck<br>Quackenbush]] {{small|(R)}}
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Delaine Eastin]] {{small|(NP/D)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 17R, 2I
+|rowspan=2 {{Party shading/Republican}} |41R, 39D{{efn|Democrat [[Willie Brown (politician)|Willie Brown]] continued as Speaker for the first half of 1995 with the support of a Republican-turned-Independent, [[Paul Horcher]], and two Republicans. Those two Republicans, [[Doris Allen (politician)|Doris Allen]] and [[Brian Setencich]], each served as Speaker for three months the second half of 1995. Republican [[Curt Pringle]] was then selected as Speaker in 1996 after the Independent and two Republicans were recalled and/or removed from office.}}
+|{{Party shading/Democratic}} |27D, 25R
+|- style="height:2em"
+!1996
+|{{Party shading/Tie}} |26D, 26R
+|- style="height:2em"
+!1997
+|rowspan=2 {{Party shading/Democratic}} |23D, 16R, 1I
+|rowspan=2 {{Party shading/Democratic}} |43D, 37R
+|rowspan=2 {{Party shading/Democratic}} |29D, 23R
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=5 {{Party shading/Democratic}} |[[Gray Davis]] {{small|(D)}}{{efn |[[2003 California gubernatorial recall election|Recalled in 2003]].}}
+|rowspan=8 {{Party shading/Democratic}} |[[Cruz Bustamante]] {{small|(D)}}
+|rowspan=8 {{party shading/Democratic}} |[[Bill Lockyer]] {{small|(D)}}
+|rowspan=8 {{party shading/Democratic}} |[[Phil Angelides]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 15R
+|rowspan=2 {{Party shading/Democratic}} |47D, 32R, 1G
+|{{Party shading/Democratic}} |28D, 24R
+|- style="height:2em"
+!2000
+|{{Party shading/Republican}} |[[J. Clark Kelso]] {{small|(R)}}{{efn|name=acting}}
+|{{Party shading/Democratic}} |27D, 25R
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Democratic}} |[[Harry W. Low]] {{small|(D)}}{{efn|name=appointed}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 14R
+|rowspan=2 {{Party shading/Democratic}} |50D, 30R
+|rowspan=2 {{Party shading/Democratic}} |32D, 20R
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=2 {{Party shading/Democratic}} |[[Kevin Shelley]] {{small|(D)}}{{efn|Resigned March 4, 2005. Deputy Insurance Commissioner [[Cathy Mitchell (politician)|Cathy Mitchell]] served in an acting capacity from March 4 until March 29.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Steve Westly]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John Garamendi]] {{small|(D)}}
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Jack O'Connell (American politician)|Jack O'Connell]] {{small|(NP/D)}}
+|rowspan=10 {{Party shading/Democratic}} |25D, 15R
+|rowspan=6 {{Party shading/Democratic}} |48D, 32R
+|rowspan=4 {{Party shading/Democratic}} |33D, 20R
+|- style="height:2em"
+!2004
+|rowspan=7 {{Party shading/Republican}} |[[Arnold Schwarzenegger|Arnold<br>Schwarzenegger]]<br>{{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry|Kerry]]/<br>[[John Edwards|Edwards]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |[[Bruce McPherson]] {{small|(R)}}{{efn|name=appointed}}
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=3 {{Party shading/Democratic}} |[[John Garamendi]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jerry Brown]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Debra Bowen]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Lockyer]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[John Chiang (California politician)|John Chiang]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Steve Poizner]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |34D, 19R
+|- style="height:2em"
+!2008
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/Democratic}} |50D, 29R, 1I
+|- style="height:2em"
+!2010
+|{{Party shading/Republican}} |[[Abel Maldonado]] {{small|(R)}}{{efn|name=appointed}}
+|- style="height:2em"
+!2011
+|rowspan=8 {{Party shading/Democratic}} |[[Jerry Brown]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Gavin Newsom]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Kamala Harris]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Dave Jones (politician)|Dave Jones]] {{small|(D)}}
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Tom Torlakson]] {{small|(NP/D)}}
+|{{Party shading/Democratic}} |52D, 28R
+|- style="height:2em"
+!2012
+|{{party shading/Democratic}} |52D, 27R, 1I
+|- style="height:2em"
+!2013
+|{{party shading/Democratic}} |29D, 11R
+|rowspan=2 {{party shading/Democratic}} |55D, 25R
+|- style="height:2em"
+!2014
+|{{party shading/Democratic}} |28D, 12R{{efn|Republican Andy Vidak won a special election to fill the seat of Democrat [[Michael Rubio]]}}
+|- style="height:2em"
+!2015
+|rowspan=8 {{party shading/Democratic}} |[[Alex Padilla]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[John Chiang (California politician)|John Chiang]] {{small|(D)}}
+|rowspan=10 {{party shading/Democratic}} |[[Betty Yee]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |26D, 14R
+|rowspan=2 {{party shading/Democratic}} |52D, 28R
+|rowspan=2 {{party shading/Democratic}} |38D, 15R
+|- style="height:2em"
+!2016
+|rowspan=6 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|rowspan=6 {{party shading/Democratic}} |[[Xavier Becerra]] {{small|(D)}}{{efn|name=appointed}}
+|{{party shading/Democratic}} |27D, 13R
+|rowspan=2 {{party shading/Democratic}} |55D, 25R
+|rowspan=6 {{Party shading/Democratic}} |[[Kamala Harris]] {{small|(D)}}{{efn|Resigned to take office as Vice President of the United States.}}
+|rowspan=2 {{party shading/Democratic}} |39D, 14R
+|- style="height:2em"
+!2018
+|{{party shading/Democratic}} |26D, 14R{{efn|Democratic Senator [[Josh Newman (politician)|Josh Newman]] was [[Recall election|recalled]] and replaced by Republican [[Ling Ling Chang]].}}
+|- style="height:2em"
+!rowspan=3|2019
+|rowspan=11 {{Party shading/Democratic/current}} |[[Gavin Newsom]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic/current}} |[[Eleni Kounalakis]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic/current}} |[[Fiona Ma]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic/current}} |[[Ricardo Lara]] {{small|(D)}}
+|rowspan=11 {{Party shading/Nonpartisan/current}} |[[Tony Thurmond]]<br>{{small|(NP/D)}}
+|rowspan=11 {{Party shading/Democratic/current}} |3D, 1R
+|rowspan=4 {{Party shading/Democratic}} |29D, 11R
+|{{Party shading/Democratic}} |60D, 20R
+|rowspan=3 {{Party shading/Democratic}} |46D, 7R
+|- style="height:2em"
+|{{Party shading/Democratic}} |61D, 19R{{efn|Republican Assemblyman [[Brian Maienschein]] switched to the Democratic Party.}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |61D, 18R, 1I{{efn|Republican Assemblyman [[Chad Mayes]] left the Republican party and registered as an independent.}}
+|- style="height:2em"
+!2020
+|{{Party shading/Democratic}} |45D, 7R{{efn|Democrat [[Katie Hill]] resigned and was succeeded by Republican [[Mike Garcia (politician)|Mike Garcia]]. Republican [[Duncan D. Hunter]] resigned and his seat remained vacant until the next election.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=7 {{Party shading/Democratic/current}} |[[Rob Bonta]] {{small|(D)}}{{efn|name=appointed}}
+|rowspan=7 {{Party shading/Democratic/current}} |[[Shirley Weber]] {{small|(D)}}{{efn|name=appointed}}
+|rowspan=2 {{Party shading/Democratic}} |31D, 9R
+|rowspan=2 {{Party shading/Democratic}} |60D, 19R, 1I
+|rowspan=7 {{Party shading/Democratic/current}} |[[Alex Padilla]] {{small|(D)}}{{efn|name=appointed}}
+|rowspan=2 {{Party shading/Democratic}} |42D, 11R
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=5 {{Party shading/Democratic/current}} |[[Malia Cohen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |32D, 8R
+|rowspan=3 {{Party shading/Democratic}} |62D, 18R
+|rowspan=3 {{Party shading/Democratic}} |[[Laphonza Butler]] {{small|(D)}}{{efn|name=appointed}}
+|rowspan=3 {{Party shading/Democratic}} |40D, 12R
+|- style="height:2em"
+!rowspan=2 |2024
+|rowspan=4 {{Party shading/Democratic}} |[[Kamala Harris|Harris]]/<br>[[Tim Walz|Walz]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |31D, 9R{{efn|Democratic state senator [[Marie Alvarado-Gil]] switched to the Republican Party.}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |30D, 10R
+|rowspan=2 {{Party shading/Democratic/current}} |60D, 20R
+|rowspan=2 {{Party shading/Democratic/current}} |[[Adam Schiff]] {{small|(D)}}
+|rowspan=1 {{Party shading/Democratic}} |43D, 9R
+|- style="height:2em"
+!2026
+|rowspan=1 {{Party shading/Democratic/current}} |43D, 8R, 1I{{efn|U.S. Rep. [[Kevin Kiley (politician)|
+Kevin Kiley]] switched parties from Republican to Independent on March 9, 2026.<ref>{{Cite web|url=https://www.politico.com/live-updates/2026/03/09/congress/kevin-kiley-2026-election-independent-00819287|title=Rep. Kevin Kiley switches party affiliation to independent|date=March 9, 2026|website=POLITICO|last=Pelish|first=Aaron}}</ref>}}
+|- style="height:2em"
+|}
+{{United States political party shading key}}
+
+==Notes==
+{{notelist}}
+
+==See also==
+*[[California#Government and politics|Government and politics in California]]
+*[[California locations by voter registration]]
+*[[Politics of California]]
+**[[Politics of California before 1900]]
+*[[Elections in California]]
+*[[Government of California]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states}}
+
+[[Category:Politics of California]]
+[[Category:Government of California]]
+[[Category:Political party strength in the United States by state|California]]

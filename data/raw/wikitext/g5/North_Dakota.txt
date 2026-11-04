@@ -1,0 +1,796 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}} 
+[[File:Flag of the Governor of North Dakota.svg|thumb|[[Flags of governors of the U.S. states|Flag of the governor]]]]
+The [[governor of North Dakota]] is the [[head of government]] of the [[U.S. state]] of [[North Dakota]]. The [[Governor (United States)|governor]] is the head of the [[Executive (government)|executive branch]] of [[Government of North Dakota|North Dakota's state government]] and is charged with enforcing state laws.
+ 
+There have been 32 governors since North Dakota became a state, serving 33 distinct terms, with [[William Langer]] having been elected to multiple terms. The current officeholder is [[North Dakota Republican Party|Republican]] [[Kelly Armstrong]].
+
+==Governors==
+{{for|governors before statehood|List of governors of Dakota Territory}}
+[[Dakota Territory]] was organized on March 2, 1861;<ref>{{usstat|12|239}}</ref> on November 2, 1889, it was split into the states of North Dakota and [[South Dakota]].<ref>{{usstat|25|676}}</ref>
+
+The [[Constitution of North Dakota]] originally provided for the election of a governor and lieutenant governor every two years, which was changed to four years in 1964.<ref>{{Cite web |title=North Dakota State and County Official Term Lengths, Initiative 5 (1964) |url=https://ballotpedia.org/North_Dakota_State_and_County_Official_Term_Lengths,_Initiative_5_(1964) |access-date=May 30, 2023}}</ref> A limit of two terms was added in 2023.<ref>{{Cite web |title=North Dakota Constitutional Measure 1, Term Limits for Governor and State Legislators Initiative (2022) |url=https://ballotpedia.org/North_Dakota_Constitutional_Measure_1,_Term_Limits_for_Governor_and_State_Legislators_Initiative_(2022) |access-date=May 30, 2023}}</ref> The governor and lieutenant governor are elected together on a [[ticket (election)|ticket]],<ref>ND Const. art. V, § 3</ref> and should the office of governor become vacant, the lieutenant governor becomes governor.<ref>ND Const. art. V, § 11</ref> The term of office begins on the December 15 following the election.<ref>ND Const. art. V, § 5</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of North Dakota
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="4"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="3"|[[Lieutenant Governor of North Dakota|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Miller, John"|[[File:John Miller (North Dakota Governor).jpg|75px]]
+|rowspan="2" colspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|'''[[John Miller (North Dakota politician)|John Miller]]'''<br>{{small|(1843–1908)}}<br>{{sfn|Sobel|1978|p=1171}}<ref name="nga-miller">{{Cite web |title=John Miller |url=https://www.nga.org/governor/john-miller/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="414"|November 20, 1889<ref>{{Cite news |date=1889-11-22 |title=The Legislature |page=8 |work=Bismarck Weekly Tribune |url=https://www.newspapers.com/article/bismarck-weekly-tribune-miller-takes-off/125587779/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 7, 1891<br>{{small|(414 days; retired)}}{{sfn|Sobel|1978|p=1171}}
+|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1889 North Dakota gubernatorial election|1889]]
+|rowspan="2" colspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|Alfred|Dickey}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Burke, Andrew"|[[File:Andrew H. Burke (North Dakota Governor).jpg|75px]]
+|'''[[Andrew H. Burke]]'''<br>{{small|(1850–1918)}}<br>{{sfn|Sobel|1978|pp=1171–1172}}<ref name="nga-burke-andrew">{{Cite web |title=Andrew Horace Burke |url=https://www.nga.org/governor/andrew-horace-burke/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1891<ref>North Dakota Legislative Assembly. ''Journal of the House of Representatives''. 1891 sess., [https://books.google.com/books?id=rdFLAQAAMAAJ&pg=PA34 34], accessed May 30, 2023</ref><br />&ndash;<br />January 4, 1893<br>{{small|(729 days; lost election)}}
+|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1890 North Dakota gubernatorial election|1890]]
+|{{sortname|Roger|Allin}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Shortridge, Eli"|[[File:Eli Shortridge.jpg|75px]]
+|colspan="2" style="background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|'''[[Eli C. D. Shortridge]]'''<br>{{small|(1830–1908)}}<br>{{sfn|Sobel|1978|p=1172}}<ref name="nga-shortridge">{{Cite web |title=Eli C. D. Shortridge |url=https://www.nga.org/governor/eli-c-d-shortridge/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 4, 1893{{efn|Sources disagree on when Shortridge took office; Sobel says January 2,{{sfn|Sobel|1978|p=1172}} the State Historical Society says January 3,<ref>{{Cite web |title=Eli C. D. Shortridge |url=https://www.history.nd.gov/exhibits/governors/governors3.html |access-date=May 30, 2023 |website=North Dakota Governors Online |publisher=State Historical Society of North Dakota}}</ref> one contemporary news source says Shortridge qualified on January 3,<ref>{{Cite news |date=1893-01-04 |title=North Dakota Legislature Gets in Motion |page=2 |work=Chicago Tribune |url=https://www.newspapers.com/article/chicago-tribune-shortridge-became-govern/125589693/ |access-date=2023-05-30}}</ref> and Shortridge delivered his inaugural address (dated January 3) to the legislature on January 4.<ref>North Dakota Legislative Assembly. ''Journal of the House of Representatives''. 1893 sess., [https://books.google.com/books?id=VTgeYHX7M9UC&pg=PA33 33], accessed May 30, 2023</ref>}}<br />&ndash;<br />January 9, 1895<br>{{small|(736 days; retired)}}
+|[[People's Party (United States)|Populist]]{{sfn|Sobel|1978|p=1172}}
+|[[1892 North Dakota gubernatorial election|1892]]
+|colspan="2" style="background: {{party color|North Dakota Democratic-Independent Party}};" title="Represented the Democratic-Independent Party"|
+|{{sortname|Elmer D.|Wallace}}{{efn|Represented the [[North Dakota Democratic-Independent Party|Democratic-Independent Party]]|name=lt-di}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Allin, Roger"|[[File:Roger Allin (North Dakota Governor).jpg|75px]]
+|colspan="2" rowspan="7" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Roger Allin]]'''<br>{{small|(1848–1936)}}<br>{{sfn|Sobel|1978|pp=1172–1173}}<ref name="nga-allin">{{Cite web |title=Roger Allin |url=https://www.nga.org/governor/roger-allin/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="730"|January 9, 1895<ref>North Dakota Legislative Assembly. ''Journal of the House of Representatives''. 1895 sess., [https://books.google.com/books?id=6NJLAQAAMAAJ&pg=PA35 35], accessed May 30, 2023</ref><br />&ndash;<br />January 7, 1897<br>{{small|(730 days;<br>lost nomination)}}<ref>{{Cite news |date=1896-07-25 |title=Briggs the Man |page=4 |work=The Washburn Leader |url=https://www.newspapers.com/article/the-washburn-leader-briggs-the-man/125584014/ |access-date=2023-05-30}}</ref>
+|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1894 North Dakota gubernatorial election|1894]]
+|colspan="2" rowspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John H.|Worst}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Briggs, Frank"|[[File:Frank A. Briggs (North Dakota Governor).jpg|75px]]
+|'''[[Frank A. Briggs]]'''<br>{{small|(1858–1898)}}<br>{{sfn|Sobel|1978|p=1173}}<ref name="nga-briggs">{{Cite web |title=Frank Arlington Briggs |url=https://www.nga.org/governor/frank-arlington-briggs/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="580"|January 7, 1897{{efn|Sources disagree on when Briggs took office; Sobel says January 8,{{sfn|Sobel|1978|p=1173}} the State Historical Society says January 6,<ref>{{Cite web |title=Frank A. Briggs |url=https://www.history.nd.gov/exhibits/governors/governors5.html |access-date=May 30, 2023 |website=North Dakota Governors Online |publisher=State Historical Society of North Dakota}}</ref> and a contemporary news source says he was sworn in on January 7,<ref>{{Cite news |date=1897-01-14 |title=The Legislature |page=2 |work=Courier Democrat |url=https://www.newspapers.com/article/courier-democrat-briggs-sworn-in-january/125590960/ |access-date=2023-05-30}}</ref> which notes that inaugural proceedings were delayed by the death of Briggs' daughter.}}<br />&ndash;<br />August 9, 1898<br>{{small|(580 days; died in office)}}
+|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1896 North Dakota gubernatorial election|1896]]
+|{{sortname|Joseph M.|Devine}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Devine, Joseph"|[[File:Joseph M. Devine.gif|75px]]
+|'''[[Joseph M. Devine]]'''<br>{{small|(1861–1938)}}<br>{{sfn|Sobel|1978|p=1174}}<ref name="nga-devine">{{Cite web |title=Joseph McMurray Devine |url=https://www.nga.org/governor/joseph-mcmurray-devine/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="148"|August 9, 1898<ref>{{Cite news |date=1898-08-11 |title=Briggs Is Dead! |page=1 |work=The Hope Pioneer |url=https://www.newspapers.com/article/the-hope-pioneer-devine-succeeds-briggs/125591146/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 3, 1899<br>{{small|(148 days; retired)}}
+|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Fancher, Frederick"|[[File:Frederick Fancher (North Dakota Governor).jpg|75px]]
+|'''[[Frederick B. Fancher]]'''<br>{{small|(1852–1944)}}<br>{{sfn|Sobel|1978|pp=1174–1175}}<ref name="nga-fancher">{{Cite web |title=Frederick Bartlett Fancher |url=https://www.nga.org/governor/frederick-bartlett-fancher/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="735"|January 3, 1899<ref>{{Cite news |date=1899-01-07 |title=North Dakota Officers Inaugurated |page=1 |work=The Bottineau Courant |url=https://www.newspapers.com/article/the-bottineau-courant-north-dakota-offic/125591404/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 7, 1901<br>{{small|(735 days; withdrew)}}{{efn|Fancher was nominated by the Republican Party, but withdrew from the election due to health concerns.<ref>{{Cite news |date=1900-09-27 |title=Fancher Resigns |page=1 |work=Jamestown Weekly Alert |url=https://www.newspapers.com/article/jamestown-weekly-alert-fancher-resigns/125584293/ |access-date=2023-05-30}}</ref>}}
+|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1898 North Dakota gubernatorial election|1898]]
+|colspan="2" rowspan="4" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Joseph M.|Devine}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="White, Frank"|[[File:Frank White, governor of North Dakota.gif|75px]]
+|rowspan="2"|'''[[Frank White (North Dakota politician)|Frank White]]'''<br>{{small|(1856–1940)}}<br>{{sfn|Sobel|1978|p=1175}}<ref name="nga-white">{{Cite web |title=Frank White |url=https://www.nga.org/governor/frank-white/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1459"|January 7, 1901<ref>{{Cite news |date=1901-01-07 |title=The New Officers |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-the-new-officers/125591583/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 4, 1905<br>{{small|(1459 days; retired)}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1900 North Dakota gubernatorial election|1900]]
+|rowspan="3"|{{sortname|David|Bartlett|dab=North Dakota politician}}
+|- style="height:2em;"
+|[[1902 North Dakota gubernatorial election|1902]]
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Sarles, Elmore"|[[File:Elmore Y. Sarles.gif|75px]]
+|'''[[Elmore Y. Sarles]]'''<br>{{small|(1859–1929)}}<br>{{sfn|Sobel|1978|pp=1175–1176}}<ref name="nga-sarles">{{Cite web |title=Elmore Yocum Sarles |url=https://www.nga.org/governor/elmore-yocum-sarles/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 4, 1905<ref>{{Cite news |date=1905-01-05 |title=New Administration Is Nicely Launched |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-new-administration/125591741/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 9, 1907<br>{{small|(736 days; lost election)}}
+|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1904 North Dakota gubernatorial election|1904]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|10
+|rowspan="3" data-sort-value="Burke, John"|[[File:Portrait of Governor John Burke of North Dakota.jpeg|75px]]
+|colspan="2" rowspan="3" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[John Burke (North Dakota politician)|John Burke]]'''<br>{{small|(1859–1937)}}<br>{{sfn|Sobel|1978|pp=1176–1177}}<ref name="nga-burke-john">{{Cite web |title=John Burke |url=https://www.nga.org/governor/john-burke/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 9, 1907<ref>{{Cite news |date=1907-01-10 |title=Now Gov. Burke |page=5 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-now-gov-burke/125591865/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 8, 1913<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[North Dakota Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1906 North Dakota gubernatorial election|1906]]
+|colspan="2" rowspan="3" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Robert S.|Lewis}}
+|- style="height:2em;"
+|[[1908 North Dakota gubernatorial election|1908]]
+|- style="height:2em;"
+|[[1910 North Dakota gubernatorial election|1910]]
+|{{sortname|Usher L.|Burdick}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Hanna, L.B."|[[File:HANNA, LOUIS B., GOVERNOR LCCN2016862215 (cropped).jpg|75px]]
+|colspan="2" rowspan="2" style="background: {{party color|Republican Party (United States)}}; border-bottom: none;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[L. B. Hanna]]'''<br>{{small|(1861–1948)}}<br>{{sfn|Sobel|1978|p=1177}}<ref name="nga-hanna">{{Cite web |title=Louis Benjamin Hanna |url=https://www.nga.org/governor/louis-benjamin-hanna/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1913<ref>{{Cite news |date=1913-01-09 |title=A Republican Administration |page=4 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-a-republican-admini/125591974/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 3, 1917<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=450–451}}
+|[[1912 North Dakota gubernatorial election|1912]]
+|colspan="2" rowspan="9" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Anton|Kraabel}}
+|- style="height:2em;"
+|[[1914 North Dakota gubernatorial election|1914]]
+|{{sortname|John H.|Fraine}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|12
+|rowspan="3" data-sort-value="Frazier, Lynn"|[[File:Lynn Frazier.jpg|75px]]
+|rowspan="8" style="background: {{party color|Republican Party (United States)}}; border-top: none; padding: .2em .2em;" title="Represented the Republican Party"|
+|rowspan="3" style="background: {{party color|Nonpartisan League}}; padding: .2em .2em;" title="Represented the Nonpartisan League"|
+|rowspan="3"|'''[[Lynn Frazier]]'''<br>{{small|(1874–1947)}}<br>{{sfn|Sobel|1978|pp=1177–1178}}<ref name="nga-frazier">{{Cite web |title=Lynn Joseph Frazier |url=https://www.nga.org/governor/lynn-joseph-frazier/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1786"|January 3, 1917<ref>{{Cite news |date=1917-01-03 |title=Intense Enthusiasm Marks New Regime at State Capitol |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-intense-enthusiasm/125592219/ |access-date=2023-05-30}}</ref><br />&ndash;<br />November 23, 1921<br>{{small|(1786 days; recalled)}}{{efn|Frazier was [[1921 North Dakota gubernatorial recall election|recalled]] and Nestos elected to replace him in a special election.|name=1921recall}}
+|rowspan="3"|[[North Dakota Republican Party|Republican]]/<br />[[Nonpartisan League]]{{sfn|Sobel|1978|pp=1177–1178}}
+|[[1916 North Dakota gubernatorial election|1916]]
+|{{sortname|Anton|Kraabel}}
+|- style="height:2em;"
+|[[1918 North Dakota gubernatorial election|1918]]
+|rowspan="3"|{{sortname|Howard R.|Wood}}
+|- style="height:2em;"
+|[[1920 North Dakota gubernatorial election|1920]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Nestos, Ragnvald"|[[File:RagnvaldANestos.jpg|75px]]
+|rowspan="2" style="background: {{party color|Independent Voters Association}}; padding: .2em .2em;" title="Represented the Independent Voters Association"|
+|rowspan="2"|'''[[Ragnvald Nestos]]'''<br>{{small|(1877–1942)}}<br>{{sfn|Sobel|1978|pp=1178–1179}}<ref name="nga-nestos">{{Cite web |title=Ragnvold Anderson Nestos |url=https://www.nga.org/governor/ragnvold-anderson-nestos/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1142"|November 23, 1921<ref>{{Cite news |date=1921-11-23 |title=New Governor Kindles Pride in State, Pledges Economy. Asks Strife Be Forgotten |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-new-governor-kindle/125592333/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 7, 1925<br>{{small|(1142 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1178–1179}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]/<br />[[Independent Voters Association|Independent Voters]]{{sfn|Sobel|1978|pp=1178–1179}}
+|[[1921 North Dakota gubernatorial recall election|1921]]<br>{{small|(recall)}}{{efn|name=1921recall}}
+|- style="height:2em;"
+|[[1922 North Dakota gubernatorial election|1922]]
+|{{sortname|Frank H.|Hyland}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Sorlie, Arthur"|[[File:ArthurGSorlie.jpg|75px]]
+|rowspan="4" style="background: {{party color|Nonpartisan League}}; padding: .2em .2em;" title="Represented the Nonpartisan League"|
+|rowspan="2"|'''[[Arthur G. Sorlie]]'''<br>{{small|(1874–1928)}}<br>{{sfn|Sobel|1978|p=1179}}<ref name="nga-sorlie">{{Cite web |title=Arthur Gustav Sorlie |url=https://www.nga.org/governor/arthur-gustav-sorlie/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1330"|January 7, 1925<ref>{{Cite news |date=1925-01-07 |title=Sorlie, Nestos Both Speak; New Governor Inaugurated Before Joint Session Today |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-sorlie-nestos-both/125592430/ |access-date=2023-05-30}}</ref><br />&ndash;<br />August 28, 1928<br>{{small|(1330 days; died in office)}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]/<br />[[Nonpartisan League]]{{sfn|Sobel|1978|p=1179}}
+|[[1924 North Dakota gubernatorial election|1924]]
+|rowspan="2"|{{sortname|Walter|Maddock}}
+|- style="height:2em;"
+|[[1926 North Dakota gubernatorial election|1926]]
+|- style="height:2em;"
+! rowspan="2" scope="row" |15
+| rowspan="2" data-sort-value="Maddock, Walter" |[[File:Walter J. Maddock (North Dakota governor).jpg|75px]]
+| rowspan="2" |'''[[Walter Maddock]]'''<br>{{small|(1880–1951)}}<br>{{sfn|Sobel|1978|pp=1179–1180}}<ref name="nga-maddock">{{Cite web |title=Walter Maddock |url=https://www.nga.org/governor/walter-maddock/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+| rowspan="2" data-sort-value="135" |August 28, 1928<ref>{{Cite news |date=1928-08-28 |title=Governor Sorlie Dead from Fight with Heart Disease |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-maddock-succeeds-so/125592551/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 9, 1929<br>{{small|(135 days; lost election)}}
+|[[North Dakota Republican Party|Republican]]/<br />[[Nonpartisan League]]{{sfn|Sobel|1978|pp=1179–1180}}
+| rowspan="2" style="background:#EEEEEE" |{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="3" rowspan="2" style="background:#EEEEEE;"|''Vacant''
+|-
+|style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|[[North Dakota Democratic Party|Democratic]]/<br/>[[Nonpartisan League]]{{Efn|Maddock switched parties to run in the [[1928 North Dakota gubernatorial election|1928 election]].<ref>{{Cite web |last=Eriksmoen |first=Curtis |date=2018-04-22 |title=Interesting facts about former N.D. Gov. Walter Maddock |url=https://www.inforum.com/community/eriksmoen-interesting-facts-about-former-n-d-gov-walter-maddock |access-date=2026-10-08 |website=InForum |language=en}}</ref>}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Shafer, George"|[[File:George F. Shafer (Governor of North Dakota, circa. 1929-1933).jpg|75px]]
+|rowspan="4" style="background:{{party color| Republican Party (United States)}} ;" title="Represented the Republican Party"|&nbsp;
+|rowspan="2" style="background: {{party color|Independent Voters Association}}; padding: .2em .2em;" title="Represented the Independent Voters Association"|
+|rowspan="2"|'''[[George F. Shafer]]'''<br>{{small|(1888–1948)}}<br>{{sfn|Sobel|1978|p=1180}}<ref name="nga-shafer">{{Cite web |title=George Frederick Shafer |url=https://www.nga.org/governor/george-frederick-shafer/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 9, 1929<ref>{{Cite news |date=1929-01-09 |title=Governor Shafer Takes Post |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-governor-shafer-tak/125592654/ |access-date=2023-05-30}}</ref><br />&ndash;<br />January 4, 1933<br>{{small|(1457 days; retired)}}{{efn|Shafer instead [[1932 United States Senate election in North Dakota|ran unsuccessfully]] for the Republican nomination to the [[United States Senate]].{{sfn|Sobel|1978|p=1180}}}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]/<br />[[Independent Voters Association|Independent Voters]]{{sfn|Sobel|1978|p=1180}}
+|[[1928 North Dakota gubernatorial election|1928]]
+|colspan="2" rowspan="3" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|John W.|Carr}}
+|- style="height:2em;"
+|[[1930 North Dakota gubernatorial election|1930]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Langer, William"|[[File:Governor William Langer Crop.jpg|75px]]
+|rowspan="2" style="background: {{party color|Nonpartisan League}}; padding: .2em .2em;" title="Represented the Nonpartisan League"|
+|'''[[William Langer]]'''<br>{{small|(1886–1959)}}<br>{{sfn|Sobel|1978|p=1181}}<ref name="nga-langer">{{Cite web |title=William Langer |url=https://www.nga.org/governor/william-langer/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="562"|January 4, 1933{{efn|Sources disagree on when Langer took office; the State Historical Society says December 31, 1932,<ref>{{Cite web |title=William Langer |url=https://www.history.nd.gov/exhibits/governors/governors17.html |access-date=May 30, 2023 |website=North Dakota Governors Online |publisher=State Historical Society of North Dakota}}</ref> but contemporary news indicates it was on January 4, 1933, the matter being complicated because Langer was ill and unable to attend..<ref>{{Cite news |date=1933-01-04 |title=New Officers Take Hold and Name Deputies |page=1 |work=Morning Pioneer |agency=Associated Press |url=https://www.newspapers.com/article/morning-pioneer-new-officers-take-hold-a/125593384/ |access-date=2023-05-30}}</ref>}}<br />&ndash;<br />July 19, 1934<br>{{small|(562 days; removed)}}{{efn|Langer was removed from office following his conviction of felony conspiracy to defraud the federal government; he was later cleared.{{sfn|Sobel|1978|p=1181}} He was convicted on June 17 and Lieutenant Governor [[Ole H. Olson]] immediately moved to take over, receiving the oath of office.<ref>{{Cite news |date=1934-06-18 |title=New Rockford Man Moves to Assume Duties of Office |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-new-rockford-man-mo/125593810/ |access-date=2023-05-30}}</ref> The Supreme Court ruled Langer was ineligible on July 17, and Olson formally took office on July 19.<ref>{{Cite news |date=1934-07-19 |title=Acting Governor Takes Control of Executive Office |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-acting-governor-tak/125594025/ |access-date=2023-05-30}}</ref> Langer had received the Republican nomination for the 1934 election and so withdrew, with his wife Lydia running in his stead.<ref>{{cite magazine | magazine=Time | date=August 12, 1934 | url=https://time.com/archive/6894892/political-notes-better-half/ | title=Political Notes: Better Half | access-date=September 8, 2026}}</ref>|name=langer-olson}}
+|[[North Dakota Republican Party|Republican]]/<br />[[Nonpartisan League]]{{sfn|Sobel|1978|p=1181}}
+|[[1932 North Dakota gubernatorial election|1932]]
+|{{sortname|Ole H.|Olson}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Olson, Ole"|[[File:O. H. Olson 1920.jpg|75px]]
+|'''[[Ole H. Olson]]'''<br>{{small|(1872–1954)}}<br>{{sfn|Sobel|1978|pp=1181–1182}}<ref name="nga-olson-ole">{{Cite web |title=Ole H. Olson |url=https://www.nga.org/governor/ole-h-olson/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="173"|July 19, 1934{{efn|name=langer-olson}}<br />&ndash;<br />January 7, 1935<br>{{small|(173 days; retired)}}
+|[[North Dakota Republican Party|Republican]]/<br />[[Nonpartisan League]]
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Moodie, Thomas"|[[File:Thomas H. Moodie (North Dakota governor).jpg|75px]]
+|colspan="2" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Thomas H. Moodie]]'''<br>{{small|(1878–1948)}}<br>{{sfn|Sobel|1978|p=1182}}<ref name="nga-moodie">{{Cite web |title=Thomas Hilliard Moodie |url=https://www.nga.org/governor/thomas-hilliard-moodie/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="27"|January 7, 1935<ref>{{Cite news |date=1935-01-07 |title=Moodie Becomes N.D. Governor |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-moodie-becomes-nd/125610032/ |access-date=2023-05-31}}</ref><br />&ndash;<br />February 2, 1935<br>{{small|(27 days; removed)}}{{efn|The Supreme Court ruled that Moodie did not meet residency requirements to run for governor, and so removed him.{{sfn|Sobel|1978|p=1182}}}}
+|[[North Dakota Democratic Party|Democratic]]{{sfn|Sobel|1978|p=1182}}
+|[[1934 North Dakota gubernatorial election|1934]]
+|colspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Walter|Welford}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Welford, Walter"|[[File:Walter Welford 1935 Edit.jpg|75px]]
+|style="background: {{party color|Republican Party (United States)}}; padding: .2em .2em;" title="Represented the Republican Party"|
+|style="background: {{party color|Nonpartisan League}}; padding: .2em .2em;" title="Represented the Nonpartisan League"|
+|'''[[Walter Welford]]'''<br>{{small|(1868–1952)}}<br>{{sfn|Sobel|1978|p=1183}}<ref name="nga-welford">{{Cite web |title=Walter Welford |url=https://www.nga.org/governor/walter-welford/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="705"|February 2, 1935<ref>{{Cite news |date=1935-02-02 |title=Supreme Court Holds Moodie Disqualified by Constitution |page=9 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-supreme-court-holds/125610092/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 6, 1937<br>{{small|(705 days; lost election)}}
+|[[North Dakota Republican Party|Republican]]/<br />[[Nonpartisan League]]{{sfn|Sobel|1978|p=1183}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Langer, William"|[[File:Governor William Langer Crop.jpg|75px]]
+|colspan="2" style="background:{{party color|Independent (United States)}};" title="Represented no party"|
+|'''[[William Langer]]'''<br>{{small|(1886–1959)}}<br>{{sfn|Sobel|1978|p=1181}}<ref name="nga-langer" />
+|data-sort-value="727"|January 6, 1937<ref>{{Cite news |date=1937-01-07 |title=Grand March Climaxes Inaugural |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-grand-march-climaxe/125610240/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 2, 1939<br>{{small|(727 days; retired)}}{{efn|Langer instead [[1938 United States Senate election in North Dakota|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=1181}}}}
+|[[Independent politician|Independent]]{{sfn|Sobel|1978|p=1181}}
+|[[1936 North Dakota gubernatorial election|1936]]
+|colspan="2" rowspan="3" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Thorstein H. H.|Thoresen}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|22
+|rowspan="3" data-sort-value="Moses, John"|[[File:JohnMoses.jpg|75px]]
+|colspan="2" rowspan="3" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[John Moses (North Dakota politician)|John Moses]]'''<br>{{small|(1885–1945)}}<br>{{sfn|Sobel|1978|pp=1183–1184}}<ref name="nga-moses">{{Cite web |title=John Moses |url=https://www.nga.org/governor/john-moses/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2193"|January 2, 1939<ref>{{Cite news |date=1939-01-02 |title=Langer Ends His Regime |page=2 |work=Reno Gazette-Journal |agency=Associated Press |url=https://www.newspapers.com/article/reno-gazette-journal-langer-ends-his-reg/125610585/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 2, 1945<br>{{small|(2193 days; retired)}}{{efn|Moses was instead [[1944 United States Senate election in North Dakota|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1183–1184}}}}
+|rowspan="3"|[[North Dakota Democratic Party|Democratic]]{{sfn|Sobel|1978|pp=1183–1184}}
+|[[1938 North Dakota gubernatorial election|1938]]
+|{{sortname|Jack A.|Patterson}}
+|- style="height:2em;"
+|[[1940 North Dakota gubernatorial election|1940]]
+|{{sortname|Oscar W.|Hagen}}
+|- style="height:2em;"
+|[[1942 North Dakota gubernatorial election|1942]]
+|colspan="2" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Henry|Holt|dab=North Dakota politician}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|23
+|rowspan="3" data-sort-value="Aandahl, Fred"|[[File:Fred G. Aandahl (North Dakota governor) Edit 3x4.png|75px]]
+|colspan="2" rowspan="8" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Fred G. Aandahl]]'''<br>{{small|(1897–1966)}}<br>{{sfn|Sobel|1978|p=1184}}<ref name="nga-aandahl">{{Cite web |title=Fred George Aandahl |url=https://www.nga.org/governor/fred-george-aandahl/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2193"|January 2, 1945<ref>{{Cite news |date=1945-01-02 |title=Aandahl, Other New State Officers Begin Duties |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-aandahl-other-new/125610657/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 3, 1951<br>{{small|(2193 days; retired)}}{{efn|Aandahl was instead [[1950 United States House of Representatives elections|elected]] to the [[United States House of Representatives]].{{sfn|Sobel|1978|p=1184}}}}
+|rowspan="3"|[[North Dakota Republican Party|Republican]]{{sfn|Sobel|1978|p=1184}}
+|[[1944 North Dakota gubernatorial election|1944]]
+|colspan="2" rowspan="10" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Clarence P.|Dahl}}
+|- style="height:2em;"
+|[[1946 North Dakota gubernatorial election|1946]]
+|- style="height:2em;"
+|[[1948 North Dakota gubernatorial election|1948]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|24
+|rowspan="3" data-sort-value="Brunsdale, Norman"|[[File:Clarence Brunsdale.jpg|75px]]
+|rowspan="3"|'''[[Norman Brunsdale]]'''<br>{{small|(1891–1978)}}<br>{{sfn|Sobel|1978|p=1185}}<ref name="nga-brunsdale">{{Cite web |title=C. Norman Brunsdale |url=https://www.nga.org/governor/c-norman-brunsdale/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2197"|January 3, 1951<ref>{{Cite news |date=1951-01-03 |title=Family, Friends of New Governor Attend Inaugural |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-family-friends-of/125610711/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 7, 1957<br>{{small|(2197 days; retired)}}
+|rowspan="3"|[[North Dakota Republican Party|Republican]]{{sfn|Sobel|1978|p=1185}}
+|[[1950 North Dakota gubernatorial election|1950]]
+|{{sortname|Ray|Schnell}}
+|- style="height:2em;"
+|[[1952 North Dakota gubernatorial election|1952]]
+|rowspan="2"|{{sortname|Clarence P.|Dahl}}
+|- style="height:2em;"
+|[[1954 North Dakota gubernatorial election|1954]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Davis, John"|[[File:John E. Davis in 1969 Civil Defense film.png|75px]]
+|rowspan="2"|'''[[John E. Davis (North Dakota politician)|John E. Davis]]'''<br>{{small|(1913–1990)}}<br>{{sfn|Sobel|1978|pp=1185–1186}}<ref name="nga-davis">{{Cite web |title=John Edward Davis |url=https://www.nga.org/governor/john-edward-davis/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1458"|January 7, 1957<ref>{{Cite news |date=1957-01-09 |title=John Davis Is Sworn In at Capitol |page=1 |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-john-davis-is-sworn/125610827/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 3, 1961<br>{{small|(1458 days; retired)}}{{efn|Davis instead [[1960 United States Senate special election in North Dakota|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|pp=1185–1186}}}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]{{sfn|Sobel|1978|pp=1185–1186}}
+|[[1956 North Dakota gubernatorial election|1956]]
+|{{sortname|Francis Clyde|Duffy}}
+|- style="height:2em;"
+|[[1958 North Dakota gubernatorial election|1958]]
+|{{sortname|Clarence P.|Dahl}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|26
+|rowspan="4" data-sort-value="Guy, William"|[[File:William L. Guy North Dakota Governor 1968.jpg|75px]]
+|colspan="2" rowspan="6" style="background: {{party color|North Dakota Democratic-NPL Party}};" title="Represented the Democratic-Nonpartisan League Party"|
+|rowspan="4"|'''[[William L. Guy]]'''<br>{{small|(1919–2013)}}<br>{{sfn|Sobel|1978|p=1186}}<ref name="nga-guy">{{Cite web |title=William Lewis Guy |url=https://www.nga.org/governor/william-lewis-guy/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="4383"|January 3, 1961<ref>{{Cite news |date=1961-01-04 |title=Guy Urges Austerity for N.D. |page=1 |work=The Bismarck Tribune |agency=Associated Press |url=https://www.newspapers.com/article/the-bismarck-tribune-guy-urges-austerity/125612095/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 2, 1973<br>{{small|(4383 days; retired)}}{{sfn|Sobel|1978|p=1186}}
+|rowspan="4"|[[North Dakota Democratic–Nonpartisan League Party|Democratic–<br />Nonpartisan League]]{{sfn|Sobel|1978|p=1186}}
+|[[1960 North Dakota gubernatorial election|1960]]
+|{{sortname|Orville W.|Hagen}}
+|- style="height:2em;"
+|[[1962 North Dakota gubernatorial election|1962]]
+|{{sortname|Frank A.|Wenstrom}}
+|- style="height:2em;"
+|[[1964 North Dakota gubernatorial election|1964]]
+|colspan="2" style="background: {{party color|North Dakota Democratic-NPL Party}};" title="Represented the Democratic-Nonpartisan League Party"|
+|{{sortname|Charles|Tighe}}
+|- style="height:2em;"
+|[[1968 North Dakota gubernatorial election|1968]]
+|colspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Richard F.|Larsen}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|27
+|rowspan="2" data-sort-value="Link, Arthur"|[[File:Arthur A. Link.jpg|75px]]
+|rowspan="2"|'''[[Arthur A. Link]]'''<br>{{small|(1914–2010)}}<br>{{sfn|Sobel|1978|p=1187}}<ref name="nga-link">{{Cite web |title=Arthur Albert Link |url=https://www.nga.org/governor/arthur-albert-link/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 2, 1973<ref>{{Cite news |date=1973-01-03 |title=Link Takes Oath As State Head |page=24 |work=The Bismarck Tribune |agency=Associated Press |url=https://www.newspapers.com/article/the-bismarck-tribune-link-takes-oath-as/125612160/ |access-date=2023-05-31}}</ref><br />&ndash;<br />January 6, 1981<br>{{small|(2927 days; lost election)}}
+|rowspan="2"|[[North Dakota Democratic–Nonpartisan League Party|Democratic–<br />Nonpartisan League]]{{sfn|Sobel|1978|p=1187}}
+|[[1972 North Dakota gubernatorial election|1972]]
+|colspan="2" rowspan="2" style="background: {{party color|North Dakota Democratic-NPL Party}};" title="Represented the Democratic-Nonpartisan League Party"|
+|rowspan="2"|{{sortname|Wayne|Sanstead}}
+|- style="height:2em;"
+|[[1976 North Dakota gubernatorial election|1976]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Olson, Allen"|[[File:Allen Olson.jpg|75px]]
+|colspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Allen I. Olson]]'''<br>{{small|(1938–2025)}}<br><ref name="nga-olson-allen">{{Cite web |title=Allen Ingvar Olson |url=https://www.nga.org/governor/allen-ingvar-olson/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1456"|January 6, 1981<ref>{{Cite news |last=Baenen |first=Jeff |date=1981-01-07 |title=Olson Begins Term |page=3 |work=The Bismarck Tribune |agency=Associated Press |url=https://www.newspapers.com/article/the-bismarck-tribune-olson-begins-term/125612219/ |access-date=2023-05-31}}</ref><br />&ndash;<br />December 31, 1984<br>{{small|(1456 days; lost election)}}
+|[[North Dakota Republican Party|Republican]]<ref name="nga-olson-allen" />
+|[[1980 North Dakota gubernatorial election|1980]]
+|colspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Ernest|Sands}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Sinner, George"|[[File:George Sinner.png|75px]]
+|colspan="2" rowspan="2" style="background: {{party color|North Dakota Democratic-NPL Party}};" title="Represented the Democratic-Nonpartisan League Party"|
+|rowspan="2"|'''[[George A. Sinner]]'''<br>{{small|(1928–2018)}}<br><ref name="nga-sinner">{{Cite web |title=George Albert Sinner |url=https://www.nga.org/governor/george-albert-sinner/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2906"|January 1, 1985{{efn|Sinner took the oath of office on December 31, so that he would become governor at midnight on January 1; Olson claimed that his term did not end until January 5, and refused to leave office. The Supreme Court ruled on January 4 that Sinner was governor, and had been since January 1.<ref>{{Cite news |last=Sellnow |first=Greg |date=1985-01-05 |title=Supreme Court Tells Olson to Pack It In |page=1A |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-supreme-court-tells/125612451/ |access-date=2023-05-31}}</ref><ref>{{Cite news |last=Sellnow |first=Greg |date=1985-01-05 |title=Justices Unanimously Support Sinner |page=1A |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-justices-unanimousl/125612512/ |access-date=2023-05-31}}</ref>}}<br />&ndash;<br />December 15, 1992<br>{{small|(2906 days; retired)}}
+|rowspan="2"|[[North Dakota Democratic–Nonpartisan League Party|Democratic–<br />Nonpartisan League]]<ref name="nga-sinner" />
+|[[1984 North Dakota gubernatorial election|1984]]
+|colspan="2" rowspan="2" style="background: {{party color|North Dakota Democratic-NPL Party}};" title="Represented the Democratic-Nonpartisan League Party"|
+|{{sortname|Ruth|Meiers}}
+|- style="height:2em;"
+|[[1988 North Dakota gubernatorial election|1988]]
+|{{sortname|Lloyd|Omdahl}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Schafer, Ed"|[[File:Ed Schafer -- February 2008.jpg|75px]]
+|colspan="2" rowspan="11" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Ed Schafer]]'''<br>{{small|({{Abbr|b.|born in}} 1946)}}<br><ref name="nga-schafer">{{Cite web |title=Edward Thomas Schafer |url=https://www.nga.org/governor/edward-thomas-schafer/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2923"|December 15, 1992<ref>{{Cite news |last=Donatelle |first=Kristine |date=1992-12-16 |title=Governor Fills Key Posts |language=en |page=1A |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-governor-fills-key/125620205/ |access-date=2023-05-31}}</ref><br />&ndash;<br />December 15, 2000<br>{{small|(2923 days; retired)}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]<ref name="nga-schafer" />
+|[[1992 North Dakota gubernatorial election|1992]]
+|colspan="2" rowspan="11" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Rosemarie|Myrdal}}
+|- style="height:2em;"
+|[[1996 North Dakota gubernatorial election|1996]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|31
+|rowspan="3" data-sort-value="Hoeven, John"|[[File:John Hoeven, Official Senate Portrait, 112th Congress.jpg|75px]]
+|rowspan="3"|'''[[John Hoeven]]'''<br>{{small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-hoeven">{{Cite web |title=John Hoeven |url=https://www.nga.org/governor/john-hoeven/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="3645"|December 15, 2000<ref>{{Cite news |last=Wetzel |first=Dale |date=2000-12-16 |title=Hoeven's First Day Full of Decisions |page=1A |work=The Bismarck Tribune |agency=Associated Press |url=https://www.newspapers.com/article/the-bismarck-tribune-hoevens-first-day/125620321/ |access-date=2023-05-31}}</ref><br />&ndash;<br />December 7, 2010<br>{{small|(3645 days; resigned)}}{{efn|Hoeven resigned, having been [[2010 United States Senate election in North Dakota|elected]] to the [[United States Senate]].}}
+|rowspan="3"|[[North Dakota Republican Party|Republican]]<ref name="nga-hoeven" />
+|[[2000 North Dakota gubernatorial election|2000]]
+|rowspan="3"|{{sortname|Jack|Dalrymple}}
+|- style="height:2em;"
+|[[2004 North Dakota gubernatorial election|2004]]
+|- style="height:2em;"
+|[[2008 North Dakota gubernatorial election|2008]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Dalrymple, Jack"|[[File:Jack Dalrymple 2013 (cropped 2).jpg|75px]]
+|rowspan="2"|'''[[Jack Dalrymple]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-dalrymple">{{Cite web |title=Jack Dalrymple |url=https://www.nga.org/governor/jack-dalrymple/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2201"|December 7, 2010<ref>{{Cite news |last=Beitsch |first=Rebecca |date=2010-12-08 |title=It's Official, Governor |page=1A |work=The Bismarck Tribune |url=https://www.newspapers.com/article/the-bismarck-tribune-its-official-gove/125621529/ |access-date=2023-05-31}}</ref><br />&ndash;<br />December 15, 2016<br>{{small|(2201 days; retired)}}
+|rowspan="2"|[[North Dakota Republican Party|Republican]]<ref name="nga-dalrymple" />
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="2"|{{sortname|Drew|Wrigley}}
+|- style="height:2em;"
+|[[2012 North Dakota gubernatorial election|2012]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|33
+|rowspan="3" data-sort-value="Burgum, Doug"|[[File:Governor Doug Burgum (cropped).jpg|75px]]
+|rowspan="3"|'''[[Doug Burgum]]'''<br>{{small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-burgum">{{Cite web |title=Doug Burgum |url=https://www.nga.org/governor/doug-burgum/ |access-date=May 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2923"|December 15, 2016<ref>{{Cite news |last=Holgate |first=Julie |date=December 15, 2016 |title=Doug Burgum Takes Office As Nd Governor Today |language=en |work=Valley News Live |url=https://www.valleynewslive.com/content/news/Doug-Burgum-takes-office-as-ND-governor-today-406748135.html |access-date=May 31, 2023}}</ref><br />&ndash;<br />December 15, 2024<br>{{small|(2923 days; retired)}}
+|rowspan="3"|[[North Dakota Republican Party|Republican]]<ref name="nga-burgum" />
+|[[2016 North Dakota gubernatorial election|2016]]
+|rowspan="2"|{{sortname|Brent|Sanford}}
+|- style="height:2em;"
+|rowspan="2"|[[2020 North Dakota gubernatorial election|2020]]
+|- style="height:2em;"
+|{{sortname|Tammy|Miller|dab=politician}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Armstrong, Kelly"|[[File:Kelly_Armstrong_(cropped).jpg|75px]]
+|'''[[Kelly Armstrong]]'''<br>{{small|({{Abbr|b.|born in}} 1976)}}<br><ref name="nga-armstrong">{{Cite web |title=Kelly Armstrong |url=https://www.nga.org/governor/kelly-armstrong/ |access-date=January 9, 2025 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2024|12|15|duration=on|format=no}}"|December 15, 2024<ref>{{Cite web |date=2024-12-15 |title=Armstrong takes oath of office, begins term as 34th governor in North Dakota’s 135-year history | publisher=North Dakota Office of the Governor |url=https://www.governor.nd.gov/news/armstrong-takes-oath-office-begins-term-34th-governor-north-dakotas-135-year-history |access-date=2025-01-23 |website=www.governor.nd.gov |language=en}}</ref><br />&ndash;<br />Incumbent{{efn|Armstrong's term [[2028 North Dakota gubernatorial election|will expire]] on December 15, 2028.}}<br>{{small|(in office {{Duration in days nts|2024|12|15|duration=on|format=no}} days)}}
+|[[North Dakota Republican Party|Republican]]<ref name="nga-armstrong" />
+|[[2024 North Dakota gubernatorial election|2024]]
+|{{sortname|Michelle|Strinden}}
+|}
+
+==Electoral history (1950–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[North Dakota Democratic–Nonpartisan League Party|Democratic–NPL]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |Other candidate
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1950 North Dakota gubernatorial election|1950]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Clyde G. Byerly
+| 61,950
+| 33.71%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Norman Brunsdale]]'''
+| '''121,822'''
+| '''66.29%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1952 North Dakota gubernatorial election|1952]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Ole C. Johnson
+| 53,990
+| 21.26%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Norman Brunsdale]]'''
+| '''199,944'''
+| '''78.74%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1954 North Dakota gubernatorial election|1954]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Cornelius Bymers
+| 69,248
+| 35.79%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Norman Brunsdale]]'''
+| '''124,253'''
+| '''64.21%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1956 North Dakota gubernatorial election|1956]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| Wallace E. Warner
+| 104,869
+| 41.54%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[John E. Davis (North Dakota politician)|John E. Davis]]'''
+| '''147,566'''
+| '''58.46%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1958 North Dakota gubernatorial election|1958]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| John F. Lord
+| 98,763
+| 46.90%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[John E. Davis (North Dakota politician)|John E. Davis]]'''
+| '''111,836'''
+| '''53.10%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1960 North Dakota gubernatorial election|1960]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[William L. Guy]]'''
+| '''136,148'''
+| '''49.44%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Clarence P. Dahl]]
+| 122,486
+| 44.48%
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Herschel Lashkowitz]]
+| 16,741
+| 6.08%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1962 North Dakota gubernatorial election|1962]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[William L. Guy]]'''
+| '''115,258'''
+| '''50.44%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Mark Andrews (politician)|Mark Andrews]]
+| 113,251
+| 49.56%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1964 North Dakota gubernatorial election|1964]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[William L. Guy]]'''
+| '''146,414'''
+| '''55.74%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Donald M. Halcrow
+| 116,247
+| 44.26%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1968 North Dakota gubernatorial election|1968]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[William L. Guy]]'''
+| '''135,955'''
+| '''54.82%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Robert P. McCarney
+| 108,382
+| 43.70%
+| bgcolor="{{party color|Nonpartisan}}" |
+| {{nowrap|Leo Landsberger<br>(Taxpayers Revival)}}
+| 3,663
+| 1.48%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1972 North Dakota gubernatorial election|1972]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[Arthur A. Link]]'''
+| '''143,899'''
+| '''51.04%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Richard F. Larsen]]
+| 138,032
+| 48.96%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1976 North Dakota gubernatorial election|1976]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[Arthur A. Link]]'''
+| '''153,309'''
+| '''51.58%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Richard Elkin
+| 138,321
+| 46.53%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|American Party (1969)}}" |
+| {{nowrap|Martin K. Vaaler<br>([[American Party (1969)|American]])}}
+| 5,619
+| 1.89%
+|-
+| [[1980 North Dakota gubernatorial election|1980]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Arthur A. Link]]
+| 140,391
+| 46.39%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Allen I. Olson]]'''
+| '''162,230'''
+| '''53.61%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1984 North Dakota gubernatorial election|1984]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[George A. Sinner]]'''
+| '''173,922'''
+| '''55.32%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Allen I. Olson]]
+| 140,460
+| 44.68%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1988 North Dakota gubernatorial election|1988]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| '''[[George A. Sinner]]'''
+| '''179,094'''
+| '''59.88%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Leon Malberg
+| 119,986
+| 40.12%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1992 North Dakota gubernatorial election|1992]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Nicholas Spaeth]]
+| 123,845
+| 40.62%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Ed Schafer]]'''
+| '''176,398'''
+| '''57.86%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Harley McClain
+| 2,614
+| 0.86%
+| colspan=4| –
+| bgcolor="{{party color|Nonpartisan}}" |
+| Michael DuPaul
+| 2,004
+| 0.66%
+|-
+| [[1996 North Dakota gubernatorial election|1996]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Lee Kaldor]]
+| 89,349
+| 33.81%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Ed Schafer]]'''
+| '''174,937'''
+| '''66.19%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2000 North Dakota gubernatorial election|2000]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Heidi Heitkamp]]
+| 130,144
+| 44.97%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[John Hoeven]]'''
+| '''159,255'''
+| '''55.03%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2004 North Dakota gubernatorial election|2004]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Joe Satrom]]
+| 84,877
+| 27.39%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[John Hoeven]]'''
+| '''220,803'''
+| '''71.26%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| [[Roland Riemers]]
+| 4,193
+| 1.35%
+| colspan=4| –
+|-
+| [[2008 North Dakota gubernatorial election|2008]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Tim Mathern]]
+| 74,279
+| 23.53%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[John Hoeven]]'''
+| '''235,009'''
+| '''74.44%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| DuWayne Hendrickson
+| 6,404
+| 2.03%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2012 North Dakota gubernatorial election|2012]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Ryan Taylor (politician)|Ryan Taylor]]
+| 109,048
+| 34.31%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Jack Dalrymple]]'''
+| '''200,525'''
+| '''63.10%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Paul Sorum
+| 5,356
+| 1.69%
+| colspan=4| –
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Roland Riemers]]
+| 2,618
+| 0.82%
+|-
+| [[2016 North Dakota gubernatorial election|2016]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Marvin Nelson]]
+| 65,855
+| 19.39%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Doug Burgum]]'''
+| '''259,863'''
+| '''76.52%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Marty Riske
+| 13,230
+| 3.90%
+| colspan=4| –
+|-
+| [[2020 North Dakota gubernatorial election|2020]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| Shelley Lenz
+| 90,789
+| 25.38%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Doug Burgum]]'''
+| '''235,479'''
+| '''65.84%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| DuWayne Hendrickson
+| 13,853
+| 3.87%
+| colspan=4| –
+|-
+| [[2024 North Dakota gubernatorial election|2024]]
+| bgcolor="{{party color|North Dakota Democratic-NPL Party}}" |
+| [[Merrill Piepkorn]]
+| 94,043
+| 25.98%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| {{nowrap|'''[[Kelly Armstrong]]'''}}
+| '''247,056'''
+| '''68.26%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Michael Coachman
+| 20,322
+| 5.61%
+| colspan=4| –
+| colspan=4| –
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#North Dakota]]
+*[[List of North Dakota Legislative Assemblies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former North Dakota Governors |url=https://www.nga.org/former-governors/north-dakota/ |access-date=May 30, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=May 9, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of North Dakota - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=262 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[https://www.governor.nd.gov/ Office of the Governor of North Dakota]
+*[http://www.history.nd.gov/exhibits/governors/ State Historical Society of North Dakota, North Dakota Governors]
+
+{{North Dakota}}
+{{Lists of US Governors}}
+
+[[Category:Lists of state governors of the United States|North Dakota]]
+[[Category:Governors of North Dakota|*]]
+[[Category:Lists of state constitutional officers of North Dakota|Governors]]
+[[Category:Lists of North Dakota politicians|Governors]]
+[[Category:North Dakota history-related lists|Governors]]

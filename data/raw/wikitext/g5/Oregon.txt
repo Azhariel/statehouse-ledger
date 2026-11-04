@@ -1,0 +1,922 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+The [[governor of Oregon]] is the [[head of government]] of the [[U.S. state]] of [[Oregon]] and the highest-ranking official in the state.
+
+==List of governors==
+The [[Oregon Country]] was obtained by the United States on January 30, 1819,<ref>{{usstat|8|248}}</ref> as a shared region with the [[United Kingdom of Great Britain and Ireland|United Kingdom]]. The [[Oregon Treaty]] ended the sharing and formally established the borders on June 15, 1846.<ref>{{Cite web |title=Text of "Treaty with Great Britain, in Regard to Limits Westward of the Rocky Mountains" |url=http://avalon.law.yale.edu/19th_century/br-1846.asp |url-status=live |archive-url=https://web.archive.org/web/20090419184450/http://avalon.law.yale.edu/19th_century/br-1846.asp |archive-date=April 19, 2009 |access-date=August 4, 2006 |publisher=The Avalon Project at Yale Law School}}</ref>
+
+The [[Champoeg Meetings]], including a constitutional committee, held from February 1841 until May 1843, served as a ''de facto'' government before the government was officially established. While early attempts at establishing a government had been unsuccessful because of discontent between English American and French Canadian settlers over the question of whom they should choose as governor, several other officers were elected at these meetings, including [[Ira Babcock]] as Supreme Judge. For lack of a government, the Supreme Judge also received executive and legislative duties.<ref name="bio">[http://www.oregon.gov/SOLL/docs/1841_1890/Bio/Backcock_Bio.pdf DR. IRA L. BABCOCK], biography from Oregon Government, retrieved 15 May 2017</ref><ref name="History">[https://books.google.com/books?id=_6CdzFrlfn4C&dq=william+johnson+high+sheriff+oregon&pg=PT237 A History of Oregon, 1792-1849], retrieved 15 May 2017</ref>
+
+The meetings at Champoeg led up to the first constitution of the [[Oregon Country]] and several petitions for U.S. territorial status. The resulting acts created a [[Provisional Government of Oregon|provisional government]] on July 5, 1843. The first leaders of this government were an elected three-person [[Executive Committee (Oregon Country)|Executive Committee]]. Later, [[George Abernethy]] was elected governor, and served from June 3, 1845, to March 3, 1849, though this government was never recognized by the federal government.
+
+===Oregon Territory===
+
+The region was organized as [[Oregon Territory]] on August 14, 1848.<ref>{{usstat|9|323}}</ref> During its history it had five governors appointed by the [[president of the United States]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Oregon
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Lane, Joseph"|[[File:Joseph Lane (2).jpg|75px]]
+|'''[[Joseph Lane]]'''<br>{{Small|(1801–1881)}}<br>{{sfn|McMullin|1984|pp=275–276}}
+|data-sort-value="411"|August 18, 1848{{efn|[[James Shields (politician, born 1806)|James Shields]] was nominated and confirmed by the Senate on August 14, 1848;<ref>U.S. Congress. ''Senate Exec. Journal''. 30th Cong., 1st sess., [https://books.google.com/books?id=5j0tAQAAMAAJ&pg=PA483 483], accessed June 5, 2023.</ref> however, he declined the post.<ref name="lane-nomination" /> Lane was then appointed on August 18, 1848, during a Senate recess;{{sfn|McMullin|1984|pp=275–276}} nominated on December 12;<ref name="lane-nomination">U.S. Congress. ''Senate Exec. Journal''. 30th Cong., 2nd sess., [https://books.google.com/books?id=Gj4tAQAAMAAJ&pg=PA6 6], accessed June 5, 2023.</ref> and confirmed by the Senate on December 20.<ref>U.S. Congress. ''Senate Exec. Journal''. 30th Cong., 2nd sess., [https://books.google.com/books?id=Gj4tAQAAMAAJ&pg=PA10 10], accessed June 5, 2023.</ref> He took the oath of office in the territory on March 3, 1849.{{sfn|McMullin|1984|pp=275–276}}}}<br />&ndash;<br />October 2, 1849<br>{{small|(411 days; replaced)}}{{efn|Lane's successor Gaines was confirmed by the Senate on October 2, 1849. However, it took him nine months to reach the territory, and Lane had received no official notice of his replacement, so he continued acting as governor until he resigned on June 18, 1850.<ref>{{Cite thesis |last=Forsyth |first=Marjorie Phyllis |title=The Public Career of Joseph Lane |date=1942-01-01 |degree=Master of Arts (MA), History |publisher=Butler University |url=https://digitalcommons.butler.edu/grtheses/351 |page=14}}</ref> Territorial Secretary [[Kintzing Prichette]] acted as governor until Gaines arrived.{{sfn|McMullin|1984|pp=275–276}}}}
+|{{sortname|James K.|Polk}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Gaines, John"|[[File:John P Gaines.png|75px]]
+|'''[[John P. Gaines]]'''<br>{{Small|(1795–1857)}}<br>{{sfn|McMullin|1984|pp=276–278}}
+|data-sort-value="1323"|October 2, 1849{{efn|[[Joseph G. Marshall]] was appointed on August 9, 1849, during a Senate recess,<ref name="territorial-papers">{{Cite book |url=https://books.google.com/books?id=6IVHAQAAMAAJ |title=The Territorial Papers of the United States: Volume I: General |date=1934 |publisher=[[United States Government Publishing Office]] |page=26 |language=en}}</ref><ref>{{Cite news |date=1849-08-10 |title=Governor of Oregon |page=4 |work=The Baltimore Sun |url=https://www.newspapers.com/article/the-baltimore-sun-marshall-appointed-aug/126048124/ |access-date=2023-06-08}}</ref> but declined the post.<ref name="territorial-papers" /><ref>{{Cite news |date=1849-08-29 |title=Declined |page=2 |work=The Brooklyn Daily Eagle |url=https://www.newspapers.com/article/the-brooklyn-daily-eagle-marshall-declin/126048324/ |access-date=2023-06-08}}</ref> Some sources say that [[Abraham Lincoln]] was then appointed but declined,<ref>{{Cite news |date=1849-10-12 |title=Governor of Oregon Appointed |page=1 |work=The Weekly Mississippian |url=https://www.newspapers.com/article/the-weekly-mississippian-lincoln-appoint/126048394/ |access-date=2023-06-08}}</ref>{{sfn|McMullin|1984|pp=276–278}} but the Territorial Papers have no record of a formal appointment.<ref name="territorial-papers" /> Gaines was appointed on October 2, 1849, during a Senate recess;<ref name="territorial-papers" /> nominated on December 21, 1849;<ref>U.S. Congress. ''Senate Exec. Journal''. 31st Cong., 1st sess., [https://books.google.com/books?id=Gj4tAQAAMAAJ&pg=PA98 98], accessed June 5, 2023.</ref> and confirmed by the Senate on September 9, 1850.<ref>U.S. Congress. ''Senate Exec. Journal''. 31st Cong., 1st sess., [https://books.google.com/books?id=Gj4tAQAAMAAJ&pg=PA230 230], accessed June 5, 2023.</ref> He arrived in the territory in August 1850.{{sfn|McMullin|1984|pp=276–278}}}}<br />&ndash;<br />May 16, 1853<br>{{small|(1323 days; replaced)}}
+|{{sortname|Millard|Fillmore}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Lane, Joseph"|[[File:Joseph Lane (2).jpg|75px]]
+|'''[[Joseph Lane]]'''<br>{{Small|(1801–1881)}}<br>{{sfn|McMullin|1984|pp=275–276}}
+|data-sort-value="3"|May 16, 1853{{efn|Lane was nominated on March 15, 1853,<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., special sess., [https://books.google.com/books?id=5YxNAQAAMAAJ&pg=PA67 67], accessed June 5, 2023.</ref> and confirmed by the Senate on March 16.<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., special sess., [https://books.google.com/books?id=5YxNAQAAMAAJ&pg=PA74 74], accessed June 5, 2023.</ref>}}<br />&ndash;<br />May 18, 1853<br>{{small|(3 days; resigned)}}{{efn|Lane resigned three days after taking office, his goal of replacing the current unpopular governor complete, to return to his seat in the [[United States House of Representatives]].<ref>{{Cite thesis |last=Forsyth |first=Marjorie Phyllis |title=The Public Career of Joseph Lane |date=1942-01-01 |degree=Master of Arts (MA), History |publisher=Butler University |url=https://digitalcommons.butler.edu/grtheses/351 |pages=31&ndash;32}}</ref>{{sfn|McMullin|1984|pp=275–276}} Territorial Secretary [[George Law Curry]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=279–281}}}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Davis, John"|[[File:John Wesley Davis.jpg|75px]]
+|'''[[John Wesley Davis]]'''<br>{{Small|(1799–1859)}}<br>{{sfn|McMullin|1984|pp=278–279}}
+|data-sort-value="330"|September 6, 1853{{efn|Davis was appointed on September 6, 1853, during a Senate recess,<ref name="territorial-papers" /> and nominated and confirmed by the Senate on February 4, 1854.<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., 1st sess., [https://books.google.com/books?id=5YxNAQAAMAAJ&pg=PA229 229, 234], accessed June 5, 2023.</ref>}}<br />&ndash;<br />August 1, 1854<br>{{small|(330 days; resigned)}}{{efn|McMullin says Davis resigned, but no further details are given.{{sfn|McMullin|1984|pp=278–279}} Territorial Secretary [[George Law Curry]] acted as governor until he was appointed successor.{{sfn|McMullin|1984|pp=279–281}}}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Curry, George"|[[File:George Law Curry 1853.jpg|75px]]
+|'''[[George Law Curry]]'''<br>{{Small|(1820–1878)}}<br>{{sfn|McMullin|1984|pp=279–281}}
+|data-sort-value="1346"|November 1, 1854{{efn|Curry was appointed on November 1, 1854, during a Senate recess;{{sfn|McMullin|1984|pp=279–281}} nominated on July 7, 1856,<ref>U.S. Congress. ''Senate Exec. Journal''. 34th Cong., 1st sess., [https://books.google.com/books?id=AC3jtBfAEa0C&pg=PA113 113], accessed June 5, 2023.</ref> but was not confirmed before the Senate session expired; and nominated and confirmed by the Senate on August 22, 1856.<ref>U.S. Congress. ''Senate Exec. Journal''. 34th Cong., 2nd sess., [https://books.google.com/books?id=AC3jtBfAEa0C&pg=PA154 154&ndash;155], accessed June 5, 2023.</ref> The territorial papers also note an appointment or confirmation on March 5, 1855, but no other information has been found on this date.<ref name="territorial-papers" />}}<br />&ndash;<br />July 8, 1858<br>{{small|(1346 days; statehood)}}
+|{{sortname|Franklin|Pierce}}
+|}
+
+===State of Oregon===
+The state of Oregon was [[admission to the Union|admitted to the Union]] on February 14, 1859.<ref>{{usstat|11|383}}</ref>
+
+The 1857 [[Constitution of Oregon]] provided for the election of a governor every four years, to serve no more than eight out of any twelve years.<ref>OR Const. art. V, § 1</ref> This length and limit have never been changed. It is one of the few states without a lieutenant governor. The office would devolve upon the [[Oregon Secretary of State|secretary of state]] upon vacancy<ref>[https://books.google.com/books?id=qz00AQAAMAAJ&pg=PA38 OR Const. art. V, § 8, orig.]</ref> until a 1920 amendment put the president of the Senate first in the line of succession,<ref>{{Cite web |title=Oregon Line of Succession to the Governorship, Measure 5 (May 1920) |url=https://ballotpedia.org/Oregon_Line_of_Sucession_to_the_Governorship,_Measure_5_(May_1920) |access-date=2023-06-09 |website=Ballotpedia |language=en}}</ref> and a 1972 amendment returned the secretary of state to the front.<ref>{{Cite web |title=Oregon Gubernatorial Line of Succession, Measure 8 (1972) |url=https://ballotpedia.org/Oregon_Gubernatorial_Line_of_Succession,_Measure_8_(1972) |access-date=2023-06-09 |website=Ballotpedia |language=en}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Oregon
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Whiteaker, John"|[[File:Gov John Whiteaker.jpg|75px]]
+|style="background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|&nbsp;
+|'''[[John Whiteaker]]'''<br>{{Small|(1820–1902)}}<br>{{sfn|Sobel|1978|pp=1261–1262}}<ref name="nga-whiteaker">{{Cite web |title=John Whiteaker |url=https://www.nga.org/governor/john-whiteaker/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1526"|July 8, 1858{{efn|Whiteaker was sworn in on July 8, 1858, eight months before Oregon formally became a state.{{sfn|Sobel|1978|pp=1261–1262}}}}<br />&ndash;<br />September 10, 1862<br>{{small|(1526 days; retired)}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1858 Oregon gubernatorial election|1858]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Gibbs, A. C."|[[File:Addison C. Gibbs, War Governor of Oregon.png|75px]]
+|rowspan="2" style="background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|&nbsp;
+|'''[[A. C. Gibbs]]'''<br>{{Small|(1825–1886)}}<br>{{sfn|Sobel|1978|p=1262}}<ref name="nga-gibbs">{{Cite web |title=Addison C. Gibbs |url=https://www.nga.org/governor/addison-c-gibbs/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|September 10, 1862<ref>{{Cite news |date=1862-09-12 |title=Inaugural of Governor Gibbs |page=2 |work=Morning Oregonian |url=https://www.newspapers.com/article/morning-oregonian-gibbs-inaugurated-sept/126111310/ |access-date=2023-06-09}}</ref><br />&ndash;<br />September 12, 1866<br>{{small|(1464 days; retired)}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1862 Oregon gubernatorial election|1862]]
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Woods, George"|[[File:George Lemuel Woods portrait.jpg|75px]]
+|'''[[George Lemuel Woods]]'''<br>{{Small|(1832–1890)}}<br>{{sfn|Sobel|1978|p=1263}}<ref name="nga-woods">{{Cite web |title=George Lemuel Woods |url=https://www.nga.org/governor/george-lemuel-woods/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|September 12, 1866<ref>{{Cite news |date=1866-09-14 |title=none | quote=Judge Shattuck administered the oath to the Governor elect. Governor Woods then delivered his inaugural address... |page=2 |work=Morning Oregonian |url=https://www.newspapers.com/article/morning-oregonian-woods-inaugurated-sept/126111350/ |access-date=2023-06-09}}</ref><br />&ndash;<br />September 14, 1870<br>{{small|(1464 days; retired)}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1866 Oregon gubernatorial election|1866]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Grover, La Fayette"|[[File:La Fayette Grover - Brady-Handy.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[La Fayette Grover]]'''<br>{{Small|(1823–1911)}}<br>{{sfn|Sobel|1978|pp=1263–1264}}<ref name="nga-grover">{{Cite web |title=Lafayette Grover |url=https://www.nga.org/governor/lafayette-grover/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2333"|September 14, 1870<ref>{{Cite news |date=1870-09-16 |title=Democratic Oregon |page=2 |work=Albany Democrat |url=https://www.newspapers.com/article/albany-democrat-democratic-oregon/126112865/ |access-date=2023-06-09}}</ref><br />&ndash;<br />February 1, 1877<br>{{small|(2333 days; resigned)}}{{efn|Grover resigned, having been [[1876–77 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1263–1264}}}}
+|rowspan="2"|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1870 Oregon gubernatorial election|1870]]
+|- style="height:2em;"
+|[[1874 Oregon gubernatorial election|1874]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Chadwick, Stephen"|[[File:Oregon Governor Stephen Chadwick.jpg|75px]]
+|'''[[Stephen F. Chadwick]]'''<br>{{Small|(1825–1895)}}<br>{{sfn|Sobel|1978|pp=1264–1265}}<ref name="nga-chadwick">{{Cite web |title=Stephen Fowler Chadwick |url=https://www.nga.org/governor/stephen-fowler-chadwick/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="588"|February 1, 1877<ref>{{Cite news |date=1877-02-16 |title=Proclamation by the Governor |page=2 |work=The Albany Register |url=https://www.newspapers.com/article/the-albany-register-proclamation-by-the/126112978/ |access-date=2023-06-09}}</ref><br />&ndash;<br />September 11, 1878<br>{{small|(588 days; retired)}}{{sfn|Sobel|1978|pp=1264–1265}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>secretary of<br>state}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Thayer, W. W."|[[File:Oregon Governor William Wallace Thayer.jpg|75px]]
+|'''[[W. W. Thayer]]'''<br>{{Small|(1827–1899)}}<br>{{sfn|Sobel|1978|pp=1265–1266}}<ref name="nga-thayer">{{Cite web |title=William Wallace Thayer |url=https://www.nga.org/governor/william-wallace-thayer/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|September 11, 1878<ref>{{Cite news |date=1878-09-12 |title=Oregon Legislature |page=3 |work=Morning Oregonian |url=https://www.newspapers.com/article/morning-oregonian-thayer-inaugurated-sep/126113056/ |access-date=2023-06-09}}</ref><br />&ndash;<br />September 13, 1882<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=1265–1266}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1878 Oregon gubernatorial election|1878]]
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Moody, Zenas"|[[File:Zenas Ferry Moody (1903).jpg|75px]]
+|style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|'''[[Zenas Ferry Moody]]'''<br>{{Small|(1832–1917)}}<br>{{sfn|Sobel|1978|pp=1266–1267}}<ref name="nga-moody">{{Cite web |title=Zenas Perry Moody |url=https://www.nga.org/governor/zenas-perry-moody/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1583"|September 13, 1882<ref>{{Cite news |date=1882-09-15 |title=Salem Correspondence |page=2 |work=Albany Democrat |url=https://www.newspapers.com/article/albany-democrat-moody-inaugurated-septem/126113208/ |access-date=2023-06-09}}</ref><br />&ndash;<br />January 12, 1887<br>{{small|(1583 days; retired)}}{{sfn|Sobel|1978|pp=1266–1267}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1882 Oregon gubernatorial election|1882]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="Pennoyer, Sylvester"|[[File:Governor Sylvester Pennoyer.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Sylvester Pennoyer]]'''<br>{{Small|(1831–1902)}}<br>{{sfn|Sobel|1978|pp=1267–1268}}<ref name="nga-pennoyer">{{Cite web |title=Sylvester Pennoyer |url=https://www.nga.org/governor/sylvester-pennoyer/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 12, 1887<ref>{{Cite news |date=1887-01-13 |title=Inauguration of Sylvester Pennoyer as Governor |page=1 |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-inauguration-of-sylves/126113297/ |access-date=2023-06-09}}</ref><br />&ndash;<br />January 16, 1895<br>{{small|(2927 days; term-limited)}}{{efn|Governors are ineligible to serve more than eight years in any period of twelve years.<ref>{{Cite web |title=Ore. Const. art. V, § 1 |url=https://law.justia.com/constitution/oregon/ |access-date=2023-12-20}}</ref>|name=limits}}
+|rowspan="2"|[[Democratic Party of Oregon|Democratic]]{{efn|Pennoyer was nominated by the Democratic party in 1886, by the Democrats and Union Party in 1890, and he joined the [[People's Party (United States)|Populist Party]] in 1892.{{sfn|Sobel|1978|pp=1267–1268}}}}
+|[[1886 Oregon gubernatorial election|1886]]
+|- style="height:2em;"
+|[[1890 Oregon gubernatorial election|1890]]
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Lord, William"|[[File:OrGovWPLord.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|'''[[William Paine Lord]]'''<br>{{Small|(1838–1911)}}<br>{{sfn|Sobel|1978|pp=1268–1269}}<ref name="nga-lord">{{Cite web |title=William Paine Lord |url=https://www.nga.org/governor/william-paine-lord/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1456"|January 16, 1895<ref>{{Cite news |date=1895-01-17 |title=Mill Begins to Grind |page=1 |work=The Morning Astorian |agency=Associated Press |url=https://www.newspapers.com/article/the-morning-astorian-mill-begins-to-grin/126200791/ |access-date=2023-06-11}}</ref><br />&ndash;<br />January 10, 1899<br>{{small|(1456 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1268–1269}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1894 Oregon gubernatorial election|1894]]
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Geer, Theodore"|[[File:Oregon Governor TT Geer.jpg|75px]]
+|'''[[Theodore Thurston Geer]]'''<br>{{Small|(1851–1924)}}<br>{{sfn|Sobel|1978|pp=1269–1270}}<ref name="nga-geer">{{Cite web |title=Theodore T. Geer |url=https://www.nga.org/governor/theodore-t-geer/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1465"|January 10, 1899<ref>{{Cite news |date=1899-01-11 |title=Governor Installed |page=1 |work=The Morning Astorian |url=https://www.newspapers.com/article/the-morning-astorian-governor-installed/126200878/ |access-date=2023-06-11}}</ref><br />&ndash;<br />January 14, 1903<br>{{small|(1465 days; retired)}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1898 Oregon gubernatorial election|1898]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Chamberlain, George"|[[File:George E Chamberlain.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[George Earle Chamberlain]]'''<br>{{Small|(1854–1928)}}<br>{{sfn|Sobel|1978|pp=1270–1271}}<ref name="nga-chamberlain">{{Cite web |title=George Earle Chamberlain |url=https://www.nga.org/governor/george-earle-chamberlain/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2239"|January 14, 1903<ref>{{Cite news |date=1903-01-14 |title=Geo. E. Chamberlain Inaugurated Governor of the Oregon People |page=1 |work=The Oregon Daily Journal |url=https://www.newspapers.com/article/the-oregon-daily-journal-geo-e-chamber/126200957/ |access-date=2023-06-11}}</ref><br />&ndash;<br />March 1, 1909<br>{{small|(2239 days; resigned)}}{{efn|Chamberlain resigned, having been [[1908–09 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1270–1271}}}}
+|rowspan="2"|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1902 Oregon gubernatorial election|1902]]
+|- style="height:2em;"
+|[[1906 Oregon gubernatorial election|1906]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Benson, Frank"|[[File:Frank W. Benson 1910.JPG|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|'''[[Frank W. Benson (politician)|Frank W. Benson]]'''<br>{{Small|(1858–1911)}}<br>{{sfn|Sobel|1978|pp=1271–1272}}<ref name="nga-benson">{{Cite web |title=Frank W. Benson |url=https://www.nga.org/governor/frank-w-benson/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="473"|March 1, 1909<ref>{{Cite news |date=1909-03-01 |title=F.W. Benson Became Oregon's Governor This Morning |page=1 |work=The Capital Journal |url=https://www.newspapers.com/article/the-capital-journal-fw-benson-became-o/126201112/ |access-date=2023-06-11}}</ref><br />&ndash;<br />June 16, 1910<br>{{small|(473 days; resigned)}}{{efn|Benson resigned due to ill health.{{sfn|Sobel|1978|pp=1271–1272}}}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>secretary of<br>state}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Bowerman, Jay"|[[File:Oregon Governor Jay Bowerman.jpg|75px]]
+|'''[[Jay Bowerman]]'''<br>{{Small|(1876–1957)}}<br>{{sfn|Sobel|1978|pp=1272–1273}}<ref name="nga-bowerman">{{Cite web |title=Jay Bowerman |url=https://www.nga.org/governor/jay-bowerman/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="209"|June 16, 1910<ref>{{Cite news |date=1910-06-17 |title=Bowerman Is Now Governor |page=1 |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-bowerman-is-now-govern/126201274/ |access-date=2023-06-11}}</ref><br />&ndash;<br />January 10, 1911<br>{{small|(209 days; lost election)}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="West, Oswald"|[[File:Oswald West.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|'''[[Oswald West]]'''<br>{{Small|(1873–1960)}}<br>{{sfn|Sobel|1978|pp=1273–1274}}<ref name="nga-west">{{Cite web |title=Oswald West |url=https://www.nga.org/governor/oswald-west/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 10, 1911<ref>{{Cite news |date=1911-01-11 |title=Oswald West Steps In With Pledge of Square Deal |page=1 |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-oswald-west-steps-in-w/126201401/ |access-date=2023-06-11}}</ref><br />&ndash;<br />January 12, 1915<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=1273–1274}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1910 Oregon gubernatorial election|1910]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Withycombe, James"|[[File:Withycombe.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[James Withycombe]]'''<br>{{Small|(1854–1919)}}<br>{{sfn|Sobel|1978|pp=1274–1275}}<ref name="nga-withycombe">{{Cite web |title=James Withycombe |url=https://www.nga.org/governor/james-withycombe/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1512"|January 12, 1915<ref>{{Cite news |date=1915-01-12 |title=Withycombe Is Governor of the State |page=1 |work=The Oregon Daily Journal |url=https://www.newspapers.com/article/the-oregon-daily-journal-withycombe-is-g/126201520/ |access-date=2023-06-11}}</ref><br />&ndash;<br />March 3, 1919<br>{{small|(1512 days; died in office)}}
+|rowspan="2"|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1914 Oregon gubernatorial election|1914]]
+|- style="height:2em;"
+|[[1918 Oregon gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Olcott, Ben"|[[File:Ben W Olcott.jpg|75px]]
+|'''[[Ben W. Olcott]]'''<br>{{Small|(1872–1952)}}<br>{{sfn|Sobel|1978|p=1275}}<ref name="nga-olcott">{{Cite web |title=Ben Olcott |url=https://www.nga.org/governor/ben-olcott/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1408"|March 3, 1919<ref>{{Cite news |date=1919-03-04 |title=Governor of Oregon Is Called |page=1 |work=The Eugene Guard |url=https://www.newspapers.com/article/the-eugene-guard-governor-of-oregon-is-c/126201610/ |access-date=2023-06-11}}</ref><br />&ndash;<br />January 8, 1923<br>{{small|(1408 days; lost election)}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>secretary of<br>state}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Pierce, Walter"|[[File:Walter M. Pierce Oregon.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|'''[[Walter M. Pierce]]'''<br>{{Small|(1861–1954)}}<br>{{sfn|Sobel|1978|pp=1276–1277}}<ref name="nga-pierce">{{Cite web |title=Walter Marcus Pierce |url=https://www.nga.org/governor/walter-marcus-pierce/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 8, 1923<ref>{{Cite news |date=1923-01-09 |title=Gov. Pierce Inaugurated |page=1 |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-gov-pierce-inaugurate/126201720/ |access-date=2023-06-11}}</ref><br />&ndash;<br />January 10, 1927<br>{{small|(1464 days; lost election)}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1922 Oregon gubernatorial election|1922]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Patterson, I. L."|[[File:Isaac L. Patterson.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|'''[[I. L. Patterson]]'''<br>{{Small|(1859–1929)}}<br>{{sfn|Sobel|1978|pp=1277–1278}}<ref name="nga-patterson-il">{{Cite web |title=Isaac Lee Patterson |url=https://www.nga.org/governor/isaac-lee-patterson/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1077"|January 10, 1927<ref>{{Cite news |date=1927-01-10 |title=Patterson Takes Oath of Office |page=1 |work=Medford Mail Tribune |agency=Associated Press |url=https://www.newspapers.com/article/medford-mail-tribune-patterson-takes-oat/126250933/ |access-date=2023-06-11}}</ref><br />&ndash;<br />December 21, 1929<br>{{small|(1077 days; died in office)}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1926 Oregon gubernatorial election|1926]]
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Norblad, Albin"|[[File:A. W. Norblad as circuit judge.jpg|75px]]
+|'''[[Albin Walter Norblad Sr.]]'''<br>{{Small|(1881–1960)}}<br>{{sfn|Sobel|1978|pp=1278–1279}}<ref name="nga-norblad">{{Cite web |title=Albin Walter Norblad |url=https://www.nga.org/governor/albin-walter-norblad/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="388"|December 21, 1929<ref>{{Cite news |date=1929-12-22 |title=Governor Patterson Dead |page=1 |work=The Klamath News |agency=United Press |url=https://www.newspapers.com/article/the-klamath-news-governor-patterson-dead/126251045/ |access-date=2023-06-11}}</ref><br />&ndash;<br />January 12, 1931<br>{{small|(388 days;<br>lost nomination)}}{{efn|Norblad lost the Republican nomination to [[George W. Joseph]]; however, Joseph died a month later, and Norblad, who had come in second to Joseph, refused to be considered.{{sfn|Sobel|1978|pp=1278–1279}}}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>President of<br>the Senate}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Meier, Julius"|[[File:Julius L. Meier 1911.png|75px]]
+|style="color:inherit;background: {{party color|Independent (United States)}};" title="Represented no party"|
+|'''[[Julius Meier]]'''<br>{{Small|(1874–1937)}}<br>{{sfn|Sobel|1978|pp=1279–1280}}<ref name="nga-meier">{{Cite web |title=Julius L. Meier |url=https://www.nga.org/governor/julius-l-meier/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 12, 1931<ref>{{Cite news |date=1931-01-13 |title=Meier Inaugurated 20th Governor as Hundreds Jam Hall |page=1 |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-meier-inaugurated-20th/126251327/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 14, 1935<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=1279–1280}}
+|[[Independent politician|Independent]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1930 Oregon gubernatorial election|1930]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Martin, Charles"|[[File:Charles H. Martin.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|'''[[Charles Martin (Oregon politician)|Charles Martin]]'''<br>{{Small|(1863–1946)}}<br>{{sfn|Sobel|1978|pp=1280–1281}}<ref name="nga-martin">{{Cite web |title=Charles Henry Martin |url=https://www.nga.org/governor/charles-henry-martin/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 14, 1935<ref>{{Cite news |date=1935-01-15 |title=Martin Steps Into Oregon’s Governorship |page=1 |work=The Klamath News |agency=United Press |url=https://www.newspapers.com/article/the-klamath-news-martin-steps-into-orego/126251593/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 9, 1939<br>{{small|(1457 days;<br>lost nomination)}}{{efn|Martin lost the Democratic nomination to [[Henry L. Hess]].{{sfn|Sobel|1978|pp=1280–1281}}}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1934 Oregon gubernatorial election|1934]]
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Sprague, Charles"|[[File:Charles A. Sprague.jpg|75px]]
+|rowspan="9" style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|'''[[Charles A. Sprague]]'''<br>{{Small|(1887–1969)}}<br>{{sfn|Sobel|1978|pp=1281–1282}}<ref name="nga-sprague">{{Cite web |title=Charles Arthur Sprague |url=https://www.nga.org/governor/charles-arthur-sprague/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1466"|January 9, 1939<ref>{{Cite news |last=Applegate |first=Richard |date=1939-01-09 |title=Taxation, Relief Stressed In Sprague's Message |page=1 |work=Albany Democrat-Herald |agency=United Press |url=https://www.newspapers.com/article/albany-democrat-herald-taxation-relief/126251714/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 13, 1943<br>{{small|(1466 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1281–1282}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1938 Oregon gubernatorial election|1938]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Snell, Earl"|[[File:Earl Snell.jpg|75px]]
+|rowspan="2"|'''[[Earl Snell]]'''<br>{{Small|(1895–1947)}}<br>{{sfn|Sobel|1978|pp=1282–1283}}<ref name="nga-snell">{{Cite web |title=Earl Wilcox Snell |url=https://www.nga.org/governor/earl-wilcox-snell/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1750"|January 13, 1943<ref>{{Cite news |last=Bremer |first=Arthur |date=1943-01-13 |title=Snell Sworn In As Oregon's New Governor |page=1 |work=Albany Democrat-Herald |agency=United Press |url=https://www.newspapers.com/article/albany-democrat-herald-snell-sworn-in-as/126251789/ |access-date=2023-06-12}}</ref><br />&ndash;<br />October 28, 1947<br>{{small|(1750 days; died in office)}}
+|rowspan="2"|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1942 Oregon gubernatorial election|1942]]
+|- style="height:2em;"
+|[[1946 Oregon gubernatorial election|1946]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Hall, John"|[[File:John Hubert Hall.jpg|75px]]
+|'''[[John Hubert Hall]]'''<br>{{Small|(1899–1970)}}<br>{{sfn|Sobel|1978|pp=1283–1284}}<ref name="nga-hall">{{Cite web |title=John Hubert Hall |url=https://www.nga.org/governor/john-hubert-hall/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="441"|October 28, 1947{{efn|Hall technically became governor upon the death of Governor Snell in a plane crash on October 28, though he took a formal oath of office on October 30 after Snell's body was identified.<ref>{{Cite news |date=1947-10-30 |title=Hall Assumes Governorship |page=1 |work=Herald and News |agency=Associated Press |url=https://www.newspapers.com/article/herald-and-news-site-of-fatal-plane-cras/31321959/ |access-date=2023-06-12}}</ref>}}<br />&ndash;<br />January 10, 1949<br>{{small|(441 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1283–1284}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>speaker of<br>the House}}{{efn|Governor Snell, President of the Senate [[Marshall Cornett]], and Secretary of State [[Robert S. Farrell Jr.]] died in a plane crash on October 28, 1947; the next in the line of succession was Speaker of the House Hall.{{sfn|Sobel|1978|pp=1282–1283}}}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="McKay, Douglas"|[[File:Douglas McKay.png|75px]]
+|rowspan="2"|'''[[Douglas McKay]]'''<br>{{Small|(1893–1959)}}<br>{{sfn|Sobel|1978|pp=1284–1285}}<ref name="nga-mckay">{{Cite web |title=James Douglas McKay |url=https://www.nga.org/governor/james-douglas-mckay/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1438"|January 10, 1949<ref>{{Cite news |last=Olson |first=James D. |date=1949-01-10 |title=Douglas McKay Takes Oath as 25th Governor |page=1 |work=The Capital Journal |url=https://www.newspapers.com/article/the-capital-journal-douglas-mckay-takes/126254230/ |access-date=2023-06-12}}</ref><br />&ndash;<br />December 17, 1952<br>{{small|(1438 days; resigned)}}{{efn|McKay resigned, in anticipation of being nominated for [[United States Secretary of the Interior]].{{sfn|Sobel|1978|pp=1284–1285}}}}
+|rowspan="2"|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1948 Oregon gubernatorial special election|1948]]<br>{{small|(special)}}
+|- style="height:2em;"
+|[[1950 Oregon gubernatorial election|1950]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Patterson, Paul"|[[File:Paul Patterson.jpg|75px]]
+|rowspan="2"|'''[[Paul L. Patterson]]'''<br>{{Small|(1900–1956)}}<br>{{sfn|Sobel|1978|pp=1285–1286}}<ref name="nga-patterson-paul">{{Cite web |title=Paul Linton Patterson |url=https://www.nga.org/governor/paul-linton-patterson/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1141"|December 17, 1952<ref>{{Cite news |date=1952-12-17 |title=Paul Patterson Becomes Oregon Governor Today |page=1 |work=Corvallis Gazette-Times |agency=United Press |url=https://www.newspapers.com/article/corvallis-gazette-times-paul-patterson-b/126254479/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 31, 1956<br>{{small|(1141 days; died in office)}}
+|rowspan="2"|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+|[[1954 Oregon gubernatorial election|1954]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Smith, Elmo"|[[File:Elmo Smith portrait.jpg|75px]]
+|'''[[Elmo Smith]]'''<br>{{Small|(1909–1968)}}<br>{{sfn|Sobel|1978|pp=1286–1287}}<ref name="nga-smith">{{Cite web |title=Elmo Everett Smith |url=https://www.nga.org/governor/elmo-everett-smith/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="350"|January 31, 1956{{efn|Patterson died late on January 31, and Smith took the oath of office the morning of February 1.<ref>{{Cite news |last=Olson |first=James D. |date=1956-02-01 |title=Patterson Death Shocks State; Senate Head Succeeds to Post |page=1 |work=The Capital Journal |url=https://www.newspapers.com/article/the-capital-journal-patterson-death-shoc/126254733/ |access-date=2023-06-12}}</ref>}}<br />&ndash;<br />January 14, 1957<br>{{small|(350 days; lost election)}}
+|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Holmes, Robert"|[[File:Robert D. Holmes.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|'''[[Robert D. Holmes]]'''<br>{{Small|(1909–1976)}}<br>{{sfn|Sobel|1978|pp=1287–1288}}<ref name="nga-holmes">{{Cite web |title=Robert Denison Holmes |url=https://www.nga.org/governor/robert-denison-holmes/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 14, 1957<ref>{{Cite news |last=Olson |first=James D. |date=1957-01-14 |title=Holmes Takes Oath as First Demo Governor in 22 Years |page=1 |work=The Capital Journal |url=https://www.newspapers.com/article/the-capital-journal-holmes-takes-oath-as/126254867/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 12, 1959<br>{{small|(729 days; lost election)}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1956 Oregon gubernatorial special election|1956]]<br>{{small|(special)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Hatfield, Mark"|[[File:Mark Hatfield – 1967 (cropped).jpg|75px]] 
+|rowspan="4" style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Mark Hatfield]]'''<br>{{Small|(1922–2011)}}<br>{{sfn|Sobel|1978|p=1288}}<ref name="nga-hatfield">{{Cite web |title=Mark Odom Hatfield |url=https://www.nga.org/governor/mark-odom-hatfield/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 12, 1959<ref>{{Cite news |date=1959-01-12 |title=Hatfield Takes Oath Before Joint Session |page=1A |work=The Eugene Guard |agency=United Press International |url=https://www.newspapers.com/article/the-eugene-guard-hatfield-takes-oath-bef/126254969/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 9, 1967<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1958 Oregon gubernatorial election|1958]]
+|- style="height:2em;"
+|[[1962 Oregon gubernatorial election|1962]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="McCall, Tom"|[[File:Tom McCall from Marion County Voters' Pamphlet, 1970 (page 52 crop).jpg|75px]]
+|rowspan="2"|'''[[Tom McCall]]'''<br>{{Small|(1913–1983)}}<br>{{sfn|Sobel|1978|pp=1288–1289}}<ref name="nga-mccall">{{Cite web |title=Thomas Lawson McCall |url=https://www.nga.org/governor/thomas-lawson-mccall/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 9, 1967<ref>{{Cite news |last=Jepsen |first=Don |date=1967-01-09 |title=McCall Sworn In; Calls for Income Tax Hike |page=1 |work=The World |agency=United Press International |url=https://www.newspapers.com/article/the-world-mccall-sworn-in-calls-for-inc/126255287/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 13, 1975<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Oregon Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1966 Oregon gubernatorial election|1966]]
+|- style="height:2em;"
+|[[1970 Oregon gubernatorial election|1970]]
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Straub, Robert"|[[File:Robert W. Straub from Marion County Voters' Pamphlet, 1970 (page 54 crop).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|'''[[Robert W. Straub]]'''<br>{{Small|(1920–2002)}}<br>{{sfn|Sobel|1978|p=1289}}<ref name="nga-straub">{{Cite web |title=Robert William Straub |url=https://www.nga.org/governor/robert-william-straub/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 13, 1975<ref>{{Cite news |date=1975-01-14 |title=31st Governor |page=1 |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-straub-inaugurated-jan/126255389/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 8, 1979<br>{{small|(1457 days; lost election)}}
+|[[Democratic Party of Oregon|Democratic]]{{sfn|Kallenbach|1977|pp=482–484}}
+|[[1974 Oregon gubernatorial election|1974]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Atiyeh, Victor"|[[File:Victor Atiyeh from Marion County Voters' Pamphlet, 1978 (page 82 crop).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Oregon Republican Party}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Victor Atiyeh]]'''<br>{{Small|(1923–2014)}}<br><ref name="nga-atiyeh">{{Cite web |title=Victor G. Atiyeh |url=https://www.nga.org/governor/victor-g-atiyeh/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 8, 1979<ref>{{Cite news |last=Rosenberg |first=Martin |date=1979-01-08 |title=Atiyeh Issues a Challenge to State |page=1A |work=The Capital Journal |url=https://www.newspapers.com/article/the-capital-journal-atiyeh-issues-a-chal/126255645/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 12, 1987<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Oregon Republican Party|Republican]]<ref name="nga-atiyeh" />
+|[[1978 Oregon gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1982 Oregon gubernatorial election|1982]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Goldschmidt, Neil"|[[File:Neil Goldschmidt.jpg|75px]]
+|rowspan="12" style="color:inherit;background: {{party color|Democratic Party of Oregon}};" title="Represented the Democratic Party"|
+|'''[[Neil Goldschmidt]]'''<br>{{Small|(1940–2024)}}<br><ref name="nga-goldschmidt">{{Cite web |title=Neil Goldschmidt |url=https://www.nga.org/governor/neil-goldschmidt/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 12, 1987<ref>{{Cite news |last=Howlett |first=Debbie |date=1987-01-13 |title=Governor Waltzes into Office |page=1A |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-governor-waltzes-into/126255754/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 14, 1991<br>{{small|(1464 days; retired)}}
+|[[Democratic Party of Oregon|Democratic]]<ref name="nga-goldschmidt" />
+|[[1986 Oregon gubernatorial election|1986]]
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Roberts, Barbara"|[[File:Roberts 1988.jpg|75px]]
+|'''[[Barbara Roberts]]'''<br>{{small|({{Abbr|b.|born in}} 1936)}}<br><ref name="nga-roberts">{{Cite web |title=Barbara Roberts |url=https://www.nga.org/governor/barbara-roberts/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 14, 1991<ref>{{Cite news |last=Wirtz |first=Shawn |date=1991-01-15 |title=Roberts looks ahead |page=1A |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-roberts-looks-ahead/126255835/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 9, 1995<br>{{small|(1457 days; retired)}}
+|[[Democratic Party of Oregon|Democratic]]<ref name="nga-roberts" />
+|[[1990 Oregon gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="Kitzhaber, John"|[[File:Governor Kitzhaber (cropped).jpg|75px]]
+|rowspan="2"|'''[[John Kitzhaber]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-kitzhaber">{{Cite web |title=John A. Kitzhaber |url=https://www.nga.org/governor/john-a-kitzhaber/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 9, 1995<ref>{{Cite news |last=Steves |first=David |date=1995-01-10 |title=Kitzhaber Takes Reins |page=1A |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-kitzhaber-takes-reins/126255862/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 13, 2003<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Democratic Party of Oregon|Democratic]]<ref name="nga-kitzhaber" />
+|[[1994 Oregon gubernatorial election|1994]]
+|- style="height:2em;"
+|[[1998 Oregon gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|36
+|rowspan="2" data-sort-value="Kulongoski, Ted"|[[File:Ted kulongoski.jpg|75px]]
+|rowspan="2"|'''[[Ted Kulongoski]]'''<br>{{small|({{Abbr|b.|born in}} 1940)}}<br><ref name="nga-kulongoski">{{Cite web |title=Ted Kulongoski |url=https://www.nga.org/governor/ted-kulongoski/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 13, 2003<ref>{{Cite news |last=Law |first=Steve |date=2003-01-14 |title=Kulongoski Begins New Era |page=1A |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-kulongoski-begins-new/126255942/ |access-date=2023-06-12}}</ref><br />&ndash;<br />January 10, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Democratic Party of Oregon|Democratic]]<ref name="nga-kulongoski" />
+|[[2002 Oregon gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Oregon gubernatorial election|2006]] 
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="Kitzhaber, John"|[[File:Governor Kitzhaber (cropped).jpg|75px]]
+|rowspan="2"|'''[[John Kitzhaber]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-kitzhaber" />
+|rowspan="2" data-sort-value="1501"|January 10, 2011<ref>{{Cite news |last=Thompson Jr. |first=Dennis |date=2011-01-11 |title=Kitzhaber Vows Reform As He Is Sworn In for His Third Term |page=3A |work=Statesman Journal |url=https://www.newspapers.com/article/statesman-journal-kitzhaber-vows-reform/126256019/ |access-date=2023-06-12}}</ref><br />&ndash;<br />February 18, 2015<br>{{small|(1501 days; resigned)}}{{efn|Kitzhaber resigned due to an ethics scandal.<ref>{{Cite news |last=Davis |first=Rob |date=2015-02-14 |title=Oregon Governor John Kitzhaber resigns amid criminal investigation, growing scandal |language=en |work=The Oregonian |url=https://www.oregonlive.com/politics/2015/02/gov_john_kitzhaber_resigns_ami.html |access-date=2023-06-09}}</ref>}}
+|rowspan="2"|[[Democratic Party of Oregon|Democratic]]<ref name="nga-kitzhaber" />
+|[[2010 Oregon gubernatorial election|2010]]
+|- style="height:2em;"
+|[[2014 Oregon gubernatorial election|2014]] 
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|38
+|rowspan="3" data-sort-value="Brown, Kate"|[[File:Kate Brown in 2017.jpg|75px]]
+|rowspan="3"|'''[[Kate Brown]]'''<br>{{small|({{Abbr|b.|born in}} 1960)}}<br><ref name="nga-brown">{{Cite web |title=Kate Brown |url=https://www.nga.org/governor/kate-brown/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2883"|February 18, 2015<ref>{{Cite news |last=Topaz |first=Jonathan |date=2015-02-18 |title=Kate Brown sworn in as Oregon governor |language=en |work=Politico |url=https://www.politico.com/story/2015/02/kate-brown-oregon-sworn-in-115292 |access-date=2023-06-12}}</ref><br />&ndash;<br />January 9, 2023<br>{{small|(2883 days; term-limited)}}{{efn|name=limits}}
+|rowspan="3"|[[Democratic Party of Oregon|Democratic]]<ref name="nga-brown" />
+|style="background:#EEEEEE"|{{small|Succeeded from<br>secretary of<br>state}}
+|- style="height:2em;"
+|[[2016 Oregon gubernatorial special election|2016]]<br>{{small|(special)}}
+|- style="height:2em;"
+|[[2018 Oregon gubernatorial election|2018]]
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Kotek, Tina"|[[File:Tina Kotek, 2021 (cropped).jpg|frameless|75px]]
+|'''[[Tina Kotek]]'''<br>{{small|({{Abbr|b.|born in}} 1966)}}<br><ref name="nga-kotek">{{Cite web |title=Tina Kotek |url=https://www.nga.org/governor/tina-kotek/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2023|1|9|duration=on|format=no}}"|January 9, 2023<ref>{{Cite news |last=Griffin |first=Anna |last2=Ehrlich |first2=April |title=Tina Kotek sworn in as Oregon’s 39th governor, promises action on housing |language=en |url=https://www.opb.org/article/2023/01/09/tina-kotek-oregon-governor-inauguration-speech/ |access-date=2023-06-12}}</ref><br />&ndash;<br />Incumbent{{efn|Kotek's term [[2026 Oregon gubernatorial election|will expire]] on January 11, 2027.}}<br>{{small|(in office {{Duration in days nts|2023|1|9|duration=on|format=no}} days)}}
+|[[Democratic Party of Oregon|Democratic]]<ref name="nga-kotek" />
+|[[2022 Oregon gubernatorial election|2022]]
+|}
+
+==Electoral history (1950–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |[[Pacific Green Party|Pacific Green]] nominee
+! colspan="4" scope="col" |[[Constitution Party (United States)|Constitution]] nominee
+! colspan="4" scope="col" |Other candidate
+! colspan="4" scope="col" |Other candidate
+! colspan="4" scope="col" |Other candidate
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1950 Oregon gubernatorial election|1950]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Austin F. Flegel]]
+| 171,750
+| 33.95%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Douglas McKay]]'''
+| '''334,160'''
+| '''66.05%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1954 Oregon gubernatorial election|1954]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Joseph K. Carson]]
+| 244,170
+| 43.09%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Paul L. Patterson]]'''
+| '''322,522'''
+| '''56.91%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1956 Oregon gubernatorial special election|1956]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Robert D. Holmes]]'''
+| '''369,439'''
+| '''50.52%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Elmo Smith]]
+| 361,840
+| 49.48%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1958 Oregon gubernatorial election|1958]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert D. Holmes]]
+| 267,934
+| 44.66%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Mark Hatfield]]'''
+| '''331,900'''
+| '''55.32%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1962 Oregon gubernatorial election|1962]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert Y. Thornton]]
+| 265,359
+| 41.63%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Mark Hatfield]]'''
+| '''345,497'''
+| '''54.20%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Robert H. Wampler
+| 26,142
+| 4.10%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1966 Oregon gubernatorial election|1966]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert W. Straub]]
+| 305,008
+| 44.67%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Tom McCall]]'''
+| '''377,346'''
+| '''55.26%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1970 Oregon gubernatorial election|1970]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert W. Straub]]
+| 292,892
+| 44.30%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Tom McCall]]'''
+| '''369,964'''
+| '''55.52%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1974 Oregon gubernatorial election|1974]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Robert W. Straub]]'''
+| '''444,812'''
+| '''57.73%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Victor Atiyeh]]
+| 324,751
+| 42.14%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1978 Oregon gubernatorial election|1978]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert W. Straub]]
+| 409,411
+| 45.10%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Victor Atiyeh]]'''
+| '''498,452'''
+| '''54.90%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1982 Oregon gubernatorial election|1982]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Ted Kulongoski]]
+| 374,316
+| 35.92%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Victor Atiyeh]]'''
+| '''639,841'''
+| '''61.41%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Paul Cleveland
+| 27,394
+| 2.63%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1986 Oregon gubernatorial election|1986]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Neil Goldschmidt]]'''
+| '''549,456'''
+| '''51.85%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Norma Paulus]]
+| 506,989
+| 47.85%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1990 Oregon gubernatorial election|1990]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Barbara Roberts]]'''
+| '''508,749'''
+| '''45.75%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[David B. Frohnmayer]]
+| 444,646
+| 39.98%
+| bgcolor="{{party color|Nonpartisan}}" |
+| Al Mobley
+| 144,062
+| 12.95%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Fred Oerther
+| 14,583
+| 1.31%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1994 Oregon gubernatorial election|1994]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John Kitzhaber]]'''
+| '''622,083'''
+| '''50.95%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Denny Smith]]
+| 517,874
+| 42.41%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Danford D. {{nowrap|Vander Ploeg}}
+| 20,183
+| 1.65%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|American Party (1969)}}" |
+| Ed Hickam<br>([[American Party (1969)|American]])
+| 58,449
+| 4.79%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1998 Oregon gubernatorial election|1998]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John Kitzhaber]]'''
+| '''717,061'''
+| '''64.42%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Bill Sizemore]]
+| 334,001
+| 30.01%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Richard P. Burke
+| 20,200
+| 1.81%
+| bgcolor="{{party color|Pacific Green Party}}" |
+| Blair Bobier
+| 15,843
+| 1.42%
+| colspan=4| –
+| bgcolor="{{party color|Reform Party (United States)}}" |
+| {{nowrap|Roger Weidner<br>([[Reform Party (United States)|Reform]])}}
+| 10,144
+| 0.91%
+| bgcolor="{{party color|Natural Law Party (United States)}}" |
+| {{nowrap|Patti Steurer<br>([[Natural Law Party (United States)|Natural Law]])}}
+| 7,823
+| 0.70%
+| bgcolor="{{party color|Socialist Party USA}}" |
+| {{nowrap|Trey Smith<br>([[Socialist Party of Oregon|Socialist]])}}
+| 5,772
+| 0.52%
+|-
+| [[2002 Oregon gubernatorial election|2002]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Ted Kulongoski]]'''
+| '''618,004'''
+| '''49.03%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Kevin Mannix]]
+| 581,785
+| 46.16%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Tom Cox
+| 57,760
+| 4.58%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2006 Oregon gubernatorial election|2006]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Ted Kulongoski]]'''
+| '''699,786'''
+| '''50.73%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Ron Saxton]]
+| 589,748
+| 42.75%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Richard Morley
+| 16,798
+| 1.22%
+| bgcolor="{{party color|Pacific Green Party}}" |
+| Joe Keating
+| 20,030
+| 1.45%
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Richard Morley
+| 50,229
+| 3.64%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2010 Oregon gubernatorial election|2010]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John Kitzhaber]]'''
+| '''716,525'''
+| '''49.29%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Chris Dudley]]
+| 694,287
+| 47.76%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Wes Wagner
+| 19,048
+| 1.31%
+| colspan=4| –
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Greg Kord
+| 20,475
+| 1.41%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2014 Oregon gubernatorial election|2014]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John Kitzhaber]]'''
+| '''733,230'''
+| '''49.89%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Dennis Richardson (politician)|Dennis Richardson]]
+| 648,542
+| 44.13%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Paul Grad
+| 21,903
+| 1.49%
+| bgcolor="{{party color|Pacific Green Party}}" |
+| Jason Levin
+| 29,561
+| 2.01%
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Aaron Auer
+| 15,929
+| 1.08%
+| bgcolor="{{party color|Oregon Progressive Party}}" |
+| {{nowrap|Chris Henry<br>([[Oregon Progressive Party|Progressive]])}}
+| 13,898
+| 0.95%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2016 Oregon gubernatorial special election|2016]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Kate Brown]]'''
+| '''985,027'''
+| '''50.62%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Bud Pierce]]
+| 845,609
+| 43.45%
+| bgcolor="{{party color|Independent Party of Oregon}}" |
+| Cliff Thomason{{efn|name=indparty|As the nominee of the [[Independent Party of Oregon]].}}
+| 47,481
+| 2.44%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| James Foster
+| 45,191
+| 2.32%
+| colspan=4| –
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Aaron Auer
+| 19,400
+| 1.00%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2018 Oregon gubernatorial election|2018]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Kate Brown]]'''
+| '''934,498'''
+| '''50.05%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Knute Buehler]]
+| 814,988
+| 43.65%
+| bgcolor="{{party color|Independent Party of Oregon}}" |
+| Patrick Starnes{{efn|name=indparty}}
+| 53,392
+| 2.86%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Nick Chen
+| 28,927
+| 1.55%
+| colspan=4| –
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Aaron Auer
+| 21,145
+| 1.13%
+| bgcolor="{{party color|Oregon Progressive Party}}" |
+| {{nowrap|Chris Henry<br>([[Oregon Progressive Party|Progressive]])}}
+| 11,013
+| 0.59%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2022 Oregon gubernatorial election|2022]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Tina Kotek]]'''
+| '''917,074'''
+| '''46.96%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Christine Drazan]]
+| 850,347
+| 43.54%
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Betsy Johnson]]
+| 168,431
+| 8.63%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| R. Leon Noble
+| 6,867
+| 0.35%
+| colspan=4| –
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Donice Smith
+| 8,051
+| 0.41%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|}
+
+==See also==
+* [[List of Oregon Legislative Assemblies]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former Oregon Governors |url=https://www.nga.org/former-governors/oregon/ |access-date=June 11, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Governor Records |url=https://sos.oregon.gov/archives/Pages/records/governors_guides.aspx |access-date=July 15, 2010 |publisher=Oregon State Archives}}
+* {{Cite web |title=Our Campaigns - Governor of Oregon - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=163 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+==External links==
+
+{{commons category|Governors of Oregon}}
+*[https://www.oregon.gov/gov/ Office of the Governor of Oregon]
+
+{{Governors of Oregon}}
+{{Lists of US Governors}}
+{{Oregon}}
+{{Oregon Modern History}}
+
+{{DEFAULTSORT:Oregon, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Oregon| ]]
+[[Category:Lists of Oregon politicians|Governors]]
+[[Category:Oregon history-related lists|Governors]]

@@ -1,0 +1,566 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+|post             = Governor
+|body             = Illinois
+|insignia         = Seal of Illinois.svg
+|insignia_size    = 110px
+|insignia_caption = [[Flag and seal of Illinois|Seal of the State of Illinois]]
+|flag             = Flag of Illinois.svg
+|flag_border      = yes
+|flag_caption     = [[Flag and seal of Illinois|Flag of Illinois]]
+|image            = Governor JB Pritzker official portrait 2019 (crop).jpg
+|image_size       = 200px
+|incumbent        = [[JB Pritzker]]
+|incumbent_since  = January 14, 2019
+|residence        = [[Illinois Governor's Mansion]]
+|term_length      = Four years, no term limits
+|formation        = {{start date|1818|10|06}}
+|succession       = [[Gubernatorial lines of succession in the United States#Illinois|Line of succession]]
+|deputy           = [[Lieutenant Governor of Illinois]]
+|inaugural        = [[Shadrach Bond]]
+|salary           = $184,758 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 5, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+|website          = {{URL|gov.illinois.gov}}
+}}
+The [[governor of Illinois]] is the [[head of government]] of the [[U.S. state]] of [[Illinois]]. The [[Governor (United States)|governor]] is the head of the [[Executive (government)|executive branch]] of [[Government of Illinois|Illinois's state government]] and is charged with enforcing state laws. The governor has the power to either approve or [[veto]] bills passed by the [[Illinois General Assembly|Illinois Legislature]], to convene the legislature, and to grant [[pardon]]s, except in cases of [[Impeachment in the United States|impeachment]].{{sfn|Ill. Const.|loc=art. V}} The governor is also the [[commander-in-chief]] of the state's [[Illinois National Guard|military forces]].
+
+Since becoming a state in 1818, 43 people have served as governor of Illinois; before statehood, it had only one territorial governor, [[Ninian Edwards]]. The longest-serving governor was [[Jim Thompson (Illinois politician)|Jim Thompson]], who was elected to four terms lasting 14 years, from 1977 to 1991. Only one governor, [[Richard J. Oglesby]], has served multiple non-consecutive terms, having been elected in 1864, 1872, and 1884.
+
+The current governor is [[JB Pritzker]], who took office on January 14, 2019.
+
+==List of governors==
+
+===Territory of Illinois===
+[[Illinois Territory]] was formed on March 1, 1809, from [[Indiana Territory]].<ref>{{usstat|2|514}}</ref> It had only two governors appointed by the [[president of the United States]] before it became a state, and only one ever took office.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Illinois
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor left office.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Boyle, John"|[[File:John Boyle portrait (cropped).jpg|99x99px]]
+|'''[[John Boyle (congressman)|John Boyle]]'''<br>{{small|(1774–1834)}}
+|data-sort-value="28"|March 7, 1809<br>–<br>April 3, 1809<br>{{small|(28 days; resigned<br>before taking office)}}{{efn|Boyle was nominated on March 6, 1809,<ref>{{cite book |title=Senate Executive Journal, 11th Cong., special sess. |author=United States Senate |page=119 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=121 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and confirmed by the Senate on March 7.<ref>{{cite book |title=Senate Executive Journal, 11th Cong., special sess. |author=United States Senate |page=120 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=122 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> However, he resigned on April 3, having never taken office.<ref>{{Cite book |url=https://libsysdigi.library.uiuc.edu/OCA/Books2009-06/territorialpaper/territorialpaper161948cart/territorialpaper161948cart.pdf |title=The Territorial Papers of the United States: Volume XVI: The Territory of Illinois 1809-1814 |publisher=[[United States Government Publishing Office]] |year=1948 |pages=18–19}}</ref>}}
+|{{sortname|James|Madison}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Edwards, Ninian"|[[File:Portrait of Gov. Ninian Edwards at the State Capitol in Springfield (cropped).jpg|100x100px]]
+|'''[[Ninian Edwards]]'''{{efn|Territorial Secretary [[Nathaniel Pope]] served as acting governor until Edwards arrived in Illinois in June 1809.<ref>{{cite book |url=https://archive.org/details/mostlygoodcompet0000howa |title=Mostly Good and Competent Men: Illinois Governors, 1818–1988 |last=Howard |first=Robert P. |year=1988 |via=[[Internet Archive]] |pages=39–40}}</ref>}}<br>{{small|(1775–1833)}}<br>{{sfn|McMullin|1984|pp=145–147}}{{sfn|Sobel|1978|pp=366–367}}
+|data-sort-value="3453"|April 24, 1809{{efn|Edwards was appointed on April 24, 1809;{{sfn|McMullin|1984|p=145}} nominated on June 16;<ref>{{cite book |title=Senate Executive Journal, 11th Cong., 1st sess. |author=United States Senate |page=122 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=124 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and confirmed by the Senate on June 17.<ref>{{cite book |title=Senate Executive Journal, 11th Cong., 1st sess. |author=United States Senate |page=124 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=126 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> He took office on June 11.{{sfn|McMullin|1984|p=145}} He was reappointed on July 7, 1812,<ref>{{Cite book |last=Ferguson |first=Gillum |url=https://www.jstor.org/stable/10.5406/j.ctt1xcqz0 |title=Illinois in the War of 1812 |date=2012 |publisher=University of Illinois Press |isbn=978-0-252-03674-3 |pages=115–130 |jstor=10.5406/j.ctt1xcqz0}}</ref> during a Senate recess; reconfirmed on November 20, 1812;<ref>{{cite book |title=Senate Executive Journal, 12th Cong., 2nd sess. |author=United States Senate |page=305 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=307 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> reappointed on November 20, 1815,<ref name="territorial-il">{{Cite book |url=https://books.google.com/books?id=6IVHAQAAMAAJ |title=The Territorial Papers of the United States: Volume I: General |date=1934 |publisher=[[United States Government Publishing Office]] |page=11}}</ref> during a Senate recess; and reconfirmed on January 9, 1816.<ref>{{cite book |title=Senate Executive Journal, 14th Cong., 1st sess. |author=United States Senate |page=21 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=25 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref>}}<br />–<br />October 6, 1818<br>{{small|(3453 days; statehood)}}{{efn|Edwards served as governor until statehood, when he [[1818 United States Senate elections in Illinois|was elected]] to the [[United States Senate]].}}
+|{{sortname|James|Madison}}
+|}
+
+===State of Illinois===
+Illinois was [[Admission to the Union|admitted to the Union]] on December 3, 1818, consisting of the southern portion of Illinois Territory; the remainder was assigned to [[Michigan Territory]].<ref>{{usstat|3|536}}</ref>
+
+The first [[Constitution of Illinois|Illinois Constitution]], ratified in 1818, provided that a governor be elected every 4 years{{sfn|Thorpe|1909|p=976|loc=1818 art. III, § 2}} for a term starting on the first Monday in the December following an election.{{sfn|Thorpe|1909|p=976|loc=1818 art. III, § 3}} The constitution of 1848 moved the start of the term to the second Monday in January starting in 1849, thus shortening the term won in the 1844 election to 2 years.{{sfn|Thorpe|1909|p=995|loc=1848 art. IV, § 3}} Governors were not allowed to succeed themselves{{sfn|Thorpe|1909|p=976|loc=1818 art. III, § 3}} until the 1870 constitution, which removed this limit.
+
+The office of [[Lieutenant Governor of Illinois|lieutenant governor]] was created in the first constitution,{{sfn|Thorpe|1909|p=977|loc=1818 art. III, § 13}} to exercise the power of governor if that office becomes vacant.{{sfn|Thorpe|1909|p=977|loc=1818 art. III, § 18}} The 1848 constitution changed this to say the power "devolves" upon the lieutenant governor in case of a vacancy.{{sfn|Thorpe|1909|p=997|loc=1848 art. IV, § 19}} The current constitution of 1970 made it so that, in the event of a vacancy, the lieutenant becomes governor,{{sfn|Ill. Const.|loc=[https://50constitutions.org/il/constitution/section-id-86871 art. V, § 6]}} and the governor and lieutenant governor are now elected on the same [[ticket (election)|ticket]].{{sfn|Ill. Const.|loc=[https://50constitutions.org/il/constitution/section-id-86867 art. V, § 4]}} If the governor feels seriously impeded in performing their job, they can inform the [[secretary of State of Illinois|secretary of state]] and the next in the line of succession, who becomes acting governor until the governor can resume office.{{sfn|Ill. Const.|loc=[https://50constitutions.org/il/constitution/section-id-86871 art. V, § 6]}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Illinois
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|Based on the official site labeling [[Bruce Rauner]] as the 42nd governor,<ref>{{Cite web |title=About the Governor |url=https://www2.illinois.gov/gov/about/Pages/AbouttheGovernor.aspx |url-status=dead |archive-url=https://web.archive.org/web/20180426081238/https://www2.illinois.gov/gov/about/Pages/AbouttheGovernor.aspx |archive-date=April 26, 2018 |access-date=April 25, 2018 |publisher=State of Illinois}}</ref> it is assumed the official numbering includes repeat governors only once; subsequent terms are marked with their original number italicized.}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Illinois|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}{{efn|When the lieutenant governor is serving as governor, the Illinois Blue Book considers the [[President of the Illinois Senate#Presidents pro tempore|president pro tempore of the senate]] to be acting lieutenant governor. However, this only applies to acting lieutenant governors before 1883; after that, there are no acting lieutenant governors noted, and instead these are marked vacant. It is unknown why this changed; the constitution does not appear to have any relevant changes around that time.<ref>{{cite book |title=Illinois Blue Book 2025–2026 |editor-last=Giannoulias |editor-first=Alexi |publisher=State of Illinois |url=https://www.ilsos.gov/content/dam/publications/illinois-bluebook/2025-26/roster-of-government-officials.pdf |page=364 |format=PDF |access-date=October 23, 2026}}</ref>}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Bond, Shadrach"|[[File:Portrait of Gov. Shadrach Bond at the State Capitol in Springfield (cropped).png|99x99px]]
+|style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[Shadrach Bond]]'''<br>{{small|(1773–1832)}}<br>{{sfn|Sobel|1978|p=365}}<ref name="nga-bond">{{cite web |title=Shadrach Bond |url=https://www.nga.org/governor/shadrach-bond/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260904030807/https://www.nga.org/governor/shadrach-bond/ |archive-date=September 4, 2026 |url-status=live}}</ref>
+|data-sort-value="1522"|October 6, 1818{{sfn|Kallenbach|1977|p=161}}<br />–<br />December 5, 1822<br>{{small|(1522 days; term-limited)}}{{efn|Under the 1818 constitution, governors were limited to no more than four years out of every term of eight years.{{sfn|Thorpe|1909|p=976|loc=1818 art. III, § 3}}|name=limits-1818}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=45}}
+|[[1818 Illinois gubernatorial election|1818]]
+|rowspan="3" style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|{{sortname|Pierre|Menard}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Coles, Edward"|[[File:Edward Coles by John Henry Brown (cropped).png|98x98px]]
+|style="color:inherit;background:{{party color|Independent (politician)}};" title="Represented no party"|
+|'''[[Edward Coles]]'''<br>{{small|(1786–1868)}}<br>{{sfn|Sobel|1978|p=366}}<ref name="nga-coles">{{cite web |title=Edward Coles |url=https://www.nga.org/governor/edward-coles/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613153148/https://www.nga.org/governor/edward-coles/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|December 5, 1822<ref>{{Cite news |date=December 14, 1822 |title=Illinois Legislature |page=1 |newspaper=Edwardsville Spectator |url=https://www.newspapers.com/article/edwardsville-spectator-coles-inaugurated/130121331/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816192905/https://www.newspapers.com/article/edwardsville-spectator-coles-inaugurated/130121331/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 6, 1826<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1818}}
+|[[Independent politician|Independent]]<ref>{{Cite book |last=Howard |first=Robert P. |title=Mostly Good and Competent Men |publisher=Institute for Public Affairs |year=1988 |isbn=0-938943-15-4 |edition=2nd |location=Springfield, Illinois |pages=12, 372}}</ref>
+|[[1822 Illinois gubernatorial election|1822]]
+|{{sortname|Adolphus|Hubbard}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Edwards, Ninian"|[[File:Portrait of Gov. Ninian Edwards at the State Capitol in Springfield (cropped).jpg|100x100px]]
+|style="color:inherit;background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|'''[[Ninian Edwards]]'''<br>{{small|(1775–1833)}}<br>{{sfn|Sobel|1978|pp=366–367}}{{sfn|McMullin|1984|pp=145–147}}<ref name="nga-edwards">{{cite web |title=Ninian Edwards |url=https://www.nga.org/governor/ninian-edwards/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606081435/https://www.nga.org/governor/ninian-edwards/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="1462"|December 6, 1826{{sfn|Kallenbach|1977|p=161}}<br />–<br />December 6, 1830<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1818}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Dubin labels Edward as a pro-Administration candidate;{{sfn|Dubin|2003|p=46}} Kallenbach labels him as [[National Republican Party|National Republican]];{{sfn|Kallenbach|1977|p=161}} and Sobel and Glashan label him as Democratic-Republican.{{sfn|Sobel|1978|p=367}}{{sfn|Glashan|1979|p=80}}}}
+|[[1826 Illinois gubernatorial election|1826]]
+|{{sortname|William|Kinney|dab=Illinois politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Reynolds, John"|[[File:John Reynolds (1788-1865), Governor of Illinois (cropped).jpg|105x105px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John Reynolds (Illinois politician)|John Reynolds]]'''<br>{{small|(1788–1865)}}<br>{{sfn|Sobel|1978|pp=367–368}}<ref name="nga-reynolds">{{cite web |title=John Reynolds |url=https://www.nga.org/governor/john-reynolds/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710073434/https://www.nga.org/governor/john-reynolds/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1443"|December 6, 1830{{sfn|Kallenbach|1977|p=161}}<br />–<br />November 17, 1834<br>{{small|(1443 days; resigned)}}{{efn|Reynolds resigned, having been [[1834 United States House of Representatives elections in Illinois|elected]] to the [[United States House of Representatives]].<ref name="nga-reynolds" />}}
+|rowspan="2"|[[Democratic Party (United States)|Democratic]]<ref>{{Cite book |last=Howard |first=Robert P. |title=Mostly Good and Competent Men |publisher=Institute for Public Affairs |year=1988 |isbn=0-938943-15-4 |edition=2nd |location=Springfield, Illinois |page=31}}</ref>
+|rowspan="2"|[[1830 Illinois gubernatorial election|1830]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Zadok|Casey}}{{efn|name=lt-dem}}<br />{{small|(resigned March 1, 1833)}}
+|- style="height:2em;"
+|{{sortname|William Lee D.|Ewing}}{{efn|name=lt-dem}}<br />{{small|(acting)}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Ewing, William"|[[File:Governor Ewing Portrait (cropped).jpg|98x98px]]
+|'''[[William Lee D. Ewing]]'''<br>{{small|(1795–1846)}}<br>{{sfn|Sobel|1978|p=368}}<ref name="nga-ewing">{{cite web |title=William Lee Davidson Ewing |url=https://www.nga.org/governor/william-lee-davidson-ewing/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422111946/https://www.nga.org/governor/william-lee-davidson-ewing/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="17"|November 17, 1834<ref>{{Cite news |date=November 27, 1834 |title=Resignation |page=2 |newspaper=[[Illinois Intelligencer|Vandalia Whig and Illinois Intelligencer]] |url=https://www.newspapers.com/article/vandalia-whig-and-illinois-intelligencer/130121850/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816193759/https://www.newspapers.com/article/vandalia-whig-and-illinois-intelligencer/130121850/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 3, 1834<br>{{small|(17 days; retired)}}
+|[[Democratic Party of Illinois|Democratic]]{{efn|Kallenbach labels Ewing a [[National Republican Party|National Republican]]{{sfn|Kallenbach|1977|p=161}} and Glashan labels him a Democratic-Republican.{{sfn|Glashan|1979|p=78}} However, Sobel describes him as a "Jacksonian Democrat," which would be the opposition to those parties.{{sfn|Sobel|1978|p=368}}}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Duncan, Joseph"|[[File:Joseph Duncan (cropped less).png|100x100px]]
+|rowspan="2" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Joseph Duncan (politician)|Joseph Duncan]]'''<br>{{small|(1794–1844)}}<br>{{sfn|Sobel|1978|p=369}}<ref name="nga-duncan">{{cite web |title=Joseph Duncan |url=https://www.nga.org/governor/joseph-duncan/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513222017/https://www.nga.org/governor/joseph-duncan/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1466"|December 3, 1834<ref>{{cite book |title=Journal of the Illinois Senate, 1834 sess. |author=Illinois General Assembly |page=21 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2999467&seq=33 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />December 7, 1838<br>{{small|(1466 days; term-limited)}}{{efn|name=limits-1818}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=47}}
+|rowspan="2"|[[1834 Illinois gubernatorial election|1834]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Alexander M.|Jenkins}}{{efn|Represented the [[Democratic Party of Illinois|Democratic Party]]|name=lt-dem}}<br />{{small|(resigned December 9, 1836)}}
+|- style="height:2em;"
+|{{sortname|William H.|Davidson|dab=Illinois politician}}{{efn|name=lt-dem}}<br />{{small|(acting)}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Carlin, Thomas"|[[File:Thomas Carlin (cropped less).png|100x100px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Thomas Carlin]]'''<br>{{small|(1789–1852)}}<br>{{sfn|Sobel|1978|pp=369–370}}<ref name="nga-carlin">{{cite web |title=Thomas Carlin |url=https://www.nga.org/governor/thomas-carlin/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260305112642/https://www.nga.org/governor/thomas-carlin/ |archive-date=March 5, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|December 7, 1838<ref>{{cite book |title=Journal of the Illinois Senate, 1838 sess. |author=Illinois General Assembly |page=16 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2999470&seq=22 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />December 8, 1842<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1818}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Dubin|2003|p=48}}
+|[[1838 Illinois gubernatorial election|1838]]
+|{{sortname|Stinson|Anderson}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Ford, Thomas"|[[File:Thomas Ford (cropped less).png|99x99px]]
+|'''[[Thomas Ford (politician)|Thomas Ford]]'''<br>{{small|(1800–1850)}}<br>{{sfn|Sobel|1978|pp=370–371}}<ref name="nga-ford">{{cite web |title=Thomas Ford |url=https://www.nga.org/governor/thomas-ford/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710081150/https://www.nga.org/governor/thomas-ford/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|December 8, 1842<ref>{{cite book |title=Journal of the Illinois Senate, 1842 sess. |author=Illinois General Assembly |page=33 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015068148561&seq=41 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />December 9, 1846<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1818}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Dubin|2003|p=49}}
+|[[1842 Illinois gubernatorial election|1842]]
+|{{sortname|John|Moore|dab=Illinois politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="French, Augustus"|[[File:Portrait of Gov. Augustus C. French at the State Capitol in Springfield (cropped) (cropped).png|98x98px]]
+|rowspan="2"|'''[[Augustus C. French]]'''<br>{{small|(1808–1864)}}<br>{{sfn|Sobel|1978|p=371}}<ref name="nga-french">{{cite web |title=Augustus C. French |url=https://www.nga.org/governor/augustus-c-french/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260217212032/https://www.nga.org/governor/augustus-c-french/ |archive-date=February 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2225"|December 9, 1846<ref>{{cite book |title=Journal of the Illinois Senate, 1846 sess. |author=Illinois General Assembly |page=13 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065152624&seq=19 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 10, 1853<br>{{small|(2225 days; term-limited)}}{{efn|Under the 1848 constitution, governors elected after 1848 were limited to no more than four years out of every term of eight years.{{sfn|Thorpe|1909|p=995|loc=1848 art. IV, § 3}}|name=limits-1848}}
+|rowspan="2"|[[Democratic Party of Illinois|Democratic]]{{sfn|Dubin|2003|pp=49–50}}
+|[[1846 Illinois gubernatorial election|1846]]{{efn|The election schedule was shifted after this term, shortening it to two years.{{sfn|Thorpe|1909|p=995|loc=1848 art. IV, § 3}}}}
+|{{sortname|Joseph|Wells|dab=politician}}
+|- style="height:2em;"
+|[[1848 Illinois gubernatorial election|1848]]
+|{{sortname|William|McMurtry}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Matteson, Joel"|[[File:Portrait of Gov. Joel Aldrich Matteson at the State Capitol in Springfield (cropped).jpg|99x99px]]
+|'''[[Joel Aldrich Matteson]]'''<br>{{small|(1808–1873)}}<br>{{sfn|Sobel|1978|pp=371–372}}<ref name="nga-matteson">{{cite web |title=Joel Aldrich Matteson |url=https://www.nga.org/governor/joel-aldrich-matteson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418102831/https://www.nga.org/governor/joel-aldrich-matteson/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1853<ref>{{cite book |title=Journal of the Illinois House of Representatives, 1853 sess. |author=Illinois General Assembly |page=46 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065180898&seq=52 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 12, 1857<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1848}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Dubin|2003|p=51}}
+|[[1852 Illinois gubernatorial election|1852]]
+|{{sortname|Gustav|Koerner}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Bissell, William"|[[File:William Henry Bissell (cropped).png|99x99px]]
+|rowspan="13" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[William Henry Bissell]]'''<br>{{small|(1811–1860)}}<br>{{sfn|Sobel|1978|pp=372–373}}<ref name="nga-bissell">{{cite web |title=William Henry Bissell |url=https://www.nga.org/governor/william-henry-bissell/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422110913/https://www.nga.org/governor/william-henry-bissell/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="1162"|January 12, 1857<ref>{{cite book |title=Journal of the Illinois Senate, 1857 sess. |author=Illinois General Assembly |page=60 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065152608&seq=66 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />March 18, 1860<br>{{small|(1162 days; died in office)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Dubin|2003|p=52}}
+|[[1856 Illinois gubernatorial election|1856]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John|Wood|dab=Illinois politician}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Wood, John"|[[File:Governor John Wood of Illinois (cropped).png|100x100px]]
+|'''[[John Wood (Illinois politician)|John Wood]]'''<br>{{small|(1798–1880)}}<br>{{sfn|Sobel|1978|p=373}}<ref name="nga-wood">{{cite web |title=John Wood |url=https://www.nga.org/governor/john-wood/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613181919/https://www.nga.org/governor/john-wood/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="303"|March 18, 1860<ref>{{Cite news |date=March 18, 1860 |publication-date=March 21, 1860 |title=Death of Gov. Bissell |page=2 |location=Springfield, Illinois |publication-place=Rock Island, Illinois |newspaper=[[The Dispatch / The Rock Island Argus|The Rock Island Argus]] |url=https://www.newspapers.com/article/the-rock-island-argus-wood-succeeds-biss/130151139/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230817034152/https://www.newspapers.com/article/the-rock-island-argus-wood-succeeds-biss/130151139/ |archive-date=August 17, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1861<br>{{small|(303 days; retired)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Thomas|Marshall|dab=Illinois politician}}{{efn|name=lt-dem}}<br />{{small|(acting)}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Yates, Richard 1"|[[File:Richard Yates Governor LOC (cropped).jpg|100x100px]]
+|'''[[Richard Yates Sr.]]'''<br>{{small|(1815–1873)}}<br>{{sfn|Sobel|1978|p=374}}<ref name="nga-yates-richardsr">{{Cite web |title=Richard Yates Sr. |url=https://www.nga.org/governor/richard-yates-sr/ |access-date=October 23, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710071512/https://www.nga.org/governor/richard-yates-sr/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 14, 1861<ref>{{cite book |title=Journal of the Illinois Senate, 1861 sess. |author=Illinois General Assembly |page=58 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065152582&seq=64 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 16, 1865<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1848}}
+|[[Illinois Republican Party|Republican]]{{sfn|Dubin|2003|p=53}}
+|[[1860 Illinois gubernatorial election|1860]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Francis|Hoffmann}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Oglesby, Richard"|[[File:Richard James Oglesby (cropped).jpg|100x100px]]
+|'''[[Richard J. Oglesby]]'''<br>{{small|(1824–1899)}}<br>{{sfn|Sobel|1978|pp=374–375}}<ref name="nga-oglesby">{{cite web |title=Richard James Oglesby |url=https://www.nga.org/governor/richard-james-oglesby/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519104821/https://www.nga.org/governor/richard-james-oglesby/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 16, 1865<ref>{{cite book |title=Journal of the Illinois Senate, 1865 sess. |author=Illinois General Assembly |page=163 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065152558&seq=167 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 11, 1869<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1848}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1864 Illinois gubernatorial election|1864]]
+|{{sortname|William|Bross}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Palmer, John"|[[File:Brig. General John McAuley Palmer (cropped).jpg|99x99px]]
+|'''[[John M. Palmer]]'''<br>{{small|(1817–1900)}}<br>{{sfn|Sobel|1978|p=376}}<ref name="nga-palmer">{{cite web |title=John McAuley Palmer |url=https://www.nga.org/governor/john-mcauley-palmer/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510110547/https://www.nga.org/governor/john-mcauley-palmer/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1869<ref>{{cite book |title=Journal of the Illinois Senate, 1869 sess. |author=Illinois General Assembly |page=186 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067973654&seq=194 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 13, 1873<br>{{small|(1464 days; term-limited)}}{{efn|The term limit was removed in the 1870 constitution, but Palmer was first elected under the previous constitution; Sobel writes that this meant he was term-limited.{{sfn|Sobel|1978|p=376}}}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1868 Illinois gubernatorial election|1868]]
+|{{sortname|John|Dougherty|dab=Illinois politician}}
+|- style="height:2em;"
+!scope="row"|''14''
+|data-sort-value="Oglesby, Richard"|[[File:Richard James Oglesby - Brady-Handy (cropped).jpg|99x99px]]
+|'''[[Richard J. Oglesby]]'''<br>{{small|(1824–1899)}}<br>{{sfn|Sobel|1978|pp=374–375}}<ref name="nga-oglesby" />
+|data-sort-value="11"|January 13, 1873<ref>{{cite book |title=Journal of the Illinois Senate, 1873 sess. |author=Illinois General Assembly |page=52 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067973803&seq=58 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 23, 1873<br>{{small|(11 days; resigned)}}{{efn|Oglesby resigned, having been [[1873 United States Senate election in Illinois|elected]] to the [[United States Senate]].<ref name="nga-oglesby" />}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1872 Illinois gubernatorial election|1872]]
+|{{sortname|John Lourie|Beveridge}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Beveridge, John"|[[File:John.L.Beveridge (cropped).jpg|75px]]
+|rowspan="2"|'''[[John Lourie Beveridge]]'''<br>{{small|(1824–1910)}}<br>{{sfn|Sobel|1978|p=377}}<ref name="nga-beveridge">{{cite web |title=John Lourie Beveridge |url=https://www.nga.org/governor/john-lourie-beveridge/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512211642/https://www.nga.org/governor/john-lourie-beveridge/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1447"|January 23, 1873<ref>{{cite book |title=Journal of the Illinois Senate, 1873 sess. |author=Illinois General Assembly |page=138 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067973803&seq=144 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 8, 1877<br>{{small|(1447 days; retired)}}
+|rowspan="2"|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|{{sortname|John|Early|dab=Illinois politician}}<br />{{small|(acting)<br />(term ended January 8, 1875)}}
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Archibald A.|Glenn}}{{efn|name=lt-dem}}<br />{{small|(acting)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Cullom, Shelby"|[[File:Shelby Moore Cullom-cropped (1).jpg|99x99px]]
+|rowspan="2"|'''[[Shelby M. Cullom]]'''<br>{{small|(1829–1914)}}<br>{{sfn|Sobel|1978|pp=377–378}}<ref name="nga-cullom">{{cite web |title=Shelby Moore Cullom |url=https://www.nga.org/governor/shelby-moore-cullom/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410203102/https://www.nga.org/governor/shelby-moore-cullom/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2221"|January 8, 1877<ref>{{cite book |title=Journal of the Illinois Senate, 1877 sess. |author=Illinois General Assembly |page=39 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067973795&seq=43 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />February 6, 1883<br>{{small|(2221 days; resigned)}}{{efn|Cullom resigned, having been [[1882 United States Senate election in Illinois|elected]] to the [[United States Senate]].<ref name="nga-cullom" /><ref name="cullom-resigns" />}}
+|rowspan="2"|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1876 Illinois gubernatorial election|1876]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Andrew|Shuman}}
+|- style="height:2em;"
+|[[1880 Illinois gubernatorial election|1880]]
+|{{sortname|John Marshall|Hamilton}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Hamilton, John"|[[File:John.Marshall.Hamilton (cropped).jpg|75px]]
+|'''[[John Marshall Hamilton]]'''<br>{{small|(1847–1905)}}<br>{{sfn|Sobel|1978|pp=378–379}}<ref name="nga-hamilton">{{cite web |title=John Marshall Hamilton |url=https://www.nga.org/governor/john-marshall-hamilton/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513225620/https://www.nga.org/governor/john-marshall-hamilton/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="725"|February 6, 1883<ref name="cullom-resigns">{{Cite news |date=February 7, 1883 |title=Down and Out: The Governor's Resignation |page=3 |newspaper=[[Chicago Tribune]] |url=https://www.newspapers.com/article/chicago-tribune-governor-cullom-resigns/119582701/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926215952/https://www.newspapers.com/article/chicago-tribune-governor-cullom-resigns/119582701/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 30, 1885<br>{{small|(725 days; retired)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|{{sortname|William James|Campbell}}<br />{{small|(acting)}}
+|- style="height:2em;"
+!scope="row"|''14''
+|data-sort-value="Oglesby, Richard"|[[File:Richard Oglesby, 1892 (cropped).jpg|98x98px]]
+|'''[[Richard J. Oglesby]]'''<br>{{small|(1824–1899)}}<br>{{sfn|Sobel|1978|pp=374–375}}<ref name="nga-oglesby" />
+|data-sort-value="1446"|January 30, 1885<ref>{{cite book |title=Journal of the Illinois Senate, 1885 sess. |author=Illinois General Assembly |page=122 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067973944&seq=126 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 14, 1889<br>{{small|(1446 days; retired)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1884 Illinois gubernatorial election|1884]]
+|{{sortname|John C.|Smith|dab=politician}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Fifer, Joseph"|[[File:Joe.W.Fifer (cropped 3x4).jpg|99x99px]]
+|'''[[Joseph W. Fifer]]'''<br>{{small|(1840–1938)}}<br>{{sfn|Sobel|1978|pp=379–380}}<ref name="nga-fifer">{{cite web |title=Joseph Wilson Fifer |url=https://www.nga.org/governor/joseph-wilson-fifer/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608202532/https://www.nga.org/governor/joseph-wilson-fifer/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|data-sort-value="1458"|January 14, 1889<ref>{{cite book |title=Journal of the Illinois Senate, 1889 sess. |author=Illinois General Assembly |page=99 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065178256&seq=109 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 10, 1893<br>{{small|(1458 days; lost election)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1888 Illinois gubernatorial election|1888]]
+|{{sortname|Lyman Beecher|Ray}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Altgeld, John"|[[File:John Peter Altgeld Memorial Photo (cropped).png|100x100px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John Peter Altgeld]]'''<br>{{small|(1847–1902)}}<br>{{sfn|Sobel|1978|pp=380–381}}<ref name="nga-altgeld">{{cite web |title=John Peter Altgeld |url=https://www.nga.org/governor/john-peter-altgeld/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512221252/https://www.nga.org/governor/john-peter-altgeld/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|January 10, 1893<ref>{{cite book |title=Journal of the Illinois Senate, 1893 sess. |author=Illinois General Assembly |page=114 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112111454416&seq=124 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 11, 1897<br>{{small|(1463 days; lost election)}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|[[1892 Illinois gubernatorial election|1892]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Joseph B.|Gill}}
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Tanner, John"|[[File:John.R.Tanner (cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John Riley Tanner]]'''<br>{{small|(1844–1901)}}<br>{{sfn|Sobel|1978|p=381}}<ref name="nga-tanner">{{cite web |title=John Riley Tanner |url=https://www.nga.org/governor/john-riley-tanner/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260808074721/https://www.nga.org/governor/john-riley-tanner/ |archive-date=August 8, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1897<ref>{{cite book |title=Journal of the Illinois Senate, 1897 sess. |author=Illinois General Assembly |page=167 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112067896768&seq=179 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 14, 1901<br>{{small|(1464 days; retired)}}{{efn|Tanner instead [[1900–01 United States Senate elections|ran unsuccessfully]] for the Republican nomination for the [[United States Senate]].{{sfn|Sobel|1978|p=381}}}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1896 Illinois gubernatorial election|1896]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|William|Northcott}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Yates, Richard 2"|[[File:Governor Richard Yates Jr (cropped).tif|99x99px]]
+|'''[[Richard Yates Jr.]]'''<br>{{small|(1860–1936)}}<br>{{sfn|Sobel|1978|p=382}}<ref name="nga-yates-richardjr">{{Cite web |title=Richard Yates Jr. |url=https://www.nga.org/governor/richard-yates-jr/ |access-date=October 23, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607074543/https://www.nga.org/governor/richard-yates-jr/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1901<ref>{{cite book |title=Journal of the Illinois Senate, 1901 sess. |author=Illinois General Assembly |page=173 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065178231&seq=181 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 9, 1905<br>{{small|(1457 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=382}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1900 Illinois gubernatorial election|1900]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Deneen, Charles"|[[File:C.S. Deneen LCCN2014716647 (3x4a).jpg|99x99px]]
+|rowspan="2"|'''[[Charles S. Deneen]]'''<br>{{small|(1863–1940)}}<br>{{sfn|Sobel|1978|pp=382–383}}<ref name="nga-deneen">{{cite web |title=Charles Samuel Deneen |url=https://www.nga.org/governor/charles-samuel-deneen/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510112937/https://www.nga.org/governor/charles-samuel-deneen/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2948"|January 9, 1905<ref>{{cite book |title=Journal of the Illinois Senate, 1905 sess. |author=Illinois General Assembly |page=237 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065178223&seq=247 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />February 3, 1913<br>{{small|(2948 days; lost election)}}
+|rowspan="2"|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1904 Illinois gubernatorial election|1904]]
+|{{sortname|Lawrence Y.|Sherman}}
+|- style="height:2em;"
+|[[1908 Illinois gubernatorial election|1908]]
+|{{sortname|John G.|Oglesby}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Dunne, Edward"|[[File:Edward Fitzsimmons Dunne (Illinois Blue Book Portrait 1915-1916) (cropped).png|99x99px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Edward Fitzsimmons Dunne]]'''<br>{{small|(1853–1937)}}<br>{{sfn|Sobel|1978|p=383}}<ref name="nga-dunne">{{cite web |title=Edward Fitzsimmons Dunne |url=https://www.nga.org/governor/edward-fitzsimmons-dunne/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415040430/https://www.nga.org/governor/edward-fitzsimmons-dunne/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|data-sort-value="1436"|February 3, 1913<ref>{{cite book |title=Journal of the Illinois Senate, 1913 sess. |author=Illinois General Assembly |page=395 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015065178280&seq=399 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 8, 1917<br>{{small|(1436 days; lost election)}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|[[1912 Illinois gubernatorial election|1912]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Barratt|O'Hara}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Lowden, Frank"|[[File:Frank Orren Lowden (Illinois Blue Book Portrait 1917-1918) (cropped).png|99x99px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Frank O. Lowden]]'''<br>{{small|(1861–1943)}}<br>{{sfn|Sobel|1978|p=384}}<ref name="nga-lowden">{{cite web |title=Frank Orren Lowden |url=https://www.nga.org/governor/frank-orren-lowden/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314095001/https://www.nga.org/governor/frank-orren-lowden/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1917<ref>{{cite book |title=Journal of the Illinois Senate, 1917 sess. |author=Illinois General Assembly |page=239 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112118748216&seq=249 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 10, 1921<br>{{small|(1464 days; retired)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1916 Illinois gubernatorial election|1916]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John G.|Oglesby}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Small, Len"|[[File:Len Small (3x4).jpg|100x100px]]
+|rowspan="2"|'''[[Len Small]]'''<br>{{small|(1862–1936)}}<br>{{sfn|Sobel|1978|pp=384–385}}<ref name="nga-small">{{cite web |title=Lennington Small |url=https://www.nga.org/governor/lennington-small/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314103349/https://www.nga.org/governor/lennington-small/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 10, 1921<ref>{{cite book |title=Journal of the Illinois Senate, 1921 sess. |author=Illinois General Assembly |page=313 |url=https://babel.hathitrust.org/cgi/pt?id=uiuo.ark%3A%2F13960%2Ft1hj13c6p&seq=321 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 14, 1929<br>{{small|(2927 days;<br>lost nomination)}}<ref>{{cite news |title=Illinois Primaries |url=https://www.newspapers.com/article/the-state-journal-register-illinois-prim/204720132/ |date=April 15, 1928 |newspaper=[[The State Journal-Register|Illinois State Journal]] |access-date=October 22, 2026 |page=1 |via=Newspapers.com}}</ref>
+|rowspan="2"|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1920 Illinois gubernatorial election|1920]]
+|rowspan="3"|{{sortname|Fred E.|Sterling}}
+|- style="height:2em;"
+|[[1924 Illinois gubernatorial election|1924]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Emmerson, Louis"|[[File:Governor Louis Lincoln Emmerson Official Portrait (cropped).jpg|99x99px]]
+|'''[[Louis Lincoln Emmerson]]'''<br>{{small|(1863–1941)}}<br>{{sfn|Sobel|1978|pp=385–386}}<ref name="nga-emmerson">{{cite web |title=Louis Lincoln Emmerson |url=https://www.nga.org/governor/louis-lincoln-emmerson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513063839/https://www.nga.org/governor/louis-lincoln-emmerson/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1929<ref>{{cite book |title=Journal of the Illinois Senate, 1929 sess. |author=Illinois General Assembly |page=104 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015068036758&seq=108 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 9, 1933<br>{{small|(1457 days; retired)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1928 Illinois gubernatorial election|1928]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Horner, Henry"|[[File:Henry Horner (Illinois Blue Book Portrait 1934-1935) (cropped2).jpg|98x98px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Henry Horner]]'''<br>{{small|(1878–1940)}}<br>{{sfn|Sobel|1978|p=386}}<ref name="nga-horner">{{cite web |title=Henry Horner |url=https://www.nga.org/governor/henry-horner/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509171700/https://www.nga.org/governor/henry-horner/ |archive-date=May 9, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2828"|January 9, 1933<ref>{{cite book |title=Journal of the Illinois Senate, 1933 sess. |author=Illinois General Assembly |page=43 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015068037319&seq=51 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />October 6, 1940<br>{{small|(2828 days; died in office)}}
+|rowspan="2"|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|[[1932 Illinois gubernatorial election|1932]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Thomas|Donovan|dab=politician}}
+|- style="height:2em;"
+|[[1936 Illinois gubernatorial election|1936]]
+|{{sortname|John Henry|Stelle}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Stelle, John"|[[File:John Henry Stelle Lt. Gov Portrait.jpg|98x98px]]
+|'''[[John Henry Stelle]]'''<br>{{small|(1891–1962)}}<br>{{sfn|Sobel|1978|pp=386–387}}<ref name="nga-stelle">{{cite web |title=John Henry Stelle |url=https://www.nga.org/governor/john-henry-stelle/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710081122/https://www.nga.org/governor/john-henry-stelle/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="100"|October 6, 1940<ref>{{Cite news |date=October 7, 1940 |title=Gov. Henry Horner Dies – Stelle Automatically Becomes Governor |page=1 |location=Chicago |publication-place=Bloomington, Illinois |newspaper=[[The Pantagraph|The Daily Pantagraph]] |agency=Associated Press |url=https://www.newspapers.com/article/the-pantagraph-stelle-succeeds-horner-oc/130240835/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230818211433/https://www.newspapers.com/article/the-pantagraph-stelle-succeeds-horner-oc/130240835/ |archive-date=August 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1941<br>{{small|(100 days;<br>lost nomination)}}{{efn|Stelle had already lost the Democratic nomination for governor when he succeeded Horner.{{sfn|Sobel|1978|p=387}}}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Green, Dwight"|[[File:Dwight H. Green cph.3b30070 (a).jpg|99x99px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Dwight H. Green]]'''<br>{{small|(1897–1958)}}<br>{{sfn|Sobel|1978|pp=387–388}}<ref name="nga-green">{{cite web |title=Dwight Herbert Green |url=https://www.nga.org/governor/dwight-herbert-green/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513224051/https://www.nga.org/governor/dwight-herbert-green/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 13, 1941<ref>{{cite book |title=Journal of the Illinois Senate, 1941 sess. |author=Illinois General Assembly |page=27 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015068037475&seq=35 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 10, 1949<br>{{small|(2920 days; lost election)}}
+|rowspan="2"|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1940 Illinois gubernatorial election|1940]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Hugh W.|Cross}}
+|- style="height:2em;"
+|[[1944 Illinois gubernatorial election|1944]]
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Stevenson, Adlai"|[[File:Adlai E. Stevenson II (IL 2) (cropped).jpg|99x99px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Adlai Stevenson II]]'''<br>{{small|(1900–1965)}}<br>{{sfn|Sobel|1978|p=388}}<ref name="nga-stevenson">{{cite web |title=Adlai Ewing Stevenson |url=https://www.nga.org/governor/adlai-ewing-stevenson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422120255/https://www.nga.org/governor/adlai-ewing-stevenson/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1949<ref>{{cite book |title=Journal of the Illinois Senate, 1949 sess. |author=Illinois General Assembly |page=40 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112116677151&seq=48 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 12, 1953<br>{{small|(1464 days; retired)}}{{efn|Stevenson instead [[1952 United States presidential election|ran unsuccessfully]] for [[President of the United States]].{{sfn|Sobel|1978|p=388}}}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|[[1948 Illinois gubernatorial election|1948]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Sherwood|Dixon}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Stratton, William"|[[File:William G. Stratton (Illinois Blue Book Portrait 1951-1952) (cropped).jpg|97x97px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[William Stratton]]'''<br>{{small|(1914–2001)}}<br>{{sfn|Sobel|1978|p=389}}<ref name="nga-stratton">{{cite web |title=William Grant Stratton |url=https://www.nga.org/governor/william-grant-stratton/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510082031/https://www.nga.org/governor/william-grant-stratton/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 12, 1953<ref>{{cite book |title=Journal of the Illinois Senate, 1953 sess. |author=Illinois General Assembly |page=43 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112116677417&seq=51 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 9, 1961<br>{{small|(2920 days; lost election)}}
+|rowspan="2"|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1952 Illinois gubernatorial election|1952]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|John William|Chapman}}
+|- style="height:2em;"
+|[[1956 Illinois gubernatorial election|1956]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Kerner, Otto"|[[File:Governor Otto Kerner Color Portrait (cropped).png|100x100px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Otto Kerner Jr.]]'''<br>{{small|(1908–1976)}}<br>{{sfn|Sobel|1978|pp=389–390}}<ref name="nga-kerner">{{cite web |title=Otto Kerner, Jr. |url=https://www.nga.org/governor/otto-kerner/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261011132806/https://www.nga.org/governor/otto-kerner/ |archive-date=October 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2689"|January 9, 1961<ref>{{cite book |title=Journal of the Illinois Senate, 1961 sess., vol. 1 |author=Illinois General Assembly |page=35 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112072814756&seq=43 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />May 20, 1968<br>{{small|(2689 days; resigned)}}{{efn|Kerner resigned, having been confirmed to the [[United States Court of Appeals for the Seventh Circuit]].<ref name="nga-kerner" /><ref>{{Cite news |date=May 20, 1968 |title=Kerner Resigns As Ill. Governor |page=1 |newspaper=Daily Republican-Register |agency=United Press International |location=Springfield, Illinois |publication-place=Mount Carmel, Illinois |url=https://www.newspapers.com/article/mount-carmel-register-kerner-resigns-as/119595704/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926215948/https://www.newspapers.com/article/119595704/kerner-resigns-as-ill-governor/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|rowspan="2"|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|[[1960 Illinois gubernatorial election|1960]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Samuel|Shapiro|dab=Illinois politician}}
+|- style="height:2em;"
+|[[1964 Illinois gubernatorial election|1964]]
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Shapiro, Samuel"|[[File:Governor Samuel Shapiro Postcard Portrait (cropped).png|99x99px]]
+|'''[[Samuel Shapiro (Illinois politician)|Samuel Shapiro]]'''<br>{{small|(1907–1987)}}<br>{{sfn|Sobel|1978|p=390}}<ref name="nga-shapiro">{{cite web |title=Samuel H. Shapiro |url=https://www.nga.org/governor/samuel-h-shapiro/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417181507/https://www.nga.org/governor/samuel-h-shapiro/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="239"|May 20, 1968<ref>{{Cite news |date=May 21, 1968 |title=Kerner Resigns Post to Shapiro |page=1 |newspaper=Daily Republican-Register |location=Springfield, Illinois |publication-place=Mount Carmel, Illinois |agency=United Press International |url=https://www.newspapers.com/article/mount-carmel-register-kerner-resigns-pos/119595739/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926215945/https://www.newspapers.com/article/119595739/kerner-resigns-post-to-shapiro/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1969<br>{{small|(239 days; lost election)}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Ogilvie, Richard"|[[File:Richard Ogilvie.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Richard B. Ogilvie]]'''<br>{{small|(1923–1988)}}<br>{{sfn|Sobel|1978|pp=390–391}}<ref name="nga-ogilvie">{{cite web |title=Richard Buell Ogilvie |url=https://www.nga.org/governor/richard-buell-ogilvie/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260416233415/https://www.nga.org/governor/richard-buell-ogilvie/ |archive-date=April 16, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1969<ref>{{cite book |title=Journal of the Illinois Senate, 1969 sess., vol. 1 |author=Illinois General Assembly |page=33 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112072814871&seq=45 |via=[[HathiTrust]] |access-date=October 23, 2026}}</ref><br />–<br />January 8, 1973<br>{{small|(1457 days; lost election)}}
+|[[Illinois Republican Party|Republican]]{{sfn|Kallenbach|1977|p=161}}
+|[[1968 Illinois gubernatorial election|1968]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Paul|Simon|dab=politician}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Walker, Dan"|[[File:Dan Walker (1974) (1).jpg|99x99px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Dan Walker (politician)|Dan Walker]]'''<br>{{small|(1922–2015)}}<br>{{sfn|Sobel|1978|p=391}}<ref name="nga-walker">{{cite web |title=Daniel Walker |url=https://www.nga.org/governor/daniel-walker/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261001095846/https://www.nga.org/governor/daniel-walker/ |archive-date=October 1, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1973<ref>{{Cite news |last=Lahey |first=Bob |date=January 9, 1973 |title=Walker Inaugurated, Promises 'People Government' |page=1 |newspaper=[[Daily Herald (Arlington Heights, Illinois)|The Herald]] |location=Springfield, Illinois |publication-place=Arlington Heights, Illinois |url=https://www.newspapers.com/article/the-daily-herald-walker-inaugurated-janu/130262594/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230819034438/https://www.newspapers.com/article/the-daily-herald-walker-inaugurated-janu/130262594/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 10, 1977<br>{{small|(1464 days;<br>lost nomination)}}{{efn|Walker lost the Democratic nomination to [[Michael Howlett]].{{sfn|Sobel|1978|p=391}}}}
+|[[Democratic Party of Illinois|Democratic]]{{sfn|Kallenbach|1977|p=161}}
+|[[1972 Illinois gubernatorial election|1972]]
+|{{sortname|Neil|Hartigan}}
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|37
+|rowspan="5" data-sort-value="Thompson, James"|[[File:Governor James Thompson 3 (3x4).jpg|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="5"|'''[[Jim Thompson (Illinois politician)|Jim Thompson]]'''<br>{{small|(1936–2020)}}<br>{{sfn|Sobel|1978|p=392}}{{sfn|Mullaney|1994|pp=111–116}}<ref name="nga-thompson">{{cite web |title=James Robert Thompson |url=https://www.nga.org/governor/james-robert-thompson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260819111740/https://www.nga.org/governor/james-robert-thompson/ |archive-date=August 19, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="5118"|January 10, 1977<ref>{{Cite news |last1=Mehler |first1=Neil |last2=Elmer |first2=John |date=January 11, 1977 |title=It's Gov Thompson Now |page=1 |newspaper=[[Chicago Tribune]] |location=Springfield, Illinois |publication-place=Chicago |url=https://www.newspapers.com/article/chicago-tribune-thompson-inaugurated-jan/130262723/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230819034437/https://www.newspapers.com/article/chicago-tribune-thompson-inaugurated-jan/130262723/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1991<br>{{small|(5118 days; retired)}}
+|rowspan="5"|[[Illinois Republican Party|Republican]]<ref name="nga-thompson" />
+|[[1976 Illinois gubernatorial election|1976]]{{efn|The schedule for the 1970 constitution provided that the 1976 election would be for a two-year term, shifting the election schedule away from presidential election years.{{sfn|Ill. Const.|loc=[https://50constitutions.org/il/constitution/section-id-86863 art. V, § 2]}}}}
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Dave|O'Neal}}<br />{{small|(resigned July 31, 1981)}}
+|- style="height:2em;"
+|rowspan="2"|[[1978 Illinois gubernatorial election|1978]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1982 Illinois gubernatorial election|1982]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|George|Ryan}}
+|- style="height:2em;"
+|[[1986 Illinois gubernatorial election|1986]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|38
+|rowspan="3" data-sort-value="Edgar, Jim"|[[File:Secretary of State Jim Edgar 1989 (cropped).jpg|99x99px]]
+|rowspan="3"|'''[[Jim Edgar]]'''<br>{{small|(1946–2025)}}<br>{{sfn|Mullaney|1994|pp=117–120}}<ref name="nga-edgar">{{cite web |title=Jim Edgar |url=https://www.nga.org/governor/jim-edgar/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710084208/https://www.nga.org/governor/jim-edgar/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2920"|January 14, 1991<ref>{{Cite news |last1=Pearson |first1=Rick |last2=Hardy |first2=Thomas |date=January 15, 1991 |title=Edgar Takes Helm in Illinois |page=1 |newspaper=[[Chicago Tribune]] |location=Springfield, Illinois |publication-place=Chicago |url=https://www.newspapers.com/article/chicago-tribune-edgar-inaugurated-januar/130262800/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230819034438/https://www.newspapers.com/article/chicago-tribune-edgar-inaugurated-januar/130262800/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1999<br>{{small|(2920 days; retired)}}
+|rowspan="3"|[[Illinois Republican Party|Republican]]<ref name="nga-edgar" />
+|[[1990 Illinois gubernatorial election|1990]]
+|rowspan="2"|{{sortname|Bob|Kustra}}<br />{{small|(resigned July 1, 1998)}}
+|- style="height:2em;"
+|rowspan="2"|[[1994 Illinois gubernatorial election|1994]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Ryan, George"|[[File:2007 Governor George Ryan crop4 (1).JPG|100x100px]]
+|'''[[George Ryan]]'''<br>{{small|(1934–2025)}}<br><ref name="nga-ryan">{{cite web |title=George H. Ryan |url=https://www.nga.org/governor/george-h-ryan/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260720104307/https://www.nga.org/governor/george-h-ryan/ |archive-date=July 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1999<ref>{{Cite news |date=January 12, 1999 |title=Ryan Pledges Cooperation |page=A1 |newspaper=[[The Pantagraph]] |agency=Associated Press |location=Springfield, Illinois |publication-place=Bloomington, Illinois |url=https://www.newspapers.com/article/the-pantagraph-ryan-inaugurated-january/130262846/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230819034435/https://www.newspapers.com/article/the-pantagraph-ryan-inaugurated-january/130262846/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 2003<br>{{small|(1464 days; retired)}}
+|[[Illinois Republican Party|Republican]]<ref name="nga-ryan" />
+|[[1998 Illinois gubernatorial election|1998]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Corinne|Wood}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Blagojevich, Rod"|[[File:Rod Blagojevich (2911120436) 3x4.jpg|99x99px]]
+|rowspan="4" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Rod Blagojevich]]'''<br>{{small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-blagojevich">{{cite web |title=Rod R. Blagojevich |url=https://www.nga.org/governor/rod-r-blagojevich/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260906155830/https://www.nga.org/governor/rod-r-blagojevich/ |archive-date=September 6, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2209"|January 13, 2003<ref>{{Cite news |last1=Pearson |first1=Rick |last2=Parsons |first2=Christi |date=January 14, 2003 |title=Blagojevich Takes Over, Puts Deficit at $5 Billion |page=1 |newspaper=[[Chicago Tribune]] |location=Springfield, Illinois |publication-place=Chicago |url=https://www.newspapers.com/article/chicago-tribune-blagojevich-inaugurated/130262881/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230819034436/https://www.newspapers.com/article/chicago-tribune-blagojevich-inaugurated/130262881/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 29, 2009<br>{{small|(2209 days;<br>impeached and removed)}}{{efn|Blagojevich was impeached and removed from office on [[Rod Blagojevich corruption charges|charges of corruption]].<ref name="nga-blagojevich" /><ref>{{Cite news |last1=Gay |first1=Malcolm |last2=Saulny |first2=Susan |date=January 29, 2009 |title=Blagojevich Ousted by Illinois State Senate |location=Springfield, Illinois |publication-place=New York City |website=[[The New York Times]] |url=https://www.nytimes.com/2009/01/30/us/30illinois.html |access-date=October 23, 2026 |archive-url=https://web.archive.org/web/20110513025606/https://www.nytimes.com/2009/01/30/us/30illinois.html |archive-date=May 13, 2011 |url-status=live}}</ref>}}
+|rowspan="2"|[[Democratic Party of Illinois|Democratic]]<ref name="nga-blagojevich" />
+|[[2002 Illinois gubernatorial election|2002]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Pat|Quinn|dab=politician}}
+|- style="height:2em;"
+|[[2006 Illinois gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Quinn, Pat"|[[File:ASC hosts governor, AMC leadership, DoD logistician (3) (cropped3).jpg|98x98px]]
+|rowspan="2"|'''[[Pat Quinn (politician)|Pat Quinn]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-quinn">{{cite web |title=Pat Quinn |url=https://www.nga.org/governor/pat-quinn/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617063001/https://www.nga.org/governor/pat-quinn/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2175"|January 29, 2009<ref>{{Cite news |last1=Garcia |first1=Monique |last2=Huppke |first2=Rex |date=January 30, 2009 |title=Low-Key Quinn Facing Challenge of a Lifetime With Ailing State |page=1 |newspaper=[[Chicago Tribune]] |location=Springfield, Illinois |publication-place=Chicago |url=https://www.newspapers.com/article/chicago-tribune-quinn-succeeds-blagojevi/130262920/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230819034436/https://www.newspapers.com/article/chicago-tribune-quinn-succeeds-blagojevi/130262920/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 2015<br>{{small|(2175 days; lost election)}}
+|rowspan="2"|[[Democratic Party of Illinois|Democratic]]<ref name="nga-quinn" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[2010 Illinois gubernatorial election|2010]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Sheila|Simon}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Rauner, Bruce"|[[File:Bruce Rauner (Crop2).jpg|99x99px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Bruce Rauner]]'''<br>{{small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-rauner">{{cite web |title=Bruce Rauner |url=https://www.nga.org/governor/bruce-rauner/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617200114/https://www.nga.org/governor/bruce-rauner/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 2015<ref>{{cite news |url=https://www.chicagotribune.com/2015/01/12/rauner-takes-oath-as-governor-monday-to-great-republican-fanfare/ |title=Rauner takes oath as governor Monday, to great Republican fanfare |website=[[Chicago Tribune]] |date=January 12, 2015 |access-date=October 23, 2026 |last1=Trotter |first1=Greg |last2=Geiger |first2=Kim |last3=Garcia |first3=Monique |archive-url=https://web.archive.org/web/20261024012047/https://www.chicagotribune.com/2015/01/12/rauner-takes-oath-as-governor-monday-to-great-republican-fanfare/ |archive-date=October 24, 2026 |url-status=live}}</ref><br />–<br />January 14, 2019<br>{{small|(1464 days; lost election)}}
+|[[Illinois Republican Party|Republican]]<ref name="nga-rauner" />
+|[[2014 Illinois gubernatorial election|2014]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Evelyn|Sanguinetti}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|43
+|rowspan="3" data-sort-value="Pritzker, J. B."| [[File:JB Pritzker 2026 (cropped 3x4).jpg|99x99px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[JB Pritzker]]'''<br>{{small|({{Abbr|b.|born in}} 1965)}}<br><ref name="nga-pritzker">{{cite web |title=JB Pritzker |url=https://www.nga.org/governor/jb-pritzker/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260924035142/https://www.nga.org/governor/jb-pritzker/ |archive-date=September 24, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="{{Duration in days nts|2019|1|14|duration=on|format=no}}"|January 14, 2019<ref>{{Cite news |last=O'Connor |first=John |date=January 15, 2019 |title=43rd Governor Sees an Illinois 'Of Promise' |page=A1 |newspaper=[[The Pantagraph]] |location=Springfield, Illinois |publication-place=Bloomington, Illinois |url=https://www.newspapers.com/article/the-pantagraph-pritzker-inaugurated-janu/130263013/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230819034437/https://www.newspapers.com/article/the-pantagraph-pritzker-inaugurated-janu/130263013/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>Incumbent{{efn|Pritzker's second term began on January 9, 2023,<ref>{{Cite news |date=January 9, 2023 |title=Gov. JB Pritzker sworn in for a 2nd term |url=https://www.nprillinois.org/illinois/2023-01-09/governor-j-b-pritzker-sworn-in-for-a-2nd-term |access-date=October 23, 2026 |website=[[WUIS|NPR Illinois]] |archive-url=https://web.archive.org/web/20230110015912/https://www.nprillinois.org/illinois/2023-01-09/governor-j-b-pritzker-sworn-in-for-a-2nd-term |archive-date=January 10, 2023 |url-status=live |last=Cutinello |first=Camryn}}</ref> and [[2026 Illinois gubernatorial election|will expire]] on January 11, 2027; he was elected to a third term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2019|1|14|duration=on|format=no}} days)}}
+|rowspan="3"|[[Democratic Party of Illinois|Democratic]]<ref name="nga-pritzker" />
+|[[2018 Illinois gubernatorial election|2018]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Juliana|Stratton}}
+|- style="height:2em;"
+|[[2022 Illinois gubernatorial election|2022]]
+|- style="height:2em;"
+|[[2026 Illinois gubernatorial election|2026]]
+|''{{sortname|Christian|Mitchell}}''
+|}
+
+==See also==
+* [[List of Illinois state legislatures]]
+* [[List of commandants of the Illinois Country]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Illinois Governors |url=https://www.nga.org/former-governors/illinois/ |access-date=October 23, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Illinois Constitution |url=https://50constitutions.org/il/constitution |ref={{sfnref|Ill. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 12, 2026}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=October 23, 2026}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=October 23, 2026}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015 |access-date=October 23, 2026}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons02thor/ |volume=2 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+*[https://gov.illinois.gov/ Office of the Governor of Illinois]
+
+{{Governors of Illinois}}
+{{Illinois}}
+{{Lists of US Governors}}
+
+{{featured list}}
+
+{{DEFAULTSORT:Governors Of Illinois, List Of}}
+[[Category:Governors of Illinois|*]]
+[[Category:Lists of Illinois politicians]]
+[[Category:Lists of state governors of the United States|Illinois]]
+[[Category:Political history of Illinois]]

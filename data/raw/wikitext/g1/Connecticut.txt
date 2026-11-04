@@ -1,0 +1,1192 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+| post = Governor
+| body = Connecticut
+| insignia = Seal of the Governor of Connecticut.svg
+| insignia_size = 100px
+| insignia_caption = [[Seal of Connecticut#Seal of the Governor|Seal of the governor]]
+| insignia_alt = Seal of the Governor
+| image = Governor Ned Lamont of Connecticut, official portrait.jpg
+| image_size = 
+| alt = Portrait
+| incumbent = [[Ned Lamont]]
+| acting = 
+| incumbent_since = January 9, 2019
+| department = [[Connecticut#Law and government|Government of Connecticut]]
+| style = [[Governor]]<br>(informally)<br>[[Excellency|His Excellency]]<br>(formal)
+| type = [[Head of state]]<br>[[Head of government]]
+| member_of = [[Connecticut#Executive|Cabinet]]
+| residence = [[Connecticut Governor's Residence|Governor's Residence]]
+| seat = [[Connecticut State Capitol]], [[Hartford, Connecticut]]
+| nominator = [[Primary election|Political parties]]
+| appointer = [[Direct election|Popular vote]]
+| term_length = Four years, no limit
+| constituting_instrument = [[Constitution of Connecticut]]
+| precursor = [[List of colonial governors of Connecticut#Saybrook Colony, 1635–1644|Governor of Saybrook]] {{small|(merged with [[Connecticut Colony|Connecticut]], 1644)}}<br>[[List of colonial governors of Connecticut#New Haven Colony, 1639–1665|Governor of New Haven]] {{small|(merged with [[Connecticut Colony|Connecticut]], 1665)}}
+| formation = {{Start date and age|1639}}
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Connecticut|Line of succession]]
+| deputy = [[List of lieutenant governors of Connecticut|Lieutenant Governor of Connecticut]]
+| salary = $226,711
+| website = [https://portal.ct.gov/governor Office of the Governor]
+| footnotes =
+}}
+The governor of Connecticut is the [[head of government]] of [[Connecticut]], and the commander-in-chief of the [[U.S. state|state's]] [[Connecticut Military Department|military forces]]. The [[Governor (United States)|governor]] has a duty to enforce state laws, and the power to either approve or veto bills passed by the [[Connecticut General Assembly]] and to convene the legislature.{{sfn|Conn. Const.|1965|loc=art. IV}} Unusual among governors, the governor of Connecticut has no power to [[pardon]].<ref>{{Cite web |title=Pardons Power in Connecticut |url=http://www.cga.ct.gov/2001/rpt/olr/htm/2001-r-0498.htm |archive-url=https://web.archive.org/web/20080613155510/http://www.cga.ct.gov/2001/rpt/olr/htm/2001-r-0498.htm |archive-date=June 13, 2008 |access-date=June 13, 2008 |url-status=dead}}</ref> The governor of Connecticut is automatically a member of the state's Bonding Commission.  He is an ex-officio member of the board of trustees of the [[University of Connecticut]] and [[Yale University]].
+
+There have been 69 post-Revolution governors of the state, serving 73 distinct spans in office. Four have served non-consecutive terms: [[Henry W. Edwards]], [[James E. English]], [[Marshall Jewell]], and [[Raymond E. Baldwin]]. The longest terms in office were in the state's early years, when four governors were elected to nine or more one-year terms. The longest was that of the first governor, [[Jonathan Trumbull]], who served over 14 years, but 7 of those as colonial governor; the longest-serving state governor — with no other position included in the term — was his son, [[Jonathan Trumbull Jr.]], who served over 11 years. The shortest term was that of [[Hiram Bingham III]], who served only one day before resigning to take an elected seat in the [[United States Senate]]. Additionally, [[Lowell Weicker]] is noted for a rare [[third party (U.S. politics)|third party]] win in American politics, having been elected to a term in 1990 representing [[A Connecticut Party]].
+
+The current governor is [[Ned Lamont]], a [[Democratic Party of Connecticut|Democrat]] who took office on January 9, 2019.
+
+== Governors ==
+{{For|the period before independence|List of colonial governors of Connecticut}}
+Connecticut was one of the original [[Thirteen Colonies]] and was admitted as a state on January 9, 1788.<ref>{{Cite report |title=Admission of States to the Union: A Historical Reference Guide |url=https://www.congress.gov/crs-product/R47747 |access-date=October 15, 2026 |id=CRS Report no. R47747 |publisher=[[Congressional Research Service]] |date=December 17, 2024}}</ref> Before it declared its independence, Connecticut was a [[Connecticut Colony|colony]] of the [[Kingdom of Great Britain]].
+
+Connecticut did not create a state constitution for itself until several decades after it became a state; until 1818, the state operated under the provisions of its colonial charter. The charter called for the election of a governor every year, with the term commencing on the second Thursday in May.{{sfn|Thorpe|1909|p=531}}
+
+The current [[Constitution of Connecticut]], ratified in 1965, calls for a four-year term for the governor,{{sfn|Conn. Const.|1965|loc=[https://50constitutions.org/ct/constitution/section-id-74123 art. IV, § 1]}} commencing on the Wednesday after the first Monday in the January following an election.{{sfn|Conn. Const.|1965|loc=[https://50constitutions.org/ct/constitution/section-id-74125 art. IV, § 2]}} The previous constitution of 1818 originally had only a one-year term for governor;{{sfn|Thorpe|1909|p=540|loc=1818 art. IV, § 1}} this was increased to two years in 1875,{{sfn|Thorpe|1909|p=551|loc=1875 amend. XVI}} and four years in 1948.{{sfn|Conn. Const.|1818|loc=art. XLV}} The 1875 amendment also set the start date of the term to its current date; before then, it was the first Wednesday in the May following an election.{{sfn|Conn. Const.|1965|loc=[https://50constitutions.org/ct/constitution/section-id-74123 art. IV, § 1]}} The constitution provides for the election of a lieutenant governor for the same term as the governor. The two offices are elected on the same [[ticket (election)|ticket]]; this provision was added in 1962.{{sfn|Conn. Const.|1818|loc=amend. VII}} In the event of a vacancy in the office of governor, the lieutenant governor becomes governor.{{sfn|Conn. Const.|1965|loc=[https://50constitutions.org/ct/constitution/section-id-74160 art. IV, § 19]}} Before the adoption of the 1965 constitution, the lieutenant governor only acted as governor.{{sfn|Thorpe|1909|p=542|loc=1818 art. IV, § 14}} There is no limit of any kind on the number of terms one may serve.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Connecticut
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|According to the [[Connecticut State Library]], the official listing goes back to the first governor of [[Connecticut Colony]] in 1639, and did not include repeat governors serving non-consecutive terms in the colonial period; this makes Trumbull the 16th governor.<ref>{{Cite web |title=Roster of Connecticut Governors |url=https://portal.ct.gov/csl/home/research/governors-of-connecticut/finding-aids |access-date=October 15, 2026 |website=[[Connecticut State Library]] |archive-url=https://web.archive.org/web/20250404063120/https://portal.ct.gov/csl/home/research/governors-of-connecticut/finding-aids |archive-date=April 4, 2025 |url-status=live}}</ref> The official numbering since statehood includes repeat and acting governors.}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[List of lieutenant governors of Connecticut|Lt. Governor]]{{efn|The office of Lieutenant Governor was known as Deputy-Governor under the colonial charter, but the name 'Lieutenant Governor' was predominantly used after independence.{{sfn|Thorpe|1909|p=531}}}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="8" scope="rowgroup"|16
+|rowspan="8" data-sort-value="Trumbull, Jonathan 1"|[[File:JohnTrumbull.jpg|75px]]
+|rowspan="10" style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="No parties"|
+|rowspan="8"|'''[[Jonathan Trumbull]]'''<br>{{Small|(1710–1785)}}<br><ref name="ct-trumbull-jonathan-1">{{Cite web |title=Jonathan Trumbull Sr. |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/jonathan-trumbull-sr |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=August 18, 2026 |archive-url=https://web.archive.org/web/20260818151238/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/jonathan-trumbull-sr?language=en_US |url-status=live}}</ref>
+|rowspan="8" data-sort-value="5327"|October 13, 1769<ref>{{Cite news |date=October 16, 1769 |title=none |quote=This Day, the General Assembly of this Colony, elected the Honorable Jonathan Trumbull, Esq. Governor of the Colony... |page=2 |newspaper=[[Hartford Courant|Connecticut Courant]] |url=https://www.newspapers.com/article/hartford-courant-trumbull-elected-octobe/129347563/ |access-date=October 15, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20241212021401/https://www.newspapers.com/article/hartford-courant-trumbull-elected-octobe/129347563/ |archive-date=December 12, 2024 |url-status=live}}</ref><br/>–<br/>May 13, 1784<br>{{small|(5327 days; retired)}}
+|rowspan="10" style="background:#EEEEEE; color:inherit;"|''No parties''{{efn|Elections were [[Non-partisan democracy|non-partisan]] until the 1790s.{{sfn|Kallenbach|1977|p=106}}}}
+|[[1776 Connecticut gubernatorial election|1776]]{{efn|The [[Connecticut General Assembly]] approved the [[United States Declaration of Independence]] on October 10, 1776, and resolved that the state's government would continue as established under the charter; thus, colonial governor Jonathan Trumbull became state governor, serving roughly 14 years total.<ref name="ct-trumbull-jonathan-1" />}}
+|rowspan="10" style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="No parties"|
+|rowspan="8"|{{sortname|Matthew|Griswold|dab=Connecticut politician}}
+|- style="height:2em;"
+|[[1777 Connecticut gubernatorial election|1777]]
+|- style="height:2em;"
+|[[1778 Connecticut gubernatorial election|1778]]
+|- style="height:2em;"
+|[[1779 Connecticut gubernatorial election|1779]]
+|- style="height:2em;"
+|[[1780 Connecticut gubernatorial election|1780]]
+|- style="height:2em;"
+|[[1781 Connecticut gubernatorial election|1781]]
+|- style="height:2em;"
+|[[1782 Connecticut gubernatorial election|1782]]
+|- style="height:2em;"
+|[[1783 Connecticut gubernatorial election|1783]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Griswold, Matthew"|[[File:No image.svg|75px]]
+|rowspan="2"|'''[[Matthew Griswold (Connecticut politician)|Matthew Griswold]]'''<br>{{Small|(1714–1799)}}<br><ref name="ct-griswold-matthew">{{Cite web |title=Matthew Griswold |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/matthew-griswold |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-url=https://web.archive.org/web/20260827151621/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/matthew-griswold |archive-date=August 27, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="729"|May 13, 1784<ref>{{Cite book |last=Labaree |first=Leonard Woods |url=https://archive.org/details/publicrecordsofs05inconn/page/n337 |title=The Public Records of the State of Connecticut For the Years 1783 and 1784 |date=1943 |publisher=State of Connecticut |page=318 |via=[[Internet Archive]]}}</ref><br/>–<br/>May 11, 1786<br>{{small|(729 days; lost election)}}<ref name="ct-griswold-matthew" />
+|[[1784 Connecticut gubernatorial election|1784]]
+|rowspan="2"|{{sortname|Samuel|Huntington|dab=Connecticut politician}}
+|- style="height:2em;"
+|[[1785 Connecticut gubernatorial election|1785]]
+|- style="height:2em;"
+!rowspan="10" scope="rowgroup"|18
+|rowspan="10" data-sort-value="Huntington, Samuel"|[[File:Samuel Huntington - Charles Willson Peale.jpg|75px]]
+|rowspan="36" style="color:inherit;background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|rowspan="10"|'''[[Samuel Huntington (Connecticut politician)|Samuel Huntington]]'''<br>{{Small|(1731–1796)}}<br>{{sfn|Sobel|1978|p=157}}<ref name="nga-huntington">{{Cite web |title=Samuel Huntington |url=https://www.nga.org/governor/samuel-huntington/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203654/https://www.nga.org/governor/samuel-huntington/ |url-status=live}}</ref><ref name="ct-huntington">{{Cite web |title=Samuel Huntington |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/samuel-huntington |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-url=https://web.archive.org/web/20260815015715/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/samuel-huntington |archive-date=August 15, 2026 |url-status=live}}</ref>
+|rowspan="10" data-sort-value="3527"|May 11, 1786<ref>{{Cite book |last=Labaree |first=Leonard Woods |url=https://babel.hathitrust.org/cgi/pt?id=wu.89067359778&seq=174 |title=The Public Records of the State of Connecticut From May, 1785, through January, 1789 |date=1945 |publisher=State of Connecticut |page=146 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 5, 1796<br>{{small|(3527 days; died in office)}}
+|rowspan="10"|[[Federalist Party|Federalist]]{{efn|Dubin does not assign a party to Huntington,{{sfn|Dubin|2003|p=16}} but Kallenbach notes he became a Federalist after parties started forming in the 1790s.{{sfn|Kallenbach|1977|p=90}}}}
+|[[1786 Connecticut gubernatorial election|1786]]
+|rowspan="34" style="color:inherit;background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|rowspan="10"|{{sortname|Oliver|Wolcott}}
+|- style="height:2em;"
+|[[1787 Connecticut gubernatorial election|1787]]
+|- style="height:2em;"
+|[[1788 Connecticut gubernatorial election|1788]]
+|- style="height:2em;"
+|[[1789 Connecticut gubernatorial election|1789]]
+|- style="height:2em;"
+|[[1790 Connecticut gubernatorial election|1790]]
+|- style="height:2em;"
+|[[1791 Connecticut gubernatorial election|1791]]
+|- style="height:2em;"
+|[[1792 Connecticut gubernatorial election|1792]]
+|- style="height:2em;"
+|[[1793 Connecticut gubernatorial election|1793]]
+|- style="height:2em;"
+|[[1794 Connecticut gubernatorial election|1794]]
+|- style="height:2em;"
+|[[1795 Connecticut gubernatorial election|1795]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|19
+|rowspan="3" data-sort-value="Wolcott, Oliver 1"|[[File:Oliver Wolcott Ralph Earl.jpeg|75px]]
+|rowspan="3"|'''[[Oliver Wolcott]]'''<br>{{Small|(1726–1797)}}<br>{{sfn|Sobel|1978|p=158}}<ref name="nga-wolcott-oliver-1">{{Cite web |title=Oliver Wolcott Sr. |url=https://www.nga.org/governor/oliver-wolcott-sr/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203656/https://www.nga.org/governor/oliver-wolcott-sr/ |url-status=live}}</ref>
+|rowspan="3" data-sort-value="697"|January 5, 1796<ref>{{Cite book |last=Labaree |first=Leonard Woods |url=https://babel.hathitrust.org/cgi/pt?id=wu.89067359836&seq=397 |title=The Public Records of the State of Connecticut From May 1793 through October 1796 |date=1951 |publisher=State of Connecticut |page=361 |via=[[HathiTrust]]}}</ref><br/>–<br/>December 1, 1797<br>{{small|(697 days; died in office)}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{efn|Dubin does not label Wolcott's party in 1796, and labels him Federalist in 1797;{{sfn|Dubin|2003|p=16}} Kallenbach labels him a Federalist,{{sfn|Kallenbach|1977|p=88}} while labeling all parties in election returns until 1802 as unidentified.{{sfn|Kallenbach|1977|pp=91–92}}}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+|[[1796 Connecticut gubernatorial election|1796]]
+|rowspan="2"|{{sortname|Jonathan|Trumbull Jr.}}
+|- style="height:2em;"
+|[[1797 Connecticut gubernatorial election|1797]]
+|- style="height:2em;"
+!rowspan="13" scope="rowgroup"|20
+|rowspan="13" data-sort-value="Trumbull, Jonathan 2"|[[File:Portrait of Jonathan Trumbull Jr.jpg|75px]]
+|rowspan="13"|'''[[Jonathan Trumbull Jr.]]'''<br>{{Small|(1740–1809)}}<br>{{sfn|Sobel|1978|pp=158–159}}<ref name="nga-trumbull-jonathan-2">{{Cite web |title=Jonathan Trumbull, Jr. |url=https://www.nga.org/governor/jonathan-trumbull-jr/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203656/https://www.nga.org/governor/jonathan-trumbull-jr/ |url-status=live}}</ref>
+|rowspan="13" data-sort-value="4267"|December 1, 1797{{sfn|Kallenbach|1977|p=88}}<br/>–<br/>August 7, 1809<br>{{small|(4267 days; died in office)}}
+|rowspan="13"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|pp=16–17}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+|[[1798 Connecticut gubernatorial election|1798]]
+|rowspan="12"|{{sortname|John|Treadwell}}
+|- style="height:2em;"
+|[[1799 Connecticut gubernatorial election|1799]]
+|- style="height:2em;"
+|[[1800 Connecticut gubernatorial election|1800]]
+|- style="height:2em;"
+|[[1801 Connecticut gubernatorial election|1801]]
+|- style="height:2em;"
+|[[1802 Connecticut gubernatorial election|1802]]
+|- style="height:2em;"
+|[[1803 Connecticut gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1804 Connecticut gubernatorial election|1804]]
+|- style="height:2em;"
+|[[1805 Connecticut gubernatorial election|1805]]
+|- style="height:2em;"
+|[[1806 Connecticut gubernatorial election|1806]]
+|- style="height:2em;"
+|[[1807 Connecticut gubernatorial election|1807]]
+|- style="height:2em;"
+|[[1808 Connecticut gubernatorial election|1808]]
+|- style="height:2em;"
+|[[1809 Connecticut gubernatorial election|1809]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Treadwell, John"|[[File:John Treadwell (Connecticut Governor).jpg|75px]]
+|rowspan="2"|'''[[John Treadwell]]'''<br>{{Small|(1745–1823)}}<br>{{sfn|Sobel|1978|pp=159–160}}<ref name="nga-treadwell">{{Cite web |title=John Treadwell |url=https://www.nga.org/governor/john-treadwell/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260216225555/https://www.nga.org/governor/john-treadwell/ |archive-date=February 16, 2026 |url-status=live}}</ref><ref name="ct-treadwell">{{Cite web |title=John Treadwell |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/john-treadwell |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-url=https://web.archive.org/web/20260528144146/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/john-treadwell |archive-date=May 28, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="641"|August 7, 1809{{sfn|Kallenbach|1977|p=88}}<br/>–<br/>May 9, 1811<br>{{small|(641 days; lost election)}}
+|rowspan="2"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=17}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+|[[1810 Connecticut gubernatorial election|1810]]
+|{{sortname|Roger|Griswold}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Griswold, Roger"|[[File:No image.svg|75px]]
+|rowspan="2"|'''[[Roger Griswold]]'''<br>{{Small|(1762–1812)}}<br>{{sfn|Sobel|1978|p=160}}<ref name="nga-griswold-roger">{{Cite web |title=Roger Griswold |url=https://www.nga.org/governor/roger-griswold/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 15, 2023 |archive-url=https://web.archive.org/web/20230215060912/https://www.nga.org/governor/roger-griswold/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="536"|May 9, 1811<ref>{{Cite book |last=Arnold |first=Douglas M. |url=https://babel.hathitrust.org/cgi/pt?id=wu.89067360024&seq=191 |title=The Public Records of the State of Connecticut From May 1810 through October 1811 |date=1991 |publisher=State of Connecticut |page=155 |via=[[HathiTrust]]}}</ref><br/>–<br/>October 25, 1812<br>{{small|(536 days; died in office)}}
+|rowspan="2"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=17}}
+|[[1811 Connecticut gubernatorial election|1811]]
+|rowspan="2"|{{sortname|John Cotton|Smith}}
+|- style="height:2em;"
+|[[1812 Connecticut gubernatorial election|1812]]
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|23
+|rowspan="6" data-sort-value="Smith, John"|[[File:John Cotton Smith engraving.png|75px]]
+|rowspan="6"|'''[[John Cotton Smith]]'''<br>{{Small|(1765–1845)}}<br>{{sfn|Sobel|1978|p=161}}<ref name="nga-smith">{{Cite web |title=John Cotton Smith |url=https://www.nga.org/governor/john-cotton-smith/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 25, 2024 |archive-url=https://web.archive.org/web/20240225095155/https://www.nga.org/governor/john-cotton-smith/ |url-status=live}}</ref>
+|rowspan="6" data-sort-value="1657"|October 25, 1812<ref>{{Cite news |url=https://www.newspapers.com/article/hartford-courant-smith-succeeds-griswold/129361806/ |title=Smith succeeds Griswold October 25 |newspaper=[[Hartford Courant|Connecticut Courant]] |date=November 3, 1812 |page=3 |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803161700/https://www.newspapers.com/article/hartford-courant-smith-succeeds-griswold/129361806/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 8, 1817<br>{{small|(1657 days; lost election)}}
+|rowspan="6"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|pp=17–18}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+|[[1813 Connecticut gubernatorial election|1813]]
+|rowspan="3"|{{sortname|Chauncey|Goodrich}}<br/>{{small|(died August 18, 1815)}}
+|- style="height:2em;"
+|[[1814 Connecticut gubernatorial election|1814]]
+|- style="height:2em;"
+|rowspan="2"|[[1815 Connecticut gubernatorial election|1815]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1816 Connecticut gubernatorial election|1816]]
+|style="color:inherit;background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|rowspan="7"|{{sortname|Jonathan|Ingersoll}}{{efn|Represented the [[Democratic-Republican Party]] until 1817, and the [[Toleration Party]] after that.<ref>{{Cite web |last=Finlay, Nancy |date=December 2, 2021 |title=The Revolution of 1817 |url=https://connecticuthistory.org/the-revolution-of-1817/ |access-date=October 15, 2026 |publisher=CTHumanities |archive-date=January 14, 2023 |archive-url=https://web.archive.org/web/20230114055131/https://connecticuthistory.org/the-revolution-of-1817/ |url-status=live}}</ref>}}<br/>{{small|(died January 12, 1823)}}
+|- style="height:2em;"
+!rowspan="11" scope="rowgroup"|24
+|rowspan="11" data-sort-value="Wolcott, Oliver 2"|[[File:Oliver Wolcott Jr by Gilbert Stuart circa 1820.jpeg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Toleration Party}};" title="Represented the Toleration Party"|
+|rowspan="11"|'''[[Oliver Wolcott Jr.]]'''<br>{{Small|(1760–1833)}}<br>{{sfn|Sobel|1978|pp=162–163}}<ref name="nga-wolcott-oliver-2">{{Cite web |title=Oliver Wolcott Jr. |url=https://www.nga.org/governor/oliver-wolcott-jr/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260827151007/https://www.nga.org/governor/oliver-wolcott-jr/ |archive-date=August 27, 2026 |url-status=live}}</ref>
+|rowspan="11" data-sort-value="3647"|May 8, 1817<ref>{{Cite book |last=Arnold |first=Douglas M. |url=https://archive.org/details/public1817unse/page/187 |title=The Public Records of the State of Connecticut From May 1816 Through October 1817 |date=2007 |publisher=State of Connecticut |page=154 |via=[[Internet Archive]]}}</ref><br/>–<br/>May 2, 1827<br>{{small|(3647 days; lost election)}}
+|rowspan="2"|[[Toleration Party|Toleration]]{{efn|The specific party names were the Toleration and Reform Party in 1817 and the Constitutional and Reform Party in 1818.{{sfn|Sobel|1978|p=162}}}}
+|[[1817 Connecticut gubernatorial election|1817]]
+|rowspan="6" style="color:inherit;background:{{party color|Toleration Party}};" title="Represented the Toleration Party"|
+|- style="height:2em;"
+|[[1818 Connecticut gubernatorial election|1818]]
+|- style="height:2em;"
+|rowspan="10" style="color:inherit;background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|rowspan="9"|[[Democratic-Republican Party|Democratic-<br/>Republican]]{{efn|Sources disagree on when Wolcott became a Democratic-Republican, with Dubin saying either 1817 or 1818,{{sfn|Dubin|2003|pp=18}} Sobel saying 1819,{{sfn|Sobel|1978|p=162}} and Kallenbach saying 1820.{{sfn|Kallenbach|1977|p=95}}}}
+|[[1819 Connecticut gubernatorial election|1819]]
+|- style="height:2em;"
+|[[1820 Connecticut gubernatorial election|1820]]
+|- style="height:2em;"
+|[[1821 Connecticut gubernatorial election|1821]]
+|- style="height:2em;"
+|rowspan="2"|[[1822 Connecticut gubernatorial election|1822]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1823 Connecticut gubernatorial election|1823]]
+|rowspan="4" style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Unknown"|
+|rowspan="4"|{{sortname|David|Plant}}{{efn|The list of lieutenant governors supplied by the Connecticut Secretary of State marks these lieutenant governors as having no record of their party.<ref name="state-list">{{Cite web |title=Governors and Deputy or Lieutenant Governors |url=https://portal.ct.gov/sots/register-manual/section-i/governors--lieutenant-governors |access-date=October 15, 2026 |website=[[Secretary of the State of Connecticut]] |archive-date=January 14, 2023 |archive-url=https://web.archive.org/web/20230114055130/https://portal.ct.gov/SOTS/Register-Manual/Section-I/Governors--Lieutenant-Governors |url-status=live}}
+</ref>|name=lt-norecord}}
+|- style="height:2em;"
+|[[1824 Connecticut gubernatorial election|1824]]
+|- style="height:2em;"
+|[[1825 Connecticut gubernatorial election|1825]]
+|- style="height:2em;"
+|[[1826 Connecticut gubernatorial election|1826]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|25
+|rowspan="4" data-sort-value="Tomlinson, Gideon"|[[File:Gideon Tomlinson (Conn. Rep., Gov., US Sen.) (3x4a).jpg|75px]]
+|rowspan="4"|'''[[Gideon Tomlinson]]'''<br>{{Small|(1780–1854)}}<br>{{sfn|Sobel|1978|pp=163–164}}<ref name="nga-tomlinson">{{Cite web |title=Gideon Tomlinson |url=https://www.nga.org/governor/gideon-tomlinson/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=January 28, 2023 |archive-url=https://web.archive.org/web/20230128064349/https://www.nga.org/governor/gideon-tomlinson/ |url-status=live}}</ref><ref name="ct-tomlinson">{{Cite web |title=Gideon Tomlinson |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/gideon-tomlinson |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=February 15, 2023 |archive-url=https://web.archive.org/web/20230215060905/https://museumofcthistory.org/2015/08/gideon-tomlinson/ |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1401"|May 2, 1827<ref>{{Cite news |date=May 10, 1827 |title=Legislature of Connecticut |page=1 |newspaper=Litchfield County Post |url=https://www.newspapers.com/article/the-litchfield-county-post-tomlinson-ina/129362260/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803164707/https://www.newspapers.com/article/the-litchfield-county-post-tomlinson-ina/129362260/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>March 2, 1831<br>{{small|(1401 days; resigned)}}{{efn|Tomlinson resigned, having been [[1831 United States Senate election in Connecticut|elected]] to the [[United States Senate]].<ref name="nga-tomlinson" />}}
+|[[Democratic-Republican Party|Democratic-<br/>Republican]]{{efn|Sobel says Tomlinson was nominated by the "[[Democratic-Republican Party|Democratic-Republican]] and [[Toleration Party]] Nominating Caucus,"{{sfn|Sobel|1978|p=163}} but Dubin simply labels him as Democratic-Republican.{{sfn|Dubin|2003|p=20}}}}
+|[[1827 Connecticut gubernatorial election|1827]]
+|rowspan="5" style="color:inherit;background:{{party color|Anti-Jacksonian}};" title="Represented the National Republican Party"|
+|rowspan="4"|{{sortname|John Samuel|Peters}}{{efn|Represented the [[National Republican Party]]|name=lt-natrep}}
+|- style="height:2em;"
+|rowspan="6" style="color:inherit;background:{{party color|National Republican Party}};" title="Represented the National Republican Party"|
+|rowspan="3"|[[National Republican Party|National<br>Republican]]{{sfn|Dubin|2003|p=23}}
+|[[1828 Connecticut gubernatorial election|1828]]
+|- style="height:2em;"
+|[[1829 Connecticut gubernatorial election|1829]]
+|- style="height:2em;"
+|[[1830 Connecticut gubernatorial election|1830]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Peters, John"|[[File:JohnSamuelPeters (cropped).jpg|75px]]
+|rowspan="3"|'''[[John Samuel Peters]]'''<br>{{Small|(1772–1858)}}<br>{{sfn|Sobel|1978|p=164}}<ref name="nga-peters">{{Cite web |title=John Samuel Peters |url=https://www.nga.org/governor/john-samuel-peters/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260805043623/https://www.nga.org/governor/john-samuel-peters/ |archive-date=August 5, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="795"|March 2, 1831<ref>{{Cite news |date=March 10, 1831 |title=none |quote=Lieut. Gov. Peters entered upon the duties of the office... |page=3 |newspaper=Litchfield Enquirer |url=https://www.newspapers.com/article/litchfield-enquirer-peters-succeeds-toml/129362379/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803164712/https://www.newspapers.com/article/litchfield-enquirer-peters-succeeds-toml/129362379/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 4, 1833<br>{{small|(795 days; lost election)}}
+|rowspan="3"|[[National Republican Party|National<br>Republican]]{{sfn|Dubin|2003|pp=20–21}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+|[[1831 Connecticut gubernatorial election|1831]]
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1832 Connecticut gubernatorial election|1832]]
+|rowspan="18" style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Unknown"|
+|{{sortname|Thaddeus|Betts}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Edwards, Henry"|[[File:HenryEdwards.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Henry W. Edwards]]'''<br>{{Small|(1779–1847)}}<br>{{sfn|Sobel|1978|p=165}}<ref name="nga-edwards">{{Cite web |title=Henry Waggaman Edwards |url=https://www.nga.org/governor/henry-waggaman-edwards/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 15, 2023 |archive-url=https://web.archive.org/web/20230215060910/https://www.nga.org/governor/henry-waggaman-edwards/ |url-status=live}}</ref>
+|data-sort-value="369"|May 4, 1833<ref>{{Cite news |date=May 7, 1833 |title=Legislature of Connecticut |page=2 |newspaper=[[Hartford Courant|Connecticut Courant]] |url=https://www.newspapers.com/article/hartford-courant-edwards-inaugurated-may/129362526/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803164710/https://www.newspapers.com/article/hartford-courant-edwards-inaugurated-may/129362526/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 7, 1834<br>{{small|(369 days; lost election)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Dubin|2003|p=21}}
+|[[1833 Connecticut gubernatorial election|1833]]
+|{{sortname|Ebenezer|Stoddard}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Foot, Samuel"|[[File:Samuel Augustus Foot.jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[Samuel A. Foot]]'''<br>{{Small|(1780–1846)}}<br>{{sfn|Sobel|1978|p=166}}<ref name="nga-foot">{{Cite web |title=Samuel Augustus Foot |url=https://www.nga.org/governor/samuel-augustus-foote/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260221092101/https://www.nga.org/governor/samuel-augustus-foote/ |archive-date=February 21, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|May 7, 1834<ref>{{Cite news |date=May 12, 1834 |title=The Legislature |page=2 |newspaper=[[Hartford Courant|Connecticut Courant]] |url=https://www.newspapers.com/article/hartford-courant-foot-inaugurated-may-7/129379700/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20241211055215/https://www.newspapers.com/article/hartford-courant-foot-inaugurated-may-7/129379700/ |archive-date=December 11, 2024 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 6, 1835<br>{{small|(365 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{efn|Both Dubin{{sfn|Dubin|2003|p=21}} and Kallenbach{{sfn|Kallenbach|1977|p=95}} describe Foot as a [[National Republican Party|National Republican]], but Sobel notes he was nominated by the "newly-formed Whig Party - emerging from the ruins of the National Republican Party."{{sfn|Sobel|1978|p=166}}}}
+|[[1834 Connecticut gubernatorial election|1834]]
+|{{sortname|Thaddeus|Betts}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|29
+|rowspan="3" data-sort-value="Edwards, Henry"|[[File:HenryEdwards.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Henry W. Edwards]]'''<br>{{Small|(1779–1847)}}<br>{{sfn|Sobel|1978|p=165}}<ref name="nga-edwards" />
+|rowspan="3" data-sort-value="1094"|May 6, 1835<ref>{{Cite news |date=May 11, 1835 |title=none |quote=...after the Oath of Office had been administered by Chief Justice Williams, his Excellency returned to his lodging under a military escort. |page=3 |newspaper=[[Hartford Courant|Connecticut Courant]] |url=https://www.newspapers.com/article/hartford-courant-edwards-inaugurated-may/129379825/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20241211061834/https://www.newspapers.com/article/hartford-courant-edwards-inaugurated-may/129379825/ |archive-date=December 11, 2024 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 3, 1838<br>{{small|(1094 days; retired)}}
+|rowspan="3"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Dubin|2003|p=22}}
+|[[1835 Connecticut gubernatorial election|1835]]
+|rowspan="3"|{{sortname|Ebenezer|Stoddard}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+|[[1836 Connecticut gubernatorial election|1836]]
+|- style="height:2em;"
+|[[1837 Connecticut gubernatorial election|1837]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|30
+|rowspan="4" data-sort-value="Ellsworth, William"|[[File:William Wolcott Ellsworth.jpeg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="4"|'''[[William W. Ellsworth]]'''<br>{{Small|(1791–1868)}}<br>{{sfn|Sobel|1978|p=167}}<ref name="nga-ellsworth">{{Cite web |title=William Wolcott Ellsworth |url=https://www.nga.org/governor/william-wolcott-ellsworth/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617193342/https://www.nga.org/governor/william-wolcott-ellsworth/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1465"|May 3, 1838<ref>{{Cite news |date=May 10, 1838 |title=Connecticut Legislature |page=2 |newspaper=Litchfield Enquirer |url=https://www.newspapers.com/article/litchfield-enquirer-ellsworth-inaugurate/129380045/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20241211155526/https://www.newspapers.com/article/litchfield-enquirer-ellsworth-inaugurate/129380045/ |archive-date=December 11, 2024 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 6, 1842<br>{{small|(1465 days; lost election)}}
+|rowspan="4"|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=22}}
+|[[1838 Connecticut gubernatorial election|1838]]
+|rowspan="4"|{{sortname|Charles|Hawley}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+|[[1839 Connecticut gubernatorial election|1839]]
+|- style="height:2em;"
+|[[1840 Connecticut gubernatorial election|1840]]
+|- style="height:2em;"
+|[[1841 Connecticut gubernatorial election|1841]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Cleveland, Chauncey"|[[File:Chauncey Fitch Cleveland (Connecticut Governor).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Chauncey F. Cleveland]]'''<br>{{Small|(1799–1887)}}<br>{{sfn|Sobel|1978|p=168}}<ref name="nga-cleveland">{{Cite web |title=Chauncey Fitch Cleveland |url=https://www.nga.org/governor/chauncey-fitch-cleveland/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 15, 2023 |archive-url=https://web.archive.org/web/20230215060911/https://www.nga.org/governor/chauncey-fitch-cleveland/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="728"|May 6, 1842<ref>{{Cite news |date=May 9, 1842 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-cleveland-inaugurated-m/129381798/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803220429/https://www.newspapers.com/article/hartford-courant-cleveland-inaugurated-m/129381798/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 2, 1844<br>{{small|(728 days; lost election)}}
+|rowspan="2"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Dubin|2003|p=23}}
+|[[1842 Connecticut gubernatorial election|1842]]
+|rowspan="2"|{{sortname|William S.|Holabird}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+|[[1843 Connecticut gubernatorial election|1843]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Baldwin, Roger"|[[File:GovRogerBaldwin.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Roger Sherman Baldwin]]'''<br>{{Small|(1793–1863)}}<br>{{sfn|Sobel|1978|p=169}}<ref name="nga-baldwin-roger">{{Cite web |title=Roger Sherman Baldwin |url=https://www.nga.org/governor/roger-sherman-baldwin/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 15, 2023 |archive-url=https://web.archive.org/web/20230215060912/https://www.nga.org/governor/roger-sherman-baldwin/ |url-status=live}}</ref><ref name="ct-baldwin-roger">{{Cite web |title=Roger Baldwin |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/roger-baldwin |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=August 27, 2026 |archive-url=https://web.archive.org/web/20260827151628/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/roger-baldwin |url-status=live}}</ref>
+|rowspan="2" data-sort-value="737"|May 2, 1844<ref>{{Cite news |date=May 3, 1844 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-baldwin-inaugurated-may/129383869/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803223938/https://www.newspapers.com/article/hartford-courant-baldwin-inaugurated-may/129383869/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 8, 1846<br>{{small|(737 days; retired)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=23}}
+|[[1844 Connecticut gubernatorial election|1844]]
+|rowspan="2"|{{sortname|Reuben|Booth}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+|[[1845 Connecticut gubernatorial election|1845]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Toucey, Isaac"|[[File:Isaac Toucey - Brady-Handy (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Isaac Toucey]]'''<br>{{Small|(1792–1869)}}<br>{{sfn|Sobel|1978|p=170}}<ref name="nga-toucey">{{Cite web |title=Isaac Toucey |url=https://www.nga.org/governor/isaac-toucey/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20230216043707/https://www.nga.org/governor/isaac-toucey/ |archive-date=February 16, 2023 |url-status=live}}</ref><ref name="ct-toucey">{{Cite web |title=Isaac Toucey |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/isaac-toucey |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=August 18, 2026 |archive-url=https://web.archive.org/web/20260818151238/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/isaac-toucey |url-status=live}}</ref>
+|data-sort-value="363"|May 8, 1846<ref>{{Cite news |date=May 9, 1846 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-toucey-inaugurated-may/129384182/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803222431/https://www.newspapers.com/article/hartford-courant-toucey-inaugurated-may/129384182/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 5, 1847<br>{{small|(363 days;<br>lost nomination)}}{{efn|Toucey lost the Democratic nomination to [[Thomas T. Whittlesey]].{{sfn|Sobel|1978|p=170}}}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Dubin|2003|p=23}}
+|[[1846 Connecticut gubernatorial election|1846]]
+|{{sortname|Noyes|Billings}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="Bissell, Clark"|[[File:Clark Bissell professor of law Yale and Governor of Connecticut (3x4a).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Clark Bissell]]'''<br>{{Small|(1782–1857)}}<br>{{sfn|Sobel|1978|pp=170–171}}<ref name="nga-bissell">{{Cite web |title=Clark Bissell |url=https://www.nga.org/governor/clark-bissell/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216043706/https://www.nga.org/governor/clark-bissell/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="730"|May 5, 1847<ref>{{Cite news |date=May 7, 1847 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-bissell-inaugurated-may/129384315/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803214926/https://www.newspapers.com/article/hartford-courant-bissell-inaugurated-may/129384315/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 3, 1849<br>{{small|(730 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=171}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=23}}
+|[[1847 Connecticut gubernatorial election|1847]]
+|rowspan="2"|{{sortname|Charles J.|McCurdy}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+|[[1848 Connecticut gubernatorial election|1848]]
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Trumbull, Joseph"|[[File:Joseph Trumbull Connecticut Governor (3x4 cropped).jpg|75px]]
+|'''[[Joseph Trumbull (politician)|Joseph Trumbull]]'''<br>{{Small|(1782–1861)}}<br>{{sfn|Sobel|1978|pp=171–172}}<ref name="nga-trumbull-joseph">{{Cite web |title=Joseph Trumbull |url=https://www.nga.org/governor/joseph-trumbull/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613182921/https://www.nga.org/governor/joseph-trumbull/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|May 3, 1849<ref>{{Cite news |date=May 4, 1849 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-trumbull-inaugurated-ma/129384461/ |access-date=October 15, 2026 |archive-date=August 3, 2023 |archive-url=https://web.archive.org/web/20230803220429/https://www.newspapers.com/article/hartford-courant-trumbull-inaugurated-ma/129384461/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 2, 1850<br>{{small|(365 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=24}}
+|[[1849 Connecticut gubernatorial election|1849]]
+|{{sortname|Thomas|Backus}}{{efn|name=lt-norecord}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|36
+|rowspan="4" data-sort-value="Seymour, Thomas"|[[File:ThomasHartSeymour.jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[Thomas H. Seymour]]'''<br>{{Small|(1807–1868)}}<br>{{sfn|Sobel|1978|pp=172–173}}<ref name="nga-seymour">{{Cite web |title=Thomas H. Seymour |url=https://www.nga.org/governor/thomas-h-seymour/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=January 28, 2023 |archive-url=https://web.archive.org/web/20230128063225/https://www.nga.org/governor/thomas-h-seymour/ |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1261"|May 2, 1850{{efn|The constitutional start date for the term in 1850 was May 1; the delay is likely because Seymour was chosen by the legislature after a close election.<ref>{{Cite news |date=May 3, 1850 |title=Election Ceremonies |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-election-ceremonies/118730849/ |access-date=October 15, 2026 |archive-date=December 11, 2024 |archive-url=https://web.archive.org/web/20241211063237/https://www.newspapers.com/article/hartford-courant-election-ceremonies/118730849/ |url-status=live |via=Newspapers.com}}</ref><ref name="nga-seymour" />}}<br/>–<br/>October 13, 1853<br>{{small|(1261 days; resigned)}}{{efn|Seymour resigned, having been appointed [[List of ambassadors of the United States to Russia|United States Minister to Russia]].<ref name="nga-seymour" />}}
+|rowspan="4"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Dubin|2003|p=24}}
+|[[1850 Connecticut gubernatorial election|1850]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Charles H.|Pond}}
+|- style="height:2em;"
+|[[1851 Connecticut gubernatorial election|1851]]
+|style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|Green|Kendrick}}{{efn|Represented the [[Whig Party (United States)|Whig Party]]|name=lt-whig}}
+|- style="height:2em;"
+|[[1852 Connecticut gubernatorial election|1852]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Charles H.|Pond}}
+|- style="height:2em;"
+|[[1853 Connecticut gubernatorial election|1853]]
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Pond, Charles"|[[File:Charles H. Pond (Connecticut Governor).jpg|75px]]
+|'''[[Charles H. Pond]]'''<br>{{Small|(1781–1861)}}<br>{{sfn|Sobel|1978|pp=173–174}}<ref name="nga-pond">{{Cite web |title=Charles Hobby Pond |url=https://www.nga.org/governor/charles-hobby-pond/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261008204249/https://www.nga.org/governor/charles-hobby-pond/ |archive-date=October 8, 2026 |url-status=live}}</ref>
+|data-sort-value="204"|October 13, 1853<ref>{{Cite news |date=October 20, 1853 |title=Resignation of Gov. Seymour |page=2 |newspaper=Litchfield Enquirer |url=https://www.newspapers.com/article/litchfield-enquirer-pond-succeeds-seymou/129407703/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20260112030532/https://www.newspapers.com/article/litchfield-enquirer-pond-succeeds-seymou/129407703/ |archive-date=January 12, 2026 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 4, 1854<br>{{small|(204 days; retired)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Dutton, Henry"|[[File:Henry Dutton (Connecticut Governor).jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[Henry Dutton (politician)|Henry Dutton]]'''<br>{{Small|(1796–1869)}}<br>{{sfn|Sobel|1978|pp=174–175}}<ref name="nga-dutton">{{Cite web |title=Henry Dutton |url=https://www.nga.org/governor/henry-dutton/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216043710/https://www.nga.org/governor/henry-dutton/ |url-status=live}}</ref>
+|data-sort-value="365"|May 4, 1854<ref>{{Cite news |date=May 9, 1854 |title=none |quote=The election of Governor and other State officers took place on Thursday, when the Whig candidates were all elected, viz: Henry Dutton, Governor... The inauguration of the various officers took place on the same day they were elected. |page=2 |newspaper=[[Pittsburgh Post-Gazette|Daily Pittsburgh Gazette]] |url=https://www.newspapers.com/article/the-pittsburgh-gazette-dutton-inaugurate/129407843/ |access-date=October 15, 2026 |location=Connecticut |publication-place=Pittsburgh |archive-url=https://web.archive.org/web/20260109154930/https://www.newspapers.com/article/pittsburgh-post-gazette-dutton-inaugurat/129407843/ |archive-date=January 9, 2026 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 3, 1855<br>{{small|(365 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=24}}
+|[[1854 Connecticut gubernatorial election|1854]]
+|style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|Alexander H.|Holley}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|39
+|rowspan="2" data-sort-value="Minor, William"|[[File:William T. Minor.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Know-Nothing}};" title="Represented the American Party"|
+|rowspan="2"|'''[[William T. Minor]]'''<br>{{Small|(1815–1889)}}<br>{{sfn|Sobel|1978|p=175}}<ref name="nga-minor">{{Cite web |title=William Thomas Minor |url=https://www.nga.org/governor/william-thomas-minor/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216043707/https://www.nga.org/governor/william-thomas-minor/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="735"|May 3, 1855<ref>{{Cite news |date=May 4, 1855 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-governor-minor-inaugura/118730545/ |access-date=October 15, 2026 |archive-date=December 11, 2024 |archive-url=https://web.archive.org/web/20241211060213/https://www.newspapers.com/article/hartford-courant-governor-minor-inaugura/118730545/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 6, 1857<br>{{small|(735 days; retired)}}
+|rowspan="2"|[[Know Nothing|American]]{{sfn|Dubin|2003|p=25}}
+|[[1855 Connecticut gubernatorial election|1855]]
+|style="color:inherit;background:{{party color|Free Soil Party}};" title="Represented the Free Soil Party"|
+|{{sortname|William|Field|dab=American politician}}{{efn|Represented the [[Free Soil Party]]|name=lt-freesoil}}
+|- style="height:2em;"
+|[[1856 Connecticut gubernatorial election|1856]]
+|style="color:inherit;background:{{party color|Know-Nothing}};" title="Represented the American Party"|
+|{{sortname|Albert|Day|dab=politician}}
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Holley, Alexander"|[[File:Alexander H. Holley (Connecticut Governor).jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Alexander H. Holley]]'''<br>{{Small|(1804–1887)}}<br>{{sfn|Sobel|1978|p=176}}<ref name="nga-holley">{{Cite web |title=Alexander Hamilton Holley |url=https://www.nga.org/governor/alexander-hamilton-holley/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216183934/https://www.nga.org/governor/alexander-hamilton-holley/ |url-status=live}}</ref>
+|data-sort-value="365"|May 6, 1857<ref>{{cite book |title=Journal of the House of Representatives, 1857 sess. |author=Connecticut House of Representatives |page=10 |url=https://babel.hathitrust.org/cgi/pt?id=chi.095652402&seq=18 |via=[[HathiTrust]]}}</ref><br/>–<br/>May 5, 1858<br>{{small|(365 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{efn|Holley's party is described as American Republican by the state;<ref name="state-list" /> Whig by the National Governor's Association, due to early membership in that party;<ref name="nga-holley" /> "Union Party", a coalition of [[Know Nothing]]s and Republicans, by Sobel;{{sfn|Sobel|1978|p=176}} and simply Republican by Dubin.{{sfn|Dubin|2003|p=25}}}}
+|[[1857 Connecticut gubernatorial election|1857]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Alfred A.|Burnham}}
+|- style="height:2em;"
+!rowspan="8" scope="rowgroup"|41
+|rowspan="8" data-sort-value="Buckingham, William"|[[File:William A. Buckingham (Connecticut Governor) (3x4a).jpg|75px]]
+|rowspan="8"|'''[[William A. Buckingham]]'''<br>{{Small|(1804–1875)}}<br>{{sfn|Sobel|1978|p=177}}<ref name="nga-buckingham">{{Cite web |title=William Alfred Buckingham |url=https://www.nga.org/governor/william-alfred-buckingham/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=March 6, 2024 |archive-url=https://web.archive.org/web/20240306095350/https://www.nga.org/governor/william-alfred-buckingham/ |url-status=live}}</ref><ref name="ct-buckingham">{{Cite web |title=William Buckingham |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/william-buckingham |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=October 6, 2026 |archive-url=https://web.archive.org/web/20261006153831/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/william-buckingham |url-status=live}}</ref>
+|rowspan="8" data-sort-value="2920"|May 5, 1858<ref>{{Cite news |date=May 6, 1858 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-buckingham-inaugurated/129405134/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20260109060944/https://www.newspapers.com/article/hartford-courant-buckingham-inaugurated/129405134/ |archive-date=January 9, 2026 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 2, 1866<br>{{small|(2920 days; retired)}}
+|rowspan="8"|[[Connecticut Republican Party|Republican]]{{efn|Buckingham, a Republican, and Averill, a [[War Democrat]], ran together on a [[Electoral fusion in the United States|fusion]] ticket in 1862 as the Union Party of Connecticut.<ref>{{Cite news |publication-date=January 9, 1862 |title=The Connecticut Mass Union Convention |website=[[The New York Times]] |url=https://www.nytimes.com/1862/01/09/archives/the-connecticut-mass-union-convention.html |access-date=October 15, 2026 |archive-date=December 5, 2020 |archive-url=https://web.archive.org/web/20201205034646/https://www.nytimes.com/1862/01/09/archives/the-connecticut-mass-union-convention.html |url-status=live |location=Hartford, Connecticut |publication-place=New York City |date=January 8, 1862}}</ref>}}
+|[[1858 Connecticut gubernatorial election|1858]]
+|rowspan="3"|{{sortname|Julius|Catlin}}
+|- style="height:2em;"
+|[[1859 Connecticut gubernatorial election|1859]]
+|- style="height:2em;"
+|[[1860 Connecticut gubernatorial election|1860]]
+|- style="height:2em;"
+|[[1861 Connecticut gubernatorial election|1861]]
+|{{sortname|Benjamin|Douglas}}
+|- style="height:2em;"
+|[[1862 Connecticut gubernatorial election|1862]]
+|rowspan="4" style="color:inherit;background:{{party color|National Union Party (United States)}};" title="Represented the National Union Party"|
+|rowspan="4"|{{sortname|Roger|Averill}}{{efn|Averill, a [[War Democrat]], represented the [[National Union Party (United States)|Union Party]]; he and Buckingham were elected on a [[Electoral fusion in the United States|fusion]] ticket.}}
+|- style="height:2em;"
+|[[1863 Connecticut gubernatorial election|1863]]
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background:{{party color|National Union Party (United States)}};" title="Represented the National Union Party"|
+|[[1864 Connecticut gubernatorial election|1864]]
+|- style="height:2em;"
+|[[1865 Connecticut gubernatorial election|1865]]
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Hawley, Joseph"|[[File:Joseph Roswell Hawley - Brady-Handy.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Joseph R. Hawley]]'''<br>{{Small|(1826–1905)}}<br>{{sfn|Sobel|1978|p=178}}<ref name="nga-hawley">{{Cite web |title=Joseph Roswell Hawley |url=https://www.nga.org/governor/joseph-roswell-hawley/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216192916/https://www.nga.org/governor/joseph-roswell-hawley/ |url-status=live}}</ref>
+|data-sort-value="365"|May 2, 1866<ref>{{Cite news |publication-date=May 3, 1866 |date=May 1, 1866 |location=New Haven, Connecticut |publication-place=Baltimore |title=From Connecticut |page=1 |newspaper=Baltimore Daily Commercial |url=https://www.newspapers.com/article/baltimore-daily-commercial-hawley-inaugu/129405305/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053109/https://www.newspapers.com/article/baltimore-daily-commercial-hawley-inaugu/129405305/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 1, 1867<br>{{small|(365 days; lost election)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1866 Connecticut gubernatorial election|1866]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Oliver|Winchester}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|43
+|rowspan="2" data-sort-value="English, James"|[[File:JEEnglish (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[James E. English]]'''<br>{{Small|(1812–1890)}}<br>{{sfn|Sobel|1978|p=179}}<ref name="nga-english">{{Cite web |title=James Edward English |url=https://www.nga.org/governor/james-edward-english/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 6, 2023 |archive-url=https://web.archive.org/web/20230206191501/https://www.nga.org/governor/james-edward-english/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="736"|May 1, 1867<ref>{{Cite news |date=May 1, 1867 |title=Inauguration of the Governor of Connecticut To-day |page=10 |newspaper=[[The New York Herald]] |url=https://www.newspapers.com/article/new-york-daily-herald-english-inaugurate/129405511/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053220/https://www.newspapers.com/article/new-york-daily-herald-english-inaugurate/129405511/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 5, 1869<br>{{small|(736 days; lost election)}}
+|rowspan="2"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1867 Connecticut gubernatorial election|1867]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Ephraim H.|Hyde}}
+|- style="height:2em;"
+|[[1868 Connecticut gubernatorial election|1868]]
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Jewell, Marshall"|[[File:Marshall Jewell - Brady-Handy.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Marshall Jewell]]'''<br>{{Small|(1825–1883)}}<br>{{sfn|Sobel|1978|p=180}}<ref name="nga-jewell">{{Cite web |title=Marshall Jewell |url=https://www.nga.org/governor/marshall-jewell/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=January 13, 2023 |archive-url=https://web.archive.org/web/20230113182100/https://www.nga.org/governor/marshall-jewell/ |url-status=live}}</ref>
+|data-sort-value="365"|May 5, 1869<ref>{{Cite news |date=May 6, 1869 |title=Connecticut Legislature |page=2 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-jewell-inaugurated-may/129405669/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053226/https://www.newspapers.com/article/hartford-courant-jewell-inaugurated-may/129405669/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 4, 1870<br>{{small|(365 days; lost election)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1869 Connecticut gubernatorial election|1869]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Francis|Wayland III}}
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="English, James"|[[File:JEEnglish (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James E. English]]'''<br>{{Small|(1812–1890)}}<br>{{sfn|Sobel|1978|p=179}}<ref name="nga-english" />
+|data-sort-value="378"|May 4, 1870<ref>{{Cite news |date=May 5, 1870 |title=The Election Parade |page=2 |newspaper=Meriden Daily Republican |url=https://www.newspapers.com/article/the-meriden-daily-republican-english-ina/129405807/ |access-date=October 15, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20241211063957/https://www.newspapers.com/article/the-meriden-daily-republican-english-ina/129405807/ |archive-date=December 11, 2024 |url-status=live}}</ref><br/>–<br/>May 16, 1871<br>{{small|(378 days; lost election)}}{{efn|name=elect-1871}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1870 Connecticut gubernatorial election|1870]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Julius|Hotchkiss}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="Jewell, Marshall"|[[File:Marshall Jewell - Brady-Handy.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Marshall Jewell]]'''<br>{{Small|(1825–1883)}}<br>{{sfn|Sobel|1978|p=180}}<ref name="nga-jewell" />
+|rowspan="2" data-sort-value="723"|May 16, 1871<ref>{{cite book |title=Journal of the House of Representatives, 1871 sess. |author=Connecticut House of Representatives |page=48 |url=https://babel.hathitrust.org/cgi/pt?id=chi.095652185&seq=56 |via=[[HathiTrust]]}}</ref><br/>–<br/>May 7, 1873<br>{{small|(723 days; retired)}}
+|rowspan="2"|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1871 Connecticut gubernatorial election|1871]]{{efn|James English won the popular vote, but a canvassing committee found the election was fraudulent, and named Jewell governor several days into the term.<ref name="nga-english" />|name=elect-1871}}
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Morris|Tyler}}
+|- style="height:2em;"
+|[[1872 Connecticut gubernatorial election|1872]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|47
+|rowspan="4" data-sort-value="Ingersoll, Charles"|[[File:Charles Roberts Ingersoll (3x4a).jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[Charles Roberts Ingersoll]]'''<br>{{Small|(1821–1903)}}<br>{{sfn|Sobel|1978|p=181}}<ref name="nga-ingersoll">{{Cite web |title=Charles Robert Ingersoll |url=https://www.nga.org/governor/charles-robert-ingersoll/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216192915/https://www.nga.org/governor/charles-robert-ingersoll/ |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1338"|May 7, 1873<ref>{{Cite news |date=May 8, 1873 |title=Connecticut Legislature |page=1 |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-ingersoll-inaugurated-m/129405956/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804051603/https://www.newspapers.com/article/hartford-courant-ingersoll-inaugurated-m/129405956/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1877<br>{{small|(1338 days; retired)}}
+|rowspan="4"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1873 Connecticut gubernatorial election|1873]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|{{sortname|George G.|Sill}}{{efn|The list of lieutenant governors supplied by the Connecticut Secretary of State marks Sill as having represented the Republican Party, but contemporary news on his death reported him as having been a Democrat.<ref>{{Cite magazine |date=May 29, 1907 |title=Obituary Report |url=https://books.google.com/books?id=rq5FAQAAMAAJ&pg=PA834 |magazine=Yale Alumni Weekly |location=New Haven, Connecticut |volume=16 |issue=36 |page=834 |via=[[Google Books]]}}</ref>}}
+|- style="height:2em;"
+|[[1874 Connecticut gubernatorial election|1874]]
+|- style="height:2em;"
+|[[1875 Connecticut gubernatorial election|1875]]
+|- style="height:2em;"
+|[[April 1876 Connecticut gubernatorial election|Apr. 1876]]{{efn|This term was only from May 1876 to January 1877, due to a constitutional amendment moving the election schedule.{{sfn|Thorpe|1909|p=551|loc=1875 amend. XVI}}}}
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Hubbard, Richard"|[[File:Richard D. Hubbard (Connecticut Governor).jpg|75px]]
+|'''[[Richard D. Hubbard]]'''<br>{{Small|(1818–1884)}}<br>{{sfn|Sobel|1978|p=182}}<ref name="nga-hubbard">{{Cite web |title=Richard Dudley Hubbard |url=https://www.nga.org/governor/richard-dudley-hubbard/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260411114727/https://www.nga.org/governor/richard-dudley-hubbard/ |archive-date=April 11, 2026 |url-status=live}}</ref>
+|data-sort-value="737"|January 3, 1877<ref>{{Cite news |date=January 3, 1877 |location=Hartford, Connecticut |publication-place=Meriden, Connecticut |title='Lection Day |page=3 |newspaper=Meriden Daily Republican |url=https://www.newspapers.com/article/the-meriden-daily-republican-hubbard-ina/129406076/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053232/https://www.newspapers.com/article/the-meriden-daily-republican-hubbard-ina/129406076/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 9, 1879<br>{{small|(737 days; lost election)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[November 1876 Connecticut gubernatorial election|Nov. 1876]]{{efn|First election under a constitutional amendment which lengthened terms to two years.{{sfn|Thorpe|1909|p=551|loc=1875 amend. XVI}}}}
+|{{sortname|Francis|Loomis|dab=Connecticut politician}}
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Andrews, Charles"|[[File:Charles B. Andrews (Connecticut Governor).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Charles B. Andrews]]'''<br>{{Small|(1834–1902)}}<br>{{sfn|Sobel|1978|pp=182–183}}<ref name="nga-andrews">{{Cite web |title=Charles Bartlett Andrews |url=https://www.nga.org/governor/charles-bartlett-andrews/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260801143244/https://www.nga.org/governor/charles-bartlett-andrews/ |archive-date=August 1, 2026 |url-status=live}}</ref>
+|data-sort-value="728"|January 9, 1879{{efn|The constitutional start date for the term in 1879 was January 8; the delay may be because Andrews was chosen by the legislature after a close election.<ref name="nga-andrews" /><ref>{{Cite news |publication-date=January 10, 1879 |date=January 9, 1879 |title=Governor Andrews' First Message |page=4 |newspaper=[[The New York Herald]] |url=https://www.newspapers.com/article/the-new-york-herald-governor-andrews-fi/118762959/ |access-date=October 15, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926044339/https://www.newspapers.com/article/118762959/governor-andrews-first-message/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}<br/>–<br/>January 5, 1881<br>{{small|(728 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1878 Connecticut gubernatorial election|1878]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|David|Gallup}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Bigelow, Hobart"|[[File:Hobart Baldwin Bigelow (Connecticut Governor) (3x4a).jpg|75px]]
+|'''[[Hobart B. Bigelow]]'''<br>{{Small|(1834–1891)}}<br>{{sfn|Sobel|1978|p=183}}<ref name="nga-bigelow">{{Cite web |title=Hobart Baldwin Bigelow |url=https://www.nga.org/governor/hobart-baldwin-bigelow/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414070540/https://www.nga.org/governor/hobart-baldwin-bigelow/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 5, 1881<ref>{{Cite news |date=January 5, 1881 |title=Connecticut Legislature |page=3 |newspaper=Meriden Daily Republican |url=https://www.newspapers.com/article/the-meriden-daily-republican-bigelow-ina/129406304/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053233/https://www.newspapers.com/article/the-meriden-daily-republican-bigelow-ina/129406304/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1883<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1880 Connecticut gubernatorial election|1880]]
+|{{sortname|William H.|Bulkeley}}
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Waller, Thomas"|[[File:Thomas M. Waller (Connecticut Governor) (3x4a).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Thomas M. Waller]]'''<br>{{Small|(1839–1924)}}<br>{{sfn|Sobel|1978|pp=183–184}}<ref name="nga-waller">{{Cite web |title=Thomas MacDonald Waller |url=https://www.nga.org/governor/thomas-macdonald-waller/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216211403/https://www.nga.org/governor/thomas-macdonald-waller/ |url-status=live}}</ref>
+|data-sort-value="737"|January 3, 1883<ref>{{Cite news |publication-date=January 4, 1883 |date=January 3, 1883 |location=Hartford, Connecticut |publication-place=New Haven, Connecticut |title=The Governor's Inauguration |page=2 |newspaper=[[The New Haven Journal-Courier|The New Haven Daily Morning Journal and Courier]] |url=https://www.newspapers.com/article/the-morning-journal-courier-waller-inaug/129406432/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053108/https://www.newspapers.com/article/the-morning-journal-courier-waller-inaug/129406432/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1885<br>{{small|(737 days; lost election)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1882 Connecticut gubernatorial election|1882]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|George G.|Sumner}}
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Harrison, Henry"|[[File:Henry Baldwin Harrison (Connecticut Governor) (3x4).jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Henry Baldwin Harrison]]'''<br>{{Small|(1821–1901)}}<br>{{sfn|Sobel|1978|pp=184–185}}<ref name="nga-harrison">{{Cite web |title=Henry Baldwin Harrison |url=https://www.nga.org/governor/henry-baldwin-harrison/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 1, 2023 |archive-url=https://web.archive.org/web/20230201145333/https://www.nga.org/governor/henry-baldwin-harrison/ |url-status=live}}</ref>
+|data-sort-value="729"|January 8, 1885{{efn|The constitutional start date for the term in 1885 was January 7; the delay may be because Harrison was chosen by the legislature after a close election.<ref name="nga-harrison" /><ref>{{Cite news |publication-date=January 9, 1885 |date=January 8, 1885 |location=Hartford, Connecticut |publication-place=New Haven, Connecticut |title=Governor Harrison Takes the Oath and Then Delivers His Message |page=2 |newspaper=[[The New Haven Journal-Courier|The New Haven Daily Morning Journal and Courier]] |url=https://www.newspapers.com/article/the-morning-journal-courier-governor-har/118763989/ |access-date=October 15, 2026 |archive-date=September 26, 2023 |archive-url=https://web.archive.org/web/20230926044341/https://www.newspapers.com/article/118763989/governor-harrison-takes-the-oath-and/ |url-status=live |via=Newspapers.com}}</ref>}}<br/>–<br/>January 6, 1887<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1884 Connecticut gubernatorial election|1884]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Lorrin A.|Cooke}}
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Lounsbury, Phineas"|[[File:Phineas C. Lounsbury (Men of Mark in Connecticut) 27 (3x4 cropped).jpg|75px]]
+|'''[[Phineas C. Lounsbury]]'''<br>{{Small|(1841–1925)}}<br>{{sfn|Sobel|1978|p=185}}<ref name="nga-lounsbury-phineas">{{Cite web |title=Phineas Chapman Lounsbury |url=https://www.nga.org/governor/phineas-chapman-lounsbury/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260814052055/https://www.nga.org/governor/phineas-chapman-lounsbury/ |archive-date=August 14, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 6, 1887{{efn|The constitutional start date for the term in 1887 was January 5; the delay may be because Lounsbury was chosen by the legislature after a close election.<ref name="nga-lounsbury-phineas" /><ref>{{Cite news |publication-date=January 7, 1887 |date=January 6, 1887 |location=Hartford, Connecticut |publication-place=New Haven, Connecticut |title=The Inaugural Ceremonies |page=2 |newspaper=[[The New Haven Journal-Courier|The New Haven Daily Morning Journal and Courier]] |url=https://www.newspapers.com/article/the-morning-journal-courier-the-inaugura/118764563/ |access-date=October 15, 2026 |archive-date=September 26, 2023 |archive-url=https://web.archive.org/web/20230926044340/https://www.newspapers.com/article/118764563/the-inaugural-ceremonies/ |url-status=live |via=Newspapers.com}}</ref>}}<br/>–<br/>January 10, 1889<br>{{small|(736 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1886 Connecticut gubernatorial election|1886]]
+|{{sortname|James L.|Howard}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|54
+|rowspan="2" data-sort-value="Bulkeley, Morgan"|[[File:Bulkeley Morgan 2.jpg|75px]]
+|rowspan="2"|'''[[Morgan Bulkeley]]'''<br>{{Small|(1837–1922)}}<br>{{sfn|Sobel|1978|pp=185–186}}<ref name="nga-bulkeley">{{Cite web |title=Morgan Gardner Bulkeley |url=https://www.nga.org/governor/morgan-gardner-bulkeley/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 2, 2023 |archive-url=https://web.archive.org/web/20230202135529/https://www.nga.org/governor/morgan-gardner-bulkeley/ |url-status=live}}</ref><ref name="ct-bulkeley">{{Cite web |title=Morgan Bulkeley |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/morgan-bulkeley |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=August 27, 2026 |archive-url=https://web.archive.org/web/20260827152728/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/morgan-bulkeley |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1456"|January 10, 1889{{efn|The constitutional start date for the term in 1889 was January 9; the delay may be because Bulkeley was chosen by the legislature after a close election.<ref name="nga-bulkeley" /><ref>{{Cite news |date=January 10, 1889 |title=The General Assembly |page=4 |location=Hartford, Connecticut |publication-place=Waterbury, Connecticut |newspaper=Waterbury Evening Democrat |url=https://www.newspapers.com/article/the-waterbury-democrat-bulkeley-takes-oa/118765205/ |access-date=October 15, 2026 |archive-date=September 26, 2023 |archive-url=https://web.archive.org/web/20230926044340/https://www.newspapers.com/article/118765205/bulkeley-takes-oath/ |url-status=live |via=Newspapers.com}}</ref>}}<br/>–<br/>January 4, 1893<br>{{small|(1456 days; retired)}}
+|rowspan="2"|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1888 Connecticut gubernatorial election|1888]]
+|rowspan="2"|{{sortname|Samuel E.|Merwin}}
+|- style="height:2em;"
+|[[1890 Connecticut gubernatorial election|1890]]{{efn|Morgan Bulkeley did not run for reelection in 1890, but due to a close contest and controversies, the results were not certified, and the legislature spent two years debating the issue; Bulkeley essentially served as governor by default.<ref name="nga-bulkeley" />}}
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Morris, Luzon"|[[File:Luzon B. Morris (Connecticut Governor) (3x4a).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Luzon B. Morris]]'''<br>{{Small|(1827–1895)}}<br>{{sfn|Sobel|1978|pp=186–187}}<ref name="nga-morris">{{Cite web |title=Luzon Burritt Morris |url=https://www.nga.org/governor/luzon-burritt-morris/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216211404/https://www.nga.org/governor/luzon-burritt-morris/ |url-status=live}}</ref>
+|data-sort-value="736"|January 4, 1893<ref>{{cite book |title=Journal of the House of Representatives, 1893 sess. |author=Connecticut House of Representatives |page=23 |url=https://babel.hathitrust.org/cgi/pt?id=chi.095652800&seq=29 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 9, 1895<br>{{small|(736 days; retired)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1892 Connecticut gubernatorial election|1892]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Ernest|Cady}}
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="Coffin, Owen"|[[File:Owen Vincent Coffin (Connecticut Governor).jpg|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Owen Vincent Coffin]]'''<br>{{Small|(1836–1921)}}<br>{{sfn|Sobel|1978|p=187}}<ref name="nga-coffin">{{Cite web |title=Owen Vincent Coffin |url=https://www.nga.org/governor/owen-vincent-coffin/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216211401/https://www.nga.org/governor/owen-vincent-coffin/ |url-status=live}}</ref>
+|data-sort-value="729"|January 9, 1895<ref>{{Cite news |date=January 9, 1895 |title=Inaugurated |location=Hartford, Connecticut |publication-place=Meriden, Connecticut |page=1 |newspaper=Meriden Daily Republican |url=https://www.newspapers.com/article/the-meriden-daily-republican-coffin-inau/129406541/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053218/https://www.newspapers.com/article/the-meriden-daily-republican-coffin-inau/129406541/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1897<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1894 Connecticut gubernatorial election|1894]]
+|rowspan="10" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Lorrin A.|Cooke}}
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Cooke, Lorrin"|[[File:Lorrin A. Cooke (3x4a).jpg|75px]]
+|'''[[Lorrin A. Cooke]]'''<br>{{Small|(1831–1902)}}<br>{{sfn|Sobel|1978|p=188}}<ref name="nga-cooke">{{Cite web |title=Lorrin Alamson Cooke |url=https://www.nga.org/governor/lorrin-alamson-cooke/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519093659/https://www.nga.org/governor/lorrin-alamson-cooke/ |archive-date=May 19, 2026 |url-status=live}}</ref><ref name="ct-cooke">{{Cite web |title=Lorrin Cooke |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/lorrin-cooke |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-url=https://web.archive.org/web/20260827150734/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/lorrin-cooke |archive-date=August 27, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 6, 1897<ref>{{Cite news |date=January 6, 1897 |title=The Inauguration |page=1 |location=Hartford, Connecticut |publication-place=New London, Connecticut |newspaper=[[The Day (New London)|The Day]] |url=https://www.newspapers.com/article/the-day-cooke-inaugurated-january-6/129406572/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20260113124618/https://www.newspapers.com/article/the-day-cooke-inaugurated-january-6/129406572/ |archive-date=January 13, 2026 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 4, 1899<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1896 Connecticut gubernatorial election|1896]]
+|{{sortname|James D.|Dewell}}
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Lounsbury, George"|[[File:George E. Lounsbury.jpg|75px]]
+|'''[[George E. Lounsbury]]'''<br>{{Small|(1838–1904)}}<br>{{sfn|Sobel|1978|pp=188–189}}<ref name="nga-lounsbury-george">{{Cite web |title=George Edward Lounsbury |url=https://www.nga.org/governor/george-edward-lounsbury/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 16, 2023 |archive-url=https://web.archive.org/web/20230216211402/https://www.nga.org/governor/george-edward-lounsbury/ |url-status=live}}</ref>
+|data-sort-value="736"|January 4, 1899<ref>{{cite book |title=Journal of the House of Representatives, 1899 sess. |author=Connecticut House of Representatives |page=23 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981202&seq=29 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 9, 1901<br>{{small|(736 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1898 Connecticut gubernatorial election|1898]]
+|{{sortname|Lyman A.|Mills}}
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="McLean, George"|[[File:George P. McLean.jpg|75px]]
+|'''[[George P. McLean]]'''<br>{{Small|(1857–1932)}}<br>{{sfn|Sobel|1978|pp=189–190}}<ref name="nga-mclean">{{Cite web |title=George Payne McLean |url=https://www.nga.org/governor/george-payne-mclean/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617192429/https://www.nga.org/governor/george-payne-mclean/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 9, 1901<ref>{{cite book |title=Journal of the House of Representatives, 1901 sess. |author=Connecticut House of Representatives |page=25 |url=https://babel.hathitrust.org/cgi/pt?id=chi.095652575&seq=35 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 7, 1903<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1900 Connecticut gubernatorial election|1900]]
+|{{sortname|Edwin O.|Keeler}}
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Chamberlain, Abiram"|[[File:Abiram Chamberlain (Connecticut Governor).jpg|75px]]
+|'''[[Abiram Chamberlain]]'''<br>{{Small|(1837–1911)}}<br>{{sfn|Sobel|1978|p=190}}<ref name="nga-chamberlain">{{Cite web |title=Abiram Chamberlain |url=https://www.nga.org/governor/abiram-chamberlain/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051721/https://www.nga.org/governor/abiram-chamberlain/ |url-status=live}}</ref>
+|data-sort-value="729"|January 7, 1903<ref>{{cite book |title=Journal of the House of Representatives, 1903 sess. |author=Connecticut House of Representatives |page=24 |url=https://babel.hathitrust.org/cgi/pt?id=chi.095652753&seq=32 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 4, 1905<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1902 Connecticut gubernatorial election|1902]]
+|{{sortname|Henry|Roberts|dab=Connecticut politician}}
+|- style="height:2em;"
+!scope="row"|61
+|data-sort-value="Roberts, Henry"|[[File:Henry Roberts (Connecticut Governor).jpg|75px]]
+|'''[[Henry Roberts (Connecticut politician)|Henry Roberts]]'''<br>{{Small|(1853–1929)}}<br>{{sfn|Sobel|1978|p=191}}<ref name="nga-roberts">{{Cite web |title=Henry Roberts |url=https://www.nga.org/governor/henry-roberts/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051722/https://www.nga.org/governor/henry-roberts/ |url-status=live}}</ref>
+|data-sort-value="736"|January 4, 1905<ref>{{cite book |title=Journal of the House of Representatives, 1905 sess. |author=Connecticut House of Representatives |page=23 |url=https://babel.hathitrust.org/cgi/pt?id=chi.095652818&seq=29 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 9, 1907<br>{{small|(736 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1904 Connecticut gubernatorial election|1904]]
+|{{sortname|Rollin S.|Woodruff}}
+|- style="height:2em;"
+!scope="row"|62
+|data-sort-value="Woodruff, Rollin"|[[File:Rollin S. Woodruff (Connecticut Governor).jpg|75px]]
+|'''[[Rollin S. Woodruff]]'''<br>{{Small|(1854–1925)}}<br>{{sfn|Sobel|1978|pp=191–192}}<ref name="nga-woodruff">{{Cite web |title=Rollin Simmons Woodruff |url=https://www.nga.org/governor/rollin-simmons-woodruff/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051722/https://www.nga.org/governor/rollin-simmons-woodruff/ |url-status=live}}</ref>
+|data-sort-value="729"|January 9, 1907<ref>{{cite book |title=Journal of the House of Representatives, 1907 sess. |author=Connecticut House of Representatives |page=23 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981236&seq=29 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 6, 1909<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1906 Connecticut gubernatorial election|1906]]
+|{{sortname|Everett J.|Lake}}
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Lilley, George"|[[File:GeorgeLLilley.jpg|75px]]
+|'''[[George L. Lilley]]'''<br>{{Small|(1859–1909)}}<br>{{sfn|Sobel|1978|pp=192–193}}<ref name="nga-lilley">{{Cite web |title=George Leavens Lilley |url=https://www.nga.org/governor/george-leavens-lilley/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051724/https://www.nga.org/governor/george-leavens-lilley/ |url-status=live}}</ref>
+|data-sort-value="106"|January 6, 1909<ref>{{cite book |title=Journal of the House of Representatives, 1909 sess. |author=Connecticut House of Representatives |page=26 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981244&seq=32 |via=[[HathiTrust]]}}</ref><br/>–<br/>April 21, 1909<br>{{small|(106 days; died in office)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1908 Connecticut gubernatorial election|1908]]
+|{{sortname|Frank B.|Weeks}}
+|- style="height:2em;"
+!scope="row"|64
+|data-sort-value="Weeks, Frank"|[[File:Frank B. Weeks (Connecticut Governor).jpg|75px]]
+|'''[[Frank B. Weeks]]'''<br>{{Small|(1854–1935)}}<br>{{sfn|Sobel|1978|p=193}}<ref name="nga-weeks">{{Cite web |title=Frank Bentley Weeks |url=https://www.nga.org/governor/frank-bentley-weeks/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051722/https://www.nga.org/governor/frank-bentley-weeks/ |url-status=live}}</ref>
+|data-sort-value="624"|April 21, 1909<ref>{{Cite news |date=April 22, 1909 |title=All Connecticut Mourns Governor Lilley Taken Away in Prime of Life |page=1 |newspaper=[[The Day (New London)|The Day]] |location=Hartford, Connecticut |publication-place=New London, Connecticut |url=https://www.newspapers.com/article/the-day-all-connecticut-mourns-governor/129407056/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053216/https://www.newspapers.com/article/the-day-all-connecticut-mourns-governor/129407056/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 4, 1911<br>{{small|(624 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|65
+|rowspan="2" data-sort-value="Baldwin, Simeon"|[[File:BALDWIN, S.E. GOVERNOR LCCN2016858914 (Cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Simeon E. Baldwin]]'''<br>{{Small|(1840–1927)}}<br>{{sfn|Sobel|1978|p=194}}<ref name="nga-baldwin-simeon">{{Cite web |title=Simeon Eben Baldwin |url=https://www.nga.org/governor/simeon-eben-baldwin/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260603185941/https://www.nga.org/governor/simeon-eben-baldwin/ |archive-date=June 3, 2026 |url-status=live}}</ref><ref name="ct-baldwin-simeon">{{Cite web |title=Simeon Baldwin |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/simeon-baldwin |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=August 18, 2026 |archive-url=https://web.archive.org/web/20260818151238/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/simeon-baldwin |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1911<ref>{{cite book |title=Journal of the House of Representatives, 1911 sess. |author=Connecticut House of Representatives |page=21 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981152&seq=27 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 6, 1915<br>{{small|(1464 days; retired)}}{{efn|Baldwin instead [[1914 United States Senate elections|ran unsuccessfully]] for the [[United States Senate]].<ref name="ct-baldwin-simeon" />}}
+|rowspan="2"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1910 Connecticut gubernatorial election|1910]]
+|{{sortname|Dennis A.|Blakeslee}}{{efn|Represented the [[Connecticut Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+|[[1912 Connecticut gubernatorial election|1912]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Lyman T.|Tingier}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|66
+|rowspan="3" data-sort-value="Holcomb, Marcus"|[[File:Marcus H. Holcomb (Connecticut Governor).jpg|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Marcus H. Holcomb]]'''<br>{{Small|(1844–1932)}}<br>{{sfn|Sobel|1978|pp=194–195}}<ref name="nga-holcomb">{{Cite web |title=Marcus Hensey Holcomb |url=https://www.nga.org/governor/marcus-hensey-holcomb/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314103408/https://www.nga.org/governor/marcus-hensey-holcomb/ |archive-date=March 14, 2026 |url-status=live}}</ref><ref name="ct-holcomb">{{Cite web |title=Marcus Holcomb |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/marcus-holcomb |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-url=https://web.archive.org/web/20261006153833/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/marcus-holcomb |archive-date=October 6, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2192"|January 6, 1915<ref>{{cite book |title=Journal of the House of Representatives, 1915 sess. |author=Connecticut House of Representatives |page=26 |url=https://babel.hathitrust.org/cgi/pt?id=chi.095652999&seq=32 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 5, 1921<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1914 Connecticut gubernatorial election|1914]]
+|rowspan="11" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Clifford B.|Wilson}}
+|- style="height:2em;"
+|[[1916 Connecticut gubernatorial election|1916]]
+|- style="height:2em;"
+|[[1918 Connecticut gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|67
+|data-sort-value="Lake, Everett"|[[File:Everett J. Lake (Connecticut Governor).jpg|75px]]
+|'''[[Everett J. Lake]]'''<br>{{Small|(1871–1948)}}<br>{{sfn|Sobel|1978|pp=195–196}}<ref name="nga-lake">{{Cite web |title=Everett John Lake |url=https://www.nga.org/governor/everett-john-lake/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051724/https://www.nga.org/governor/everett-john-lake/ |url-status=live}}</ref><ref name="ct-lake">{{Cite web |title=Everett Lake |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/everett-lake |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 8, 2026 |archive-date=October 6, 2026 |archive-url=https://web.archive.org/web/20261006153832/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/everett-lake |url-status=live}}</ref>
+|data-sort-value="729"|January 5, 1921<ref>{{cite book |title=Journal of the House of Representatives, 1921 sess. |author=Connecticut House of Representatives |page=23 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981038&seq=139 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 3, 1923<br>{{small|(729 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1920 Connecticut gubernatorial election|1920]]
+|{{sortname|Charles A.|Templeton}}
+|- style="height:2em;"
+!scope="row"|68
+|data-sort-value="Templeton, Charles"|[[File:Charles A. Templeton (Connecticut Governor).jpg|75px]]
+|'''[[Charles A. Templeton]]'''<br>{{Small|(1871–1955)}}<br>{{sfn|Sobel|1978|pp=196–197}}<ref name="nga-templeton">{{Cite web |title=Charles Augustus Templeton |url=https://www.nga.org/governor/charles-augustus-templeton/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051723/https://www.nga.org/governor/charles-augustus-templeton/ |url-status=live}}</ref><ref name="ct-templeton">{{Cite web |title=Charles Templeton |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/charles-templeton |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 14, 2026 |archive-url=https://web.archive.org/web/20260930072427/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/charles-templeton |archive-date=September 30, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 3, 1923<ref>{{cite book |title=Journal of the House of Representatives, 1923 sess. |author=Connecticut House of Representatives |page=23 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981046&seq=31 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 7, 1925<br>{{small|(736 days; retired)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1922 Connecticut gubernatorial election|1922]]
+|{{sortname|Hiram|Bingham III}}
+|- style="height:2em;"
+!scope="row"|69
+|data-sort-value="Bingham, Hiram"|[[File:HirambinghamIII.jpg|75px]]
+|'''[[Hiram Bingham III]]'''<br>{{Small|(1875–1956)}}<br>{{sfn|Sobel|1978|p=197}}<ref name="nga-bingham">{{Cite web |title=Hiram Bingham |url=https://www.nga.org/governor/hiram-bingham/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=October 29, 2020 |archive-url=https://web.archive.org/web/20201029221945/https://www.nga.org/governor/hiram-bingham/ |url-status=live}}</ref>
+|data-sort-value="2"|January 7, 1925<ref>{{cite book |title=Journal of the House of Representatives, 1925 sess. |author=Connecticut House of Representatives |page=29 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981053&seq=33 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 8, 1925<br>{{small|(2 days; resigned)}}{{efn|Bingham resigned, having been [[1924 United States Senate special election in Connecticut|elected]] to the [[United States Senate]].<ref name="nga-bingham" />}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1924 Connecticut gubernatorial election|1924]]
+|{{sortname|John H.|Trumbull}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|70
+|rowspan="3" data-sort-value="Trumbull, John"|[[File:John H. Trumbull (Connecticut Governor) 2.jpg|75px]]
+|rowspan="3"|'''[[John H. Trumbull]]'''<br>{{Small|(1873–1961)}}<br>{{sfn|Sobel|1978|p=198}}<ref name="nga-trumbull-john">{{Cite web |title=John Harper Trumbull |url=https://www.nga.org/governor/john-harper-trumbull/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260315232038/https://www.nga.org/governor/john-harper-trumbull/ |archive-date=March 15, 2026 |url-status=live}}</ref><ref name="ct-trumbull-john">{{Cite web |title=John H. Trumbull |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/john-h-trumbull |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 11, 2026 |archive-date=October 16, 2026 |archive-url=https://web.archive.org/web/20261016030250/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/john-h-trumbull |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2191"|January 8, 1925<ref>{{Cite news |date=January 8, 1925 |title=Governor Trumbull Sworn In As Governor Bingham Resigns and Becomes U.S. Senator |page=1 |newspaper=[[Record-Journal|Meriden Daily Journal]] |location=Hartford, Connecticut |publication-place=Meriden, Connecticut |url=https://www.newspapers.com/article/the-journal-trumbull-succeeds-bingham-ja/129407354/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804053225/https://www.newspapers.com/article/the-journal-trumbull-succeeds-bingham-ja/129407354/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 7, 1931<br>{{small|(2191 days; retired)}}
+|rowspan="3"|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''{{efn|Since Trumbull took over only one day into the term, nearly all sources describe [[J. Edwin Brainard]] as lieutenant governor during this term; however, constitutionally, he would have remained president of the senate and only acted as lieutenant governor. At least one contemporary news source described him as such.<ref>{{Cite news |date=January 11, 1925 |title=Our "Self-Made" Men |newspaper=[[Hartford Courant|Hartford Daily Courant]] |url=https://www.newspapers.com/article/hartford-courant-our-self-made-men/118817389/ |access-date=October 15, 2026 |quote=Acting Lieutenant-Governor Brainard, once a foundry hand... |via=Newspapers.com |archive-url=https://web.archive.org/web/20250604175128/https://www.newspapers.com/article/hartford-courant-our-self-made-men/118817389/ |archive-date=June 4, 2025 |url-status=live}}</ref>}}
+|- style="height:2em;"
+|[[1926 Connecticut gubernatorial election|1926]]
+|{{sortname|J. Edwin|Brainard}}
+|- style="height:2em;"
+|[[1928 Connecticut gubernatorial election|1928]]
+|{{sortname|Ernest E.|Rogers}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|71
+|rowspan="4" data-sort-value="Cross, Wilbur"|[[File:Wilbur L Cross sitting in chair (cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[Wilbur Lucius Cross]]'''<br>{{Small|(1862–1948)}}<br>{{sfn|Sobel|1978|pp=198–199}}<ref name="nga-cross">{{Cite web |title=Wilbur Lucius Cross |url=https://www.nga.org/governor/wilbur-lucius-cross/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051725/https://www.nga.org/governor/wilbur-lucius-cross/ |url-status=live}}</ref><ref name="ct-cross">{{Cite web |title=Wilbur Cross |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/wilbur-cross |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 11, 2026 |archive-date=August 27, 2026 |archive-url=https://web.archive.org/web/20260827154149/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/wilbur-cross?language=en_US |url-status=live}}</ref>
+|rowspan="4" data-sort-value="2920"|January 7, 1931<ref>{{cite book |title=Journal of the House of Representatives, 1931 sess. |author=Connecticut House of Representatives |page=32 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981087&seq=38 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 4, 1939<br>{{small|(2920 days; lost election)}}
+|rowspan="4"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1930 Connecticut gubernatorial election|1930]]
+|{{sortname|Samuel R.|Spencer}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1932 Connecticut gubernatorial election|1932]]
+|{{sortname|Roy C.|Wilcox}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1934 Connecticut gubernatorial election|1934]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|T. Frank|Hayes}}
+|- style="height:2em;"
+|[[1936 Connecticut gubernatorial election|1936]]
+|- style="height:2em;"
+!scope="row"|72
+|data-sort-value="Baldwin, Raymond"|[[File:Raymond E. Baldwin (CT).png|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Raymond E. Baldwin]]'''<br>{{Small|(1893–1986)}}<br>{{sfn|Sobel|1978|pp=199–200}}<ref name="nga-baldwin-raymond">{{Cite web |title=Raymond Early Baldwin |url=https://www.nga.org/governor/raymond-early-baldwin/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=October 25, 2023 |archive-url=https://web.archive.org/web/20231025032557/https://www.nga.org/governor/raymond-early-baldwin/ |url-status=live}}</ref><ref name="ct-baldwin-raymond">{{Cite web |title=Raymond Baldwin |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/raymond-baldwin |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 11, 2026 |archive-date=October 6, 2026 |archive-url=https://web.archive.org/web/20261006153833/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/raymond-baldwin |url-status=live}}</ref>
+|data-sort-value="736"|January 4, 1939<ref>{{cite book |title=Journal of the House of Representatives, 1939 sess. |author=Connecticut House of Representatives |page=26 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981558&seq=30 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 8, 1941<br>{{small|(736 days; lost election)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1938 Connecticut gubernatorial election|1938]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|James L.|McConaughy}}
+|- style="height:2em;"
+!scope="row"|73
+|data-sort-value="Hurley, Robert"|[[File:Robert A. Hurley (Connecticut Governor).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Robert A. Hurley]]'''<br>{{Small|(1895–1968)}}<br>{{sfn|Sobel|1978|pp=200–201}}<ref name="nga-hurley">{{Cite web |title=Robert Augustine Hurley |url=https://www.nga.org/governor/robert-augustine-hurley/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051727/https://www.nga.org/governor/robert-augustine-hurley/ |url-status=live}}</ref><ref name="ct-hurley">{{Cite web |title=Robert Hurley |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/robert-hurley |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 11, 2026 |archive-date=August 27, 2026 |archive-url=https://web.archive.org/web/20260827151628/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/robert-hurley |url-status=live}}</ref>
+|data-sort-value="729"|January 8, 1941<ref>{{cite book |title=Journal of the House of Representatives, 1941 sess. |author=Connecticut House of Representatives |page=46 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067980998&seq=50 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 6, 1943<br>{{small|(729 days; lost election)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1940 Connecticut gubernatorial election|1940]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Odell|Shepard}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|74
+|rowspan="2" data-sort-value="Baldwin, Raymond"|[[File:Raymond E. Baldwin (CT).png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Raymond E. Baldwin]]'''<br>{{Small|(1893–1986)}}<br>{{sfn|Sobel|1978|pp=199–200}}<ref name="nga-baldwin-raymond" /><ref name="ct-baldwin-raymond" />
+|rowspan="2" data-sort-value="1452"|January 6, 1943<ref>{{cite book |title=Journal of the House of Representatives, 1943 sess. |author=Connecticut House of Representatives |page=50 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067980972&seq=74 |via=[[HathiTrust]]}}</ref><br/>–<br/>December 27, 1946<br>{{small|(1452 days; resigned)}}{{efn|Baldwin resigned, having been [[1946 United States Senate elections in Connecticut|elected]] to the [[United States Senate]].<ref name="ct-baldwin-raymond" />}}
+|rowspan="2"|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1942 Connecticut gubernatorial election|1942]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William L.|Hadden}}
+|- style="height:2em;"
+|[[1944 Connecticut gubernatorial election|1944]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Charles Wilbert|Snow}}{{efn|Represented the [[Democratic Party (United States)|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|75
+|data-sort-value="Snow, Charles"|[[File:Charles Wilbert Snow (Connecticut Governor).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Charles Wilbert Snow]]'''<br>{{Small|(1884–1977)}}<br>{{sfn|Sobel|1978|pp=201–202}}<ref name="nga-snow">{{Cite web |title=Charles Wilbert Snow |url=https://www.nga.org/governor/charles-wilbert-snow/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=June 27, 2019 |archive-url=https://web.archive.org/web/20190627055005/https://www.nga.org/governor/charles-wilbert-snow/ |url-status=live}}</ref>
+|data-sort-value="13"|December 27, 1946<ref>{{Cite news |last=Schonrock |first=Keith |date=December 27, 1946 |title=Governor Baldwin Resigns, Leaves for Washington To Assume Senate Post Today |page=1 |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-snow-succeeds-baldwin-d/129418294/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20260304115000/https://www.newspapers.com/article/hartford-courant-snow-succeeds-baldwin-d/129418294/ |archive-date=March 4, 2026 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1947<br>{{small|(13 days; retired)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|76
+|data-sort-value="McConaughy, James"|[[File:James L. McConaughy (Connecticut Governor).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James L. McConaughy]]'''<br>{{Small|(1887–1948)}}<br>{{sfn|Sobel|1978|p=202}}<ref name="nga-mcconaughy">{{Cite web |title=James Lukens McConaughy |url=https://www.nga.org/governor/james-lukens-mcconaughy/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051728/https://www.nga.org/governor/james-lukens-mcconaughy/ |url-status=live}}</ref>
+|data-sort-value="425"|January 8, 1947<ref>{{cite book |title=Journal of the House of Representatives, 1947 sess. |author=Connecticut House of Representatives |page=35 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067980949&seq=121 |via=[[HathiTrust]]}}</ref><br/>–<br/>March 7, 1948<br>{{small|(425 days; died in office)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1946 Connecticut gubernatorial election|1946]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|James C.|Shannon}}
+|- style="height:2em;"
+!scope="row"|77
+|data-sort-value="Shannon, James"|[[File:James C. Shannon (CT).png|75px]]
+|'''[[James C. Shannon]]'''<br>{{Small|(1896–1980)}}<br>{{sfn|Sobel|1978|pp=202–203}}<ref name="nga-shannon">{{Cite web |title=James Coughlin Shannon |url=https://www.nga.org/governor/james-coughlin-shannon/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051724/https://www.nga.org/governor/james-coughlin-shannon/ |url-status=live}}</ref>
+|data-sort-value="305"|March 7, 1948<ref>{{Cite news |last=Schonrock |first=Keith |date=March 8, 1948 |title=J.C. Shannon Takes Oath of Office Today |page=1 |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-shannon-succeeds-mccona/129418844/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804184728/https://www.newspapers.com/article/hartford-courant-shannon-succeeds-mccona/129418844/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1949<br>{{small|(305 days; lost election)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''{{efn|[[Robert E. Parsons]] is always listed as serving as lieutenant governor during this term, but constitutionally he likely would have remained president of the senate. However, questions were raised over whether or not they should fully succeed to the next office.<ref>{{Cite news |last=Schonrock |first=Keith |date=March 31, 1948 |title=Doubt Cast on Parsons's Right to Title |page=2 |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-doubt-cast-on-parsons/118818961/ |access-date=October 15, 2026 |archive-date=September 26, 2023 |archive-url=https://web.archive.org/web/20230926104001/https://www.newspapers.com/article/hartford-courant-doubt-cast-on-parsons/118818961/ |url-status=live |via=Newspapers.com}}</ref>}}
+|- style="height:2em;"
+!scope="row"|78
+|data-sort-value="Bowles, Chester"|[[File:Chester Bowles (Connecticut Governor and Congressman).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Chester B. Bowles]]'''<br>{{Small|(1901–1986)}}<br>{{sfn|Sobel|1978|pp=203–204}}<ref name="nga-bowles">{{Cite web |title=Chester Bliss Bowles |url=https://www.nga.org/governor/chester-bliss-bowles/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217051724/https://www.nga.org/governor/chester-bliss-bowles/ |url-status=live}}</ref>
+|data-sort-value="729"|January 5, 1949<ref>{{cite book |title=Journal of the House of Representatives, 1949 sess. |author=Connecticut House of Representatives |page=29 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067981434&seq=139 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 3, 1951<br>{{small|(729 days; lost election)}}
+|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1948 Connecticut gubernatorial election|1948]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William T.|Carroll}}
+|- style="height:2em;"
+!scope="row"|79
+|data-sort-value="Lodge, John"|[[File:John D. Lodge (CT 2).png|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John Davis Lodge]]'''<br>{{Small|(1903–1985)}}<br>{{sfn|Sobel|1978|p=204}}<ref name="nga-lodge">{{Cite web |title=John Davis Lodge |url=https://www.nga.org/governor/john-davis-lodge/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214205202/https://www.nga.org/governor/john-davis-lodge/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 3, 1951<ref>{{cite book |title=Journal of the House of Representatives, 1951 sess. |author=Connecticut House of Representatives |page=32 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067980873&seq=226 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 5, 1955<br>{{small|(1464 days; lost election)}}
+|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|[[1950 Connecticut gubernatorial election|1950]]{{efn|First term under a constitution amendment which lengthened terms to four years.{{sfn|Conn. Const.|1818|loc=art. XLV}}}}
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Edward N.|Allen}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|80
+|rowspan="2" data-sort-value="Ribicoff, Abraham"|[[File:Abraham_Ribicoff_(CT).png|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Abraham Ribicoff]]'''<br>{{Small|(1910–1998)}}<br>{{sfn|Sobel|1978|p=205}}<ref name="nga-ribicoff">{{Cite web |title=Abraham Alexander Ribicoff |url=https://www.nga.org/governor/abraham-alexander-ribicoff/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214205203/https://www.nga.org/governor/abraham-alexander-ribicoff/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2209"|January 5, 1955<ref>{{cite book |title=Journal of the House of Representatives, 1955 sess. |author=Connecticut House of Representatives |page=29 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015012353028&seq=33 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 21, 1961<br>{{small|(2209 days; resigned)}}{{efn|Ribicoff resigned, having been confirmed as [[United States Secretary of Health and Human Services|United States Secretary of Health, Education, and Welfare]].<ref name="nga-ribicoff" />}}
+|rowspan="2"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1954 Connecticut gubernatorial election|1954]]
+|{{sortname|Charles W.|Jewett|dab=Connecticut politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1958 Connecticut gubernatorial election|1958]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John N.|Dempsey}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|81
+|rowspan="4" data-sort-value="Dempsey, John"|[[File:John Dempsey Connecticut.jpg|75px]]
+|rowspan="4"|'''[[John N. Dempsey]]'''<br>{{Small|(1915–1989)}}<br>{{sfn|Sobel|1978|pp=205–206}}<ref name="nga-dempsey">{{Cite web |title=John Dempsey |url=https://www.nga.org/governor/john-dempsey/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203659/https://www.nga.org/governor/john-dempsey/ |url-status=live}}</ref>
+|rowspan="4" data-sort-value="3638"|January 21, 1961<ref>{{Cite news |last=Schonrock |first=Keith |date=January 22, 1961 |title=Growth Aim of Dempsey |page=1A |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-dempsey-succeeds-ribico/129430363/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804182249/https://www.newspapers.com/article/hartford-courant-dempsey-succeeds-ribico/129430363/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1971<br>{{small|(3638 days; retired)}}
+|rowspan="4"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''{{efn|[[Anthony J. Armentano]] is always listed as serving as lieutenant governor during this term, but constitutionally he likely would have remained president of the senate. This is the last time such a confusion would exist, as the 1965 constitution established a solid line of succession.}}
+|- style="height:2em;"
+|rowspan="2"|[[1962 Connecticut gubernatorial election|1962]]
+|{{sortname|Samuel J.|Tedesco}}<br/>{{small|(resigned January 15, 1966)}}
+|- style="height:2em;"
+|{{sortname|Fred J.|Doocy}}
+|- style="height:2em;"
+|[[1966 Connecticut gubernatorial election|1966]]
+|{{sortname|Attilio R.|Frassinelli}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|82
+|rowspan="2" data-sort-value="Meskill, Thomas"|[[File:Thomas Meskill (1974).png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Thomas Meskill]]'''<br>{{Small|(1928–2007)}}<br>{{sfn|Sobel|1978|pp=206–207}}<ref name="nga-meskill">{{Cite web |title=Thomas J. Meskill |url=https://www.nga.org/governor/thomas-j-meskill/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203659/https://www.nga.org/governor/thomas-j-meskill/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 6, 1971<ref>{{cite book |title=Journal of the House of Representatives, 1971 sess. |author=Connecticut House of Representatives |page=34 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2941818&seq=52 |via=[[HathiTrust]]}}</ref><br/>–<br/>January 8, 1975<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Connecticut Republican Party|Republican]]{{sfn|Kallenbach|1977|p=89}}
+|rowspan="2"|[[1970 Connecticut gubernatorial election|1970]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|T. Clark|Hull}}<br/>{{small|(resigned June 1, 1973)}}
+|- style="height:2em;"
+|{{sortname|Peter L.|Cashman}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|83
+|rowspan="2" data-sort-value="Grasso, Ella"|[[File:Ella Grasso.jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Ella Grasso]]'''<br>{{Small|(1919–1981)}}<br>{{sfn|Sobel|1978|pp=207–208}}<ref name="nga-grasso">{{Cite web |title=Ella T. Grasso |url=https://www.nga.org/governor/ella-t-grasso/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608205041/https://www.nga.org/governor/ella-t-grasso/ |archive-date=June 8, 2026 |url-status=live}}</ref><ref name="ct-grasso">{{Cite web |title=Ella Grasso |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/ella-grasso |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 11, 2026 |archive-date=October 6, 2026 |archive-url=https://web.archive.org/web/20261006153833/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/ella-grasso |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2185"|January 8, 1975<ref>{{cite book |title=Journal of the House of Representatives, 1975 sess. |author=Connecticut House of Representatives |page=27 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2941827&seq=41 |via=[[HathiTrust]]}}</ref><br/>–<br/>December 31, 1980<br>{{small|(2185 days; resigned)}}{{efn|Grasso resigned due to illness.<ref name="nga-grasso" />}}
+|rowspan="2"|[[Democratic Party of Connecticut|Democratic]]{{sfn|Kallenbach|1977|p=89}}
+|[[1974 Connecticut gubernatorial election|1974]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Robert K.|Killian}}
+|- style="height:2em;"
+|[[1978 Connecticut gubernatorial election|1978]]
+|{{sortname|William A.|O'Neill}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|84
+|rowspan="3" data-sort-value="O'Neill, William"|[[File:William A. O'Neill 1986.png|75px]]
+|rowspan="3"|'''[[William A. O'Neill]]'''<br>{{Small|(1930–2007)}}<br>{{sfn|Mullaney|1994|pp=61–66}}<ref name="nga-oneill">{{Cite web |title=William A. O'Neill |url=https://www.nga.org/governor/william-a-oneill/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203658/https://www.nga.org/governor/william-a-oneill/ |url-status=live}}</ref><ref name="ct-oneill">{{Cite web |title=William O'Neill |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/william-oneill |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 11, 2026 |archive-url=https://web.archive.org/web/20260827152728/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/william-oneill |archive-date=August 27, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="3662"|December 31, 1980<ref>{{Cite news |last=Murphy |first=Robert F. |date=January 1, 1981 |title=O'Neill Sworn In at Brief Capitol Ceremony |page=A1 |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-oneill-succeeds-grasso/129430636/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804184737/https://www.newspapers.com/article/hartford-courant-oneill-succeeds-grasso/129430636/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 9, 1991<br>{{small|(3662 days; retired)}}
+|rowspan="3"|[[Democratic Party of Connecticut|Democratic]]<ref name="ct-oneill" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="3"|{{sortname|Joseph J.|Fauliso}}
+|- style="height:2em;"
+|[[1982 Connecticut gubernatorial election|1982]]
+|- style="height:2em;"
+|[[1986 Connecticut gubernatorial election|1986]]
+|- style="height:2em;"
+!scope="row"|85
+|data-sort-value="Weicker, Lowell"|[[File:Lweicker.jpg|75px]]
+|style="color:inherit;background:{{party color|A Connecticut Party}};" title="Represented A Connecticut Party"|
+|'''[[Lowell Weicker]]'''<br>{{Small|(1931–2023)}}<br>{{sfn|Mullaney|1994|pp=67–72}}<ref name="nga-weicker">{{Cite web |title=Lowell P. Weicker |url=https://www.nga.org/governor/lowell-p-weicker/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=December 2, 2023 |archive-url=https://web.archive.org/web/20231202094043/https://www.nga.org/governor/lowell-p-weicker/ |url-status=live}}</ref><ref name="ct-weicker">{{Cite web |title=Lowell Weicker Jr. |url=https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/lowell-weicker-jr |access-date=October 15, 2026 |website=[[Connecticut State Library]] |date=May 11, 2026 |archive-date=August 27, 2026 |archive-url=https://web.archive.org/web/20260827150734/https://portal.ct.gov/museumofcthistory/knowledge-base/articles/resources/governor-biographies/lowell-weicker-jr |url-status=live}}</ref>
+|data-sort-value="1457"|January 9, 1991<ref>{{Cite news |last=Jacklin |first=Michele |date=January 10, 1991 |title=Sacrifices Needed, Weicker Says |page=A1 |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-weicker-inaugurated-jan/129431631/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804184745/https://www.newspapers.com/article/hartford-courant-weicker-inaugurated-jan/129431631/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 4, 1995<br>{{small|(1457 days; retired)}}
+|[[A Connecticut Party|A Connecticut<br>Party]]<ref name="ct-weicker" />
+|[[1990 Connecticut gubernatorial election|1990]]
+|style="color:inherit;background:{{party color|A Connecticut Party}};" title="Represented A Connecticut Party"|
+|{{sortname|Eunice|Groark}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|86
+|rowspan="3" data-sort-value="Rowland, John"|[[File:John Rowland (cropped).jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[John G. Rowland]]'''<br>{{Small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-rowland">{{Cite web |title=John G. Rowland |url=https://www.nga.org/governor/john-g-rowland/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415041555/https://www.nga.org/governor/john-g-rowland/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="3467"|January 4, 1995<ref>{{Cite news |last=Jacklin |first=Michele |date=January 5, 1995 |title=New Governor Vows 'No More Fountain of Endless Favors' |page=A1 |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-rowland-inaugurated-jan/129431713/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804185542/https://www.newspapers.com/article/hartford-courant-rowland-inaugurated-jan/129431713/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>July 1, 2004<br>{{small|(3467 days; resigned)}}{{efn|Rowland resigned due to a federal corruption investigation;<ref>{{Cite news |last=Yardley |first=William |date=June 22, 2004 |title=Connecticut's Governor Steps Down |newspaper=[[The New York Times]] |url=https://www.nytimes.com/2004/06/22/nyregion/connecticut-s-governor-steps-down-overview-under-pressure-rowland-resigns.html |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20250720033746/https://www.nytimes.com/2004/06/22/nyregion/connecticut-s-governor-steps-down-overview-under-pressure-rowland-resigns.html |archive-date=July 20, 2025 |url-status=live}}</ref> he later pleaded guilty to corruption.<ref>{{Cite news |last=McFadden |first=Robert D. |date=December 24, 2004 |title=An Ex-Governor Says He's Guilty |newspaper=[[The New York Times]] |url=https://www.nytimes.com/2004/12/24/nyregion/an-exgovernor-says-hes-guilty.html |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20241202193327/https://www.nytimes.com/2004/12/24/nyregion/an-exgovernor-says-hes-guilty.html |archive-date=December 2, 2024 |url-status=live}}</ref>}}
+|rowspan="3"|[[Connecticut Republican Party|Republican]]<ref name="nga-rowland" />
+|[[1994 Connecticut gubernatorial election|1994]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Jodi|Rell}}
+|- style="height:2em;"
+|[[1998 Connecticut gubernatorial election|1998]]
+|- style="height:2em;"
+|[[2002 Connecticut gubernatorial election|2002]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|87
+|rowspan="2" data-sort-value="Rell, Jodi"|[[File:Jodi Rell 2007.jpg|75px]]
+|rowspan="2"|'''[[Jodi Rell]]'''<br>{{Small|(1946–2024)}}<br><ref name="nga-rell">{{Cite web |title=M. Jodi Rell |url=https://www.nga.org/governor/m-jodi-rell/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203658/https://www.nga.org/governor/m-jodi-rell/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2380"|July 1, 2004<ref>{{Cite news |last1=Pazniokas |first1=Mark |last2=Keating |first2=Christopher |date=July 2, 2004 |title=New Governor Vows To End 'Culture of Corruption' |page=A1 |newspaper=[[Hartford Courant]] |url=https://www.newspapers.com/article/hartford-courant-rell-succeeds-rowland-j/129431773/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804184743/https://www.newspapers.com/article/hartford-courant-rell-succeeds-rowland-j/129431773/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 2011<br>{{small|(2380 days; retired)}}
+|rowspan="2"|[[Connecticut Republican Party|Republican]]<ref name="nga-rell" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Kevin|Sullivan|dab=politician}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[2006 Connecticut gubernatorial election|2006]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Michael|Fedele}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|88
+|rowspan="2" data-sort-value="Malloy, Dannel"|[[File:Dannel Malloy 2016.jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Dannel Malloy]]'''<br>{{Small|({{Abbr|b.|born in}} 1955)}}<br><ref name="nga-malloy">{{Cite web |title=Dannel Malloy |url=https://www.nga.org/governor/dannel-malloy/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214203658/https://www.nga.org/governor/dannel-malloy/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 5, 2011<ref>{{Cite news |last=Haigh |first=Susan |date=January 6, 2011 |title=Malloy Becomes 88th Governor |page=1 |newspaper=[[Record-Journal]] |agency=Associated Press |location=Hartford, Connecticut |publication-place=Meriden, Connecticut |url=https://www.newspapers.com/article/record-journal-malloy-inaugurated-januar/129431874/ |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20260302070815/https://www.newspapers.com/article/record-journal-malloy-inaugurated-januar/129431874/ |archive-date=March 2, 2026 |url-status=live |via=Newspapers.com}}</ref><br/>–<br>January 9, 2019<br>{{small|(2927 days; retired)}}
+|rowspan="2"|[[Democratic Party of Connecticut|Democratic]]<ref name="nga-malloy" />
+|[[2010 Connecticut gubernatorial election|2010]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Nancy|Wyman}}
+|- style="height:2em;"
+|[[2014 Connecticut gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|89
+|rowspan="3" data-sort-value="Lamont, Ned"|[[File:Governor Ned Lamont of Connecticut, official portrait (cropped).jpg|75px]]
+|rowspan="3"|'''[[Ned Lamont]]'''<br>{{Small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-lamont">{{Cite web |title=Ned Lamont |url=https://www.nga.org/governor/ned-lamont/ |access-date=October 15, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260819010143/https://www.nga.org/governor/ned-lamont/ |archive-date=August 19, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="{{Duration in days nts|2019|1|9|duration=on|format=no}}"|January 9, 2019<ref>{{Cite news |last1=Savino |first1=Mike |last2=Godin |first2=Mary Ellen |date=January 10, 2019 |title=Lamont Calls Inauguration a 'Fresh Start' |page=A1 |newspaper=[[Record-Journal]] |location=Hartford, Connecticut |publication-place=Meriden, Connecticut |url=https://www.newspapers.com/article/record-journal-lamont-inaugurated-januar/129431960/ |access-date=October 15, 2026 |archive-date=August 4, 2023 |archive-url=https://web.archive.org/web/20230804184741/https://www.newspapers.com/article/record-journal-lamont-inaugurated-januar/129431960/ |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>Incumbent{{efn|Lamont's second term began on January 4, 2023,<ref>{{Cite news |last=Udoma |first=Ebong |date=January 4, 2023 |title=Lamont sworn-in for second term as Connecticut's governor, promises tax cuts |url=https://www.wshu.org/connecticut-news/2023-01-04/lamont-sworn-in-for-second-term-as-connecticuts-governor-promises-tax-cuts |access-date=October 15, 2026 |website=[[WSHU (AM)|WSHU]] |archive-url=https://web.archive.org/web/20260215142444/https://www.wshu.org/connecticut-news/2023-01-04/lamont-sworn-in-for-second-term-as-connecticuts-governor-promises-tax-cuts |archive-date=February 15, 2026 |url-status=live}}</ref> and [[2026 Connecticut gubernatorial election|will expire]] on January 6, 2027; he was elected to a third term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2019|1|9|duration=on|format=no}} days)}}
+|rowspan="3"|[[Democratic Party of Connecticut|Democratic]]<ref name="nga-lamont" />
+|[[2018 Connecticut gubernatorial election|2018]]
+|rowspan="3"|{{sortname|Susan|Bysiewicz}}
+|- style="height:2em;"
+|[[2022 Connecticut gubernatorial election|2022]]
+|- style="height:2em;"
+|[[2026 Connecticut gubernatorial election|2026]]
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Connecticut governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1775.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1780
+ScaleMinor = unit:year increment:1 start:1776
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year       value:rgb(0.8, 0.8, 0.8)
+  id:0year       value:rgb(0.6, 0.6, 0.6)
+  id:noparty     value:rgb(0.7, 0.7, 0.7)
+  id:fed         value:rgb(0, 0, 0)
+  id:tolerate    value:rgb(0.24, 0.31, 0.74)
+  id:demrep      value:rgb(0, 0.5, 0)
+  id:natrep      value:rgb(1, 0.9, 0.69)
+  id:dem         value:rgb(0.2, 0.2, 1)
+  id:american    value:rgb(0.85, 0.62, 0.91)
+  id:whig        value:rgb(0.88, 0.67, 0.46)
+  id:rep         value:rgb(0.91, 0.11, 0.14)
+  id:connecticut value:rgb(1, 0.65, 0)
+  id:seat1       value:rgb(0.60,0.10,0.10)
+  id:blank       value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1792 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1776.78 till:1784.37 color:noparty text:"Jonathan Trumbull"
+ from:1784.37 till:1786.36 color:noparty text:"Matthew Griswold"
+ from:1789 till:1796.01 color:fed text:"Samuel Huntington"
+ from:1796.01 till:1797.92 color:fed text:"Oliver Wolcott"
+ from:1797.92 till:1809.6 color:fed text:"Jonathan Trumbull Jr."
+ from:1809.6 till:1811.35 color:fed text:"John Treadwell"
+ from:1811.35 till:1812.82 color:fed text:"Roger Griswold"
+ from:1812.82 till:1817.35 color:fed text:"John Cotton Smith"
+ from:1819 till:1827.33 color:demrep text:"Oliver Wolcott Jr."
+ from:1828 till:1831.17 color:natrep text:"Gideon Tomlinson"
+ from:1831.17 till:1833.34 color:natrep text:"John Samuel Peters"
+ from:1835.35 till:1838.34 color:dem text:"Henry W. Edwards"
+ from:1834.35 till:1835.35 color:whig text:"Samuel A. Foot"
+ from:1838.34 till:1842.35 color:whig text:"William W. Ellsworth"
+ from:1842.35 till:1844.34 color:dem text:"Chauncey F. Cleveland"
+ from:1844.34 till:1846.35 color:whig text:"Roger Sherman Baldwin"
+ from:1846.35 till:1847.34 color:dem text:"Isaac Toucey"
+ from:1847.34 till:1849.34 color:whig text:"Clark Bissell"
+ from:1849.34 till:1850.33 color:whig text:"Joseph Trumbull"
+ from:1850.33 till:1853.78 color:dem text:"Thomas H. Seymour"
+ from:1853.78 till:1854.34 color:dem text:"Charles H. Pond"
+ from:1854.34 till:1855.34 color:whig text:"Henry Dutton"
+ from:1855.34 till:1857.35 color:american text:"William T. Minor"
+ from:1857.35 till:1858.34 color:rep text:"Alexander H. Holley"
+ from:1858.34 till:1866.33 color:rep text:"William A. Buckingham"
+ from:1866.33 till:1867.33 color:rep text:"Joseph R. Hawley"
+ from:1870.34 till:1871.37 color:dem text:"James E. English"
+ from:1871.37 till:1873.35 color:rep text:"Marshall Jewell"
+ from:1873.35 till:1877.01 color:dem text:"Charles Roberts Ingersoll"
+ from:1877.01 till:1879.02 color:dem text:"Richard D. Hubbard"
+ from:1879.02 till:1881.01 color:rep text:"Charles B. Andrews"
+ from:1881.01 till:1883.01 color:rep text:"Hobart B. Bigelow"
+ from:1883.01 till:1885.02 color:dem text:"Thomas M. Waller"
+ from:1885.02 till:1887.02 color:rep text:"Henry Baldwin Harrison"
+ from:1887.02 till:1889.03 color:rep text:"Phineas C. Lounsbury"
+ from:1889.03 till:1893.01 color:rep text:"Morgan Bulkeley"
+ from:1893.01 till:1895.02 color:dem text:"Luzon B. Morris"
+ from:1895.02 till:1897.02 color:rep text:"Owen Vincent Coffin"
+ from:1897.02 till:1899.01 color:rep text:"Lorrin A. Cooke"
+ from:1899.01 till:1901.02 color:rep text:"George E. Lounsbury"
+ from:1901.02 till:1903.02 color:rep text:"George P. McLean"
+ from:1903.02 till:1905.01 color:rep text:"Abiram Chamberlain"
+ from:1905.01 till:1907.02 color:rep text:"Henry Roberts"
+ from:1907.02 till:1909.02 color:rep text:"Rollin S. Woodruff"
+ from:1909.02 till:1909.3 color:rep text:"George L. Lilley"
+ from:1909.3 till:1911.01 color:rep text:"Frank B. Weeks"
+ from:1911.01 till:1915.02 color:dem text:"Simeon E. Baldwin"
+ from:1915.02 till:1921.01 color:rep text:"Marcus H. Holcomb"
+ from:1921.01 till:1923.01 color:rep text:"Everett J. Lake"
+ from:1923.01 till:1925.02 color:rep text:"Charles A. Templeton"
+ from:1925.02 till:1925.02 color:rep text:"Hiram Bingham III"
+ from:1925.02 till:1931.02 color:rep text:"John H. Trumbull"
+ from:1931.02 till:1939.01 color:dem text:"Wilbur Lucius Cross"
+ from:1943.02 till:1946.99 color:rep text:"Raymond E. Baldwin"
+ from:1941.02 till:1943.02 color:dem text:"Robert A. Hurley"
+ from:1946.99 till:1947.02 color:dem text:"Charles Wilbert Snow"
+ from:1947.02 till:1948.18 color:rep text:"James L. McConaughy"
+ from:1948.18 till:1949.01 color:rep text:"James C. Shannon"
+ from:1949.01 till:1951.01 color:dem text:"Chester B. Bowles"
+ from:1951.01 till:1955.01 color:rep text:"John Davis Lodge"
+ from:1955.01 till:1961.06 color:dem text:"Abraham Ribicoff"
+ from:1961.06 till:1971.02 color:dem text:"John N. Dempsey"
+ from:1971.02 till:1975.02 color:rep text:"Thomas Meskill"
+ from:1975.02 till:1981 color:dem text:"Ella Grasso"
+ from:1981 till:1991.02 color:dem text:"William A. O'Neill"
+ from:1991.02 till:1995.01 color:connecticut text:"Lowell Weicker"
+ from:1995.01 till:2004.5 color:rep text:"John G. Rowland"
+ from:2004.5 till:2011.01 color:rep text:"Jodi Rell"
+ from:2011.01 till:2019.02 color:dem text:"Dannel Malloy"
+ from:2019.02 till:$now color:dem text:"Ned Lamont"
+
+LineData=
+ from:1786.36 till:1789 atpos:1223 color:noparty width:6 # SH noparty
+ from:1817.35 till:1819 atpos:1117 color:tolerate width:6 # OWJr. tolerate
+ from:1827.33 till:1828 atpos:1099 color:demrep width:6 # GT demrep
+ from:1833.34 till:1834.35 atpos:1064 color:dem width:6 # HWE 1st term
+ from:1867.33 till:1869.34 atpos:797 color:dem width:6 # JEE 1st term
+ from:1869.34 till:1870.34 atpos:780 color:rep width:6 # MJ 1st term
+ from:1939.01 till:1941.02 atpos:318 color:rep width:6 # REB 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1780.00 width:0.1 color:0year
+ at:1785.00 width:0.1 color:5year
+ at:1790.00 width:0.1 color:0year
+ at:1795.00 width:0.1 color:5year
+ at:1800.00 width:0.1 color:0year
+ at:1805.00 width:0.1 color:5year
+ at:1810.00 width:0.1 color:0year
+ at:1815.00 width:0.1 color:5year
+ at:1820.00 width:0.1 color:0year
+ at:1825.00 width:0.1 color:5year
+ at:1830.00 width:0.1 color:0year
+ at:1835.00 width:0.1 color:5year
+ at:1840.00 width:0.1 color:0year
+ at:1845.00 width:0.1 color:5year
+ at:1850.00 width:0.1 color:0year
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+{{Portal|Connecticut}}
+*{{slink|Gubernatorial lines of succession in the United States#Connecticut}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Governors of Connecticut |url=https://www.nga.org/former-governors/connecticut/ |access-date=October 15, 2026 |website=[[National Governors Association]]}}
+* {{Cite web |title=Governors and Deputy or Lieutenant Governors |url=https://portal.ct.gov/sots/register-manual/section-i/governors--lieutenant-governors |access-date=October 15, 2026 |website=[[Secretary of the State of Connecticut]]}}
+* {{Cite web |title=Our Campaigns - Governor of Connecticut - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=208 |access-date=October 15, 2026 |website=www.ourcampaigns.com}}
+* {{cite web |title=Connecticut Constitution |year=1965 |url=https://50constitutions.org/ct/constitution |ref={{sfnref|Conn. Const.|1965}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 15, 2026}}
+* {{cite web |year=1818 |url=https://www.cga.ct.gov/asp/content/constitutions/1818Constitution.htm |title=Connecticut Constitution |access-date=October 15, 2026 |archive-url=https://web.archive.org/web/20261005223434/https://www.cga.ct.gov/asp/content/constitutions/1818Constitution.htm |archive-date=October 5, 2026 |url-status=live |website=[[Connecticut General Assembly]] |ref={{sfnref|Conn. Const.|1818}}}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0}}
+* {{Cite book |last1=Loomis |first1=Dwight |url=https://books.google.com/books?id=86osAAAAIAAJ&pg=PA114 |title=The Judicial and Civil History of Connecticut |last2=Joseph Gilbert Calhoun |publisher=The Boston History Company |year=1895 |pages=114–117}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons01thor/ |volume=1 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{commons category | Governors of Connecticut}}
+*[https://portal.ct.gov/governor Office of the Governor of Connecticut]
+
+{{Connecticut}}
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Governors of Connecticut}}
+{{Connecticut Constitutional Officers}}
+
+{{featured list}}
+
+{{DEFAULTSORT:Connecticut, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Connecticut| ]]
+[[Category:Lists of Connecticut politicians|Governors]]
+[[Category:Connecticut history-related lists|Governors]]

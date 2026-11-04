@@ -1,0 +1,1298 @@
+{{Short description|none}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=November 2025}}
+{{More citations needed|date=September 2020}}
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Georgia (U.S. state)|Georgia]]:
+*[[List of governors of Georgia|Governor]]
+*[[Lieutenant Governor of Georgia|Lieutenant Governor]]
+*[[Georgia Secretary of State|Secretary of State]]
+*[[Attorney General of Georgia|Attorney General]]
+*State School Superintendent
+*Commissioner of Agriculture
+*Commissioner of Insurance
+*Commissioner of Labor
+
+The table also indicates the historical party composition in the:
+*[[Georgia State Senate|State Senate]]
+*[[Georgia House of Representatives|State House of Representatives]]
+*[[Georgia Public Service Commission|State Public Service Commission]]
+*[[List of United States senators from Georgia|State delegation to the United States Senate]]
+*[[List of United States representatives from Georgia|State delegation to the United States House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+Darker shading indicates confirmed partisan affiliation or majority; lighter shading indicates likely, but unconfirmed, partisan affiliation or majority.
+
+==1775–1788==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=3 |Executive offices
+!rowspan=2 class=unsortable |[[Georgia General Assembly|General Assembly]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Georgia|Governor]]
+!class=unsortable |[[Georgia Secretary of State|Sec. of State]]
+!class=unsortable |[[Attorney General of Georgia|Atty. Gen.]]
+|- style="height:2em"
+!rowspan=2 |1775
+|[[William Ewen]] {{small|(NP/W)}}{{efn |name=safety|President of Council of Safety.}}{{efn |name=whig|Not a formal political party, and not to be confused with the 19th-century [[Whig Party (United States)|Whig Party]].}}
+|rowspan=5 |''No such office''
+|rowspan=2 |''No such office''
+|rowspan=99|{{data missing|?|date=May 2024}}
+|- style="height:2em"
+|rowspan=2 |[[George Walton]] {{small|(NP/W)}}{{efn |name=safety}}{{efn |name=whig}}
+|- style="height:2em"
+!rowspan=3 |1776
+|rowspan=11 |[[Williams Stephens]]
+|- style="height:2em"
+|William Ewen {{small|(NP/W)}}{{efn |name=safety}}{{efn |name=whig}}
+|- style="height:2em"
+|rowspan=2 |[[Archibald Bulloch]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |name=president|President of Georgia.}}{{efn |name=died|Died in office.}}
+|- style="height:2em"
+!rowspan=3 |1777
+|rowspan=31 {{Party shading/Federalist}} |[[John Milton (Georgia politician)|John Milton]] {{small|(F)}}
+|- style="height:2em"
+|[[Button Gwinnett]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |name=president}}{{efn |Died in office; after losing his bid for re-election, Gwinnett was wounded in [[Gwinnett–McIntosh duel|a duel]] with [[Lachlan McIntosh]] on May 6, 1777 and died of his wounds two days later.}}
+|- style="height:2em"
+|[[John A. Treutlen]] {{small|(NP/W)}}{{efn |name=whig}}
+|- style="height:2em"
+!1778
+|[[John Houstoun]] {{small|(NP/W)}}{{efn |name=whig}}
+|- style="height:2em"
+!rowspan=4 |1779
+|[[William Glascock]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |name=exec|President of Executive Council.}}
+|- style="height:2em"
+|[[Seth John Cuthbert]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |Temporary governor.}}{{efn |name=supreme|President of Supreme Executive Council.}}
+|- style="height:2em"
+|[[John Wereat]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |name=supreme}}
+|- style="height:2em"
+|[[George Walton]] {{small|(NP/W)}}{{efn |name=whig}}
+|- style="height:2em"
+!rowspan=4 |1780
+|[[Richard Howly]] {{small|(NP/W)}}{{efn |name=whig}}
+|rowspan=4 |[[John Milledge]]
+|- style="height:2em"
+|[[Humphrey Wells]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |Resigned in favor of Stephen Heard.}}
+|- style="height:2em"
+|[[Stephen Heard]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |name=exec}}
+|- style="height:2em"
+|rowspan=2 |[[Myrick Davies]] {{small|(NP/W)}}{{efn |name=whig}}{{efn |name=exec}}
+|- style="height:2em"
+!rowspan=2 |1781
+|rowspan=5 |[[Samuel Stirk]]
+|- style="height:2em"
+|[[Nathan Brownson]] {{small|(NP)}}
+|- style="height:2em"
+!1782
+|[[John Martin (Governor of Georgia)|John Martin]] {{small|(NP)}}
+|- style="height:2em"
+!1783
+|[[Lyman Hall]] {{small|(NP)}}
+|- style="height:2em"
+!1784
+|John Houstoun {{small|(NP)}}
+|- style="height:2em"
+!1785
+|[[Samuel Elbert]] {{small|(NP)}}
+|rowspan=2 |[[Nathaniel Pendleton]]
+|- style="height:2em"
+!1786
+|[[Edward Telfair]] {{small|(NP)}}
+|- style="height:2em"
+!1787
+|[[George Mathews (Georgia politician)|George Mathews]] {{small|(NP)}}
+|rowspan=2 |[[Matthew Hall McAllister]]
+|- style="height:2em"
+!1788
+|[[George Handley (politician)|George Handley]] {{small|(NP)}}
+|}
+
+==1789–1874==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=3 |Executive offices
+!colspan=2 |[[Georgia General Assembly|General Assembly]]
+!colspan=3 |[[Georgia's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Georgia|Governor]]
+!class=unsortable |[[Georgia Secretary of State|Sec. of State]]
+!class=unsortable |[[Attorney General of Georgia|Atty. Gen.]]
+!class=unsortable |[[Georgia State Senate|State Senate]]
+!class=unsortable |[[Georgia House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Georgia|U.S. Senator (Class II)]]
+!class=unsortable |[[List of United States senators from Georgia|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from Georgia|U.S. House]]
+|- style="height:2em"
+!1789
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[George Walton]] {{small|(DR)}}
+|rowspan=10 {{Party shading/Federalist}} |[[John Milton (Georgia politician)|John Milton]] {{small|(F)}}
+|rowspan=3 |[[Matthew Hall McAllister]]
+|colspan=2 rowspan=52 |''{{Data missing|?|date=July 2021}}''
+|rowspan=4 {{Party shading/Anti-Administration}} |[[William Few]] {{small|(AA)}}
+|rowspan=6 {{Party shading/Anti-Administration}} |[[James Gunn (Georgia politician)|James Gunn]] {{small|(AA)}}
+|rowspan=4 {{Party shading/Anti-Administration}} |3AA
+|rowspan=7 {{Party shading/Independent}} |[[George Washington]] {{small|(I)}} {{aye}}
+|- style="height:2em"
+!1790
+|- style="height:2em"
+!1791
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Edward Telfair]] {{small|(DR)}}
+|- style="height:2em"
+!1792
+|rowspan=4 |[[George Walker (Georgia)|George Walker]]
+|- style="height:2em"
+!1793
+|rowspan=2 {{Party shading/Anti-Administration}} |[[James Jackson (Georgia politician)|James Jackson]] {{small|(AA)}}
+|rowspan=2 {{Party shading/Anti-Administration}} |2AA
+|- style="height:2em"
+!1794
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[George Mathews (Georgia politician)|George Mathews]] {{small|(DR)}}
+|- style="height:2em"
+!1795
+|{{Party shading/Democratic-Republican}} |[[James Jackson (Georgia politician)|James Jackson]] {{small|(DR)}}
+|rowspan=6 {{Party shading/Federalist}} |[[James Gunn (Georgia politician)|James Gunn]] {{small|(F)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |2DR
+|- style="height:2em"
+!1796
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Jared Irwin]] {{small|(DR)}}
+|rowspan=14 {{Party shading/Democratic-Republican}} |[[David Brydie Mitchell]] {{small|(DR)}}
+|{{Party shading/Federalist}} |[[George Walton]] {{small|(F)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]] {{small|(DR)}} {{nay}}
+|- style="height:2em"
+!1797
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Josiah Tattnall (politician)|Josiah Tattnall]] {{small|(DR)}}
+|- style="height:2em"
+!1798
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Jackson (Georgia politician)|James Jackson]] {{small|(DR-J)}}{{efn |name=res-senate|Resigned to take elected seat in the [[United States Senate]].}}
+|- style="height:2em"
+!1799
+|rowspan=15 |[[Horatio Marbury]]
+|rowspan=11 {{Party shading/Democratic-Republican}} |[[Abraham Baldwin]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Federalist}} |2F
+|- style="height:2em"
+!1800
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]]/<br>[[Aaron Burr]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1801
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[James Jackson (Georgia politician)|James Jackson]] {{small|(DR)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |2DR
+|- style="height:2em"
+|{{Party shading/Democratic-Republican}} |[[David Emanuel (politician)|David Emanuel]] {{small|(DR-J)}}{{efn |name=presfilled|As president of the state Senate, filled unexpired term.}}
+|- style="height:2em"
+!rowspan=2 |1802
+|{{Party shading/Democratic-Republican}} |[[Josiah Tattnall (politician)|Josiah Tattnall]] {{small|(DR-J)}}{{efn |Resigned due to declining health.}}
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic-Republican}} |John Milledge {{small|(DR-J)}}{{efn |name=res-senate}}
+|- style="height:2em"
+!1803
+|rowspan=11 {{Party shading/Democratic-Republican}} |4DR
+|- style="height:2em"
+!1804
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]]/<br>[[George Clinton (vice president)|George Clinton]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!1805
+|- style="height:2em"
+!rowspan=2 |1806
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[John Milledge]] {{small|(DR)}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic-Republican}} |Jared Irwin {{small|(DR-J)}}{{efn |name=presfilled}}
+|- style="height:2em"
+!1807
+|[[Robert Walker (Georgia politician)|Robert Walker]]
+|{{Party shading/Democratic-Republican}} |[[George Jones (Georgia politician)|George Jones]] {{small|(DR)}}
+|- style="height:2em"
+!1808
+|[[John Hamil]]
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[William H. Crawford]] {{small|(DR)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison]]/<br>[[George Clinton (vice president)|George Clinton]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!1809
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Forsyth (politician)|John Forsyth]] {{small|(DR)}}
+|- style="height:2em"
+!1810
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[David Brydie Mitchell]] {{small|(DR-J)}}
+|rowspan=10 {{Party shading/Democratic-Republican}} |[[Charles Tait (politician)|Charles Tait]] {{small|(DR)}}
+|- style="height:2em"
+!1811
+|rowspan=14 |[[Abner Hammond]]
+|[[Alexander M. Allen]]
+|- style="height:2em"
+!1812
+|{{Party shading/Democratic-Republican}} |[[Richard H. Wilde]] {{small|(DR)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison]]/<br>[[Elbridge Gerry]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!1813
+|rowspan=3 |Alexander M. Allen
+|{{Party shading/Democratic-Republican}} |[[William B. Bulloch]] {{small|(DR)}}
+|rowspan=12 {{Party shading/Democratic-Republican}} |6DR
+|- style="height:2em"
+!1814
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Peter Early]] {{small|(DR-J)}}
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[William W. Bibb]] {{small|(DR)}}
+|- style="height:2em"
+!1815
+|- style="height:2em"
+!1816
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[David Brydie Mitchell]] {{small|(DR-J)}}{{efn |Resigned to become agent to the [[Muscogee|Creek people]].}}
+|rowspan=8 |[[Roger Lawson Gamble]]
+|rowspan=10 {{Party shading/Democratic-Republican}} |[[James Monroe]]/<br>[[Daniel D. Tompkins]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1817
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[George Troup]] {{small|(DR)}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[William Rabun]] {{small|(DR-T)}}{{efn |name=died}}{{efn |name=presfilled}}{{efn |The Troup party was essentially the continuation of the Jackson faction (followers of James Jackson).}}
+|- style="height:2em"
+!1818
+|- style="height:2em"
+!rowspan=2 |1819
+|{{Party shading/Democratic-Republican}} |[[John Forsyth (politician)|John Forsyth]] {{small|(DR)}}
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[John Elliott (Georgia politician)|John Elliott]] {{small|(DR)}}
+|- style="height:2em"
+|{{Party shading/Democratic-Republican}} |[[Matthew Talbot]] {{small|(DR-C)}}{{efn |name=presfilled}}
+|''vacant''
+|- style="height:2em"
+!1820
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[John Clark (Georgia governor)|John Clark]] {{small|(DR-C)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Freeman Walker]] {{small|(DR)}}
+|- style="height:2em"
+!1821
+|- style="height:2em"
+!1822
+|rowspan=5 |[[Thomas F. Wells]]
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Nicholas Ware]] {{small|(DR)}}
+|- style="height:2em"
+!1823
+|rowspan=10 |[[Everard Hamilton]]
+|rowspan=2 {{Party shading/Democratic-Republican}} |7DR
+|- style="height:2em"
+!1824
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[George Troup]] {{small|(DR-T)}}
+|{{Party shading/Democratic-Republican}} |[[Thomas W. Cobb]] {{small|(DR)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[William H. Crawford]]/<br>[[Nathaniel Macon]] {{small|(DR)}} {{nay}}
+|- style="height:2em"
+!1825
+|rowspan=3 {{Party shading/Jacksonian}} |[[Thomas W. Cobb]] {{small|(J)}}
+|rowspan=4 {{Party shading/Jacksonian}} |[[John M. Berrien]] {{small|(J)}}
+|rowspan=8 {{Party shading/Jacksonian}} |7J
+|- style="height:2em"
+!1826
+|- style="height:2em"
+!1827
+|rowspan=4 |[[George W. Crawford]]
+|- style="height:2em"
+!1828
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Forsyth (politician)|John Forsyth]] {{small|(DR-T)}}
+|{{Party shading/Jacksonian}} |[[Oliver H. Prince]] {{small|(J)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson]]/<br>[[John C. Calhoun]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1829
+|rowspan=5 {{Party shading/Jacksonian}} |[[George Troup]] {{small|(J)}}
+|''vacant''
+|- style="height:2em"
+!1830
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[George R. Gilmer]] {{small|(DR-T)}}
+|rowspan=4 {{Party shading/Jacksonian}} |[[John Forsyth (politician)|John Forsyth]] {{small|(J)}}
+|- style="height:2em"
+!1831
+|rowspan=3 {{Party shading/Democratic}} |[[Charles J. Jenkins]] {{small|(D)}}
+|- style="height:2em"
+!1832
+|rowspan=4 {{Party shading/Democratic}} |[[Wilson Lumpkin]] {{small|(U)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson]]/<br>[[Martin Van Buren]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1833
+|rowspan=10 |[[William A. Tennille]]
+|rowspan=3 {{Party shading/Jacksonian}} |9J
+|- style="height:2em"
+!1834
+|rowspan=6 |[[Ebenezer Starnes]]
+|rowspan=3 {{Party shading/Jacksonian}} |[[John Pendleton King]] {{small|(J)}}
+|''vacant''
+|- style="height:2em"
+!1835
+|rowspan=2 {{Party shading/Jacksonian}} |[[Alfred Cuthbert]] {{small|(J)}}
+|- style="height:2em"
+!1836
+|rowspan=2 {{Party shading/Democratic}} |[[William Schley]] {{small|(U)}}
+|{{Party shading/Unionist}} |54U, 31{{abbr|SR|Southern Rights}}
+|{{Party shading/Unionist}} |102U, 68{{abbr|SR|Southern Rights}}
+|{{Party shading/Jacksonian}} |7J, 2NR
+|rowspan=4 {{Party shading/Whig}} |[[Hugh Lawson White]]/<br>[[John Tyler]] {{small|(W)}} {{nay}}
+|- style="height:2em"
+!1837
+|''{{Data missing|?|date=July 2021}}''
+|''{{Data missing|?|date=July 2021}}''
+|{{Party shading/Democratic}} |[[John Pendleton King]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Alfred Cuthbert]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |8D, 1W
+|- style="height:2em"
+!1838
+|rowspan=2 {{Party shading/Whig}} |[[George R. Gilmer]] {{small|(SR)}}
+|{{Party shading/Dixiecrat}} |50{{abbr|SR|Southern Rights}}, 42U
+|{{Party shading/Dixiecrat}} |103{{abbr|SR|Southern Rights}}, 88U
+|rowspan=3 {{Party shading/Democratic}} |[[Wilson Lumpkin]] {{small|(D)}}
+|- style="height:2em"
+!1839
+|{{Party shading/Unionist}} |50U, 37{{abbr|SR|Southern Rights}}
+|{{Party shading/Unionist}} |96U, 76{{abbr|SR|Southern Rights}}
+|rowspan=3 {{Party shading/Whig}} |9W
+|- style="height:2em"
+!1840
+|rowspan=4 {{Party shading/Democratic}} |[[Charles James McDonald]] {{small|(U)}}
+|rowspan=3 |[[James Gardner (Georgia)|James Gardner]]
+|{{Party shading/Dixiecrat}} |46{{abbr|SR|Southern Rights}}, 28U, 1&nbsp;tie
+|{{Party shading/Unionist}} |102U, 94{{abbr|SR|Southern Rights}}, 1?
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison]]/<br>[[John Tyler]] {{small|(W)}} {{aye}}
+|- style="height:2em"
+!1841
+|{{Party shading/Whig}} |48W, 44D
+|{{Party shading/Whig}} |118W, 88D
+|rowspan=4 {{Party shading/Whig}} |John M. Berrien {{small|(W)}}
+|- style="height:2em"
+!1842
+|{{Party shading/Democratic}} |51D, 38W, 1&nbsp;tie
+|{{Party shading/Democratic}} |109D, 91W, 2&nbsp;ties
+|{{Party shading/Whig}} |6W, 3D
+|- style="height:2em"
+!1843
+|rowspan=6 {{Party shading/Democratic}} |[[Nathan Crawford Barnett]] {{small|(D)}}
+|rowspan=4 |[[John J. R. Flournoy]]
+|{{Party shading/Democratic}} |55D, 36W, 2&nbsp;ties
+|{{Party shading/Democratic}} |118D, 87W, 2&nbsp;ties
+|rowspan=5 {{Party shading/Democratic}} |[[Walter T. Colquitt]] {{small|(D)}}
+|{{Party shading/Democratic}} |8D
+|- style="height:2em"
+!1844
+|rowspan=4 {{Party shading/Whig}} |[[George W. Crawford]] {{small|(W)}}
+|rowspan=2 {{Party shading/Democratic}} |49D, 43W, 1?
+|rowspan=2 {{Party shading/Whig}} |124W, 81D
+|rowspan=3 {{Party shading/Democratic}} |5D, 3W
+|rowspan=4 {{Party shading/Democratic}} |[[James K. Polk]]/<br>[[George M. Dallas]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1845
+|''vacant''
+|- style="height:2em"
+!1846
+|rowspan=2 {{Party shading/Democratic}} |25D, 22W
+|rowspan=2 {{Party shading/Democratic}} |69D, 60W, 1&nbsp;tie
+|rowspan=6 {{Party shading/Whig}} |John M. Berrien {{small|(W)}}
+|- style="height:2em"
+!1847
+|rowspan=4 |[[Alpheus Colvard]]
+|rowspan=3 {{Party shading/Whig}} |4W, 4D
+|- style="height:2em"
+!1848
+|rowspan=4 {{Party shading/Democratic}} |[[George W. Towns]] {{small|(D)}}
+|rowspan=2 {{Party shading/Whig}} |25W, 21D, 1I
+|rowspan=2 {{Party shading/Whig}} |68W, 62D
+|{{Party shading/Democratic}} |[[Herschel V. Johnson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Whig}} |[[Zachary Taylor]]/<br>[[Millard Fillmore]] {{small|(W)}} {{aye}}
+|- style="height:2em"
+!1849
+|rowspan=2 |[[George Washington Harrison]]
+|rowspan=6 {{Party shading/Whig}} |[[William C. Dawson]] {{small|(W)}}
+|- style="height:2em"
+!1850
+|rowspan=2 {{Party shading/Democratic}} |25D, 22W
+|rowspan=2 {{Party shading/Whig}} |65W, 61D, 1&nbsp;tie, 3?
+|{{Party shading/Democratic}} |5D, 3W
+|- style="height:2em"
+!1851
+|rowspan=2 {{Party shading/Democratic}} |[[Nathan Crawford Barnett]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[John Troup Shewmake]] {{small|(R)}}
+|rowspan=2 {{Party shading/Tie}} |4D, 2U, 2W
+|- style="height:2em"
+!1852
+|rowspan=2 {{Party shading/Constitutional Union}} |[[Howell Cobb]] {{small|(CU)}}
+|rowspan=2 {{Party shading/Unionist}} |39U, 8{{abbr|SR|Southern Rights}}
+|rowspan=2 {{Party shading/Unionist}} |104U, 29{{abbr|SR|Southern Rights}}
+|{{Party shading/Democratic}} |[[Robert M. Charlton]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce]]/<br>[[William R. King]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1853
+|rowspan=8 |[[Elihu P. Watkins]]
+|rowspan=8 {{Party shading/Democratic}} |[[Robert Toombs]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |6D, 2W
+|- style="height:2em"
+!1854
+|rowspan=4 {{Party shading/Democratic}} |[[Herschel V. Johnson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |78D, 33KN
+|rowspan=2 {{Party shading/Democratic}} |92D, 55KN
+|- style="height:2em"
+!1855
+|rowspan=4 |[[William R. McLaws]]
+|rowspan=6 {{Party shading/Democratic}} |[[Alfred Iverson Sr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |5D, 2KN, 1W
+|- style="height:2em"
+!1856
+|rowspan=2 {{Party shading/Democratic}} |78D, 33KN
+|rowspan=2 {{Party shading/Democratic}} |92D, 55KN, 1ID
+|rowspan=4 {{Party shading/Democratic}} |[[James Buchanan]]/<br>[[John C. Breckinridge]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1857
+|- style="height:2em"
+!1858
+|rowspan=8 {{Party shading/Democratic}} |[[Joseph E. Brown]] {{small|(D)}}{{efn |Resigned following the defeat of the [[Confederate States of America]].}}
+|rowspan=2 {{Party shading/Democratic}} |86D, 32KN
+|rowspan=2 {{Party shading/Democratic}} |102D, 51KN, 1ID, 1I
+|- style="height:2em"
+!1859
+|rowspan=2 |[[Alpheus M. Rogers]]
+|rowspan=2 {{Party shading/Democratic}} |6D, 1A, 1O
+|- style="height:2em"
+!1860
+|rowspan=2 {{Party shading/Democratic}} |103D, 21O
+|rowspan=2 {{Party shading/Democratic}} |120D, 48O, 1ID, 1I
+|rowspan=4 {{Party shading/Southern Democratic}} |[[John C. Breckinridge]]/<br>[[Joseph Lane]] {{small|({{abbr|SD|Southern Democratic}})}} {{Nay}}
+|- style="height:2em"
+!1861
+|rowspan=9 {{Party shading/Democratic}} |Nathan Crawford Barnett {{small|(D)}}
+|[[Winder P. Johnson]]
+|colspan=3 rowspan=8 |''[[American Civil War]]/<br>[[Reconstruction era|Reconstruction]]''
+|- style="height:2em"
+!1862
+|rowspan=4 |[[William Watts Montgomery]]
+|colspan=2 rowspan=9 |''[[American Civil War]]/<br>[[Reconstruction era|Reconstruction]]''
+|- style="height:2em"
+!1863
+|- style="height:2em"
+!1864
+|rowspan=5 |''[[American Civil War]]''
+|- style="height:2em"
+!rowspan=2 |1865
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[James Johnson (Georgia politician)|James Johnson]] {{small|(D)}}{{efn |Provisional governor appointed by [[President of the United States|President]] [[Andrew Johnson]] following [[American Civil War]].}}
+|{{Party shading/Democratic}} |[[George Barnes (Georgia politician)|George Barnes]] {{small|(D)}}
+|- style="height:2em"
+!1866
+|rowspan=2 {{Party shading/Democratic}} |[[Charles J. Jenkins]] {{small|(D)}}{{efn |Removed from office by the military because he refused to allow state funds to be used for a racially integrated state constitutional convention; the state was still under military occupation during [[Reconstruction era|Reconstruction]].}}
+|rowspan=3 |[[John Philpot Curren Whitehead|John Philpot<br>Curren Whitehead]]
+|- style="height:2em"
+!1867
+|- style="height:2em"
+!rowspan=2 |1868
+|{{Party shading/Nonpartisan}} |[[Thomas H. Ruger]] {{small|(M)}}{{efn |Provisional governor appointed by General [[George Meade]].}}
+|rowspan=4 |''vacant''
+|rowspan=4 |''vacant''
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|rowspan=6 {{Party shading/Democratic}} |[[Horatio Seymour]]/<br>[[Francis Preston Blair Jr.]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Rufus Bullock]] {{small|(R)}}{{efn |Resigned; fled the state to avoid impeachment; was arrested in 1876 and found not guilty of embezzlement.}}
+|rowspan=6 {{Party shading/Republican}} |[[David G. Cotting]] {{small|(R)}}
+|rowspan=5 |[[Henry P. Farrow]]
+|- style="height:2em"
+!1869
+|rowspan=2 {{Party shading/Republican}} |26R, 18D
+|rowspan=2 {{Party shading/Democratic}} |88D, 84R, 3?
+|''vacant''
+|- style="height:2em"
+!1870
+|rowspan=3 {{Party shading/Democratic}} |4D, 3R
+|- style="height:2em"
+!rowspan=2 |1871
+|rowspan=3 {{Party shading/Democratic}} |29D, 14R, 1I
+|rowspan=3 {{Party shading/Democratic}} |136D, 29R, 1I, 1?
+|{{Party shading/Democratic}} |[[Homer V. M. Miller]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |[[Joshua Hill (politician)|Joshua Hill]] {{small|(R)}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Benjamin F. Conley]] {{small|(R)}}{{efn |name=presfilled}}
+|''vacant''
+|- style="height:2em"
+!1872
+|rowspan=3 {{Party shading/Democratic}} |[[James Milton Smith]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Nathaniel J. Hammond]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Thomas M. Norwood]] {{small|(D)}}
+|{{Party shading/Democratic}} |5D, 2R
+|rowspan=3 {{Party shading/Liberal Republican}} |[[B. Gratz Brown]] {{small|(LR)}} {{nay}}{{efn |[[Liberal Republican Party (United States)|Liberal Republican]] nominee [[Horace Greeley]] died before the Electoral College voted. 6 of Georgia's 11 votes went to Greeley's running mate Brown, while 3 went to Greeley and 2 went to Democratic Georgia Governor [[Charles J. Jenkins]]}}
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Democratic}} |Nathan Crawford Barnett {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |40D, 4R
+|rowspan=2 {{Party shading/Democratic}} |161D, 14R
+|rowspan=2 {{Party shading/Democratic}} |[[John B. Gordon]] {{small|(D)}}
+|{{Party shading/Democratic}} |7D, 2R
+|- style="height:2em"
+!1874
+|{{Party shading/Democratic}} |6D, 3R
+|}
+
+==1875–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=8|Executive offices
+!colspan=2 |[[Georgia General Assembly|General Assembly]]
+!rowspan=2 class=unsortable |[[Georgia Public Service Commission|PSC]]
+!colspan=3 |[[Georgia's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Georgia|Governor]]
+!class=unsortable |[[Lieutenant Governor of Georgia|Lt. Governor]]
+!class=unsortable |[[Georgia Secretary of State|Sec. of State]]
+!class=unsortable |[[Attorney General of Georgia|Atty. Gen.]]
+!class=unsortable |School Supt.
+!class=unsortable |Comm. of Ag.
+!class=unsortable |Comm. of Ins.
+!class=unsortable |Comm. of Labor
+!class=unsortable |[[Georgia State Senate|State Senate]]
+!class=unsortable |[[Georgia House of Representatives|State<br>House]]
+!class=unsortable |[[List of United States senators from Georgia|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States senators from Georgia|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Georgia|U.S.<br>House]]
+|- style="height:2em"
+!1875
+|rowspan=2 {{Party shading/Democratic}} |[[James Milton Smith]] {{small|(D)}}
+|rowspan=99 |''no such office''{{efn |Position of lieutenant governor created in 1945 and first elected in 1946.}}
+|rowspan=19 {{Party shading/Democratic}} |[[Nathan Crawford Barnett|Nathan Crawford<br>Barnett]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |[[Nathaniel J. Hammond|Nathaniel J.<br>Hammond]] {{small|(D)}}
+|rowspan=25 style="background:#def;" |{{efn |name=GovAppoint}}
+|rowspan=20 style="background:#def;" |{{efn |name=GovAppoint|Appointed by the governor.}}
+|rowspan=5 {{Party shading/Democratic}} |[[W. L. Goldsmith]] {{small|(D)}}{{efn |Resigned due to an ongoing impeachment trial for corruption.}}
+|rowspan=87 |''no such office''{{efn |name=Labor}}
+|rowspan=2 {{Party shading/Democratic}} |43D, 1R
+|rowspan=2 {{Party shading/Democratic}} |168D, 7R
+|rowspan=6 |''no such office''
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas M. Norwood]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[John B. Gordon]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |8D, 1I
+|
+|- style="height:2em"
+!1876
+|rowspan=5 {{Party shading/Democratic}} |[[Samuel J. Tilden|Tilden]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1877
+|rowspan=7 {{Party shading/Democratic}} |[[Alfred H. Colquitt]] {{small|(D)}}
+|rowspan=4 |[[Robert N. Ely]]
+|rowspan=2 {{Party shading/Democratic}} |40D, 3ID, 1R
+|rowspan=2 {{Party shading/Democratic}} |159D, 8R, 8I
+|rowspan=6 {{Party shading/Democratic}} |[[Benjamin Harvey Hill]] {{small|(D)}}
+|- style="height:2em"
+!1878
+|- style="height:2em"
+!rowspan=2 |1879
+|rowspan=3 {{Party shading/Democratic}} |44D
+|rowspan=3 {{Party shading/Democratic}} |171D, 4R
+|rowspan=3 {{Party shading/Democratic}} |6D, 3I
+|- style="height:2em"
+|rowspan=70 {{Party shading/Democratic}} |[[William Ambrose Wright]] {{small|(D)}}{{efn |name=Filled vacancy}}{{efn |name=died}}
+|- style="height:2em"
+!1880
+|rowspan=12 |[[Clifford Anderson]]
+|rowspan=33 style="background:#def;" |{{efn |name=GovAppoint}}
+|rowspan=14 {{party shading/Democratic}} |[[Joseph E. Brown]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1881
+|rowspan=2 {{Party shading/Democratic}} |43D, 1R
+|rowspan=2 {{Party shading/Democratic}} |165D, 10R
+|rowspan=2 {{Party shading/Democratic}} |8D, 1I
+|- style="height:2em"
+!1882
+|{{Party shading/Democratic}} |[[Pope Barrow]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=3 |1883
+|{{Party shading/Democratic}} |[[Alexander H. Stephens]] {{small|(D)}}{{efn |name=died}}
+|rowspan=6 {{Party shading/Democratic}} |44D
+|rowspan=4 {{Party shading/Democratic}} |167D, 5I, 2R, 1Proh
+|rowspan=14 {{Party shading/Democratic}} |[[Alfred H. Colquitt]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |10D
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[James S. Boynton]] {{small|(D)}}{{efn |name=presfilled}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[Henry Dickerson McDaniel]] {{small|(D)}}
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1885
+|rowspan=2 {{Party shading/Democratic}} |169D, 6R
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=5 {{Party shading/Democratic}} |[[John B. Gordon]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |39D, 2R, 2I, 1Lab
+|rowspan=2 {{Party shading/Democratic}} |150D, 10R, 10I, 5Lab
+|- style="height:2em"
+!1888
+|rowspan=5 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Allen G. Thurman|Thurman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1889
+|rowspan=3 {{Party shading/Democratic}} |43D, 1R
+|rowspan=3 {{Party shading/Democratic}} |172D, 3R
+|- style="height:2em"
+!rowspan=2 |1890
+|rowspan=2 |[[George N. Lester]]
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[Philip Cook (general)|Philip Cook]] {{small|(D)}}{{efn |name=presfilled}}
+|- style="height:2em"
+!1891
+|rowspan=5 {{Party shading/Democratic}} |[[William J. Northen]] {{small|(D)}}
+|[[W. A. Little]]
+|rowspan=10 {{Party shading/Democratic}} |[[Robert Taylor Nesbitt]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |44D
+|rowspan=2 {{Party shading/Democratic}} |171D, 4R
+|rowspan=7 {{Party shading/Democratic}} |[[John B. Gordon]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |9D, 1Pop
+|- style="height:2em"
+!1892
+|rowspan=12 |[[J. M. Terrell]]
+|rowspan=5 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1893
+|rowspan=3 {{Party shading/Democratic}} |43D, 1Pop
+|rowspan=3 {{Party shading/Democratic}} |159D, 11Pop, 4R, 1?
+|rowspan=29 {{Party shading/Democratic}} |11D
+|- style="height:2em"
+!rowspan=2 |1894
+|rowspan=2 {{Party shading/Democratic}} |[[Patrick Walsh (Southern U.S. politician)|Patrick Walsh]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[Allen D. Candler]] {{small|(D)}}
+|- style="height:2em"
+!1895
+|rowspan=5 {{Party shading/Democratic}} |[[William Yates Atkinson]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Gustavus Richard Glenn]] {{small|(D)}}{{efn |Initially appointed, then later elected as the first elected Georgia state school commissioner.}}
+|rowspan=2 {{Party shading/Democratic}} |38D, 5Pop, 1R
+|rowspan=2 {{Party shading/Democratic}} |126D, 47Pop, 2R
+|rowspan=28 {{Party shading/Democratic}} |[[Augustus O. Bacon]] {{small|(D)}}
+|- style="height:2em"
+!1896
+|rowspan=5 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1897
+|rowspan=3 {{Party shading/Democratic}} |37D, 6Pop, 1R
+|rowspan=3 {{Party shading/Democratic}} |142D, 30Pop, 3R
+|rowspan=18 {{Party shading/Democratic}} |[[Alexander S. Clay]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1898
+|style="background:#def;" |[[William C. Clifton]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=30 {{Party shading/Democratic}} |[[Philip Cook, Jr.]] {{small|(D)}}{{efn |name=presfilled}}
+|- style="height:2em"
+!1899
+|rowspan=4 {{Party shading/Democratic}} |Allen D. Candler {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[O. B. Stevens]] {{small|(D)}}{{efn |Resigned to take a position on the [[Georgia Public Service Commission|Georgia Railroad Commission]].}}
+|rowspan=4 {{Party shading/Democratic}} |43D, 1R
+|rowspan=2 {{Party shading/Democratic}} |170D, 5Pop
+|- style="height:2em"
+!1900
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Democratic}} |166D, 9P
+|- style="height:2em"
+!1902
+|[[Boykin Wright]]
+|- style="height:2em"
+!1903
+|rowspan=6 {{Party shading/Democratic}} |[[Joseph M. Terrell]] {{small|(D)}}
+|rowspan=11 |[[John C. Hart]]
+|rowspan=5 {{Party shading/Democratic}} |[[William B. Merritt]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |40D, 2R, 2Pop
+|rowspan=2 {{Party shading/Democratic}} |171D, 3R, 1Pop
+|- style="height:2em"
+!1904
+|rowspan=6 {{Party shading/Democratic}} |[[Alton B. Parker|Parker]]/<br>[[Henry Gassaway Davis|Davis]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1905
+|rowspan=10 {{Party shading/Democratic}} |44D
+|rowspan=3 {{Party shading/Democratic}} |173D, 2R
+|- style="height:2em"
+|rowspan=13 {{Party shading/Democratic}} |[[Thomas G. Hudson]] {{small|(D)}}{{efn |name=Filled vacancy}}{{efn |Resigned to run for governor.}}
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!rowspan=2 |1907
+|rowspan=6 {{Party shading/Democratic}} |[[Jere M. Pound]] {{small|(D)}}{{efn |Resigned to accept the presidency of the [[Gordon State College|Gordon Military Institute]].<ref>{{cite news |url=https://chroniclingamerica.loc.gov/lccn/sn89053283/1910-05-25/ed-1/seq-6/ |title=POUND RESIGNS OFFICE. State School Commissioner Will Return to the School Room. |newspaper=The Dawson News |page=6 |date=1910-05-25 |access-date=2023-09-09 |via=[[Chronicling America]]}}</ref>}}
+|rowspan=3 {{Party shading/Democratic}} |170D, 3R, 2Pop, 8?
+|rowspan=114 {{Party shading/Democratic}} |5D
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Hoke Smith]] {{small|(D)}}
+|- style="height:2em"
+!1908
+|rowspan=8 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[John W. Kern|Kern]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1909
+|rowspan=4 {{Party shading/Democratic}} |184D
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[Joseph Mackey Brown]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1910
+|- style="height:2em"
+|rowspan=2 |[[Hewlett A. Hall]]
+|rowspan=19 {{Party shading/Democratic}} |[[Marion L. Brittain]] {{small|(D)}}{{efn |name=Filled vacancy}}{{efn |Resigned to take the position of President of the [[Georgia School of Technology]].}}
+|rowspan=3 {{Party shading/Democratic}} |[[Joseph M. Terrell]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=3 |1911
+|rowspan=11 {{Party shading/Democratic}} |43D, 1R
+|rowspan=9 {{Party shading/Democratic}} |183D, 1R
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Hoke Smith]] {{small|(D)}}{{efn |name=res-senate}}
+|rowspan=5 |[[Thomas S. Felder]]
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[John M. Slaton]] {{small|(D)}}{{efn |name=presfilled}}
+|rowspan=14 {{Party shading/Democratic}} |[[Hoke Smith]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1912
+|rowspan=2 {{Party shading/Democratic}} |[[Joseph Mackey Brown]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=1 {{Party shading/Democratic}} |[[James J. Conner]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Democratic}} |[[John M. Slaton]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[James D. Price]] {{small|(D)}}
+|rowspan=29 {{Party shading/Democratic}} |12D
+|- style="height:2em"
+!rowspan=3 |1914
+|rowspan=3 {{Party shading/Democratic}} |[[Warren Grice]] {{small|(D)}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[William Stanley West]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=6 {{Party shading/Democratic}} |[[Thomas W. Hardwick]] {{small|(D)}}
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Democratic}} |[[Nathaniel Edwin Harris]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Clifford Walker]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |188D, 1R
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=5 {{Party shading/Democratic}} |[[Hugh Dorsey]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[J. J. Brown]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |44D
+|- style="height:2em"
+!rowspan=2 |1918
+|- style="height:2em"
+|style="background:#def;" |[[Henry Strange]] {{small|(D)}}{{efn |name=Filled vacancy|Filled vacancy.}}
+|- style="height:2em"
+!1919
+|rowspan=13 style="background:#def;" |[[Samuel McLendon]] {{small|(D)}}{{efn |name=presfilled}}
+|rowspan=2 {{Party shading/Democratic}} |51D
+|rowspan=2 {{Party shading/Democratic}} |190D, 3R
+|rowspan=19 {{Party shading/Democratic}} |[[William J. Harris]] {{small|(D)}}
+|- style="height:2em"
+!1920
+|[[R. A. Denny]]
+|rowspan=6 {{Party shading/Democratic}} |[[James M. Cox|Cox]]/<br>[[Franklin D. Roosevelt|Roosevelt]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas W. Hardwick]] {{small|(D)}}
+|rowspan=17 {{Party shading/Democratic}} |[[George M. Napier]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |50D, 1R
+|rowspan=4 {{Party shading/Democratic}} |202D, 4R
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas E. Watson]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=3 |1922
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Marvin M. Parks]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|{{Party shading/Democratic}} |[[Rebecca Latimer Felton]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=47 {{Party shading/Democratic}} |[[Walter F. George]] {{small|(D)}}
+|- style="height:2em"
+!1923
+|rowspan=4 {{Party shading/Democratic}} |[[Clifford Walker]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Nathaniel H. Ballard]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |51D
+|rowspan=2 {{Party shading/Democratic}} |205D, 1R
+|- style="height:2em"
+!1924
+|rowspan=5 {{Party shading/Democratic}} |[[John W. Davis|Davis]]/<br>[[Charles W. Bryan|Bryan]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1925
+|rowspan=3 {{Party shading/Democratic}} |[[Fort E. Land]] {{small|(D)}}{{efn |name=died}}
+|rowspan=6 {{Party shading/Democratic}} |50D, 1R
+|rowspan=6 {{Party shading/Democratic}} |204D, 2R
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!rowspan=2 |1927
+|rowspan=7 {{Party shading/Democratic}} |[[Lamartine Griffin Hardman]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Eugene Talmadge]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=9 {{Party shading/Democratic}} |[[Mell L. Duggan]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!rowspan=2 |1928
+|rowspan=6 {{Party shading/Democratic}} |[[Al Smith|Smith]]/<br>[[Joseph T. Robinson|Robinson]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[George Henry Carswell]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!rowspan=2 |1929
+|rowspan=3 {{Party shading/Democratic}} |51D
+|rowspan=3 {{Party shading/Democratic}} |204D, 3R
+|- style="height:2em"
+|rowspan=9 {{Party shading/Democratic}} |William B. Harrison {{small|(D)}}{{efn |name=Filled vacancy}}{{efn |Removed from office by Governor [[Eugene Talmadge]] due to a dispute over authorizing funds for certain charitable organizations.<ref>{{cite news |last=Good |first=William J. |url=https://chroniclingamerica.loc.gov/lccn/sn84026749/1936-02-26/ed-1/seq-2/ |title=OUSTED STATE OFFICERS TIE UP FUNDS |newspaper=[[The Washington Times (1894–1939)|The Washington Times]] |page=2 |date=1936-02-26 |access-date=2023-09-03 |via=[[Chronicling America]]}}</ref>}}
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=3 {{Party shading/Democratic}} |[[Richard Russell Jr.]] {{small|(D)}}
+|rowspan=21 {{Party shading/Democratic}} |[[John B. Wilson]] {{small|(D)}}{{efn |name=presfilled}}
+|rowspan=11 {{Party shading/Democratic}} |50D, 1R
+|rowspan=3 {{Party shading/Democratic}} |207D
+|- style="height:2em"
+!rowspan=2 |1932
+|rowspan=12 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Lawrence S. Camp]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[John S. Cohen]] {{small|(D)}}
+|- style="height:2em"
+!1933
+|rowspan=6 {{Party shading/Democratic}} |[[Eugene Talmadge]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[M. J. Yeomans]] {{small|(D)}}
+|rowspan=33 {{Party shading/Democratic}} |[[Mauney D. Collins]] {{small|(D)}}{{efn |name=Retired}}
+|rowspan=2 {{Party shading/Democratic}} |[[G. C. Adams]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |205D
+|rowspan=47 {{Party shading/Democratic}} |[[Richard Russell Jr.]] {{small|(D)}}
+|rowspan=40 {{Party shading/Democratic}} |10D
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=4 {{Party shading/Democratic}} |[[Tom Linder (Georgia politician)|Tom Linder]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |203D, 2R
+|- style="height:2em"
+!rowspan=3 |1936
+|- style="height:2em"
+|rowspan=1 {{Party shading/Democratic}} |[[Glenn B. Carreker]] {{small|(D)}}{{efn |Appointed by Governor Eugene Talmadge to replace William B. Harrison, an action disputed by Harrison.}}
+|- style="height:2em"
+|rowspan=1 {{Party shading/Democratic}} |[[Homer C. Parker]] {{small|(D)}}{{efn |Appointed by Governor Eugene Talmadge to replace Carreker and fill out the remainder of the term.}}
+|- style="height:2em"
+!1937
+|rowspan=6 {{Party shading/Democratic}} |[[Eurith D. Rivers]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Columbus Roberts]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |William B. Harrison {{small|(D)}}{{efn |Restored to his office at the beginning of the 1937 legislative term.}}{{efn |name=died}}
+|rowspan=18 {{Party shading/Democratic}} |204D, 1R
+|- style="height:2em"
+!1938
+|rowspan=35 {{Party shading/Democratic}} |[[Ben Huiet]] {{small|(D)}}{{efn |name=Labor|The Georgia Department of Labor was created in 1937 and placed under the control of an elected commissioner.<ref>[http://www.dol.state.ga.us/about_us.htm About Us {{!}} Georgia Department of Labor]</ref>}}
+|- style="height:2em"
+!rowspan=2 |1939
+|rowspan=11 {{Party shading/Democratic}} |51D, 1R
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[Ellis Arnall]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!rowspan=2 |1940
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=1 {{Party shading/Democratic}} |[[Downing Musgrove]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!1941
+|rowspan=2 {{Party shading/Democratic}} |[[Eugene Talmadge]] {{small|(D)}}
+|rowspan=18 {{Party shading/Democratic}} |[[Tom Linder (Georgia politician)|Tom Linder]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Homer C. Parker]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=6 {{Party shading/Democratic}} |[[Ellis Arnall]] {{small|(D)}}
+|rowspan=2 |[[T. Grady Head]]
+|- style="height:2em"
+!1944
+|rowspan=7 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=24 {{Party shading/Democratic}} |[[Eugene Cook (politician)|Eugene Cook]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1946
+|- style="height:2em"
+|rowspan=40 {{Party shading/Democratic}} |[[Benjamin W. Fortson Jr.]] {{small|(D)}}{{efn |Appointed secretary of state in 1946 to fill the unexpired term of John B. Wilson, who died in office.<ref>{{Cite web|title=Ben Fortson (1904-1979)|url=https://www.georgiaencyclopedia.org/articles/government-politics/ben-fortson-1904-1979|access-date=2021-06-20|website=New Georgia Encyclopedia|language=en}}</ref>}}{{efn |name=died}}
+|rowspan=1 {{Party shading/Democratic}} |[[William R. Mitchell]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!rowspan=3 |1947
+|rowspan=2 {{Party shading/Democratic}} |[[Melvin E. Thompson]] {{small|(D)}}
+|rowspan=19 {{Party shading/Democratic}} |[[Zack D. Cravey]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |53D, 1R
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Herman Talmadge]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Melvin E. Thompson]] {{small|(D)}}{{efn |[[Eugene Talmadge]] was elected to a third non-consecutive term in 1946 but died before taking office. Incumbent Governor [[Ellis Arnall]] and Lieutenant Governor-elect [[Melvin E. Thompson]] both claimed the office. The state legislature chose Eugene Talmadge's son, [[Herman Talmadge]], to be governor, and he took office in January 1947, but the state Supreme Court later that year declared this unconstitutional and declared Thompson the rightful acting governor, and Talmadge stepped down after 67 days in office.}}
+|rowspan=2 |''vacant''
+|- style="height:2em"
+!rowspan=2 |1948
+|rowspan=5 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=7 {{Party shading/Democratic}} |[[Herman Talmadge]] {{small|(D)}}{{efn |Talmadge defeated Thompson in a special election in September 1948.}}
+|rowspan=7 {{Party shading/Democratic}} |[[Marvin Griffin]] {{small|(D)}}
+|- style="height:2em"
+!1949
+|rowspan=2 {{Party shading/Democratic}} |203D, 2R
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Democratic}} |54D
+|rowspan=4 {{Party shading/Democratic}} |204D, 1R
+|- style="height:2em"
+!1952
+|rowspan=4 {{Party shading/Democratic}} |[[Adlai Stevenson II|Stevenson]]/<br>[[John Sparkman|Sparkman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1953
+|rowspan=10 {{Party shading/Democratic}} |53D, 1R
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Democratic}} |[[Marvin Griffin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Ernest Vandiver]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Phil Campbell (agricultural commissioner)|Phil Campbell]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |202D, 3R
+|- style="height:2em"
+!1956
+|rowspan=4 {{Party shading/Democratic}} |[[Adlai Stevenson II|Stevenson]]/<br>[[Estes Kefauver|Kefauver]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1957
+|rowspan=28 {{Party shading/Democratic}} |[[Herman Talmadge]] {{small|(D)}}
+|- style="height:2em"
+!1958
+|rowspan=8 {{Party shading/Democratic}} |[[Claude Purcell]] {{small|(D)}}{{efn |Resigned after the [[United States District Court for the Southern District of Georgia]] ordered [[Taliaferro County School District]] to desegregate following the court's decision on Turner vs. Goolsby.<ref>{{cite web |last=Askew |first=Garrick Arion |url=https://getd.libs.uga.edu/pdfs/askew_garrick_a_200408_edd.pdf |title=THE ORAL HISTORIES OF THREE RETIRED AFRICAN AMERICAN SUPERINTENDENTS FROM GEORGIA |work=[[University of Georgia]] |page=187 |date=2004 |access-date=2023-09-07}}</ref>}}
+|- style="height:2em"
+!1959
+|rowspan=4 {{Party shading/Democratic}} |[[Ernest Vandiver]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Garland T. Byrd]] {{small|(D)}}
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |203D, 2R
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=4 {{Party shading/Democratic}} |[[Carl Sanders]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Peter Zack Geer]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[James L. Bentley]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |50D, 4R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Republican}} |[[Barry Goldwater|Goldwater]]/<br>[[William E. Miller|Miller]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1965
+|rowspan=20 {{Party shading/Democratic}} |[[Arthur K. Bolton]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |44D, 9R, 2I
+|rowspan=1 {{Party shading/Democratic}} |198D, 7R
+|rowspan=2 {{Party shading/Democratic}} |9D, 1R
+|- style="height:2em"
+!1966
+|rowspan=14 {{Party shading/Democratic}} |[[Jack P. Nix]] {{small|(D)}}{{efn |name=Filled vacancy}}{{efn |name=Retired}}
+|rowspan=1 {{Party shading/Democratic}} |188D, 17R
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Democratic}} |[[Lester Maddox]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[George T. Smith]] {{small|(D)}}
+|rowspan=21 {{Party shading/Democratic}} |[[Sam Caldwell (Georgia politician)|Sam Caldwell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |46D, 7R, 1I
+|rowspan=2 {{Party shading/Democratic}} |183D, 22R
+|rowspan=8 {{Party shading/Democratic}} |8D, 2R
+|- style="height:2em"
+!1968
+|rowspan=1 {{Party shading/Republican}} |[[Phil Campbell (agricultural commissioner)|Phil Campbell]] {{small|(R)}}{{efn |name=Switch |[[Party switching in the United States|Switched parties]] from Democratic to Republican after the [[1968 Democratic National Convention]].<ref>{{Cite web|title=J. Phil Campbell, Jr. Papers|url=https://sclfind.libs.uga.edu/sclfind/view?docId=ead/RBRL111JPC.xml;brand=default|access-date=2021-06-20|website=sclfind.libs.uga.edu}}</ref>}}
+|rowspan=3 {{Party shading/Republican}} |[[James L. Bentley]] {{small|(R)}}{{efn |name=Switch}}
+|rowspan=5 {{Party shading/American Independent}} |[[George Wallace|Wallace]]/<br>[[Curtis LeMay|LeMay]] (AI) {{nay}}
+|- style="height:2em"
+!1969
+|rowspan=51 {{Party shading/Democratic}} |[[Tommy Irvin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |48D, 7R, 1I
+|rowspan=2 {{Party shading/Democratic}} |169D, 26R
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!rowspan=2 |1971
+|rowspan=6 {{Party shading/Democratic}} |[[Jimmy Carter]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Lester Maddox]] {{small|(D)}}
+|rowspan=19 {{Party shading/Democratic}} |[[Johnnie L. Caldwell]] {{small|(D)}}{{efn |name=Retired|Retired.}}
+|rowspan=4 {{Party shading/Democratic}} |50D, 6R
+|rowspan=4 {{Party shading/Democratic}} |173D, 22R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[David H. Gambrell]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1972
+|rowspan=5 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=29 {{Party shading/Democratic}} |[[Sam Nunn]] {{small|(D)}}
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Democratic}} |48D, 8R
+|rowspan=2 {{Party shading/Democratic}} |152D, 27R
+|rowspan=2 {{Party shading/Democratic}} |9D, 1R
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=10 {{Party shading/Democratic}} |[[George Busbee]] {{small|(D)}}
+|rowspan=19 {{Party shading/Democratic}} |[[Zell Miller]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |51D, 5R
+|rowspan=2 {{Party shading/Democratic}} |155D, 24R
+|rowspan=5 {{Party shading/Democratic}} |10D
+|- style="height:2em"
+!1976
+|rowspan=6 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1977
+|rowspan=3 {{Party shading/Democratic}} |52D, 4R
+|rowspan=3 {{Party shading/Democratic}} |158D, 24R
+|- style="height:2em"
+|rowspan=12 {{Party shading/Democratic}} |[[Charles McDaniel]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!rowspan=2 |1979
+|rowspan=5 {{Party shading/Democratic}} |51D, 5R
+|rowspan=3 {{Party shading/Democratic}} |160D, 20R
+|rowspan=7 {{Party shading/Democratic}} |9D, 1R
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[David Poythress]] {{small|(D)}}{{efn |Governor George Busbee appointed Poythress secretary of state to fill a vacancy created by the death of Fortson.<ref name=ajc1>[http://www.ajc.com/search/content/opinion/stories/2008/06/29/suwooten.html Count to '10, and a Fun Race for Governor]</ref>}}
+|- style="height:2em"
+!1980
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1981
+|rowspan=14 {{Party shading/Democratic}} |[[Mike Bowers]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |157D, 23R
+|rowspan=7 {{Party shading/Republican}} |[[Mack Mattingly]] {{small|(R)}}
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=9 {{Party shading/Democratic}} |[[Joe Frank Harris]] {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[Max Cleland]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |49D, 7R
+|rowspan=2 {{Party shading/Democratic}} |156D, 24R
+|- style="height:2em"
+!1984
+|rowspan=7 {{Party shading/Democratic}} |[[Joe Tanner (Georgia politician)|Joe Tanner]] {{small|(D)}}{{efn |Resigned to accept an appointment as commissioner of the state Department of Natural Resources.<ref name=ajc1/>}}
+|rowspan=5 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1985
+|rowspan=3 {{Party shading/Democratic}} |47D, 9R
+|rowspan=3 {{Party shading/Democratic}} |154D, 26R
+|rowspan=5 {{Party shading/Democratic}} |8D, 2R
+|- style="height:2em"
+|rowspan=6 {{Party shading/Democratic}} |[[Warren D. Evans]] {{small|(D)}}{{efn |Appointed Insurance Commissioner in 1985 to fill the vacancy created by the retirement of Johnnie L. Caldwell.}}
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=8 {{Party shading/Democratic}} |[[Werner Rogers]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |46D, 10R
+|rowspan=2 {{Party shading/Democratic}} |153D, 27R
+|rowspan=6 {{Party shading/Democratic}} |[[Wyche Fowler]] {{small|(D)}}
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|rowspan=4 {{Party shading/Democratic}} |45D, 11R
+|rowspan=2 {{Party shading/Democratic}} |145D, 35R
+|rowspan=4 {{Party shading/Democratic}} |9D, 1R
+|- style="height:2em"
+!1990
+|{{Party shading/Democratic}} |[[Ray Hollingsworth]] {{small|(D)}}
+|- style="height:2em"
+!1991
+|rowspan=11 {{Party shading/Democratic}} |[[Zell Miller]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |[[Pierre Howard]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Tim Ryles]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Al Scott (politician)|Al Scott]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |144D, 36R
+|- style="height:2em"
+!1992
+|rowspan=9 {{Party shading/Democratic}} |[[David Poythress]] {{small|(D)}}{{efn |Poythress was elected to fill Tanner's unexpired term.<ref name=ajc1/>}}
+|rowspan=5 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Democratic}} |39D, 17R
+|rowspan=2 {{Party shading/Democratic}} |128D, 52R
+|rowspan=2 {{Party shading/Democratic}} |4D, 1R
+|rowspan=11 {{Party shading/Republican}} |[[Paul Coverdell]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |7D, 4R
+|- style="height:2em"
+!1994
+|rowspan=5 {{Party shading/Republican}} |[[Mike Bowers]] {{small|(R)}}{{efn |Switched parties to Republican.}}
+|- style="height:2em"
+!rowspan=2 |1995
+|rowspan=12 {{Party shading/Republican}} |[[Linda Schrenko]] {{small|(R)}}
+|rowspan=20 {{Party shading/Republican}} |[[John Oxendine]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |36D, 20R
+|rowspan=3 {{Party shading/Democratic}} |114D, 66R
+|rowspan=2 {{Party shading/Republican}} |3R, 2D
+|{{Party shading/Republican}} |7R, 4D
+|- style="height:2em"
+|rowspan=11 {{Party shading/Republican}} |8R, 3D{{efn |In April 1995 incumbent Democrat [[Nathan Deal]] switched parties to Republican.}}
+|- style="height:2em"
+!1996
+|rowspan=3 {{Party shading/Republican}} |4R, 1D{{efn |Democrat [[Bob Durden]] switched parties to Republican in 1995.}}
+|rowspan=6 {{Party shading/Republican}} |[[Bob Dole|Dole]]/<br>[[Jack Kemp|Kemp]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1997
+|rowspan=4 {{Party shading/Democratic}} |[[Lewis A. Massey]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|rowspan=7 {{Party shading/Democratic}} |34D, 22R
+|rowspan=7 {{Party shading/Democratic}} |102D, 78R
+|rowspan=9 {{Party shading/Democratic}} |[[Max Cleland]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=16 {{Party shading/Democratic}} |[[Thurbert Baker]] {{small|(D)}}{{efn |name=Filled vacancy}}
+|- style="height:2em"
+!rowspan=2 |1998
+|rowspan=5 {{Party shading/Republican}} |4R, 1NP{{efn |Governor Zell Miller appointed Lauren "Bubba" McDonald Jr. as a nonpartisan to the seat vacated by Democrat Mac Barber.}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Marti Fullerton]] {{small|(D)}}{{efn |Served on an interim basis after Poythress resigned in order to run for governor.}}
+|- style="height:2em"
+!1999
+|rowspan=5 {{Party shading/Democratic}} |[[Roy Barnes]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Mark Taylor (American politician)|Mark Taylor]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Cathy Cox (American politician)|Cathy Cox]] {{small|(D)}}
+|rowspan=13 {{Party shading/Democratic}} |[[Mike Thurmond]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |2000
+|rowspan=9 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[Zell Miller]] {{small|(D)}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Democratic}} |32D, 24R
+|rowspan=2 {{Party shading/Democratic}} |105D, 74R, 1I
+|rowspan=2 {{Party shading/Republican}} |3R, 1D, 1NP
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=8 {{Party shading/Republican}} |[[Sonny Perdue]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Kathy Cox (American politician)|Kathy Cox]] {{small|(R)}}{{efn |name=resigned|Resigned.}}
+|rowspan=2 {{Party shading/Republican}} |30R, 26D{{efn |Recently reelected incumbent Democrats [[Don Cheeks]], [[Dan Lee (Georgia politician)|Dan Lee]], [[Rooney Bowen]], and [[Jack Hill (politician)|Jack Hill]] [[Party switching in the United States|switched parties]] to Republican between the November 2002 election and the beginning of the legislative session in January 2003.}}
+|rowspan=2 {{Party shading/Democratic}} |107D, 72R, 1I
+|rowspan=4 {{Party shading/Republican}} |4R, 1D
+|rowspan=12 {{Party shading/Republican}} |[[Saxby Chambliss]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 5D
+|- style="height:2em"
+!2004
+|- style="height:2em"
+!2005
+|rowspan=6 {{Party shading/Republican}} |34R, 22D
+|{{Party shading/Republican}} |100R, 79D, 1I{{efn |Recently reelected incumbent Democrat [[Chuck Sims]] [[Party switching in the United States|switched parties]] to Republican between the November 2004 election and the beginning of the legislative session in January 2005.}}
+|rowspan=16 {{Party shading/Republican}} |[[Johnny Isakson]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |7R, 6D
+|- style="height:2em"
+!2006
+|{{Party shading/Republican}} |101R, 78D, 1I{{efn |[[Greg Morris]] switched from the Democratic to the Republican Party in August 2005.}}
+|- style="height:2em"
+!2007
+|rowspan=12 {{Party shading/Republican}} |[[Casey Cagle]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Karen Handel]] {{small|(R)}}{{efn |Resigned to seek the Republican gubernatorial nomination.}}
+|rowspan=2 {{Party shading/Republican}} |106R, 74D
+|rowspan=20 {{Party shading/Republican}} |5R
+|- style="height:2em"
+!2008
+|rowspan=4 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2009
+|{{Party shading/Republican}} |105R, 75D
+|- style="height:2em"
+!2010
+|rowspan=9 {{Party shading/Republican}} |[[Brian Kemp]] {{small|(R)}}{{efn |Brian Kemp was appointed Secretary of State, January 4, 2010, to fill the unexpired term of Karen Handel.}}
+|{{Party shading/Independent}} |[[William Bradley Bryant|Brad Bryant]] {{small|(I)}}{{efn |name=Filled vacancy}}
+|{{Party shading/Republican}} |105R, 74D, 1I{{efn |[[Bobby Parham]] resigned after the 2009 legislative session and was succeeded by independent [[Rusty Kidd]].}}
+|- style="height:2em"
+!2011
+|rowspan=8 {{Party shading/Republican}} |[[Nathan Deal]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Sam Olens]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John Barge]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Gary Black (politician)|Gary Black]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Ralph Hudgens]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Mark Butler (Georgia politician)|Mark Butler]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |36R, 20D{{efn |[[Tim Golden (politician)|Tim Golden]] switched from the Democratic to the Republican Party after the November 2, 2010 General Election.}}
+|rowspan=2 {{Party shading/Republican}} |116R, 63D, 1I{{efn |Eight state representatives—[[C. Ellis Black]], [[Amy Carter (politician)|Amy Carter]], [[Mike Cheokas]], [[Bubber Epps]], [[Gerald Greene]], [[Bob Hanner]], [[Doug McKillip]], and [[Alan Powell (politician)|Alan Powell]]—switched from the Democratic to the Republican Party after the November 2, 2010 General Election.}}
+|rowspan=2 {{Party shading/Republican}} |8R, 5D
+|- style="height:2em"
+!2012
+|rowspan=4 {{Party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2013
+|rowspan=3 {{Party shading/Republican}} |38R, 18D
+|rowspan=4 {{Party shading/Republican}} |119R, 60D, 1I
+|rowspan=2 {{Party shading/Republican}} |9R, 5D
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=13 {{Party shading/Republican/current}} |[[Richard Woods (politician)|Richard Woods]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[David Perdue]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |10R, 4D
+|- style="height:2em"
+!2016
+|{{Party shading/Republican}} |39R, 17D{{efn |[[JaNice Van Ness]] won a special election to succeed [[Ronald Ramsey Sr.]], flipping the seat from Democratic to Republican.<ref>{{Cite web |title=GDPR Support |url=http://www.ajc.com/news/news/local-govt-politics/republican-winning-race-to-capture-ga-senate-seat/npZjz/ |access-date=2025-04-01 |website=www.ajc.com}}</ref>}}
+|rowspan=5 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2017
+|rowspan=11 {{Party shading/Republican/current}} |[[Chris Carr (politician)|Chris Carr]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |38R, 18D
+|rowspan=2 {{Party shading/Republican}} |118R, 62D
+|- style="height:2em"
+!2018
+|- style="height:2em"
+!rowspan=2 |2019
+|rowspan=9 {{Party shading/Republican/current}} |[[Brian Kemp]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Geoff Duncan]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican/current}} |[[Brad Raffensperger]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Jim Beck (politician)|Jim Beck]] {{small|(R)}}{{efn |Suspended following indictment for fraud.}}
+|rowspan=3 {{Party shading/Republican}} |35R, 21D
+|rowspan=3 {{Party shading/Republican}} |106R, 74D
+|rowspan=3 {{Party shading/Republican}} |9R, 5D
+|- style="height:2em"
+|rowspan=8 {{Party shading/Republican/current}} |[[John F. King]] {{small|(R)}}{{efn |Temporary appointment pending the outcome of the investigation into Jim Beck.}}
+|- style="height:2em"
+!2020
+|{{Party shading/Republican}} |[[Kelly Loeffler]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=2 {{Party shading/Republican}} |34R, 22D
+|rowspan=2 {{Party shading/Republican}} |103R, 77D
+|rowspan=6 {{Party shading/Democratic/current}} |[[Jon Ossoff]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic/current}} |[[Raphael Warnock]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 6D
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=4 {{Party shading/Republican/current}} |[[Burt Jones]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |[[Tyler Harper]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Bruce Thompson (Georgia politician)|Bruce Thompson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican/current}} |33R, 23D
+|{{Party shading/Republican}} |101R, 79D
+|rowspan=4 {{Party shading/Republican/current}} |9R, 5D
+|- style="height:2em"
+!2024
+|{{Party shading/Republican}} |102R, 78D{{efn |[[Mesha Mainor]] switched from the Democratic to the Republican Party in July 2023.}}
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |[[Bárbara Rivera Holmes]] {{small|(R)}}{{efn |Appointed Labor Commissioner in 2025 to fill the unexpired term of [[Bruce Thompson (Georgia politician)|Bruce Thompson]], who died in office.}}
+|{{Party shading/Republican}} |100R, 80D
+|- style="height:2em"
+!2026
+|{{Party shading/Republican/current}} |99R, 81D
+|{{Party shading/Republican/current}} |3R, 2D
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==See also==
+*[[Georgia (U.S. state)#Politics|Politics in Georgia]]
+*[[Politics of Georgia (U.S. state)|Politics of Georgia]]
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Georgia (U.S. State)}}
+[[Category:Politics of Georgia (U.S. state)]]
+[[Category:Government of Georgia (U.S. state)]]
+[[Category:Political party strength in the United States by state|Georgia (U.S. state)]]

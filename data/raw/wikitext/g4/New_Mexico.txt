@@ -1,0 +1,518 @@
+{{Short description|none}}
+{{Use mdy dates|date=July 2023}}
+{{Politics of New Mexico}}
+The '''governor of New Mexico''' is the [[head of government]] of [[New Mexico]] and the commander-in-chief of the [[U.S. state|state's]] [[New Mexico National Guard|military forces]]. The governor has a duty to enforce state laws, the power to either approve or veto bills passed by the [[New Mexico Legislature]], to convene the legislature at any time, and to grant [[pardon]]s.
+
+Twenty-eight individuals have held the office of governor of New Mexico since the state's admission to the [[United States|Union]] in 1912, two of whom&mdash;[[Edwin L. Mechem]] and [[Bruce King]]&mdash;served three non-consecutive terms. King holds the record as New Mexico's longest-serving governor, with 12 years of service. [[William C. McDonald (governor)|William C. McDonald]], the first governor, took office on January 15, 1912. The first woman to serve as Governor was [[Republican Party (United States)|Republican]] [[Susana Martinez]], who served from 2011-2019. The current officeholder is [[Michelle Lujan Grisham]], who took office on January 1, 2019, as the first elected female Democratic governor of the state.
+
+==List of governors==
+{{for|the period before acquisition by the United States|list of Spanish governors of New Mexico|list of Mexican governors of New Mexico}}
+On August 18, 1846, American forces led by [[Stephen W. Kearny]] [[Capture of Santa Fe|captured]] [[Santa Fe, New Mexico|Santa Fe]], capital of the [[Mexico|Mexican]] territory of [[Santa Fe de Nuevo México]].<ref>{{Cite book |last=Lavash |first=Donald |url=https://books.google.com/books?id=4SOSEswVAEEC&pg=PA129 |title=A Journey Through New Mexico History |year=2006 |isbn=978-0-86534-541-6 |page=129 |publisher=Sunstone Press |access-date=March 16, 2016}}</ref> A code of laws known as the [[Kearny Code]] was established on September 22, 1846.<ref>{{Cite web |title=New Mexico – Laws for the Government of the Territory of New Mexico; September 22, 1846 |url=http://avalon.law.yale.edu/19th_century/kearney.asp |url-status=live |archive-url=https://web.archive.org/web/20160401184136/http://avalon.law.yale.edu/19th_century/kearney.asp |archive-date=April 1, 2016 |access-date=March 16, 2016 |publisher=The Avalon Project at Yale Law School}}</ref> The region remained under military control until [[Mexican Cession|formally annexed]] by the United States on July 4, 1848. Following Kearny's departure for California on September 26, the chief military officer in the territory was Col. [[Sterling Price]] until October 11, 1848; Lt. Col. [[John M. Washington]] until October 23, 1849; and Col. [[John Munroe]] until the territory was organized. 
+
+Kearny appointed [[Charles Bent]] as governor before he left for California; Bent would be assassinated during the [[Taos Revolt]] on January 19, 1847. Col. Price appointed [[Donaciano Vigil]] as acting governor. A statehood convention chose [[Henry Connelly]] as governor on June 20, 1850, but this was never recognized by the federal government.
+
+===Territory of New Mexico===
+[[New Mexico Territory]] was organized on December 13, 1850.<ref>{{usstat|9|446}}</ref> It would remain a territory for 62 years.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of New Mexico
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Calhoun, James"|[[File:James S. Calhoun (New Mexico governor).jpg|75px]]
+|'''[[James Calhoun (politician, born 1802)|James Calhoun]]'''<br>{{Small|(1802–1852)}}<br>{{sfn|McMullin|1984|pp=235–236}}
+|data-sort-value="541"|January 9, 1851{{efn|Calhoun was nominated on December 23, 1850;<ref>U.S. Congress. ''Senate Exec. Journal''. 31st Cong., 2nd sess., [https://books.google.com/books?id=Gj4tAQAAMAAJ&pg=PA280 280], accessed May 7, 2023.</ref> confirmed by the Senate on January 9, 1851;<ref>U.S. Congress. ''Senate Exec. Journal''. 31st Cong., 2nd sess., [https://books.google.com/books?id=Gj4tAQAAMAAJ&pg=PA282 282], accessed May 7, 2023.</ref> and was inaugurated on March 3, 1851.{{sfn|McMullin|1984|pp=235–236}}}}<br />–<br />July 2, 1852<br>{{small|(541 days; died in office)}}{{efn|Calhoun left the territory on May 6, 1852, and died on July 2; Territorial Secretary [[John Greiner]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=235–236}}}}
+|{{sortname|Millard|Fillmore}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Lane, William"|[[File:William Carr Lane (St. Louis Mayor, New Mexico Territory Governor).jpg|75px]]
+|'''[[William Carr Lane]]'''<br>{{Small|(1789–1863)}}<br>{{sfn|McMullin|1984|pp=236–237}}
+|data-sort-value="296"|July 15, 1852{{efn|Lane was nominated and confirmed by the Senate on July 15, 1852,<ref>U.S. Congress. ''Senate Exec. Journal''. 32nd Cong., 1st sess., [https://books.google.com/books?id=Gj4tAQAAMAAJ&pg=PA422 422], accessed May 8, 2023.</ref> and was inaugurated on September 13.{{sfn|McMullin|1984|pp=236–237}}}}<br />–<br />May 6, 1853<br>{{small|(296 days; replaced)}}{{efn|Lane had a resignation letter ready,<ref>{{Cite journal |last=Carson |first=William G.B. |date=1964 |title=William Carr Lane, Diary |url=https://digitalrepository.unm.edu/nmhr/vol39/iss3/3/ |journal=New Mexico Historical Review |volume=39 |issue=3 |page=195 |access-date=May 8, 2023}}</ref> and some sources say he resigned,{{sfn|McMullin|1984|pp=236–237}} but the nomination of his successor specified that he was being removed.<ref name="borland-nomination" />}}
+|{{sortname|Millard|Fillmore}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Meriwether, David"|[[File:DavidMeriwether.jpg|75px]]
+|'''[[David Meriwether (Kentucky politician)|David Meriwether]]'''<br>{{Small|(1800–1893)}}<br>{{sfn|McMullin|1984|pp=237–238}}
+|data-sort-value="1565"|May 6, 1853{{efn|[[Solon Borland]] was nominated and confirmed by the Senate on April 8, 1853,<ref name="borland-nomination">U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., special sess., [https://books.google.com/books?id=USxRI4KXAbwC&pg=PA160 160, 162], accessed May 8, 2023.</ref> but declined the post.<ref name="territorial-papers">{{Cite book |url=https://books.google.com/books?id=6IVHAQAAMAAJ |title=The Territorial Papers of the United States: Volume I: General |date=1934 |publisher=[[United States Government Publishing Office]] |page=23 |language=en}}</ref> Meriwether was appointed on May 6, 1853, during a Senate recess;<ref name="territorial-papers" /> and was formally nominated and confirmed by the Senate on February 4, 1854.<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., 1st sess., [https://books.google.com/books?id=USxRI4KXAbwC&pg=PA230 230, 234], accessed May 8, 2023.</ref> He was inaugurated on August 8, 1853.{{sfn|McMullin|1984|pp=237–238}}}}<br />–<br />August 17, 1857<br>{{small|(1565 days; replaced)}}{{efn|Meriwether left the territory in May 1857, after which time Territorial Secretary [[William W. H. Davis]] acted as governor until he too left the territory in October.{{sfn|McMullin|1984|pp=237–238}}}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Rencher, Abraham"|[[File:Abraham Rencher (New Mexico Governor).jpg|75px]]
+|'''[[Abraham Rencher]]'''<br>{{Small|(1798–1883)}}<br>{{sfn|McMullin|1984|pp=239–240}}
+|data-sort-value="1377"|August 17, 1857{{efn|Rencher was appointed on August 17, 1857, during a Senate recess;<ref name="territorial-papers" /> nominated on December 19, 1857;<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., 1st sess., [https://books.google.com/books?id=imEUAAAAYAAJ&pg=PA275 275], accessed May 8, 2023.</ref> and confirmed by the Senate on January 18, 1858.<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., 1st sess., [https://books.google.com/books?id=imEUAAAAYAAJ&pg=PA294 294], accessed May 8, 2023.</ref> He arrived in the territory on November 11, 1857.{{sfn|McMullin|1984|pp=239–240}}}}<br />–<br />May 24, 1861<br>{{small|(1377 days; replaced)}}
+|{{sortname|James|Buchanan}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Connelly, Henry"|[[File:Henry Connelly (New Mexico Governor).jpg|75px]]
+|'''[[Henry Connelly]]'''<br>{{Small|(1800–1866)}}<br>{{sfn|McMullin|1984|pp=240–241}}
+|data-sort-value="1698"|May 24, 1861{{efn|Connelly was appointed on May 24, 1861, during a Senate recess;<ref name="territorial-papers" /> nominated on July 10;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 1st sess., [https://books.google.com/books?id=5i8tAQAAMAAJ&pg=PA376 376], accessed May 8, 2023.</ref> but was rejected by the Senate on July 17.<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 1st sess., [https://books.google.com/books?id=5i8tAQAAMAAJ&pg=PA468 468], accessed May 8, 2023.</ref> He was reappointed on September 4, 1861, during a Senate recess;{{sfn|McMullin|1984|pp=240–241}} nominated on December 23, 1861;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 2nd sess., [https://books.google.com/books?id=iDctAQAAMAAJ&pg=PA30 30], accessed May 8, 2023.</ref> and confirmed by the Senate on July 16, 1862.<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 2nd sess., [https://books.google.com/books?id=iDctAQAAMAAJ&pg=PA418 418], accessed May 8, 2023.</ref>}}<br />–<br />January 15, 1866<br>{{small|(1698 days; replaced)}}{{efn|Connelly left the territory from fall 1862 to May 1863; Territorial Secretary [[William F. M. Arny]] acted as governor during this time.{{sfn|McMullin|1984|pp=240–241}}}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Mitchell, Robert"|[[File:Gen. Robert B. Mitchell - NARA - 528674 (cropped).jpg|75px]]
+|'''[[Robert Byington Mitchell]]'''<br>{{Small|(1823–1882)}}<br>{{sfn|McMullin|1984|pp=241–242}}
+|data-sort-value="1230"|January 15, 1866{{efn|Mitchell was nominated on December 21, 1865;<ref>U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 1st sess., [https://books.google.com/books?id=VS8tAQAAMAAJ&pg=PA315 315], accessed May 7, 2023.</ref> confirmed by the Senate on January 15, 1866;<ref>U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 1st sess., [https://books.google.com/books?id=VS8tAQAAMAAJ&pg=PA482 482], accessed May 7, 2023.</ref> and took office on July 16, 1866.{{sfn|McMullin|1984|pp=241–242}}}}<br />–<br />May 28, 1869<br>{{small|(1230 days; resigned)}}{{efn|The nomination of Mitchell's successor specifies that he resigned.<ref name="pile-nomination" />}}{{efn|Mitchell left the territory in November 1866 for almost four months; Territorial Secretary [[William F. M. Arny]] acted as governor during this time.{{sfn|McMullin|1984|pp=241–242}}}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Pile, William"|[[File:WAPile.jpg|75px]]
+|'''[[William A. Pile]]'''<br>{{Small|(1829–1889)}}<br>{{sfn|McMullin|1984|pp=242–243}}
+|data-sort-value="791"|May 28, 1869{{efn|Pile was appointed on May 28, 1869, during a Senate recess;<ref name="territorial-papers" /> nominated on December 6;<ref name="pile-nomination">U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 2nd sess., [https://books.google.com/books?id=J45NAQAAMAAJ&pg=PA255 255], accessed May 7, 2023.</ref> and confirmed by the Senate on December 21.<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 2nd sess., [https://books.google.com/books?id=J45NAQAAMAAJ&pg=PA326 326], accessed May 7, 2023.</ref> He took office on August 16, 1869.{{sfn|McMullin|1984|pp=242–243}}}}<br />–<br />July 27, 1871<br>{{small|(791 days; replaced)}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Giddings, Marsh"|[[File:Marsh-Giddings-1871.jpg|75px]]
+|'''[[Marsh Giddings]]'''<br>{{Small|(1816–1875)}}<br>{{sfn|McMullin|1984|pp=244–245}}
+|data-sort-value="1408"|July 27, 1871{{efn|[[Willard Warner]] was nominated and confirmed by the Senate on May 19, 1871,<ref>U.S. Congress. ''Senate Exec. Journal''. 42nd Cong., special sess., [https://books.google.com/books?id=QT4tAQAAMAAJ&pg=PA94 94, 97], accessed May 7, 2023.</ref> but declined the post. Giddings was appointed on July 27, 1871, during a Senate recess;<ref name="territorial-papers" /> nominated on December 6;<ref>U.S. Congress. ''Senate Exec. Journal''. 42nd Cong., 2nd sess., [https://books.google.com/books?id=QT4tAQAAMAAJ&pg=PA116 116], accessed May 7, 2023.</ref> and confirmed by the Senate on December 14.<ref>U.S. Congress. ''Senate Exec. Journal''. 42nd Cong., 2nd sess., [https://books.google.com/books?id=QT4tAQAAMAAJ&pg=PA157 157], accessed May 7, 2023.</ref> He arrived in the territory on September 1.{{sfn|McMullin|1984|pp=244–245}}}}<br />–<br />June 3, 1875<br>{{small|(1408 days; died in office)}}{{efn|After Giddings' death, Territorial Secretary [[William G. Ritch]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=244–245}}}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Axtell, Samuel"|[[File:Governor Sam B. Axtell Crop.jpg|75px]]
+|'''[[Samuel Beach Axtell]]'''<br>{{Small|(1819–1891)}}<br>{{sfn|McMullin|1984|pp=245–247}}
+|data-sort-value="1185"|June 8, 1875{{efn|Axtell was appointed on June 8, 1875, during a Senate recess;<ref>{{Cite news |date=1875-06-09 |title=New Governor |page=1 |work=The Santa Fe New Mexican |url=https://www.newspapers.com/article/the-santa-fe-new-mexican-axtell-appointe/124263516/ |access-date=2023-09-29}}</ref> nominated on December 9;<ref>U.S. Congress. ''Senate Exec. Journal''. 44th Cong., 1st sess., [https://books.google.com/books?id=rS4tAQAAMAAJ&pg=PA77 77], accessed May 7, 2023.</ref> and confirmed by the Senate on December 16.<ref>U.S. Congress. ''Senate Exec. Journal''. 44th Cong., 1st sess., [https://books.google.com/books?id=rS4tAQAAMAAJ&pg=PA117 117], accessed May 7, 2023.</ref> He arrived in the territory on July 30.{{sfn|McMullin|1984|pp=245–247}}}}<br />–<br />September 4, 1878<br>{{small|(1185 days; removed)}}{{efn|Axtell was suspended by [[United States Secretary of the Interior]] [[Carl Schurz]] for mishandling the widespread violence in the territory.{{sfn|McMullin|1984|pp=245–247}}}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Wallace, Lew"|[[File:Lewis Wallace.jpg|75px]]
+|'''[[Lew Wallace]]'''<br>{{Small|(1827–1905)}}<br>{{sfn|McMullin|1984|pp=247–249}}
+|data-sort-value="975"|September 4, 1878{{efn|Wallace was appointed on September 4, 1878, during a Senate recess;<ref>{{Cite news |date=1878-09-07 |title=Gen. Lew Wallace appointed Governor |page=3 |work=Las Vegas Gazette |url=https://www.newspapers.com/article/las-vegas-gazette-gen-lew-wallace-appoi/124264028/ |access-date=2023-09-29}}</ref> nominated on December 4;<ref>U.S. Congress. ''Senate Exec. Journal''. 45th Cong., 3rd sess., [https://books.google.com/books?id=cj2DLzVI238C&pg=PA386 386], accessed May 7, 2023.</ref> and confirmed by the Senate on December 16.<ref>U.S. Congress. ''Senate Exec. Journal''. 45th Cong., 3rd sess., [https://books.google.com/books?id=cj2DLzVI238C&pg=PA423 423], accessed May 7, 2023.</ref> He arrived in the territory on September 29, and was sworn in the next day.{{sfn|McMullin|1984|pp=247–249}}}}<br />–<br />May 5, 1881<br>{{small|(975 days; resigned)}}{{efn|Wallace resigned, disillusioned with the violence in the territory and the power held by the "[[Santa Fe Ring]]".{{sfn|McMullin|1984|pp=247–249}}}}
+|{{sortname|Rutherford B.|Hayes}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Sheldon, Lionel"|[[File:LASheldon crop.png|75px]]
+|'''[[Lionel Allen Sheldon]]'''<br>{{Small|(1828–1917)}}<br>{{sfn|McMullin|1984|pp=249–250}}
+|data-sort-value="1480"|May 5, 1881{{efn|Sheldon was nominated on March 23, 1881;<ref>U.S. Congress. ''Senate Exec. Journal''. 47th Cong., special sess., [https://books.google.com/books?id=5iZqp6LiAkkC&pg=PA40 40], accessed May 7, 2023.</ref> confirmed by the Senate on May 5;<ref>U.S. Congress. ''Senate Exec. Journal''. 47th Cong., special sess., [https://books.google.com/books?id=5iZqp6LiAkkC&pg=PA68 68], accessed May 7, 2023.</ref> and arrived in the territory on July 4.{{sfn|McMullin|1984|pp=249–250}}}}<br />–<br />May 23, 1885<br>{{small|(1480 days; replaced)}}
+|{{sortname|James A.|Garfield}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Ross, Edmund"|[[File:Edmund G. Ross - Brady-Handy (cropped).jpg|75px]]
+|'''[[Edmund G. Ross]]'''<br>{{Small|(1826–1907)}}<br>{{sfn|McMullin|1984|pp=250–252}}
+|data-sort-value="1411"|May 23, 1885{{efn|Ross was appointed on May 23, 1885, during a Senate recess;<ref>{{Cite news |date=1885-05-25 |title=Gov. Ross! |page=1 |work=Albuquerque Evening Democrat |url=https://www.newspapers.com/article/albuquerque-evening-democrat-ross-appoin/124269462/ |access-date=2023-09-29}}</ref> nominated on December 10, 1885;<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 1st sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA55 55], accessed May 7, 2023.</ref> and confirmed by the Senate on April 20, 1886.<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 1st sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA432 432], accessed May 7, 2023.</ref> He was sworn in on June 15, 1885.{{sfn|McMullin|1984|pp=250–252}}}}<br />–<br />April 2, 1889<br>{{small|(1411 days; replaced)}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Prince, L. Bradford"|[[File:Bradford Prince.jpg|75px]]
+|'''[[L. Bradford Prince]]'''<br>{{Small|(1840–1922)}}<br>{{sfn|McMullin|1984|pp=252–253}}
+|data-sort-value="1467"|April 2, 1889{{efn|Prince was nominated on April 1, 1889;<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA57 57], accessed May 7, 2023.</ref> confirmed by the Senate on April 2;<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA62 62], accessed May 7, 2023.</ref> and was inaugurated on April 17.{{sfn|McMullin|1984|pp=252–253}}}}<br />–<br />April 7, 1893<br>{{small|(1467 days; replaced)}}
+|{{sortname|Benjamin|Harrison}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Thornton, William"|[[File:William Taylor Thornton (New Mexico Territory Governor).jpg|75px]]
+|'''[[William Taylor Thornton]]'''<br>{{Small|(1843–1916)}}<br>{{sfn|McMullin|1984|pp=253–255}}
+|data-sort-value="1460"|April 7, 1893{{efn|Thornton was nominated on April 5, 1893;<ref>U.S. Congress. ''Senate Exec. Journal''. 53rd Cong., special sess., [https://books.google.com/books?id=7VUUAAAAYAAJ&pg=PA446 446], accessed May 7, 2023.</ref> confirmed by the Senate on April 7;<ref>U.S. Congress. ''Senate Exec. Journal''. 53rd Cong., special sess., [https://books.google.com/books?id=7VUUAAAAYAAJ&pg=PA453 453], accessed May 7, 2023.</ref> and took office on April 20.{{sfn|McMullin|1984|pp=253–255}}}}<br />–<br />April 5, 1897<br>{{small|(1460 days; resigned)}}{{efn|Thornton submitted his resignation on April 2, 1897, and left the territory on April 5. No reason is recorded for his resignation; though it was the day after a high-profile execution.{{sfn|McMullin|1984|pp=253–255}} Territorial Secretary [[Loren Miller (politician)|Loren Miller]] acted as governor until his successor arrived.<ref>{{Cite book |last=Tórrez |first=Robert J. |url=https://books.google.com/books?id=T8rjOdWL-70C&pg=PA29 |title=Myth of the Hanging Tree: Stories of Crime and Punishment in Territorial New Mexico |date=2008 |publisher=UNM Press |isbn=978-0-8263-4379-6 |page=29 |language=en}}</ref>}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Otero, Miguel"|[[File:Gov Miguel Antonio Otero.jpg|75px]]
+|rowspan="2"|'''[[Miguel Antonio Otero (born 1859)|Miguel Antonio Otero]]'''<br>{{Small|(1859–1944)}}<br>{{sfn|McMullin|1984|pp=255–256}}
+|rowspan="2" data-sort-value="3144"|June 2, 1897{{efn|Otero was nominated on June 2, 1897;<ref>U.S. Congress. ''Senate Exec. Journal''. 55th Cong., 1st sess., [https://books.google.com/books?id=eaeIAAAAMAAJ&pg=PA144 144], accessed May 7, 2023.</ref> confirmed by the Senate on June 5;<ref>U.S. Congress. ''Senate Exec. Journal''. 55th Cong., 1st sess., [https://books.google.com/books?id=eaeIAAAAMAAJ&pg=PA154 154], accessed May 7, 2023.</ref> and was inaugurated on July 14.{{sfn|McMullin|1984|pp=255–256}} He was reconfirmed by the Senate on January 22, 1902.<ref>U.S. Congress. ''Senate Exec. Journal''. 57th Cong., 1st sess., [https://books.google.com/books?id=dTktAQAAMAAJ&pg=PA280 280], accessed July 26, 2023.</ref>}}<br />–<br />January 10, 1906<br>{{small|(3144 days; replaced)}}
+|{{sortname|William|McKinley}}
+|- style="height:2em;"
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Hagerman, Herbert"|[[File:Herbert J. Hagerman (New Mexico Territory Governor).jpg|75px]]
+|'''[[Herbert James Hagerman]]'''<br>{{Small|(1871–1935)}}<br>{{sfn|McMullin|1984|pp=257–258}}
+|data-sort-value="479"|January 10, 1906{{efn|Hagerman was nominated on December 6, 1905;<ref>U.S. Congress. ''Senate Exec. Journal''. 59th Cong., 1st sess., [https://books.google.com/books?id=gjotAQAAMAAJ&pg=PA28 28], accessed May 7, 2023.</ref> confirmed by the Senate on January 10, 1906;<ref>U.S. Congress. ''Senate Exec. Journal''. 59th Cong., 1st sess., [https://books.google.com/books?id=gjotAQAAMAAJ&pg=PA157 157], accessed May 7, 2023.</ref> and took office on January 22, 1906.{{sfn|McMullin|1984|pp=257–258}}}}<br />–<br />May 3, 1907<br>{{small|(479 days; resigned)}}{{efn|President [[Theodore Roosevelt]] demanded Hagerman's resignation in April 1907 due to political pressure and controversial purchases. Territorial Secretary [[J. W. Raynolds]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=257–258}}}}
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Curry, George"|[[File:CURRY. GOVERNOR LCCN2016856986 (cropped).jpg|75px]]
+|'''[[George Curry (politician)|George Curry]]'''<br>{{Small|(1861–1947)}}<br>{{sfn|McMullin|1984|pp=258–259}}
+|data-sort-value="1009"|May 27, 1907{{efn|Curry was appointed on May 27, 1907, during a Senate recess;<ref name="curry-nomination" /> nominated on December 3, 1907;<ref name="curry-nomination">U.S. Congress. ''Senate Exec. Journal''. 60th Cong., 1st sess., [https://books.google.com/books?id=aINNAQAAMAAJ&pg=PA102 102], accessed May 7, 2023.</ref> and confirmed by the Senate on January 14, 1908.<ref>U.S. Congress. ''Senate Exec. Journal''. 60th Cong., 1st sess., [https://books.google.com/books?id=aINNAQAAMAAJ&pg=PA197 197], accessed May 7, 2023.</ref> He took office on August 8, 1907.{{sfn|McMullin|1984|pp=258–259}}}}<br />–<br />March 1, 1910<br>{{small|(1010 days; resigned)}}{{efn|Curry resigned due to disagreements with [[United States Secretary of the Interior]] [[Richard A. Ballinger]].{{sfn|McMullin|1984|pp=258–259}}}}
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Mills, William"|[[File:William Joseph Mills.jpg|75px]]
+|'''[[William J. Mills]]'''<br>{{Small|(1849–1915)}}<br>{{sfn|McMullin|1984|pp=259–260}}
+|data-sort-value="685"|March 1, 1910{{efn|Mills was nominated on December 10, 1909 for a term to begin March 1, 1910;<ref>U.S. Congress. ''Senate Exec. Journal''. 61st Cong., 2nd sess., [https://books.google.com/books?id=8viHAAAAMAAJ&pg=PA57 57], accessed May 7, 2023.</ref> confirmed by the Senate on December 20, 1909;<ref>U.S. Congress. ''Senate Exec. Journal''. 61st Cong., 2nd sess., [https://books.google.com/books?id=8viHAAAAMAAJ&pg=PA91 91], accessed May 7, 2023.</ref> and took office on March 1, 1910.{{sfn|McMullin|1984|pp=259–260}}}}<br />–<br />January 14, 1912<br>{{small|(685 days; statehood)}}{{efn|Mills served as governor until statehood, and [[1912–13 United States Senate elections|ran unsuccessfully]] for one of the first [[United States Senate]] seats for New Mexico.{{sfn|McMullin|1984|pp=259–260}}}}
+|{{sortname|William Howard|Taft}}
+|}
+
+===State of New Mexico===
+The state of New Mexico was [[Admission to the Union|admitted to the Union]] on January 6, 1912.<ref>{{usstat|37|39}}</ref> 
+
+The [[Constitution of New Mexico|state constitution]] of 1912 called for the election of a governor and lieutenant governor every four years. The term was changed to two years by a 1914 amendment, and lengthened back to four years in 1970. Governors originally could not succeed themselves; this was changed in 1914 to allow governors to succeed themselves once before having to take a term off. With the lengthening of the term to four years in 1970, this was changed back to prohibiting them from succeeding themselves, but in 1986 it was lengthened back to two terms. A 1962 amendment made it so that the governor and lieutenant governor are elected on a [[ticket (election)]].<ref>[https://nmonesource.com/nmos/c/en/item/5916/index.do#!b/aVs1 NM Const. art 5, § 1], accessed May 8, 2023</ref> In the event of a vacancy in the office of governor, the lieutenant governor becomes governor.<ref>[https://nmonesource.com/nmos/c/en/item/5916/index.do#!b/aVs7 NM Const., art. V, § 7], accessed May 8, 2023</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of New Mexico
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of New Mexico|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="McDonald, William"|[[File:William C. McDonald (1912).jpg|75px]]
+|rowspan="2" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|'''[[William C. McDonald (governor)|William C. McDonald]]'''<br>{{Small|(1858–1918)}}<br>{{sfn|Sobel|1978|p=1049}}<ref name="nga-mcdonald">{{Cite web |title=William Calhoun McDonald |date=January 2011 |url=https://www.nga.org/governor/william-calhoun-mcdonald/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1814"|January 15, 1912<ref>{{Cite news |date=1912-01-15 |title=Thousands Cheer As Oath of Office Is Administered in Ancient Capital |page=1 |work=The Evening Herald |url=https://www.newspapers.com/article/the-evening-herald-thousands-cheer-as-oa/124276965/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1917<br>{{small|(1814 days; term-limited)}}{{efn|Under a 1914 amendment to the constitution, governors were ineligible for two years after having served two consecutive terms.<ref>{{Cite web |title=N.M. Const. art. V, § 1, as amended in 1914 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NM%27&CID=269&art=5&sec=1&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1914}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1911 New Mexico gubernatorial election|1911]]
+|style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|{{sortname|Ezequiel Cabeza|De Baca}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="De Baca, Ezequiel"|[[File:Ezequiel Cabeza De Baca.jpg|75px]]
+|'''[[Ezequiel Cabeza De Baca]]'''<br>{{Small|(1864–1917)}}<br>{{sfn|Sobel|1978|p=1050}}<ref name="nga-debaca">{{Cite web |title=Ezequiel Cabeza De Baca |date=January 2011 |url=https://www.nga.org/governor/ezequiel-cabeza-de-baca/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="49"|January 1, 1917<ref>{{Cite news |last=McAllister |first=R. L. D. |date=1917-01-02 |title=New Governor Is Inaugurated with Simplest of Ceremonies |page=1 |work=Albuquerque Morning Journal |url=https://www.newspapers.com/article/albuquerque-morning-journal-new-governor/124277171/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>February 18, 1917<br>{{small|(49 days; died in office)}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1916 New Mexico gubernatorial election|1916]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Washington Ellsworth|Lindsey}}{{efn|Represented the [[Republican Party of New Mexico|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Lindsey, Washington"|[[File:Washington Ellsworth Lindsey.JPG|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Washington Ellsworth Lindsey]]'''<br>{{Small|(1862–1926)}}<br>{{sfn|Sobel|1978|pp=1050–1051}}<ref name="nga-lindsey">{{Cite web |title=Washington Ellsworth Lindsey |date=January 2011 |url=https://www.nga.org/governor/washington-ellsworth-lindsey/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="683"|February 18, 1917<ref>{{Cite news |date=1917-02-19 |title=W. E. Lindsey Is Governor; Sworn In Today |page=1 |work=The Santa Fe New Mexican |url=https://www.newspapers.com/article/the-santa-fe-new-mexican-w-e-lindsey-i/124277241/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1919<br>{{small|(683 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1050–1051}}
+|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Larrazolo, Octaviano"|[[File:Octaviano Larrazolo, bw photo portrait, 1919.jpg|75px]]
+|'''[[Octaviano Ambrosio Larrazolo]]'''<br>{{Small|(1859–1930)}}<br>{{sfn|Sobel|1978|p=1051}}<ref name="nga-larrazolo">{{Cite web |title=Octaviano Ambrosio Larrazolo |date=January 2011 |url=https://www.nga.org/governor/octaviano-ambrosio-larrazolo/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|January 1, 1919<ref>{{Cite news |date=1919-01-02 |title=New Governor of State Delivers Strong Address at Inauguration |page=1 |work=Albuquerque Morning Journal |url=https://www.newspapers.com/article/albuquerque-morning-journal-new-governor/124277426/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1921<br>{{small|(732 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=1051}}
+|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1918 New Mexico gubernatorial election|1918]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Benjamin F.|Pankey}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Mechem, Merritt"|[[File:Merrit C. Mechem (1921).jpg|75px]]
+|'''[[Merritt C. Mechem]]'''<br>{{Small|(1870–1946)}}<br>{{sfn|Sobel|1978|p=1052}}<ref name="nga-mechem-merritt">{{Cite web |title=Merritt Cramer Mechem |date=January 2011 |url=https://www.nga.org/governor/merritt-cramer-mechem/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|January 1, 1921<ref>{{Cite news |last=Anderson |first=Clinton P. |date=1921-01-02 |title=Mechem Is Inaugurated Governor |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-mechem-is-inaugurate/124277528/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1923<br>{{small|(731 days; retired)}}{{sfn|Sobel|1978|p=1052}}
+|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1920 New Mexico gubernatorial election|1920]]
+|{{sortname|William H.|Duckworth|dab=New Mexico politician|nolink=1}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Hinkle, James"|[[File:James Hinkle.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[James F. Hinkle]]'''<br>{{Small|(1862–1951)}}<br>{{sfn|Sobel|1978|pp=1052–1053}}<ref name="nga-hinkle">{{Cite web |title=James Fielding Hinkle |date=January 2011 |url=https://www.nga.org/governor/james-fielding-hinkle/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="732"|January 1, 1923<ref>{{Cite news |date=1923-01-02 |title=Hinkle Is Inaugurated As Governor of State Before a Large Crowd |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-hinkle-is-inaugurate/124277620/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1925<br>{{small|(732 days; retired)}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|rowspan="2"|[[1922 New Mexico gubernatorial election|1922]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|José A.|Baca}}<br>{{small|(died May 17, 1924)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Hannett, Arthur"|[[File:ArthurTHannett.jpg|75px]]
+|'''[[Arthur T. Hannett]]'''<br>{{Small|(1884–1966)}}<br>{{sfn|Sobel|1978|pp=1053–1054}}<ref name="nga-hannett">{{Cite web |title=Arthur Thomas Hannett |date=January 2011 |url=https://www.nga.org/governor/arthur-thomas-hannett/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|January 1, 1925<ref>{{Cite news |last=Root |first=Colbert C. |date=1925-01-02 |title=Hannett Is Sworn Into Office As Governor of State; Pledges Himself to Efficiency, Economy |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-hannett-is-sworn-int/124305678/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1927<br>{{small|(731 days; lost election)}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1924 New Mexico gubernatorial election|1924]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Edward G.|Sargent|nolink=1}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|8
+|rowspan="3" data-sort-value="Dillon, Richard"|[[File:Richard C. Dillon.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Richard C. Dillon]]'''<br>{{Small|(1877–1966)}}<br>{{sfn|Sobel|1978|p=1054}}<ref name="nga-dillon">{{Cite web |title=Richard Charles Dillon |date=January 2011 |url=https://www.nga.org/governor/richard-charles-dillon/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1462"|January 1, 1927<ref>{{Cite news |date=1927-01-02 |title=New Executive Gives Pledge of Best Work for State's Welfare |page=1 |work=Albuquerque Journal |agency=Associated Press |url=https://www.newspapers.com/article/albuquerque-journal-new-executive-gives/124306084/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1931<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="3"|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1926 New Mexico gubernatorial election|1926]]
+|- style="height:2em;"
+|rowspan="2"|[[1928 New Mexico gubernatorial election|1928]]
+|{{sortname|Hugh B.|Woodward|nolink=1}}<br>{{small|(resigned July 1929)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Seligman, Arthur"|[[File:Arthur Seligman (New Mexico Governor).jpg|75px]]
+|rowspan="11" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Arthur Seligman]]'''<br>{{Small|(1871–1933)}}<br>{{sfn|Sobel|1978|pp=1054–1055}}<ref name="nga-seligman">{{Cite web |title=Arthur Seligman |date=January 2011 |url=https://www.nga.org/governor/arthur-seligman/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="999"|January 1, 1931<ref>{{Cite news |date=1931-01-02 |title=Seligman Begins Term Amid Best Wishes of People of New Mexico |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-seligman-begins-term/124306135/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>September 25, 1933<br>{{small|(999 days; died in office)}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1930 New Mexico gubernatorial election|1930]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Andrew W.|Hockenhull}}
+|- style="height:2em;"
+|[[1932 New Mexico gubernatorial election|1932]]
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Hockenhull, Andrew"|[[File:Andrew Hockenhull.jpg|75px]]
+|'''[[Andrew W. Hockenhull]]'''<br>{{Small|(1877–1974)}}<br>{{sfn|Sobel|1978|pp=1055–1056}}<ref name="nga-hockenhull">{{Cite web |title=Andrew W. Hockenhull |date=January 2011 |url=https://www.nga.org/governor/andrew-w-hockenhull/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="464"|September 25, 1933<ref>{{Cite news |date=1933-09-26 |title=Executive Stricken After Address; Successor Takes Oath and Assumes Duties |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-executive-stricken-a/124306195/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1935<br>{{small|(464 days; retired)}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Tingley, Clyde"|[[File:Clyde Tingley.jpg|75px]]
+|rowspan="2"|'''[[Clyde Tingley]]'''<br>{{Small|(1881–1960)}}<br>{{sfn|Sobel|1978|p=1056}}<ref name="nga-tingley">{{Cite web |title=Clyde Tingley |date=January 2011 |url=https://www.nga.org/governor/clyde-tingley/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1935<ref>{{Cite news |date=1935-01-02 |title=Governor Is General in Speech |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-governor-is-general/124306301/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1939<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1934 New Mexico gubernatorial election|1934]]
+|rowspan="12" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Louis Cabeza|de Baca|nolink=1}}
+|- style="height:2em;"
+|[[1936 New Mexico gubernatorial election|1936]]
+|{{sortname|Hiram M.|Dow}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|12
+|rowspan="2" data-sort-value="Miles, John"|[[File:John E. Miles.jpg|75px]]
+|rowspan="2"|'''[[John E. Miles]]'''<br>{{Small|(1884–1971)}}<br>{{sfn|Sobel|1978|pp=1056–1057}}<ref name="nga-miles">{{Cite web |title=John Esten Miles |date=January 2011 |url=https://www.nga.org/governor/john-esten-miles/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1939{{efn|The constitutional start date of the term was January 1; however, in 1939 this was a Sunday, so Miles was sworn in the next day.<ref>{{Cite news |date=1939-01-03 |title=John E. Miles Becomes Twelfth Governor of New Mexico |page=1 |work=Albuquerque Journal |agency=Associated Press |url=https://www.newspapers.com/article/albuquerque-journal-john-e-miles-become/124306825/ |access-date=2023-09-29}}</ref>}}<br/>&ndash;<br/>January 1, 1943<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1938 New Mexico gubernatorial election|1938]]
+|{{sortname|James|Murray Sr.|nolink=1}}
+|- style="height:2em;"
+|[[1940 New Mexico gubernatorial election|1940]]
+|{{sortname|Ceferino|Quintana}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Dempsey, John"|[[File:John J. Dempsey.jpg|75px]]
+|rowspan="2"|'''[[John J. Dempsey]]'''<br>{{Small|(1879–1958)}}<br>{{sfn|Sobel|1978|pp=1057–1058}}<ref name="nga-dempsey">{{Cite web |title=John Joseph Dempsey |date=January 2011 |url=https://www.nga.org/governor/john-joseph-dempsey/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1943<ref>{{Cite news |date=1943-01-02 |title=Dempsey Takes Oath, Dedicates State to Victory |page=1 |work=Albuquerque Journal |agency=Associated Press |url=https://www.newspapers.com/article/albuquerque-journal-dempsey-takes-oath/124306932/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1947<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1942 New Mexico gubernatorial election|1942]]
+|rowspan="2"|{{sortname|James B.|Jones}}
+|- style="height:2em;"
+|[[1944 New Mexico gubernatorial election|1944]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Mabry, Thomas"|[[File:Thomas J. Mabry.png|75px]]
+|rowspan="2"|'''[[Thomas J. Mabry]]'''<br>{{Small|(1884–1962)}}<br>{{sfn|Sobel|1978|pp=1058–1059}}<ref name="nga-mabry">{{Cite web |title=Thomas Jewett Mabry |date=January 2011 |url=https://www.nga.org/governor/thomas-jewett-mabry/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1947<ref>{{Cite news |date=1947-01-02 |title=New Mexico's 14th Governor Takes His Oath |page=1 |work=Albuquerque Journal |agency=Associated Press |url=https://www.newspapers.com/article/albuquerque-journal-new-mexicos-14th-go/124306984/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1951<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1946 New Mexico gubernatorial election|1946]]
+|rowspan="2"|{{sortname|Joseph|Montoya}}
+|- style="height:2em;"
+|[[1948 New Mexico gubernatorial election|1948]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Mechem, Edwin"|[[File:Edwin L. Mechem (NM, 1953).png|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Edwin L. Mechem]]'''<br>{{Small|(1912–2002)}}<br>{{sfn|Sobel|1978|pp=1059–1060}}<ref name="nga-mechem-edwin">{{Cite web |title=Edwin Leard Mechem |date=January 2011 |url=https://www.nga.org/governor/edwin-leard-mechem/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1951<ref>{{Cite news |date=1951-01-02 |title=Mechem Takes Office, Warns of World Crisis |page=1 |work=Albuquerque Journal |agency=Associated Press |url=https://www.newspapers.com/article/albuquerque-journal-mechem-takes-office/124307194/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1955<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="2"|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1950 New Mexico gubernatorial election|1950]]
+|rowspan="2"|{{sortname|Tibo J.|Chávez}}{{efn|Represented the [[Democratic Party of New Mexico|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+|[[1952 New Mexico gubernatorial election|1952]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Simms, John"|[[File:John F. Simms (New Mexico Governor).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John F. Simms]]'''<br>{{Small|(1916–1975)}}<br>{{sfn|Sobel|1978|p=1060}}<ref name="nga-simms">{{Cite web |title=John Field Simms |date=January 2011 |url=https://www.nga.org/governor/john-field-simms/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|January 1, 1955<ref>{{Cite news |last=Wilbur |first=Dick |date=1955-01-02 |title=Simms Becomes 16th New Mexico Governor |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-simms-becomes-16th-n/124307241/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1957<br>{{small|(732 days; lost election)}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1954 New Mexico gubernatorial election|1954]]
+|rowspan="2"|{{sortname|Joseph|Montoya}}{{efn|name=lt-dem}}<br>{{small|(resigned April 9, 1957)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Mechem, Edwin"|[[File:Edwin L. Mechem (NM, 1958).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Edwin L. Mechem]]'''<br>{{Small|(1912–2002)}}<br>{{sfn|Sobel|1978|pp=1059–1060}}<ref name="nga-mechem-edwin" />
+|rowspan="2" data-sort-value="731"|January 1, 1957<ref>{{Cite news |last=Wilbur |first=Dick |date=1957-01-02 |title=Simms Lauds First 3-Time Chief Executive |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-simms-lauds-first-3/124307285/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1959<br>{{small|(731 days; lost election)}}
+|rowspan="2"|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|rowspan="2"|[[1956 New Mexico gubernatorial election|1956]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Burroughs, John"|[[File:Governor John Burroughs.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John Burroughs (governor)|John Burroughs]]'''<br>{{Small|(1907–1978)}}<br>{{sfn|Sobel|1978|p=1061}}<ref name="nga-burroughs">{{Cite web |title=John Burroughs |date=January 2011 |url=https://www.nga.org/governor/john-burroughs/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|January 1, 1959<ref>{{Cite news |last=Mills |first=Ernie |date=1959-01-02 |title=Gov. Burroughs Takes Office |page=1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-gov-burroughs-takes/124307366/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1961<br>{{small|(732 days; lost election)}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1958 New Mexico gubernatorial election|1958]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Ed V.|Mead}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Mechem, Edwin"|[[File:Edwin L. Mechem (NM, 1962).png|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Edwin L. Mechem]]'''<br>{{Small|(1912–2002)}}<br>{{sfn|Sobel|1978|pp=1059–1060}}<ref name="nga-mechem-edwin" />
+|data-sort-value="699"|January 1, 1961{{efn|The constitutional start date of the term was January 1; however, in 1961 this was a Sunday, so Mechem was sworn in the next day.<ref>{{Cite news |last=Curtis |first=John B. |date=1961-01-03 |title=Mechem Starts 4th Term |page=A1 |work=Albuquerque Journal |agency=Associated Press |url=https://www.newspapers.com/article/albuquerque-journal-mechem-starts-4th-te/124311986/ |access-date=2023-09-29}}</ref>}}<br/>&ndash;<br/>November 30, 1962<br>{{small|(699 days; resigned)}}{{efn|Mechem resigned to be appointed to the [[United States Senate]] by his successor; he had already lost reelection.{{sfn|Sobel|1978|pp=1059–1060}}}}
+|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1960 New Mexico gubernatorial election|1960]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Tom|Bolack}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Bolack, Tom"|[[File:Tom Bolack (New Mexico Governor).jpg|75px]]
+|'''[[Tom Bolack]]'''<br>{{Small|(1918–1998)}}<br>{{sfn|Sobel|1978|pp=1061–1062}}<ref name="nga-bolack">{{Cite web |title=Thomas Felix Bolack |date=January 2011 |url=https://www.nga.org/governor/thomas-felix-bolack/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="33"|November 30, 1962<ref>{{Cite news |last=Buckles |first=Fred |date=1962-12-01 |title=Governor's Post Goes to Bolack |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-governors-post-goes/124312128/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1963<br>{{small|(33 days; retired)}}
+|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2"|21
+|rowspan="2" data-sort-value="Campbell, Jack"|[[File:Jack M. Campbell.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jack M. Campbell]]'''<br>{{Small|(1916–1999)}}<br>{{sfn|Sobel|1978|pp=1062–1063}}<ref name="nga-campbell">{{Cite web |title=Jack M. Campbell |date=January 2011 |url=https://www.nga.org/governor/jack-m-campbell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1963<ref>{{Cite news |last=Buckles |first=Fred |date=1963-01-02 |title=Gov. Campbell Pledges to 'Do My Best' |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-gov-campbell-pledge/124312261/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1967<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1962 New Mexico gubernatorial election|1962]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Mack|Easley}}
+|- style="height:2em;"
+|[[1964 New Mexico gubernatorial election|1964]]
+|- style="height:2em;"
+!rowspan="2"|22
+|rowspan="2" data-sort-value="Cargo, David"|[[File:David Cargo (NM).png|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[David Cargo]]'''<br>{{Small|(1929–2013)}}<br>{{sfn|Sobel|1978|p=1063}}<ref name="nga-cargo">{{Cite web |title=David Francis Cargo |date=January 2011 |url=https://www.nga.org/governor/david-francis-cargo/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1967<ref>{{Cite news |date=1967-01-02 |title=State's Capitol Is Scene Today of Inauguration |page=A1 |work=Albuquerque Journal |agency=Associated Press |url=https://www.newspapers.com/article/albuquerque-journal-states-capitol-is-s/124312319/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1971<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1914}}
+|rowspan="2"|[[Republican Party of New Mexico|Republican]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1966 New Mexico gubernatorial election|1966]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Lee|Francis}}
+|- style="height:2em;"
+|[[1968 New Mexico gubernatorial election|1968]]
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="King, Bruce"|[[File:Governor Bruce King.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Bruce King]]'''<br>{{Small|(1924–2009)}}<br>{{sfn|Sobel|1978|p=1064}}<ref name="nga-king">{{Cite web |title=Bruce King |date=January 2011 |url=https://www.nga.org/governor/bruce-king/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1971<ref>{{Cite news |last=Scott |first=Wayne S. |date=1971-01-02 |title=King Becomes State's 21st Governor |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-king-becomes-states/124312456/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1975<br>{{small|(1462 days; term-limited)}}{{efn|Under a 1970 amendment to the constitution, governors were ineligible to succeed themselves.<ref>{{Cite web |title=N.M. Const. art. V, § 1 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NM%27&CID=269&art=5&sec=1&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1970}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1970 New Mexico gubernatorial election|1970]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Roberto|Mondragón}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Apodaca, Jerry"|[[File:Jerry Apodaca.jpg|75px]]
+|'''[[Jerry Apodaca]]'''<br>{{Small|(1934–2023)}}<br>{{sfn|Sobel|1978|pp=1064–1065}}<ref name="nga-apodaca">{{Cite web |title=Jerry Apodaca |date=January 2011 |url=https://www.nga.org/governor/jerry-apodaca/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1975<ref>{{Cite news |last=Scott |first=Wayne S. |date=1975-01-02 |title=Apodaca Vows Top Effort |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-apodaca-vows-top-eff/124312712/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1979<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1970}}
+|[[Democratic Party of New Mexico|Democratic]]{{sfn|Kallenbach|1977|pp=414–415}}
+|[[1974 New Mexico gubernatorial election|1974]]
+|{{sortname|Robert E.|Ferguson}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="King, Bruce"|[[File:Governor Bruce King.jpg|75px]]
+|'''[[Bruce King]]'''<br>{{Small|(1924–2009)}}<br>{{sfn|Sobel|1978|p=1064}}<ref name="nga-king" />
+|data-sort-value="1462"|January 1, 1979<ref>{{Cite news |last=Steinberg |first=David |date=1979-01-02 |title=King Sworn In, Asks a 'Special Commitment' |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-king-sworn-in-asks/124326357/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1983<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1970}}
+|[[Democratic Party of New Mexico|Democratic]]<ref name="nga-king" />
+|[[1978 New Mexico gubernatorial election|1978]]
+|{{sortname|Roberto|Mondragón}}
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Anaya, Toney"|[[File:Toney Anaya (NM).png|75px]]
+|'''[[Toney Anaya]]'''<br>{{small|({{Abbr|b.|born in}} 1941)}}<br><ref name="nga-anaya">{{Cite web |title=Toney Anaya |date=January 2011 |url=https://www.nga.org/governor/toney-anaya/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1983<ref>{{Cite news |last=Steinberg |first=David |date=1983-01-02 |title=Gov. Anaya Asks for 'New Beginning' |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-gov-anaya-asks-for/124326962/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1987<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1970}}
+|[[Democratic Party of New Mexico|Democratic]]<ref name="nga-anaya" />
+|[[1982 New Mexico gubernatorial election|1982]]
+|{{sortname|Mike|Runnels}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Carruthers, Garrey"|[[File:Garrey Carruthers (cropped).jpg |75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Garrey Carruthers]]'''<br>{{small|({{Abbr|b.|born in}} 1939)}}<br><ref name="nga-carruthers">{{Cite web |title=Garrey E. Carruthers |date=January 2011 |url=https://www.nga.org/governor/garrey-e-carruthers/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1987<ref>{{Cite news |last=Staats |first=David |date=1987-01-02 |title=Carruthers Promises Positive Attitude |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-carruthers-promises/124327022/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1991<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1970}}
+|[[Republican Party of New Mexico|Republican]]<ref name="nga-carruthers" />
+|[[1986 New Mexico gubernatorial election|1986]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Jack L.|Stahl}}
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="King, Bruce"|[[File:Governor Bruce King.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Bruce King]]'''<br>{{Small|(1924–2009)}}<br>{{sfn|Sobel|1978|p=1064}}<ref name="nga-king" />
+|data-sort-value="1462"|January 1, 1991<ref>{{Cite news |last=Yaeger |first=John |date=1991-01-02 |title=King Makes Unity Inaugural Theme |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-king-makes-unity-ina/124327058/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 1995<br>{{small|(1462 days; lost election)}}
+|[[Democratic Party of New Mexico|Democratic]]<ref name="nga-king" />
+|[[1990 New Mexico gubernatorial election|1990]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Casey|Luna}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Johnson, Gary"|[[File:Garyjohnsonphoto - modified.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Gary Johnson]]'''<br>{{small|({{Abbr|b.|born in}} 1953)}}<br><ref name="nga-johnson">{{Cite web |title=Gary E. Johnson |date=January 2011 |url=https://www.nga.org/governor/gary-e-johnson/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2923"|January 1, 1995<ref>{{Cite news |last=Jadrnak |first=Jackie |date=1995-01-02 |title=New Governor Takes Oath, Offers Thanks |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-new-governor-takes-o/124327279/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 2003<br>{{small|(2923 days; term-limited)}}{{efn|Under a 1986 amendment to the constitution, governors who have served two terms are ineligible until another term has passed.<ref>{{Cite web |title=N.M. Const. art. V, § 1 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NM%27&CID=269&art=5&sec=1&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1986}}
+|rowspan="2"|[[Republican Party of New Mexico|Republican]]<ref name="nga-johnson" />
+|[[1994 New Mexico gubernatorial election|1994]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Walter Dwight|Bradley}}
+|- style="height:2em;"
+|[[1998 New Mexico gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Richardson, Bill"|[[File:Bill Richardson at an event in Kensington, New Hampshire, March 18, 2006.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Bill Richardson]]'''<br>({{small|1947–2023)}}<br><ref name="nga-richardson">{{Cite web |title=Bill Richardson |date=January 2011 |url=https://www.nga.org/governor/bill-richardson/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2923"|January 1, 2003<ref>{{Cite news |last=Lane |first=Charlotte Balcomb |date=2003-01-02 |title=Richardson Enters Office With a Bang |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-richardson-enters-of/124327375/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 2011<br>{{small|(2923 days; term-limited)}}{{efn|name=limits-1986}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]<ref name="nga-richardson" />
+|[[2002 New Mexico gubernatorial election|2002]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Diane|Denish}}
+|- style="height:2em;"
+|[[2006 New Mexico gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Martinez, Susana"|[[File:Governor NewMexico.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Susana Martinez]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br><ref name="nga-martinez">{{Cite web |title=Susana Martinez |date=January 2011 |url=https://www.nga.org/governor/susana-martinez/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2923"|January 1, 2011<ref>{{Cite news |last=Boyd |first=Dan |date=2011-01-02 |title=Martinez: State To 'Serve No Interest But Yours' |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-martinez-state-to/124327448/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>January 1, 2019<br>{{small|(2923 days; term-limited)}}{{efn|name=limits-1986}}
+|rowspan="2"|[[Republican Party of New Mexico|Republican]]<ref name="nga-martinez" />
+|[[2010 New Mexico gubernatorial election|2010]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|John|Sanchez}}
+|- style="height:2em;"
+|[[2014 New Mexico gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Lujan Grisham, Michelle"|[[File:Michelle Lujan Grisham official photo (cropped 2).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Michelle Lujan Grisham]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br><ref name="nga-lujan-grisham">{{Cite web |title=Michelle Lujan Grisham |url=https://www.nga.org/governor/michelle-lujan-grisham/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|1|duration=on|format=no}}"|January 1, 2019<ref>{{Cite news |last=Boyd |first=Dan |date=2019-01-02 |title='We Will Go Big' |page=A1 |work=Albuquerque Journal |url=https://www.newspapers.com/article/albuquerque-journal-grisham-inaugurated/132619774/ |access-date=2023-09-29}}</ref><br/>&ndash;<br/>Incumbent{{efn|Lujan Grisham's second term began on January 1, 2023,<ref>{{Cite news |last=Egbuonu |first=Faith |date=2023-01-01 |title=Gov. Michelle Lujan Grisham sworn in for second term on New Year's Day |url=https://www.koat.com/article/new-year-michelle-grisham/42375347 |access-date=2025-01-23 |work=KOAT |language=en}}</ref> and [[2026 New Mexico gubernatorial election|will expire]] January 1, 2027; she is term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|1|duration=on|format=no}} days)}}
+|rowspan="2"|[[Democratic Party of New Mexico|Democratic]]<ref name="nga-lujan-grisham" />
+|[[2018 New Mexico gubernatorial election|2018]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Howie|Morales}}
+|- style="height:2em;"
+|[[2022 New Mexico gubernatorial election|2022]]
+|- style="height:2em;"
+!scope="row"|''33''
+|data-sort-value="Haaland, Deb"|[[File:Secretary_Deb_Haaland,_official_headshot.jpg|75px]]
+|'''''[[Deb Haaland]]'''''<br>{{small|({{abbr|b.|born in}} 1960)}}
+|data-sort-value="{{Duration in days nts|2027|1|1|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 1, 2027''
+|''[[Democratic Party of New Mexico|Democratic]]''
+|[[2026 New Mexico gubernatorial election|2026]]
+|''{{sortname|Stephanie Garcia|Richard}}''
+|}
+
+==See also==
+* [[List of New Mexico state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former New Mexico Governors |url=https://www.nga.org/former-governors/new-mexico/ |access-date=May 5, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of New Mexico - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=187 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+{{sister project links|Governor of New Mexico}}
+*[https://www.governor.state.nm.us/ Office of the Governor of New Mexico]
+*[https://www.nmhistorymuseum.org/ New Mexico History Museum website]
+{{Lists of US Governors}}
+{{New Mexico}}
+
+{{DEFAULTSORT:New Mexico, List of governors of}}
+[[Category:Governors of New Mexico| ]]
+[[Category:Governors of New Mexico Territory| ]]
+[[Category:Lists of New Mexico politicians|Governors of New Mexico, List of]]
+[[Category:Lists of state governors of the United States]]
+[[Category:Lists of territorial governors of the United States]]

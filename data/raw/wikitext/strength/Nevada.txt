@@ -1,0 +1,894 @@
+{{Short description|Politics in the US state of Nevada}}
+{{More citations needed|date=September 2020}}
+{|class="wikitable"
+|+ '''Party registration as of May 1, 2026'''<ref>{{cite web|title=Voter Registration Statistics|url=https://www.nvsos.gov/home/showpublisheddocument/18831/639134985357270000|publisher=Nevada Secretary of State|access-date=May 4, 2026}}</ref>
+|-
+!colspan=2 |Party
+!Total voters
+!Percentage
+|-
+|{{party color cell|Democratic Party (United States)}}
+|[[Nevada Democratic Party|Democratic]]
+|style="text-align:center;" |666,031
+|style="text-align:center;" |27.2%
+|-
+|{{party color cell|Republican Party (United States)}}
+ |[[Nevada Republican Party|Republican]]
+|style="text-align:center;" |656,502
+|style="text-align:center;" |26.8%
+|-
+|{{party color cell|Independent Party (United States)}}
+ |[[Independent voter|Nonpartisan]]
+|style="text-align:center;" |965,011
+|style="text-align:center;" |39.4%
+|-
+|{{party color cell|Constitution Party (United States)}}
+ |[[Independent American Party of Nevada|Independent American]]
+|style="text-align:center;" |103,788
+|style="text-align:center;" |4.2%
+|-
+|{{party color cell|Libertarian Party (United States)}}
+ |[[Libertarian Party of Nevada|Libertarian]]
+|style="text-align:center;" |18,241
+|style="text-align:center;" |0.7%
+|-
+|{{party color cell|Other parties (US)}}
+ |[[List of political parties in the United States|Other parties]]
+|style="text-align:center;" |41,108
+|style="text-align:center;" |1.7%
+|-
+!colspan=2 |Total
+!style="text-align:center;" |2,450,681
+!style="text-align:center;" |100.00%
+|}
+
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Nevada]]:
+*[[List of governors of Nevada|Governor]]
+*[[List of lieutenant governors of Nevada|Lieutenant Governor]]
+*[[Secretary of State of Nevada|Secretary of State]]
+*[[Nevada Attorney General|Attorney General]]
+*[[Nevada State Treasurer|State Treasurer]]
+*[[Nevada State Controller|State Controller]]
+
+The table also indicates the historical party composition in the:
+*[[Nevada Senate|State Senate]]
+*[[Nevada Assembly|State Assembly]]
+*[[List of United States senators from Nevada|State delegation to the U.S. Senate]]
+*[[List of United States representatives from Nevada|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes as well as whether the nominees won the election.
+
+==1861–1982==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Nevada Legislature|State Legislature]]<ref>{{Cite book|url=https://www.leg.state.nv.us/Division/Research/Publications/PHoN/PHoN.pdf|title=Political History of Nevada|publisher=Research Division of the Nevada Legislative Counsel Bureau|year=2016|edition=12th}}</ref>
+!colspan=3 |[[Nevada's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Nevada|Governor]]
+!class=unsortable |[[List of lieutenant governors of Nevada|Lt. Governor]]
+!class=unsortable |[[Secretary of State of Nevada|Secretary of State]]
+!class=unsortable |[[Nevada Attorney General|Attorney General]]
+!class=unsortable |[[Nevada State Treasurer|Treasurer]]
+!class=unsortable |[[Nevada State Controller|Controller]]
+!class=unsortable |[[Nevada Senate|Senate]]
+!class=unsortable |[[Nevada Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from Nevada|Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Nevada|Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Nevada|House]]
+|- style="height:2em"
+!1861
+|rowspan=4 {{Party shading/Republican}} |[[James W. Nye]] {{small|(R)}}{{efn |Governor of [[Nevada Territory]].}}
+|rowspan=4 |
+|rowspan=4 {{Party shading/Republican}} |[[Orion Clemens]] {{small|(R)}}{{efn |Secretary of Nevada Territory.}}
+|Benjamin B. Bunker{{efn |name=agterritory|Attorney General of Nevada Territory.}}
+|rowspan=4 {{Party shading/Republican}} |[[John Henry Kinkead]] {{small|(R)}}{{efn |Treasurer of Nevada Territory.}}
+|rowspan=3 |Perry G. Childs{{efn |name=audterritory|Auditor of Nevada Territory.}}
+|colspan=4 rowspan=4 |
+|rowspan=2 {{Party shading/Independent}} |[[John Cradlebaugh]] {{small|(I)}}{{efn |name=delegate|Delegate to the U.S. House of Representatives from Nevada Territory.}}
+|- style="height:2em"
+!1862
+|rowspan=3 |Theodore D. Edwards{{efn |name=agterritory}}
+|- style="height:2em"
+!1863
+|rowspan=2 {{Party shading/Republican}} |[[Gordon Newell Mott]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!rowspan=3 |1864
+|William W. Ross{{efn |name=audterritory}}{{efn |name=app|Appointed by governor.}}
+|- style="height:2em"
+!colspan=12 style="background:#FFE6B0" |{{small|'''Nevada [[Admission to the Union|admitted to the Union]] on October 31, 1864'''}}
+|- style="height:2em"
+|rowspan=7 {{Party shading/Republican}} |[[Henry G. Blasdel]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |John S. Crosman {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |Chauncey N. Noteware {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |George A. Nourse {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |Eben Rhoades {{small|(R)}}{{efn |name=died|Died in office.}}
+|rowspan=3 {{Party shading/Republican}} |[[Alanson W. Nightingill]] {{small|(R)}}
+|colspan=4 |
+|{{Party shading/Republican}} |[[Henry G. Worthington]] {{small|(R)}}
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{aye}}
+|- style="height:2em"
+!1865
+|rowspan=2 {{Party shading/Republican}} |17R, 1D
+|rowspan=2 {{Party shading/Republican}} |34R, 1D
+|rowspan=10 {{Party shading/Republican}} |[[William M. Stewart]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[James W. Nye]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Delos R. Ashley]] {{small|(R)}}
+|- style="height:2em"
+!1866
+|- style="height:2em"
+!1867
+|rowspan=4 {{Party shading/Republican}} |James S. Slingerland {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Robert M. Clarke {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |William K. Parkinson {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |18R, 1D
+|rowspan=2 {{Party shading/Republican}} |37R, 1D
+|- style="height:2em"
+!1868
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Schuyler Colfax|Colfax]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1869
+|rowspan=2 {{Party shading/Republican}} |Lewis Doran {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |15R, 5D
+|rowspan=2 {{Party shading/Republican}} |34R, 5D
+|rowspan=2 {{Party shading/Republican}} |[[Thomas Fitch (politician)|Thomas Fitch]] {{small|(R)}}
+|- style="height:2em"
+!1870
+|{{Party shading/Republican}} |Christopher C. Batterman {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!1871
+|rowspan=8 {{Party shading/Democratic}} |[[Lewis R. Bradley]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Frank Denver {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |James D. Minor {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Luther A. Buckner {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |Jerry Schooling {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |William W. Hobart {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |14R, 9D
+|rowspan=2 {{Party shading/Republican}} |24R, 20D, 2IR
+|rowspan=4 {{Party shading/Democratic}} |[[Charles West Kendall]] {{small|(D)}}
+|- style="height:2em"
+!1872
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Republican}} |17R, 7D
+|rowspan=2 {{Party shading/Republican}} |36R, 11D, 1I
+|rowspan=22 {{Party shading/Republican}} |[[John P. Jones (Nevada politician)|John P. Jones]] {{small|(R)}}
+|- style="height:2em"
+!1874
+|- style="height:2em"
+!1875
+|rowspan=8 {{Party shading/Democratic}} |[[Jewett W. Adams]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |John R. Kittrell {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 8D
+|rowspan=2 {{Party shading/Republican}} |32R, 18D
+|rowspan=6 {{Party shading/Republican}} |[[William Sharon]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[William Woodburn]] {{small|(R)}}
+|- style="height:2em"
+!1876
+|rowspan=4 {{Party shading/Republican}} |[[Rutherford B. Hayes|Hayes]]/<br>[[William A. Wheeler|Wheeler]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1877
+|rowspan=2 {{Party shading/Democratic}} |13D, 12R
+|rowspan=2 {{Party shading/Republican}} |35R, 15D
+|rowspan=2 {{Party shading/Republican}} |[[Thomas Wren (Nevada politician)|Thomas Wren]] {{small|(R)}}
+|- style="height:2em"
+!1878
+|- style="height:2em"
+!1879
+|rowspan=4 {{Party shading/Republican}} |[[John Henry Kinkead]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Jasper Babcock {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Michael A. Murphy {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Lyman L. Crockett {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |James F. Hallock {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 7D, 1{{abbr|Cit|Citizens Party}}
+|rowspan=2 {{Party shading/Republican}} |39R, 8D, 3{{abbr|Cit|Citizens Party}}
+|rowspan=2 {{Party shading/Republican}} |[[Rollin M. Daggett]] {{small|(R)}}
+|- style="height:2em"
+!1880
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1881
+|rowspan=2 {{Party shading/Republican}} |14R, 10D, 1{{abbr|Cit|Citizens Party}}
+|rowspan=2 {{Party shading/Democratic}} |44D, 6R
+|rowspan=6 {{Party shading/Democratic}} |[[James G. Fair]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[George W. Cassidy]] {{small|(D)}}
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|rowspan=4 {{Party shading/Democratic}} |[[Jewett W. Adams]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles E. Laughton]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |John M. Dormer {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |William H. Davenport {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |George Tufly {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 8R
+|rowspan=2 {{Party shading/Republican}} |29R, 11D
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Republican}} |[[James G. Blaine|Blaine]]/<br>[[John A. Logan|Logan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1885
+|rowspan=4 {{Party shading/Republican}} |14R, 6D
+|rowspan=2 {{Party shading/Republican}} |33R, 7D
+|rowspan=4 {{Party shading/Republican}} |[[William Woodburn]] {{small|(R)}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=3 {{Party shading/Republican}} |[[Charles C. Stevenson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |Henry C. Davis {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |John F. Alexander {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |32R, 8D
+|rowspan=6 {{Party shading/Republican}} |[[William M. Stewart]] {{small|(R)}}
+|- style="height:2em"
+!1888
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Levi P. Morton|Morton]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1889
+|{{Party shading/Republican}} |[[Frank Bell (governor)|Frank Bell]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |16R, 4D
+|rowspan=2 {{Party shading/Republican}} |26R, 14D
+|rowspan=4 {{Party shading/Republican}} |[[Horace F. Bartine]] {{small|(R)}}
+|- style="height:2em"
+!1890
+|{{Party shading/Republican}} |[[Frank Bell (governor)|Frank Bell]] {{small|(R)}}{{efn |name=ltacted|As lieutenant governor, acted as governor for unexpired term.}}
+|''vacant''
+|{{Party shading/Republican}} |George W. Richards {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!1891
+|rowspan=4 {{Party shading/Republican}} |[[Roswell K. Colcord]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Joseph Poujade {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Oscar H. Grey {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |James D. Torreyson {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |John F. Egan {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |Robert L. Horton {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 2D
+|rowspan=2 {{Party shading/Republican}} |35R, 5D
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Populist}} |[[James B. Weaver|Weaver]]/<br>[[James G. Field|Field]] {{small|(Pop)}} {{nay}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{Party shading/Republican}} |9R, 5Sv, 1Pop
+|rowspan=2 {{Party shading/Coalition}} |15Sv, 7Pop, 5D, 2R, 1I{{efn |A Democrat, Thomas J. Bell, was elected Speaker, and the Silverites worked with the Democrats and Populists to organize the chamber.<ref>Political History of Nevada (11th Ed.), p. 254</ref><ref>{{Cite web|title=The Journal of the Assembly 1893.|url=http://babel.hathitrust.org/cgi/pt?id=uc1.b3000508;view=1up;seq=19|access-date=2021-06-23|website=HathiTrust|language=en|page=12–13}}</ref>}}
+|rowspan=8 {{Party shading/Silver}} |[[William M. Stewart]] {{small|(Sv)}}
+|rowspan=10 {{Party shading/Silver}} |[[Francis G. Newlands]] {{small|(Sv)}}
+|- style="height:2em"
+!1894
+|{{Party shading/Republican}} |George W. Richards {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!1895
+|{{Party shading/Silver}} |[[John Edward Jones (governor)|John Edward Jones]] {{small|(Sv)}}{{efn |name=died}}
+|{{Party shading/Silver}} |[[Reinhold Sadler]] {{small|(Sv)}}
+|rowspan=8 {{Party shading/Silver}} |Eugene Howell {{small|(Sv)}}
+|rowspan=2 {{Party shading/Silver}} |Robert M. Beatty {{small|(Sv)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Silver}} |William J. Westerfield {{small|(Sv)}}
+|rowspan=4 {{Party shading/Silver}} |C. A. LaGrave {{small|(Sv)}}
+|rowspan=2 {{Party shading/Tie}} |5Sv, 5R, 2D, 2I, 1Pop{{efn |A Democrat, J.E. Gignoux, was elected President Pro Tempore, and the Senate was organized on a multipartisan basis.<ref>{{Cite web|title=The Journal of the Senate 1897.|url=http://babel.hathitrust.org/cgi/pt?id=uc1.b3000466;view=1up;seq=34|access-date=2021-06-23|website=HathiTrust|language=en|page=8–9, 14–15}}</ref>}}
+|rowspan=2 {{Party shading/Fusion}} |14Sv, 11R, 3Pop, 2D{{efn |A Silverite, Lemuel Allen, was elected Speaker, and the Democrats and Populists sided with the Silverites to organize the chamber.<ref>Political History of Nevada (11th Ed.), p. 255</ref>}}
+|rowspan=6 {{Party shading/Silver}} |[[John P. Jones (Nevada politician)|John P. Jones]] {{small|(Sv)}}
+|- style="height:2em"
+!1896
+|rowspan=7 {{Party shading/Silver}} |[[Reinhold Sadler]] {{small|(Sv)}}{{efn |name=ltelected|As lieutenant governor, acted as governor for unexpired term and was later elected in his own right.}}
+|rowspan=3 |''vacant''
+|rowspan=4 {{Party shading/Fusion}} |[[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D/Pop)}} {{nay}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Silver}} |James R. Judge {{small|(Sv)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Tie}} |7Sv, 5R, 1D, 1I, 1Pop{{efn |A Republican, A.J. McCone, was elected President Pro Tempore, and the Senate was organized on a multi-partisan basis.<ref>{{Cite web|title=The Journal of the Senate 1897.|url=http://babel.hathitrust.org/cgi/pt?id=uc1.b3000466;view=1up;seq=34|access-date=2021-06-23|website=HathiTrust|language=en|page=8, 12}}</ref>}}
+|rowspan=2 {{Party shading/Silver}} |20Sv, 4D, 3Pop, 2R, 1I
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=4 {{Party shading/Silver}} |James R. Judge {{small|(Sv)}}
+|rowspan=2 {{Party shading/Free Silver}} |William D. Jones {{small|(Sv)}}{{efn |name=res|Resigned.}}
+|rowspan=12 bgcolor=#A3DEE6|David M. Ryan {{small|(Sv/D)}}
+|rowspan=8 bgcolor=#A3DEE6|Sam P. Davis {{small|(Sv/D)}}
+|rowspan=2 {{Party shading/Free Silver}} |8Sv, 5R, 1D, 1I
+|rowspan=2 {{Party shading/Free Silver}} |18Sv, 10R, 1D, 1I
+|- style="height:2em"
+!1900
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Silver}} |William Woodburn {{small|(Sv)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Silver}} |9Sv, 3R, 2I, 1D
+|rowspan=2 bgcolor=#A3DEE6|13D, 12Sv, 5R, 1I{{efn |A Democrat, Clarence D. Van Duzer, was elected Speaker, and the Silverites sided with the Democrats to organize the chamber.<ref name="p257">Political History of Nevada (11th Ed.), p. 257</ref>}}
+|rowspan=4 {{Party shading/Republican}} |[[William M. Stewart]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John P. Jones (Nevada politician)|John P. Jones]] {{small|(R)}}
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=5 bgcolor=#A3DEE6 |[[John Sparks (Nevada politician)|John Sparks]] {{small|(Sv/D)}}{{efn |name=died}}
+|rowspan=4 bgcolor=#A3DEE6|Lemuel Allen {{small|(Sv/D)}}
+|rowspan=8 {{Party shading/Republican}} |William "Gib" Douglass {{small|(R)}}
+|rowspan=4 bgcolor=#A3DEE6|James G. Sweeney {{small|(Sv/D)}}
+|rowspan=2 bgcolor=#A3DEE6|7Sv, 5R, 3D, 2I{{efn |A Silverite, Charles Green, was elected President Pro Tempore with Democratic support, and they both organized the chamber.<ref name="p257"/>}}
+|rowspan=2 bgcolor=#A3DEE6|13D, 12Sv, 5R, 2Fus, 2I-Sv{{efn |A Democrat, Marion S. Wilson, was elected Speaker, and the Silverites and Fusionists sided with the Democrats to organize the chamber.<ref name="p257"/>}}
+|rowspan=15 {{Party shading/Democratic}} |[[Francis G. Newlands]] {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Democratic}} |[[Clarence D. Van Duzer]] {{small|(D)}}
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=2 bgcolor=#A3DEE6|7R, 6Sv, 3D, 1I{{efn |A Silverite, Joseph A. Miller, was elected President Pro Tempore, and the Silverites and Democrats organized the chamber.<ref>Political History of Nevada (11th Ed.), p. 258</ref>}}
+|rowspan=2 {{Party shading/Republican}} |23R, 14D, 2Sv
+|rowspan=7 {{Party shading/Republican}} |[[George S. Nixon]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|bgcolor=#A3DEE6 |[[Denver S. Dickerson]] {{small|(Sv/D)}}
+|rowspan=4 bgcolor=#A3DEE6|Richard C. Stoddard {{small|(Sv/D)}}
+|rowspan=8 {{Party shading/Republican}} |Jacob Eggers {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |7R, 7D, 2Sv, 1I{{efn |The Independent, J.D. Campbell, was elected President Pro Tempore with Republican and renegade Democratic support, and the Republicans organized the chamber.<ref>Political History of Nevada (11th Ed.), p. 258</ref><ref>{{Cite web|title=The Journal of the Senate 1907.|url=http://babel.hathitrust.org/cgi/pt?id=uc1.b3000471;view=1up;seq=40|access-date=2021-06-23|website=HathiTrust|language=en|page=2}}</ref>}}
+|rowspan=2 bgcolor=#A3DEE6|18D, 17R, 5Sv{{efn |A Democrat, Robert E. Skaggs, was elected Speaker, and the Silverites sided with the Democrats to organize the chamber.<ref>Political History of Nevada (11th Ed.), p. 259</ref>}}
+|rowspan=4 {{Party shading/Democratic}} |[[George A. Bartlett]] {{small|(D)}}
+|- style="height:2em"
+!1908
+|rowspan=3 bgcolor=#A3DEE6 |[[Denver S. Dickerson]] {{small|(Sv/D)}}{{efn |name=ltacted}}
+|rowspan=3 |''vacant''
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[John W. Kern|Kern]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{Party shading/Democratic}} |12D, 6R, 1I
+|rowspan=2 {{Party shading/Democratic}} |34D, 14R
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=4 {{Party shading/Republican}} |[[Tasker Oddie]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Gilbert C. Ross {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |George Brodigan {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Cleveland H. Baker {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |William McMillan {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |14D, 6R
+|rowspan=2 {{Party shading/Republican}} |25R, 24D
+|rowspan=8 {{Party shading/Republican}} |[[Edwin E. Roberts]] {{small|(R)}}
+|- style="height:2em"
+!1912
+|{{Party shading/Republican}} |[[William A. Massey (politician)|William A. Massey]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|rowspan=6 {{Party shading/Democratic}} |George B. Thatcher {{small|(D)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Democratic}} |14D, 6R, 1IR, 1Sv
+|rowspan=2 {{Party shading/Democratic}} |30D, 18R, 2I, 1IR, 1Prog, 1Sv
+|rowspan=28 {{Party shading/Democratic}} |[[Key Pittman]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=8 {{Party shading/Democratic}} |[[Emmet D. Boyle]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Maurice J. Sullivan]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |Edward C. Malley {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |George A. Cole {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 9D, 2I, 1IR, 1Sv{{efn |A Republican, Fred B. Balzar, was elected President Pro Tempore.<ref>Political History of Nevada (11th Ed.), p. 262</ref>}}
+|rowspan=2 {{Party shading/Republican}} |26R, 23D, 3I, 1Sv{{efn |A Republican, Allen G. McBride, was elected Speaker, and the Independents sided with the Republicans to organize the chamber.<ref>Political History of Nevada (11th Ed.), p. 263</ref>}}
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=2 {{Party shading/Republican}} |9R, 5D, 3I
+|rowspan=2 {{Party shading/Democratic}} |20D, 14R, 3I
+|- style="height:2em"
+!1918
+|rowspan=3 {{Party shading/Democratic}} |[[Charles Henderson (Nevada politician)|Charles Henderson]] {{small|(D)}}
+|- style="height:2em"
+!1919
+|rowspan=4 {{Party shading/Democratic}} |Leonard B. Fowler {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 6D, 2I{{efn |A Republican, Nealy H. Chapin, was elected President Pro Tempore.<ref name="p264">Political History of Nevada (11th Ed.), p. 264</ref>}}
+|rowspan=2 {{Party shading/Democratic}} |16D, 15R, 6I{{efn |A Democrat, D. J. Fitzgerald, was elected Speaker, and the Independents sided with the Democrats to organize the chamber.<ref name="p264"/>}}
+|rowspan=2 {{Party shading/Democratic}} |[[Charles R. Evans]] {{small|(D)}}
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Coalition}} |7D, 6R, 4I{{efn |An Independent, E.W. Griffith, was elected President Pro Tempore.}}
+|rowspan=2 {{Party shading/Republican}} |28R, 7D, 2I
+|rowspan=12 {{Party shading/Republican}} |[[Tasker Oddie]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Samuel S. Arentz]] {{small|(R)}}
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=4 {{Party shading/Democratic}} |[[James G. Scrugham]] {{small|(D)}}
+|rowspan=14 {{Party shading/Democratic}} |William G. Greathouse {{small|(D)}}{{efn |name=died}}
+|rowspan=8 {{Party shading/Democratic}} |Michael A. Diskin {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 5D, 2I
+|rowspan=2 {{Party shading/Republican}} |26R, 9D, 2I
+|rowspan=2 {{Party shading/Democratic}} |[[Charles L. Richards]] {{small|(D)}}
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Republican}} |9R, 8D
+|rowspan=2 {{Party shading/Republican}} |23R, 13D, 1I
+|rowspan=8 {{Party shading/Republican}} |[[Samuel S. Arentz]] {{small|(R)}}
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=7 {{Party shading/Republican}} |[[Fred B. Balzar]] {{small|(R)}}{{efn |name=died}}
+|rowspan=7 {{Party shading/Republican}} |[[Morley Griswold]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |George B. Russell {{small|(R)}}{{efn |name=app}}
+|rowspan=8 {{Party shading/Republican}} |Edward C. Peterson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 8D, 1I{{efn |A Republican, Noble H. Getchell, was elected President Pro Tempore, and the Independent sided with the Republicans to organize the chamber.}}
+|rowspan=2 {{Party shading/Coalition}} |17R, 17D, 3I{{efn |An Independent, Douglas H. Tandy, was elected Speaker.<ref>Political History of Nevada (11th Ed.), p. 268</ref>}}
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=2 {{Party shading/Republican}} |12R, 4D, 1I
+|rowspan=2 {{Party shading/Republican}} |21R, 14D, 2I
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=12 {{Party shading/Democratic}} |Gray Mashburn {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |13R, 4D
+|rowspan=2 {{Party shading/Democratic}} |19D, 16R, 2I{{efn |Elected a minority party speaker, Douglas H. Tandy, who was an independent.<ref>Political History of Nevada (11th Ed.), p. 269</ref>}}
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=2 {{Party shading/Republican}} |9R, 7D, 1I
+|rowspan=2 {{Party shading/Democratic}} |25D, 12R, 3I
+|rowspan=21 {{Party shading/Democratic}} |[[Pat McCarran]] {{small|(D)}}{{efn |name=died}}
+|rowspan=10 {{Party shading/Democratic}} |[[James G. Scrugham]] {{small|(D)}}
+|- style="height:2em"
+!1934
+|{{Party shading/Republican}} |[[Morley Griswold]] {{small|(R)}}{{efn |name=ltacted}}
+|''vacant''
+|- style="height:2em"
+!1935
+|rowspan=4 {{Party shading/Democratic}} |[[Richard Kirman Sr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Fred S. Alward {{small|(D)}}
+|rowspan=28 {{Party shading/Democratic}} |Dan W. Franks {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |Henry C. Schmidt {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |10D, 5R, 2I
+|rowspan=2 {{Party shading/Democratic}} |29D, 9R, 2I
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!1937
+|rowspan=10 {{Party shading/Democratic}} |Malcolm McEachin {{small|(D)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Democratic}} |11D, 3R, 3I
+|rowspan=2 {{Party shading/Democratic}} |30D, 10R
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=6 {{Party shading/Democratic}} |[[Edward P. Carville]] {{small|(D)}}{{efn |Resigned to take an appointed seat in the [[United States Senate]].}}
+|rowspan=4 {{Party shading/Democratic}} |[[Maurice J. Sullivan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |7D, 7R, 3I{{efn |A Democrat, John E. Robbins, was elected President Pro Tempore, and the Independents sided with the Democrats to organize the chamber.}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 11R, 2I
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=2 {{Party shading/Republican}} |10R, 6D, 1I
+|rowspan=2 {{Party shading/Democratic}} |26D, 13R, 1I
+|rowspan=2 {{Party shading/Democratic}} |[[Berkeley L. Bunker]] {{small|(D)}}
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=2 {{Party shading/Democratic}} |[[Vail Pittman]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Alan Bible]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 7D
+|rowspan=2 {{Party shading/Democratic}} |23D, 17R
+|rowspan=2 {{Party shading/Democratic}} |[[James G. Scrugham]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |[[Maurice J. Sullivan]] {{small|(D)}}
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=6 {{Party shading/Democratic}} |[[Vail Pittman]] {{small|(D)}}{{efn |name=ltelected}}
+|rowspan=10 {{Party shading/Democratic}} |[[Clifford A. Jones]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 8D
+|rowspan=2 {{Party shading/Democratic}} |27D, 13R
+|rowspan=2 {{Party shading/Democratic}} |[[Edward P. Carville]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Berkeley L. Bunker]] {{small|(D)}}
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=26 {{Party shading/Democratic}} |John Koontz {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Jerome P. Donovan {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 7D
+|rowspan=2 {{Party shading/Democratic}} |22D, 18R, 1I
+|rowspan=12 {{Party shading/Republican}} |[[George W. Malone]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles H. Russell]] {{small|(R)}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Republican}} |11R, 6D
+|rowspan=2 {{Party shading/Democratic}} |25D, 18R
+|rowspan=4 {{Party shading/Democratic}} |[[Walter S. Baring Jr.]] {{small|(D)}}
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=8 {{Party shading/Republican}} |[[Charles H. Russell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |William T. Mathews {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |Peter Merialdo {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 20R
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=2 {{Party shading/Republican}} |12R, 5D
+|rowspan=2 {{Party shading/Democratic}} |29D, 18R
+|rowspan=4 {{Party shading/Republican}} |[[Clarence Clifton Young]] {{small|(R)}}
+|- style="height:2em"
+!1954
+|{{Party shading/Republican}} |[[Ernest S. Brown]] {{small|(R)}}
+|- style="height:2em"
+!1955
+|rowspan=7 {{Party shading/Republican}} |[[Rex Bell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Harvey Dickerson {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |13R, 4D
+|rowspan=2 {{Party shading/Democratic}} |30D, 17R
+|rowspan=20 {{Party shading/Democratic}} |[[Alan Bible]] {{small|(D)}}
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Republican}} |12R, 5D
+|rowspan=2 {{Party shading/Democratic}} |31D, 16R
+|rowspan=16 {{Party shading/Democratic}} |[[Walter S. Baring Jr.]] {{small|(D)}}
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=8 {{Party shading/Democratic}} |[[Grant Sawyer]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Roger D. Foley]] {{small|(D)}}{{efn |name=judgeship|Resigned to accepted federal judgeship.}}
+|rowspan=8 {{Party shading/Democratic}} |Keith L. Lee {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |10R, 7D
+|rowspan=4 {{Party shading/Democratic}} |33D, 14R
+|rowspan=24 {{Party shading/Democratic}} |[[Howard Cannon]] {{small|(D)}}
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1961
+|- style="height:2em"
+!1962
+|{{Party shading/Democratic}} |[[Maude Frazier]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Charles E. Springer]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!1963
+|rowspan=4 {{Party shading/Republican}} |[[Paul Laxalt]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |Harvey Dickerson {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |Michael Mirabelli {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |32D, 15R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Republican}} |9R, 7D, 1I
+|rowspan=2 {{Party shading/Democratic}} |25D, 12R
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Republican}} |[[Paul Laxalt]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Edward Fike]] {{small|(R)}}
+|rowspan=16 {{Party shading/Republican}} |Wilson McGowan {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |11D, 9R
+|rowspan=2 {{Party shading/Democratic}} |21D, 19R
+|- style="height:2em"
+!1968
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Republican}} |22R, 18D
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=8 {{Party shading/Democratic}} |[[Mike O'Callaghan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Harry Reid]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |[[Robert List]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |13D, 7R
+|rowspan=2 {{Party shading/Republican}} |21R, 19D
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=10 {{Party shading/Democratic}} |[[William D. Swackhamer]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |14D, 6R
+|rowspan=2 {{Party shading/Democratic}} |25D, 15R
+|rowspan=2 {{Party shading/Republican}} |[[David Towell]] {{small|(R)}}
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=4 {{Party shading/Democratic}} |[[Robert E. Rose]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |17D, 3R
+|rowspan=2 {{Party shading/Democratic}} |31D, 9R
+|rowspan=8 {{Party shading/Republican}} |[[Paul Laxalt]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[James David Santini]] {{small|(D)}}
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Democratic}} |35D, 5R
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Republican}} |Robert List {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Myron E. Leavitt]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Richard Bryan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Stanton Colton {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |15D, 5R
+|rowspan=4 {{Party shading/Democratic}} |26D, 14R
+|- style="height:2em"
+!1980
+|rowspan=3 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|- style="height:2em"
+!1982
+|}
+
+==1983–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Nevada Legislature|State Legislature]]<ref>{{Cite book|url=https://www.leg.state.nv.us/Division/Research/Publications/PHoN/PHoN.pdf|title=Political History of Nevada|publisher=Research Division of the Nevada Legislative Counsel Bureau|year=2016|edition=12th}}</ref>
+!colspan=3 |[[Nevada's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Nevada|Governor]]
+!class=unsortable |[[List of lieutenant governors of Nevada|Lt. Governor]]
+!class=unsortable |[[Secretary of State of Nevada|Secretary of State]]
+!class=unsortable |[[Nevada Attorney General|Attorney General]]
+!class=unsortable |[[Nevada State Treasurer|Treasurer]]
+!class=unsortable |[[Nevada State Controller|Controller]]
+!class=unsortable |[[Nevada Senate|Senate]]
+!class=unsortable |[[Nevada Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from Nevada|Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Nevada|Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Nevada|House]]
+|- style="height:2em"
+!1983
+|rowspan=6 {{Party shading/Democratic}} |[[Richard Bryan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Bob Cashell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William D. Swackhamer|William D.<br>Swackhamer]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |Brian McKay {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Patricia Cafferata]] {{small|(R)}}
+|rowspan=16 {{Party shading/Republican}} |Darrel R. Daines {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 4R
+|rowspan=2 {{Party shading/Democratic}} |22D, 20R
+|rowspan=6 {{Party shading/Republican}} |[[Chic Hecht]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Paul Laxalt]] {{small|(R)}}
+|rowspan=12 {{Party shading/Tie}} |1D, 1R
+|rowspan=5 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=2 {{Party shading/Democratic}} |13D, 8R
+|rowspan=2 {{Party shading/Republican}} |25R, 17D
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=2 {{Party shading/Democratic}} |[[Bob Miller (Nevada governor)|Bob Miller]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Frankie Sue Del Papa]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |Kenneth F. Santor {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |12R, 9D
+|rowspan=2 {{Party shading/Democratic}} |29D, 13R
+|rowspan=31 {{Party shading/Democratic}} |[[Harry Reid]] {{small|(D)}}
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|rowspan=10 {{Party shading/Democratic}} |[[Bob Miller (Nevada governor)|Bob Miller]] {{small|(D)}}
+|rowspan=2 |''vacant''
+|rowspan=2 {{Party shading/Republican}} |13R, 8D
+|rowspan=2 {{Party shading/Democratic}} |32D, 10R
+|rowspan=12 {{Party shading/Democratic}} |[[Richard Bryan]] {{small|(D)}}
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=4 {{Party shading/Republican}} |[[Sue Wagner]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Cheryl Lau]] {{small|(R)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Frankie Sue Del Papa]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |[[Bob Seale]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |11D, 10R
+|rowspan=2 {{Party shading/Democratic}} |22D, 20R
+|- style="height:2em"
+!1992
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Republican}} |11R, 10D
+|rowspan=2 {{Party shading/Democratic}} |29D, 13R
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=4 {{Party shading/Republican}} |[[Lonnie Hammargren]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Dean Heller]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |13R, 8D
+|rowspan=2 {{Party shading/Tie}} |21R, 21D{{efn |Due to a split chamber, the Democrats and Republicans negotiated a power-sharing agreement to split committees, and the House elected co-Speakers from both parties.<ref>{{Cite book|last=Driggs|first=Don W.|url=https://books.google.com/books?id=JLBDXNGLi88C&pg=PA81|title=Nevada Politics & Government: Conservatism in an Open Society|date=1996-01-01|publisher=University of Nebraska Press|isbn=978-0-8032-1703-4|language=en|page=81}}</ref>}}
+|rowspan=4 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!1997
+|rowspan=6 {{Party shading/Republican}} |12R, 9D
+|rowspan=2 {{Party shading/Democratic}} |25D, 17R
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=9 {{Party shading/Republican}} |[[Kenny Guinn]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Lorraine Hunt]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Brian Krolicki]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Kathy Augustine]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |28D, 14R
+|rowspan=4 {{Party shading/Tie}} |1R, 1D
+|- style="height:2em"
+!2000
+|rowspan=9 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Democratic}} |27D, 15R
+|rowspan=11 {{Party shading/Republican}} |[[John Ensign]] {{small|(R)}}
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=3 {{Party shading/Republican}} |[[Brian Sandoval]] {{small|(R)}}{{efn |name=judgeship}}
+|rowspan=2 {{Party shading/Republican}} |13R, 8D
+|rowspan=2 {{Party shading/Democratic}} |23D, 19R
+|rowspan=7 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!2004
+|- style="height:2em"
+!rowspan=2 |2005
+|rowspan=3 {{Party shading/Republican}} |12R, 9D
+|rowspan=3 {{Party shading/Democratic}} |26D, 16R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[George Chanos]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!2006
+|rowspan=1 {{Party shading/Republican}} |Steve Martin {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!2007
+|rowspan=4 {{Party shading/Republican}} |[[Jim Gibbons (American politician)|Jim Gibbons]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Brian Krolicki]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Ross Miller]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Catherine Cortez Masto|Catherine Cortez<br>Masto]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Kate Marshall]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Kim Wallin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 10D
+|rowspan=2 {{Party shading/Democratic}} |27D, 15R
+|- style="height:2em"
+!2008
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/Democratic}} |12D, 9R
+|rowspan=2 {{Party shading/Democratic}} |28D, 14R
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=8 {{party shading/Republican}} |[[Brian Sandoval]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |11D, 10R
+|rowspan=2 {{Party shading/Democratic}} |26D, 16R
+|rowspan=8 {{Party shading/Republican}} |[[Dean Heller]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|rowspan=2 {{Party shading/Democratic}} |27D, 15R
+|rowspan=2 {{Party shading/Tie}} |2R, 2D
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=4 {{Party shading/Republican}} |[[Mark Hutchison]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Barbara Cegavske]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Adam Laxalt]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Dan Schwartz]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Ron Knecht]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 10D
+|{{Party shading/Republican}} |25R, 17D
+|rowspan=2 {{Party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!2016
+|{{Party shading/Republican}} |24R, 17D, 1L
+|rowspan=4 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|rowspan=2 {{Party shading/Democratic}} |11D, 9R, 1I{{efn |A Republican Senator switched parties to Independent and caucused with the Democrats.}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 15R
+|rowspan=12 {{Party shading/Democratic/current}} |[[Catherine Cortez Masto|Catherine Cortez<br>Masto]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic/current}} |3D, 1R
+|- style="height:2em"
+!2018
+|- style="height:2em"
+!2019
+|rowspan=5 {{Party shading/Democratic}} |[[Steve Sisolak]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Kate Marshall]] {{small|(D)}}{{efn |Resigned September 17, 2021 to join the [[White House Office of Intergovernmental Affairs]].}}
+|rowspan=9 {{Party shading/Democratic/current}} |[[Aaron D. Ford]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic/current}} |[[Zach Conine]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Catherine Byrne (Nevada politician)|Catherine Byrne]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |13D, 8R
+|rowspan=2 {{Party shading/Democratic}} |29D, 13R
+|rowspan=14 {{Party shading/Democratic/current}} |[[Jacky Rosen]] {{small|(D)}}
+|- style="height:2em"
+!2020
+|rowspan=5 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |2021
+|rowspan=3 {{Party shading/Democratic}} |12D, 9R
+|rowspan=3 {{Party shading/Democratic}} |26D, 16R
+|- style="height:2em"
+|{{Party shading/Vacant}} |''vacant''
+|- style="height:2em"
+!2022
+|{{Party shading/Democratic}} |[[Lisa Cano Burkhead]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!2023
+|rowspan=5 {{Party shading/Republican/current}} |[[Joe Lombardo]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican/current}} |[[Stavros Anthony]] {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic/current}} |[[Cisco Aguilar]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican/current}} |[[Andy Matthews]] {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic/current}} |13D, 8R
+|rowspan=2 {{Party shading/Democratic}} |28D, 14R
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |27D, 15R
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[Nevada#Politics|Politics in Nevada]]
+*[[Elections in Nevada]]
+*[[List of Nevada state legislatures]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Nevada}}
+[[Category:Politics of Nevada]]
+[[Category:Government of Nevada]]
+[[Category:Political party strength in the United States by state|Nevada]]

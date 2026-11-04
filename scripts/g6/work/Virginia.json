@@ -1,0 +1,1346 @@
+[
+ {
+  "table": 0,
+  "num": "1",
+  "name": "Patrick Henry",
+  "range": [
+   "July 6, 1776",
+   "June 1, 1779"
+  ],
+  "party": "No parties",
+  "title": "No parties",
+  "acting": false,
+  "start": "1776-07-06",
+  "end": "1779-06-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "2",
+  "name": "Thomas Jefferson",
+  "range": [
+   "June 1, 1779",
+   "June 4, 1781"
+  ],
+  "party": null,
+  "title": null,
+  "acting": false,
+  "start": "1779-06-01",
+  "end": "1781-06-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "3",
+  "name": "William Fleming",
+  "range": [
+   "June 4, 1781",
+   "June 12, 1781"
+  ],
+  "party": null,
+  "title": null,
+  "acting": true,
+  "start": "1781-06-04",
+  "end": "1781-06-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "4",
+  "name": "Thomas Nelson Jr.",
+  "range": [
+   "June 12, 1781",
+   "November 22, 1781"
+  ],
+  "party": null,
+  "title": null,
+  "acting": false,
+  "start": "1781-06-12",
+  "end": "1781-11-22",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "–",
+  "name": "David Jameson",
+  "range": [
+   "November 22, 1781",
+   "December 1, 1781"
+  ],
+  "party": null,
+  "title": null,
+  "acting": true,
+  "start": "1781-11-22",
+  "end": "1781-12-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "5",
+  "name": "Benjamin Harrison V",
+  "range": [
+   "December 1, 1781",
+   "November 30, 1784"
+  ],
+  "party": null,
+  "title": null,
+  "acting": false,
+  "start": "1781-12-01",
+  "end": "1784-11-30",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "6",
+  "name": "Patrick Henry",
+  "range": [
+   "November 30, 1784",
+   "November 30, 1786"
+  ],
+  "party": null,
+  "title": null,
+  "acting": false,
+  "start": "1784-11-30",
+  "end": "1786-11-30",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "7",
+  "name": "Edmund Randolph",
+  "range": [
+   "November 30, 1786",
+   "November 12, 1788"
+  ],
+  "party": null,
+  "title": null,
+  "acting": false,
+  "start": "1786-11-30",
+  "end": "1788-11-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "8",
+  "name": "Beverley Randolph",
+  "range": [
+   "November 12, 1788",
+   "December 1, 1791"
+  ],
+  "party": null,
+  "title": null,
+  "acting": true,
+  "start": "1788-11-12",
+  "end": "1791-12-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "9",
+  "name": "Henry Lee III",
+  "range": [
+   "December 1, 1791",
+   "December 1, 1794"
+  ],
+  "party": "Federalist",
+  "title": "Represented the Federalist Party",
+  "acting": false,
+  "start": "1791-12-01",
+  "end": "1794-12-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "10",
+  "name": "Robert Brooke",
+  "range": [
+   "December 1, 1794",
+   "November 30, 1796"
+  ],
+  "party": "Democratic- Republican",
+  "title": "Represented the Democratic-Republican Party",
+  "acting": false,
+  "start": "1794-12-01",
+  "end": "1796-11-30",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "11",
+  "name": "James Wood",
+  "range": [
+   "November 30, 1796",
+   "December 19, 1799"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": true,
+  "start": "1796-11-30",
+  "end": "1799-12-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "12",
+  "name": "James Monroe",
+  "range": [
+   "December 19, 1799",
+   "December 29, 1802"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1799-12-19",
+  "end": "1802-12-29",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "13",
+  "name": "John Page",
+  "range": [
+   "December 29, 1802",
+   "December 11, 1805"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1802-12-29",
+  "end": "1805-12-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "14",
+  "name": "William H. Cabell",
+  "range": [
+   "December 11, 1805",
+   "December 12, 1808"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1805-12-11",
+  "end": "1808-12-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "15",
+  "name": "John Tyler Sr.",
+  "range": [
+   "December 12, 1808",
+   "January 15, 1811"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1808-12-12",
+  "end": "1811-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "George William Smith",
+  "range": [
+   "January 15, 1811",
+   "January 19, 1811"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": true,
+  "start": "1811-01-15",
+  "end": "1811-01-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "16",
+  "name": "James Monroe",
+  "range": [
+   "January 19, 1811",
+   "April 3, 1811"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1811-01-19",
+  "end": "1811-04-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "17",
+  "name": "George William Smith",
+  "range": [
+   "April 3, 1811",
+   "December 26, 1811"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": true,
+  "start": "1811-04-03",
+  "end": "1811-12-26",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "Peyton Randolph",
+  "range": [
+   "December 26, 1811",
+   "January 4, 1812"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": true,
+  "start": "1811-12-26",
+  "end": "1812-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "18",
+  "name": "James Barbour",
+  "range": [
+   "January 4, 1812",
+   "December 11, 1814"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1812-01-04",
+  "end": "1814-12-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "19",
+  "name": "Wilson Cary Nicholas",
+  "range": [
+   "December 11, 1814",
+   "December 11, 1816"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1814-12-11",
+  "end": "1816-12-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "20",
+  "name": "James Patton Preston",
+  "range": [
+   "December 11, 1816",
+   "December 11, 1819"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1816-12-11",
+  "end": "1819-12-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "21",
+  "name": "Thomas Mann Randolph Jr.",
+  "range": [
+   "December 11, 1819",
+   "December 11, 1822"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1819-12-11",
+  "end": "1822-12-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "22",
+  "name": "James Pleasants",
+  "range": [
+   "December 11, 1822",
+   "December 11, 1825"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1822-12-11",
+  "end": "1825-12-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "23",
+  "name": "John Tyler",
+  "range": [
+   "December 11, 1825",
+   "March 4, 1827"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1825-12-11",
+  "end": "1827-03-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "24",
+  "name": "William Branch Giles",
+  "range": [
+   "March 4, 1827",
+   "March 4, 1830"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1827-03-04",
+  "end": "1830-03-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "25",
+  "name": "John Floyd",
+  "range": [
+   "March 4, 1830",
+   "March 31, 1834"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1830-03-04",
+  "end": "1834-03-31",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "26",
+  "name": "Littleton Waller Tazewell",
+  "range": [
+   "March 31, 1834",
+   "March 30, 1836"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1834-03-31",
+  "end": "1836-03-30",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "Wyndham Robertson",
+  "range": [
+   "March 30, 1836",
+   "March 31, 1837"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": true,
+  "start": "1836-03-30",
+  "end": "1837-03-31",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "27",
+  "name": "David Campbell",
+  "range": [
+   "March 31, 1837",
+   "March 31, 1840"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1837-03-31",
+  "end": "1840-03-31",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "28",
+  "name": "Thomas Walker Gilmer",
+  "range": [
+   "March 31, 1840",
+   "March 20, 1841"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": false,
+  "start": "1840-03-31",
+  "end": "1841-03-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "John M. Patton",
+  "range": [
+   "March 20, 1841",
+   "March 31, 1841"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": true,
+  "start": "1841-03-20",
+  "end": "1841-03-31",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "John Rutherfoord",
+  "range": [
+   "March 31, 1841",
+   "March 31, 1842"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": true,
+  "start": "1841-03-31",
+  "end": "1842-03-31",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "John Munford Gregory",
+  "range": [
+   "March 31, 1842",
+   "January 5, 1843"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": true,
+  "start": "1842-03-31",
+  "end": "1843-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "29",
+  "name": "James McDowell",
+  "range": [
+   "January 5, 1843",
+   "January 1, 1846"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1843-01-05",
+  "end": "1846-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "30",
+  "name": "William Smith",
+  "range": [
+   "January 1, 1846",
+   "January 1, 1849"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1846-01-01",
+  "end": "1849-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "31",
+  "name": "John B. Floyd",
+  "range": [
+   "January 1, 1849",
+   "January 1, 1852"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1849-01-01",
+  "end": "1852-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "32",
+  "name": "Joseph Johnson",
+  "range": [
+   "January 1, 1852",
+   "January 1, 1856"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1852-01-01",
+  "end": "1856-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "33",
+  "name": "Henry A. Wise",
+  "range": [
+   "January 1, 1856",
+   "January 1, 1860"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1856-01-01",
+  "end": "1860-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "34",
+  "name": "John Letcher",
+  "range": [
+   "January 1, 1860",
+   "January 1, 1864"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1860-01-01",
+  "end": "1864-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "William Smith",
+  "range": [
+   "January 1, 1864",
+   "May 9, 1865"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1864-01-01",
+  "end": "1865-05-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "35",
+  "name": "Francis Harrison Pierpont",
+  "range": [
+   "June 20, 1861",
+   "April 4, 1868"
+  ],
+  "party": "Union",
+  "title": "Represented the Union Party",
+  "acting": false,
+  "start": "1861-06-20",
+  "end": "1868-04-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "Henry H. Wells",
+  "range": [
+   "April 4, 1868",
+   "September 21, 1869"
+  ],
+  "party": null,
+  "title": "Appointed",
+  "acting": false,
+  "start": "1868-04-04",
+  "end": "1869-09-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "36",
+  "name": "Gilbert Carlton Walker",
+  "range": [
+   "September 21, 1869",
+   "January 1, 1874"
+  ],
+  "party": "{{sortname|John F.|Lewis}}",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1869-09-21",
+  "end": "1874-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "37",
+  "name": "James L. Kemper",
+  "range": [
+   "January 1, 1874",
+   "January 1, 1878"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1874-01-01",
+  "end": "1878-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "38",
+  "name": "Frederick W. M. Holliday",
+  "range": [
+   "January 1, 1878",
+   "January 1, 1882"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1878-01-01",
+  "end": "1882-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "39",
+  "name": "William E. Cameron",
+  "range": [
+   "January 1, 1882",
+   "January 1, 1886"
+  ],
+  "party": "Readjuster",
+  "title": "Represented the Readjuster Party",
+  "acting": false,
+  "start": "1882-01-01",
+  "end": "1886-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "40",
+  "name": "Fitzhugh Lee",
+  "range": [
+   "January 1, 1886",
+   "January 1, 1890"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1886-01-01",
+  "end": "1890-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "41",
+  "name": "Philip W. McKinney",
+  "range": [
+   "January 1, 1890",
+   "January 1, 1894"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1890-01-01",
+  "end": "1894-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "42",
+  "name": "Charles Triplett O'Ferrall",
+  "range": [
+   "January 1, 1894",
+   "January 1, 1898"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1894-01-01",
+  "end": "1898-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "43",
+  "name": "James Hoge Tyler",
+  "range": [
+   "January 1, 1898",
+   "January 1, 1902"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1898-01-01",
+  "end": "1902-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "44",
+  "name": "Andrew Jackson Montague",
+  "range": [
+   "January 1, 1902",
+   "February 1, 1906"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1902-01-01",
+  "end": "1906-02-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "45",
+  "name": "Claude A. Swanson",
+  "range": [
+   "February 1, 1906",
+   "February 1, 1910"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1906-02-01",
+  "end": "1910-02-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "46",
+  "name": "William Hodges Mann",
+  "range": [
+   "February 1, 1910",
+   "February 1, 1914"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1910-02-01",
+  "end": "1914-02-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "47",
+  "name": "Henry Carter Stuart",
+  "range": [
+   "February 1, 1914",
+   "February 1, 1918"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1914-02-01",
+  "end": "1918-02-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "48",
+  "name": "Westmoreland Davis",
+  "range": [
+   "February 1, 1918",
+   "February 1, 1922"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1918-02-01",
+  "end": "1922-02-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "49",
+  "name": "Elbert Lee Trinkle",
+  "range": [
+   "February 1, 1922",
+   "February 1, 1926"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1922-02-01",
+  "end": "1926-02-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "50",
+  "name": "Harry F. Byrd",
+  "range": [
+   "February 1, 1926",
+   "January 15, 1930"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1926-02-01",
+  "end": "1930-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "51",
+  "name": "John Garland Pollard",
+  "range": [
+   "January 15, 1930",
+   "January 16, 1934"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1930-01-15",
+  "end": "1934-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "52",
+  "name": "George C. Peery",
+  "range": [
+   "January 17, 1934",
+   "January 18, 1938"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1934-01-17",
+  "end": "1938-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "53",
+  "name": "James Hubert Price",
+  "range": [
+   "January 19, 1938",
+   "January 20, 1942"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1938-01-19",
+  "end": "1942-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "54",
+  "name": "Colgate Darden",
+  "range": [
+   "January 21, 1942",
+   "January 15, 1946"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1942-01-21",
+  "end": "1946-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "55",
+  "name": "William M. Tuck",
+  "range": [
+   "January 16, 1946",
+   "January 17, 1950"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1946-01-16",
+  "end": "1950-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "56",
+  "name": "John S. Battle",
+  "range": [
+   "January 18, 1950",
+   "January 19, 1954"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1950-01-18",
+  "end": "1954-01-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "57",
+  "name": "Thomas B. Stanley",
+  "range": [
+   "January 20, 1954",
+   "January 11, 1958"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1954-01-20",
+  "end": "1958-01-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "58",
+  "name": "J. Lindsay Almond",
+  "range": [
+   "January 11, 1958",
+   "January 13, 1962"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1958-01-11",
+  "end": "1962-01-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "59",
+  "name": "Albertis Harrison",
+  "range": [
+   "January 13, 1962",
+   "January 15, 1966"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1962-01-13",
+  "end": "1966-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "60",
+  "name": "Mills Godwin",
+  "range": [
+   "January 15, 1966",
+   "January 17, 1970"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1966-01-15",
+  "end": "1970-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "61",
+  "name": "Linwood Holton",
+  "range": [
+   "January 17, 1970",
+   "January 12, 1974"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1970-01-17",
+  "end": "1974-01-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "62",
+  "name": "Mills Godwin",
+  "range": [
+   "January 12, 1974",
+   "January 14, 1978"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1974-01-12",
+  "end": "1978-01-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "63",
+  "name": "John N. Dalton",
+  "range": [
+   "January 14, 1978",
+   "January 16, 1982"
+  ],
+  "party": "Republican",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1978-01-14",
+  "end": "1982-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "64",
+  "name": "Chuck Robb",
+  "range": [
+   "January 16, 1982",
+   "January 11, 1986"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1982-01-16",
+  "end": "1986-01-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "65",
+  "name": "Gerald Baliles",
+  "range": [
+   "January 11, 1986",
+   "January 13, 1990"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1986-01-11",
+  "end": "1990-01-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "66",
+  "name": "Douglas Wilder",
+  "range": [
+   "January 13, 1990",
+   "January 15, 1994"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1990-01-13",
+  "end": "1994-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "67",
+  "name": "George Allen",
+  "range": [
+   "January 15, 1994",
+   "January 17, 1998"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1994-01-15",
+  "end": "1998-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "68",
+  "name": "Jim Gilmore",
+  "range": [
+   "January 17, 1998",
+   "January 12, 2002"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1998-01-17",
+  "end": "2002-01-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "69",
+  "name": "Mark Warner",
+  "range": [
+   "January 12, 2002",
+   "January 14, 2006"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2002-01-12",
+  "end": "2006-01-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "70",
+  "name": "Tim Kaine",
+  "range": [
+   "January 14, 2006",
+   "January 16, 2010"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "2006-01-14",
+  "end": "2010-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "71",
+  "name": "Bob McDonnell",
+  "range": [
+   "January 16, 2010",
+   "January 11, 2014"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "2010-01-16",
+  "end": "2014-01-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "72",
+  "name": "Terry McAuliffe",
+  "range": [
+   "January 11, 2014",
+   "January 13, 2018"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2014-01-11",
+  "end": "2018-01-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "73",
+  "name": "Ralph Northam",
+  "range": [
+   "January 13, 2018",
+   "January 15, 2022"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "2018-01-13",
+  "end": "2022-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "74",
+  "name": "Glenn Youngkin",
+  "range": [
+   "January 15, 2022",
+   "January 17, 2026"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "2022-01-15",
+  "end": "2026-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "75",
+  "name": "Abigail Spanberger",
+  "range": [
+   "January 17, 2026",
+   "Incumbent"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2026-01-17",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ }
+]

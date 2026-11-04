@@ -1,0 +1,1401 @@
+{{Short description|Politics in the US state of Delaware}}
+{{more citations needed|date=January 2021}}
+[[Delaware]] is a state in the Mid-Atlantic region of the United States.<ref>{{cite web |title=Census Regions and Divisions of the United States |url=https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf |access-date=March 19, 2025 |website=[[United States Census Bureau]]}}</ref> The [[Government of Delaware]] is composed of the executive branch, legislative branch, and judicial branch.<ref>{{Cite web |title=Departments of Government Chapter 90C. Department of Technology and Information |url=https://delcode.delaware.gov/title29/c090c/sc01/index.html |access-date=2025-03-19 |website=The Delaware Code Online}}</ref> Delaware's executive branch has five elected offices, they are [[Governor of Delaware|Governor]], [[Lieutenant Governor of Delaware|Lieutenant Governor]], [[Attorney General of Delaware|Attorney General]], State Treasurer, [[Delaware Auditor of Accounts|Auditor of Accounts]], and [[Delaware Department of Insurance|Insurance Commissioner]].<ref name=":0">{{Cite web |title=Voting in Delaware |url=https://delaware.gov/guides/voting-in-delaware/ |access-date=2025-03-19 |website=[[Delaware.gov]] |language=en-US}}</ref> The [[Delaware General Assembly|state legislature]] is made of the [[Delaware House of Representatives]] and [[Delaware Senate]].<ref>{{Cite web |title=Session Laws |url=https://legis.delaware.gov/SessionLaws |access-date=2025-03-19 |website=[[Delaware General Assembly]]}}</ref> From 1776 to 1792, the position of Governor was known as President.<ref name=":1" /> 
+
+Additionally, the state sends two [[United States Senate|senators]] and one [[Representative (US)|representative]] to the [[United States Congress]].<ref name=":0" /> All three seats are elected [[at-large]].<ref>{{Cite news |date=2024-11-12 |title=Delaware At-Large Congressional District Election Results |url=https://www.nytimes.com/interactive/2024/11/05/us/elections/results-delaware-us-house-at-large.html |access-date=2025-03-19 |work=The New York Times |language=en-US |issn=0362-4331}}</ref><ref>{{Cite web |title=How Our Laws Are Made - Congress.gov Resources |url=https://www.congress.gov/help/learn-about-the-legislative-process/how-our-laws-are-made |access-date=2025-03-19 |website=[[Congress.gov]]}}</ref> As of the [[2024 United States House of Representatives election in Delaware|2024 House of Representatives election]], the state's representative is [[Sarah McBride]], the first openly transgender person elected to Congress.<ref>{{Cite news |last=Karni |first=Annie |date=2025-03-11 |title=Republican Refers to Transgender Member as a Man, Cutting Short a House Hearing |url=https://www.nytimes.com/2025/03/11/us/politics/sarah-mcbride-keith-self-transgender.html |access-date=2025-03-19 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+In the 1960s and 1970s the state's politics were dominated by the Republican party.<ref name=":2" /> In the 1980s the state began to shift towards the Democratic party.<ref>{{Cite web |last1=Corty |first1=Susanne P. |last2=Hanson |first2=Joseph J. |date=November 4, 1982 |title=The Governor returns to bitter defeat |url=https://www.newspapers.com/article/the-morning-news-the-governor-returns-to/186589581/ |access-date=2025-03-19 |website=[[The News Journal]] |page=18 |language=en |via=[[Newspapers.com]]}}</ref> Writing for ''[[The News Journal]]'', William B. Golin credited the shift towards the Democratic party to the upset victory of then-County Councilman [[Joe Biden]] in the [[1972 United States Senate election in Delaware|1972 United States Senate election]].<ref name=":2">{{Cite web |last=Golin |first=William B. |title=How Joe Biden changed Delaware's — and America's — politics |url=https://www.delawareonline.com/story/opinion/2020/11/27/how-joe-biden-changed-delawares-and-americas-politics/6421726002/ |access-date=2025-03-19 |website=The News Journal |language=en-US}}</ref>
+
+== 1777–1900 ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!scope=col rowspan=2 |Year
+!scope=colgroup colspan=4 |Executive offices
+!scope=colgroup colspan=2 |[[Delaware General Assembly|General Assembly]]
+!scope=colgroup colspan=3 |[[Delaware's congressional delegations|United States Congress]]
+!scope=col rowspan=2 |[[United States presidential election|Electoral votes]]{{Efn|In years in which a presidential election was not held, the table indicates the winner of the most recent election.}}
+|- style="height:2em"
+!scope=col |[[List of governors of Delaware|Governor]]
+!scope=col |[[Attorney General of Delaware|Attorney General]]
+!scope=col |Treasurer
+!scope=colgroup |[[Delaware Auditor of Accounts|Auditor]]
+!scope=col |[[Delaware Senate|State Senate]]
+!scope=col |[[Delaware House of Representatives|State House]]
+!scope=col |[[List of United States senators from Delaware|U.S. Senator (Class I)]]
+!scope=col |[[List of United States senators from Delaware|U.S. Senator (Class II)]]
+!scope=col |[[List of United States representatives from Delaware|U.S. House]]
+|- style="height:2em"
+!scope=rowgroup rowspan=3 |1777
+|{{Party shading/Federalist}} |[[John McKinly]] {{small|(NP/F)}}{{efn|name=pres|President of Delaware<ref name=":1">{{Cite web |title=Gov. John McKinly |url=https://www.nga.org/governor/john-mckinly/ |access-date=March 28, 2025 |website=[[National Governors Association]]|date=7 January 2025 }}</ref>}}{{efn|Presidency ended after being captured by the British army during the [[American Revolutionary War|Revolutionary War]].}}
+|rowspan=3 {{n/a}}
+|
+|
+|
+|
+| colspan="2" rowspan="19" |''no such office''
+| rowspan="19" |{{Efn|During the Continental Congress and the Articles of Confederation the number of delgates that were sent to Congress varried and regardless of the number, entire the delegation only received one vote as a state.}}
+|rowspan=19 |''no elections held''
+|- style="height:2em"
+|{{Party shading/Democratic-Republican}} |[[Thomas McKean]] {{small|(NP/DR)}}{{efn|name=pres}}{{efn|Succeeded to office upon the capture of McKinly and resigned upon the return of [[George Read (signer)|George Read]].}}
+|
+|
+|
+|
+|- style="height:2em"
+|rowspan=2 {{Party shading/Federalist}} |[[George Read (American politician, born 1733)|George Read]] {{small|(NP/F)}}{{efn|name=pres}}{{efn|name=succ-res|Succeeded to office upon the resignation of his predecessor.}}
+|
+|
+|
+|
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1778
+|rowspan=19 {{Party shading/Federalist}} |[[Gunning Bedford Jr.]] {{small|({{Abbr|F|Federalist}})}}<ref>{{Cite web |title=The Founding Fathers: Delaware
+|url=https://www.archives.gov/founding-docs/founding-fathers-delaware |website=[[National Archives and Records Administration]] |date=6 November 2015 |access-date=March 28, 2025}}</ref><ref name="AG" >{{Cite web |title=Delaware Former Attorneys General |url=https://www.naag.org/attorneys-general/past-attorneys-general/delaware-former-attorneys-general/ |website=[[National Association of Attorneys General]] |access-date=March 28, 2025}}</ref>
+| rowspan="11" |Samuel Patterson
+|
+|
+|
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Caesar Rodney]] {{small|(NP/DR)}}{{efn|name=pres}}
+|
+|
+|
+|- style="height:2em"
+!scope=row |1779
+|
+|
+|
+|- style="height:2em"
+!scope=row |1780
+|
+|
+|
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1781
+|
+|
+|
+|- style="height:2em"
+|rowspan=2 {{Party shading/Federalist}} |[[John Dickinson]] {{small|(NP/F)}}{{efn|name=pres}}{{efn|Resigned to accept election as president of [[Pennsylvania]].}}
+|
+|
+|
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1782
+|
+|
+|
+|- style="height:2em"
+|rowspan=2 {{Party shading/Federalist}} |[[John Cook (governor)|John Cook]] {{small|(NP/F)}}{{efn|name=pres}}{{efn|name=succ-res}}
+|
+|
+|
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1783
+|
+|
+|
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Nicholas Van Dyke (politician, born 1738)|Nicholas Van Dyke]] {{small|(NP/DR)}}{{efn|name=pres}}
+|
+|
+|
+|- style="height:2em"
+!scope=row |1784
+|
+|
+|
+|- style="height:2em"
+!scope=row |1785
+| rowspan="2" |[[James Tilton]]
+|
+|
+|
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1786
+|
+|
+|
+|- style="height:2em"
+|rowspan=4 {{Party shading/Federalist}} |[[Thomas Collins (governor)|Thomas Collins]] {{small|(NP/F)}}{{efn|name=pres}}{{efn|name=died|Died in office.}}
+| rowspan="5" {{Party shading/Federalist}}|[[Joshua Clayton]] {{small|(NP/F)}}
+|
+|
+|
+|- style="height:2em"
+!scope=row |1787
+| rowspan="9" |[[Eleazer McComb]]
+|
+|
+|- style="height:2em"
+!scope=row |1788
+|
+|
+|- style="height:2em"
+!scope=rowgroup rowspan=3 |1789
+|
+|
+|rowspan=7 {{Party shading/Pro-Administration}} |[[George Read (American politician, born 1733)|George Read]] {{small|(PA)}}{{efn|name=resigned|Resigned.}}
+|rowspan=4 {{Party shading/Anti-Administration}} |[[Richard Bassett (Delaware politician)|Richard Bassett]] {{small|(AA)}}
+|rowspan=6 {{Party shading/Pro-Administration}} |[[John Vining]] {{small|(PA)}}
+|rowspan=10 {{Party shading/Independent}} |[[George Washington|Washington]]/<br>[[John Adams|Adams]] {{small|(I)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Federalist}} |[[Jehu Davis]] {{small|(NP/F)}}{{efn|name=pres}}{{efn|name=succ-death|Succeeded to office upon the death of his predecessor.}}
+|
+|
+|- style="height:2em"
+|rowspan=4 {{Party shading/Federalist}} |[[Joshua Clayton]] {{small|(NP/F)}}{{efn|name=pres}}
+| rowspan="2" |John Gordon
+|
+|
+|- style="height:2em"
+!scope=row |1790
+|rowspan=13 |[[Nicholas Ridgely (born 1762)|Nicholas Ridgely]]
+|
+|
+|- style="height:2em"
+!scope=row |1791
+|Francis Many
+|
+|
+|rowspan=2 {{Party shading/Pro-Administration}} |[[Richard Bassett (Delaware politician)|Richard Bassett]] {{small|(PA)}}
+|- style="height:2em"
+!scope=row |1792
+| rowspan="2" |Robert Clark
+|
+|
+|- style="height:2em"
+!scope=row |1793
+|rowspan=4 {{Party shading/Federalist}} |[[Joshua Clayton]] {{small|(F)}}
+|
+|
+|rowspan=3 {{Party shading/Pro-Administration}} |[[John Vining]] {{small|(PA)}}{{efn|name=resigned}}
+|{{Party shading/Anti-Administration}} |[[John Patten (American politician)|John Patten]] {{small|(AA)}}
+|- style="height:2em"
+!scope=row |1794
+| rowspan="6" |Thomas Sipple
+|Thomas Montgomery
+|
+|
+|''vacant''
+|rowspan=2 {{Party shading/Pro-Administration}} |[[Henry Latimer (politician)|Henry Latimer]] {{small|(PA)}}{{efn|Successfully contested Patten's election.}}
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1795
+|
+|
+|
+|{{Party shading/Pro-Administration}} |[[Henry Latimer (politician)|Henry Latimer]] {{small|(PA)}}
+|- style="height:2em"
+|
+|
+|
+|rowspan=7 {{Party shading/Federalist}} |[[Henry Latimer (politician)|Henry Latimer]] {{small|(F)}}{{efn|name=resigned}}
+|rowspan=4 {{Party shading/Federalist}} |[[John Vining]] {{small|(F)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |John Patten {{small|(DR)}}
+|- style="height:2em"
+!scope=row |1796
+|rowspan=2 {{Party shading/Federalist}} |[[Gunning Bedford Sr.]] {{small|(F)}}{{efn|name=died}}
+|
+|
+|
+|rowspan=5 {{Party shading/Federalist}} |[[John Adams|Adams]]/<br>[[Charles Cotesworth Pinckney|Pinckney]] {{small|(F)}} {{aye}}
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1797
+|
+|rowspan=2 {{Party shading/Federalist}} |F majority
+|rowspan=2 {{Party shading/Federalist}} |14F, 7DR
+|rowspan=8 {{Party shading/Federalist}} |[[James A. Bayard (politician, born 1767)|James A. Bayard]] {{small|(F)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Federalist}} |[[Daniel Rogers (politician)|Daniel Rogers]] {{small|(F)}}{{efn|name=succ-death}}
+|
+|- style="height:2em"
+!scope=row |1798
+| rowspan="11" |John Clarke
+|
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |[[Joshua Clayton]] {{small|(F)}}{{efn|name=died}}
+|- style="height:2em"
+!scope=row |1799
+|rowspan=3 {{Party shading/Federalist}} |[[Richard Bassett (Delaware politician)|Richard Bassett]] {{small|(F)}}{{efn|Resigned to accept appointment to U.S. District Court.}}
+|
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=7 {{Party shading/Federalist}} |[[William H. Wells]] {{small|(F)}} {{efn|name=resigned}}
+|- style="height:2em"
+!scope=row |1800
+|
+|{{Party shading/Federalist}} |F majority
+|rowspan=24 {{Party shading/Federalist}} |14F, 7DR
+|rowspan=5 {{Party shading/Federalist}} |[[John Adams|Adams]]/<br>[[Charles Cotesworth Pinckney|Pinckney]] {{small|(F)}} {{nay}}
+|- style="height:2em"
+!scope=rowgroup rowspan=2 |1801
+|rowspan=6 {{Party shading/Federalist}} |[[Nicholas Van Dyke (politician, born 1769)|Nicholas Van Dyke]] {{small|(F)}}
+|
+|rowspan=16 {{Party shading/Federalist}} |6F, 3DR
+|rowspan=10 {{Party shading/Federalist}} |[[Samuel White (Delaware politician)|Samuel White]] {{small|(F)}}{{efn|name=died}}
+|- style="height:2em"
+|{{Party shading/Federalist}} |[[James Sykes (governor)|James Sykes]] {{small|(F)}}{{efn|name=succ-res}}
+|
+|- style="height:2em"
+!scope=row |1802
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[David Hall (Delaware politician)|David Hall]] {{small|(DR)}}
+|
+|- style="height:2em"
+!scope=row |1803
+|
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Caesar Augustus Rodney]] {{small|(DR)}}
+|- style="height:2em"
+!scope=row |1804
+|
+|rowspan=8 {{Party shading/Federalist}} |[[Charles Cotesworth Pinckney|Pinckney]]/<br>[[Rufus King|King]] {{small|(F)}} {{nay}}
+|- style="height:2em"
+!scope=row |1805
+|rowspan=3 {{Party shading/Federalist}} |[[Nathaniel Mitchell]] {{small|(F)}}
+|
+|rowspan=8 {{Party shading/Federalist}} |[[James A. Bayard (politician, born 1767)|James A. Bayard]] {{small|(F)}}{{efn|name=resigned}}
+|rowspan=2 {{Party shading/Federalist}} |[[James M. Broom]] {{small|(F)}}{{efn|name=resigned}}
+|- style="height:2em"
+!scope=row |1806
+|rowspan=4 {{Party shading/Federalist}} |[[Outerbridge Horsey]] {{small|(F)}}
+|
+|- style="height:2em"
+!scope=row |1807
+|
+|''vacant''
+|- style="height:2em"
+!scope=row |1808
+|rowspan=3 {{Party shading/Federalist}} |[[George Truitt]] {{small|(F)}}
+|rowspan=6 {{Party shading/Federalist}} |[[Henry Molleston]] {{small|(F)}}
+|
+|rowspan=3 {{Party shading/Federalist}} |[[Nicholas Van Dyke (politician, born 1769)|Nicholas Van Dyke]] {{small|(F)}}
+|- style="height:2em"
+!scope=row |1809
+|
+|- style="height:2em"
+!scope=row |1810
+|rowspan=5 {{Party shading/Federalist}} |[[Thomas Clayton]] {{small|(F)}}
+|
+|rowspan=12 {{Party shading/Federalist}} |[[Outerbridge Horsey]] {{small|(F)}}
+|- style="height:2em"
+!scope=row |1811
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Joseph Haslet]] {{small|(DR)}}
+|
+|rowspan=2 {{Party shading/Federalist}} |[[Henry M. Ridgely]] {{small|(F)}}
+|- style="height:2em"
+!scope=row |1812
+|
+|rowspan=4 {{Party shading/Federalist}} |[[DeWitt Clinton|Clinton]]/<br>[[Jared Ingersoll|Ingersoll]] {{small|(F)}} {{nay}}
+|- style="height:2em"
+!scope=row |1813
+|
+|rowspan=4 {{Party shading/Federalist}} |[[William H. Wells]] {{small|(F)}}
+|rowspan=4 {{Party shading/Federalist}} |2F
+|- style="height:2em"
+!scope=row |1814
+|rowspan=3 {{Party shading/Federalist}} |[[Daniel Rodney]] {{small|(F)}}
+| rowspan="4" {{Party shading/Federalist}}|[[Samuel Paynter]] {{small|(F)}}
+|
+|- style="height:2em"
+!scope=row |1815
+|rowspan=18 |[[James Rogers (Delaware)|James Rogers]]
+|
+|- style="height:2em"
+!scope=row |1816
+|
+|rowspan=2 {{Party shading/Federalist}} |7F, 2DR
+|rowspan=4 {{Party shading/Federalist}} |[[Rufus King|King]]/<br>[[John Eager Howard|Howard]] {{small|(F)}} {{nay}}
+|- style="height:2em"
+!scope=row |1817
+|rowspan=3 {{Party shading/Federalist}} |[[John Clark (Delaware governor)|John Clark]] {{small|(F)}}
+|
+|rowspan=8 {{Party shading/Federalist}} |[[Nicholas Van Dyke (politician, born 1769)|Nicholas Van Dyke]] {{small|(F)}}
+|rowspan=6 {{Party shading/Tie}} |1F, 1DR
+|- style="height:2em"
+!scope=row |1818
+| rowspan="7" {{Party shading/Federalist}}|[[Cornelius P. Comegys]] {{small|(F)}}
+|
+|rowspan=5 {{Party shading/Federalist}} |6F, 3DR
+|- style="height:2em"
+!1819
+|
+|- style="height:2em"
+!rowspan=2 |1820
+|{{Party shading/Federalist}} |[[Henry Molleston]] {{small|(F)}}{{efn|Died before taking office; never served as governor.}}
+|
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[James Monroe|Monroe]]/<br>[[Daniel D. Tompkins|Tompkins]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Federalist}} |[[Jacob Stout]] {{small|(F)}}{{efn|Assumed office upon the death of Governor-elect Molleston.}}
+|
+|- style="height:2em"
+!1821
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Collins (governor)|John Collins]] {{small|(DR)}}{{efn|name=died}}
+|
+|''vacant''{{efn|name=legfail|Legislature failed to elect a senator.}}
+|- style="height:2em"
+!rowspan=2 |1822
+|
+|rowspan=2 {{Party shading/Federalist}} |5DR, 4F
+|rowspan=2 {{Party shading/Democratic-Republican}} |11DR, 10F
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Caesar Augustus Rodney|Cesar Augustus Rodney]] {{small|(DR)}}{{efn|name=resigned}}
+|rowspan=2 {{Party shading/Federalist}} |2F
+|- style="height:2em"
+|{{Party shading/Federalist}} |[[Caleb Rodney]] {{small|(F)}}{{efn|name=succ-death}}
+|
+|- style="height:2em"
+!rowspan=2 |1823
+|{{Party shading/Democratic-Republican}} |[[Joseph Haslet]] {{small|(DR)}}{{efn|name=died}}
+| rowspan="2" |Ezekiel Cowgill
+|
+|rowspan=2 {{Party shading/Democratic-Republican}} |5DR, 4F
+|rowspan=2 {{Party shading/Democratic-Republican}} |13DR, 8F
+|rowspan=2 |''vacant''
+|rowspan=2 |''vacant''{{efn|name=legfail}}
+|rowspan=3 {{Party shading/Federalist}} |[[Louis McLane]] {{small|(F)}}
+|- style="height:2em"
+|{{Party shading/Democratic-Republican}} |[[Charles Thomas (Delaware governor)|Charles Thomas]] {{small|(DR)}}{{efn|name=succ-death}}
+|
+|- style="height:2em"
+!1824
+|rowspan=3 {{Party shading/Federalist}} |[[Samuel Paynter]] {{small|(F)}}
+| rowspan="3" |William W. Green
+|
+|rowspan=3 {{Party shading/Federalist}} |5F, 4DR
+|{{Party shading/Federalist}} |14F, 7DR
+|{{Party shading/Federalist}} |[[Thomas Clayton]] {{small|(F)}}
+|{{Party shading/Federalist}} |[[Nicholas Van Dyke (politician, born 1769)|Nicholas Van Dyke]] {{small|(F)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Andrew Jackson|Jackson]]/<br>[[John C. Calhoun|Calhoun]] {{small|(DR)}} {{nay}}
+|- style="height:2em"
+!1825
+|
+|{{Party shading/Federalist}} |13F, 8DR
+|rowspan=2 {{Party shading/National Republican}} |[[Thomas Clayton]] {{small|(NR)}}
+|{{Party shading/National Republican}} |[[Nicholas Van Dyke (politician, born 1769)|Nicholas Van Dyke]] {{small|(NR)}}{{efn|name=died}}
+|rowspan=2 {{Party shading/Jacksonian}} |[[Louis McLane]] {{small|(J)}}{{efn|name=resigned}}
+|- style="height:2em"
+!1826
+|
+|{{Party shading/Democratic-Republican}} |14DR, 7F
+|{{Party shading/National Republican}} |[[Daniel Rodney]] {{small|(NR)}}{{efn|name=resigned}}
+|- style="height:2em"
+!1827
+|rowspan=3 {{Party shading/Federalist}} |[[Charles Polk Jr.]] {{small|(F)}}
+| rowspan="3" |Ezekiel Cowgill
+|
+|{{Party shading/Democratic-Republican}} |5DR, 4F
+|{{Party shading/Federalist}} |13F, 8DR
+|rowspan=2 {{Party shading/Jacksonian}} |[[Louis McLane]] {{small|(J)}}{{efn|name=resigned}}
+|rowspan=2 {{Party shading/Jacksonian}} |Henry M. Ridgely {{small|(J)}}
+|''vacant''
+|- style="height:2em"
+!1828
+|
+|{{Party shading/Anti-Jacksonian}} |5A-J, 3J, 1?
+|{{Party shading/Anti-Jacksonian}} |11A-J, 10J
+|rowspan=3 {{Party shading/National Republican}} |[[Kensey Johns Jr.]] {{small|(NR)}}
+|rowspan=4 {{Party shading/Anti-Jacksonian}} |[[John Quincy Adams|Adams]]/<br>[[Richard Rush|Rush]] {{small|(NR)}} {{nay}}
+|- style="height:2em"
+!1829
+|
+|rowspan=2 {{Party shading/National Republican}} |5NR, 4D
+|rowspan=2 {{Party shading/National Republican}} |14NR, 7D
+|''vacant''
+|rowspan=8 {{Party shading/National Republican}} |[[John M. Clayton]] {{small|(NR)}}{{efn|name=resigned}}
+|- style="height:2em"
+!1830
+|rowspan=3 {{Party shading/National Republican}} |[[David Hazzard]] {{small|(NR)}}
+|rowspan=5 |[[Robert Frame]]
+| rowspan="5" {{Party shading/National Republican}}|[[Cornelius P. Comegys]] {{small|(NR)}}
+|
+|rowspan=7 {{Party shading/National Republican}} |[[Arnold Naudain]] {{small|(NR)}}{{efn|name=resigned}}
+|- style="height:2em"
+!1831
+|
+|rowspan=4 {{Party shading/National Republican}} |7NR, 2D
+|{{Party shading/National Republican}} |16NR, 5D
+|rowspan=7 {{Party shading/National Republican}} |[[John J. Milligan]] {{small|(NR)}}
+|- style="height:2em"
+!1832
+|
+|rowspan=3 {{Party shading/National Republican}} |14NR, 7D
+|rowspan=4 {{Party shading/National Republican}} |[[Henry Clay|Clay]]/<br>[[John Sergeant (politician)|Sergeant]] {{small|(NR)}} {{nay}}
+|- style="height:2em"
+!1833
+|rowspan=4 {{Party shading/Democratic}} |[[Caleb P. Bennett]] {{small|(D)}}{{efn|name=died}}
+|
+|- style="height:2em"
+!1834
+|
+|- style="height:2em"
+!1835
+|rowspan=6 |[[James Rogers (Delaware)|James Rogers]]
+| rowspan="5" |Peter S. Parker
+|
+|rowspan=5 {{Party shading/Whig}} |6W, 3D
+|rowspan=5 {{Party shading/Whig}} |14W, 7D
+|- style="height:2em"
+!rowspan=2 |1836
+|
+|rowspan=5 {{Party shading/Whig}} |[[William Henry Harrison|Harrison]]/<br>[[Francis Granger|Granger]] {{small|(W)}} {{nay}}
+|- style="height:2em"
+|{{Party shading/Whig}} |[[Charles Polk Jr.]] {{small|(W)}}{{efn|name=succ-death}}
+|
+|{{Party shading/National Republican}} |[[Richard H. Bayard]] {{small|(NR)}}
+|{{Party shading/National Republican}} |[[Thomas Clayton]] {{small|(NR)}}
+|- style="height:2em"
+!1837
+|rowspan=4 {{Party shading/Whig}} |[[Cornelius P. Comegys]] {{small|(W)}}
+|
+|rowspan=3 {{Party shading/Whig}} |[[Richard H. Bayard]] {{small|(W)}}{{efn|name=resigned}}
+|rowspan=12 {{Party shading/Whig}} |[[Thomas Clayton]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[John J. Milligan]] {{small|(W)}}
+|- style="height:2em"
+!1838
+|
+|- style="height:2em"
+!1839
+| rowspan="2" |Elijah Cannon
+|
+|rowspan=2 {{Party shading/Democratic}} |6D, 3W
+|rowspan=2 {{Party shading/Democratic}} |13D, 8W
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas Robinson Jr.]] {{small|(D)}}
+|- style="height:2em"
+!1840
+|rowspan=12 |[[Edward W. Gilpin]]
+|
+|''vacant''
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison|Harrison]]/<br>[[John Tyler|Tyler]] {{small|(W)}} {{aye}}
+|- style="height:2em"
+!1841
+|rowspan=4 {{Party shading/Whig}} |[[William B. Cooper (Delaware politician)|William B. Cooper]] {{small|(W)}}
+|{{Party shading/Whig}}|William D. Waples {{small|(W)}}
+|J. L. Harper
+|rowspan=2 {{Party shading/Democratic}} |5D, 4W
+|rowspan=2 {{Party shading/Whig}} |21W
+|rowspan=4 {{Party shading/Whig}} |[[Richard H. Bayard]] {{small|(W)}}
+|rowspan=4 {{Party shading/Whig}} |[[George B. Rodney]] {{small|(W)}}
+|- style="height:2em"
+!1842
+| rowspan="3" |Gardner H. Wright
+|
+|- style="height:2em"
+!1843
+|
+|rowspan=6 {{Party shading/Whig}} |7W, 2D
+|rowspan=2 {{Party shading/Whig}} |14W, 7D
+|- style="height:2em"
+!1844
+|
+|rowspan=6 {{Party shading/Whig}} |[[Henry Clay|Clay]]/<br>[[Theodore Frelinghuysen|Frelinghuysen]] {{small|(W)}} {{nay}}
+|- style="height:2em"
+!1845
+|rowspan=2 {{Party shading/Whig}} |[[Thomas Stockton (politician)|Thomas Stockton]] {{small|(W)}}{{efn|name=died}}
+| rowspan="6" |James S. Buckmaster
+|
+|rowspan=4 {{Party shading/Whig}} |6W, 3D
+|rowspan=6 {{Party shading/Whig}} |[[John M. Clayton]] {{small|(W)}}{{efn|name=res-secstate|Resigned to become [[United States Secretary of State]].}}
+|rowspan=8 {{Party shading/Whig}} |[[John W. Houston]] {{small|(W)}}
+|- style="height:2em"
+!rowspan=3 |1846
+|
+|- style="height:2em"
+|{{Party shading/Whig}} |[[Joseph Maull]] {{small|(W)}}{{efn|name=died}}{{efn|name=succ-death}}
+|
+|- style="height:2em"
+|{{Party shading/Whig}} |[[William Temple (politician)|William Temple]] {{small|(W)}}{{efn|name=succ-death}}
+|
+|- style="height:2em"
+!1847
+|rowspan=4 {{Party shading/Democratic}} |[[William Tharp]] {{small|(D)}}
+| rowspan="2" |Abraham Staats
+|rowspan=2 {{Party shading/Whig}} |5W, 4D
+|rowspan=2 {{Party shading/Whig}} |11W, 10D
+|rowspan=6 {{Party shading/Whig}} |[[Presley Spruance]] {{small|(W)}}
+|- style="height:2em"
+!1848
+|rowspan=4 {{Party shading/Whig}} |[[Zachary Taylor|Taylor]]/<br>[[Millard Fillmore|Fillmore]] {{small|(W)}} {{aye}}
+|- style="height:2em"
+!1849
+| rowspan="2" {{Party shading/Whig}}|Jacob Faris {{small|(W)}}
+| rowspan="2" |Hiram W. McColley
+|rowspan=2 {{Party shading/Whig}} |6W, 3D
+|rowspan=2 {{Party shading/Whig}} |13W, 7D, 1?
+|rowspan=2 {{Party shading/Whig}} |[[John Wales]] {{small|(W)}}
+|- style="height:2em"
+!1850
+|rowspan=5 {{Party shading/Democratic}} |[[Willard Saulsbury Sr.]] {{small|(D)}}
+|- style="height:2em"
+!1851
+|rowspan=4 {{Party shading/Democratic}} |[[William H. H. Ross]] {{small|(D)}}
+| rowspan="4" {{Party shading/Democratic}}|[[William Cannon]] {{small|(D)}}
+| rowspan="4" |Luther Swigget
+|rowspan=4 {{Party shading/Democratic}} |5D, 4W
+|rowspan=2 {{Party shading/Democratic}} |14D, 7W
+|rowspan=13 {{Party shading/Democratic}} |[[James A. Bayard Jr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[George R. Riddle]] {{small|(D)}}
+|- style="height:2em"
+!1852
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce|Pierce]]/<br>[[William R. King|King]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1853
+|rowspan=2 {{Party shading/Whig}} |13W, 8D
+|rowspan=4 {{Party shading/Whig}} |[[John M. Clayton]] {{small|(W)}}
+|- style="height:2em"
+!1854
+|- style="height:2em"
+!1855
+|rowspan=4 {{Party shading/Know-Nothing}} |[[Peter F. Causey]] {{small|(KN)}}
+|rowspan=5 {{Party shading/Republican}} |[[George P. Fisher]] {{small|(R)}}
+| rowspan="2" |John R. Sudler
+| rowspan="2" |William T. Alrichs
+|rowspan=2 {{Party shading/Know-Nothing}} |6KN, 2D, 1W
+|rowspan=2 {{Party shading/Know-Nothing}} |19KN, 2D
+|rowspan=2 {{Party shading/Know-Nothing}} |[[Elisha D. Cullen]] {{small|(KN)}}
+|- style="height:2em"
+!1856
+|rowspan=4 {{Party shading/Democratic}} |[[James Buchanan|Buchanan]]/<br>[[John C. Breckinridge|Breckinridge]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1857
+| rowspan="4" |William J. Clarke
+|
+|rowspan=2 {{Party shading/Democratic}} |5D, 4O
+|rowspan=2 {{Party shading/Democratic}} |21D
+|rowspan=2 {{Party shading/Whig}} |[[Joseph P. Comegys]] {{small|(W)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William G. Whiteley]] {{small|(D)}}
+|- style="height:2em"
+!1858
+|
+|- style="height:2em"
+!1859
+|rowspan=4 {{Party shading/Democratic}} |[[William Burton (governor)|William Burton]] {{small|(D)}}
+| rowspan="2" |Aaron B. Marvel
+|rowspan=2 {{Party shading/Democratic}} |7D, 2O
+|rowspan=2 {{Party shading/Democratic}} |14D, 7O
+|rowspan=13 {{Party shading/Democratic}} |[[Willard Saulsbury Sr.]] {{small|(D)}}
+|- style="height:2em"
+!1860
+|rowspan=4 |[[Alfred Wooten]]
+|rowspan=4 {{Party shading/Southern Democratic}} |[[John C. Breckinridge|Breckinridge]]/<br>[[Joseph Lane|Lane]] {{small|({{abbr|SD|Southern Democratic}})}} {{Nay}}
+|- style="height:2em"
+!1861
+| rowspan="2" |Samuel B. Hitch
+| rowspan="2" |W. N. Hamilton
+|rowspan=4 {{Party shading/Democratic}} |5D, 4R
+|rowspan=2 {{Party shading/Republican}} |11R, 10D
+|rowspan=2 {{Party shading/Unionist}} |[[George P. Fisher]] {{small|(U)}}
+|- style="height:2em"
+!1862
+|- style="height:2em"
+!1863
+|rowspan=3 {{Party shading/Republican}} |[[William Cannon]] {{small|(R)}}{{efn|name=died}}
+| rowspan="2" |Locksley R. Jacobs
+| rowspan="2" |Andrew J. Calley
+|rowspan=5 {{Party shading/Democratic}} |14D, 7R
+|{{Party shading/Democratic}} |[[William Temple (politician)|William Temple]] {{small|(D)}}{{efn|name=died}}
+|- style="height:2em"
+!1864
+|rowspan=6 {{Party shading/Republican}} |[[Jacob Moore]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[George R. Riddle]] {{small|(D)}}
+|{{Party shading/Republican}} |[[Nathaniel B. Smithers]] {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic}} |[[George B. McClellan|McClellan]]/<br>[[George H. Pendleton|Pendleton]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1865
+| rowspan="3" |Lewellyn Thorp
+| rowspan="3" |Robert G. Ellegood
+|rowspan=5 {{Party shading/Democratic}} |6D, 3R
+|rowspan=5 {{Party shading/Democratic}} |[[John A. Nicholson]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=6 {{Party shading/Democratic}} |[[Gove Saulsbury]] {{small|(D)}}{{efn|Assumed office upon the death of Cannon, then was elected to office in his own right.}}
+|- style="height:2em"
+!1866
+|- style="height:2em"
+!1867
+| rowspan="4" |William J. Clarke
+| rowspan="4" |Robert Lambden
+|rowspan=2 {{Party shading/Democratic}} |15D, 6R
+|rowspan=2 {{Party shading/Democratic}} |[[James A. Bayard Jr.]] {{small|(D)}}
+|- style="height:2em"
+!1868
+|rowspan=4 {{Party shading/Democratic}} |[[Horatio Seymour|Seymour]]/<br>[[Francis Preston Blair Jr.|Blair]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1869
+|rowspan=5 {{Party shading/Democratic}} |[[Charles B. Lore]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |9D
+|rowspan=12 {{Party shading/Democratic}} |21D
+|rowspan=16 {{Party shading/Democratic}} |[[Thomas F. Bayard]] {{small|(D)}}{{efn|name=res-secstate}}
+|rowspan=4 {{Party shading/Democratic}} |[[Benjamin T. Biggs]] {{small|(D)}}
+|- style="height:2em"
+!1870
+|- style="height:2em"
+!1871
+|rowspan=4 {{Party shading/Democratic}} |[[James Ponder]] {{small|(D)}}
+| rowspan="4" |Robert H. Davis
+| rowspan="4" |Robert G. Ellegood
+|rowspan=18 {{Party shading/Democratic}} |[[Eli Saulsbury]] {{small|(D)}}
+|- style="height:2em"
+!1872
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|rowspan=4 {{Party shading/Democratic}} |8D, 1R
+|rowspan=2 {{Party shading/Republican}} |[[James R. Lofland]] {{small|(R)}}
+|- style="height:2em"
+!1874
+|rowspan=5 {{Party shading/Democratic}} |[[John B. Penington]] {{small|(D)}}
+|- style="height:2em"
+!1875
+|rowspan=4 {{Party shading/Democratic}} |[[John P. Cochran]] {{small|(D)}}
+| rowspan="4" |Thomas B. Giles
+| rowspan="4" {{Party shading/Democratic}}|Nathan Pratt {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James Williams (Delaware politician)|James Williams]] {{small|(D)}}
+|- style="height:2em"
+!1876
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel J. Tilden|Tilden]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1877
+|rowspan=4 {{Party shading/Democratic}} |9D
+|- style="height:2em"
+!1878
+|- style="height:2em"
+!1879
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Hall]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[George Gray (Delaware politician)|George Gray]] {{small|(D)}}
+| rowspan="4" {{Party shading/Democratic}}|[[Robert J. Reynolds]] {{small|(D)}}
+| rowspan="4" |John F. Staats
+|rowspan=4 {{Party shading/Democratic}} |[[Edward L. Martin]] {{small|(D)}}
+|- style="height:2em"
+!1880
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1881
+|rowspan=2 {{Party shading/Democratic}} |8D, 1R
+|rowspan=2 {{Party shading/Democratic}} |14D, 7R
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|rowspan=4 {{Party shading/Democratic}} |[[Charles C. Stockley]] {{small|(D)}}
+| rowspan="4" {{Party shading/Democratic}}|John M. Houston {{small|(D)}}
+| rowspan="4" |Jesse L. Long
+|rowspan=2 {{Party shading/Democratic}} |7D, 2R
+|rowspan=6 {{Party shading/Democratic}} |21D
+|rowspan=4 {{Party shading/Democratic}} |[[Charles B. Lore]] {{small|(D)}}
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1885
+|rowspan=2 |[[John H. Paynter (politician)|John H. Paynter]]
+|rowspan=4 {{Party shading/Democratic}} |9D
+|rowspan=15 {{Party shading/Democratic}} |[[George Gray (Delaware politician)|George Gray]] {{small|(D)}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=4 {{Party shading/Democratic}} |[[Benjamin T. Biggs]] {{small|(D)}}
+|rowspan=5 |[[John Biggs (Delaware)|John Biggs]]
+| rowspan="4" |William Herbert
+| rowspan="4" |James H. Boyce
+|rowspan=4 {{Party shading/Democratic}} |[[John B. Penington]] {{small|(D)}}
+|- style="height:2em"
+!1888
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Allen G. Thurman|Thurman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Republican}} |5R, 4D
+|rowspan=4 {{Party shading/Republican}} |14R, 7D
+|rowspan=6 {{Party shading/Republican}} |[[Anthony Higgins (politician)|Anthony Higgins]] {{small|(R)}}
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=4 {{Party shading/Democratic}} |[[Robert J. Reynolds]] {{small|(D)}}
+| rowspan="4" |Wilbur H. Burnite
+| rowspan="4" |John P. Dulaney
+|rowspan=2 {{Party shading/Democratic}} |7D, 2R
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Causey]] {{small|(D)}}
+|- style="height:2em"
+!1892
+|rowspan=3 |[[John R. Nicholson]]
+|rowspan=5 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1893
+|rowspan=7 {{Party shading/Democratic}} |5D, 4R
+|rowspan=2 {{Party shading/Democratic}} |21D
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!rowspan=2 |1895
+|{{Party shading/Republican}} |[[Joshua H. Marvil]] {{small|(R)}}{{efn|name=died}}
+|rowspan=8 |[[Robert C. White (Delaware politician)|Robert C. White]]
+| rowspan="3" |Charles H. Atkins
+|rowspan=5 |Beniah L. Lewis
+|rowspan=3 {{Party shading/Republican}} |15R, 6D
+|rowspan=3 |''vacant''{{efn|name=legfail}}
+|rowspan=3 {{Party shading/Republican}} |[[Jonathan S. Willis]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[William T. Watson]] {{small|(D)}}{{efn|name=succ-death}}
+|- style="height:2em"
+!1896
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Garret Hobart|Hobart]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1897
+|rowspan=5 {{Party shading/Democratic}} |[[Ebe W. Tunnell]] {{small|(D)}}
+| rowspan="2" {{Party shading/Democratic}}|William M. Ross {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 1R
+|rowspan=5 {{Party shading/Democratic}} |[[Richard R. Kenney]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[L. Irving Handy]] {{small|(D)}}
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=3 {{Party shading/Republican}} |[[L. Heisler Ball]] {{small|(R)}}
+|{{Party shading/Republican}}|John A. Lingo {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |9D, 8R
+|rowspan=3 {{Party shading/Republican}} |22R, 13D
+|rowspan=3 |''vacant''{{efn|name=legfail}}
+|rowspan=2 {{Party shading/Republican}} |[[John H. Hoffecker]] {{small|(R)}}{{efn|name=died}}
+|- style="height:2em"
+!rowspan=2 |1900
+|rowspan=2 |Isaac N. Fooks
+|rowspan=2 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Walter O. Hoffecker]] {{small|(R)}}
+|}
+
+==1901–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Delaware General Assembly|General Assembly]]
+!colspan=3 |[[Delaware's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Delaware|Governor]]
+!class=unsortable |[[Lieutenant Governor of Delaware|Lt. Governor]]
+!class=unsortable |[[Attorney General of Delaware|Attorney<br>General]]
+!class=unsortable |Treasurer
+!class=unsortable |[[Delaware Auditor of Accounts|Auditor]]
+!class=unsortable |Insurance<br>Commissioner
+!class=unsortable |[[Delaware Senate|State<br>Senate]]
+!class=unsortable |[[Delaware House of Representatives|State<br>House]]
+!class=unsortable |[[List of United States senators from Delaware|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Delaware|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from Delaware|U.S. House]]
+|- style="height:2em"
+!1901
+|rowspan=4 {{Party shading/Republican}} |[[John Hunn (governor)|John Hunn]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Philip L. Cannon]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}}|Herbert H. Ward {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}}|Martin B. Burris {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}}|Purnal B. Norman {{small|(R)}}
+| rowspan="8" {{Party shading/Republican}}|George W. Marshall {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 8D
+|rowspan=4 {{Party shading/Republican}} |20R, 15D
+|rowspan=2 |''vacant{{efn|name=legfail}}''
+|rowspan=2 |''vacant''{{efn|name=legfail}}
+|rowspan=2 {{Party shading/Republican}} |[[L. Heisler Ball]] {{small|(R)}}
+|rowspan=3 |
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=4 {{Party shading/Republican}} |10R, 7D
+|rowspan=2 {{Party shading/Republican}} |[[L. Heisler Ball]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[J. Frank Allee]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Henry A. Houston]] {{small|(D)}}
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=4 {{Party shading/Republican}} |[[Preston Lea]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Isaac T. Parker]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}}|Robert H. Richards {{small|(R)}}
+| rowspan="4" {{Party shading/Republican}}|Thomas N. Rawlins {{small|(R)}}
+| rowspan="2" {{Party shading/Republican}}|George H. Dick {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 14D
+|rowspan=2 |''vacant''{{efn|name=legfail}}
+|rowspan=4 {{Party shading/Republican}} |[[Hiram R. Burton]] {{small|(R)}}
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+| rowspan="2" {{Party shading/Republican}}|Thomas C. Roe {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |11R, 6D
+|rowspan=2 {{Party shading/Republican}} |25R, 10D
+|rowspan=10 {{Party shading/Republican}} |[[Henry A. du Pont]] {{small|(R)}}
+|rowspan=6 {{party shading/Republican}} |[[Harry A. Richardson]] {{small|(R)}}
+|- style="height:2em"
+!1908
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=4 {{Party shading/Republican}} |[[Simeon S. Pennewill]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John M. Mendinhall]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}}|[[Andrew C. Gray]] {{small|(D)}}
+| rowspan="4" {{Party shading/Republican}}|David O. Moore {{small|(R)}}
+| rowspan="4" {{Party shading/Republican}}|Theodore F. Clark {{small|(R)}}
+| rowspan="4" {{Party shading/Republican}}|Charles H. Maull {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 17R
+|rowspan=4 {{Party shading/Republican}} |[[William H. Heald]] {{small|(R)}}
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=6 {{Party shading/Republican}} |9R, 8D
+|rowspan=2 {{Party shading/Republican}} |22R, 13D
+|- style="height:2em"
+!1912
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Republican}} |[[Charles R. Miller (politician)|Charles R. Miller]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Colen Ferguson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Josiah O. Wolcott]] {{small|(D)}}
+| rowspan="2" {{Party shading/Democratic}}|Charles A. Hastings {{small|(D)}}
+| rowspan="2" {{Party shading/Democratic}}|Walter Poole Prettyman {{small|(D)}}
+| rowspan="4" {{Party shading/Democratic}}|William R. McGabe {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 14R
+|rowspan=6 {{Party shading/Democratic}} |[[Willard Saulsbury Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Franklin Brockson]] {{small|(D)}}
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+| rowspan="4" {{Party shading/Republican}}|William J. Swain {{small|(R)}}
+| rowspan="2" {{Party shading/Republican}}|Charles J. Luff {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 16D
+|rowspan=2 {{Party shading/Republican}} |[[Thomas W. Miller]] {{small|(R)}}
+|- style="height:2em"
+!1916
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes|Hughes]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Republican}} |[[John G. Townsend Jr.]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Lewis E. Eliason]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}}|David J. Reinhardt {{small|(R)}}
+| rowspan="2" {{Party shading/Democratic}}|William G. Roe {{small|(D)}}
+| rowspan="4" {{Party shading/Democratic}}|Thomas R. Wilson {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |10R, 7D
+|rowspan=2 {{Party shading/Democratic}} |19D, 16R
+|rowspan=4 {{Party shading/Democratic}} |[[Josiah O. Wolcott]] {{small|(D)}}{{efn|Resigned to become Chancellor of the [[Delaware Court of Chancery]].}}
+|rowspan=2 {{Party shading/Democratic}} |[[Albert F. Polk]] {{small|(D)}}
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+| rowspan="4"{{Party shading/Republican}} |George M. Fisher {{small|(R)}}
+| rowspan="4" {{Party shading/Republican}}|Daniel Thompson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 12D
+|rowspan=6 {{Party shading/Republican}} |[[L. Heisler Ball]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Caleb R. Layton]] {{small|(R)}}
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Republican}} |[[William D. Denney]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[J. Danforth Bush]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}}|Sylvester D. Townsend Jr. {{small|(R)}}
+| rowspan="2" {{Party shading/Republican}}|Horace Sudler {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |12R, 5D
+|rowspan=4 {{Party shading/Democratic}} |18D, 17R
+|rowspan=2 {{Party shading/Republican}} |[[T. Coleman du Pont]] {{small|(R)}}{{efn|name=app|Appointed to fill vacancy.}}
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+| rowspan="4" {{Party shading/Republican}}|Thomas S. Fouracre {{small|(R)}}
+| rowspan="4" {{Party shading/Republican}}|Joseph Morris Harrington {{small|(R)}}
+| rowspan="2" {{Party shading/Republican}}|Charles M. Hollis {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 6D
+|rowspan=6 {{Party shading/Democratic}} |[[Thomas F. Bayard Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William H. Boyce]] {{small|(D)}}
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=4 {{Party shading/Republican}} |[[Robert P. Robinson (Delaware politician)|Robert P. Robinson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James H. Anderson (politician)|James H. Anderson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}}|[[Clarence A. Southerland]] {{small|(R)}}
+| rowspan="11" {{Party shading/Republican}}|James G. Shaw {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |9D, 8R
+|rowspan=2 {{Party shading/Republican}} |22R, 13D
+|rowspan=4 {{Party shading/Republican}} |[[T. Coleman du Pont]] {{small|(R)}}{{efn|Resigned due to poor health.}}
+|rowspan=8 {{Party shading/Republican}} |[[Robert G. Houston]] {{small|(R)}}
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+| rowspan="4" {{Party shading/Republican}}|Howard M. Ward {{small|(R)}}
+| rowspan="6" {{Party shading/Republican}}|Edward Baker {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 17D
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=9 {{Party shading/Republican}} |[[C. Douglass Buck]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James H. Hazel]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}}|Reuben Satterthwaite Jr. {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 8D
+|rowspan=2 {{Party shading/Republican}} |26R, 9D
+|rowspan=13 {{Party shading/Republican}} |[[John G. Townsend Jr.]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Daniel O. Hastings]] {{small|(R)}}{{efn|name=app}}
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+| rowspan="5" {{Party shading/Republican}}|[[George S. Williams]] {{small|(R)}}
+| rowspan="2" {{Party shading/Republican}} |12R, 5D
+|rowspan=2 {{Party shading/Republican}} |22R, 13D
+|- style="height:2em"
+!1932
+|rowspan=5 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1933
+|rowspan=5 {{Party shading/Republican}} |[[Roy F. Corley]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Daniel J. Layton]] {{small|(R)}}
+| rowspan="5" {{Party shading/Republican}}|James H. Hazel {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |9R, 8D
+|rowspan=3 {{Party shading/Democratic}} |22D, 13R
+|rowspan=3 {{Party shading/Democratic}} |[[Wilbur L. Adams]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=6 {{Party shading/Republican}} |[[P. Warren Green]] {{small|(R)}}
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=2 {{Party shading/Republican}} |Warren T. Moore {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |James Postles Hammond {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 7D
+|rowspan=2 {{Party shading/Republican}} |23R, 12D
+|rowspan=2 {{Party shading/Republican}} |[[J. George Stewart]] {{small|(R)}}
+|- style="height:2em"
+!1936
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1937
+|rowspan=4 {{Party shading/Democratic}} |[[Richard McMullen]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Edward W. Cooch]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Ernest C. Blackstone {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |James W. Wise {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |11R, 6D
+|rowspan=2 {{Party shading/Democratic}} |21D, 14R
+|rowspan=6 {{Party shading/Democratic}} |[[James H. Hughes]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William F. Allen (Delaware politician)|William F. Allen]] {{small|(D)}}
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Republican}} |[[James R. Morford]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Fagan H. Simonton {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Benjamin I. Shaw {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |William J. Swain {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |20R, 15D
+|rowspan=2 {{Party shading/Republican}} |[[George S. Williams]] {{small|(R)}}
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=8 {{Party shading/Republican}} |[[Walter W. Bacon]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Isaac J. MacCollum]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Peter S. Collins {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Harrison M. Manning {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |10R, 7D
+|rowspan=6 {{Party shading/Democratic}} |[[James M. Tunnell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Philip A. Traynor]] {{small|(D)}}
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=4 {{Party shading/Republican}} |[[Clair J. Killoran]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |John S. Isaacs {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Joseph M. Harrington {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 11D
+|rowspan=6 {{Party shading/Republican}} |[[C. Douglass Buck]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Earle D. Willey]] {{small|(R)}}
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=4 {{Party shading/Democratic}} |[[Elbert N. Carvel]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Jesse S. Cooper Jr. {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Wilbur E. Jacobs {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |11R, 6D
+|rowspan=2 {{Party shading/Republican}} |22R, 13D
+|rowspan=2 {{Party shading/Democratic}} |Philip A. Traynor {{small|(D)}}
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=4 {{Party shading/Republican}} |[[Albert W. James]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Benjamin F. Johnson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Benjamin I. Shaw {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 11D
+|rowspan=25 {{Party shading/Republican}} |[[John J. Williams (politician)|John J. Williams]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[J. Caleb Boggs]] {{small|(R)}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[Earl Warren|Warren]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Democratic}} |Elbert N. Carvel {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Alexis I. du Pont Bayard]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Willard D. Boyce {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |James W. W. Baker {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 8D
+|rowspan=2 {{Party shading/Republican}} |18R, 17D
+|rowspan=13 {{Party shading/Democratic}} |[[J. Allen Frear Jr.]] {{small|(D)}}
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=4 {{Party shading/Republican}} |[[H. Albert Young]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Ralph W. Emerson {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |G. Dan Enterline {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |William R. Murphy {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |9D, 8R
+|rowspan=2 {{Party shading/Republican}} |19R, 16D
+|- style="height:2em"
+!1952
+|rowspan=9 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=9 {{Party shading/Republican}} |J. Caleb Boggs {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John W. Rollins]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Clarence Collins Jr. {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 7D
+|rowspan=2 {{Party shading/Republican}} |18R, 17D
+|rowspan=2 {{Party shading/Republican}} |[[Herbert Warburton]] {{small|(R)}}
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Democratic}} |[[Joseph D. Craven]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Howard H. Dickerson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Clifford E. Hall]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Harry S. Smith (politician)|Harry S. Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 5R
+|rowspan=2 {{Party shading/Democratic}} |27D, 8R
+|rowspan=2 {{Party shading/Democratic}} |[[Harris McDowell]] {{small|(D)}}
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=5 {{Party shading/Republican}} |[[David P. Buckson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Vera Davis]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Dale E. Wheatley {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |13D, 4R
+|rowspan=2 {{Party shading/Democratic}} |19D, 16R
+|rowspan=2 {{Party shading/Republican}} |[[Hal Haskell]] {{small|(R)}}
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=5 {{Party shading/Republican}} |[[Januar D. Bove Jr.]] {{small|(R)}}
+|rowspan=9 {{Party shading/Democratic}} |Belle Everett {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |Ernest E. Killen {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |11D, 6R
+|rowspan=3 {{Party shading/Democratic}} |26D, 9R
+|rowspan=9 {{Party shading/Democratic}} |[[Harris McDowell]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1960
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |[[Elbert N. Carvel]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Eugene Lammot]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 15R
+|rowspan=12 {{Party shading/Republican}} |[[J. Caleb Boggs]] {{small|(R)}}
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=8 {{Party shading/Republican}} |[[David P. Buckson]] {{small|(R)}}
+|rowspan=14 {{Party shading/Republican}} |[[Robert Short (Delaware)|Robert Short]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |10D, 7R
+|rowspan=2 {{Party shading/Democratic}} |24D, 11R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=4 {{Party shading/Democratic}} |[[Charles L. Terry Jr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Sherman W. Tribbitt]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Charles F. Moore {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |13D, 5R
+|rowspan=2 {{Party shading/Democratic}} |30D, 5R
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Republican}} |Daniel Ross {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[George W. Cripps]] {{small|(R)}}
+|rowspan=2 {{Party shading/Tie}} |9R, 9D
+|rowspan=2 {{Party shading/Republican}} |23R, 12D
+|rowspan=4 {{Party shading/Republican}} |[[William Roth]] {{small|(R)}}{{efn|Resigned December 31, 1970, to become a U.S. Senator.}}
+|- style="height:2em"
+!1968
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=4 {{Party shading/Republican}} |[[Russell W. Peterson]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Eugene Bookhammer]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |13R, 6D
+|rowspan=2 {{Party shading/Republican}} |26R, 13D
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=4 {{Party shading/Republican}} |[[W. Laird Stabler Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Emily Womach]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 16D
+|rowspan=32 {{Party shading/Republican}} |[[William Roth]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Pete du Pont]] {{small|(R)}}
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=4 {{Party shading/Democratic}} |[[Sherman W. Tribbitt]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Mary Jornlin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[F. Earl McGinnes]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 10D
+|rowspan=2 {{Party shading/Republican}} |21R, 20D
+|rowspan=38 {{Party shading/Democratic}} |[[Joe Biden]] {{small|(D)}}{{efn|Resigned after being elected [[Vice President of the United States]]<ref name="Kaufman appointment" />}}
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=4 {{Party shading/Democratic}} |[[Richard R. Wier Jr.]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |[[Richard T. Collins]] {{small|(R)}}
+|rowspan=6 {{Party shading/Democratic}} |13D, 8R
+|rowspan=2 {{Party shading/Democratic}} |25D, 16R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1977
+|rowspan=8 {{Party shading/Republican}} |[[Pete du Pont]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James D. McGinnis]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Tom Carper]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |[[David H. Elliott]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 15R
+|rowspan=6 {{Party shading/Republican}} |[[Thomas B. Evans Jr.]] {{small|(R)}}
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Republican}} |[[Richard S. Gebelein]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 20R
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=4 {{Party shading/Republican}} |[[Mike Castle]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Thomas W. Spruance]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 9R
+|rowspan=2 {{Party shading/Republican}} |25R, 16D
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=14 {{Party shading/Democratic}} |[[Charles Oberly]] {{small|(D)}}
+|rowspan=18 {{Party shading/Republican}} |[[Janet Rzewnicki]] {{small|(R)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Dennis Greenhouse]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |13D, 8R
+|rowspan=2 {{Party shading/Democratic}} |25D, 16R
+|rowspan=12 {{Party shading/Democratic}} |[[Tom Carper]] {{small|(D)}}
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=10 {{Party shading/Republican}} |[[Mike Castle]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[S. B. Woo]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[David N. Levinson]] {{small|(D)}}
+|rowspan=7 {{Party shading/Republican}} |22R, 19D
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|- style="height:2em"
+!1988
+|rowspan=6 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1989
+|rowspan=6 {{Party shading/Republican}} |[[Dale E. Wolf]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=31 {{Party shading/Republican}} |[[Tom Wagner (politician)|Tom Wagner]] {{small|(R)}}
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=5 {{Party shading/Democratic}} |15D, 6R
+|rowspan=3 {{Party shading/Republican}} |24R, 17D
+|- style="height:2em"
+!rowspan=2 |1992
+|- style="height:2em"
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=8 {{Party shading/Democratic}} |[[Tom Carper]] {{small|(D)}}{{efn|Resigned office on January 3, 2001, to begin term in the U.S. Senate, and was succeeded as governor by Ruth Ann Minner for the remaining 17 days of his term.}}
+|rowspan=8 {{Party shading/Democratic}} |[[Ruth Ann Minner]] {{small|(D)}}
+|rowspan=12 {{Party shading/Republican}} |[[Donna Lee Williams]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |22R, 19D
+|rowspan=18 {{Party shading/Republican}} |[[Mike Castle]] {{small|(R)}}
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=11 {{Party shading/Republican}} |[[M. Jane Brady]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 9R
+|rowspan=2 {{Party shading/Republican}} |27R, 14D
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!1997
+|rowspan=2 {{Party shading/Democratic}} |12D, 9R
+|rowspan=2 {{party shading/Republican}} |23R, 18D
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=10 {{Party shading/Democratic}} |[[Jack Markell]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |13D, 8R
+|rowspan=4 {{Party shading/Republican}} |26R, 15D
+|- style="height:2em"
+!2000
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2001
+|rowspan=8 {{Party shading/Democratic}} |[[Ruth Ann Minner]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[John Carney (Delaware politician)|John Carney]] {{small|(D)}}
+|rowspan=25 {{Party shading/Democratic}} |[[Tom Carper]] {{small|(D)}}
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=2 {{Party shading/Republican}} |29R, 12D
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry|Kerry]]/<br>[[John Edwards|Edwards]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2005
+|rowspan=4 {{Party shading/Democratic}} |[[Matthew Denn]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 15D
+|- style="height:2em"
+!2006
+|{{Party shading/Democratic}} |[[Carl Danberg]] {{small|(D)}}
+|- style="height:2em"
+!2007
+|rowspan=8 {{Party shading/Democratic}} |[[Beau Biden]] {{small|(D)}}<ref name="AG" /><ref name="Kaufman appointment" />
+|rowspan=2 {{Party shading/Republican}} |23R, 18D
+|- style="height:2em"
+!2008
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2009
+|rowspan=8 {{Party shading/Democratic}} |[[Jack Markell]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Matthew Denn]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Velda Jones-Potter]] {{small|(D)}}{{efn|name=app}}
+|rowspan=8 {{Party shading/Democratic}} |[[Karen Weldin Stewart]] {{small|(D)}}
+|{{Party shading/Democratic}} |16D, 5R
+|rowspan=2 {{Party shading/Democratic}} |24D, 17R
+|{{Party shading/Democratic}} |[[Ted Kaufman]]<ref name="Kaufman appointment">{{Cite web |last=Mahtesian |first=Charles |date=2010-01-25 |title=Beau Biden declines Senate bid |url=https://www.politico.com/story/2010/01/beau-biden-declines-senate-bid-031952 |access-date=March 28, 2025 |website=[[Politico]] |language=en}}</ref> {{small|(D)}}{{efn|Appointed to fill the vacancy created by Biden's resignation.<ref name="Kaufman appointment" />}}
+|- style="height:2em"
+!2010
+|{{Party shading/Democratic}} |15D, 6R{{efn|A special election occurred after the death of Sen. [[Thurman Adams Jr.]] {{small|(D)}}, who was succeeded by Joseph W. Booth {{small|(R)}} after the 2009 session, flipping the seat from Democratic to Republican.<ref>http://www.newsworks.org/index.php/local/the-latest/2057-booth-wins-special-election {{Dead link|date=March 2022}}</ref>}}
+|rowspan=18 {{Party shading/Democratic/current}} |[[Chris Coons]] {{small|(D)}}
+|- style="height:2em"
+!2011
+|rowspan=4 {{Party shading/Democratic}} |[[Chipman Flowers Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |14D, 7R
+|rowspan=2 {{Party shading/Democratic}} |26D, 15R
+|rowspan=6 {{Party shading/Democratic}} |[[John Carney (Delaware politician)|John Carney]] {{small|(D)}}
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|rowspan=2 {{Party shading/Democratic}} |13D, 8R
+|rowspan=2 {{Party shading/Democratic}} |27D, 14R
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=2 |''vacant''
+|rowspan=4 {{Party shading/Democratic}} |[[Matthew Denn]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Ken Simpler]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 9R
+|rowspan=4 {{Party shading/Democratic}} |25D, 16R
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|rowspan=9 {{Party shading/Democratic}} |[[John Carney (Delaware politician)|John Carney]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Bethany Hall-Long]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic/current}} |[[Trinidad Navarro]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |11D, 10R
+|rowspan=9 {{Party shading/Democratic}} |[[Lisa Blunt Rochester]] {{small|(D)}}
+|- style="height:2em"
+!2018
+|- style="height:2em"
+!2019
+|rowspan=9 {{Party shading/Democratic/current}} |[[Kathy Jennings]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic/current}} |[[Colleen Davis]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Kathy McGuiness]] {{small|(D)}}{{efn|Resigned on October 19, 2022, after being convicted for corruption and conflict of interest.}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 9R
+|rowspan=7 {{Party shading/Democratic}} |26D, 15R
+|- style="height:2em"
+!2020
+|rowspan=5 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2021
+|rowspan=3 {{Party shading/Democratic}} |14D, 7R
+|- style="height:2em"
+!rowspan=2 |2022
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Dennis Greenhouse]] {{small|(D)}}{{efn|name=app}}
+|- style="height:2em"
+!2023
+|rowspan=4 {{Party shading/Democratic/current}} |[[Lydia York]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |15D, 6R
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Democratic}} |[[Kamala Harris|Harris]]/<br>[[Tim Walz|Walz]] {{small|(D)}} {{Nay}}<ref name="2024 results" />
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |[[Matt Meyer]] {{small|(D)}}<ref name="2024 results" />
+|rowspan=2 {{Party shading/Democratic/current}} |[[Kyle Evans Gay]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic/current}} |27D, 14R
+|rowspan=2 {{Party shading/Democratic/current}} |[[Lisa Blunt Rochester]] {{small|(D)}}<ref name="2024 results" />
+|rowspan=2 {{Party shading/Democratic/current}} |[[Sarah McBride]] {{small|(D)}}<ref name="2024 results" >{{Cite web|title=2024 Delaware Election Results |url=https://apnews.com/projects/election-results-2024/delaware/?r=0 |website=[[Associated Press]] |access-date=March 19, 2025}}</ref>
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==See also==
+*[[Delaware#Law and government|Law and government in Delaware]]
+*[[Politics of Delaware]]
+*[[Elections in Delaware]]
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Delaware}}
+[[Category:Politics of Delaware]]
+[[Category:Government of Delaware]]
+[[Category:Political party strength in the United States by state|Delaware]]

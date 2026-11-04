@@ -1,0 +1,1004 @@
+{{Short description|none}}
+The [[governor of Massachusetts]] is the [[head of government]] of [[Massachusetts]]. Since 1780, 65 people have been elected governor, six to non-consecutive terms ([[John Hancock]], [[Caleb Strong]], [[Marcus Morton]], [[John Davis (Massachusetts politician)|John Davis]], [[John A. Volpe]], and [[Michael Dukakis]]), and seven [[Lieutenant Governor of Massachusetts|lieutenant governors]] have acted as governor without subsequently being elected governor. [[Thomas Talbot (Massachusetts politician)|Thomas Talbot]] served a stint as acting governor, but was elected governor several years later. Prior to 1918 constitutional reforms, both the governor's office and that of lieutenant governor were vacant on one occasion, when the state was governed by the [[Massachusetts Governor's Council|Governor's Council]].
+
+==List of governors==
+===Colonial Massachusetts===
+{{Further|List of colonial governors of Massachusetts}}
+The colonial history of Massachusetts begins with the founding first of the [[Plymouth Colony]] in 1620, and then the [[Massachusetts Bay Colony]] in 1628. The [[Dominion of New England]] combined these and other [[New England]] colonies into a single unit in 1686, but collapsed in 1689. In 1692 the [[Province of Massachusetts Bay]] was established, merging Plymouth and Massachusetts Bay, which then included the territory of present-day [[Maine]].
+
+Colonial governors of Plymouth and the Massachusetts Bay Colony were elected annually by a limited subset of the male population (known as [[freeman (Thirteen Colonies)|freemen]]), while Dominion officials and those of the 1692 province were appointed by the British crown. In 1774 General [[Thomas Gage]] became the last royally appointed governor of Massachusetts. He was recalled to England after the [[Battle of Bunker Hill]] in June 1775, by which time the [[Massachusetts Provincial Congress]] exercised ''de facto'' control of Massachusetts territory outside British-occupied [[Boston]]. Between 1775 and the establishment of the [[Constitution of Massachusetts|Massachusetts State Constitution]] in 1780 the state was governed by the provincial congress and an executive council.
+
+===Commonwealth of Massachusetts: 1780–present===
+The constitution of Massachusetts created the offices of governor{{sfn|Mass. Const.|loc=[https://50constitutions.org/ma/constitution/section-id-50425 1780 pt. 1, chp. II, § I, art. I]}} and lieutenant governor,{{sfn|Mass. Const.|loc=[https://50constitutions.org/ma/constitution/section-id-50473 1780 pt. 1, chp. II, § II, art. I]}} to be elected annually.{{sfn|Mass. Const.|loc=[https://50constitutions.org/ma/constitution/section-id-50427 1780 pt. 1, chp. II, § I, art. II]}} Terms were lengthened to two years in 1918, to last until their successor was inaugurated, which would be at least the first Wednesday in the January after their election.{{sfn|Mass. Const.|loc=[https://50constitutions.org/ma/constitution/section-id-53543 1918 amend. LXIV]}} This was changed to the Thursday following the first Wednesday in the January after the election in 1950,{{sfn|Mass. Const.|loc=[https://50constitutions.org/ma/constitution/section-id-53816 1950 amend. LXXX]}} and terms were lengthened to four years in 1964.{{sfn|Mass. Const.|loc=[https://50constitutions.org/ma/constitution/section-id-53820 1964 amend. LXXXII]}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Commonwealth of Massachusetts
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Massachusetts|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em"
+!rowspan="5" scope="rowgroup"|1
+|rowspan="5" data-sort-value="Hancock, John"|[[File:John Hancock 1770-crop.jpg|75px]]
+|rowspan="16" style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="No parties"|
+|rowspan="5"|'''[[John Hancock]]'''<br />{{Small|(1737–1793)}}<br />{{sfn|Sobel|1978|pp=689–690}}<ref name="nga-hancock">{{Cite web |title=John Hancock |url=https://www.nga.org/governor/john-hancock/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261005144239/https://www.nga.org/governor/john-hancock/ |archive-date=October 5, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="1578"|October 25, 1780<ref name="burdick" /><ref>{{Cite web |title=John Hancock |url=https://www.masshist.org/database/viewer.php?item_id=1749&pid=3 |access-date=October 29, 2026 |archive-url=https://web.archive.org/web/20250911003228/https://www.masshist.org/database/viewer.php?item_id=1749&pid=3 |archive-date=September 11, 2025 |url-status=live |website=[[Massachusetts Historical Society]]}}</ref><br />–<br />February 18, 1785<br />{{small|(1578 days; resigned)}}{{efn|Hancock resigned abruptly in a "winter of increasing economic distress, political controversy, and social discord",<ref>{{cite web | url=https://founders.archives.gov/documents/Adams/04-06-02-0028 | title="Cotton Tufts to Abigail Adams, 11 April 1785", The Adams Papers, Adams Family Correspondence, vol. 6, December 1784–December 1785, pp. 81–82 | website=[[Founders Online]] | access-date=October 30, 2026 | archive-url=https://web.archive.org/web/20250701125258/https://founders.archives.gov/documents/Adams/04-06-02-0028 | archive-date=July 1, 2025 | url-status=live}}</ref> and was suffering ill health, particularly gout.<ref>{{Cite web |title=John Hancock |date=May 28, 2025 |url=https://www.history.com/topics/american-revolution/john-hancock |access-date=October 29, 2026 |website=[[History Channel]] |archive-url=https://web.archive.org/web/20260801160418/https://www.history.com/articles/john-hancock |archive-date=August 1, 2026 |url-status=live}}</ref> He announced his intention to resign on January 29, and left office on February 18.<ref>{{cite web | url=https://founders.archives.gov/documents/Adams/06-16-02-0295 | title="James Warren to John Adams, 28 January 1785", The Adams Papers, Papers of John Adams, vol. 16, February 1784–March 1785, pp. 498–500 | website=[[Founders Online]] | access-date=October 30, 2026 | archive-url=https://web.archive.org/web/20260108223650/https://founders.archives.gov/documents/Adams/06-16-02-0295 | archive-date=January 8, 2026 | url-status=live}}</ref>}}
+|rowspan="16" style="background:#EEEEEE; color:inherit;"|''No parties''{{sfn|Glashan|1979|p=140}}
+|[[1780 Massachusetts gubernatorial election|1780]]
+|rowspan="16" style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="No parties"|
+|rowspan="5"|{{sortname|Thomas|Cushing}}
+|- style="height:2em"
+|[[1781 Massachusetts gubernatorial election|1781]]
+|- style="height:2em"
+|[[1782 Massachusetts gubernatorial election|1782]]
+|- style="height:2em"
+|[[1783 Massachusetts gubernatorial election|1783]]
+|- style="height:2em"
+|[[1784 Massachusetts gubernatorial election|1784]]
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Cushing, Thomas"|[[File:Thomas Cushing.jpg|75px]]
+|'''[[Thomas Cushing]]'''<br />{{Small|(1725–1788)}}<br /><ref>{{congbio|name=Thomas Cushing|id=C001017|inline=1}}</ref>
+|data-sort-value="99"|February 18, 1785<ref name="burdick" /><br />–<br />May 27, 1785<br />{{small|(99 days; lost election)}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Bowdoin, James"|[[File:James Bowdoin II by Feke full length.jpg|75px]]
+|rowspan="2"|'''[[James Bowdoin]]'''<br />{{Small|(1726–1790)}}<br /><ref>{{Cite web |title=Bowdoin, James II |url=https://maineanencyclopedia.com/james-bowdoin-ii/ |access-date=March 7, 2023 |url-status=usurped |website=Maine: An Encyclopedia |archive-url=https://web.archive.org/web/20230816181943/https://maineanencyclopedia.com/james-bowdoin-ii/ |archive-date=August 16, 2023}}</ref>
+|rowspan="2" data-sort-value="736"|May 27, 1785<ref name="burdick" /><br />–<br />June 1, 1787<br />{{small|(736 days; lost election)}}
+|[[1785 Massachusetts gubernatorial election|1785]]
+|rowspan="3"|{{sortname|Thomas|Cushing}}
+|- style="height:2em"
+|[[1786 Massachusetts gubernatorial election|1786]]
+|- style="height:2em"
+!rowspan="7" scope="rowgroup"|3
+|rowspan="7" data-sort-value="Hancock, John"|[[File:John Hancock 1770-crop.jpg|75px]]
+|rowspan="7"|'''[[John Hancock]]'''<br />{{Small|(1737–1793)}}<br />{{sfn|Sobel|1978|pp=689–690}}<ref name="nga-hancock" />
+|rowspan="7" data-sort-value="2322"|June 1, 1787<ref name="burdick">{{Cite book |last=Burdick |first=William |url=https://books.google.com/books?id=DP7Y2qQ68wAC&pg=PA27 |title=The Massachusetts Manual, Or, Political and Historical Register |date=1814 |publisher=C. Callender |page=27 |via=[[Google Books]]}}</ref><br />–<br />October 8, 1793<br />{{small|(2322 days; died in office)}}
+|[[1787 Massachusetts gubernatorial election|1787]]
+|- style="height:2em"
+|[[1788 Massachusetts gubernatorial election|1788]]
+|{{sortname|Benjamin|Lincoln}}
+|- style="height:2em"
+|[[1789 Massachusetts gubernatorial election|1789]]
+|rowspan="5"|{{sortname|Samuel|Adams}}
+|- style="height:2em"
+|[[1790 Massachusetts gubernatorial election|1790]]
+|- style="height:2em"
+|[[1791 Massachusetts gubernatorial election|1791]]
+|- style="height:2em"
+|[[1792 Massachusetts gubernatorial election|1792]]
+|- style="height:2em"
+|[[1793 Massachusetts gubernatorial election|1793]]
+|- style="height:2em"
+!rowspan="4" scope="rowgroup"|4
+|rowspan="4"data-sort-value="Adams, Samuel"|[[File:Samuel Adams by John Singleton Copley.jpg|75px]]
+|rowspan="4"|'''[[Samuel Adams]]'''<br />{{Small|(1722–1803)}}<br />{{sfn|Sobel|1978|pp=690–691}}<ref name="nga-adams">{{cite web |title=Samuel Adams |url=https://www.nga.org/governor/samuel-adams-2/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260802030847/https://www.nga.org/governor/samuel-adams-2/ |archive-date=August 2, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1334"|October 8, 1793<ref name="burdick" /><br />–<br />June 2, 1797<br />{{small|(1334 days; retired)}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em" 
+|rowspan="3" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=140}}
+|[[1794 Massachusetts gubernatorial election|1794]]
+|rowspan="7" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|rowspan="6"|{{sortname|Moses|Gill}}{{efn|Represented the Federalist Party|name=lt-fed}}
+|- style="height:2em"
+|[[1795 Massachusetts gubernatorial election|1795]]
+|- style="height:2em"
+|[[1796 Massachusetts gubernatorial election|1796]]
+|- style="height:2em" 
+!rowspan="3" scope="rowgroup"|5
+|rowspan="3" data-sort-value="Sumner, Increase"|[[File:IncreaseSumnerBySharples.jpg|75px]]
+|rowspan="4" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|rowspan="3"|'''[[Increase Sumner]]'''<br />{{Small|(1746–1799)}}<br />{{sfn|Sobel|1978|pp=691–692}}<ref name="nga-sumner">{{cite web |title=Increase Sumner |url=https://www.nga.org/governor/increase-sumner/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260302095059/https://www.nga.org/governor/increase-sumner/ |archive-date=March 2, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="736"|June 2, 1797<ref name="burdick" /><br />–<br />June 7, 1799<br />{{small|(736 days; died in office)}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=140}}
+|[[1797 Massachusetts gubernatorial election|1797]]
+|- style="height:2em"
+|[[1798 Massachusetts gubernatorial election|1798]]
+|- style="height:2em"
+|[[1799 Massachusetts gubernatorial election|1799]]
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Gill, Moses"|[[File:John Singleton Copley - Portrait of Govenor Moses Gill - 07.117 - Rhode Island School of Design Museum.jpg|75px]]
+|'''[[Moses Gill]]'''<br />{{Small|(1733–1800)}}<br /><ref>{{cite web | url=https://founders.archives.gov/documents/Washington/05-12-02-0460 | title="To George Washington from Moses Gill, 15 May 1793", The Papers of George Washington, Presidential Series, vol. 12, 16 January 1793–31 May 1793, pp. 576–577 | website=[[Founders Online]] | access-date=October 30, 2026 | archive-url=https://web.archive.org/web/20250630224424/https://founders.archives.gov/documents/Washington/05-12-02-0460 | archive-date=June 30, 2025 | url-status=live}}</ref>
+|data-sort-value="348"|June 7, 1799<ref name="burdick" /><br />–<br />May 20, 1800<br />{{small|(348 days; died in office)}}
+|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=136}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Governor's Council"|[[File:Seal of Massachusetts.svg|75px]]
+|style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="N/A"|
+|'''[[Massachusetts Governor's Council|Governor's Council]]'''<br />chaired by [[Thomas Dawes]]<br />{{sfn|Sobel|1978|p=692}}
+|data-sort-value="11"|May 20, 1800<ref name="burdick" /><br />–<br />May 30, 1800<br>{{small|(11 days)}}
+|—
+|style="background:#EEEEEE; color:inherit;"|{{small|Governor's<br />Council<br />acting}}
+|rowspan="2" colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em"
+!rowspan="7" scope="rowgroup"|6
+|rowspan="7" data-sort-value="Strong, Caleb"|[[File:Caleb Strong.jpg|75px]]
+|rowspan="7" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|rowspan="7"|'''[[Caleb Strong]]'''<br />{{Small|(1745–1819)}}<br />{{sfn|Sobel|1978|pp=692–693}}<ref name="nga-strong">{{cite web |title=Caleb Strong |url=https://www.nga.org/governor/caleb-strong/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607080715/https://www.nga.org/governor/caleb-strong/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|rowspan="7" data-sort-value="2556"|May 30, 1800<ref name="burdick" /><ref>{{Cite news |date=June 7, 1800 |title=Legislature of Massachusetts |quote=The Committee appointed to wait on the Governor elect, reported that he would wait upon the Legislature in the Representative's Chamber, tomorrow at 12 o'clock, to be qualified. |page=3 |newspaper=[[The Recorder (Massachusetts newspaper)|Greenfield Gazette]] |url=https://www.newspapers.com/article/the-recorder-strong-to-be-inaugurated-ma/120428144/ |archive-url=https://web.archive.org/web/20230928000706/https://www.newspapers.com/article/120428144/strong-to-be-inaugurated-may-30/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />May 29, 1807<br />{{small|(2556 days; lost election)}}
+|rowspan="7"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=140}}
+|[[1800 Massachusetts gubernatorial election|1800]]
+|- style="height:2em"
+|[[1801 Massachusetts gubernatorial election|1801]]
+|style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|{{sortname|Samuel|Phillips Jr.}}
+|- style="height:2em"
+|[[1802 Massachusetts gubernatorial election|1802]]
+|rowspan="8" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|rowspan="5"|{{sortname|Edward|Robbins}}{{efn|Represented the [[Democratic-Republican Party]]|name=lt-dr}}
+|- style="height:2em"
+|[[1803 Massachusetts gubernatorial election|1803]]
+|- style="height:2em"
+|[[1804 Massachusetts gubernatorial election|1804]]
+|- style="height:2em"
+|[[1805 Massachusetts gubernatorial election|1805]]
+|- style="height:2em"
+|[[1806 Massachusetts gubernatorial election|1806]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Sullivan, James"|[[File:James Sullivan.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[James Sullivan (Massachusetts politician)|James Sullivan]]'''<br />{{Small|(1744–1808)}}<br />{{sfn|Sobel|1978|pp=693–694}}<ref name="nga-sullivan">{{cite web |title=James Sullivan |url=https://www.nga.org/governor/james-sullivan/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418103603/https://www.nga.org/governor/james-sullivan/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="562"|May 29, 1807<ref name="burdick" /><ref>{{Cite news |date=June 6, 1807 |title=Legislature of Massachusetts |page=2 |newspaper=The Pittsfield Sun; or, Republican Monitor |url=https://www.newspapers.com/article/the-pittsfield-sun-sullivan-inaugurated/120428299/ |archive-url=https://web.archive.org/web/20230928000703/https://www.newspapers.com/article/120428299/sullivan-inaugurated-may-29/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 10, 1808<br />{{small|(562 days; died in office)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=140}}
+|[[1807 Massachusetts gubernatorial election|1807]]
+|rowspan="2"|{{sortname|Levi|Lincoln Sr.}}
+|- style="height:2em"
+|[[1808 Massachusetts gubernatorial election|1808]]
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Lincoln, Levi 1"|[[File: Levi Lincoln Sr.jpg|75px]]
+|'''[[Levi Lincoln Sr.]]'''<br />{{Small|(1749–1820)}}<br />{{sfn|Sobel|1978|p=694}}<ref name="nga-lincoln-levi-1">{{Cite web |title=Levi Lincoln Sr. |url=https://www.nga.org/governor/levi-lincoln-sr/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260525053902/https://www.nga.org/governor/levi-lincoln-sr/ |archive-date=May 25, 2026 |url-status=live}}</ref>
+|data-sort-value="176"|December 10, 1808<ref name="burdick" /><br />–<br />June 3, 1809<br />{{small|(176 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=136}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+!scope="row"|8
+|data-sort-value="Gore, Christopher"|[[File:ChristopherGoreByTrumbull.jpg|75px]]
+|style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|'''[[Christopher Gore]]'''<br />{{Small|(1758–1827)}}<br />{{sfn|Sobel|1978|p=695}}<ref name="nga-gore">{{cite web |title=Christopher Gore |url=https://www.nga.org/governor/christopher-gore/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417201708/https://www.nga.org/governor/christopher-gore/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|June 3, 1809<ref name="burdick" /><ref>{{Cite news |date=June 10, 1809 |title=Massachusetts Legislature |quote=... when His Excellency Christopher Gore, Esq. and His Honor David Cobb, Esq. Governor and Lt. Governor Elect, came in, and took and subscribed the Oaths and declarations made necessary by the Constitution of this Commonwealth to qualify them for exercising the Offices to which they have been elected. |page=2 |newspaper=Pittsfield Sun |url=https://www.newspapers.com/article/the-pittsfield-sun-gore-inaugurated/120433212/ |archive-url=https://web.archive.org/web/20230928002210/https://www.newspapers.com/article/120433212/gore-inaugurated/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />June 2, 1810<br />{{small|(365 days; lost election)}}
+|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=140}}
+|[[1809 Massachusetts gubernatorial election|1809]]
+|style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|{{sortname|David|Cobb|dab=Massachusetts politician}}
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Gerry, Elbridge"|[[File:Nathaniel Jocelyn - Elbridge Gerry (1744-1814) - 1943.1816 - Harvard Art Museums.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[Elbridge Gerry]]'''<br />{{Small|(1744–1814)}}<br />{{sfn|Sobel|1978|pp=695–696}}<ref name="nga-gerry">{{cite web |title=Elbridge Gerry |url=https://www.nga.org/governor/elbridge-gerry/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260711111429/https://www.nga.org/governor/elbridge-gerry/ |archive-date=July 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="729"|June 2, 1810<ref>{{Cite news |date=June 12, 1810 |title=Massachusetts Legislature |page=2 |newspaper=[[The Recorder (Massachusetts newspaper)|Greenfield Gazette]] |url=https://www.newspapers.com/article/the-recorder-gerry-inaugurated/120412781/ |archive-url=https://web.archive.org/web/20230927235159/https://www.newspapers.com/article/120412781/gerry-inaugurated/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />May 30, 1812<br />{{small|(729 days; lost election)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=140}}
+|[[1810 Massachusetts gubernatorial election|1810]]
+|rowspan="25" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|{{sortname|William|Gray|dab=Massachusetts politician}}
+|- style="height:2em"
+|[[1811 Massachusetts gubernatorial election|1811]]
+|- style="height:2em"
+!rowspan="4" scope="rowgroup"|10
+|rowspan="4" data-sort-value="Strong, Caleb"|[[File:Caleb Strong.jpg|75px]]
+|rowspan="11" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|rowspan="4"|'''[[Caleb Strong]]'''<br />{{Small|(1745–1819)}}<br />{{sfn|Sobel|1978|pp=692–693}}<ref name="nga-strong" />
+|rowspan="4" data-sort-value="1464"|May 30, 1812<ref name="burdick" /><ref>{{Cite news |date=June 9, 1812 |title=Massachusetts Legislature |page=2 |newspaper=[[The Recorder (Massachusetts newspaper)|Franklin Herald]] |url=https://www.newspapers.com/article/the-recorder-strong-inaugurated/120433415/ |archive-url=https://web.archive.org/web/20230927232153/https://www.newspapers.com/article/120433415/strong-inaugurated/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />June 1, 1816<br />{{small|(1464 days; retired)}}
+|rowspan="4"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=140}}
+|[[1812 Massachusetts gubernatorial election|1812]]
+|rowspan="11"|{{sortname|William|Phillips Jr.}}{{efn|name=lt-dr}}
+|- style="height:2em"
+|[[1813 Massachusetts gubernatorial election|1813]]
+|- style="height:2em"
+|[[1814 Massachusetts gubernatorial election|1814]]
+|- style="height:2em"
+|[[1815 Massachusetts gubernatorial election|1815]]
+|- style="height:2em"
+!rowspan="7" scope="rowgroup"|11
+|rowspan="7" data-sort-value="Brooks, John"|[[File:Gilbert Stuart, Govenor John Brooks, c. 1820, HAA.jpg|75px]]
+|rowspan="7"|'''[[John Brooks (Massachusetts politician)|John Brooks]]'''<br />{{Small|(1752–1825)}}<br />{{sfn|Sobel|1978|pp=696–697}}<ref name="nga-brooks">{{cite web |title=John Brooks |url=https://www.nga.org/governor/john-brooks/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513064110/https://www.nga.org/governor/john-brooks/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="7" data-sort-value="2555"|June 1, 1816<ref>{{Cite news |date=June 11, 1816 |title=Massachusetts Legislature |page=2 |newspaper=[[The Recorder (Massachusetts newspaper)|Franklin Herald]] |url=https://www.newspapers.com/article/the-recorder-brooks-inaugurated-june-1/120436220/ |archive-url=https://web.archive.org/web/20230928003716/https://www.newspapers.com/article/120436220/brooks-inaugurated-june-1/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />May 30, 1823<br />{{small|(2555 days; retired)}}
+|rowspan="7"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=140}}
+|[[1816 Massachusetts gubernatorial election|1816]]
+|- style="height:2em"
+|[[1817 Massachusetts gubernatorial election|1817]]
+|- style="height:2em"
+|[[1818 Massachusetts gubernatorial election|1818]]
+|- style="height:2em"
+|[[1819 Massachusetts gubernatorial election|1819]]
+|- style="height:2em"
+|[[1820 Massachusetts gubernatorial election|1820]]
+|- style="height:2em"
+|[[1821 Massachusetts gubernatorial election|1821]]
+|- style="height:2em"
+|[[1822 Massachusetts gubernatorial election|1822]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|12
+|rowspan="2" data-sort-value="Eustis, William"|[[File:William Eustis.jpg|75px]]
+|rowspan="7" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[William Eustis]]'''<br />{{Small|(1753–1825)}}<br />{{sfn|Sobel|1978|pp=697–698}}<ref name="nga-eustis">{{cite web |title=William Eustis |url=https://www.nga.org/governor/william-eustis/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608210605/https://www.nga.org/governor/william-eustis/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="619"|May 30, 1823<ref>{{Cite news |date=June 5, 1823 |title=Legislature of Massachusetts |page=3 |newspaper=Pittsfield Sun |url=https://www.newspapers.com/article/the-pittsfield-sun-eustis-inaugurated-ma/120436408/ |archive-url=https://web.archive.org/web/20250714105341/https://www.newspapers.com/article/the-pittsfield-sun-eustis-inaugurated-ma/120436408/ |archive-date=July 14, 2025 |url-status=live |via=Newspapers.com}}</ref><br />–<br />February 6, 1825<br />{{small|(619 days; died in office)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=142}}
+|[[1823 Massachusetts gubernatorial election|1823]]
+|rowspan="2"|{{sortname|Marcus|Morton}}
+|- style="height:2em"
+|[[1824 Massachusetts gubernatorial election|1824]]
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Morton, Marcus"|[[File:Marcus Morton (MHS).jpg|75px]]
+|'''[[Marcus Morton]]'''<br />{{Small|(1784–1864)}}<br />{{sfn|Sobel|1978|pp=698–699}}<ref name="nga-morton">{{cite web |title=Marcus Morton |url=https://www.nga.org/governor/marcus-morton/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260525053902/https://www.nga.org/governor/marcus-morton/ |archive-date=May 25, 2026 |url-status=live}}</ref>
+|data-sort-value="111"|February 6, 1825<ref>{{Cite news |date=February 8, 1825 |publication-date=February 17, 1825 |title=Massachusetts Legislature |page=1 |newspaper=Pittsfield Sun |url=https://www.newspapers.com/article/the-pittsfield-sun-eustis-dies-morton-b/120457597/ |archive-url=https://web.archive.org/web/20230927232155/https://www.newspapers.com/article/the-pittsfield-sun-eustis-dies-morton-b/120457597/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />May 27, 1825<br />{{small|(111 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=136}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+!rowspan="9" scope="rowgroup"|13
+|rowspan="9" data-sort-value="Lincoln, Levi 2"|[[File:LLincolnJr.jpg|75px]]
+|rowspan="9"|'''[[Levi Lincoln Jr.]]'''<br />{{Small|(1782–1868)}}<br />{{sfn|Sobel|1978|p=699}}<ref name="nga-lincoln-levi-2">{{Cite web |title=Levi Lincoln Jr. |url=https://www.nga.org/governor/levi-lincoln-jr/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260216075143/https://www.nga.org/governor/levi-lincoln-jr/ |archive-date=February 16, 2026 |url-status=live}}</ref>
+|rowspan="9" data-sort-value="3162"|May 27, 1825<ref>{{Cite news |date=June 3, 1825 |title=Massachusetts Legislature |page=6 |newspaper=New England Farmer |url=https://www.newspapers.com/article/new-england-farmer-lincoln-inaugurated-m/120436675/ |archive-url=https://web.archive.org/web/20230927232154/https://www.newspapers.com/article/120436675/lincoln-inaugurated-may-27/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 21, 1834<br />{{small|(3162 days; retired)}}
+|rowspan="4"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=142}}
+|[[1825 Massachusetts gubernatorial election|1825]]
+|rowspan="9"|{{sortname|Thomas L.|Winthrop}}{{efn|name=lt-dr}}
+|- style="height:2em"
+|[[1826 Massachusetts gubernatorial election|1826]]
+|- style="height:2em"
+|[[1827 Massachusetts gubernatorial election|1827]]
+|- style="height:2em"
+|[[1828 Massachusetts gubernatorial election|1828]]
+|- style="height:2em"
+|rowspan="6" style="background:{{party color|National Republican Party (United States)}}; color:inherit;" title="Represented the National Republican Party"|
+|rowspan="5"|[[National Republican Party|National<br />Republican]]{{sfn|Glashan|1979|p=142}}
+|[[1829 Massachusetts gubernatorial election|1829]]
+|- style="height:2em"
+|[[1830 Massachusetts gubernatorial election|1830]]
+|- style="height:2em"
+|[[April 1831 Massachusetts gubernatorial election|Apr. 1831]]
+|- style="height:2em"
+|[[November 1831 Massachusetts gubernatorial election|Nov. 1831]]
+|- style="height:2em"
+|[[1832 Massachusetts gubernatorial election|1832]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Davis, John"|[[File:John Davis (Massachusetts Governor).jpg|75px]]
+|rowspan="2"|'''[[John Davis (Massachusetts politician)|John Davis]]'''<br />{{Small|(1787–1854)}}<br />{{sfn|Sobel|1978|p=700}}<ref name="nga-davis">{{cite web |title=John Davis |url=https://www.nga.org/governor/john-davis/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517085318/https://www.nga.org/governor/john-davis/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="407"|January 21, 1834<ref>{{Cite news |date=January 22, 1834 |title=Massachusetts Legislature |page=2 |newspaper=[[The Boston Post|The Boston Morning Post]] |url=https://www.newspapers.com/article/boston-post-davis-inaugurated-january-21/120437028/ |archive-url=https://web.archive.org/web/20230928000704/https://www.newspapers.com/article/120437028/davis-inaugurated-january-21/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />March 3, 1835<br />{{small|(407 days; resigned)}}{{efn|Davis resigned, having been [[1834–35 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=700}}}}
+|[[National Republican Party|National<br />Republican]]{{sfn|Glashan|1979|p=142}}
+|[[1833–34 Massachusetts gubernatorial election|1833–34]]
+|rowspan="10" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|rowspan="2"|{{sortname|Samuel Turell|Armstrong}}{{efn|Represented the [[Whig Party (United States)|Whig Party]]|name=lt-whig}}
+|- style="height:2em"
+|rowspan="6" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=142}}
+|[[1834 Massachusetts gubernatorial election|1834]]
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Armstrong, Samuel"|[[File:Samuel Turell Armstrong.png|75px]]
+|'''[[Samuel Turell Armstrong]]'''<br />{{Small|(1784–1850)}}<br />{{sfn|Sobel|1978|pp=700–701}}<ref name="nga-armstrong">{{cite web |title=Samuel Turell Armstrong |url=https://www.nga.org/governor/samuel-turell-armstrong/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617191138/https://www.nga.org/governor/samuel-turell-armstrong/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="317"|March 3, 1835<ref>{{Cite news |date=March 19, 1835 |title=A Proclamation |page=2 |newspaper=Pittsfield Sun |url=https://www.newspapers.com/article/the-pittsfield-sun-davis-resigns-armstr/120457905/ |archive-url=https://web.archive.org/web/20230928002207/https://www.newspapers.com/article/the-pittsfield-sun-davis-resigns-armstr/120457905/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1836<br />{{small|(317 days; lost election)}}{{efn|Armstrong either did not receive or did not expect the Whig nomination, and so ran as an independent.{{sfn|Sobel|1978|p=701}}}}
+|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=136}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+!rowspan="4" scope="rowgroup"|15
+|rowspan="4" data-sort-value="Everett, Edward"|[[File:Unknown (American) - Edward Everett - 29.193 - Detroit Institute of Arts.jpg|75px]]
+|rowspan="4"|'''[[Edward Everett]]'''<br />{{Small|(1794–1865)}}<br />{{sfn|Sobel|1978|pp=701–702}}<ref name="nga-everett">{{cite web |title=Edward Everett |url=https://www.nga.org/governor/edward-everett/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260808144753/https://www.nga.org/governor/edward-everett/ |archive-date=August 8, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1467"|January 13, 1836<ref>{{Cite news |date=January 16, 1836 |title=State Legislature |page=3 |newspaper=Fall River Monitor |url=https://www.newspapers.com/article/fall-river-monitor-everett-inaugurated-j/120437469/ |archive-url=https://web.archive.org/web/20230927235200/https://www.newspapers.com/article/120437469/everett-inaugurated-january-13/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 18, 1840<br />{{small|(1467 days; lost election)}}
+|rowspan="4"|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=142}}
+|[[1835 Massachusetts gubernatorial election|1835]]
+|rowspan="7"|{{sortname|George|Hull|dab=Massachusetts politician}}{{efn|name=lt-whig}}
+|- style="height:2em"
+|[[1836 Massachusetts gubernatorial election|1836]]
+|- style="height:2em"
+|[[1837 Massachusetts gubernatorial election|1837]]
+|- style="height:2em"
+|[[1838 Massachusetts gubernatorial election|1838]]
+|- style="height:2em"
+!scope="row"|16
+|data-sort-value="Morton, Marcus"|[[File:Marcus Morton (MHS).jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Marcus Morton]]'''<br />{{Small|(1784–1864)}}<br />{{sfn|Sobel|1978|pp=698–699}}<ref name="nga-morton" />
+|data-sort-value="358"|January 18, 1840<ref>{{Cite news |date=January 23, 1840 |title=Morton Declared Elected |page=2 |newspaper=Pittsfield Sun |url=https://www.newspapers.com/article/the-pittsfield-sun-morton-inaugurated-ja/120437820/ |archive-url=https://web.archive.org/web/20230928005227/https://www.newspapers.com/article/120437820/morton-inaugurated-january-18/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1841<br />{{small|(358 days; lost election)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=142}}
+|[[1839 Massachusetts gubernatorial election|1839]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Davis, John"|[[File:John Davis (Massachusetts Governor).jpg|75px]]
+|rowspan="2" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|rowspan="2"|'''[[John Davis (Massachusetts politician)|John Davis]]'''<br />{{Small|(1787–1854)}}<br />{{sfn|Sobel|1978|p=700}}<ref name="nga-davis" />
+|rowspan="2" data-sort-value="740"|January 9, 1841<ref>{{Cite news |date=January 19, 1841 |title=Massachusetts Legislature |page=1 |newspaper=[[The Recorder (Massachusetts newspaper)|Gazette and Mercury]] |url=https://www.newspapers.com/article/the-recorder-davis-inaugurated-january-9/120438088/ |archive-url=https://web.archive.org/web/20230928000705/https://www.newspapers.com/article/120438088/davis-inaugurated-january-9/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 18, 1843<br />{{small|(740 days; lost election)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=142}}
+|[[1840 Massachusetts gubernatorial election|1840]]
+|- style="height:2em"
+|[[1841 Massachusetts gubernatorial election|1841]]
+|- style="height:2em"
+!scope="row"|18
+|data-sort-value="Morton, Marcus"|[[File:Marcus Morton (MHS).jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Marcus Morton]]'''<br />{{Small|(1784–1864)}}<br />{{sfn|Sobel|1978|pp=698–699}}<ref name="nga-morton" />
+|data-sort-value="357"|January 18, 1843<ref>{{Cite news |date=January 24, 1843 |title=Massachusetts Legislature |page=2 |newspaper=[[The Recorder (Massachusetts newspaper)|Gazette and Courier]] |url=https://www.newspapers.com/article/the-recorder-morton-inaugurated-january/120439052/ |archive-url=https://web.archive.org/web/20230928000704/https://www.newspapers.com/article/120439052/morton-inaugurated-january-18/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1844<br />{{small|(357 days; lost election)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=142}}
+|[[1842 Massachusetts gubernatorial election|1842]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Henry H.|Childs}}
+|- style="height:2em"
+!rowspan="7" scope="rowgroup"|19
+|rowspan="7" data-sort-value="Briggs, George"|[[File:George Nixon Briggs.jpg|75px]]
+|rowspan="7" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|rowspan="7"|'''[[George N. Briggs]]'''<br />{{Small|(1796–1861)}}<br />{{sfn|Sobel|1978|pp=702–703}}<ref name="nga-briggs">{{cite web |title=George Nixon Briggs |url=https://www.nga.org/governor/george-nixon-briggs/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517093523/https://www.nga.org/governor/george-nixon-briggs/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|rowspan="7" data-sort-value="2562"|January 9, 1844<ref>{{Cite news |date=January 16, 1844 |title=Our State Legislature |page=2 |newspaper=[[The Recorder (Massachusetts newspaper)|Gazette and Courier]] |url=https://www.newspapers.com/article/the-recorder-briggs-inaugurated-january/120439251/ |archive-url=https://web.archive.org/web/20230927232155/https://www.newspapers.com/article/120439251/briggs-inaugurated-january-9/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1851<br />{{small|(2562 days; lost election)}}
+|rowspan="7"|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=142}}
+|[[1843–44 Massachusetts gubernatorial election|1843–44]]
+|rowspan="7" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|rowspan="9"|{{sortname|Henry W.|Cushman}}
+|- style="height:2em"
+|[[1844 Massachusetts gubernatorial election|1844]]
+|- style="height:2em"
+|[[1845–46 Massachusetts gubernatorial election|1845–46]]
+|- style="height:2em"
+|[[1846 Massachusetts gubernatorial election|1846]]
+|- style="height:2em"
+|[[1847 Massachusetts gubernatorial election|1847]]
+|- style="height:2em"
+|[[1848–49 Massachusetts gubernatorial election|1848–49]]
+|- style="height:2em"
+|[[1849–50 Massachusetts gubernatorial election|1849–50]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Boutwell, George"|[[File:George Boutwell, Brady-Handy photo portrait, ca1870-1880.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[George S. Boutwell]]'''<br />{{Small|(1818–1905)}}<br />{{sfn|Sobel|1978|pp=703–704}}<ref name="nga-boutwell">{{cite web |title=George Sewall Boutwell |url=https://www.nga.org/governor/george-sewall-boutwell/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414054104/https://www.nga.org/governor/george-sewall-boutwell/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="733"|January 13, 1851<ref>{{Cite news |date=January 18, 1851 |title=Mass. Legislature |page=3 |newspaper=New England Farmer and Boston Rambler |url=https://www.newspapers.com/article/new-england-farmer-boutwell-inaugurated/120439448/ |archive-url=https://web.archive.org/web/20230928003713/https://www.newspapers.com/article/120439448/boutwell-inaugurated-january-13/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1853<br />{{small|(733 days; retired)}}
+|rowspan="2"|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=142}}
+|[[1850–51 Massachusetts gubernatorial election|1850–51]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|- style="height:2em"
+|[[1851–52 Massachusetts gubernatorial election|1851–52]]
+|- style="height:2em"
+!scope="row"|21
+|data-sort-value="Clifford, John"|[[File:JohnCliffordByBenoni.jpg|75px]]
+|rowspan="2" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|'''[[John H. Clifford]]'''<br />{{Small|(1809–1876)}}<br />{{sfn|Sobel|1978|pp=704–705}}<ref name="nga-clifford">{{cite web |title=John Henry Clifford |url=https://www.nga.org/governor/john-henry-clifford/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521010529/https://www.nga.org/governor/john-henry-clifford/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|data-sort-value="364"|January 14, 1853<ref>{{Cite news |date=January 14, 1853 |title=Massachusetts Legislature |page=3 |newspaper=[[Boston Evening Transcript|Boston Daily Evening Transcript]] |url=https://www.newspapers.com/article/boston-evening-transcript-clifford-inaug/120439691 |archive-url=https://web.archive.org/web/20230928000703/https://www.newspapers.com/article/120439691/clifford-inaugurated-january-14/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1854<br />{{small|(364 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=142}}
+|[[1852–53 Massachusetts gubernatorial election|1852]]
+|rowspan="2" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|rowspan="2"|{{sortname|William C.|Plunkett}}
+|- style="height:2em"
+!scope="row"|22
+|data-sort-value="Washburn, Emory"|[[File:EmoryWashburn.jpg|75px]]
+|'''[[Emory Washburn]]'''<br />{{Small|(1800–1877)}}<br />{{sfn|Sobel|1978|p=705}}<ref name="nga-washburn-emory">{{cite web |title=Emory Washburn |url=https://www.nga.org/governor/emory-washburn/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606081525/https://www.nga.org/governor/emory-washburn/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="363"|January 12, 1854<ref>{{Cite news |date=January 14, 1854 |title=Massachusetts Legislature |page=2 |newspaper=New England Farmer |url=https://www.newspapers.com/article/new-england-farmer-washburn-inaugurated/120413995/ |archive-url=https://web.archive.org/web/20230928003715/https://www.newspapers.com/article/120413995/washburn-inaugurated/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1855<br />{{small|(363 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=142}}
+|[[1853–54 Massachusetts gubernatorial election|1853–54]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|23
+|rowspan="3" data-sort-value="Gardner, Henry"|[[File:GovHenryJGardner.jpg|75px]]
+|rowspan="3" style="background:{{party color|Know-Nothing}}; color:inherit;" title="Represented the Know Nothing Party"|
+|rowspan="3"|'''[[Henry Gardner]]'''<br />{{Small|(1819–1892)}}<br />{{sfn|Sobel|1978|p=706}}<ref name="nga-gardner">{{cite web |title=Henry Joseph Gardner |url=https://www.nga.org/governor/henry-joseph-gardner/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260220152247/https://www.nga.org/governor/henry-joseph-gardner/ |archive-date=February 20, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1090"|January 9, 1855<ref>{{Cite news |date=January 9, 1855 |title=Massachusetts Legislature |page=2 |newspaper=[[Boston Evening Transcript|Boston Daily Evening Transcript]] |url=https://www.newspapers.com/article/boston-evening-transcript-gardner-inaugu/120414089/ |archive-url=https://web.archive.org/web/20230928005225/https://www.newspapers.com/article/120414089/gardner-inaugurated-jan-9/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1858<br />{{small|(1090 days; lost election)}}
+|rowspan="3"|[[Know Nothing]]{{sfn|Glashan|1979|p=142}}
+|[[1854 Massachusetts gubernatorial election|1854]]
+|style="background:{{party color|Know-Nothing}}; color:inherit;" title="Represented the Know Nothing Party"|
+|{{sortname|Simon|Brown|dab=Massachusetts politician}}
+|- style="height:2em" 
+|[[1855 Massachusetts gubernatorial election|1855]]
+|rowspan="59" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Henry Wetherby|Benchley}}{{efn|Represented the [[Massachusetts Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em"
+|[[1856 Massachusetts gubernatorial election|1856]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|24
+|rowspan="3" data-sort-value="Banks, Nathaniel"|[[File:Nathaniel Prentice Banks.jpg|75px]]
+|rowspan="18" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Nathaniel P. Banks]]'''<br />{{Small|(1816–1894)}}<br />{{sfn|Sobel|1978|pp=706–707}}<ref name="nga-banks">{{cite web |title=Nathaniel Prentice Banks |url=https://www.nga.org/governor/nathaniel-prentice-banks/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415032501/https://www.nga.org/governor/nathaniel-prentice-banks/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1097"|January 2, 1858<ref>{{Cite news |date=January 9, 1858 |title=Massachusetts Legislature |page=3 |newspaper=New England Farmer |url=https://www.newspapers.com/article/new-england-farmer-banks-inaugurated/120414268/ |archive-url=https://web.archive.org/web/20230927232154/https://www.newspapers.com/article/120414268/banks-inaugurated/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1861<br />{{small|(1097 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=142}}
+|[[1857 Massachusetts gubernatorial election|1857]]
+|rowspan="3"|{{sortname|Eliphalet|Trask}}
+|- style="height:2em"
+|[[1858 Massachusetts gubernatorial election|1858]]
+|- style="height:2em"
+|[[1859 Massachusetts gubernatorial election|1859]]
+|- style="height:2em"
+!rowspan="5" scope="rowgroup"|25
+|rowspan="5" data-sort-value="Andrew, John"|[[File:Houghton MS Am 1084 (59) - Andrew - edit.jpg|75px]]
+|rowspan="5"|'''[[John Albion Andrew]]'''<br />{{Small|(1818–1867)}}<br />{{sfn|Sobel|1978|pp=707–708}}<ref name="nga-andrew">{{cite web |title=John Albion Andrew |url=https://www.nga.org/governor/john-albion-andrew/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617195728/https://www.nga.org/governor/john-albion-andrew/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="1831"|January 2, 1861<ref>{{Cite news |date=January 5, 1861 |title=Review of the Week |page=2 |newspaper=New England Farmer |url=https://www.newspapers.com/article/new-england-farmer-andrew-inaugurated-ja/120414417/ |archive-url=https://web.archive.org/web/20230928000706/https://www.newspapers.com/article/120414417/andrew-inaugurated-january-2/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 6, 1866<br />{{small|(1831 days; retired)}}
+|rowspan="5"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=142}}
+|[[1860 Massachusetts gubernatorial election|1860]]
+|{{sortname|John Z.|Goodrich}}
+|- style="height:2em"
+|[[1861 Massachusetts gubernatorial election|1861]]
+|{{sortname|John|Nesmith}}
+|- style="height:2em"
+|[[1862 Massachusetts gubernatorial election|1862]]
+|rowspan="3"|{{sortname|Joel|Hayden}}
+|- style="height:2em"
+|[[1863 Massachusetts gubernatorial election|1863]]
+|- style="height:2em"
+|[[1864 Massachusetts gubernatorial election|1864]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Bullock, Alexander"|[[File:Alexander H. Bullock.png|75px]]
+|rowspan="3"|'''[[Alexander Bullock]]'''<br />{{Small|(1816–1882)}}<br />{{sfn|Sobel|1978|pp=708–709}}<ref name="nga-bullock">{{cite web |title=Alexander Hamilton Bullock |url=https://www.nga.org/governor/alexander-hamilton-bullock/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417180736/https://www.nga.org/governor/alexander-hamilton-bullock/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1100"|January 6, 1866<ref>{{Cite news |date=January 8, 1866 |title=Legislature |page=2 |newspaper=Daily Evening News |url=https://www.newspapers.com/article/the-herald-news-bullock-inaugurated-janu/120439897/ |archive-url=https://web.archive.org/web/20230928002209/https://www.newspapers.com/article/120439897/bullock-inaugurated-january-6/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1869<br />{{small|(1100 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1865 Massachusetts gubernatorial election|1865]]
+|rowspan="3"|{{sortname|William|Claflin}}
+|- style="height:2em"
+|[[1866 Massachusetts gubernatorial election|1866]]
+|- style="height:2em"
+|[[1867 Massachusetts gubernatorial election|1867]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|27
+|rowspan="3" data-sort-value="Claflin, William"|[[File:William Claflin - Brady-Handy.jpg|75px]]
+|rowspan="3"|'''[[William Claflin]]'''<br />{{Small|(1818–1905)}}<br />{{sfn|Sobel|1978|pp=709–710}}<ref name="nga-claflin">{{cite web |title=William Claflin |url=https://www.nga.org/governor/william-claflin/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617195351/https://www.nga.org/governor/william-claflin/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1092"|January 9, 1869<ref>{{Cite news |date=January 11, 1869 |title=Massachusetts Legislature |page=2 |newspaper=Daily Evening News |url=https://www.newspapers.com/article/the-herald-news-claflin-inaugurated/120414534/ |archive-url=https://web.archive.org/web/20230927235201/https://www.newspapers.com/article/120414534/claflin-inaugurated/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 5, 1872<br />{{small|(1092 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1868 Massachusetts gubernatorial election|1868]]
+|rowspan="4"|{{sortname|Joseph|Tucker|dab=Massachusetts politician}}
+|- style="height:2em"
+|[[1869 Massachusetts gubernatorial election|1869]]
+|- style="height:2em"
+|[[1870 Massachusetts gubernatorial election|1870]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|28
+|rowspan="3" data-sort-value="Washburn, William"|[[File:William B. Washburn - Brady-Handy.jpg|75px]]
+|rowspan="3"|'''[[William B. Washburn]]'''<br />{{Small|(1820–1887)}}<br />{{sfn|Sobel|1978|pp=710–711}}<ref name="nga-washburn-william">{{cite web |title=William Barrett Washburn |url=https://www.nga.org/governor/william-barrett-washburn/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517085112/https://www.nga.org/governor/william-barrett-washburn/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="847"|January 5, 1872<ref>{{Cite news |date=January 6, 1872 |title=Morning News |page=2 |newspaper=Fall River Daily Evening News |url=https://www.newspapers.com/article/the-herald-news-washburn-inaugurated-jan/120414646/ |archive-url=https://web.archive.org/web/20230927233655/https://www.newspapers.com/article/120414646/washburn-inaugurated-january-5/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />April 30, 1874<br />{{small|(847 days; resigned)}}{{efn|Washburn resigned, having been [[1874–75 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=710}}}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1871 Massachusetts gubernatorial election|1871]]
+|- style="height:2em"
+|[[1872 Massachusetts gubernatorial election|1872]] 
+|rowspan="2"|{{sortname|Thomas|Talbot|dab=Massachusetts politician}}
+|- style="height:2em"
+|[[1873 Massachusetts gubernatorial election|1873]]
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Talbot, Thomas"|[[File:GovThomasTalbot.jpg|75px]]
+|'''[[Thomas Talbot (Massachusetts politician)|Thomas Talbot]]'''<br />{{Small|(1818–1885)}}<br />{{sfn|Sobel|1978|p=711}}<ref name="nga-talbot">{{cite web |title=Thomas Talbot |url=https://www.nga.org/governor/thomas-talbot/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511204820/https://www.nga.org/governor/thomas-talbot/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="253"|April 30, 1874<ref>{{cite book |title=Journal of the Massachusetts Senate, 1874 sess. |author=Massachusetts General Court |page=401 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881119&seq=407 |via=[[HathiTrust]]}}</ref><br />–<br />January 7, 1875<br />{{small|(253 days; lost election)}} 
+|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=138}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+!scope="row"|29
+|data-sort-value="Gaston, William"|[[File:GovWilliamGaston.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[William Gaston (Massachusetts politician)|William Gaston]]'''<br />{{Small|(1820–1894)}}<br />{{sfn|Sobel|1978|p=712}}<ref name="nga-gaston">{{cite web |title=William Gaston |url=https://www.nga.org/governor/william-gaston/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710081747/https://www.nga.org/governor/william-gaston/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|January 7, 1875<ref>{{Cite news |date=January 8, 1875 |title=Massachusetts Legislature |page=4 |newspaper=[[The Boston Post]] |url=https://www.newspapers.com/article/boston-post-gaston-inaugurated/120414946/ |archive-url=https://web.archive.org/web/20230928003718/https://www.newspapers.com/article/120414946/gaston-inaugurated/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 6, 1876<br />{{small|(365 days; lost election)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=144}}
+|[[1874 Massachusetts gubernatorial election|1874]]
+|rowspan="4"|{{sortname|Horatio G.|Knight}}{{efn|name=lt-rep}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|30
+|rowspan="3" data-sort-value="Rice, Alexander"|[[File:AHRice.jpg|75px]]
+|rowspan="7" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Alexander H. Rice]]'''<br />{{Small|(1818–1895)}}<br />{{sfn|Sobel|1978|pp=712–713}}<ref name="nga-rice">{{cite web |title=Alexander Hamilton Rice |url=https://www.nga.org/governor/alexander-hamilton-rice/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260308131651/https://www.nga.org/governor/alexander-hamilton-rice/ |archive-date=March 8, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|January 6, 1876<ref>{{Cite news |date=January 7, 1876 |title=Massachusetts Legislature |page=3 |newspaper=[[The Boston Post]] |url=https://www.newspapers.com/article/boston-post-rice-inaugurated/120425973/ |archive-url=https://web.archive.org/web/20230928000705/https://www.newspapers.com/article/120425973/rice-inaugurated/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1879<br />{{small|(1093 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1875 Massachusetts gubernatorial election|1875]]
+|- style="height:2em"
+|[[1876 Massachusetts gubernatorial election|1876]]
+|- style="height:2em"
+|[[1877 Massachusetts gubernatorial election|1877]]
+|- style="height:2em"
+!scope="row"|31
+|data-sort-value="Talbot, Thomas"|[[File:GovThomasTalbot.jpg|75px]]
+|'''[[Thomas Talbot (Massachusetts politician)|Thomas Talbot]]'''<br />{{Small|(1818–1885)}}<br />{{sfn|Sobel|1978|p=711}}<ref name="nga-talbot" />
+|data-sort-value="372"|January 2, 1879<ref>{{Cite news |date=January 2, 1879 |title=The Legislature |page=1 |newspaper=[[The Boston Globe|The Boston Daily Globe]] |url=https://www.newspapers.com/article/the-boston-globe-talbot-inaugurated/120426171/ |archive-url=https://web.archive.org/web/20230928010731/https://www.newspapers.com/article/120426171/talbot-inaugurated/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 8, 1880<br />{{small|(372 days; retired)}}
+|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1878 Massachusetts gubernatorial election|1878]]
+|{{sortname|John Davis|Long}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|32
+|rowspan="3" data-sort-value="Long, John"|[[File:JDLong.jpg|75px]]
+|rowspan="3"|'''[[John Davis Long]]'''<br />{{Small|(1838–1915)}}<br />{{sfn|Sobel|1978|pp=713–714}}<ref name="nga-long">{{cite web |title=John Davis Long |url=https://www.nga.org/governor/john-davis-long/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710083020/https://www.nga.org/governor/john-davis-long/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|January 8, 1880<ref>{{cite book |title=Journal of the Massachusetts Senate, 1880 sess. |author=Massachusetts General Court |page=12 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5buh&seq=18 |via=[[HathiTrust]]}}</ref><br />–<br />January 4, 1883<br />{{small|(1093 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1879 Massachusetts gubernatorial election|1879]]
+|rowspan="3"|{{sortname|Byron|Weston}}
+|- style="height:2em"
+|[[1880 Massachusetts gubernatorial election|1880]]
+|- style="height:2em"
+|[[1881 Massachusetts gubernatorial election|1881]]
+|- style="height:2em"
+!scope="row"|33
+|data-sort-value="Butler, Benjamin"|[[File:BenFrankButler.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Benjamin Butler]]'''<br />{{Small|(1818–1893)}}<br />{{sfn|Sobel|1978|pp=714–715}}<ref name="nga-butler">{{cite web |title=Benjamin Franklin Butler |url=https://www.nga.org/governor/benjamin-franklin-butler/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260315232009/https://www.nga.org/governor/benjamin-franklin-butler/ |archive-date=March 15, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|January 4, 1883<ref>{{cite book |title=Journal of the Massachusetts Senate, 1883 sess. |author=Massachusetts General Court |page=12 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5buk&seq=18 |via=[[HathiTrust]]}}</ref><br />–<br />January 3, 1884<br />{{small|(365 days; lost election)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=144}}
+|[[1882 Massachusetts gubernatorial election|1882]]
+|rowspan="4"|{{sortname|Oliver|Ames|dab=governor}}{{efn|name=lt-rep}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|34
+|rowspan="3" data-sort-value="Robinson, George"|[[File:GovGeorgeDRobinson.jpg|75px]]
+|rowspan="7" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[George D. Robinson]]'''<br />{{Small|(1834–1896)}}<br />{{sfn|Sobel|1978|p=715}}<ref name="nga-robinson">{{cite web |title=George Dexter Robinson |url=https://www.nga.org/governor/george-dexter-robinson/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617191953/https://www.nga.org/governor/george-dexter-robinson/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1100"|January 3, 1884<ref>{{cite book |title=Journal of the Massachusetts Senate, 1884 sess. |author=Massachusetts General Court |page=12 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5bul&seq=18 |via=[[HathiTrust]]}}</ref><br />–<br />January 6, 1887<br />{{small|(1100 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1883 Massachusetts gubernatorial election|1883]]
+|- style="height:2em"
+|[[1884 Massachusetts gubernatorial election|1884]]
+|- style="height:2em"
+|[[1885 Massachusetts gubernatorial election|1885]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Ames, Oliver"|[[File:Oliver Ames 1831–1895.jpg|75px]]
+|rowspan="3"|'''[[Oliver Ames (governor)|Oliver Ames]]'''<br />{{Small|(1831–1895)}}<br />{{sfn|Sobel|1978|p=716}}<ref name="nga-ames">{{cite web |title=Oliver Ames |url=https://www.nga.org/governor/oliver-ames/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521013348/https://www.nga.org/governor/oliver-ames/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|January 6, 1887<ref>{{cite book |title=Journal of the Massachusetts Senate, 1887 sess. |author=Massachusetts General Court |page=13 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5buo&seq=19 |via=[[HathiTrust]]}}</ref><br />–<br />January 2, 1890<br />{{small|(1093 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1886 Massachusetts gubernatorial election|1886]]
+|rowspan="3"|{{sortname|John Q. A.|Brackett}}
+|- style="height:2em"
+|[[1887 Massachusetts gubernatorial election|1887]]
+|- style="height:2em"
+|[[1888 Massachusetts gubernatorial election|1888]]
+|- style="height:2em"
+!scope="row"|36
+|data-sort-value="Brackett, John"|[[File:JohnQABrackett.jpg|75px]]
+|'''[[John Q. A. Brackett]]'''<br />{{Small|(1842–1918)}}<br />{{sfn|Sobel|1978|pp=716–717}}<ref name="nga-brackett">{{cite web |title=John Quincy Adams Brackett |url=https://www.nga.org/governor/john-quincy-adams-brackett/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417003038/https://www.nga.org/governor/john-quincy-adams-brackett/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="372"|January 2, 1890<ref>{{cite book |title=Journal of the Massachusetts Senate, 1890 sess. |author=Massachusetts General Court |page=14 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5bur&seq=20 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1891<br />{{small|(372 days; lost election)}}
+|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1889 Massachusetts gubernatorial election|1889]]
+|rowspan="3"|{{sortname|William H.|Haile}}{{efn|name=lt-rep}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|37
+|rowspan="3" data-sort-value="Russell, William"|[[File:GovWilliamERussell.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[William E. Russell (politician)|William E. Russell]]'''<br />{{Small|(1857–1896)}}<br />{{sfn|Sobel|1978|pp=717–718}}<ref name="nga-russell">{{cite web |title=William Eustis Russell |url=https://www.nga.org/governor/william-eustis-russell/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512212232/https://www.nga.org/governor/william-eustis-russell/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|January 8, 1891<ref>{{cite book |title=Journal of the Massachusetts Senate, 1891 sess. |author=Massachusetts General Court |page=16 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5bus&seq=22 |via=[[HathiTrust]]}}</ref><br />–<br />January 4, 1894<br />{{small|(1093 days; retired)}}
+|rowspan="3"|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=144}}
+|[[1890 Massachusetts gubernatorial election|1890]]
+|- style="height:2em"
+|[[1891 Massachusetts gubernatorial election|1891]]
+|- style="height:2em"
+|[[1892 Massachusetts gubernatorial election|1892]]
+|rowspan="4"|{{sortname|Roger|Wolcott|dab=Massachusetts politician}}{{efn|name=lt-rep}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|38
+|rowspan="3" data-sort-value="Greenhalge, Frederic"|[[File:Frederick T. Greenhalge.jpg|75px]]
+|rowspan="12" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Frederic T. Greenhalge]]'''<br />{{Small|(1842–1896)}}<br />{{sfn|Sobel|1978|p=718}}<ref name="nga-greenhalge">{{cite web |title=Frederic Thomas Greenhalge |url=https://www.nga.org/governor/frederic-thomas-greenhalge/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410202622/https://www.nga.org/governor/frederic-thomas-greenhalge/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="792"|January 4, 1894<ref>{{cite book |title=Journal of the Massachusetts Senate, 1894 sess. |author=Massachusetts General Court |page=15 |url=https://babel.hathitrust.org/cgi/pt?id=chi.74633606&seq=25 |via=[[HathiTrust]]}}</ref><br />–<br />March 5, 1896<br />{{small|(792 days; died in office)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1893 Massachusetts gubernatorial election|1893]]
+|- style="height:2em"
+|[[1894 Massachusetts gubernatorial election|1894]]
+|- style="height:2em"
+|[[1895 Massachusetts gubernatorial election|1895]]
+|- style="height:2em"
+!rowspan="4" scope="rowgroup"|39
+|rowspan="4" data-sort-value="Wolcott, Robert"|[[File:Roger Wolcott by Frederic Porter Vinton.jpg|75px]]
+|rowspan="4"|'''[[Roger Wolcott (Massachusetts politician)|Roger Wolcott]]'''<br />{{Small|(1847–1900)}}<br />{{sfn|Sobel|1978|pp=718–719}}<ref name="nga-wolcott">{{cite web |title=Roger Wolcott |url=https://www.nga.org/governor/roger-wolcott/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260305101914/https://www.nga.org/governor/roger-wolcott/ |archive-date=March 5, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1401"|March 5, 1896<ref>{{Cite news |date=March 5, 1896 |title=Deep Mourning |page=1 |newspaper=[[North Adams Transcript]] |url=https://www.newspapers.com/article/north-adams-transcript-wolcott-becomes-a/120473126/ |archive-url=https://web.archive.org/web/20230927232156/https://www.newspapers.com/article/120473126/wolcott-becomes-acting-governor/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1900<br />{{small|(1401 days; retired)}}
+|rowspan="4"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+|[[1896 Massachusetts gubernatorial election|1896]]
+|rowspan="3"|{{sortname|Winthrop M.|Crane}}
+|- style="height:2em" 
+|[[1897 Massachusetts gubernatorial election|1897]]
+|- style="height:2em"
+|[[1898 Massachusetts gubernatorial election|1898]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|40
+|rowspan="3" data-sort-value="Crane, Winthrop"|[[File:Winthrop Murray Crane.jpg|75px]]
+|rowspan="3"|'''[[Winthrop M. Crane]]'''<br />{{Small|(1853–1920)}}<br />{{sfn|Sobel|1978|pp=719–720}}<ref name="nga-crane">{{cite web |title=Winthrop Murray Crane |url=https://www.nga.org/governor/winthrop-murray-crane/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260416231948/https://www.nga.org/governor/winthrop-murray-crane/ |archive-date=April 16, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1100"|January 4, 1900<ref>{{cite book |title=Journal of the Massachusetts Senate, 1900 sess. |author=Massachusetts General Court |page=14 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5bxq&seq=20 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1903<br />{{small|(1100 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1899 Massachusetts gubernatorial election|1899]]
+|rowspan="3"|{{sortname|John L.|Bates}}
+|- style="height:2em"
+|[[1900 Massachusetts gubernatorial election|1900]]
+|- style="height:2em"
+|[[1901 Massachusetts gubernatorial election|1901]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Bates, John"|[[File:GovJohnLBates.jpg|75px]]
+|rowspan="2"|'''[[John L. Bates]]'''<br />{{Small|(1859–1946)}}<br />{{sfn|Sobel|1978|pp=720–721}}<ref name="nga-bates">{{cite web |title=John Lewis Bates |url=https://www.nga.org/governor/john-lewis-bates/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517091757/https://www.nga.org/governor/john-lewis-bates/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="729"|January 8, 1903<ref>{{cite book |title=Journal of the Massachusetts Senate, 1903 sess. |author=Massachusetts General Court |page=16 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015069467994&seq=18 |via=[[HathiTrust]]}}</ref><br />–<br />January 5, 1905<br />{{small|(729 days; lost election)}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1902 Massachusetts gubernatorial election|1902]]
+|rowspan="3"|{{sortname|Curtis|Guild Jr.}}{{efn|name=lt-rep}}
+|- style="height:2em"
+|[[1903 Massachusetts gubernatorial election|1903]]
+|- style="height:2em"
+!scope="row"|42
+|data-sort-value="Douglas, William"|[[File:WilliamLewisDouglas.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[William Lewis Douglas]]'''<br />{{Small|(1845–1924)}}<br />{{sfn|Sobel|1978|p=721}}<ref name="nga-douglas">{{cite web |title=William Lewis Douglas |url=https://www.nga.org/governor/william-lewis-douglas/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410210139/https://www.nga.org/governor/william-lewis-douglas/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|January 5, 1905<ref>{{cite book |title=Journal of the Massachusetts Senate, 1905 sess. |author=Massachusetts General Court |page=17 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5bxw&seq=21 |via=[[HathiTrust]]}}</ref><br />–<br />January 4, 1906<br />{{small|(365 days; retired)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=144}}
+|[[1904 Massachusetts gubernatorial election|1904]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|43
+|rowspan="3" data-sort-value="Guild, Curtis"|[[File:Curtis Guild Jr.jpg|75px]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Curtis Guild Jr.]]'''<br />{{Small|(1860–1915)}}<br />{{sfn|Sobel|1978|pp=721–722}}<ref name="nga-guild">{{cite web |title=Curtis Guild |url=https://www.nga.org/governor/curtis-guild/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613190318/https://www.nga.org/governor/curtis-guild/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1100"|January 4, 1906<ref>{{cite book |title=Journal of the Massachusetts Senate, 1906 sess. |author=Massachusetts General Court |page=16 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5bxx&seq=20 |via=[[HathiTrust]]}}</ref><br />–<br />January 7, 1909<br />{{small|(1100 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=144}}
+|[[1905 Massachusetts gubernatorial election|1905]]
+|rowspan="3"|{{sortname|Eben Sumner|Draper}}
+|- style="height:2em"
+|[[1906 Massachusetts gubernatorial election|1906]]
+|- style="height:2em"
+|[[1907 Massachusetts gubernatorial election|1907]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Draper, Eben"|[[File:Ebenezer Sumner Draper crop.jpg|75px]]
+|rowspan="2"|'''[[Eben Sumner Draper]]'''<br />{{Small|(1858–1914)}}<br />{{sfn|Sobel|1978|pp=722–723}}<ref name="nga-draper">{{cite web |title=Ebenezer Sumner Draper |url=https://www.nga.org/governor/ebenezer-sumner-draper/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260216080258/https://www.nga.org/governor/ebenezer-sumner-draper/ |archive-date=February 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="729"|January 7, 1909<ref>{{cite book |title=Journal of the Massachusetts Senate, 1909 sess. |author=Massachusetts General Court |page=24 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5by0&seq=26 |via=[[HathiTrust]]}}</ref><br />–<br />January 5, 1911<br />{{small|(729 days; lost election)}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1908 Massachusetts gubernatorial election|1908]]
+|rowspan="3"|{{sortname|Louis A.|Frothingham}}{{efn|name=lt-rep}}
+|- style="height:2em"
+|[[1909 Massachusetts gubernatorial election|1909]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|45
+|rowspan="3" data-sort-value="Foss, Eugene"|[[File:Governor Foss.png|75px]]
+|rowspan="5" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Eugene Foss]]'''<br />{{Small|(1858–1939)}}<br />{{sfn|Sobel|1978|pp=723–724}}<ref name="nga-foss">{{cite web |title=Eugene Noble Foss |url=https://www.nga.org/governor/eugene-noble-foss/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422130308/https://www.nga.org/governor/eugene-noble-foss/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1100"|January 5, 1911<ref>{{cite book |title=Journal of the Massachusetts Senate, 1911 sess. |author=Massachusetts General Court |page=26 |url=https://archives.lib.state.ma.us/handle/2452/796106}}</ref><br />–<br />January 8, 1914<br />{{small|(1100 days; lost election)}}
+|rowspan="3"|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1910 Massachusetts gubernatorial election|1910]]
+|- style="height:2em"
+|[[1911 Massachusetts gubernatorial election|1911]]
+|{{sortname|Robert|Luce}}{{efn|name=lt-rep}}
+|- style="height:2em" 
+|[[1912 Massachusetts gubernatorial election|1912]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+| [[David I. Walsh]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="Walsh, David"|[[File:David I. Walsh (MA).jpg|75px]]
+|rowspan="2"|'''[[David I. Walsh]]'''<br />{{Small|(1872–1947)}}<br />{{sfn|Sobel|1978|p=724}}<ref name="nga-walsh">{{cite web |title=David Ignatius Walsh |url=https://www.nga.org/governor/david-ignatius-walsh/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422120640/https://www.nga.org/governor/david-ignatius-walsh/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="729"|January 8, 1914<ref>{{cite book |title=Journal of the Massachusetts Senate, 1914 sess. |author=Massachusetts General Court |page=19 |url=https://babel.hathitrust.org/cgi/pt?id=chi.74633322&seq=21 |via=[[HathiTrust]]}}</ref><br />–<br />January 6, 1916<br />{{small|(729 days; lost election)}} 
+|rowspan="2"|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1913 Massachusetts gubernatorial election|1913]]
+|{{sortname|Edward P.|Barry}}
+|- style="height:2em"
+|[[1914 Massachusetts gubernatorial election|1914]]
+|rowspan="13" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|[[Grafton D. Cushing]]{{efn|name=lt-rep}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|47
+|rowspan="3" data-sort-value="McCall, Samuel"|[[File:SamuelMcCall.jpg|75px]]
+|rowspan="10" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Samuel W. McCall]]'''<br />{{Small|(1851–1923)}}<br />{{sfn|Sobel|1978|p=725}}<ref name="nga-mccall">{{cite web |title=Samuel Walker McCall |url=https://www.nga.org/governor/samuel-walker-mccall/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616123232/https://www.nga.org/governor/samuel-walker-mccall/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|January 6, 1916<ref>{{cite book |title=Journal of the Massachusetts Senate, 1916 sess. |author=Massachusetts General Court |page=19 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5by6&seq=23 |via=[[HathiTrust]]}}</ref><br />–<br />January 2, 1919<br />{{small|(1093 days; retired)}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1915 Massachusetts gubernatorial election|1915]]
+|rowspan="3"|{{sortname|Calvin|Coolidge}}
+|- style="height:2em"
+|[[1916 Massachusetts gubernatorial election|1916]]
+|- style="height:2em"
+|[[1917 Massachusetts gubernatorial election|1917]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|48
+|rowspan="2" data-sort-value="Coolidge, Calvin"|[[File:John Calvin Coolidge, Bain bw photo portrait.jpg|75px]]
+|rowspan="2"|'''[[Calvin Coolidge]]'''<br />{{Small|(1872–1933)}}<br />{{sfn|Sobel|1978|pp=725–726}}<ref name="nga-coolidge">{{cite web |title=John Calvin Coolidge |url=https://www.nga.org/governor/john-calvin-coolidge/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260929200021/https://www.nga.org/governor/john-calvin-coolidge/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="736"|January 2, 1919<ref>{{cite book |title=Journal of the Massachusetts Senate, 1919 sess. |author=Massachusetts General Court |page=20 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5by9&seq=24 |via=[[HathiTrust]]}}</ref><br />–<br />January 6, 1921<br />{{small|(736 days; retired)}}{{efn|Coolidge was instead [[1920 United States presidential election|elected]] [[Vice President of the United States]].{{sfn|Sobel|1978|p=726}}}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1918 Massachusetts gubernatorial election|1918]]
+|rowspan="2"|{{sortname|Channing H.|Cox}}
+|- style="height:2em"
+|[[1919 Massachusetts gubernatorial election|1919]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|49
+|rowspan="2" data-sort-value="Cox, Channing"|[[File:Channing H Cox.png|75px]]
+|rowspan="2"|'''[[Channing H. Cox]]'''<br />{{Small|(1879–1968)}}<br />{{sfn|Sobel|1978|pp=726–727}}<ref name="nga-cox">{{cite web |title=Channing Harris Cox |url=https://www.nga.org/governor/channing-harris-cox/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414062425/https://www.nga.org/governor/channing-harris-cox/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 6, 1921<ref>{{cite book |title=Journal of the Massachusetts Senate, 1921 sess. |author=Massachusetts General Court |page=21 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hl5byc&seq=25 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1925<br />{{small|(1464 days; retired)}} 
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1920 Massachusetts gubernatorial election|1920]]
+|rowspan="2"|{{sortname|Alvan T.|Fuller}}
+|- style="height:2em"
+|[[1922 Massachusetts gubernatorial election|1922]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|50
+|rowspan="2" data-sort-value="Fuller, Alvan"|[[File:Alvin T Fuller.png|75px]]
+|rowspan="2"|'''[[Alvan T. Fuller]]'''<br />{{Small|(1878–1958)}}<br />{{sfn|Sobel|1978|p=727}}<ref name="nga-fuller">{{cite web |title=Alvan Tufts Fuller |url=https://www.nga.org/governor/alvan-tufts-fuller/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260807045534/https://www.nga.org/governor/alvan-tufts-fuller/ |archive-date=August 7, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1925<ref>{{cite book |title=Journal of the Massachusetts Senate, 1925 sess. |author=Massachusetts General Court |page=22 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882548&seq=26 |via=[[HathiTrust]]}}</ref><br />–<br />January 3, 1929<br />{{small|(1457 days; retired)}} 
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1924 Massachusetts gubernatorial election|1924]]
+|rowspan="2"|{{sortname|Frank G.|Allen}}
+|- style="height:2em"
+|[[1926 Massachusetts gubernatorial election|1926]]
+|- style="height:2em"
+!scope="row"|51
+|data-sort-value="Allen, Frank"|[[File:Frank G Allen.png|75px]]
+|'''[[Frank G. Allen]]'''<br />{{Small|(1874–1950)}}<br />{{sfn|Sobel|1978|pp=727–728}}<ref name="nga-allen">{{cite web |title=Frank G. Allen |url=https://www.nga.org/governor/frank-g-allen/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617074037/https://www.nga.org/governor/frank-g-allen/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 3, 1929<ref>{{cite book |title=Journal of the Massachusetts Senate, 1929 sess. |author=Massachusetts General Court |page=24 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882552&seq=34 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1931<br />{{small|(736 days; lost election)}} 
+|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1928 Massachusetts gubernatorial election|1928]]
+|rowspan="2"|{{sortname|William S.|Youngman}}{{efn|name=lt-rep}}
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|52
+|rowspan="2" data-sort-value="Ely, Joseph"|[[File:Joseph B. Ely (MA).png|75px]]
+|rowspan="4" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Joseph B. Ely]]'''<br />{{Small|(1881–1956)}}<br />{{sfn|Sobel|1978|pp=728–729}}<ref name="nga-ely">{{cite web |title=Joseph Buell Ely |url=https://www.nga.org/governor/joseph-buell-ely/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617074451/https://www.nga.org/governor/joseph-buell-ely/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1931<ref>{{cite book |title=Journal of the Massachusetts Senate, 1931 sess. |author=Massachusetts General Court |page=29 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882554&seq=41 |via=[[HathiTrust]]}}</ref><br />–<br />January 3, 1935<br />{{small|(1457 days; retired)}}
+|rowspan="2"|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1930 Massachusetts gubernatorial election|1930]]
+|- style="height:2em"
+|[[1932 Massachusetts gubernatorial election|1932]]
+|{{sortname|Gaspar G.|Bacon}}{{efn|name=lt-rep}}
+|- style="height:2em"
+!scope="row"|53
+|data-sort-value="Curley, James"|[[File:James Michael Curley official gubernatorial portrait photograph, 1935.jpeg|75px]]
+|'''[[James Michael Curley]]'''<br />{{Small|(1874–1958)}}<br />{{sfn|Sobel|1978|pp=729–730}}<ref name="nga-curley">{{cite web |title=James Michael Curley |url=https://www.nga.org/governor/james-michael-curley/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710075759/https://www.nga.org/governor/james-michael-curley/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 3, 1935<ref>{{cite book |title=Journal of the Massachusetts House of Representatives, 1935 sess. |author=Massachusetts General Court |page=32 |url=https://archives.lib.state.ma.us/handle/2452/796216}}</ref><br />–<br />January 7, 1937<br />{{small|(736 days; retired)}}{{efn|Curley instead [[1936 United States Senate election in Massachusetts|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=729}}}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1934 Massachusetts gubernatorial election|1934]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Joseph L.|Hurley}}
+|- style="height:2em"
+!scope="row"|54
+|data-sort-value="Hurley, Charles"|[[File:Charles F. Hurley official portrait photograph, 1937.jpeg|75px]]
+|'''[[Charles F. Hurley]]'''<br />{{Small|(1893–1946)}}<br />{{sfn|Sobel|1978|p=730}}<ref name="nga-hurley">{{cite web |title=Charles Francis Hurley |url=https://www.nga.org/governor/charles-francis-hurley/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608203532/https://www.nga.org/governor/charles-francis-hurley/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 7, 1937<ref>{{cite book |title=Journal of the Massachusetts Senate, 1937 sess. |author=Massachusetts General Court |page=31 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882560&seq=35 |via=[[HathiTrust]]}}</ref><br />–<br />January 5, 1939<br />{{small|(729 days;<br>lost nomination)}} 
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1936 Massachusetts gubernatorial election|1936]]
+|{{sortname|Francis E.|Kelly}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|55
+|rowspan="3" data-sort-value="Saltonstall, Leverett"|[[File:Leverett Saltonstall (MA).jpg|75px]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Leverett Saltonstall]]'''<br />{{Small|(1892–1979)}}<br />{{sfn|Sobel|1978|pp=730–731}}<ref name="nga-saltonstall">{{cite web |title=Leverett Saltonstall |url=https://www.nga.org/governor/leverett-saltonstall/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613150805/https://www.nga.org/governor/leverett-saltonstall/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2192"|January 5, 1939<ref>{{cite book |title=Journal of the Massachusetts Senate, 1939 sess. |author=Massachusetts General Court |page=25 |url=https://babel.hathitrust.org/cgi/pt?id=osu.32435058847849&seq=29 |via=[[HathiTrust]]}}</ref><br />–<br />January 4, 1945<br />{{small|(2192 days; retired)}}{{efn|Saltonstall was instead [[1944 United States Senate special election in Massachusetts|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=731}}}}
+|rowspan="3"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1938 Massachusetts gubernatorial election|1938]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Horace T.|Cahill}}
+|- style="height:2em"
+|[[1940 Massachusetts gubernatorial election|1940]]
+|- style="height:2em"
+|[[1942 Massachusetts gubernatorial election|1942]]
+|- style="height:2em"
+!scope="row"|56
+|data-sort-value="Tobin, Maurice"|[[File:Maurice J. Tobin gubernatorial portrait photograph, 1945.jpeg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Maurice J. Tobin]]'''<br />{{Small|(1901–1953)}}<br />{{sfn|Sobel|1978|p=731}}<ref name="nga-tobin">{{cite web |title=Maurice Tobin |url=https://www.nga.org/governor/maurice-tobin/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613190355/https://www.nga.org/governor/maurice-tobin/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 4, 1945<ref>{{cite book |title=Journal of the Massachusetts Senate, 1945 sess. |author=Massachusetts General Court |page=43 |url=https://babel.hathitrust.org/cgi/pt?id=osu.32435058847740&seq=87 |via=[[HathiTrust]]}}</ref><br />–<br />January 2, 1947<br />{{small|(729 days; lost election)}} 
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1944 Massachusetts gubernatorial election|1944]]
+|{{sortname|Robert F.|Bradford}}{{efn|name=lt-rep}}
+|- style="height:2em"
+!scope="row"|57
+|data-sort-value="Bradford, Robert"|[[File:Robert F. Bradford (Massachusetts Governor).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Robert F. Bradford]]'''<br />{{Small|(1902–1983)}}<br />{{sfn|Sobel|1978|p=732}}<ref name="nga-bradford">{{cite web |title=Robert Fiske Bradford |url=https://www.nga.org/governor/robert-fiske-bradford/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260525053902/https://www.nga.org/governor/robert-fiske-bradford/ |archive-date=May 25, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 2, 1947<ref>{{cite book |title=Journal of the Massachusetts Senate, 1947 sess. |author=Massachusetts General Court |page=36 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2882567&seq=40 |via=[[HathiTrust]]}}</ref><br />–<br />January 6, 1949<br />{{small|(736 days; lost election)}} 
+|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1946 Massachusetts gubernatorial election|1946]]
+|{{sortname|Arthur W.|Coolidge}}
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|58
+|rowspan="2" data-sort-value="Dever, Paul"|[[File:PaulADever.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Paul A. Dever]]'''<br />{{Small|(1903–1958)}}<br />{{sfn|Sobel|1978|pp=732–733}}<ref name="nga-dever">{{cite web |title=Paul Andrew Dever |url=https://www.nga.org/governor/paul-andrew-dever/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512211342/https://www.nga.org/governor/paul-andrew-dever/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 6, 1949<ref>{{cite book |title=Journal of the Massachusetts House of Representatives, 1949 sess. |author=Massachusetts General Court |page=25 |url=https://archives.lib.state.ma.us/handle/2452/796254}}</ref><br />–<br />January 8, 1953<br />{{small|(1464 days; lost election)}} 
+|rowspan="2"|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1948 Massachusetts gubernatorial election|1948]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Charles F.|Sullivan}}
+|- style="height:2em"
+|[[1950 Massachusetts gubernatorial election|1950]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|59
+|rowspan="2" data-sort-value="Herter, Christian"|[[File:Christian Archibald Herter (politician).jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Christian Herter]]'''<br />{{Small|(1895–1966)}}<br />{{sfn|Sobel|1978|pp=733–734}}<ref name="nga-herter">{{cite web |title=Christian Archibald Herter |url=https://www.nga.org/governor/christian-archibald-herter/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617071621/https://www.nga.org/governor/christian-archibald-herter/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1953<ref>{{cite book |title=Journal of the Massachusetts Senate, 1953 sess. |author=Massachusetts General Court |page=208 |url=https://archives.lib.state.ma.us/handle/2452/796270}}</ref><br />–<br />January 3, 1957<br />{{small|(1457 days; retired)}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1952 Massachusetts gubernatorial election|1952]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Sumner G.|Whittier}}
+|- style="height:2em"
+|[[1954 Massachusetts gubernatorial election|1954]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|60
+|rowspan="3" data-sort-value="Furcolo, Foster"|[[File:Foster Furcolo, 60th Governor of Massachusetts.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Foster Furcolo]]'''<br />{{Small|(1911–1995)}}<br />{{sfn|Sobel|1978|p=734}}<ref name="nga-furcolo">{{cite web |title=Foster John Furcolo |url=https://www.nga.org/governor/foster-john-furcolo/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260713211857/https://www.nga.org/governor/foster-john-furcolo/ |archive-date=July 13, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1464"|January 3, 1957<ref>{{cite book |title=Journal of the Massachusetts Senate, 1957 sess. |author=Massachusetts General Court |page=14 |url=https://archives.lib.state.ma.us/handle/2452/796305}}</ref><br />–<br />January 5, 1961<br />{{small|(1464 days; retired)}}{{efn|Furcolo instead [[1960 United States Senate election in Massachusetts|ran unsuccessfully]] for the Democratic nomination to the [[United States Senate]].{{sfn|Sobel|1978|p=734}}}}
+|rowspan="3"|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1956 Massachusetts gubernatorial election|1956]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Robert F.|Murphy|dab=politician}}
+|- style="height:2em"
+|rowspan="2"|[[1958 Massachusetts gubernatorial election|1958]]
+|- style="height:2em"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em"
+!scope="row"|61
+|data-sort-value="Volpe, John"|[[File:John Volpe (1970).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[John A. Volpe]]'''<br />{{Small|(1908–1994)}}<br />{{sfn|Sobel|1978|pp=734–735}}<ref name="nga-volpe">{{cite web |title=John Anthony Volpe |url=https://www.nga.org/governor/john-anthony-volpe/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612144851/https://www.nga.org/governor/john-anthony-volpe/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 5, 1961<ref>{{cite book |title=Journal of the Massachusetts Senate, 1961 sess. |author=Massachusetts General Court |page=14 |url=https://archives.lib.state.ma.us/handle/2452/796327}}</ref><br />–<br />January 3, 1963<br />{{small|(729 days; lost election)}}
+|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1960 Massachusetts gubernatorial election|1960]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Edward F.|McLaughlin Jr.}}{{efn|Represented the [[Massachusetts Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em"
+!scope="row"|62
+|data-sort-value="Peabody, Endicott"|[[File:Endicott Peabody (MA).png|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Endicott Peabody]]'''<br />{{Small|(1920–1997)}}<br />{{sfn|Sobel|1978|pp=735–736}}<ref name="nga-peabody">{{cite web |title=Endicott Peabody |url=https://www.nga.org/governor/endicott-peabody/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511210903/https://www.nga.org/governor/endicott-peabody/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 3, 1963<ref>{{cite book |title=Journal of the Massachusetts Senate, 1963 sess. |author=Massachusetts General Court |page=16 |url=https://archives.lib.state.ma.us/handle/2452/796337}}</ref><br />–<br />January 7, 1965<br />{{small|(736 days;<br>lost nomination)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1962 Massachusetts gubernatorial election|1962]]
+|{{sortname|Francis|Bellotti}}
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|63
+|rowspan="2" data-sort-value="Volpe, John"|[[File:John Volpe (1970).jpg|75px]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[John A. Volpe]]'''<br />{{Small|(1908–1994)}}<br />{{sfn|Sobel|1978|pp=734–735}}<ref name="nga-volpe" />
+|rowspan="2" data-sort-value="1477"|January 7, 1965<ref>{{cite book |title=Journal of the Massachusetts Senate, 1965 sess. |author=Massachusetts General Court |page=319 |url=https://babel.hathitrust.org/cgi/pt?id=osu.32435025877473&seq=323 |via=[[HathiTrust]]}}</ref><br />–<br />January 22, 1969<br />{{small|(1477 days; resigned)}}{{efn|Volpe resigned, having been confirmed as [[United States Secretary of Transportation]].{{sfn|Sobel|1978|p=735}}}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|[[1964 Massachusetts gubernatorial election|1964]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Elliot|Richardson}}
+|- style="height:2em"
+|[[1966 Massachusetts gubernatorial election|1966]]
+|{{sortname|Francis|Sargent}}
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|64
+|rowspan="2" data-sort-value="Sargent, Francis"|[[File:Governor Francis Sargent (cropped).jpg|75px]]
+|rowspan="2"|'''[[Francis Sargent]]'''<br />{{Small|(1915–1998)}}<br />{{sfn|Sobel|1978|pp=736–737}}<ref name="nga-sargent">{{cite web |title=Francis Williams Sargent |url=https://www.nga.org/governor/francis-williams-sargent/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517084714/https://www.nga.org/governor/francis-williams-sargent/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2172"|January 22, 1969<ref>{{Cite news |date=January 22, 1969 |title=Sargent in Governor Role As Volpe Sworn In at D.C. |page=1 |newspaper=[[Holyoke Transcript-Telegram|Holyoke Daily Transcript]] |agency=Associated Press |location=Boston |publication-place=Holyoke, Massachusetts |url=https://www.newspapers.com/article/transcript-telegram-sargent-in-governor/120478664/|archive-url=https://web.archive.org/web/20230928000704/https://www.newspapers.com/article/120478664/sargent-in-governor-role-as-volpe-sworn/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1975<br />{{small|(2172 days; lost election)}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]{{sfn|Glashan|1979|p=146}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+|[[1970 Massachusetts gubernatorial election|1970]]
+|{{sortname|Donald|Dwight}}
+|- style="height:2em"
+!scope="row"|65
+|data-sort-value="Dukakis, Michael"|[[File:Michael Dukakis gubernatorial portrait photograph, 1975.jpeg|75px]]
+|rowspan="5" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Michael Dukakis]]'''<br />{{Small|({{Abbr|b.|born in}} 1933)}}<br />{{sfn|Sobel|1978|p=737}}{{sfn|Mullaney|1994|pp=174–181}}<ref name="nga-dukakis">{{cite web |title=Michael Stanley Dukakis |url=https://www.nga.org/governor/michael-stanley-dukakis/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260316140716/https://www.nga.org/governor/michael-stanley-dukakis/ |archive-date=March 16, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 2, 1975<ref>{{cite book |title=Journal of the Massachusetts Senate, 1975 sess. |author=Massachusetts General Court |page=299 |url=https://archives.lib.state.ma.us/handle/2452/796386}}</ref><br />–<br />January 4, 1979<br />{{small|(1464 days;<br>lost nomination)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1974 Massachusetts gubernatorial election|1974]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Thomas P.|O'Neill III}}
+|- style="height:2em"
+!scope="row"|66
+|data-sort-value="King, Edward"|[[File:Edward J. King.png|75px]]
+|'''[[Edward J. King]]'''<br />{{Small|(1925–2006)}}<br><ref name="nga-king">{{Cite web |title=Edward J. King |url=https://www.nga.org/governor/edward-j-king/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260713213817/https://www.nga.org/governor/edward-j-king/ |archive-date=July 13, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 4, 1979<ref>{{cite book |title=Journal of the Massachusetts Senate, 1979 sess. |author=Massachusetts General Court |page=254A |url=https://archives.lib.state.ma.us/handle/2452/796419}}</ref><br />–<br />January 6, 1983<br />{{small|(1464 days;<br>lost nomination)}}
+|[[Massachusetts Democratic Party|Democratic]]{{sfn|Glashan|1979|p=146}}
+|[[1978 Massachusetts gubernatorial election|1978]]
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|67
+|rowspan="3" data-sort-value="Dukakis, Michael"|[[File:Michael Dukakis gubernatorial portrait photograph, 1983.jpeg|75px]]
+|rowspan="3"|'''[[Michael Dukakis]]'''<br />{{Small|({{Abbr|b.|born in}} 1933)}}<br />{{sfn|Sobel|1978|p=737}}{{sfn|Mullaney|1994|pp=174–181}}<ref name="nga-dukakis" />
+|rowspan="3" data-sort-value="2920"|January 6, 1983<ref>{{cite book |title=Journal of the Massachusetts Senate, 1983 sess. |author=Massachusetts General Court |page=18A |url=https://archives.lib.state.ma.us/handle/2452/796440}}</ref><br />–<br />January 3, 1991<br />{{small|(2920 days; retired)}}
+|rowspan="3"|[[Massachusetts Democratic Party|Democratic]]<ref name="nga-dukakis" />
+|rowspan="2"|[[1982 Massachusetts gubernatorial election|1982]]
+|{{sortname|John|Kerry}}
+|- style="height:2em"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em"
+|[[1986 Massachusetts gubernatorial election|1986]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Evelyn|Murphy}}
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|68
+|rowspan="2" data-sort-value="Weld, Bill"|[[File:William F. Weld (MA).jpg|75px]]
+|rowspan="6" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Bill Weld]]'''<br />{{Small|({{Abbr|b.|born in}} 1945)}}<br />{{sfn|Mullaney|1994|pp=182–186}}<ref name="nga-weld">{{cite web |title=William Floyd Weld |url=https://www.nga.org/governor/william-floyd-weld/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260525053902/https://www.nga.org/governor/william-floyd-weld/ |archive-date=May 25, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2400"|January 3, 1991<ref>{{cite book |title=Journal of the Massachusetts Senate, 1991 sess. |author=Massachusetts General Court |page=334A |url=https://archives.lib.state.ma.us/handle/2452/796482}}</ref><br />–<br />July 29, 1997<br />{{small|(2400 days; resigned)}}{{efn|Weld resigned, having been nominated for [[List of ambassadors of the United States to Mexico|United States Ambassador to Mexico]]; however, he was not confirmed.<ref name="nga-weld" />}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]<ref name="nga-weld" />
+|[[1990 Massachusetts gubernatorial election|1990]]
+|rowspan="6" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Paul|Cellucci}}
+|- style="height:2em"
+|[[1994 Massachusetts gubernatorial election|1994]]
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|69
+|rowspan="2" data-sort-value="Cellucci, Paul"|[[File:Paul Cellucci gubernatorial photo.jpg|75px]]
+|rowspan="2"|'''[[Paul Cellucci]]'''<br />{{Small|(1948–2013)}}<br /><ref name="nga-cellucci">{{cite web |title=Argeo Paul Cellucci |url=https://www.nga.org/governor/argeo-paul-cellucci/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260702040504/https://www.nga.org/governor/argeo-paul-cellucci/ |archive-date=July 2, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1352"|July 29, 1997<ref>{{Cite news |last1=Phillips |first1=Frank |last2=Walker |first2=Adrian |date=July 30, 1997 |title='Citizen Weld' Steps Out; Cellucci Steps Forward |page=A1 |newspaper=[[The Boston Globe]] |url=https://www.newspapers.com/article/the-boston-globe-citizen-weld-steps-ou/120479052/ |archive-url=https://web.archive.org/web/20230928000707/https://www.newspapers.com/article/120479052/citizen-weld-steps-out-cellucci/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />April 10, 2001<br />{{small|(1352 days; resigned)}}{{efn|Cellucci resigned, having been confirmed as [[List of ambassadors of the United States to Canada|United States Ambassador to Canada]].<ref name="nga-cellucci" />}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]<ref name="nga-cellucci" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+|[[1998 Massachusetts gubernatorial election|1998]]
+|{{sortname|Jane|Swift}}
+|- style="height:2em"
+!scope="row"|—
+|data-sort-value="Swift, Jane"|[[File:Jane Swift gubernatorial photo.jpg|75px]]
+|'''[[Jane Swift]]'''<br />{{Small|({{Abbr|b.|born in}} 1965)}}<br /><ref name="nga-swift">{{cite web |title=Jane Maria Swift |url=https://www.nga.org/governor/jane-maria-swift/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260908184405/https://www.nga.org/governor/jane-maria-swift/ |archive-date=September 8, 2026 |url-status=live}}</ref>
+|data-sort-value="633"|April 10, 2001<ref>{{Cite news |last=Phillips |first=Frank |date=April 11, 2001 |title='Her Excellency': Swift Is First Woman To Serve As Mass. Governor |page=A1 |newspaper=[[The Boston Globe]] |url=https://www.newspapers.com/article/the-boston-globe-her-excellency-swift/120479127/ |archive-url=https://web.archive.org/web/20230928005222/https://www.newspapers.com/article/120479127/her-excellency-swift-is-first-woman/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 2003<br />{{small|(633 days; retired)}}
+|[[Massachusetts Republican Party|Republican]]<ref name="nga-swift" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em"
+!scope="row"|[[Governorship of Mitt Romney|70]]
+|data-sort-value="Romney, Mitt"|[[File:Mitt Romney's official gubernatorial portrait (cropped).jpg|75px]]
+|'''[[Mitt Romney]]'''<br />{{Small|({{Abbr|b.|born in}} 1947)}}<br /><ref name="nga-romney">{{cite web |title=Mitt Romney |url=https://www.nga.org/governor/mitt-romney/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260714012338/https://www.nga.org/governor/mitt-romney/ |archive-date=July 14, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 2, 2003<ref>{{cite book |title=Journal of the Massachusetts Senate, 2003 sess. |author=Massachusetts General Court |page=4 |url=https://archives.lib.state.ma.us/handle/2452/796546}}</ref><br />–<br />January 4, 2007<br />{{small|(1464 days; retired)}}
+|[[Massachusetts Republican Party|Republican]]<ref name="nga-romney" />
+|[[2002 Massachusetts gubernatorial election|2002]]
+|{{sortname|Kerry|Healey}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|71
+|rowspan="3" data-sort-value="Patrick, Deval"|[[File:Deval Patrick official photo.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Deval Patrick]]'''<br />{{Small|({{Abbr|b.|born in}} 1956)}}<br /><ref name="nga-patrick">{{cite web |title=Deval Patrick |url=https://www.nga.org/governor/deval-patrick/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260531235318/https://www.nga.org/governor/deval-patrick/ |archive-date=May 31, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2927"|January 4, 2007<ref>{{cite book |title=Journal of the Massachusetts Senate, 2007 sess. |author=Massachusetts General Court |page=9 |url=https://archives.lib.state.ma.us/handle/2452/796565}}</ref><br />–<br />January 8, 2015<br />{{small|(2927 days; retired)}}
+|rowspan="3"|[[Massachusetts Democratic Party|Democratic]]<ref name="nga-patrick" />
+|[[2006 Massachusetts gubernatorial election|2006]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Tim|Murray}}
+|- style="height:2em"
+|rowspan="2"|[[2010 Massachusetts gubernatorial election|2010]]
+|- style="height:2em"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em"
+!rowspan="2" scope="rowgroup"|[[Governorship of Charlie Baker|72]]
+|rowspan="2" data-sort-value="Baker, Charlie"|[[File:Charlie Baker official photo (cropped).jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Charlie Baker]]'''<br />{{Small|({{Abbr|b.|born in}} 1956)}}<br /><ref name="nga-baker">{{cite web |title=Charlie Baker |url=https://www.nga.org/governor/charlie-baker/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260618205554/https://www.nga.org/governor/charlie-baker/ |archive-date=June 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 8, 2015<ref>{{Cite news |last=Miller |first=Joshua |date=January 8, 2015 |title=Charlie Baker Takes Over As 72d Governor of Mass. |website=[[The Boston Globe]] |url=https://www.bostonglobe.com/metro/2015/01/08/charlie-baker-take-oath-office-governor-today/kUsixGCsMb0j2wbVpcbOgK/story.html |archive-url=https://web.archive.org/web/20150108224317/https://www.bostonglobe.com/metro/2015/01/08/charlie-baker-take-oath-office-governor-today/kUsixGCsMb0j2wbVpcbOgK/story.html |archive-date=January 8, 2015 |access-date=October 30, 2026 |url-status=live}}</ref><br />–<br />January 5, 2023<br />{{small|(2920 days; retired)}}
+|rowspan="2"|[[Massachusetts Republican Party|Republican]]<ref name="nga-baker" />
+|[[2014 Massachusetts gubernatorial election|2014]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Karyn|Polito}}
+|- style="height:2em"
+|[[2018 Massachusetts gubernatorial election|2018]]
+|- style="height:2em"
+!rowspan="2" scope="row"|73
+|rowspan="2" data-sort-value="Healey, Maura"|[[File:Maura Healey, official portrait, governor (cropped).jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Maura Healey]]'''<br />{{Small|({{Abbr|b.|born in}} 1971)}}<br /><ref name="nga-healey">{{cite web |title=Maura Healey |url=https://www.nga.org/governor/maura-healy/ |access-date=October 29, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261011230743/https://www.nga.org/governor/maura-healy/ |archive-date=October 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2023|1|5|duration=on|format=no}}"|January 5, 2023<ref>{{Cite news |last1=Platoff |first1=Emma |last2=Stout |first2=Matt |date=January 5, 2023 |title='Massachusetts Can, and Will, Lead the World': Maura Healey Sworn In As State's 73rd Governor |website=[[The Boston Globe]] |url=https://www.bostonglobe.com/2023/01/05/metro/maura-healey-be-sworn-thursday-massachusetts-73rd-governor/ |archive-url=https://web.archive.org/web/20230105235231/https://www.bostonglobe.com/2023/01/05/metro/maura-healey-be-sworn-thursday-massachusetts-73rd-governor/ |archive-date=January 5, 2023 |access-date=October 30, 2026 |url-status=live}}</ref><br />–<br />Incumbent{{efn|Healey's term [[2026 Massachusetts gubernatorial election|will expire]] on January 7, 2027; she was elected to a second term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2023|1|5|duration=on|format=no}} days)}}
+|rowspan="2"|[[Massachusetts Democratic Party|Democratic]]<ref name="nga-healey" />
+|[[2022 Massachusetts gubernatorial election|2022]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Kim|Driscoll}}
+|- style="height:2em"
+|[[2026 Massachusetts gubernatorial election|2026]]
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Massachusetts Governors |url=https://www.nga.org/former-governors/massachusetts/ |access-date=October 28, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Massachusetts Constitution |url=https://50constitutions.org/ma/constitution |ref={{sfnref|Mass. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 25, 2026}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=February 27, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons03thor/ |volume=3 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+* [https://www.mass.gov/orgs/governor-maura-healey-and-lt-governor-kim-driscoll Official website]
+
+{{Governors of Massachusetts}}
+{{U.S. governors}}
+{{US chief executives}}
+
+[[Category:Governors of Massachusetts|*]]
+[[Category:Lists of state governors of the United States|Massachusetts]]
+[[Category:Lists of Massachusetts politicians|Governors]]
+[[Category:Massachusetts history-related lists|Governors]]

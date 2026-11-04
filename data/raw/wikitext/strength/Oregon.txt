@@ -1,0 +1,968 @@
+{{Short description|Politics in the US state of Oregon}}
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Oregon]]:
+*[[List of governors of Oregon|Governor]]
+*[[Oregon Secretary of State]]
+*[[Oregon Attorney General|Attorney General]]
+*[[Oregon State Treasurer|State Treasurer]]
+*[[Oregon Bureau of Labor and Industries|Commissioner of Labor and Industries]]
+*[[Oregon Superintendent of Public Instruction|Superintendent of Public Instruction]] (before 2012)
+
+The table also indicates the historical party composition in the:
+*[[Oregon State Senate|State Senate]]
+*[[Oregon House of Representatives|State House of Representatives]]
+*[[List of United States senators from Oregon|State delegation to the U.S. Senate]]
+*[[List of United States representatives from Oregon|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+==Pre-statehood (1845–1858)==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=3 class=unsortable |Executive offices<ref name="BlueBookSO">{{cite web |author=Oregon Secretary of State, Archives Division |author-link=Oregon State Archives |title=Earliest Authorities in Oregon History |url=https://sos.oregon.gov/blue-book/Documents/elections/history-officials.pdf |work=Oregon Blue Book |location=[[Salem, Oregon]] |access-date=2009-05-03}}</ref>
+!colspan=2 class=unsortable |[[Provisional Legislature of Oregon|Provisional]]/[[Oregon Territorial Legislature|Territorial Legislature]]
+!class=unsortable |[[Oregon's congressional delegations|U. S. Congress]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Oregon|Governor]]
+!class=unsortable |[[Oregon Secretary of State|Secretary of State]]
+!class=unsortable |[[Oregon State Treasurer|Treasurer]]
+!class=unsortable |[[Oregon State Senate|Council]]
+!class=unsortable |[[Oregon House of Representatives|House]]
+!class=unsortable |[[Oregon Territory's at-large congressional district|Delegate]]
+|- style="height:2em"
+|colspan=7 style="background:#21421E; color:white" |'''Provisional Government of Oregon'''
+|- style="height:2em"
+!1845
+|rowspan=3 |[[George Abernethy]]{{efn |[[Champoeg Meetings|Meetings]] at [[Champoeg, Oregon|Champoeg]] led up to the first constitution of the [[Oregon Country]], and several petitions for U.S. territorial status. The resulting acts also created this body as a [[Provisional Government of Oregon|provisional government for the region]]. The first executives of this government were a three-person elected committee known as the Executive Committee. In 1845, elections for a chief executive were held.}}
+|colspan=5 rowspan=3 style="background:#C3B091" |
+|- style="height:2em"
+!1846
+|- style="height:2em"
+!1847
+|- style="height:2em"
+|colspan=7 style="background:#21421E; color:white" |'''Oregon Territory'''
+|- style="height:2em"
+!1848
+|rowspan=2 {{Party shading/Democratic}} |[[Joseph Lane]] {{small|(D)}}{{efn |name=terrgov|Governor of [[Oregon Territory]] appointed by the [[President of the United States]].}}
+|{{Party shading/Whig}} |[[Theophilus R. Magruder]] {{small|(W)}}
+|rowspan=4 |[[James Taylor (Oregon politician)|James Taylor]]
+|colspan=3 |
+|- style="height:2em"
+!1849
+|rowspan=2 {{Party shading/Democratic}} |[[Kintzing Prichette]] {{small|(D)}}
+|{{Party shading/Democratic}} |9? D
+|{{Party shading/Democratic}} |5D, 1W, 11?
+|rowspan=3 {{Party shading/Democratic}} |[[Samuel Thurston]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1850
+|{{Party shading/Democratic}} |[[Kintzing Prichette]] {{small|(D)}}{{efn |name=terr-act|Acting territorial governor.}}
+|rowspan=2 |9?
+|rowspan=2 |5D, 1W, 11?
+|- style="height:2em"
+|rowspan=5 {{Party shading/Whig}} |[[John P. Gaines]] {{small|(W)}}{{efn |name=terrgov}}
+|rowspan=5 {{Party shading/Whig}} |[[Edward D. Hamilton]] {{small|(W)}}
+|- style="height:2em"
+!rowspan=2 |1851
+|Levi A. Rice
+|rowspan=2 {{Party shading/Democratic}} |4D, 5?
+|rowspan=2 |7D, 2W, 13?
+|rowspan=13 {{Party shading/Democratic}} |[[Joseph Lane]] {{small|(D)}}
+|- style="height:2em"
+|[[William W. Buck]]
+|- style="height:2em"
+!1852
+|rowspan=7 {{Party shading/Democratic}} |[[John D. Boon]] {{small|(D)}}
+|{{Party shading/Tie}} |4D, 4W
+|{{Party shading/Democratic}} |13D, 7W, 5{{abbr|Fed|Federals}}
+|- style="height:2em"
+!rowspan=4 |1853
+|rowspan=4 {{Party shading/Democratic}} |8D, 1W
+|rowspan=4 {{Party shading/Democratic}} |22D, 4W
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Joseph Lane]] {{small|(D)}}{{efn |name=terr-act}}
+|rowspan=5 {{Party shading/Democratic}} |[[George Law Curry]] {{small|(D)}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[George Law Curry]] {{small|(D)}}{{efn |name=terr-act}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[John Wesley Davis]] {{small|(D)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!rowspan=2 |1854
+|rowspan=2 {{Party shading/Democratic}} |7D, 2W
+|rowspan=2 {{Party shading/Democratic}} |23D, 6W
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[George Law Curry]] {{small|(D)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!1855
+|rowspan=4 {{Party shading/Democratic}} |[[Benjamin F. Harding]] {{small|(D)}}
+|[[Nathaniel H. Lane]]
+|{{Party shading/Democratic}} |7D, 2W
+|{{Party shading/Democratic}} |27D, 3W
+|- style="height:2em"
+!1856
+|rowspan=3 {{Party shading/Democratic}} |[[John D. Boon]] {{small|(D)}}
+|{{Party shading/Democratic}} |7D, 2W
+|{{Party shading/Democratic}} |23D, 3W, 4?
+|- style="height:2em"
+!1857
+|{{Party shading/Democratic}} |6D, 3W
+|{{Party shading/Democratic}} |19D, 11W
+|- style="height:2em"
+!1858
+|{{Party shading/Democratic}} |6D, 2W, 1?
+|{{Party shading/Democratic}} |27D, 6R
+|}
+
+==Statehood (1859–present)==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 class=unsortable |Executive offices<ref name="BlueBookSO"/>
+!colspan=2 class=unsortable |[[Oregon Legislative Assembly|Legislative Assembly]]
+!colspan=3 class=unsortable |[[Oregon's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Oregon|Governor]]
+!class=unsortable |[[Oregon Secretary of State|Secretary<br>of State]]
+!class=unsortable |[[Oregon Attorney General|Attorney<br>General]]
+!class=unsortable |[[Oregon State Treasurer|Treasurer]]
+!class=unsortable |[[Oregon Bureau of Labor and Industries|Comm. of Labor]]{{efn |The exact title of the official chiefly responsible for enforcement of labor and related laws has varied through its existence, beginning with Labor Commissioner in 1903, becoming Commissioner of the Bureau of Labor Statistics and Inspector of Factories and Workshops in 1918, then Commissioner of the Bureau of Labor in 1930, and finally Commissioner of Labor and Industries in 1979.}}
+!class=unsortable |[[Oregon Superintendent of Public Instruction|Supt. of<br>Pub. Inst.]]
+!class=unsortable |[[Oregon State Senate|State Senate]]
+!class=unsortable |[[Oregon House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Oregon|Senator<br>(Class II)]]
+!class=unsortable |[[List of United States senators from Oregon|Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Oregon|House]]
+|- style="height:2em"
+!rowspan=2 |1859
+|rowspan=7 {{Party shading/Democratic}} |[[John Whiteaker]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Lucien Heath]] {{small|(D)}}
+|rowspan=42 style="background:#C3B091" |{{efn |Office of Attorney General established by statute on May 20, 1891.}}
+|rowspan=7 {{Party shading/Democratic}} |[[John D. Boon]] {{small|(D)}}
+|rowspan=57 style="background:#C3B091" |{{efn |Office of Labor Commissioner established by statute on June 2, 1903.}}
+|rowspan=19 style="background:#C3B091" |{{efn |Prior to 1872, the governor was ''ex officio'' the Superintendent of Public Instruction. The Legislative Assembly established Superintendent of Public Instruction as a separate office by statute in February 1872.<ref>{{cite web |publisher=[[Oregon State Archives]] |title=Oregon Department of Education Administrative Overview |date=April 2007 |url=http://records.sos.state.or.us/ORSOSWebDrawer/RecordView/7589722 |access-date=2012-02-18}}</ref>}}
+|rowspan=4 {{Party shading/Democratic}} |14D, 2R
+|rowspan=4 {{Party shading/Democratic}} |30D, 4R
+|{{Party shading/Democratic}} |[[Delazon Smith]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joseph Lane]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[La Fayette Grover]] {{small|(D)}}
+|rowspan=2 style="background:#C3B091" |
+|- style="height:2em"
+|rowspan=2 |''vacant''{{efn |name=legfailed|Legislature failed to elected a senator.}}
+|rowspan=3 {{Party shading/Democratic}} |[[Lansing Stout]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1860
+|rowspan=7 {{Party shading/Republican}} |[[Abraham Lincoln|Lincoln]]/<br>[[Hannibal Hamlin|Hamlin]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Edward D. Baker|Edward Dickinson Baker]] {{small|(R)}}{{efn |name=died|Died in office.}}
+|- style="height:2em"
+!rowspan=2 |1861
+|rowspan=4 {{Party shading/Democratic}} |13D, 3R
+|rowspan=4 {{Party shading/Democratic}} |24D, 10R
+|rowspan=9 {{Party shading/Democratic}} |[[James Nesmith]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Andrew J. Thayer]] {{small|(D)}}{{efn |Election successfully contested by [[George K. Shiel]] July 30, 1861.}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Benjamin Stark]] {{small|(D)}}{{efn |name=appointed|Appointed to fill a vacancy.}}
+|rowspan=3 {{Party shading/Democratic}} |[[George K. Shiel]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1862
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[A. C. Gibbs]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Samuel E. May]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Edwin N. Cooke]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Benjamin F. Harding]] {{small|(D)}}
+|- style="height:2em"
+!1863
+|rowspan=2 {{Party shading/Republican}} |10R, 5D, 1I
+|rowspan=2 {{Party shading/Republican}} |33R, 1D
+|rowspan=2 {{Party shading/Republican}} |[[John R. McBride]] {{small|(R)}}
+|- style="height:2em"
+!1864
+|rowspan=5 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{aye}}
+|- style="height:2em"
+!1865
+|rowspan=3 {{Party shading/Republican}} |15R, 3D
+|rowspan=3 {{Party shading/Republican}} |33R, 5D
+|rowspan=8 {{Party shading/Republican}} |[[George Henry Williams]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[James Henry Dickey Henderson|James H.&nbsp;D.<br>Henderson]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1866
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[George Lemuel Woods]] {{small|(R)}}
+|- style="height:2em"
+!1867
+|rowspan=2 {{Party shading/Republican}} |17R, 7D, 1I
+|rowspan=2 {{Party shading/Republican}} |24R, 23D
+|rowspan=7 {{Party shading/Republican}} |[[Henry W. Corbett]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Rufus Mallory]] {{small|(R)}}
+|- style="height:2em"
+!1868
+|rowspan=5 {{Party shading/Democratic}} |[[Horatio Seymour|Seymour]]/<br>[[Francis Preston Blair Jr.|Blair]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1869
+|rowspan=3 {{Party shading/Democratic}} |12D, 10R
+|rowspan=3 {{Party shading/Democratic}} |25D, 18R
+|rowspan=3 {{Party shading/Democratic}} |[[Joseph Showalter Smith|Joseph Showalter<br>Smith]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1870
+|- style="height:2em"
+|rowspan=8 {{Party shading/Democratic}} |[[La Fayette Grover]] {{small|(D)}}{{efn |name=resigned|Resigned.}}
+|rowspan=10 {{Party shading/Democratic}} |[[Stephen F. Chadwick]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[L. Fleischner]] {{small|(D)}}
+|- style="height:2em"
+!1871
+|rowspan=2 {{Party shading/Democratic}} |13D, 9R
+|rowspan=2 {{Party shading/Democratic}} |28D, 19R
+|rowspan=7 {{Party shading/Democratic}} |[[James K. Kelly]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[James H. Slater]] {{small|(D)}}
+|- style="height:2em"
+!1872
+|rowspan=3 {{Party shading/Democratic}} |[[Sylvester C. Simpson]] {{small|(D)}}{{efn |name=appointed}}<ref name="Oregon Department of Education">{{cite web |author=Oregon Department of Education |author-link=Oregon Department of Education |title=Superintendent Tenures |url=http://www.ode.state.or.us/search/page/?id=632 |access-date=2009-05-07 |archive-url=https://web.archive.org/web/20100426115318/http://www.ode.state.or.us/search/page/?id=632 |archive-date=2010-04-26 |url-status=dead}}</ref>
+|rowspan=5 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|rowspan=3 {{Party shading/Republican}} |13R, 9D
+|rowspan=3 {{Party shading/Republican}} |32R, 17D
+|rowspan=8 {{Party shading/Republican}} |[[John H. Mitchell]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Joseph G. Wilson]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+!rowspan=2 |1874
+|rowspan=2 {{Party shading/Democratic}} |[[James Nesmith]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[A. H. Brown]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican}} |[[Levi L. Rowland]] {{small|(R)}}
+|- style="height:2em"
+!1875
+|rowspan=2 {{Party shading/Democratic}} |18D, 11R, 1I
+|rowspan=2 {{Party shading/Coalition}} |23I, 20D, 17R{{efn |A Democrat-turned-Independent, John C. Drain, was elected Speaker, and the Independents organized the chamber with the help of Democrats.<ref>[https://www.oregonlegislature.gov/citizen_engagement/Reports/Chronological.pdf p.98-100]</ref>}}
+|{{Party shading/Democratic}} |[[George A. La Dow|George A.<br>La Dow]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1876
+|{{Party shading/Democratic}} |[[Lafayette Lane]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican}} |[[Rutherford B. Hayes|Hayes]]/<br>[[William A. Wheeler|Wheeler]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1877
+|rowspan=2 {{Party shading/Democratic}} |[[Stephen F. Chadwick]] {{small|(D)}}{{efn |name=assumed|Assumed office following the death or resignation of predecessor.}}
+|rowspan=3 {{Party shading/Democratic}} |18D, 10R, 2I
+|rowspan=3 {{Party shading/Democratic}} |30R, 27D, 3I{{efn |A Democrat, James Knox Weatherford, was elected Speaker, and the Democrats organized the chamber with the help of Independents and renegade Republicans.}}
+|rowspan=8 {{Party shading/Democratic}} |[[La Fayette Grover]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |[[Richard Williams (congressman)|Richard Williams]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1878
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[W. W. Thayer]] {{small|(D)}}
+|rowspan=11 {{Party shading/Republican}} |[[Rockey P. Earhart]] {{small|(R)}}
+|rowspan=11 {{Party shading/Republican}} |[[Edward Hirsch (Oregon politician)|Edward Hirsch]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Leonard J. Powell]]<ref>{{cite web|author=Oregon Department of Education|author-link=Oregon Department of Education|title=Superintendent Tenures|url=http://www.ode.state.or.us/search/page/?id=632 |access-date=2009-05-07 |archive-url=https://web.archive.org/web/20100426115318/http://www.ode.state.or.us/search/page/?id=632 |archive-date=2010-04-26 |url-status=dead}}</ref> {{small|(R)}}
+|- style="height:2em"
+!1879
+|rowspan=2 {{Party shading/Democratic}} |18D, 10R, 2I
+|rowspan=2 {{Party shading/Democratic}} |30D, 28R, 2I{{efn |A Democrat, John M. Thompson, was elected Speaker, and the Democrats organized the chamber with the help of Independents.}}
+|rowspan=7 {{Party shading/Democratic}} |[[James H. Slater]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[John Whiteaker]] {{small|(D)}}
+|- style="height:2em"
+!1880
+|rowspan=5 {{Party shading/Republican}} |[[James A. Garfield|Garfield]]/<br>[[Chester A. Arthur|Arthur]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1881
+|rowspan=5 {{Party shading/Republican}} |16R, 14D
+|rowspan=3 {{Party shading/Republican}} |40R, 20D
+|rowspan=5 {{Party shading/Republican}} |[[Melvin Clark George]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1882
+|- style="height:2em"
+|rowspan=6 {{Party shading/Republican}} |[[Zenas Ferry Moody]] {{small|(R)}}
+|rowspan=15 {{Party shading/Republican}} |[[Ebenezer B. McElroy]] {{small|(R)}}
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Republican}} |37R, 21D, 2I
+|rowspan=14 {{Party shading/Republican}} |[[Joseph N. Dolph]] {{small|(R)}}
+|- style="height:2em"
+!1884
+|rowspan=5 {{Party shading/Republican}} |[[James G. Blaine|Blaine]]/<br>[[John A. Logan|Logan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1885
+|rowspan=3 {{Party shading/Republican}} |17R, 13D
+|rowspan=3 {{Party shading/Republican}} |35R, 25D
+|''vacant''{{efn |name=legfailed}}
+|rowspan=10 {{Party shading/Republican}} |[[Binger Hermann]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=13 {{Party shading/Republican}} |[[John H. Mitchell]] {{small|(R)}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=9 {{Party shading/Fusion}} |[[Sylvester Pennoyer]] {{small|(Fus)}}{{efn |Elected on a Democratic–Populist fusion ticket.}}
+|rowspan=9 {{Party shading/Republican}} |[[George W. McBride]] {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic}} |[[G. W. Webb]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 11D
+|rowspan=2 {{Party shading/Republican}} |34R, 26D
+|- style="height:2em"
+!1888
+|rowspan=5 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Levi P. Morton|Morton]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Republican}} |21R, 9D
+|rowspan=2 {{Party shading/Republican}} |51R, 9D
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!rowspan=2 |1891
+|rowspan=10 {{Party shading/Republican}} |[[Phil Metschan]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |23R, 7D
+|rowspan=3 {{Party shading/Republican}} |43R, 17D
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[George E. Chamberlain]] {{small|(D)}}{{efn |name=appelec|Appointed to fill a vacancy, and subsequently elected in his or her own right.}}
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Whitelaw Reid|Reid]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{Party shading/Republican}} |16R, 13D, 1Pop
+|rowspan=2 {{Party shading/Republican}} |38R, 19D, 3Pop
+|rowspan=25 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=5 {{Party shading/Republican}} |[[William Paine Lord]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Harrison R. Kincaid]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Cicero M. Idleman]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[George M. Irwin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 8D, 3Pop
+|rowspan=2 {{Party shading/Republican}} |53R, 7Pop
+|rowspan=7 {{Party shading/Republican}} |[[George W. McBride]] {{small|(R)}}
+|- style="height:2em"
+!1896
+|rowspan=5 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Garret Hobart|Hobart]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1897
+|rowspan=5 {{Party shading/Republican}} |24R, 3D, 3Pop{{efn |name=noassemb|Due to splits between factions of the Republican Party, the Legislative Assembly did not organize for this session.}}
+|rowspan=3 {{Party shading/Republican}} |39R, 17Pop, 4D{{efn |name=noassemb|Due to splits between factions of the Republican Party, the Legislative Assembly did not organize for this session.}}
+|rowspan=2 |''vacant''{{efn |name=legfailed}}
+|- style="height:2em"
+!rowspan=2 |1898
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[Joseph Simon (politician)|Joseph Simon]] {{small|(R)}}
+|- style="height:2em"
+!1899
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Thurston Geer]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Frank L. Dunbar]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[D. R. N. Blackburn]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Charles S. Moore]] {{small|(R)}}
+|rowspan=15 {{Party shading/Republican}} |[[John H. Ackerman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |42R, 17Pop, 1D
+|- style="height:2em"
+!1900
+|rowspan=5 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Republican}} |21R, 4{{abbr|Cit|Citizens Party}}, 3P, 1D, 1{{abbr|Un|Union Party}}
+|rowspan=2 {{Party shading/Republican}} |35R, 13{{abbr|Cit|Citizens Party}}, 7D, 3{{abbr|Un|Union Party}}, 1P, 1&nbsp;vac.
+|rowspan=6 {{Party shading/Republican}} |[[John H. Mitchell]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!rowspan=2 |1903
+|rowspan=8 {{Party shading/Democratic}} |[[George E. Chamberlain]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=17 {{Party shading/Republican}} |[[Andrew M. Crawford]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |21R, 3D, 3{{abbr|Cit|Citizens Party}}, 2{{abbr|Un|Union Party}}, 1Pop
+|rowspan=3 {{Party shading/Republican}} |48R, 11D, 1{{abbr|Cit|Citizens Party}}
+|rowspan=8 {{Party shading/Republican}} |[[Charles W. Fulton]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=22 {{Party shading/Republican}} |[[O. P. Hoff]] {{small|(R)}}{{efn |name=appelec}}
+|- style="height:2em"
+!1904
+|rowspan=5 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=2 {{Party shading/Republican}} |25R, 5D
+|rowspan=2 {{Party shading/Republican}} |50R, 10D
+|- style="height:2em"
+!1906
+|{{Party shading/Democratic}} |[[John M. Gearin]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!rowspan=2 |1907
+|rowspan=7 {{Party shading/Republican}} |[[Frank W. Benson (politician)|Frank W. Benson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=6 {{Party shading/Republican}} |[[George A. Steel (Oregon politician)|George A. Steel]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |24R, 6D
+|rowspan=3 {{Party shading/Republican}} |59R, 1D
+|{{Party shading/Republican}} |[[Frederick W. Mulkey]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=8 {{Party shading/Republican}} |[[Jonathan Bourne Jr.]] {{small|(R)}}
+|- style="height:2em"
+!1908
+|rowspan=6 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{Party shading/Republican}} |[[Frank W. Benson (politician)|Frank W. Benson]] {{small|(R)}}{{efn |name=assumed}}{{efn |name=resigned}}
+|rowspan=3 {{Party shading/Republican}} |53R, 7D
+|rowspan=19 {{Party shading/Democratic}} |[[George E. Chamberlain]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1910
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Jay Bowerman]] {{small|(R)}}{{efn |name=assumed}}
+|- style="height:2em"
+!rowspan=2 |1911
+|rowspan=6 {{Party shading/Democratic}} |[[Oswald West]] {{small|(D)}}
+|rowspan=12 {{Party shading/Republican}} |[[Thomas B. Kay]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lewis R. Alderman]] {{small|(R)}}{{efn |name=resigned}}<ref name="Oregon Department of Education"/>
+|rowspan=3 {{Party shading/Republican}} |27R, 3D
+|rowspan=3 {{Party shading/Republican}} |58R, 2D
+|- style="height:2em"
+|rowspan=14 {{Party shading/Republican}} |[[Ben W. Olcott]] {{small|(R)}}{{efn |name=appelec}}{{efn |Resigned as lieutenant governor on May 28, 1920, after assuming the governorship in 1919.}}
+|- style="height:2em"
+!1912
+|rowspan=5 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1913
+|rowspan=5 {{Party shading/Republican}} |28R, 2D
+|rowspan=3 {{Party shading/Republican}} |48R, 7Prog, 5D
+|rowspan=6 {{Party shading/Democratic}} |[[Harry Lane]] {{small|(D)}}{{efn |name=died}}
+|rowspan=15 {{Party shading/Republican}} |3R
+|- style="height:2em"
+|rowspan=19 {{Party shading/Republican}} |[[Julius A. Churchill]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=resigned}}
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=7 {{Party shading/Republican}} |[[James Withycombe]] {{small|(R)}}{{efn |name=died}}
+|rowspan=9 {{Party shading/Republican}} |[[George M. Brown (judge)|George M. Brown]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Republican}} |56R, 4D
+|- style="height:2em"
+!1916
+|rowspan=7 {{Party shading/Republican}} |[[Charles Evans Hughes|Hughes]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1917
+|rowspan=4 {{Party shading/Republican}} |24R, 5D, 1I
+|rowspan=4 {{Party shading/Republican}} |55R, 4D, 1I
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Charles L. McNary]] {{small|(R)}}{{efn |name=appelec}}
+|- style="height:2em"
+!rowspan=2 |1918
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Frederick W. Mulkey]] {{small|(R)}}{{efn |name=resigned}}
+|- style="height:2em"
+!rowspan=2 |1919
+|rowspan=8 {{Party shading/Republican}} |O. P. Hoff {{small|(R)}}{{efn |name=died}}
+|rowspan=33 {{Party shading/Republican}} |[[C. H. Gram]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |24R, 3D, 3I
+|rowspan=4 {{Party shading/Republican}} |54R, 6D
+|rowspan=35 {{Party shading/Republican}} |[[Charles L. McNary]] {{small|(R)}}{{efn |name=elecapp|Appointed to office, having already been elected to the next term.}}{{efn |name=died}}
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[Ben W. Olcott]] {{small|(R)}}{{efn |name=assumed}}
+|- style="height:2em"
+!rowspan=2 |1920
+|rowspan=5 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=11 {{Party shading/Republican}} |[[Sam A. Kozer]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=resigned}}
+|rowspan=31 {{Party shading/Republican}} |[[Isaac Homer Van Winkle|Isaac H. Van Winkle]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=died}}
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Republican}} |27R, 2I, 1D
+|rowspan=2 {{Party shading/Republican}} |58R, 2D
+|rowspan=8 {{Party shading/Republican}} |[[Robert N. Stanfield]] {{small|(R)}}
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=6 {{Party shading/Democratic}} |[[Walter M. Pierce]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |26R, 4D
+|rowspan=3 {{Party shading/Republican}} |51R, 9D
+|rowspan=3 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!rowspan=2 |1924
+|rowspan=6 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Jefferson Myers]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1925
+|rowspan=9 {{Party shading/Republican}} |Thomas B. Kay {{small|(R)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Republican}} |57R, 3D
+|rowspan=8 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!rowspan=2 |1926
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Richard R. Turner]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1927
+|rowspan=4 {{Party shading/Republican}} |[[I. L. Patterson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=13 {{Party shading/Republican}} |[[Charles A. Howard]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=3 {{Party shading/Republican}} |27R, 3D
+|rowspan=3 {{Party shading/Republican}} |56R, 4D
+|rowspan=15 {{Party shading/Republican}} |[[Frederick Steiwer]] {{small|(R)}}{{efn |name=resigned}}
+|- style="height:2em"
+!rowspan=2 |1928
+|rowspan=6 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=7 {{Party shading/Republican}} |[[Hal E. Hoss]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=died}}
+|- style="height:2em"
+!1929
+|rowspan=2 {{Party shading/Republican}} |28R, 2D
+|rowspan=2 {{Party shading/Republican}} |58R, 2D
+|- style="height:2em"
+!1930
+|{{Party shading/Republican}} |[[Albin Walter Norblad Sr.|A. W. Norblad]] {{small|(R)}}{{efn |name=assumed}}
+|- style="height:2em"
+!rowspan=2 |1931
+|rowspan=5 {{Party shading/Independent}} |[[Julius Meier]] {{small|(I)}}
+|rowspan=3 {{Party shading/Republican}} |29R, 1D
+|rowspan=3 {{Party shading/Republican}} |53R, 7D
+|rowspan=3 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+|rowspan=11 {{Party shading/Republican}} |[[Rufus C. Holman]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=resigned}}
+|- style="height:2em"
+!1932
+|rowspan=11 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=2 {{Party shading/Republican}} |22R, 8D
+|rowspan=2 {{Party shading/Republican}} |42R, 17D, 1I
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1934
+|{{Party shading/Republican}} |[[Peter J. Stadelman]] {{small|(R)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1935
+|rowspan=7 {{Party shading/Democratic}} |[[Charles Martin (Oregon politician)|Charles Martin]] {{small|(D)}}
+|rowspan=11 {{Party shading/Republican}} |[[Earl Snell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=2 {{Party shading/Democratic}} |38D, 22R
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!rowspan=2 |1937
+|rowspan=5 {{Party shading/Republican}} |18R, 12D
+|rowspan=5 {{Party shading/Democratic}} |38D, 21R, 1I
+|rowspan=5 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+|rowspan=8 {{Party shading/Democratic}} |[[Rex Putnam]] {{small|(D)}}{{efn |name=appelec}}
+|- style="height:2em"
+!rowspan=3 |1938
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Alfred E. Reames]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Alexander G. Barry]] {{small|(R)}}
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Republican}} |[[Charles A. Sprague]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Walter E. Pearson]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=2 {{Party shading/Republican}} |22R, 8D
+|rowspan=2 {{Party shading/Republican}} |46R, 13D, 1I
+|rowspan=7 {{Party shading/Republican}} |[[Rufus C. Holman]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=10 {{Party shading/Republican}} |[[Leslie M. Scott]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |25R, 5D
+|rowspan=2 {{Party shading/Republican}} |38R, 22D
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=6 {{Party shading/Republican}} |[[Earl Snell]] {{small|(R)}}{{efn |name=crash|Killed in the [[1947 Oregon Beechcraft Bonanza crash]].}}
+|rowspan=6 {{Party shading/Republican}} |[[Robert S. Farrell Jr.]] {{small|(R)}}{{efn |name=crash}}
+|rowspan=14 {{Party shading/Republican}} |[[W. E. Kimsey]] {{small|(R)}}
+|rowspan=21 {{Party shading/Nonpartisan}} |Rex Putnam {{small|(NP/D)}}{{efn |Office converted from partisan to nonpartisan by the Legislative Assembly, effective with the 1942 election.}}{{efn |name=resigned}}
+|rowspan=3 {{Party shading/Republican}} |27R, 3D
+|rowspan=3 {{Party shading/Republican}} |51R, 9D
+|rowspan=14 {{Party shading/Republican}} |4R
+|- style="height:2em"
+!rowspan=2 |1944
+|rowspan=11 {{Party shading/Republican}} |[[George Neuner]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=6 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=12 {{Party shading/Republican}} |[[Guy Cordon]] {{small|(R)}}{{efn |name=appelec}}
+|- style="height:2em"
+!1945
+|rowspan=5 {{Party shading/Republican}} |25R, 5D
+|rowspan=2 {{Party shading/Republican}} |50R, 10D
+|rowspan=9 {{Party shading/Republican}} |[[Wayne Morse]] {{small|(R)}}
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!rowspan=2 |1947
+|rowspan=3 {{Party shading/Republican}} |58R, 2D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[John Hubert Hall]] {{small|(R)}}{{efn |name=assumed}}
+|rowspan=10 {{Party shading/Republican}} |[[Earl T. Newbry]] {{small|(R)}}{{efn |name=appelec}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[Earl Warren|Warren]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Republican}} |[[Douglas McKay]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=4 {{Party shading/Democratic}} |[[Walter J. Pearson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 10D
+|rowspan=4 {{Party shading/Republican}} |51R, 9D
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Republican}} |21R, 9D
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=3 {{Party shading/Republican}} |[[Paul L. Patterson]] {{small|(R)}}{{efn |name=asselec|Assumed office following the death or resignation of predecessor, and subsequently elected in his or her own right.}}{{efn |name=died}}
+|rowspan=20 {{Party shading/Democratic}} |[[Robert Y. Thornton]] {{small|(D)}}
+|rowspan=7 {{Party shading/Republican}} |[[Sig Unander]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Republican}} |26R, 4D
+|rowspan=2 {{Party shading/Republican}} |49R, 11D
+|rowspan=2 {{Party shading/Independent (United States)}} |[[Wayne Morse]] {{small|(I)}}{{efn |Changed party affiliation from Republican to Independent in 1952.}}
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=25 {{Party shading/Democratic}} |[[Norman O. Nilsen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 6D
+|rowspan=2 {{Party shading/Republican}} |35R, 25D
+|rowspan=6 {{Party shading/Democratic}} |[[Richard L. Neuberger]] {{small|(D)}}{{efn |name=died}}
+|rowspan=18 {{Party shading/Democratic}} |[[Wayne Morse]] {{small|(D)}}{{efn |Changed party affiliation from Independent to Democratic in 1955.}}
+|rowspan=2 {{Party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!1956
+|{{Party shading/Republican}} |[[Elmo Smith]] {{small|(R)}}{{efn |name=assumed}}
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Democratic}} |[[Robert D. Holmes]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Mark Hatfield]] {{small|(R)}}{{efn |name=resgov|Resigned after election as governor.}}
+|rowspan=2 {{Party shading/Tie}} |15D, 15R{{efn |After 11 days of tied votes over organization of the chamber, one the twelfth day the two parties elected Democrat Boyd Overhulse as President, and organized the chamber on a bipartisan basis.<ref>{{Cite web|title=The Times November 9 Page 3|url=http://tbv.stparchive.com/Archive/TBV/TBV11091978P03.php|access-date=2021-06-24|website=tbv.stparchive.com}}</ref><ref>{{Cite web|title=Eugene Register-Guard - Google News Archive Search|url=https://news.google.com/newspapers?nid=1310&dat=19760425&id=GKhVAAAAIBAJ&sjid=_OADAAAAIBAJ&pg=4978,6626799&hl=en|access-date=2021-06-24|website=news.google.com}}</ref><ref>{{Cite web|last=Matheny|first=Susan|title=Overhulse documents donated to museum|url=https://pamplinmedia.com/msp/131-features/232993-96960-overhulse-documents-donated-to-museum|access-date=2021-06-24|website=pamplinmedia.com|language=en-us}}</ref>}}
+|rowspan=2 {{Party shading/Democratic}} |37D, 23R
+|rowspan=5 {{Party shading/Democratic}} |3D, 1R
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=9 {{Party shading/Republican}} |[[Mark Hatfield]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Howell Appling Jr.]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=3 {{Party shading/Democratic}} |19D, 11R
+|rowspan=3 {{Party shading/Democratic}} |33D, 27R
+|- style="height:2em"
+!rowspan=2 |1960
+|rowspan=6 {{Party shading/Republican}} |[[Howard Belton]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=5 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Hall S. Lusk]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1961
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Leon P. Minear]] {{small|(NP)}}{{efn |name=appelec}}{{efn |No election for Superintendent of Public Instruction held in 1962, due to legislative statute making the office appointive. Elections resumed in 1966 after the [[Oregon Supreme Court]] overturned the statute in 1965.}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 10R
+|rowspan=4 {{Party shading/Democratic}} |31D, 29R
+|rowspan=6 {{Party shading/Democratic}} |[[Maurine Neuberger]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |2D, 2R
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Democratic}} |21D, 9R
+|rowspan=4 {{Party shading/Democratic}} |3D, 1R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Republican}} |[[Tom McCall]] {{small|(R)}}{{efn |name=resgov}}
+|rowspan=11 {{Party shading/Democratic}} |[[Robert W. Straub]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |19D, 11R
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=12 {{Party shading/Republican}} |[[Tom McCall]] {{small|(R)}}
+|rowspan=14 {{Party shading/Republican}} |[[H. Clay Myers Jr.]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=7 {{Party shading/Republican}} |38R, 22D
+|rowspan=39 {{Party shading/Republican}} |[[Mark Hatfield]] {{small|(R)}}
+|rowspan=12 {{Party shading/Tie}} |2D, 2R
+|- style="height:2em"
+!rowspan=3 |1968
+|rowspan=12 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Nonpartisan}} |[[Jesse V. Fasold]] {{small|(NP)}}{{efn |name=appointed}}{{efn |name=resigned}}
+|- style="height:2em"
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Dale Parnell]] {{small|(NP)}}{{efn |name=appelec}}{{efn |name=resigned}}
+|- style="height:2em"
+!rowspan=2 |1969
+|rowspan=5 {{Party shading/Democratic}} |16D, 14R
+|- style="height:2em"
+|rowspan=9 {{Party shading/Republican}} |[[Lee Johnson (Oregon judge)|Lee Johnson]] {{small|(R)}}
+|rowspan=33 {{Party shading/Republican}} |[[Bob Packwood]] {{small|(R)}}{{efn |name=resigned}}
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=2 {{Party shading/Republican}} |34R, 26D
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=5 {{Party shading/Democratic}} |[[James A. Redden]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |18D, 12R
+|rowspan=3 {{Party shading/Democratic}} |33D, 27R
+|- style="height:2em"
+!rowspan=2 |1974
+|- style="height:2em"
+|{{Party shading/Nonpartisan}} |Jesse V. Fasold {{small|(NP)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1975
+|rowspan=4 {{Party shading/Democratic}} |[[Robert W. Straub]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Bill Stevenson (politician)|Bill Stevenson]] {{small|(D)}}
+|rowspan=18 {{Party shading/Nonpartisan}} |[[Verne Duncan]] {{small|(NP)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 7R, 1I
+|rowspan=2 {{Party shading/Democratic}} |38D, 22R
+|rowspan=7 {{Party shading/Democratic}} |4D
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1977
+|rowspan=10 {{Party shading/Republican}} |[[Norma Paulus]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |James Redden {{small|(D)}}{{efn |name=resigned}}
+|rowspan=9 {{Party shading/Republican}} |[[H. Clay Myers Jr.]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |24D, 6R{{efn |The Independent from the 1975 session switched their party affiliation to Democratic.}}
+|rowspan=2 {{Party shading/Democratic}} |37D, 23R
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=10 {{Party shading/Republican}} |[[Victor Atiyeh]] {{small|(R)}}
+|rowspan=20 {{Party shading/Democratic}} |[[Mary Wendy Roberts]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |23D, 7R
+|rowspan=3 {{Party shading/Democratic}} |34D, 26R
+|- style="height:2em"
+!rowspan=2 |1980
+|rowspan=11 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[James M. Brown (attorney)|James M. Brown]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1981
+|rowspan=14 {{Party shading/Republican}} |[[David B. Frohnmayer]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 8R
+|rowspan=2 {{Party shading/Democratic}} |33D, 27R
+|rowspan=2 {{Party shading/Democratic}} |3D, 1R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=3 {{Party shading/Democratic}} |21D, 9R
+|rowspan=3 {{Party shading/Democratic}} |36D, 24R
+|rowspan=11 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!rowspan=2 |1984
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Bill Rutherford (politician)|Bill Rutherford]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=resigned}}
+|- style="height:2em"
+!1985
+|rowspan=8 {{Party shading/Democratic}} |[[Barbara Roberts]] {{small|(D)}}{{efn |name=resgov}}
+|rowspan=3 {{Party shading/Democratic}} |18D, 12R
+|rowspan=3 {{Party shading/Democratic}} |34D, 26R
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!rowspan=2 |1987
+|rowspan=6 {{Party shading/Democratic}} |[[Neil Goldschmidt]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=7 {{Party shading/Republican}} |[[Tony Meeker]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 13R
+|rowspan=2 {{Party shading/Democratic}} |31D, 29R
+|- style="height:2em"
+!1988
+|rowspan=5 {{Party shading/Democratic}} |[[Michael Dukakis|Dukakis]]/<br>[[Lloyd Bentsen|Bentsen]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1989
+|rowspan=3 {{Party shading/Democratic}} |19D, 11R
+|rowspan=3 {{Party shading/Democratic}} |32D, 28R
+|- style="height:2em"
+!rowspan=2 |1990
+|{{Party shading/Nonpartisan}} |[[John Erickson (Oregon politician)|John Erickson]] {{small|(NP)}}{{efn |name=appointed}}{{efn |name=resigned}}
+|- style="height:2em"
+|rowspan=10 {{Party shading/Nonpartisan}} |Norma Paulus {{small|(NP/R)}}{{efn |name=elecapp}}
+|- style="height:2em"
+!1991
+|rowspan=4 {{Party shading/Democratic}} |[[Barbara Roberts]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Phil Keisling]] {{small|(D)}}{{efn |name=appelec}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 10R
+|rowspan=2 {{Party shading/Republican}} |31R, 29D
+|rowspan=4 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!1992
+|{{Party shading/Republican}} |[[Charles Crookham]] {{small|(R)}}{{efn |name=appointed}}
+|rowspan=9 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=5 {{Party shading/Democratic}} |[[Ted Kulongoski]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Jim Hill (Oregon politician)|Jim Hill]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |16D, 14R
+|rowspan=2 {{Party shading/Republican}} |32R, 28D
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=9 {{Party shading/Democratic}} |[[John Kitzhaber]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican}} |[[Jack Roberts (politician)|Jack Roberts]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |19R, 11D
+|rowspan=3 {{Party shading/Republican}} |33R, 27D
+|rowspan=3 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!rowspan=2 |1996
+|- style="height:2em"
+|rowspan=35 {{Party shading/Democratic/current}} |[[Ron Wyden]] {{small|(D)}}{{efn |Initially elected in special election.}}
+|- style="height:2em"
+!1997
+|rowspan=13 {{Party shading/Democratic}} |[[Hardy Myers]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 10D
+|rowspan=2 {{Party shading/Republican}} |31R, 29D
+|rowspan=13 {{Party shading/Republican}} |[[Gordon H. Smith|Gordon Smith]] {{small|(R)}}
+|rowspan=29 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=4 {{Party shading/Nonpartisan}} |Jack Roberts {{small|(NP/R)}}{{efn |Office converted from partisan to nonpartisan by the 1995 Legislative Assembly.}}
+|rowspan=4 {{Party shading/Nonpartisan}} |[[Stan Bunn]] {{small|(NP/R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=2 {{Party shading/Republican}} |34R, 25D, 1I
+|- style="height:2em"
+!2000
+|rowspan=10 {{Party shading/Democratic}} |[[Bill Bradbury]] {{small|(D)}}{{efn |name=appelec}}
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2001
+|rowspan=9 {{Party shading/Democratic}} |[[Randall Edwards (politician)|Randall Edwards]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 14D
+|rowspan=2 {{Party shading/Republican}} |32R, 27D, 1I
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=9 {{Party shading/Democratic}} |[[Ted Kulongoski]] {{small|(D)}}
+|rowspan=6 {{Party shading/Nonpartisan}} |[[Dan Gardner (politician)|Dan Gardner]] {{small|(NP/D)}}{{efn |name=resigned}}
+|rowspan=10 {{Party shading/Nonpartisan}} |[[Susan Castillo]] {{small|(NP/D)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Tie}} |15D, 15R{{efn |A power-sharing agreement was negotiated, with Democrats choosing [[Peter Courtney]] to be the president, Republicans choosing [[Lenn Hannon]] as president pro tempore, and all committees and chairmanships split evenly between the parties.}}
+|rowspan=2 {{Party shading/Republican}} |35R, 25D
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry|Kerry]]/<br>[[John Edwards|Edwards]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Democratic}} |17D, 11R
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|- style="height:2em"
+![[2006 Oregon elections|2006]]
+|- style="height:2em"
+!2007
+|rowspan=3 {{Party shading/Democratic}} |19D, 11R
+|rowspan=3 {{Party shading/Democratic}} |31D, 29R
+|- style="height:2em"
+!rowspan=2 |[[2008 Oregon elections|2008]]
+|rowspan=10 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=12 {{Party shading/Nonpartisan}} |[[Brad Avakian]] {{small|(NP/D)}}{{efn |name=appelec}}
+|- style="height:2em"
+!2009
+|rowspan=7 {{Party shading/Democratic}} |[[Kate Brown]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[John Kroger]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Ben Westlund]] {{small|(D)}}{{efn |name=died}}<ref name="Mapes">{{cite news|url=http://www.oregonlive.com/politics/index.ssf/2010/03/ted_wheeler_to_become_oregon_t.html|title=Governor Ted Kulongoski names Ted Wheeler as next Oregon treasurer|date=March 9, 2010|last=Mapes|first=Jeff|work=[[The Oregonian]]|access-date=March 9, 2010}}</ref>
+|rowspan=2 {{Party shading/Democratic}} |18D, 12R
+|rowspan=2 {{Party shading/Democratic}} |36D, 24R
+|rowspan=21 {{Party shading/Democratic/current}} |[[Jeff Merkley]] {{small|(D)}}
+|- style="height:2em"
+![[2010 Oregon elections|2010]]
+|rowspan=8 {{Party shading/Democratic}} |[[Ted Wheeler]] {{small|(D)}}{{efn |name=appelec}}<ref name="Mapes"/>
+|- style="height:2em"
+!2011
+|rowspan=5 {{party shading/Democratic}} |[[John Kitzhaber]] {{small|(D)}}{{efn |Won re-election to fourth term in 2014 but resigned on February 13, 2015 effective February 18, 2015.}}
+|rowspan=4 {{party shading/Democratic}} |16D, 14R
+|rowspan=2 {{Party shading/Tie}} |30D, 30R{{efn |A power-sharing agreement was negotiated, with Democrats choosing [[Arnie Roblan]] to be their Co-Speaker, Republicans choosing [[Bruce Hanna]] as their Co-Speaker, and all committees and chairmanships split evenly between the parties.}}
+|- style="height:2em"
+![[2012 Oregon elections|2012]]
+|rowspan=15 {{party shading/Democratic}} |[[Ellen Rosenblum]] {{small|(D)}}{{efn |name=appelec}}<ref>{{cite news|url=http://www.oregonlive.com/politics/index.ssf/2012/06/oregon_gov_john_kitzhaber_name_2.html|title=Oregon Gov. John Kitzhaber names Ellen Rosenblum as interim attorney general|date=June 6, 2012|last=Cole|first=Michelle|work=The Oregonian}}</ref>
+|rowspan=18 style="background:#C3B091" |{{efn |Elected position eliminated by state law. Governor serves as Superintendent and appoints a deputy to oversee the duties of the office.<ref>{{cite web|url=http://www.leg.state.or.us/11reg/measures/sb0500.dir/sb0552.en.html|title=Senate Bill 552 (text): Relating to Superintendent of Public Instruction|publisher=Oregon Legislative Assembly|access-date=June 28, 2011|archive-url=https://web.archive.org/web/20110914030049/http://www.leg.state.or.us/11reg/measures/sb0500.dir/sb0552.en.html|archive-date=September 14, 2011|url-status=dead}}</ref>}}
+|- style="height:2em"
+!2013
+|rowspan=2 {{party shading/Democratic}} |34D, 26R
+|- style="height:2em"
+![[2014 Oregon elections|2014]]
+|- style="height:2em"
+!rowspan=2 |2015
+|rowspan=3 {{party shading/Democratic}} |18D, 12R
+|rowspan=5 {{party shading/Democratic}} |35D, 25R
+|- style="height:2em"
+|rowspan=9 {{party shading/Democratic}} |[[Kate Brown]] {{small|(D)}}{{efn |name=assumed}}
+|rowspan=2 {{party shading/Democratic}} |[[Jeanne Atkins]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+![[2016 Oregon elections|2016]]
+|rowspan=5 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|rowspan=3 {{Party shading/Republican}} |[[Dennis Richardson (politician)|Dennis Richardson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=9 {{Party shading/Democratic}} |[[Tobias Read]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |17D, 13R
+|- style="height:2em"
+![[2018 Oregon elections|2018]]
+|- style="height:2em"
+!rowspan=2 |2019
+|rowspan=5 {{Party shading/Nonpartisan}} |[[Val Hoyle]] {{small|(NP/D)}}<ref>{{Cite web|url=https://sos.oregon.gov/elections/Documents/results/november-2018-official-results.pdf|title=2018 Oregon Election Results}}</ref>
+|rowspan=3 {{party shading/Democratic}} |18D, 12R
+|rowspan=3 {{party shading/Democratic}} |38D, 22R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Bev Clarno]] {{small|(R)}}{{efn |name=appointed}}<ref>{{Cite web|title=Bev Clarno, Former House Speaker, Will Be Oregon's Next Secretary Of State|url=https://www.opb.org/news/article/oregon-secretary-of-state-bev-clarno-dennis-richardson/|access-date=2021-06-24|website=opb|language=en}}</ref>
+|- style="height:2em"
+![[2020 Oregon elections|2020]]
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=2 {{party shading/Democratic}} |[[Shemia Fagan]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=2 {{party shading/Democratic}} |18D, 11R, 1I{{efn |Sen. [[Brian Boquist]] left the Republican Party on registered as a member of the [[Independent Party of Oregon]].}}
+|rowspan=2 {{party shading/Democratic}} |37D, 23R
+|- style="height:2em"
+![[2022 Oregon elections|2022]]
+|-
+!2023
+|rowspan=5 {{Party shading/Democratic/current}} |[[Tina Kotek]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[LaVonne Griffin-Valade]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=6 {{Party shading/Nonpartisan/current}} |[[Christina Stephenson]] {{small|(NP/D)}}
+|rowspan=1 {{Party shading/Democratic}} |17D, 12R, 1I
+|rowspan=1 {{Party shading/Democratic}} |35D, 25R
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+![[2024 Oregon elections|2024]]
+|rowspan=1 {{Party shading/Democratic}} |17D, 13R{{efn |Senator [[Brian Boquist]] left the [[Independent Party of Oregon]], re-registering as a Republican and re-joining the Republican caucus.}}
+|rowspan=1 {{Party shading/Democratic}} |35D, 24R, 1I{{efn |Representative [[Charlie Conrad]] left the Republican Party on June 20, 2024 and registered as a member of the [[Independent Party of Oregon]].}}
+|rowspan=6 {{Party shading/Democratic}} |[[Kamala Harris|Harris]]/<br>[[Tim Walz|Walz]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |2025
+|rowspan=3 {{Party shading/Democratic/current}} |[[Tobias Read]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic/current}} |[[Dan Rayfield]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic/current}} |[[Elizabeth Steiner]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic/current}} |18D, 12R
+|{{Party shading/Democratic}} |36D, 24R
+|rowspan=3 {{Party shading/Democratic/current}} |5D, 1R
+|-
+|rowspan=2 {{Party shading/Democratic/current}} |37D, 23R{{efn |Representative [[Cyrus Javadi]] left the Republican Party on September 5, 2025 and registered as a member of the [[Democratic Party of Oregon]].}}
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+
+==See also==
+*[[Oregon#Politics|Politics in Oregon]]
+*[[Politics of Oregon]]
+*[[Elections in Oregon]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Oregon}}
+[[Category:Politics of Oregon]]
+[[Category:Political party strength in the United States by state|Oregon]]

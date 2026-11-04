@@ -1,0 +1,61 @@
+0 | 1 |  | John Allen Campbell | 1869-04-07 | 1875-02-10 | {{sortname|Ulysses S.|Grant}} | None
+0 | 2 |  | John Milton Thayer | 1875-02-10 | 1878-04-10 | {{sortname|Ulysses S.|Grant}} | None
+0 | 3 |  | John Wesley Hoyt | 1878-04-10 | 1882-08-03 | {{sortname|Rutherford B.|Hayes}} | None
+0 | 4 |  | William Hale | 1882-08-03 | 1885-01-13 | {{sortname|Chester A.|Arthur}} | None
+0 | 5 |  | Francis E. Warren | 1885-02-27 | 1886-11-11 | {{sortname|Chester A.|Arthur}} | None
+0 | 6 |  | George W. Baxter | 1886-11-11 | 1886-12-20 | {{sortname|Grover|Cleveland}} | None
+0 | 7 |  | Thomas Moonlight | 1886-12-20 | 1889-04-09 | {{sortname|Grover|Cleveland}} | None
+0 | 8 |  | Francis E. Warren | 1889-04-09 | 1890-10-11 | {{sortname|Benjamin|Harrison}} | None
+1 | 1 |  | Francis E. Warren | 1890-10-11 | 1890-11-24 | Republican | Represented the Democratic Party
+1 | 2 | ACT | Amos W. Barber | 1890-11-24 | 1893-01-02 | Republican | None
+1 | 3 |  | John Eugene Osborne | 1893-01-02 | 1895-01-07 | Democratic | Represented the Democratic Party
+1 | 4 |  | William A. Richards | 1895-01-07 | 1899-01-02 | Republican | Represented the Democratic Party
+1 | 5 |  | DeForest Richards | 1899-01-02 | 1903-04-28 | Republican | None
+1 | 6 | ACT | Fenimore Chatterton | 1903-04-28 | 1905-01-02 | Republican | None
+1 | 7 |  | Bryant Butler Brooks | 1905-01-02 | 1911-01-02 | Republican | None
+1 | 8 |  | Joseph M. Carey | 1911-01-02 | 1915-01-04 | Democratic | Represented the Democratic Party
+1 | 9 |  | John B. Kendrick | 1915-01-04 | 1917-02-24 | Democratic | None
+1 | 10 | ACT | Frank L. Houx | 1917-02-24 | 1919-01-06 | Democratic | None
+1 | 11 |  | Robert D. Carey | 1919-01-06 | 1923-01-01 | Republican | Represented the Democratic Party
+1 | 12 |  | William B. Ross | 1923-01-01 | 1924-10-02 | Democratic | Represented the Democratic Party
+1 | 13 | ACT | Frank Lucas | 1924-10-02 | 1925-01-05 | Republican | Represented the Democratic Party
+1 | 14 |  | Nellie Tayloe Ross | 1925-01-05 | 1927-01-03 | Democratic | Represented the Democratic Party
+1 | 15 |  | Frank Emerson | 1927-01-03 | 1931-02-18 | Republican | Represented the Democratic Party
+1 | 16 | ACT | Alonzo M. Clark | 1931-02-18 | 1933-01-02 | Republican | None
+1 | 17 |  | Leslie A. Miller | 1933-01-02 | 1939-01-02 | Democratic | Represented the Democratic Party
+1 | 18 |  | Nels H. Smith | 1939-01-02 | 1943-01-04 | Republican | Represented the Democratic Party
+1 | 19 |  | Lester C. Hunt | 1943-01-04 | 1949-01-03 | Democratic | Represented the Democratic Party
+1 | 20 | ACT | Arthur G. Crane | 1949-01-03 | 1951-01-01 | Republican | Represented the Democratic Party
+1 | 21 |  | Frank A. Barrett | 1951-01-01 | 1953-01-03 | Republican | None
+1 | 22 | ACT | Clifford Joy Rogers | 1953-01-03 | 1955-01-03 | Republican | None
+1 | 23 |  | Milward Simpson | 1955-01-03 | 1959-01-05 | Republican | None
+1 | 24 |  | Joe Hickey | 1959-01-05 | 1961-01-02 | Democratic | Represented the Democratic Party
+1 | 25 | ACT | Jack R. Gage | 1961-01-02 | 1963-01-07 | Democratic | None
+1 | 26 |  | Clifford Hansen | 1963-01-07 | 1967-01-02 | Republican | Represented the Democratic Party
+1 | 27 |  | Stanley K. Hathaway | 1967-01-02 | 1975-01-06 | Republican | None
+1 | 28 |  | Edgar Herschler | 1975-01-06 | 1987-01-05 | Democratic | Represented the Democratic Party
+1 | 29 |  | Mike Sullivan | 1987-01-05 | 1995-01-02 | Democratic | Represented the Democratic Party
+1 | 30 |  | Jim Geringer | 1995-01-02 | 2003-01-06 | Republican | Represented the Democratic Party
+1 | 31 |  | Dave Freudenthal | 2003-01-06 | 2011-01-03 | Democratic | Represented the Democratic Party
+1 | 32 |  | Matt Mead | 2011-01-03 | 2019-01-07 | Republican | Represented the Democratic Party
+1 | 33 |  | Mark Gordon | 2019-01-07 | None | Republican | None
+1 | ''34'' |  | Eric Barlow | None | None | None | None
+3 | 1950 |  | Frank A. Barrett | None | None | None | None
+3 | 1954 |  | Milward Simpson | None | None | None | None
+3 | 1958 |  | John J. Hickey | None | None | None | None
+3 | 1962 |  | Clifford Hansen | None | None | None | None
+3 | 1966 |  | Stanley Hathaway | None | None | None | None
+3 | 1970 |  | Stanley Hathaway | None | None | None | None
+3 | 1974 |  | Edgar Herschler | None | None | None | None
+3 | 1978 |  | Edgar Herschler | None | None | None | None
+3 | 1982 |  | Edgar Herschler | None | None | None | None
+3 | 1986 |  | Mike Sullivan | None | None | None | None
+3 | 1990 |  | Mike Sullivan | None | None | None | None
+3 | 1994 |  | Jim Geringer | None | None | None | None
+3 | 1998 |  | Jim Geringer | None | None | None | None
+3 | 2002 |  | Dave Freudenthal | None | None | None | None
+3 | 2006 |  | Dave Freudenthal | None | None | None | None
+3 | 2010 |  | Matt Mead | None | None | None | None
+3 | 2014 |  | Matt Mead | None | None | None | None
+3 | 2018 |  | Mark Gordon | None | None | None | None
+3 | 2022 |  | Mark Gordon | None | None | None | None

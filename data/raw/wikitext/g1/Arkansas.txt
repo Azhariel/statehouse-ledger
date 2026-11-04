@@ -1,0 +1,847 @@
+{{Short description|None}}
+{{Use mdy dates|date=June 2018}}
+{{Use American English|date=June 2018}}
+{{Infobox official post
+| post = Governor
+| body = Arkansas
+| flag = Flag of Arkansas.svg
+| flag_size = 160px
+| flag_caption = [[Flag of Arkansas]]
+| insignia = Seal of Arkansas.svg
+| insignia_size = 110px
+| insignia_caption = [[Seal of Arkansas]]
+| image = Governor Sarah Huckabee Sanders (cropped).jpg
+| image_size = 200px
+| incumbent = [[Sarah Huckabee Sanders]]
+| incumbent_since = {{Start date|2023|1|10}}
+| style = {{ublist|[[Governor]]<br />(informal)|[[The Honourable#United States of America|The Honorable]]<br />(formal)}}
+| department = [[Government of Arkansas]]
+| status = [[Head of government]]
+| residence = [[Arkansas Governor's Mansion]]
+| seat = [[Arkansas State Capitol|State Capitol]], [[Little Rock, Arkansas]]
+| term_length = Four years, renewable once
+| constituting_instrument = [[Constitution of Arkansas]]
+| precursor = Governor of [[Arkansas Territory]]
+| inaugural = [[James Sevier Conway]]
+| formation = {{start date and age|1836|9|13|p=1|br=1}}
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Arkansas|Line of succession]]
+| deputy = [[Lieutenant Governor of Arkansas]]
+| salary = $158,739 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 10, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+| website = {{URL|governor.arkansas.gov}}
+}}
+
+The '''governor of Arkansas''' is the [[head of government]] of the [[U.S. state]] of [[Arkansas]]. The [[Governor (United States)|governor]] is the head of the [[Executive (government)|executive branch]] of the [[Government of Arkansas|Arkansas government]] and is charged with enforcing state laws. They have the power to either approve or veto bills passed by the [[Arkansas General Assembly]], to convene the legislature, and to grant pardons, except in cases of treason and impeachment.{{sfn|Ark. Const.|loc=art. VI}}
+
+The state has had 46 elected governors, as well as 11 acting governors who assumed powers and duties following the resignation or death of the governor. Before becoming a state, [[Arkansas Territory]] had four governors appointed to it by the [[president of the United States]]. [[Orval Faubus]] (1955–1967) served the longest term as governor, being elected six times to serve 12 years. [[Bill Clinton]] (1979–1981; 1983–1992), elected five times over two distinct terms, fell only one month short of 12 years, and [[Mike Huckabee]] (1996–2007) served 10 years for two full four-year terms. The shortest term for an elected governor was the 38 days served by [[John S. Little]] before his [[Mental disorder|nervous breakdown]]; one of the acting successors to his term, [[Jesse M. Martin]], took office only three days before the end of the term, the shortest term overall.
+
+The current governor of Arkansas is [[Republican Party of Arkansas|Republican]] [[Sarah Huckabee Sanders]], who was sworn in on January 10, 2023.
+
+==List of governors==
+===Arkansas Territory===
+[[Arkansas Territory|Arkansaw Territory]] (renamed Arkansas Territory around 1822) was split from [[Missouri Territory]] on July 4, 1819.<ref>{{usstat|3|493}}</ref> As territorial secretary from 1819 to 1829, [[Robert Crittenden]] served as [[acting governor]] whenever the appointed governor was not in the state. This meant that Crittenden was the first person to perform the duties of governor, since [[James Miller (general)|James Miller]] did not arrive in the territory until nine months after his appointment.<ref name="eoa-crittenden">{{Cite web |last=Bird |first=Allen W. |date=September 16, 2026 |title=Robert Crittenden (1797–1834) |url=https://encyclopediaofarkansas.net/entries/robert-crittenden-2270/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917131915/https://encyclopediaofarkansas.net/entries/robert-crittenden-2270/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Arkansas
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Miller, James"|[[File:AR Miller James.jpg|75px]]
+|'''[[James Miller (general)|James Miller]]'''<br>{{Small|(1776–1851)}}<br>{{sfn|McMullin|1984|pp=57–59}}<ref name="eoa-miller-james">{{Cite web |last=Clements |first=Derek Allen |date=April 1, 2026 |title=James Miller (1776–1851) |url=https://encyclopediaofarkansas.net/entries/james-miller-2872/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260710103329/https://encyclopediaofarkansas.net/entries/james-miller-2872/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="2127"|March 3, 1819{{efn|Miller was nominated, and confirmed by the Senate, on March 3, 1819.<ref>{{cite book |title=Senate Executive Journal, 15th Cong., 2nd sess. |author=United States Senate |page=184 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=188 |via=[[HathiTrust]]}}</ref> However, to avoid the hot southern summer, he delayed his departure from [[New Hampshire]] until September, and took an indirect route, finally arriving in the territory on December 26.<ref name="eoa-miller-james" /> [[Robert Crittenden]], secretary of the territory, served as acting governor while Miller was delayed.<ref name="eoa-crittenden" /> Miller was reconfirmed by the Senate on January 3, 1823.<ref>{{cite book |title=Senate Executive Journal, 17th Cong., 2nd sess. |author=United States Senate |page=318 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=318 |via=[[HathiTrust]]}}</ref>}}<br />–<br />December 27, 1824<br>{{small|(2127 days; resigned)}}{{efn|Miller resigned citing poor health; at the time of his resignation, he had been absent from the territory for 18 months.<ref>{{Cite journal |last=Ledbetter |first=Cal |date=1988 |title=General James Miller: Hawthorne's Hero in Arkansas |url=https://www.jstor.org/stable/40038144 |journal=The Arkansas Historical Quarterly |volume=47 |issue=2 |page=109 |doi=10.2307/40038144 |jstor=40038144 |issn=0004-1823 |url-access=subscription}}</ref>}}
+|{{sortname|James|Monroe}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Izard, George"|[[File:George Izard (EoArkansas).jpg|75px]]
+|rowspan="2"|'''[[George Izard]]'''<br>{{Small|(1776–1828)}}<br>{{sfn|McMullin|1984|pp=59–60}}<ref name="eoa-izard">{{Cite web |last=Goodner |first=Wes |date=May 7, 2026 |title=George Izard (1776–1828) |url=https://encyclopediaofarkansas.net/entries/george-izard-3662/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260829015349/https://encyclopediaofarkansas.net/entries/george-izard-3662/ |archive-date=August 29, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1361"|March 3, 1825{{efn|Izard was nominated on February 22, 1825,<ref>{{cite book |title=Senate Executive Journal, 18th Cong., 2nd sess. |author=United States Senate |page=416 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=416 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on March 3,<ref>{{cite book |title=Senate Executive Journal, 18th Cong., 2nd sess. |author=United States Senate |page=426 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=426 |via=[[HathiTrust]]}}</ref> and took office on May 31.{{sfn|McMullin|1984|p=60}} Until he arrived in the territory, [[Robert Crittenden]], secretary of the territory, served as acting governor, though Crittenden himself was out of state when Izard arrived.<ref name="eoa-izard" /> Izard was reconfirmed by the Senate on January 9, 1828.<ref>{{cite book |title=Senate Executive Journal, 20th Cong., 1st sess. |author=United States Senate |page=591 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=591 |via=[[HathiTrust]]}}</ref>}}<br />–<br />November 22, 1828<br>{{small|(1361 days; died in office)}}
+|{{sortname|James|Monroe}}
+|- style="height:2em;"
+|{{sortname|John Quincy|Adams}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Pope, John"|[[File:AR Pope John.jpg|75px]]
+|'''[[John Pope (Kentucky politician)|John Pope]]'''<br>{{Small|(1770–1845)}}<br>{{sfn|McMullin|1984|pp=61–62}}<ref name="eoa-pope">{{Cite web |last=Bender |first=Robert Patrick |date=November 2, 2023 |title=John Pope (1770–1845) |url=https://encyclopediaofarkansas.net/entries/john-pope-318/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260808160705/https://encyclopediaofarkansas.net/entries/john-pope-318/ |archive-date=August 8, 2026 |url-status=live}}</ref>
+|data-sort-value="2192"|March 9, 1829{{efn|By the time notice of Izard's death reached [[Washington, D.C.]], [[Andrew Jackson]] had been elected president, and the [[United States Senate]] refused to approve [[John Quincy Adams]]'s choice for governor, [[Hutchins Gordon Burton]], whom he had nominated on January 6, 1829.<ref>{{cite book |title=Senate Executive Journal, 20th Cong., 2nd sess. |author=United States Senate |page=630 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=630 |via=[[HathiTrust]]}}</ref> Pope was nominated, and confirmed by the Senate, on March 9, 1829,<ref>{{cite book |title=Senate Executive Journal, 21st Cong., special sess. |author=United States Senate |pages=8–9 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=14 |via=[[HathiTrust]]}}</ref> and took office on May 31.{{sfn|McMullin|1984|p=61}}<ref>{{Cite news |date=June 3, 1829 |title=none |quote=His Excellency John Pope, Governor of the Territory of Arkansas, arrived here on Sunday evening last, from Kentucky, and has entered on the discharge of the duties of his office. |page=3 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/the-arkansas-gazette-john-pope-takes-off/117679528/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925220704/https://www.newspapers.com/article/the-arkansas-gazette-john-pope-takes-off/117679528/ |archive-date=September 25, 2023 |url-status=live}}</ref> Pope was reconfirmed by the Senate on March 23, 1832.<ref>{{cite book |title=Senate Executive Journal, 22nd Cong., 1st sess. |author=United States Senate |page=231 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=237 |via=[[HathiTrust]]}}</ref>}}<br />–<br />March 9, 1835<br>{{small|(2192 days; replaced)}}
+|{{sortname|Andrew|Jackson}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Fulton, William"|[[File:WSFulton.jpg|75px]]
+|'''[[William S. Fulton]]'''<br>{{Small|(1795–1844)}}<br>{{sfn|McMullin|1984|pp=62–64}}<ref name="eoa-fulton">{{Cite web |last=Baker |first=Lea Flowers |date=September 2, 2026 |title=William Savin Fulton (1795–1844) |url=https://encyclopediaofarkansas.net/entries/william-savin-fulton-2653/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260907111457/https://encyclopediaofarkansas.net/entries/william-savin-fulton-2653/ |archive-date=September 7, 2026 |url-status=live}}</ref>
+|data-sort-value="555"|March 9, 1835{{efn|Fulton was nominated on February 2, 1835,<ref>{{cite book |title=Senate Executive Journal, 23rd Cong., 2nd sess. |author=United States Senate |page=464 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=470 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on February 23,<ref>{{cite book |title=Senate Executive Journal, 23rd Cong., 2nd sess. |author=United States Senate |page=471 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=477 |via=[[HathiTrust]]}}</ref> for a term to begin March 9. No contemporary reporting has been found as to when Fulton was sworn in, but one source refers to Pope saying his term would not end until March 28,<ref>{{Cite news |date=March 6, 1835 |title=none |quote=We are informed by Gov. Pope, that his term of office expires on the 23rd of the present month, and not on the 5th, as has been elsewhere stated. |page=2 |newspaper=Arkansas Advocate |url=https://www.newspapers.com/article/arkansas-times-and-advocate-fulton-nomin/117681401/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925220705/https://www.newspapers.com/article/arkansas-times-and-advocate-fulton-nomin/117681401/ |archive-date=September 25, 2023 |url-status=live}}</ref> and another notes Fulton's commission did not arrive until March 24,<ref>{{Cite news |date=March 24, 1835 |title=The New Governor and Secretary |page=3 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/the-arkansas-gazette-the-new-governor-an/117681641/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925223712/https://www.newspapers.com/article/the-arkansas-gazette-the-new-governor-an/117681641/ |archive-date=September 25, 2023 |url-status=live}}</ref> when he was out of state.<ref>{{Cite news |date=March 27, 1835 |title=none |quote=The nominations of Wm. S. Fulton and Lewis Randolph, as Governor and Secretary of this Territory, were confirmed by the Senate of the U.S. on the 23rd ult., and we believe the commission of Governor Fuilton has arrived. He is now absent from this place... |page=2 |newspaper=Arkansas Advocate |url=https://www.newspapers.com/article/arkansas-times-and-advocate-fultons-com/117681581/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925233722/https://www.newspapers.com/article/arkansas-times-and-advocate-fultons-com/117681581/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}<br />–<br />September 13, 1836<br>{{small|(555 days; statehood)}}{{efn|Fulton served as governor until statehood, when he was elected to the [[United States Senate]].<ref>{{CongBio|id=F000425|name=William Savin Fulton|inline=0}}</ref>}}
+|{{sortname|Andrew|Jackson}}
+|}
+
+===State of Arkansas===
+Arkansas was [[List of U.S. states by date of admission to the Union|admitted to the Union]] on June 15, 1836.<ref>{{usstat|5|50}}</ref> The state [[Secession|seceded]] on May 6, 1861,<ref>{{Cite web |title=Secession Ordinances of 13 Confederate States |url=http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |url-status=live |year=2018 |last1=Mintz |first1=S. |last2=McNeil |first2=S. |archive-url=https://web.archive.org/web/20150905091739/http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |archive-date=September 5, 2015 |access-date=October 10, 2026 |website=Digital History}}</ref> and was [[List of Confederate states by date of admission to the Confederacy|admitted to the Confederacy]] on May 21, 1861.<ref>{{cite book |url=https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t2t44fh2r&seq=142 |page=120 |title=The Statutes at Large of the Provisional Government of the Confederate States of America |editor-last=Matthews |editor-first=James M. |year=1864 |location=Richmond, Virginia |publisher=R.M. Smith |via=[[HathiTrust]]}}</ref> When [[Little Rock, Arkansas|Little Rock]], the state capital, was captured on September 10, 1863, the state government relocated to [[Washington, Arkansas]], and a [[Union (American Civil War)|Union]] government was installed in its place, causing an overlap in the terms of Confederate governor [[Harris Flanagin]] and Union governor [[Isaac Murphy]].<ref name="eoa-flanagin" /> During the post-war [[Reconstruction era|Reconstruction period]], it was part of the [[Fourth Military District]]. Arkansas was readmitted to the Union on June 22, 1868.<ref>{{usstat|15|72}}</ref>
+
+The [[Constitution of Arkansas#1836 Constitution|Arkansas Constitution of 1836]] established four-year terms for governors,{{sfn|Thorpe|1909|p=277|loc=1836 art. V, § 4}} which was lowered to two years in the 1874, and current, constitution.{{sfn|Thorpe|1909|p=341|loc=1874 art. VI, § 1}} An amendment in 1984 increased the terms of both governor and [[lieutenant governor]] to four years.{{sfn|Ark. Const.|loc=[https://50constitutions.org/ar/constitution/section-id-78355 amend. 63]}} Governors were originally limited only to serving no more than eight out of every twelve years,{{sfn|Thorpe|1909|p=277|loc=1836 art. V, § 4}} but the 1874 constitution removed any [[term limit]]. A referendum in 1992 limited governors to two terms.{{sfn|Ark. Const.|loc=[https://50constitutions.org/ar/constitution/section-id-84245 amend. 73]}}<ref>{{Cite news |last=Wickline |first=Michael R. |date=November 4, 2020 |title=2 issues on state ballot approved by voters |website=[[Arkansas Democrat-Gazette]] |url=https://www.arkansasonline.com/news/2020/nov/04/3-issues-on-state-ballot-approved-by-voters/ |archive-url=https://web.archive.org/web/20201104141421/https://www.arkansasonline.com/news/2020/nov/04/3-issues-on-state-ballot-approved-by-voters/ |archive-date=November 4, 2020 |url-status=live}}</ref>
+
+Until 1864, the constitutions provided that, should the office of governor be rendered vacant, the [[President of the Senate|president of the senate]] would serve as [[acting governor]] until such time as a new governor was elected or the disability removed, or the acting governor's senate term expired.{{sfn|Thorpe|1909|p=279|loc=1836 art. V, § 18}} This led to some situations where the governorship changed hands in quick succession, due to senate terms ending or new senate presidents being elected. For example, after [[John S. Little]] resigned in 1907, three senate presidents acted as governors before the next elected governor took office.
+
+The 1864 constitution created the office of lieutenant governor{{sfn|Thorpe|1909|p=298|loc=1864 art. VI, § 19}} who would serve as acting governor in case of vacancy.{{sfn|Thorpe|1909|p=298|loc=1864 art. VI, § 23}} The 1874 constitution removed the position and returned to the original line of succession.{{sfn|Thorpe|1909|p=342|loc=1874 art. VI, § 12}} An amendment to the constitution, passed in 1914 but not recognized until 1925,<ref name="ltgov" /> recreated the office of lieutenant governor, who becomes governor in case of vacancy of the governor's office.<ref>{{cite court |litigants=Bryant v. English |court=Arkansas Supreme Court |vol=311 |reporter=Ark. |opinion=187 |date=1992 |url=https://opinions.arcourts.gov/ark/supremecourt/en/item/247569/index.do |access-date=October 26, 2019}}</ref> The governor and the lieutenant governor are not officially elected on the same [[ticket (election)|ticket]].{{sfn|Blair|Barth|2005|p=169}}
+
+Arkansas was a strongly [[Democratic Party of Arkansas|Democratic]] state before the [[American Civil War|Civil War]], electing only candidates from the Democratic party. It elected three [[Republican Party of Arkansas|Republican]] governors following Reconstruction, but after the Democratic Party re-established control, 92 years passed before voters chose another Republican.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Arkansas
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|According to the numbering generally used, acting governors are not numbered.<ref name="eoa-governor">{{Cite web |title=Governor, Office of the |url=https://encyclopediaofarkansas.net/entries/office-of-the-governor-5676/ |access-date=October 10, 2025 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260902183622/https://encyclopediaofarkansas.net/entries/office-of-the-governor-5676/ |archive-date=September 2, 2026 |url-status=live}}</ref>}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Arkansas|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1864 and abolished in 1874. It was recreated in 1914, and was not filled until 1927. The amendment to the constitution creating the office{{sfn|Ark. Const.|loc=[https://50constitutions.org/ar/constitution/section-id-74348 amend. 6]}} was narrowly voted in by the electorate in 1914. The Speaker of the House declared that the measure had lost, because even though it had received the majority of the votes cast for that particular ballot measure, winning 45,567 to 45,206, it had not received the majority of votes cast across the whole election, determined by looking at the question on the ballot with the highest total number of votes for or against. On that ballot, this figure was 135,517 votes, so it was ruled that at least 67,758 votes in favor would have been required for the measure to pass, essentially counting blank votes as votes against. In 1925, it was discovered that a 1910 law amended this requirement such that only a majority of the votes on the specific question was required. Therefore, the 1914 initiative was declared to be valid.<ref name="ltgov">{{Cite web |title=History of Our Office |url=https://ltgovernor.arkansas.gov/meet-leslie-rutledge/about-our-office/ |archive-url=https://web.archive.org/web/20260814180116/https://ltgovernor.arkansas.gov/meet-leslie-rutledge/about-our-office/ |url-status=live |archive-date=August 14, 2026 |access-date=October 10, 2026 |website=Lieutenant Governor of Arkansas}}</ref>}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Conway, James"|[[File:AR Conway James Sevier.jpg|75px]]
+|rowspan="9" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[James Sevier Conway]]'''<br>{{Small|(1796–1855)}}<br>{{sfn|Sobel|1978|p=63}}<ref name="nga-conway-james">{{Cite web |title=James Sevier Conway |url=https://www.nga.org/governor/james-sevier-conway/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616120132/https://www.nga.org/governor/james-sevier-conway/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="eoa-conway-james">{{Cite web |last=William |first=C. Fred |date=September 16, 2026 |title=James Sevier Conway (1796–1855) |url=https://encyclopediaofarkansas.net/entries/james-sevier-conway-97/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917131823/https://encyclopediaofarkansas.net/entries/james-sevier-conway-97/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1514"|September 13, 1836<ref>{{Cite news |date=September 13, 1836 |title=Inauguration of the Governor |page=2 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/the-arkansas-gazette-conway-inaugurated/129216426/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731221733/https://www.newspapers.com/article/the-arkansas-gazette-conway-inaugurated/129216426/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />November 4, 1840<br />{{small|(1514 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Dubin|2003|p=9}}
+|[[1836 Arkansas gubernatorial election|1836]]
+|colspan="2" rowspan="13" style="background:#EEEEEE; color:inherit;"|''Office did not exist''
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Yell, Archibald"|[[File:Grand Master Archibald Yell.jpg|75px]]
+|'''[[Archibald Yell]]'''<br>{{Small|(1797–1847)}}<br>{{sfn|Sobel|1978|pp=63–64}}<ref name="nga-yell">{{Cite web |title=Archibald Yell |url=https://www.nga.org/governor/archibald-yell/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606072916/https://www.nga.org/governor/archibald-yell/ |archive-date=June 6, 2026 |url-status=live}}</ref><ref name="eoa-yell">{{Cite web |last=Dougan |first=Michael B. |date=June 26, 2024 |title=Archibald Yell (1797?–1847) |url=https://encyclopediaofarkansas.net/entries/archibald-yell-126/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260207045145/https://encyclopediaofarkansas.net/entries/archibald-yell-126/ |archive-date=February 7, 2026 |url-status=live}}</ref>
+|data-sort-value="1273"|November 4, 1840<ref>{{Cite news |date=November 11, 1840 |title=Public Meeting and Inauguration of the Governor |page=2 |newspaper=[[Arkansas Gazette|Arkansas State Gazette]] |url=https://www.newspapers.com/article/weekly-arkansas-gazette-yell-inaugurated/129217673/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731225015/https://www.newspapers.com/article/weekly-arkansas-gazette-yell-inaugurated/129217673/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />April 29, 1844<br />{{small|(1273 days; resigned)}}{{efn|Yell resigned to [[1844–45 United States House of Representatives elections|run successfully]] for the [[United States House of Representatives]].<ref name="nga-yell" />}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Dubin|2003|p=10}}
+|[[1840 Arkansas gubernatorial election|1840]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Adams, Samuel"|[[File:Samuel Adams (governor).jpg|75px]]
+|'''[[Samuel Adams (Arkansas politician)|Samuel Adams]]'''<br>{{Small|(1805–1850)}}<br>{{sfn|Sobel|1978|pp=64–65}}<ref name="nga-adams">{{Cite web |title=Samuel Adams |url=https://www.nga.org/governor/samuel-adams/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513223425/https://www.nga.org/governor/samuel-adams/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="eoa-adams">{{Cite web |last=Manning |first=Jaci |date=November 28, 2025 |title=Samuel Adams (1805–1850) |url=https://encyclopediaofarkansas.net/entries/samuel-adams-3703/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20251007112118/https://encyclopediaofarkansas.net/entries/samuel-adams-3703/ |archive-date=October 7, 2025 |url-status=live}}</ref>
+|data-sort-value="195"|April 29, 1844<ref>{{Cite news |date=May 1, 1844 |title=Governor's Resignation; Inauguration of Governor; Governor Adams |page=2 |newspaper=Arkansas Banner |url=https://www.newspapers.com/article/true-democrat-adams-succeeds-yell-april/129217754/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731221735/https://www.newspapers.com/article/true-democrat-adams-succeeds-yell-april/129217754/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />November 9, 1844<br />{{small|(195 days; retired)}}{{efn|Adams was instead elected [[Treasurer of Arkansas]].<ref name="eoa-adams" />}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=55}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Drew, Thomas"|[[File:Thomas Stevenson Drew - Gouverneur von Arkansas.jpg|75px]]
+|rowspan="2"|'''[[Thomas S. Drew]]'''<br>{{Small|(1802–1879)}}<br>{{sfn|Sobel|1978|p=65}}<ref name="nga-drew">{{Cite web |title=Thomas Stevenson Drew |url=https://www.nga.org/governor/thomas-stevenson-drew/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260315225909/https://www.nga.org/governor/thomas-stevenson-drew/ |archive-date=March 15, 2026 |url-status=live}}</ref><ref name="eoa-drew">{{Cite web |last=Roberts |first=Bobby |date=November 20, 2025 |title=Thomas Stevenson Drew (1802–1879) |url=https://encyclopediaofarkansas.net/entries/thomas-stevenson-drew-100/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260514232424/https://encyclopediaofarkansas.net/entries/thomas-stevenson-drew-100/ |archive-date=May 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1524"|November 9, 1844<ref>{{Cite news |date=November 13, 1844 |title=Inauguration of Governor Drew |page=2 |newspaper=Arkansas Banner |url=https://www.newspapers.com/article/true-democrat-drew-inaugurated-november/129217832/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731225013/https://www.newspapers.com/article/true-democrat-drew-inaugurated-november/129217832/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 10, 1849<br />{{small|(1524 days; resigned)}}{{efn|Drew resigned due to the low salary he received as governor.<ref name="nga-drew" />}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Dubin|2003|p=10}}
+|[[1844 Arkansas gubernatorial election|1844]]
+|- style="height:2em;"
+|[[1848 Arkansas gubernatorial election|1848]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Byrd, Richard"|[[File:No image.svg|75px]]
+|'''[[Richard C. Byrd]]'''<br>{{Small|(1805–1854)}}<br>{{sfn|Sobel|1978|pp=65–66}}<ref name="nga-byrd">{{Cite web |title=Richard C. Byrd |url=https://www.nga.org/governor/richard-c-byrd/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616120327/https://www.nga.org/governor/richard-c-byrd/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|data-sort-value="100"|January 10, 1849<ref>{{Cite news |date=January 16, 1849 |title=none |quote=His Excellency Richard C. Byrd, as President of the Senate, is now the acting Executive of the State... |page=2 |newspaper=Arkansas Banner |url=https://www.newspapers.com/article/true-democrat-governor-drew-resigned-jan/117715334/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731220225/https://www.newspapers.com/article/true-democrat-governor-drew-resigned-jan/117715334/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />April 19, 1849<br />{{small|(100 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Roane, John"|[[File:Gubernatorial portrait of 4th Governor of Arkansas John Selden Roane.jpg|75px]]
+|'''[[John Selden Roane]]'''{{efn|Roane was out of state enough in 1851 that [[John Robinson Hampton]], president of the Senate, was sworn in as acting governor on June 25, 1851.<ref>{{Cite news |date=July 1, 1851 |title=Acting Governor |page=2 |newspaper=Arkansas Democratic Banner |url=https://www.newspapers.com/article/true-democrat-john-hampton-sworn-in-as-a/117716089/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925223713/https://www.newspapers.com/article/true-democrat-john-hampton-sworn-in-as-a/117716089/ |archive-date=September 25, 2023 |url-status=live}}</ref> However, Sobel states Hampton was acting governor in September 1851.{{sfn|Sobel|1978|p=67}} No source has been found as to when Roane returned to active work.}}<br>{{Small|(1817–1867)}}<br>{{sfn|Sobel|1978|p=66}}<ref name="nga-roane">{{Cite web |title=John Selden Roane |url=https://www.nga.org/governor/john-selden-roane/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613180613/https://www.nga.org/governor/john-selden-roane/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="eoa-roane">{{Cite web |last=Roberts |first=Bobby |date=September 21, 2023 |title=John Selden Roane (1817–1867) |url=https://encyclopediaofarkansas.net/entries/john-selden-roane-120/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260309094010/https://encyclopediaofarkansas.net/entries/john-selden-roane-120/ |archive-date=March 9, 2026 |url-status=live}}</ref>
+|data-sort-value="1307"|April 19, 1849<ref>{{Cite news |date=April 28, 1849 |title=none |quote=... do hereby declare and make known that John S. Roane is constitutionally elected Governor of the State of Arkansas... |page=3 |newspaper=Arkansas Intelligencer |url=https://www.newspapers.com/article/arkansas-intelligencer-roane-declared-wi/129218407/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731221734/https://www.newspapers.com/article/arkansas-intelligencer-roane-declared-wi/129218407/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />November 15, 1852<br />{{small|(1307 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Dubin|2003|p=10}}
+|[[1849 Arkansas gubernatorial special election|1849]]<br />{{small|(special)}}{{efn|Roane was elected in a special election to fill the remainder of the term vacated by Thomas S. Drew's resignation.<ref name="nga-roane" />}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Conway, Elias"|[[File:Portrait of 5th Governor of Arkansas Elias Nelson Conway.jpg|75px]]
+|rowspan="2"|'''[[Elias Nelson Conway]]'''{{efn|Conway was out of state in 1857, and president of the Senate [[John Robinson Hampton]] was sworn in as acting governor and served from April 21 to September 14.{{sfn|Sobel|1978|p=67}}}}<br>{{Small|(1812–1892)}}<br>{{sfn|Sobel|1978|pp=67–68}}<ref name="nga-conway-elias">{{Cite web |title=Elias Nelson Conway |url=https://www.nga.org/governor/elias-nelson-conway/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617063044/https://www.nga.org/governor/elias-nelson-conway/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="eoa-conway-elias">{{Cite web |last=Worthen |first=William B. |date=November 20, 2025 |title=Elias Nelson Conway (1812–1892) |url=https://encyclopediaofarkansas.net/entries/elias-nelson-conway-96/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260415192209/https://encyclopediaofarkansas.net/entries/elias-nelson-conway-96/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2923"|November 15, 1852<ref>{{Cite news |date=November 19, 1852 |title=Inauguration of the New Governor |page=2 |newspaper=[[Arkansas Gazette|Arkansas State Gazette and Democrat]] |url=https://www.newspapers.com/article/weekly-arkansas-gazette-conway-inaugurat/129218483/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731230521/https://www.newspapers.com/article/weekly-arkansas-gazette-conway-inaugurat/129218483/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />November 15, 1860<br />{{small|(2923 days; term-limited)}}{{efn|Under the 1836 constitution, governors were not eligible to serve more than eight years in any term of twelve years.{{sfn|Thorpe|1909|p=277|loc=1836 art. V, § 4}}|name=limits-1836}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Dubin|2003|p=11}}
+|[[1852 Arkansas gubernatorial election|1852]]
+|- style="height:2em;"
+|[[1856 Arkansas gubernatorial election|1856]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Rector, Henry"|[[File:Henry Massey Rector.jpg|75px]]
+|style="background:{{party color|Independent Democrat}}; color:inherit;" title="Did not represent a party."|
+|'''[[Henry Rector]]'''<br>{{Small|(1816–1899)}}<br>{{sfn|Sobel|1978|pp=68–69}}<ref name="nga-rector">{{Cite web |title=Henry Massey Rector |url=https://www.nga.org/governor/henry-massey-rector/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509165210/https://www.nga.org/governor/henry-massey-rector/ |archive-date=May 9, 2026 |url-status=live}}</ref><ref name="eoa-rector">{{Cite web |last1=Whayne |first1=Jeannie |last2=Dougan |first2=Michael B. |last3=Moore |first3=Waddy W. |date=March 4, 2026 |title=Henry Massie Rector (1816–1899) |url=https://encyclopediaofarkansas.net/entries/henry-massie-rector-119/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260922082149/https://encyclopediaofarkansas.net/entries/henry-massie-rector-119/ |archive-date=September 22, 2026 |url-status=live}}</ref>
+|data-sort-value="719"|November 15, 1860<ref>{{Cite news |date=November 17, 1860 |title=Inauguration of Governor |page=2 |newspaper=[[Arkansas Gazette|Arkansas State Gazette]] |url=https://www.newspapers.com/article/weekly-arkansas-gazette-rector-inaugurat/129218636/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731220224/https://www.newspapers.com/article/weekly-arkansas-gazette-rector-inaugurat/129218636/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />November 3, 1862<br />{{small|(719 days; resigned)}}{{efn|Rector resigned two weeks before the end of his term, having lost reelection. Sources suggest he resigned because he was so badly defeated in the election,<ref name="eoa-rector" /> or because the new constitution would shorten his term.<ref name="fletcher">{{Cite book |last=Hempstead |first=Fay |url=https://books.google.com/books?id=wUVEAQAAMAAJ&pg=PA250 |title=Historical Review of Arkansas: Its Commerce, Industry and Modern Affairs, Volume 1 |publisher=Lewis Publishing Company |year=1911 |page=250 |access-date=October 11, 2026}}</ref>}}
+|[[Independent Democrat|Independent<br>Democratic]]{{sfn|Dubin|2003|p=12}}
+|[[1860 Arkansas gubernatorial election|1860]]{{efn|This term was shortened to two years due to the 1861 constitution moving the election schedule.{{sfn|Ark. Const.|loc=[https://en.wikisource.org/wiki/Arkansas_Constitution_of_1861 1861 art. IV, § 8]}}}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Fletcher, Thomas"|[[File:No image.svg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Thomas Fletcher (Arkansas politician)|Thomas Fletcher]]'''<br>{{Small|(1817–1880)}}<br>{{efn|Sobel's entry on Fletcher mixes information with a similarly named man who ran for governor twice; even contemporary sources would confuse the two.{{sfn|Sobel|1978|p=69}}}}
+|data-sort-value="13"|November 3, 1862<ref name="fletcher-inaug">{{Cite news |date=November 8, 1862 |title=none |quote=Gov. Rector, after the delivery of his message, resigned, and Judge Fletcher, thereby becomes Governor until the Governor elect is installed. |page=2 |newspaper=[[Arkansas Gazette|Arkansas State Gazette]] |url=https://www.newspapers.com/article/weekly-arkansas-gazette-fletcher-succeed/33834488/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925220700/https://www.newspapers.com/article/weekly-arkansas-gazette-fletcher-succeed/33834488/ |archive-date=September 25, 2023 |url-status=live}}</ref><br />–<br />November 15, 1862<br />{{small|(13 days; retired)}}{{efn|Governor-elect Flanagin was not sworn in until November 15, 1862;<ref name="eoa-flanagin" /> in the interim, Fletcher acted as governor.<ref name="fletcher" /><ref name="fletcher-inaug" /> Fletcher is omitted from most lists of Arkansas governors.}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Flanagin, Harris"|[[File:Governor Harris Flanigin.jpg|75px]]
+|rowspan="3" style="background:{{party color|Independent (United States)}}; color:inherit;" title="Did not represent a party."|
+|'''[[Harris Flanagin]]'''<br>{{Small|(1817–1874)}}<br>{{sfn|Sobel|1978|p=70}}<ref name="nga-flanagin">{{Cite web |title=Harris Flanagin |url=https://www.nga.org/governor/harris-flanagin/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608195928/https://www.nga.org/governor/harris-flanagin/ |archive-date=June 8, 2026 |url-status=live}}</ref><ref name="eoa-flanagin">{{Cite web |last=Dougan |first=Michael B. |date=July 14, 2026 |title=Harris Flanagin (1817–1874) |url=https://encyclopediaofarkansas.net/entries/harris-flanagin-104/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260916223803/https://encyclopediaofarkansas.net/entries/harris-flanagin-104/ |archive-date=September 16, 2026 |url-status=live}}</ref>
+|data-sort-value="930"|November 15, 1862<ref>{{Cite news |date=November 26, 1862 |title=none |quote=Hon. Harris Flanagin, the Governor elect arrived in this city on Thursday afternoon, and will be installed today. |page=2 |newspaper=Washington Telegraph |publication-place=Washington, Arkansas |url=https://www.newspapers.com/article/washington-telegraph-flanagin-inaugurate/129218802/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731225017/https://www.newspapers.com/article/washington-telegraph-flanagin-inaugurate/129218802/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />June 1, 1865{{efn|Some sources state Flanagin left office on April 18, 1864, but that was when Isaac Murphy was sworn in as governor by [[Military occupation|occupation]] authorities after winning the 1864 election. Following the evacuation of [[Little Rock, Arkansas|Little Rock]] on September 10, 1863, Flanagin was governor [[government-in-exile|in exile]] at [[Washington, Arkansas]].<ref name="eoa-governor" /> Flanagin's last official act as governor was to preside over the Arkansas State Military Board during its final meeting at Washington on June 1, 1865;<ref>{{Cite book |last=<!--Staff writer(s); no by-line.--> |title=Minute Book of the Military Board of Arkansas, 1862-1865 |location=Washington, Arkansas |page=228}}</ref> six days after the [[Trans-Mississippi Department]] was surrendered to [[Union (American Civil War)|Union]] authorities at [[New Orleans]].}}<br />{{small|(930 days; government-in-exile<br />disestablished)}}{{efn|Flanagin evacuated [[Little Rock, Arkansas|Little Rock]] before it fell to [[Union (American Civil War)|Union]] forces on September 10, 1863, leading a [[government-in-exile]] at [[Washington, Arkansas]], until the [[Conclusion of the American Civil War|end of the Civil War]]. Isaac Murphy was sworn in as provisional governor by [[Military occupation|occupation]] authorities on January 20, 1864, and elected in his own right under [[Abraham Lincoln|Lincoln]]'s "[[ten percent plan]]" (taking office on April 18, 1864), thus causing an overlap in terms.}}
+|[[Independent politician|Independent]]<ref name="eoa-governor" />
+|[[1862 Arkansas gubernatorial election|1862]]{{efn|On March 14, 1864, a new state constitution was ratified by [[Southern Unionist|Union men]] of Arkansas under President [[Abraham Lincoln|Lincoln]]'s "[[ten percent plan]]" in an election supervised by Union [[Military occupation|occupation]] authorities; however, it had no effect on Flanagin's [[government-in-exile]] at [[Washington, Arkansas|Washington]].<ref name="eoa-occupation">{{Cite web |last=Miller |first=Adam |date=January 10, 2024 |title=Union Occupation of Arkansas |url=https://encyclopediaofarkansas.net/entries/union-occupation-of-arkansas-6390/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260717095619/https://encyclopediaofarkansas.net/entries/union-occupation-of-arkansas-6390/ |archive-date=July 17, 2026 |url-status=live}}</ref>}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="Murphy, Isaac"|[[File:Portrait of 8th Governor of Arkansas Isaac Murphy.jpg|75px]]
+|rowspan="2"|'''[[Isaac Murphy]]'''<br>{{Small|({{Abbr|d.|died in}} 1882)}}<br>{{sfn|Sobel|1978|pp=70–71}}<ref name="nga-murphy">{{Cite web |title=Isaac Murphy |url=https://www.nga.org/governor/isaac-murphy/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513065430/https://www.nga.org/governor/isaac-murphy/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="eoa-murphy">{{Cite web |last=Dougan |first=Michael B. |date=March 3, 2026 |title=Isaac Murphy (1799–1882) |url=https://encyclopediaofarkansas.net/entries/isaac-murphy-116/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260902172158/https://encyclopediaofarkansas.net/entries/isaac-murphy-116/ |archive-date=September 2, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1626"|January 20, 1864{{efn|Murphy was chosen as provisional governor by the Unionist constitutional convention on January 20, 1864;<ref>{{cite book |title=Journal of the Convention of Delegates of the People of Arkansas, January 4, 1864 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.35112105447447&seq=47 |page=41 |via=[[HathiTrust]] |publisher=Price & Barton |location=Little Rock, Arkansas |year=1870}}</ref> he refused to exercise power until the constitution was ratified and he was elected by popular vote. He was formally inaugurated on April 18.{{sfn|Sobel|1978|p=71}}}}<br />–<br />July 2, 1868<br />{{small|(1626 days; retired)}}
+|rowspan="2"|[[Independent politician|Independent]]{{efn|Sources disagree on Murphy's party: the state says Independent,<ref name="eoa-governor" /> Sobel says Democratic,{{sfn|Sobel|1978|p=70}} and Kallenbach says Union.{{sfn|Kallenbach|1977|p=56}}}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Provisional<br />governor<br />appointed by<br />constitutional<br />convention}}
+|- style="height:2em;"
+|[[1864 Arkansas gubernatorial election|1864]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Calvin C.|Bliss}}{{sfn|Herndon|1922|p=287}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Clayton, Powell"|[[File:Powell Clayton.jpg|75px]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Powell Clayton]]'''<br>{{Small|(1833–1914)}}<br>{{sfn|Sobel|1978|pp=71–72}}<ref name="nga-clayton">{{Cite web |title=Powell Clayton |url=https://www.nga.org/governor/powell-clayton/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509171635/https://www.nga.org/governor/powell-clayton/ |archive-date=May 9, 2026 |url-status=live}}</ref><ref name="eoa-clayton">{{Cite web |last=Moneyhon |first=Carl H. |date=October 5, 2026 |title=Powell Clayton (1833–1914) |url=https://encyclopediaofarkansas.net/entries/powell-clayton-94/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260613174835/https://encyclopediaofarkansas.net/entries/powell-clayton-94/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="989"|July 2, 1868<ref>{{Cite news |date=July 3, 1868 |title=The Inauguration |page=2 |newspaper=[[Arkansas Gazette|Daily Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-clayton-inaugurat/129233595/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024021/https://www.newspapers.com/article/daily-arkansas-gazette-clayton-inaugurat/129233595/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />March 17, 1871<br />{{small|(989 days; resigned)}}{{efn|Clayton resigned, having been [[1870 United States Senate election in Arkansas|elected]] to the [[United States Senate]]. He had delayed his resignation to prevent Lieutenant Governor Johnson from succeeding him; party machinations led to Johnson's resignation and acceptance of the office of secretary of state, so that Hadley, as president pro tempore of the senate, could act as governor for the remainder of the term.<ref name="eoa-hadley" />|name=clayton}}
+|rowspan="2"|[[Republican Party of Arkansas|Republican]]{{sfn|Kallenbach|1977|p=56}}
+|rowspan="2"|[[1868 Arkansas gubernatorial election|1868]]
+|{{sortname|James M.|Johnson|dab=politician}}{{sfn|Herndon|1922|p=293}}<br />{{small|(resigned March 14, 1871)}}{{efn|name=clayton}}
+|- style="height:2em;"
+|colspan="2" rowspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Hadley, Ozra"|[[File:O. A. Hadley (Arkansas Governor) 2.jpg|75px]]
+|'''[[Ozra Amander Hadley]]'''<br>{{Small|(1826–1915)}}<br>{{sfn|Sobel|1978|p=72}}<ref name="nga-hadley">{{Cite web |title=Ozra A. Hadley |url=https://www.nga.org/governor/ozra-a-hadley/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517090935/https://www.nga.org/governor/ozra-a-hadley/ |archive-date=May 17, 2026 |url-status=live}}</ref><ref name="eoa-hadley">{{Cite web |last=Dougan |first=Michael B. |date=June 16, 2023 |title=Ozro Amander Hadley (1826–1915) |url=https://encyclopediaofarkansas.net/entries/ozro-amander-hadley-3711/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260904124002/https://encyclopediaofarkansas.net/entries/ozro-amander-hadley-3711/ |archive-date=September 4, 2026 |url-status=live}}</ref>
+|data-sort-value="662"|March 17, 1871<ref>{{Cite news |date=March 18, 1871 |title=General Assembly of Arkansas |page=4 |newspaper=[[Arkansas Gazette|Daily Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-hadley-succeeds-c/129233771/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024028/https://www.newspapers.com/article/daily-arkansas-gazette-hadley-succeeds-c/129233771/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 6, 1873<br />{{small|(662 days, retired)}}
+|[[Republican Party of Arkansas|Republican]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}{{efn|name=clayton}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Baxter, Elisha"|[[File:Elisha Baxter.png|75px]]
+|'''[[Elisha Baxter]]'''{{efn|Baxter was ousted by [[Joseph Brooks (politician)|Joseph Brooks]] on April 15, 1874, triggering the [[Brooks–Baxter War]]. He was reinstated on May 19.<ref>{{Cite web |last=Moneyhon |first=Carl H. |date=September 25, 2026 |title=Brooks-Baxter War |url=https://encyclopediaofarkansas.net/entries/brooks-baxter-war-2276/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260902172212/https://encyclopediaofarkansas.net/entries/brooks-baxter-war-2276/ |archive-date=September 2, 2026 |url-status=live}}</ref>}}<br>{{Small|(1827–1899)}}<br>{{sfn|Sobel|1978|p=73}}<ref name="nga-baxter">{{Cite web |title=Elisha Baxter |url=https://www.nga.org/governor/elisha-baxter/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607075308/https://www.nga.org/governor/elisha-baxter/ |archive-date=June 7, 2026 |url-status=live}}</ref><ref name="eoa-baxter">{{Cite web |last=Dougan |first=Michael B. |date=March 16, 2026 |title=Elisha Baxter (1827–1899) |url=https://encyclopediaofarkansas.net/entries/elisha-baxter-87/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260421195105/https://encyclopediaofarkansas.net/entries/Elisha-Baxter-87/ |archive-date=April 21, 2026 |url-status=live}}</ref>
+|data-sort-value="676"|January 6, 1873<ref>{{Cite news |date=January 6, 1873 |title=Little Rock |location=Little Rock, Arkansas |publication-place=Cincinnati |publication-date=January 7, 1873 |page=4 |newspaper=[[The Cincinnati Enquirer]] |url=https://www.newspapers.com/article/the-cincinnati-enquirer-baxter-inaugurat/129234032/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024023/https://www.newspapers.com/article/the-cincinnati-enquirer-baxter-inaugurat/129234032/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />November 12, 1874<br />{{small|(676 days; retired)}}{{efn|Baxter received the [[Democratic Party of Arkansas|Democratic]] nomination, but declined.{{sfn|Sobel|1978|p=73}}}}
+|[[Republican Party of Arkansas|Republican]]{{sfn|Kallenbach|1977|p=56}}
+|[[1872 Arkansas gubernatorial election|1872]]{{efn|First term under the 1874 constitution, which shortened terms to two years.{{sfn|Thorpe|1909|p=341|loc=1874 art. VI, § 1}}}}
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Volney V.|Smith}}{{sfn|Herndon|1922|p=306}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Garland, Augustus"|[[File:Augustus Hill Garland - Brady-Handy.jpg|75px]]
+|rowspan="53" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Augustus H. Garland]]'''<br>{{Small|(1832–1899)}}<br>{{sfn|Sobel|1978|pp=73–74}}<ref name="nga-garland">{{Cite web |title=Augustus Hill Garland |url=https://www.nga.org/governor/augustus-hill-garland/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616113700/https://www.nga.org/governor/augustus-hill-garland/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="eoa-garland">{{Cite web |last=Watkins |first=Beverly |title=Augustus Hill Garland (1832–1899) |date=October 25, 2023 |url=https://encyclopediaofarkansas.net/entries/augustus-hill-garland-106/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260613192227/https://encyclopediaofarkansas.net/entries/augustus-hill-garland-106/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="792"|November 12, 1874<ref>{{Cite news |date=November 13, 1874 |title=Gov. Garland's Message |page=1 |newspaper=[[Arkansas Gazette|Daily Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-garland-inaugurat/129234191/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024017/https://www.newspapers.com/article/daily-arkansas-gazette-garland-inaugurat/129234191/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 11, 1877<br />{{small|(792 days; retired)}}{{efn|Garland was instead [[1876–77 United States Senate elections|elected]] to the [[United States Senate]].<ref name="eoa-garland" />}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1874 Arkansas gubernatorial election|1874]]
+|colspan="2" rowspan="32" style="background:#EEEEEE; color:inherit;"|''Office did not exist''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|12
+|rowspan="2" data-sort-value="Miller, William"|[[File:Painting, Portrait - Governor William R. Miller.jpg|75px]]
+|rowspan="2"|'''[[William Read Miller]]'''<br>{{Small|(1823–1887)}}<br>{{sfn|Sobel|1978|pp=74–75}}<ref name="nga-miller-william">{{Cite web |title=William Read Miller |url=https://www.nga.org/governor/william-read-miller/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414053324/https://www.nga.org/governor/william-read-miller/ |archive-date=April 14, 2026 |url-status=live}}</ref><ref name="eoa-miller-william">{{Cite web |last=Dougan |first=Michael B. |date=May 7, 2025 |title=William Read Miller (1823–1887) |url=https://encyclopediaofarkansas.net/entries/william-read-miller-115/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260613191312/https://encyclopediaofarkansas.net/entries/william-read-miller-115/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1877<ref>{{Cite news |date=January 18, 1877 |title=Governor Miller |page=1 |newspaper=Russellville Democrat |url=https://www.newspapers.com/article/the-russellville-democrat-miller-inaugur/129234241/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024023/https://www.newspapers.com/article/the-russellville-democrat-miller-inaugur/129234241/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 13, 1881<br />{{small|(1464 days;<br>lost nomination)}}<ref>{{Cite news |date=June 5, 1880 |title=Our Ticket - The Nominations of Yesterday |page=4 |newspaper=[[Arkansas Gazette|Daily Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-miller-loses-nomi/117959100/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925220702/https://www.newspapers.com/article/daily-arkansas-gazette-miller-loses-nomi/117959100/ |archive-date=September 25, 2023 |url-status=live}}</ref>
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1876 Arkansas gubernatorial election|1876]]
+|- style="height:2em;"
+|[[1878 Arkansas gubernatorial election|1878]]
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Churchill, Thomas"|[[File:Thomas James Churchill.jpg|75px]]
+|'''[[Thomas James Churchill]]'''<br>{{Small|(1824–1905)}}<br>{{sfn|Sobel|1978|pp=75–76}}<ref name="nga-churchill">{{Cite web |title=Thomas James Churchill |url=https://www.nga.org/governor/thomas-james-churchill/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613155405/https://www.nga.org/governor/thomas-james-churchill/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="eoa-churchill">{{Cite web |last=Montgomery |first=Don |date=September 28, 2026 |title=Thomas James Churchill (1824–1905) |url=https://encyclopediaofarkansas.net/entries/thomas-james-churchill-92/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260416184320/https://encyclopediaofarkansas.net/entries/thomas-james-churchill-92/ |archive-date=April 16, 2026 |url-status=live}}</ref>
+|data-sort-value="731"|January 13, 1881<ref>{{Cite news |date=January 13, 1881 |title=Gov. Churchill |page=1 |newspaper=[[Arkansas Democrat-Gazette|Arkansas Democrat]] |url=https://www.newspapers.com/article/arkansas-democrat-churchill-inaugurated/129234401/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024030/https://www.newspapers.com/article/arkansas-democrat-churchill-inaugurated/129234401/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 13, 1883<br />{{small|(731 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1880 Arkansas gubernatorial election|1880]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Berry, James"|[[File:Photograph, Cabinet Card - Arkansas Governor James Berry (cropped).jpg|75px]]
+|'''[[James H. Berry]]'''<br>{{Small|(1841–1913)}}<br>{{sfn|Sobel|1978|p=76}}<ref name="nga-berry">{{Cite web |title=James Henderson Berry |url=https://www.nga.org/governor/james-henderson-berry/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616124837/https://www.nga.org/governor/james-henderson-berry/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="eoa-berry">{{Cite web |last=Balogh |first=George W. |date=April 13, 2026 |title=James Henderson Berry (1841–1913) |url=https://encyclopediaofarkansas.net/entries/james-henderson-berry-88/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260518091856/https://encyclopediaofarkansas.net/entries/james-henderson-berry-88/ |archive-date=May 18, 2026 |url-status=live}}</ref>
+|data-sort-value="734"|January 13, 1883<ref>{{Cite news |date=January 13, 1883 |title=Arkansas General Assembly |page=1 |newspaper=[[Arkansas Democrat-Gazette|Arkansas Democrat]] |url=https://www.newspapers.com/article/arkansas-democrat-berry-inaugurated-janu/129234499/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024026/https://www.newspapers.com/article/arkansas-democrat-berry-inaugurated-janu/129234499/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 15, 1885<br />{{small|(734 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1882 Arkansas gubernatorial election|1882]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Hughes, Simon"|[[File:Simon P. Hughes, Jr - Gouverneur von Arkansas.jpg|75px]]
+|rowspan="2"|'''[[Simon P. Hughes Jr.]]'''<br>{{Small|(1830–1906)}}<br>{{sfn|Sobel|1978|p=77}}<ref name="nga-hughes">{{Cite web |title=Simon P. Hughes |url=https://www.nga.org/governor/simon-p-hughes/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260721130529/https://www.nga.org/governor/simon-p-hughes/ |archive-date=July 21, 2026 |url-status=live}}</ref><ref name="eoa-hughes">{{Cite web |last=Readnour |first=Harry W. |date=August 12, 2024 |title=Simon Pollard Hughes (1830–1906) |url=https://encyclopediaofarkansas.net/entries/simon-pollard-hughes-109/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260113224359/https://encyclopediaofarkansas.net/entries/simon-pollard-hughes-109/ |archive-date=January 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 15, 1885<ref>{{Cite news |date=January 15, 1885 |location=Little Rock, Arkansas |publication-place=Vicksburg, Mississippi |title=Inauguration of State Officers in Arkansas |page=1 |newspaper=Vicksburg Evening Post |url=https://www.newspapers.com/article/the-vicksburg-post-simon-h-hughes-inaug/117941697/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925220705/https://www.newspapers.com/article/117941697/simon-h-hughes-inaugurated/ |archive-date=September 25, 2023 |url-status=live}}</ref><br />–<br />January 17, 1889<br />{{small|(1464 days;<br>lost nomination)}}<ref>{{Cite news |date=June 6, 1888 |title=Col. J.P. Eagle for Governor |page=4 |newspaper=[[Arkansas Gazette|Daily Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-hughes-loses-nomi/117959967/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926095642/https://www.newspapers.com/article/daily-arkansas-gazette-hughes-loses-nomi/117959967/ |archive-date=September 26, 2023 |url-status=live}}</ref>
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1884 Arkansas gubernatorial election|1884]]
+|- style="height:2em;"
+|[[1886 Arkansas gubernatorial election|1886]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Eagle, James"|[[File:Photograph, Sepia - James P. Eagle (cropped).jpg|75px]]
+|rowspan="2"|'''[[James Philip Eagle]]'''<br>{{Small|(1837–1904)}}<br>{{sfn|Sobel|1978|pp=77–78}}<ref name="nga-eagle">{{Cite web |title=James Philip Eagle |url=https://www.nga.org/governor/james-philip-eagle/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617062616/https://www.nga.org/governor/james-philip-eagle/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="eoa-eagle">{{Cite web |last=Williams |first=C. Fred |date=July 17, 2025 |title=James Philip Eagle (1837–1904) |url=https://encyclopediaofarkansas.net/entries/james-philip-eagle-101/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260317150750/https://encyclopediaofarkansas.net/entries/james-philip-eagle-101/ |archive-date=March 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1459"|January 17, 1889<ref>{{Cite news |publication-date=January 25, 1889 |date=January 17, 1889 |location=Little Rock, Arkansas |publication-place=Springdale, Arkansas |title=Governor Eagle |page=4 |newspaper=Springdale News |url=https://www.newspapers.com/article/the-springdale-news-eagle-inaugurated-ja/129234632/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024019/https://www.newspapers.com/article/the-springdale-news-eagle-inaugurated-ja/129234632/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 14, 1893<br />{{small|(1459 days; retired)}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1888 Arkansas gubernatorial election|1888]]
+|- style="height:2em;"
+|[[1890 Arkansas gubernatorial election|1890]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Fishback, William"|[[File:William Meade Fishback.jpg|75px]]
+|'''[[William Meade Fishback]]'''{{efn|Fishback was out of state for a period in 1893; during that time, Clay Sloan, president of the Senate, acted as governor.{{sfn|Sobel|1978|p=78}}}}<br>{{Small|(1831–1903)}}<br>{{sfn|Sobel|1978|p=79}}<ref name="nga-fishback">{{Cite web |title=William Meade Fishback |url=https://www.nga.org/governor/william-meade-fishback/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260305115434/https://www.nga.org/governor/william-meade-fishback/ |archive-date=March 5, 2026 |url-status=live}}</ref><ref name="eoa-fishback">{{Cite web |last=Readnour |first=Harry W. |date=October 17, 2023 |title=William Meade Fishback (1831–1903) |url=https://encyclopediaofarkansas.net/entries/william-meade-fishback-103/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917132047/https://encyclopediaofarkansas.net/entries/william-meade-fishback-103/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|data-sort-value="735"|January 14, 1893<ref>{{Cite news |date=January 15, 1893 |title=Fishback |page=1 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-fishback-inaugura/129234677/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024021/https://www.newspapers.com/article/daily-arkansas-gazette-fishback-inaugura/129234677/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 18, 1895<br />{{small|(735 days; retired)}}{{efn|Fishback instead [[1894–95 United States Senate elections|ran unsuccessfully]] for the Democratic nomination for the [[United States Senate]].{{sfn|Sobel|1978|p=79}}}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1892 Arkansas gubernatorial election|1892]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Clarke, James"|[[File:AR Clarke John.jpg|75px]]
+|'''[[James P. Clarke]]'''<br>{{Small|(1854–1916)}}<br>{{sfn|Sobel|1978|pp=79–80}}<ref name="nga-clarke">{{Cite web |title=James Paul Clarke |url=https://www.nga.org/governor/james-paul-clarke/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512222159/https://www.nga.org/governor/james-paul-clarke/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="eoa-clarke">{{Cite web |last=Niswonger |first=Richard L. |date=October 5, 2026 |title=James Paul Clarke (1854–1916) |url=https://encyclopediaofarkansas.net/entries/james-paul-clarke-93/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260606010314/https://encyclopediaofarkansas.net/entries/james-paul-clarke-93/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 18, 1895<ref>{{Cite news |date=January 19, 1895 |title=Bent on Business |page=1 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-clarke-inaugurate/129234705/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024022/https://www.newspapers.com/article/daily-arkansas-gazette-clarke-inaugurate/129234705/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 18, 1897<br />{{small|(732 days; retired)}}{{efn|Clarke instead [[1896–97 United States Senate elections|ran unsuccessfully]] for the Democratic nomination for the [[United States Senate]].<ref name="eoa-clarke" />}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1894 Arkansas gubernatorial election|1894]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Jones, Daniel"|[[File:Daniel Webster Jones (governor).jpg|75px]]
+|rowspan="2"|'''[[Daniel Webster Jones (governor)|Daniel Webster Jones]]'''<br>{{Small|(1839–1918)}}<br>{{sfn|Sobel|1978|p=80}}<ref name="nga-jones">{{Cite web |title=Daniel Webster Jones |url=https://www.nga.org/governor/daniel-webster-jones/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617073744/https://www.nga.org/governor/daniel-webster-jones/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="eoa-jones">{{Cite web |last=Niswonger |first=Richard L. |date=April 1, 2026 |title=Daniel Webster Jones (1839–1918) |url=https://encyclopediaofarkansas.net/entries/daniel-webster-jones-110/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260806123931/https://encyclopediaofarkansas.net/entries/daniel-webster-jones-110/ |archive-date=August 6, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1461"|January 18, 1897<ref>{{Cite news |date=January 19, 1897 |title=Busy Times |page=1 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-jones-inaugurated/129234749/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801024024/https://www.newspapers.com/article/daily-arkansas-gazette-jones-inaugurated/129234749/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 18, 1901<br />{{small|(1461 days; retired)}}{{efn|Jones instead [[1900–01 United States Senate elections|ran unsuccessfully]] for the Democratic nomination for the [[United States Senate]].<ref name="eoa-jones" />}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1896 Arkansas gubernatorial election|1896]]
+|- style="height:2em;"
+|[[1898 Arkansas gubernatorial election|1898]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|20
+|rowspan="3" data-sort-value="Davis, Jeff"|[[File:Photograph, Cabinet Card - Arkansas Govenor Jeff Davis (cropped).jpg|75px]]
+|rowspan="3"|'''[[Jeff Davis (Arkansas politician)|Jeff Davis]]'''<br>{{Small|(1862–1913)}}<br>{{sfn|Sobel|1978|pp=80–81}}<ref name="nga-davis">{{Cite web |title=Jefferson Davis |url=https://www.nga.org/governor/jefferson-davis/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519090742/https://www.nga.org/governor/jefferson-davis/ |archive-date=May 19, 2026 |url-status=live}}</ref><ref name="eoa-davis">{{Cite web |last=Arsenault |first=Raymond O. |date=September 14, 2026 |title=Jeff Davis (1862–1913) |url=https://encyclopediaofarkansas.net/entries/jeff-davis-98/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260902172032/https://encyclopediaofarkansas.net/entries/jeff-davis-98/ |archive-date=September 2, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2192"|January 18, 1901<ref>{{Cite news |date=January 20, 1901 |title=Gov. Jeff Davis |page=4 |newspaper=[[Pine Bluff Daily Graphic]] |url=https://www.newspapers.com/article/pine-bluff-daily-graphic-gov-jeff-davis/117968131/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925222205/https://www.newspapers.com/article/pine-bluff-daily-graphic-gov-jeff-davis/117968131/ |archive-date=September 25, 2023 |url-status=live}}</ref><br />–<br />January 18, 1907<br />{{small|(2192 days; retired)}}{{efn|Davis was instead [[1900–01 United States Senate elections|elected]] to the [[United States Senate]].<ref name="eoa-davis" />}}
+|rowspan="3"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1900 Arkansas gubernatorial election|1900]]
+|- style="height:2em;"
+|[[1902 Arkansas gubernatorial election|1902]]
+|- style="height:2em;"
+|[[1904 Arkansas gubernatorial election|1904]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Little, John"|[[File:AR Little John.jpg|75px]]
+|'''[[John S. Little]]'''<br>{{Small|(1851–1916)}}<br>{{sfn|Sobel|1978|pp=81–82}}<ref name="nga-little">{{Cite web |title=John Sebastian Little |url=https://www.nga.org/governor/john-sebastian-little/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613151037/https://www.nga.org/governor/john-sebastian-little/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="eoa-little">{{Cite web |last=Gatewood |first=Willard B. |date=March 4, 2026 |title=John Sebastian Little (1851–1916) |url=https://encyclopediaofarkansas.net/entries/john-sebastian-little-112/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20251121164453/https://encyclopediaofarkansas.net/entries/john-sebastian-little-112/ |archive-date=November 21, 2025 |url-status=live}}</ref>
+|data-sort-value="25"|January 18, 1907<ref>{{Cite news |date=January 18, 1907 |title=New Governor Inaugurated |page=2 |newspaper=[[Arkansas Democrat-Gazette|Arkansas Democrat]] |url=https://www.newspapers.com/article/arkansas-democrat-little-inaugurated-jan/129237726/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041533/https://www.newspapers.com/article/arkansas-democrat-little-inaugurated-jan/129237726/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />February 11, 1907<br />{{small|(25 days; resigned)}}{{efn|Little resigned after suffering a [[nervous breakdown]] soon after taking office.<ref name="eoa-little" />}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1906 Arkansas gubernatorial election|1906]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Moore, John"|[[File:John Isaac Moore.jpg|75px]]
+|'''[[John Isaac Moore]]'''<br>{{Small|(1856–1937)}}<br>{{sfn|Sobel|1978|p=82}}<ref name="nga-moore">{{Cite web |title=John Isaac Moore |url=https://www.nga.org/governor/john-isaac-moore/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607084102/https://www.nga.org/governor/john-isaac-moore/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|data-sort-value="93"|February 11, 1907<ref>{{Cite news |date=February 12, 1907 |title=Governor Little Has Gone to Texas |page=1 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-moore-succeeds-li/129237788/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041530/https://www.newspapers.com/article/daily-arkansas-gazette-moore-succeeds-li/129237788/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />May 14, 1907<br />{{small|(93 days;<br> legislature adjourned)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}{{efn|President of the Senate Moore acted as governor until the legislature adjourned,<ref name="nga-moore" /> at which time a new president pro tempore of the Senate was chosen, Pindall, who acted as governor until his senate term expired.<ref name="nga-pindall" /> For the remaining three days of the gubernatorial term, Martin, the new president pro tempore of the Senate, acted as governor.<ref name="eoa-little" /> Further complicating the situation, Pindall was out of state from May 9 to May 14, 1908, during which time [[Allen Hamiter]], speaker of the House, served as acting governor.<ref name="eoa-little" />|name=little}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Pindall, Xenophon"|[[File:PindallXO f.jpg|75px]]
+|'''[[Xenophon Overton Pindall]]'''<br>{{Small|(1873–1935)}}<br>{{sfn|Sobel|1978|pp=82–83}}<ref name="nga-pindall">{{Cite web |title=Xenophon Overton Pindall |url=https://www.nga.org/governor/xenophon-overton-pindall/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415033421/https://www.nga.org/governor/xenophon-overton-pindall/ |archive-date=April 15, 2026 |url-status=live}}</ref><ref name="eoa-pindall">{{Cite web |last=Goodner |first=Wes |date=December 13, 2023 |title=Xenophon Overton Pindall (1873–1935) |url=https://encyclopediaofarkansas.net/entries/xenophon-overton-pindall-2753/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20251205030103/https://encyclopediaofarkansas.net/entries/xenophon-overton-pindall-2753/ |archive-date=December 5, 2025 |url-status=live}}</ref>
+|data-sort-value="609"|May 14, 1907<ref>{{Cite news |date=May 14, 1907 |title=Will Not Contest |page=1 |newspaper=Prescott Daily News |url=https://www.newspapers.com/article/the-prescott-daily-news-pindall-succeeds/129237830/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041528/https://www.newspapers.com/article/the-prescott-daily-news-pindall-succeeds/129237830/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 11, 1909<br />{{small|(609 days;<br>senate term expired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}{{efn|name=little}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Martin, Jesse"|[[File:Jesse M. Martin.jpg|75px]]
+|'''[[Jesse M. Martin]]'''<br>{{Small|(1877–1915)}}
+|data-sort-value="4"|January 11, 1909<ref>{{Cite news |date=January 11, 1909 |title=Brown and Martin |page=4 |newspaper=[[Arkansas Democrat-Gazette|Arkansas Democrat]] |url=https://www.newspapers.com/article/arkansas-democrat-martin-succeeds-pindal/129237917/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041532/https://www.newspapers.com/article/arkansas-democrat-martin-succeeds-pindal/129237917/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 14, 1909<br />{{small|(4 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}{{efn|name=little}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Donaghey, George"|[[File:Portrait of George Washington Donaghey.jpg|75px]]
+|rowspan="2"|'''[[George Washington Donaghey]]'''<br>{{Small|(1856–1937)}}<br>{{sfn|Sobel|1978|p=83}}<ref name="nga-donaghey">{{Cite web |title=George W. Donaghey |url=https://www.nga.org/governor/george-w-donaghey/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512220901/https://www.nga.org/governor/george-w-donaghey/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="eoa-donaghey">{{Cite web |last=Ledbetter |first=Cal |date=September 14, 2026 |title=George Washington Donaghey (1856–1937) |url=https://encyclopediaofarkansas.net/entries/george-washington-donaghey-99/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260727104754/https://encyclopediaofarkansas.net/entries/george-washington-donaghey-99/ |archive-date=July 27, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 14, 1909<ref>{{Cite news |date=January 14, 1909 |location=Little Rock, Arkansas |publication-place=Conway, Arkansas |title=Gov. Donaghey Inaugurated |page=1 |newspaper=[[Log Cabin Democrat]] |url=https://www.newspapers.com/article/the-log-cabin-democrat-donaghey-inaugura/129238027/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041528/https://www.newspapers.com/article/the-log-cabin-democrat-donaghey-inaugura/129238027/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 16, 1913<br />{{small|(1464 days;<br>lost nomination)}}<ref>{{Cite news |date=March 28, 1912 |title=Does Not Concede Donaghey's Defeat |page=1 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-does-not-concede/117957380/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925220711/https://www.newspapers.com/article/daily-arkansas-gazette-does-not-concede/117957380/ |archive-date=September 25, 2023 |url-status=live}}</ref>
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1908 Arkansas gubernatorial election|1908]]
+|- style="height:2em;"
+|[[1910 Arkansas gubernatorial election|1910]]
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Robinson, Joseph"|[[File:Joseph T. Robinson cropped.jpg|75px]]
+|'''[[Joseph T. Robinson]]'''<br>{{Small|(1872–1937)}}<br>{{sfn|Sobel|1978|p=84}}<ref name="nga-robinson">{{Cite web |title=Joseph Taylor Robinson |url=https://www.nga.org/governor/joseph-taylor-robinson/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519101536/https://www.nga.org/governor/joseph-taylor-robinson/ |archive-date=May 19, 2026 |url-status=live}}</ref><ref name="eoa-robinson">{{Cite web |last=Weller |first=Cecil Edward Jr. |date=September 16, 2026 |title=Joseph Taylor Robinson (1872–1937) |url=https://encyclopediaofarkansas.net/entries/joseph-taylor-robinson-121/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260731022739/https://encyclopediaofarkansas.net/entries/joseph-taylor-robinson-121/ |archive-date=July 31, 2026 |url-status=live}}</ref>
+|data-sort-value="52"|January 16, 1913<ref>{{Cite news |date=January 16, 1913 |title=Simple Ceremonies Were in Presence of Lawmakers |page=1 |newspaper=[[Arkansas Democrat-Gazette|Arkansas Democrat]] |url=https://www.newspapers.com/article/arkansas-democrat-robinson-inaugurated-j/129238092/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041533/https://www.newspapers.com/article/arkansas-democrat-robinson-inaugurated-j/129238092/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />March 8, 1913<br />{{small|(52 days; resigned)}}{{efn|Robinson resigned, having been [[1913 United States Senate special election in Arkansas|elected]] to the [[United States Senate]].<ref name="nga-robinson" />}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1912 Arkansas gubernatorial election|1912]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Oldham, William"|[[File:W. K. Oldham 2.jpg|75px]]
+|'''[[William Kavanaugh Oldham]]'''<br>{{Small|(1865–1938)}}<br>{{sfn|Sobel|1978|pp=84–85}}<ref name="nga-oldham">{{Cite web |title=William Kavanaugh Oldham |url=https://www.nga.org/governor/william-kavanaugh-oldham/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414052353/https://www.nga.org/governor/william-kavanaugh-oldham/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|data-sort-value="6"|March 8, 1913<ref>{{Cite news |date=March 9, 1913 |title=Robinson Resigns; Oldham Is Governor |page=1 |newspaper=[[Arkansas Gazette]] |url=https://www.newspapers.com/article/daily-arkansas-gazette-oldham-succeeds-r/129238140/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041531/https://www.newspapers.com/article/daily-arkansas-gazette-oldham-succeeds-r/129238140/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />March 13, 1913<br />{{small|(6 days; new president of<br />the senate elected)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}{{efn|Oldham acted as governor for six days before a new president of the senate was elected.<ref name="nga-oldham" /> The new president, Futrell, acted as governor<ref name="nga-futrell" /> until Hays was elected in a special election to fill the remainder of the term.<ref name="nga-hays" /> Conflict over whether or not Futrell could succeed Oldham as acting governor led to the Arkansas Supreme Court ruling that he could.<ref>{{cite court |litigants=Futrell v. Oldham |court=Arkansas Supreme Court |vol=107 |reporter=Ark. |opinion=386 |date=1913 |url=https://opinions.arcourts.gov/ark/supremecourt/en/item/279908/index.do |access-date=October 26, 2019}}</ref>|name=robinson}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Futrell, Junius"|[[File:Junius Marion Futrell.jpg|75px]]
+|'''[[Junius Marion Futrell]]'''<br>{{Small|(1870–1955)}}<br>{{sfn|Sobel|1978|p=85}}<ref name="nga-futrell">{{Cite web |title=Junius Marion Futrell |url=https://www.nga.org/governor/junius-marion-futrell/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260305104258/https://www.nga.org/governor/junius-marion-futrell/ |archivedate=March 5, 2026 |url-status=live}}</ref><ref name="eoa-futrell">{{Cite web |last=Dougan |first=Michael B. |date=September 3, 2025 |title=Junius Marion Futrell (1870–1955) |url=https://encyclopediaofarkansas.net/entries/junius-marion-futrell-105/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260825065047/https://encyclopediaofarkansas.net/entries/junius-marion-futrell-105/ |archive-date=August 25, 2026 |url-status=live}}</ref>
+|data-sort-value="147"|March 13, 1913<ref>{{Cite news |date=March 14, 1913 |location=Little Rock, Arkansas |publication-place=Prescott, Arkansas |title=Who Is Governor of Arkansas? |page=1 |newspaper=Prescott Daily News |url=https://www.newspapers.com/article/the-prescott-daily-news-futrell-sworn-in/129238260/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041526/https://www.newspapers.com/article/the-prescott-daily-news-futrell-sworn-in/129238260/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />August 6, 1913<br />{{small|(147 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br />the Senate<br />acting}}{{efn|name=robinson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|24
+|rowspan="2" data-sort-value="Hays, George"|[[File:George W. Hays (Arkansas governor).jpg|75px]]
+|rowspan="2"|'''[[George Washington Hays]]'''<br>{{Small|(1863–1927)}}<br>{{sfn|Sobel|1978|p=86}}<ref name="nga-hays">{{Cite web |title=George Washington Hays |url=https://www.nga.org/governor/george-washington-hays/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260603185941/https://www.nga.org/governor/george-washington-hays/ |archive-date=June 3, 2026 |url-status=live}}</ref><ref name="eoa-hays">{{Cite web |last=Niswonger |first=Richard L. |date=March 4, 2024 |title=George Washington Hays (1863–1927) |url=https://encyclopediaofarkansas.net/entries/george-washington-hays-107/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20261005045629/https://encyclopediaofarkansas.net/entries/george-washington-hays-107/ |archive-date=October 5, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1254"|August 6, 1913<ref>{{Cite news |date=August 6, 1913 |location=Little Rock, Arkansas |publication-place=Newport, Arkansas |title=Geo. W. Hays Now Governor |page=1 |newspaper=Newport Daily Independent |url=https://www.newspapers.com/article/newport-daily-independent-geo-w-hays-n/117969737/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925222826/https://www.newspapers.com/article/newport-daily-independent-geo-w-hays-n/117969737/ |archive-date=September 25, 2023 |url-status=live}}</ref><br />–<br />January 10, 1917<br />{{small|(1254 days; retired)}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1913 Arkansas gubernatorial special election|1913]]<br />{{small|(special)}}{{efn|name=robinson}}
+|- style="height:2em;"
+|[[1914 Arkansas gubernatorial election|1914]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Brough, Charles"|[[File:Charles Hillman Brough in 1916 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Charles Hillman Brough]]'''<br>{{Small|(1876–1935)}}<br>{{sfn|Sobel|1978|pp=86–87}}<ref name="nga-brough">{{Cite web |title=Charles Hillman Brough |url=https://www.nga.org/governor/charles-hillman-brough/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517082607/https://www.nga.org/governor/charles-hillman-brough/ |archive-date=May 17, 2026 |url-status=live}}</ref><ref name="eoa-brough">{{Cite web |last=Dougan |first=Michael B. |date=June 8, 2026 |title=Charles Hillman Brough (1876–1935) |url=https://encyclopediaofarkansas.net/entries/charles-hillman-brough-89/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917131927/https://encyclopediaofarkansas.net/entries/charles-hillman-brough-89/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 10, 1917<ref>{{Cite news |publication-date=January 11, 1917 |date=January 10, 1917 |location=Little Rock, Arkansas |publication-place=Newark, Arkansas |title=Brough Inaugurated Governor of State |page=1 |newspaper=Newark Journal |url=https://www.newspapers.com/article/the-newark-journal-brough-inaugurated-go/117970200/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926093747/https://www.newspapers.com/article/the-newark-journal-brough-inaugurated-go/117970200/ |archive-date=September 26, 2023 |url-status=live}}</ref><br />–<br />January 12, 1921<br />{{small|(1464 days; retired)}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1916 Arkansas gubernatorial election|1916]]
+|- style="height:2em;"
+|[[1918 Arkansas gubernatorial election|1918]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="McRae, Thomas"|[[File:AR McRae Thomas.jpg|75px]]
+|rowspan="2"|'''[[Thomas C. McRae]]'''<br>{{Small|(1851–1929)}}<br>{{sfn|Sobel|1978|pp=87–88}}<ref name="nga-mcrae">{{Cite web |title=Thomas Chapman McRae |url=https://www.nga.org/governor/thomas-chipman-mcrae/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260811050833/https://www.nga.org/governor/thomas-chipman-mcrae/ |archive-date=August 11, 2026 |url-status=live}}</ref><ref name="eoa-mcrae">{{Cite web |last=Clements |first=Derek Allen |date=March 18, 2026 |title=Thomas Chipman McRae (1851–1929) |url=https://encyclopediaofarkansas.net/entries/thomas-chipman-mcrae-114/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260120220740/https://encyclopediaofarkansas.net/entries/thomas-chipman-mcrae-114/ |archive-date=January 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1921<ref>{{Cite news |date=January 12, 1921 |title=Inauguration of Gov. Thomas C. M'Rae Held This Afternoon |page=1 |newspaper=Little Rock Daily News |url=https://www.newspapers.com/article/little-rock-daily-news-inauguration-of-g/117970572/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925220722/https://www.newspapers.com/article/little-rock-daily-news-inauguration-of-g/117970572/ |archive-date=September 25, 2023 |url-status=live}}</ref><br />–<br />January 14, 1925<br />{{small|(1464 days; retired)}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1920 Arkansas gubernatorial election|1920]]
+|- style="height:2em;"
+|[[1922 Arkansas gubernatorial election|1922]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Terral, Tom"|[[File:Gov. T.J. Terrell of Ark., 6-4-25 LCCN2016850440 (cropped).jpg|75px]]
+|'''[[Tom Terral]]'''<br>{{Small|(1882–1946)}}<br>{{sfn|Sobel|1978|p=88}}<ref name="nga-terral">{{Cite web |title=Thomas Jefferson Terral |url=https://www.nga.org/governor/thomas-jefferson-terral/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612140413/https://www.nga.org/governor/thomas-jefferson-terral/ |archive-date=June 12, 2026 |url-status=live}}</ref><ref name="eoa-terral">{{Cite web |last=Clements |first=Derek Allen |date=October 30, 2025 |title=Thomas Jefferson Terral (1882–1946) |url=https://encyclopediaofarkansas.net/entries/thomas-jefferson-terral-123/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260519011419/https://encyclopediaofarkansas.net/entries/thomas-jefferson-terral-123/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|data-sort-value="728"|January 14, 1925<ref>{{Cite news |date=January 14, 1925 |publication-date=January 15, 1925 |location=Little Rock, Arkansas |publication-place=Atlanta |title=Terral Takes Oath As Arkansas Chief |page=18 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-terral-takes-oa/117971088/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925225213/https://www.newspapers.com/article/the-atlanta-constitution-terral-takes-oa/117971088/ |archive-date=September 25, 2023 |url-status=live}}</ref><br />–<br />January 11, 1927<br />{{small|(728 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=88}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1924 Arkansas gubernatorial election|1924]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Martineau, John"|[[File:JohnEllisMartineau.jpg|75px]]
+|'''[[John Ellis Martineau]]'''<br>{{Small|(1873–1937)}}<br>{{sfn|Sobel|1978|p=89}}<ref name="nga-martineau">{{Cite web |title=John Ellis Martineau |url=https://www.nga.org/governor/john-ellis-martineau/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510114318/https://www.nga.org/governor/john-ellis-martineau/ |archive-date=May 10, 2026 |url-status=live}}</ref><ref name="eoa-martineau">{{Cite web |last1=Miller |first1=Leon C. |last2=Moneyhon |first2=Carl H. |date=July 30, 2026 |title=John Ellis Martineau (1873–1937) |url=https://encyclopediaofarkansas.net/entries/john-ellis-martineau-113/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917132017/https://encyclopediaofarkansas.net/entries/john-ellis-martineau-113/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|data-sort-value="429"|January 11, 1927<ref>{{Cite news |publication-date=January 13, 1927 |date=January 11, 1927 |location=Little Rock, Arkansas |publication-place=Huntsville, Arkansas |title=John E. Martineau at the Helm of State |page=1 |newspaper=Madison County Record |url=https://www.newspapers.com/article/the-madison-county-record-martineau-inau/129238413/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041535/https://www.newspapers.com/article/the-madison-county-record-martineau-inau/129238413/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />March 14, 1928<br />{{small|(429 days; resigned)}}{{efn|Martineau resigned, having been confirmed to the [[United States District Court for the Eastern District of Arkansas]].<ref name="nga-martineau" />}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1926 Arkansas gubernatorial election|1926]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Harvey|Parnell}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|29
+|rowspan="3" data-sort-value="Parnell, Harvey"|[[File:Harvey Parnell.jpg|75px]]
+|rowspan="3"|'''[[Harvey Parnell]]'''<br>{{Small|(1880–1936)}}<br>{{sfn|Sobel|1978|pp=89–90}}<ref name="nga-parnell">{{Cite web |title=Harvey Parnell |url=https://www.nga.org/governor/harvey-parnell/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260727204455/https://www.nga.org/governor/harvey-parnell/ |archive-date=July 27, 2026 |url-status=live}}</ref><ref name="eoa-parnell">{{Cite web |last=Salamo |first=Pamela |date=February 13, 2026 |title=Harvey Parnell (1880–1936) |url=https://encyclopediaofarkansas.net/entries/harvey-parnell-117/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260901052147/https://encyclopediaofarkansas.net/entries/harvey-parnell-117/ |archive-date=September 1, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1764"|March 14, 1928<ref>{{Cite news |publication-date=March 15, 1928 |date=March 14, 1928 |title=Martineau In As Judge |page=5 |newspaper=[[Kansas City Times]] |location=Little Rock, Arkansas |publication-place=Kansas City, Missouri |agency=Associated Press |url=https://www.newspapers.com/article/the-kansas-city-times-martineau-in-as-ju/117971855/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926095205/https://www.newspapers.com/article/the-kansas-city-times-martineau-in-as-ju/117971855/ |archive-date=September 26, 2023 |url-status=live}}</ref><br />–<br />January 10, 1933<br />{{small|(1764 days; retired)}}
+|rowspan="3"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1928 Arkansas gubernatorial election|1928]]
+|rowspan="19" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Lee|Cazort}}
+|- style="height:2em;"
+|[[1930 Arkansas gubernatorial election|1930]]
+|{{sortname|Lawrence Elery|Wilson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Futrell, Junius"|[[File:Junius Marion Futrell.jpg|75px]]
+|rowspan="2"|'''[[Junius Marion Futrell]]'''<br>{{Small|(1870–1955)}}<br>{{sfn|Sobel|1978|p=85}}<ref name="nga-futrell" /><ref name="eoa-futrell" />
+|rowspan="2" data-sort-value="1464"|January 10, 1933<ref>{{Cite news |publication-date=January 12, 1933 |date=January 10, 1933 |location=Little Rock, Arkansas |publication-place=Berryville, Arkansas |title=Governor Futrell Demands Economy |page=1 |newspaper=The Star-Progress |url=https://www.newspapers.com/article/the-star-progress-futrell-inaugurated-ja/129238642/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041529/https://www.newspapers.com/article/the-star-progress-futrell-inaugurated-ja/129238642/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 12, 1937<br />{{small|(1464 days; retired)}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1932 Arkansas gubernatorial election|1932]]
+|rowspan="2"|{{sortname|Lee|Cazort}}
+|- style="height:2em;"
+|[[1934 Arkansas gubernatorial election|1934]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Bailey, Carl"|[[File:Carl E. Bailey (cropped).jpg|75px]]
+|rowspan="2"|'''[[Carl E. Bailey]]'''<br>{{Small|(1894–1948)}}<br>{{sfn|Sobel|1978|pp=90–91}}<ref name="nga-bailey">{{Cite web |title=Carl Edward Bailey |url=https://www.nga.org/governor/carl-edward-bailey/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261006090730/https://www.nga.org/governor/carl-edward-bailey/ |archive-date=October 6, 2026 |url-status=live}}</ref><ref name="eoa-bailey">{{Cite web |last=Holley |first=Donald |date=March 1, 2026 |title=Carl Edward Bailey (1894–1948) |url=https://encyclopediaofarkansas.net/entries/carl-edward-bailey-86/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260902172119/https://encyclopediaofarkansas.net/entries/carl-edward-bailey-86/ |archive-date=September 2, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1937<ref>{{Cite news |date=January 12, 1937 |location=Little Rock, Arkansas |publication-place=Blytheville, Arkansas |title=Carl Bailey Takes Oath As Governor |page=1 |newspaper=[[Blytheville Courier News]] |agency=United Press |url=https://www.newspapers.com/article/the-courier-news-bailey-inaugurated-janu/129238679/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041526/https://www.newspapers.com/article/the-courier-news-bailey-inaugurated-janu/129238679/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 14, 1941<br />{{small|(1464 days;<br>lost nomination)}}<ref name="eoa-bailey" />
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1936 Arkansas gubernatorial election|1936]]
+|rowspan="3"|{{sortname|Robert L.|Bailey}}
+|- style="height:2em;"
+|[[1938 Arkansas gubernatorial election|1938]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Adkins, Homer"|[[File:Homer M. Adkins.jpg|75px]]
+|rowspan="2"|'''[[Homer Martin Adkins]]'''<br>{{Small|(1890–1964)}}<br>{{sfn|Sobel|1978|p=91}}<ref name="nga-adkins">{{Cite web |title=Homer Martin Adkins |url=https://www.nga.org/governor/homer-martin-adkins/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422130503/https://www.nga.org/governor/homer-martin-adkins/ |archive-date=April 22, 2026 |url-status=live}}</ref><ref name="eoa-adkins">{{Cite web |last=Williams |first=Patrick G. |date=November 28, 2025 |title=Homer Martin Adkins (1890–1964) |url=https://encyclopediaofarkansas.net/entries/homer-martin-adkins-84/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260329050000/https://encyclopediaofarkansas.net/entries/homer-martin-adkins-84/ |archive-date=March 29, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 14, 1941<ref>{{Cite news |date=January 14, 1941 |location=Little Rock, Arkansas |publication-place=Helena, Arkansas |agency=Associated Press |title=none |page=1 |newspaper=Helena (Arkansas) World |url=https://www.newspapers.com/article/the-daily-world-adkins-inaugurated-janua/129238729/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041526/https://www.newspapers.com/article/the-daily-world-adkins-inaugurated-janua/129238729/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 9, 1945<br />{{small|(1457 days; retired)}}{{efn|Adkins instead [[1944 United States Senate election in Arkansas|ran unsuccessfully]] for the Democratic nomination for the [[United States Senate]].<ref name="eoa-adkins" />}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1940 Arkansas gubernatorial election|1940]]
+|- style="height:2em;"
+|[[1942 Arkansas gubernatorial election|1942]]
+|rowspan="2"|{{sortname|James L.|Shaver}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Laney, Benjamin"|[[File:Ben Laney.jpg|75px]]
+|rowspan="2"|'''[[Benjamin T. Laney]]'''<br>{{Small|(1896–1977)}}<br>{{sfn|Sobel|1978|p=92}}<ref name="nga-laney">{{Cite web |title=Benjamin Travis Laney |url=https://www.nga.org/governor/benjamin-travis-laney/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511214112/https://www.nga.org/governor/benjamin-travis-laney/ |archive-date=May 11, 2026 |url-status=live}}</ref><ref name="eoa-laney">{{Cite web |last=Forgey |first=Tom |date=August 14, 2025 |title=Benjamin Travis Laney Jr. (1896–1977) |url=https://encyclopediaofarkansas.net/entries/benjamin-travis-laney-jr-111/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260727181314/https://encyclopediaofarkansas.net/entries/benjamin-travis-laney-jr-111/ |archive-date=July 27, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 9, 1945<ref>{{Cite news |date=January 12, 1945 |title='Bills Must Be Paid' Laney Reminds Arkansas in Inaugural Address |page=1 |newspaper=[[The Baxter Bulletin]] |url=https://www.newspapers.com/article/baxter-bulletin-laney-inaugurated-januar/129238774/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041527/https://www.newspapers.com/article/baxter-bulletin-laney-inaugurated-januar/129238774/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 11, 1949<br />{{small|(1464 days; retired)}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1944 Arkansas gubernatorial election|1944]]
+|- style="height:2em;"
+|[[1946 Arkansas gubernatorial election|1946]]
+|rowspan="10"|{{sortname|Nathan Green|Gordon}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="McMath, Sid"|[[File:Sid mcmath1.JPG|75px]]
+|rowspan="2"|'''[[Sid McMath]]'''<br>{{Small|(1912–2003)}}<br>{{sfn|Sobel|1978|pp=92–93}}<ref name="nga-mcmath">{{Cite web |title=Sidney Sanders McMath |url=https://www.nga.org/governor/sidney-sanders-mcmath/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415033704/https://www.nga.org/governor/sidney-sanders-mcmath/ |archive-date=April 15, 2026 |url-status=live}}</ref><ref name="eoa-mcmath">{{Cite web |last=Williams |first=C. Fred |date=September 30, 2026 |title=Sid McMath (1912–2003) |url=https://encyclopediaofarkansas.net/entries/sid-mcmath-51/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260830220230/https://encyclopediaofarkansas.net/entries/sid-mcmath-51/ |archive-date=August 30, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1949<ref>{{Cite news |last=Thomasson |first=Jim |date=January 11, 1949 |location=Little Rock, Arkansas |publication-place=Hope, Arkansas |title=Hot Springs Man Becomes 35th Governor |page=1 |newspaper=[[Hope Star]] |agency=Associated Press |url=https://www.newspapers.com/article/hope-star-mcmath-inaugurated-january-11/129238825/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801041529/https://www.newspapers.com/article/hope-star-mcmath-inaugurated-january-11/129238825/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 13, 1953<br />{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=93}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1948 Arkansas gubernatorial election|1948]]
+|- style="height:2em;"
+|[[1950 Arkansas gubernatorial election|1950]]
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Cherry, Francis"|[[File:Francis Cherry.jpg|75px]]
+|'''[[Francis Cherry (governor)|Francis Cherry]]'''<br>{{Small|(1908–1965)}}<br>{{sfn|Sobel|1978|pp=93–94}}<ref name="nga-cherry">{{Cite web |title=Francis Adams Cherry |url=https://www.nga.org/governor/francis-adams-cherry/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511210317/https://www.nga.org/governor/francis-adams-cherry/ |archive-date=May 11, 2026 |url-status=live}}</ref><ref name="eoa-cherry">{{Cite web |last=Dougan |first=Michael B. |date=September 21, 2026 |title=Francis Adams Cherry (1908–1965) |url=https://encyclopediaofarkansas.net/entries/francis-adams-cherry-91/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260415220421/https://encyclopediaofarkansas.net/entries/francis-adams-cherry-91/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 13, 1953<ref>{{Cite news |last=Hatch |first=Leon |location=Little Rock, Arkansas |publication-place=Blytheville, Arkansas |date=January 13, 1953 |title=New Governor Says Revision 'Best Solution' |page=1 |newspaper=[[Blytheville Courier News]] |agency=Associated Press |url=https://www.newspapers.com/article/the-courier-news-cherry-inaugurated-janu/129248865/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142758/https://www.newspapers.com/article/the-courier-news-cherry-inaugurated-janu/129248865/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 11, 1955<br />{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=93}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1952 Arkansas gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|36
+|rowspan="6" data-sort-value="Faubus, Orval"|[[File:Orval Faubus.jpg|75px]]
+|rowspan="6"|'''[[Orval Faubus]]'''<br>{{Small|(1910–1994)}}<br>{{sfn|Sobel|1978|pp=94–95}}<ref name="nga-faubus">{{Cite web |title=Orval Eugene Faubus |url=https://www.nga.org/governor/orval-eugene-faubus/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260718222504/https://www.nga.org/governor/orval-eugene-faubus/ |archive-date=July 18, 2026 |url-status=live}}</ref><ref name="eoa-faubus">{{Cite web |last=Reed |first=Roy |date=July 21, 2026 |title=Orval Eugene Faubus (1910–1994) |url=https://encyclopediaofarkansas.net/entries/orval-eugene-faubus-102/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260924055310/https://encyclopediaofarkansas.net/entries/orval-eugene-faubus-102/ |archive-date=September 24, 2026 |url-status=live}}</ref>
+|rowspan="6" data-sort-value="4383"|January 11, 1955<ref>{{Cite news |date=January 11, 1955 |title=Orval Faubus Inaugurated As Governor of Arkansas Outlines Plans for His Administration |page=1 |location=Little Rock, Arkansas |publication-place=Helena, Arkansas |newspaper=Helena-West Helena, Arkansas World and East Arkansas Record |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-world-faubus-inaugurated-janua/129248920/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142800/https://www.newspapers.com/article/the-daily-world-faubus-inaugurated-janua/129248920/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 10, 1967<br />{{small|(4383 days; retired)}}
+|rowspan="6"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1954 Arkansas gubernatorial election|1954]]
+|- style="height:2em;"
+|[[1956 Arkansas gubernatorial election|1956]]
+|- style="height:2em;"
+|[[1958 Arkansas gubernatorial election|1958]]
+|- style="height:2em;"
+|[[1960 Arkansas gubernatorial election|1960]]
+|- style="height:2em;"
+|[[1962 Arkansas gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1964 Arkansas gubernatorial election|1964]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="Rockefeller, Winthrop"|[[File:Winthrop Rockefeller Razorback 1969 (cropped).jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Winthrop Rockefeller]]'''<br>{{Small|(1912–1973)}}<br>{{sfn|Sobel|1978|pp=95–96}}<ref name="nga-rockefeller">{{Cite web |title=Winthrop Rockefeller |url=https://www.nga.org/governor/winthrop-rockefeller/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617200727/https://www.nga.org/governor/winthrop-rockefeller/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="eoa-rockefeller">{{Cite web |last=Dillard |first=Tom W. |date=October 5, 2026 |title=Winthrop Rockefeller (1912–1973) |url=https://encyclopediaofarkansas.net/entries/winthrop-rockefeller-122/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917132049/https://encyclopediaofarkansas.net/entries/winthrop-rockefeller-122/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 10, 1967<ref>{{Cite news |date=January 10, 1967 |title=Winthrop Rockefeller Takes Oath As Governor; Faubus Says Goodbye |page=1 |newspaper=Helena-West Helena, Arkansas World and East Arkansas Record |location=Little Rock, Arkansas |publication-place=Helena, Arkansas |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-world-rockefeller-inaugurated/129248955/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142814/https://www.newspapers.com/article/the-daily-world-rockefeller-inaugurated/129248955/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 12, 1971<br />{{small|(1464 days; lost election)}}
+|rowspan="2"|[[Republican Party of Arkansas|Republican]]{{sfn|Kallenbach|1977|p=56}}
+|[[1966 Arkansas gubernatorial election|1966]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Maurice|Britt}}
+|- style="height:2em;"
+|[[1968 Arkansas gubernatorial election|1968]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|38
+|rowspan="2" data-sort-value="Bumpers, Dale"|[[File:Dale Bumpers (AR).png|75px]]
+|rowspan="7" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Dale Bumpers]]'''<br>{{Small|(1925–2016)}}<br>{{sfn|Sobel|1978|p=96}}<ref name="nga-bumpers">{{Cite web |title=Dale Bumpers |url=https://www.nga.org/governor/dale-bumpers/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260821193136/https://www.nga.org/governor/dale-bumpers/ |archive-date=August 21, 2026 |url-status=live}}</ref><ref name="eoa-bumpers">{{Cite web |last=Durning |first=Dan |date=September 25, 2026 |title=Dale Leon Bumpers (1925–2016) |url=https://encyclopediaofarkansas.net/entries/dale-leon-bumpers-90/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917132331/https://encyclopediaofarkansas.net/entries/dale-leon-bumpers-90/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1453"|January 12, 1971<ref>{{Cite news |last=Shaw |first=Robert |date=January 12, 1971 |title=Bumpers Sworn In As 38th State Governor |page=1 |newspaper=El Dorado Times |agency=Associated Press |location=Little Rock, Arkansas |publication-place=El Dorado, Arkansas |url=https://www.newspapers.com/article/the-el-dorado-times-bumpers-inaugurated/129248985/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801141254/https://www.newspapers.com/article/the-el-dorado-times-bumpers-inaugurated/129248985/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 3, 1975<br />{{small|(1453 days; resigned)}}{{efn|Bumpers resigned, having been [[1974 United States Senate election in Arkansas|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=96}}}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1970 Arkansas gubernatorial election|1970]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Bob C.|Riley}}
+|- style="height:2em;"
+|[[1972 Arkansas gubernatorial election|1972]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Riley, Bob"|[[File:Bob C. Riley (Arkansas governor).jpg|75px]]
+|'''[[Bob C. Riley]]'''<br>{{Small|(1924–1994)}}<br>{{sfn|Sobel|1978|pp=96–97}}<ref name="eoa-riley">{{Cite web |last=Bass |first=Harold F. |date=June 25, 2025 |title=Bob Cowley Riley (1924–1994) |url=https://encyclopediaofarkansas.net/entries/bob-cowley-riley-2458/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260730085136/https://encyclopediaofarkansas.net/entries/bob-cowley-riley-2458/ |archive-date=July 30, 2026 |url-status=live}}</ref>
+|data-sort-value="12"|January 3, 1975<ref>{{Cite news |date=January 3, 1975 |title=Bob Riley Sworn In |page=1 |location=Little Rock, Arkansas |publication-place=Fayetteville, Arkansas |newspaper=[[Northwest Arkansas Democrat Gazette|Northwest Arkansas Times]] |agency=Associated Press |url=https://www.newspapers.com/article/northwest-arkansas-times-riley-succeeds/129249024/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142759/https://www.newspapers.com/article/northwest-arkansas-times-riley-succeeds/129249024/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 14, 1975<br />{{small|(12 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|39
+|rowspan="2" data-sort-value="Pryor, David"|[[File:David Pryor (AR).png|75px]]
+|rowspan="2"|'''[[David Pryor]]'''<br>{{Small|(1934–2024)}}<br>{{sfn|Sobel|1978|pp=97–98}}<ref name="nga-pryor">{{Cite web |title=David Hampton Pryor |url=https://www.nga.org/governor/david-hampton-pryor/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260724055818/https://www.nga.org/governor/david-hampton-pryor/ |archive-date=July 24, 2026 |url-status=live}}</ref><ref name="eoa-pryor">{{Cite web |last=Barth |first=Jay |date=June 10, 2026 |title=David Hampton Pryor (1934–2024) |url=https://encyclopediaofarkansas.net/entries/david-hampton-pryor-118/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260118050150/https://encyclopediaofarkansas.net/entries/david-hampton-pryor-118/ |archive-date=January 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1451"|January 14, 1975<ref>{{Cite news |date=January 14, 1975 |title=none |quote=David Pryor took the oath of office as Arkansas 39th elected governor... |page=4 |newspaper=Helena-West Helena, Arkansas World and East Arkansas Record |agency=Associated Press |location=Little Rock, Arkansas |publication-place=Helena, Arkansas |url=https://www.newspapers.com/article/the-daily-world-pryor-inaugurated-januar/129249040/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142757/https://www.newspapers.com/article/the-daily-world-pryor-inaugurated-januar/129249040/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 3, 1979<br />{{small|(1451 days; resigned)}}{{efn|Pryor resigned, having been [[1978 United States Senate election in Arkansas|elected]] to the [[United States Senate]].<ref>{{Cite news |date=January 3, 1979 |title=Pryor Leaves Office to Take Senate Post |page=25 |newspaper=[[Memphis Press-Scimitar]] |agency=United Press International |url=https://www.newspapers.com/article/the-memphis-press-scimitar-pryor-leaves/117989325/ |access-date=October 11, 2026 |location=Little Rock, Arkansas |publication-place=Memphis, Tennessee |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926093415/https://www.newspapers.com/article/the-memphis-press-scimitar-pryor-leaves/117989325/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}
+|rowspan="2"|[[Democratic Party of Arkansas|Democratic]]{{sfn|Kallenbach|1977|p=56}}
+|[[1974 Arkansas gubernatorial election|1974]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Joe|Purcell}}
+|- style="height:2em;"
+|[[1976 Arkansas gubernatorial election|1976]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Purcell, Joe"|[[File:Joe Purcell (1975).png|75px]]
+|'''[[Joe Purcell]]'''<br>{{Small|(1923–1987)}}<br><ref name="eoa-purcell">{{Cite web |last=Dumas |first=Ernest |date=May 8, 2025 |title=Joe Edward Purcell (1923–1987) |url=https://encyclopediaofarkansas.net/entries/joe-edward-purcell-2456/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20250915083545/https://encyclopediaofarkansas.net/entries/Joe-Edward-Purcell-2456/ |archive-date=September 15, 2025 |url-status=live}}</ref>
+|data-sort-value="7"|January 3, 1979<ref>{{Cite news |last=Simmons |first=Bill |date=January 7, 1979 |title=Legislature Convenes on Monday |page=1 |newspaper=Helena-West Helena, Arkansas World and East Arkansas Record |agency=Associated Press |location=Little Rock, Arkansas |publication-place=Helena, Arkansas |url=https://www.newspapers.com/article/the-daily-world-purcell-succeeds-pryor-j/129249134/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142758/https://www.newspapers.com/article/the-daily-world-purcell-succeeds-pryor-j/129249134/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 9, 1979<br />{{small|(7 days; retired)}}
+|[[Democratic Party of Arkansas|Democratic]]<ref name="eoa-purcell" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|[[Governorships of Bill Clinton|40]]
+|data-sort-value="Clinton, Bill"|[[File:Bill Clinton (37899881792) (cropped2).jpg|75px]]
+|'''[[Bill Clinton]]''' <br>{{Small|({{Abbr|b.|born in}} 1946)}}<br>{{sfn|Mullaney|1994|pp=33–40}}<ref name="nga-clinton">{{Cite web |title=William Jefferson Clinton |url=https://www.nga.org/governor/william-jefferson-clinton/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260929182644/https://www.nga.org/governor/william-jefferson-clinton/ |archive-date=September 29, 2026 |url-status=live}}</ref><ref name="eoa-clinton">{{Cite web |last=Dumas |first=Ernest |date=July 17, 2026 |title=Bill Clinton |url=https://encyclopediaofarkansas.net/entries/bill-clinton-95/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260829235033/https://encyclopediaofarkansas.net/entries/Bill-Clinton-95/ |archive-date=August 29, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 9, 1979<ref>{{Cite news |last=Nelson |first=Janet |date=January 11, 1979 |title=Gov. Clinton Takes Office |page=1A |newspaper=[[The Baxter Bulletin]] |url=https://www.newspapers.com/article/baxter-bulletin-clinton-inaugurated-janu/129249201/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801141254/https://www.newspapers.com/article/baxter-bulletin-clinton-inaugurated-janu/129249201/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 13, 1981<br />{{small|(736 days; lost election)}}
+|[[Democratic Party of Arkansas|Democratic]]<ref name="eoa-clinton" />
+|[[1978 Arkansas gubernatorial election|1978]]
+|rowspan="6" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Joe|Purcell}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="White, Frank"|[[File:Frank D. White 1995 (cropped).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Frank D. White]]'''<br>{{Small|(1933–2003)}}<br><ref name="nga-white">{{Cite web |title=Frank D. White |url=https://www.nga.org/governor/frank-d-white/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613155124/https://www.nga.org/governor/frank-d-white/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="eoa-white">{{Cite web |last=Dillard |first=Tom W. |date=February 18, 2026 |title=Frank Durward White (1933–2003) |url=https://encyclopediaofarkansas.net/entries/frank-durward-white-125/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260730131611/https://encyclopediaofarkansas.net/entries/frank-durward-white-125/ |archive-date=July 30, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 13, 1981<ref>{{Cite news |last=Katz |first=Jeffrey |date=January 14, 1981 |title=White Promises Fiscal 'Realism' At First Speech |page=3 |newspaper=[[The Commercial Appeal]] |location=Little Rock, Arkansas |publication-place=Memphis, Tennessee |url=https://www.newspapers.com/article/the-commercial-appeal-white-inaugurated/129249327/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142810/https://www.newspapers.com/article/the-commercial-appeal-white-inaugurated/129249327/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 11, 1983<br />{{small|(729 days; lost election)}}
+|[[Republican Party of Arkansas|Republican]]<ref name="eoa-white" />
+|[[1980 Arkansas gubernatorial election|1980]]
+|rowspan="4"|{{sortname|Winston|Bryant}}{{efn|Represented the [[Democratic Party of Arkansas|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|[[Governorships of Bill Clinton|42]]
+|rowspan="4" data-sort-value="Clinton, Bill"|[[File:Bill Clinton 1986.jpg|75px]]
+|rowspan="7" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[Bill Clinton]]''' <br>{{Small|({{Abbr|b.|born in}} 1946)}}<br>{{sfn|Mullaney|1994|pp=33–40}}<ref name="nga-clinton" /><ref name="eoa-clinton" />
+|rowspan="4" data-sort-value="3624"|January 11, 1983<ref>{{Cite news |last=Hale |first=Debbye |date=January 12, 1983 |title=Clinton Inaugurated; Sets Ambitious Agenda |page=12A |newspaper=[[The Times (Shreveport, Louisiana)|The Times]] |agency=Associated Press |location=Little Rock, Arkansas |publication-place=Shreveport, Louisiana |url=https://www.newspapers.com/article/the-times-clinton-inaugurated-january-11/129249522/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142805/https://www.newspapers.com/article/the-times-clinton-inaugurated-january-11/129249522/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />December 12, 1992<br />{{small|(3624 days; resigned)}}{{efn|Clinton resigned, having been [[1992 United States presidential election|elected]] [[President of the United States]].<ref name="eoa-clinton" />}}
+|rowspan="4"|[[Democratic Party of Arkansas|Democratic]]<ref name="eoa-clinton" />
+|[[1982 Arkansas gubernatorial election|1982]]
+|- style="height:2em;"
+|[[1984 Arkansas gubernatorial election|1984]]
+|- style="height:2em;"
+|[[1986 Arkansas gubernatorial election|1986]]{{efn|First term under a 1984 constitutional amendment, which lengthened terms to four years.{{sfn|Ark. Const.|loc=[https://50constitutions.org/ar/constitution/section-id-78355 amend. 63]}}}}
+|- style="height:2em;"
+|[[1990 Arkansas gubernatorial election|1990]]
+|{{sortname|Jim Guy|Tucker}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|43
+|rowspan="3" data-sort-value="Tucker, Jim"|[[File:Jim Guy Tucker.jpg|75px]]
+|rowspan="3"|'''[[Jim Guy Tucker]]''' <br>{{Small|(1943–2025)}}<br>{{sfn|Mullaney|1994|pp=41–45}}<ref name="nga-tucker">{{Cite web |title=Jim Guy Tucker |url=https://www.nga.org/governor/jim-guy-tucker/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513223252/https://www.nga.org/governor/jim-guy-tucker/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="eoa-tucker">{{Cite web |last=Whayne |first=Jeannie M. |date=April 23, 2026 |title=Jim Guy Tucker Jr. (1943–2025) |url=https://encyclopediaofarkansas.net/entries/jim-guy-tucker-jr-124/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260825014754/https://encyclopediaofarkansas.net/entries/jim-guy-tucker-jr-124/ |archive-date=August 25, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1312"|December 12, 1992<ref>{{Cite news |last=Duffy |first=Joan I. |date=December 13, 1992 |title=Tucker Succeeds Clinton As Arkansas Chief of State |page=A19 |newspaper=[[The Commercial Appeal]] |location=Little Rock, Arkansas |publication-place=Memphis, Tennessee |url=https://www.newspapers.com/article/the-commercial-appeal-tucker-succeeds-cl/129249550/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142803/https://www.newspapers.com/article/the-commercial-appeal-tucker-succeeds-cl/129249550/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />July 15, 1996<br />{{small|(1312 days; resigned)}}{{efn|Tucker resigned after being convicted of [[mail fraud]] in the [[Whitewater controversy]];<ref>{{Cite news |last1=Melton |first1=R.H. |last2=Haddigan |first2=Michael |date=May 29, 1996 |title=Three Guilty in Arkansas Fraud Trial |page=A1 |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/wp-srv/politics/special/whitewater/stories/wwtr960529.htm |access-date=October 11, 2026 |archive-url=https://web.archive.org/web/20000823104719/https://www.washingtonpost.com/wp-srv/politics/special/whitewater/stories/wwtr960529.htm |archive-date=August 23, 2000 |url-status=live}}</ref>}}
+|rowspan="3"|[[Democratic Party of Arkansas|Democratic]]<ref name="eoa-tucker" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Mike|Huckabee}}{{efn|Represented the [[Republican Party of Arkansas|Republican Party]]|name=lt-rep}}<br />{{small|(elected November 20, 1993)}}
+|- style="height:2em;"
+|[[1994 Arkansas gubernatorial election|1994]]
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|[[Governorship of Mike Huckabee|44]]
+|rowspan="5" data-sort-value="Huckabee"|[[File:Mike Huckabee, August 2002 (cropped).jpg|75px]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="5"|'''[[Mike Huckabee]]''' <br>{{Small|({{Abbr|b.|born in}} 1955)}}<br><ref name="nga-huckabee">{{Cite web |title=Mike Huckabee |url=https://www.nga.org/governor/mike-huckabee/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261002234049/https://www.nga.org/governor/mike-huckabee/ |archive-date=October 2, 2026 |url-status=live}}</ref><ref name="eoa-huckabee">{{Cite web |last=Berry |first=Trey |date=February 23, 2026 |title=Mike Huckabee (1955–) |url=https://encyclopediaofarkansas.net/entries/mike-huckabee-108/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917132316/https://encyclopediaofarkansas.net/entries/mike-huckabee-108/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="3831"|July 15, 1996<ref>{{Cite news |date=July 16, 1996 |title=Arkansas Governor Quits Under Pressure |page=8A |newspaper=[[Democrat and Chronicle]] |agency=Associated Press |location=Little Rock, Arkansas |publication-place=Rochester, New York |url=https://www.newspapers.com/article/democrat-and-chronicle-huckabee-succeeds/129249582/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142806/https://www.newspapers.com/article/democrat-and-chronicle-huckabee-succeeds/129249582/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 9, 2007<br />{{small|(3831 days; term-limited)}}{{efn|Under a 1993 amendment to the constitution, governors may not serve more than two terms.<ref>{{Cite web |title=Amendment 73 - Arkansas Term Limitation Amendment |url=https://law.justia.com/constitution/arkansas/amendments/amendment-73/ |access-date=October 11, 2026}}</ref>|name=limits-1993}}
+|rowspan="5"|[[Republican Party of Arkansas|Republican]]<ref name="eoa-huckabee" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Winthrop Paul|Rockefeller}}<br />{{small|(elected November 19, 1996)<br />(died July 16, 2006)}}
+|- style="height:2em;"
+|[[1998 Arkansas gubernatorial election|1998]]
+|- style="height:2em;"
+|rowspan="2"|[[2002 Arkansas gubernatorial election|2002]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|45
+|rowspan="3" data-sort-value="Beebe, Mike"|[[File:MikeBeebe2009 (cropped) (cropped).jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Mike Beebe]]''' <br>{{Small|({{Abbr|b.|born in}} 1946)}}<br><ref name="nga-beebe">{{Cite web |title=Mike Beebe |url=https://www.nga.org/governor/mike-beebe/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410192203/https://www.nga.org/governor/mike-beebe/ |archive-date=April 10, 2026 |url-status=live}}</ref><ref name="eoa-beebe">{{Cite web |last=Barth |first=Jay |date=August 6, 2026 |title=Mike Beebe (1946–) |url=https://encyclopediaofarkansas.net/entries/mickey-dale-8718/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260902183603/https://encyclopediaofarkansas.net/entries/mickey-dale-8718/ |archive-date=September 2, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2927"|January 9, 2007<ref>{{Cite news |last=DeMillo |first=Andrew |date=January 10, 2007 |title=New Governor of Arkansas Says Hard Times Aren't Inevitable |page=B6 |newspaper=[[The Commercial Appeal]] |agency=Associated Press |location=Little Rock, Arkansas |publication-place=Memphis, Tennessee |url=https://www.newspapers.com/article/the-commercial-appeal-beebe-inaugurated/129249691/ |access-date=October 11, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801142812/https://www.newspapers.com/article/the-commercial-appeal-beebe-inaugurated/129249691/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 13, 2015<br />{{small|(2927 days; term-limited)}}{{efn|name=limits-1993}}
+|rowspan="3"|[[Democratic Party of Arkansas|Democratic]]<ref name="eoa-beebe" />
+|[[2006 Arkansas gubernatorial election|2006]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Bill|Halter}}
+|- style="height:2em;"
+|rowspan="2"|[[2010 Arkansas gubernatorial election|2010]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Mark|Darr}}{{efn|name=lt-rep}}<br />{{small|(resigned February 1, 2014)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="Hutchinson, Asa"| [[File:Asa Hutchinson by Gage Skidmore.jpg|99x99px]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Asa Hutchinson]]''' <br>{{Small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-hutchinson">{{Cite web |title=Asa Hutchinson |url=https://www.nga.org/governor/asa-hutchinson/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260707170957/https://www.nga.org/governor/asa-hutchinson/ |archive-date=July 7, 2026 |url-status=live}}</ref><ref name="eoa-hutchinson">{{Cite web |last1=Thomas |first1=Felicia |last2=Barth |first2=Jay |last3=Johnson |first3=Ben F. III |date=May 6, 2026 |title=Asa Hutchinson (1950–) |url=https://encyclopediaofarkansas.net/entries/asa-hutchinson-4517/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260917132318/https://encyclopediaofarkansas.net/entries/asa-hutchinson-4517/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 13, 2015<ref>{{Cite news |last=Lesnick |first=Gavin |date=January 13, 2015 |title=Hutchinson sworn in as state's 46th governor |url=https://www.arkansasonline.com/news/2015/jan/13/hutchinson-sworn-states-46th-governor/ |access-date=October 11, 2026 |website=[[Arkansas Democrat-Gazette]] |archive-url=https://web.archive.org/web/20150517164854/https://www.arkansasonline.com/news/2015/jan/13/hutchinson-sworn-states-46th-governor/ |archive-date=May 17, 2015 |url-status=live}}</ref><br />–<br />January 10, 2023<br />{{small|(2920 days; term-limited)}}{{efn|name=limits-1993}}
+|rowspan="2"|[[Republican Party of Arkansas|Republican]]<ref name="eoa-hutchinson" />
+|[[2014 Arkansas gubernatorial election|2014]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Tim|Griffin}}
+|- style="height:2em;"
+|[[2018 Arkansas gubernatorial election|2018]]
+|- style="height:2em;"
+!rowspan="2" scope="row"|47
+|rowspan="2" data-sort-value="Huckabee Sanders"|[[File:Governor Sarah Huckabee Sanders (cropped).jpg|75px]]
+|rowspan="2"|'''[[Sarah Huckabee Sanders]]'''<br>{{Small|({{Abbr|b.|born in}} 1982)}}<br><ref name="nga-sanders">{{Cite web |title=Sarah Huckabee Sanders |url=https://www.nga.org/governor/sarah-huckabee-sanders/ |access-date=October 10, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260730090125/https://www.nga.org/governor/sarah-huckabee-sanders/ |archive-date=July 30, 2026 |url-status=live}}</ref><ref name="eoa-sanders">{{Cite web |last=Pruden |first=William H. III |date=September 3, 2026 |title=Sarah Huckabee Sanders (1982–) |url=https://encyclopediaofarkansas.net/entries/Sarah-Huckabee-Sanders-13510/ |access-date=October 10, 2026 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20261006160501/https://encyclopediaofarkansas.net/entries/Sarah-Huckabee-Sanders-13510/ |archive-date=October 6, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2023|1|10|duration=on|format=no}}"|January 10, 2023<ref>{{Cite news |last=DeMillo |first=Andrew |date=January 10, 2023 |title=Sarah Huckabee Sanders sworn in as Arkansas governor |agency=Associated Press |website=[[Los Angeles Times]] |url=https://www.latimes.com/world-nation/story/2023-01-10/sarah-huckabee-sanders-sworn-in-as-arkansas-governor |access-date=October 11, 2026 |archive-url=https://web.archive.org/web/20230110210611/https://www.latimes.com/world-nation/story/2023-01-10/sarah-huckabee-sanders-sworn-in-as-arkansas-governor |archive-date=January 10, 2023 |url-status=live}}</ref><br />–<br />Incumbent{{efn|Sanders' term [[2026 Arkansas gubernatorial election|will expire]] on January 12, 2027; she won election to a second term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2023|1|10|duration=on|format=no}} days)}}
+|rowspan="2"|[[Republican Party of Arkansas|Republican]]<ref name="eoa-sanders" />
+|[[2022 Arkansas gubernatorial election|2022]]
+|rowspan="2"|{{sortname|Leslie|Rutledge}}
+|- style="height:2em;"
+|[[2026 Arkansas gubernatorial election|2026]]
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Arkansas governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1818.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1820
+ScaleMinor = unit:year increment:1 start:1819
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:inddem  value:rgb(0.4, 0.6, 0.8)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1834 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1819.17 till:1824.99 color:noparty text:"James Miller"
+ from:1825.17 till:1828.89 color:noparty text:"George Izard"
+ from:1829.19 till:1835.19 color:noparty text:"John Pope"
+ from:1835.19 till:1836.7 color:noparty text:"William S. Fulton"
+ from:1836.7 till:1840.84 color:dem text:"James Sevier Conway"
+ from:1840.84 till:1844.33 color:dem text:"Archibald Yell"
+ from:1844.33 till:1844.86 color:dem text:"Samuel Adams"
+ from:1844.86 till:1849.03 color:dem text:"Thomas S. Drew"
+ from:1849.03 till:1849.3 color:dem text:"Richard C. Byrd"
+ from:1849.3 till:1852.87 color:dem text:"John Selden Roane"
+ from:1852.87 till:1860.87 color:dem text:"Elias Nelson Conway"
+ from:1860.87 till:1862.84 color:inddem text:"Henry Rector"
+ from:1862.84 till:1862.87 color:dem text:"Thomas Fletcher"
+ from:1862.87 till:1865.42 color:noparty text:"Harris Flanagin"
+ from:1864.05 till:1868.5 color:noparty text:"Isaac Murphy"
+ from:1868.5 till:1871.21 color:rep text:"Powell Clayton"
+ from:1871.21 till:1873.02 color:rep text:"Ozra Amander Hadley"
+ from:1873.02 till:1874.87 color:rep text:"Elisha Baxter"
+ from:1874.87 till:1877.03 color:dem text:"Augustus H. Garland"
+ from:1877.03 till:1881.04 color:dem text:"William Read Miller"
+ from:1881.04 till:1883.04 color:dem text:"Thomas James Churchill"
+ from:1883.04 till:1885.04 color:dem text:"James H. Berry"
+ from:1885.04 till:1889.05 color:dem text:"Simon P. Hughes Jr."
+ from:1889.05 till:1893.04 color:dem text:"James Philip Eagle"
+ from:1893.04 till:1895.05 color:dem text:"William Meade Fishback"
+ from:1895.05 till:1897.05 color:dem text:"James P. Clarke"
+ from:1897.05 till:1901.05 color:dem text:"Daniel Webster Jones"
+ from:1901.05 till:1907.05 color:dem text:"Jeff Davis"
+ from:1907.05 till:1907.12 color:dem text:"John S. Little"
+ from:1907.12 till:1907.37 color:dem text:"John Isaac Moore"
+ from:1907.37 till:1909.03 color:dem text:"Xenophon Overton Pindall"
+ from:1909.03 till:1909.04 color:dem text:"Jesse M. Martin"
+ from:1909.04 till:1913.04 color:dem text:"George Washington Donaghey"
+ from:1913.04 till:1913.18 color:dem text:"Joseph T. Robinson"
+ from:1913.18 till:1913.2 color:dem text:"William Kavanaugh Oldham"
+ from:1933.03 till:1937.03 color:dem text:"Junius Marion Futrell"
+ from:1913.6 till:1917.03 color:dem text:"George Washington Hays"
+ from:1917.03 till:1921.03 color:dem text:"Charles Hillman Brough"
+ from:1921.03 till:1925.04 color:dem text:"Thomas C. McRae"
+ from:1925.04 till:1927.03 color:dem text:"Tom Terral"
+ from:1927.03 till:1928.2 color:dem text:"John Ellis Martineau"
+ from:1928.2 till:1933.03 color:dem text:"Harvey Parnell"
+ from:1937.03 till:1941.04 color:dem text:"Carl E. Bailey"
+ from:1941.04 till:1945.02 color:dem text:"Homer Martin Adkins"
+ from:1945.02 till:1949.03 color:dem text:"Benjamin T. Laney"
+ from:1949.03 till:1953.04 color:dem text:"Sid McMath"
+ from:1953.04 till:1955.03 color:dem text:"Francis Cherry"
+ from:1955.03 till:1967.03 color:dem text:"Orval Faubus"
+ from:1967.03 till:1971.03 color:rep text:"Winthrop Rockefeller"
+ from:1971.03 till:1975.01 color:dem text:"Dale Bumpers"
+ from:1975.01 till:1975.04 color:dem text:"Bob C. Riley"
+ from:1975.04 till:1979.01 color:dem text:"David Pryor"
+ from:1979.01 till:1979.02 color:dem text:"Joe Purcell"
+ from:1983.03 till:1992.95 color:dem text:"Bill Clinton"
+ from:1981.04 till:1983.03 color:rep text:"Frank D. White"
+ from:1992.95 till:1996.54 color:dem text:"Jim Guy Tucker"
+ from:1996.54 till:2007.02 color:rep text:"Mike Huckabee"
+ from:2007.02 till:2015.04 color:dem text:"Mike Beebe"
+ from:2015.04 till:2023.03 color:rep text:"Asa Hutchinson"
+ from:2023.03 till:$now color:rep text:"Sarah Huckabee Sanders"
+
+LineData=
+ from:1913.2 till:1913.6 atpos:459 color:dem width:6 # JMF 1st term
+ from:1979.02 till:1981.04 atpos:140 color:dem width:6 # BC 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1820.00 width:0.1 color:0year
+ at:1825.00 width:0.1 color:5year
+ at:1830.00 width:0.1 color:0year
+ at:1835.00 width:0.1 color:5year
+ at:1840.00 width:0.1 color:0year
+ at:1845.00 width:0.1 color:5year
+ at:1850.00 width:0.1 color:0year
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+* [[List of Arkansas General Assemblies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Arkansas Governors |url=https://www.nga.org/former-governors/arkansas/ |access-date=October 10, 2026 |website=[[National Governors Association]]}}
+* {{Cite web |title=Governor, Office of the |url=https://encyclopediaofarkansas.net/entries/office-of-the-governor-5676/ |access-date=October 10, 2025 |website=[[Encyclopedia of Arkansas]] |archive-url=https://web.archive.org/web/20260902183622/https://encyclopediaofarkansas.net/entries/office-of-the-governor-5676/ |archive-date=September 2, 2026 |url-status=live}}
+* {{cite web |title=Arkansas Constitution |url=https://50constitutions.org/ar/constitution |ref={{sfnref|Ark. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 10, 2026}}
+* {{Cite web |title=Our Campaigns - Governor of Arkansas - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=106 |access-date=October 11, 2026 |website=www.ourcampaigns.com}}
+* {{Cite web |title=Our Campaigns - Governor of Arkansas (CSA) - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=61423 |access-date=October 11, 2026 |website=www.ourcampaigns.com}}
+* {{cite book |last1=Blair |first1=Diane D. |last2=Barth |first2=Jay |title=Arkansas Politics and Government |publisher=University of Nebraska Press |edition=second |year=2005 |location=Lincoln |isbn=0-8032-6198-5}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0 |via=[[Internet Archive]]}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |via=[[Google Books]]}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6 |via=[[Internet Archive]]}}
+* {{Cite book |last=Herndon |first=Dallas Tabor |url=https://books.google.com/books?id=6hUUAAAAYAAJ |title=Centennial History of Arkansas |publisher=Southern Historical Press |year=1922 |via=[[Google Books]]}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |via=[[Internet Archive]]}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |via=[[Internet Archive]]}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons01thor/ |volume=1 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{Commons category|Governors of Arkansas}}
+*[https://governor.arkansas.gov Office of the Governor of Arkansas]
+
+{{featured list}}
+
+{{Governors of Arkansas}}
+{{Navboxes
+|title=Articles related to Governors of Arkansas
+|list1=
+{{Current U.S. governors}}
+{{US Chief Executives}}
+{{Arkansas statewide elected officials}}
+{{Arkansas}}
+}}
+{{Portal bar|Arkansas|Biography|Politics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Arkansas, List Of Governor Of}}
+[[Category:Governors of Arkansas| ]]<!--please leave the empty space as standard-->
+[[Category:Executive branch of the government of Arkansas|Governor]]
+[[Category:Lists of Arkansas politicians|Governors]]
+[[Category:Lists of state governors of the United States|Arkansas]]
+[[Category:Arkansas history-related lists|Governors]]

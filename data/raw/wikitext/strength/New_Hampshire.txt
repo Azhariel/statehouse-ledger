@@ -1,0 +1,1259 @@
+{{Short description|Politics in the US state of New Hampshire}}
+{{More citations needed|date=September 2020}}
+{{Use American English|date=July 2026}}
+{{Use mdy dates|date=July 2026}}
+
+==Party affiliation==
+===Current===
+{|class=wikitable
+|+ Party registration as of May 4, 2026<ref>{{cite web|title=Party Registration History 1970-2026|url=https://www.sos.nh.gov/party-registration-history-1970-2026|publisher=New Hampshire Secretary of State|access-date=May 30, 2026}}</ref>
+|-
+!colspan=2 |Party
+!Number<br>of voters
+!Fraction
+|-
+|{{party color cell|Independent politician}}
+|[[Independent voter|Undeclared]]
+|377,158
+|39.4%
+|-
+|{{party color cell|Republican Party (United States)}}
+|[[New Hampshire Republican State Committee|Republican]]
+|314,005
+|32.8%
+|-
+|{{party color cell|Democratic Party (United States)}}
+|[[New Hampshire Democratic Party|Democratic]]
+|265,183
+|27.7%
+|-
+!colspan=2 |Total
+!align="center" |956,346
+!align="center" |100.0%
+|}
+===Historic===
+{{Expand section|date=July 2026}}
+
+==Partisan affiliation of elected officials==
+The following table indicates the party of elected officials in the [[U.S. state]] of [[New Hampshire]]:
+*[[List of governors of New Hampshire|Governor]]
+
+The table also indicates the historical party composition in the:
+*[[Executive Council of New Hampshire|Executive Council]]
+*[[New Hampshire Senate|State Senate]]
+*[[New Hampshire House of Representatives|State House of Representatives]]
+*[[List of United States senators from New Hampshire|State delegation to the U.S. Senate]]
+*[[List of United States representatives from New Hampshire|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+===Pre-statehood–1882===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style=text-align:center
+!rowspan=2 class=unsortable |Year
+!colspan=2 |Executive office
+!colspan=2 |[[New Hampshire General Court|General Court]]
+!colspan=6 |[[New Hampshire's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of New Hampshire|Governor]]
+!class=unsortable |[[Executive Council of New Hampshire|Exec.<br>Council]]
+!class=unsortable |[[New Hampshire Senate|State Senate]]
+!class=unsortable |[[New Hampshire House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from New Hampshire|Senator (Class II)]]
+!class=unsortable |[[List of United States senators from New Hampshire|Senator (Class III)]]
+!colspan=4 class=unsortable |[[New Hampshire's congressional delegations#United States House of Representatives|House]]
+|- style="height:2em"
+!1631<br>–<br>1636
+|[[Thomas Wiggin]]{{efn |name=plantation|Governor of the [[Province of New Hampshire|Upper Plantation of New Hampshire]].}}
+|
+|- style="height:2em"
+!1637<br>–<br>1640
+|[[George Burdett (governor)|George Burdett]]{{efn |name=plantation}}
+|
+|- style="height:2em"
+!1641
+|colspan=2 |…
+|- style="height:2em"
+!1776<br>–<br>1784
+|[[Meshech Weare]] (N)
+|rowspan=104 |{{Data missing|?|date=July 2021}}
+|- style="height:2em"
+!1785
+|[[John Langdon (politician)|John Langdon]] (N)
+|- style="height:2em"
+!1786
+|rowspan=2 {{Party shading/Federalist}} |[[John Sullivan (general)|John Sullivan]] {{small|(F)}}
+|- style="height:2em"
+!1787
+|- style="height:2em"
+!1788
+|{{Party shading/Democratic-Republican}} |[[John Langdon (politician)|John Langdon]] {{small|(DR)}}
+|- style="height:2em"
+!1789
+|{{Party shading/Federalist}} |[[John Sullivan (general)|John Sullivan]] {{small|(F)}}{{efn |Resigned to take a seat on a federal court.}}
+|
+|
+|rowspan=4 {{Party shading/Anti-Administration}} |[[Paine Wingate]] {{small|(AA)}}
+|rowspan=4 {{Party shading/Pro-Administration}} |[[John Langdon (politician)|John Langdon]] {{small|(PA)}}
+|rowspan=4 colspan=4 {{Party shading/Pro-Administration}} |3PA
+|rowspan=7 {{Party shading/Independent}} |[[George Washington]]/<br>[[John Adams]] {{small|(I)}} {{aye}}
+|- style="height:2em"
+!1790
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Josiah Bartlett]] {{small|(DR)}}
+|- style="height:2em"
+!1791
+|- style="height:2em"
+!1792
+|- style="height:2em"
+!1793
+|
+|
+|rowspan=2 {{Party shading/Pro-Administration}} |[[Samuel Livermore]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Anti-Administration}} |[[John Langdon (politician)|John Langdon]] {{small|(AA)}}
+|rowspan=2 colspan=4 {{Party shading/Pro-Administration}} |3PA, 1AA
+|- style="height:2em"
+!1794
+|rowspan=11 {{Party shading/Federalist}} |[[John Taylor Gilman]] {{small|(F)}}
+|- style="height:2em"
+!1795
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=6 {{Party shading/Federalist}} |[[Samuel Livermore]] {{small|(F)}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[John Langdon (politician)|John Langdon]] {{small|(DR)}}
+|rowspan=2 colspan=4 {{Party shading/Federalist}} |3F, 1DR
+|- style="height:2em"
+!1796
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=4 {{Party shading/Federalist}} |[[John Adams]] {{aye}} /<br>[[Oliver Ellsworth]] {{nay}} {{small|(F)}}
+|- style="height:2em"
+!1797
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=6 colspan=4 {{Party shading/Federalist}} |4F
+|- style="height:2em"
+!1798
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|- style="height:2em"
+!1799
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|- style="height:2em"
+!1800
+|rowspan=2 {{Party shading/Federalist}} |11F, 1DR
+|{{Party shading/Federalist}} |F majority
+|rowspan=4 {{Party shading/Federalist}} |[[John Adams]]/<br>[[Charles Cotesworth Pinckney]] {{small|(F)}} {{nay}}
+|- style="height:2em"
+!1801
+|{{Party shading/Federalist}} |F majority
+|rowspan=4 {{Party shading/Federalist}} |[[Simeon Olcott]] {{small|(F)}}
+|{{Party shading/Federalist}} |[[James Sheafe]] {{small|(F)}}
+|- style="height:2em"
+!1802
+|{{Party shading/Federalist}} |9F, 3DR
+|{{Party shading/Federalist}} |F majority
+|rowspan=5 {{Party shading/Federalist}} |[[William Plumer]] {{small|(F)}}
+|- style="height:2em"
+!1803
+|{{Party shading/Federalist}} |7F, 5DR
+|{{Party shading/Federalist}} |84F, 69DR
+|rowspan=4 colspan=4 {{Party shading/Federalist}} |5F
+|- style="height:2em"
+!1804
+|{{Party shading/Tie}} |6DR, 6F{{efn |A Democratic-Republican, [[Nicholas Gilman]], was elected as President of the Senate.}}
+|{{Party shading/Democratic-Republican}} |87DR, 75F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]]/<br>[[George Clinton (vice president)|George Clinton]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!1805
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[John Langdon (politician)|John Langdon]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |8DR, 4F
+|{{Party shading/Democratic-Republican}} |92DR, 71F
+|rowspan=9 {{Party shading/Democratic-Republican}} |[[Nicholas Gilman]] {{small|(DR)}}
+|- style="height:2em"
+!1806
+|{{Party shading/Democratic-Republican}} |10DR, 2F
+|{{Party shading/Democratic-Republican}} |108DR, 52F
+|- style="height:2em"
+!1807
+|{{Party shading/Democratic-Republican}} |8DR, 4F
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Nahum Parker]] {{small|(DR)}}
+|rowspan=2 colspan=4 {{Party shading/Democratic-Republican}} |5DR
+|- style="height:2em"
+!1808
+|{{Party shading/Democratic-Republican}} |9DR, 3F
+|{{Party shading/Democratic-Republican}} |99DR, 63F
+|rowspan=4 {{Party shading/Federalist}} |[[Charles Cotesworth Pinckney]]/<br>[[Rufus King]] {{small|(F)}} {{nay}}
+|- style="height:2em"
+!1809
+|{{Party shading/Federalist}} |[[Jeremiah Smith (lawyer)|Jeremiah Smith]] {{small|(F)}}
+|{{Party shading/Federalist}} |7F, 5DR
+|{{Party shading/Democratic-Republican}} |99DR, 67F
+|rowspan=2 colspan=4 {{Party shading/Federalist}} |5F
+|- style="height:2em"
+!1810
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Langdon (politician)|John Langdon]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |7DR, 5F
+|{{Party shading/Democratic-Republican}} |91DR, 81F
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Charles Cutts]] {{small|(DR)}}
+|- style="height:2em"
+!1811
+|{{Party shading/Democratic-Republican}} |8DR, 4F
+|{{Party shading/Democratic-Republican}} |98DR, 77F
+|rowspan=2 colspan=4 {{Party shading/Democratic-Republican}} |4DR, 1F
+|- style="height:2em"
+!1812
+|{{Party shading/Democratic-Republican}} |[[William Plumer]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |7DR, 5F
+|{{Party shading/Democratic-Republican}} |104DR, 79F
+|rowspan=4 {{Party shading/Federalist}} |[[DeWitt Clinton]]/<br>[[Jared Ingersoll]] {{small|(F)}} {{nay}}
+|- style="height:2em"
+!1813
+|rowspan=3 {{Party shading/Federalist}} |[[John Taylor Gilman]] {{small|(F)}}
+|{{Party shading/Federalist}} |9F, 3DR
+|{{Party shading/Federalist}} |106F, 75DR
+|rowspan=4 {{Party shading/Federalist}} |[[Jeremiah Mason]] {{small|(F)}}
+|rowspan=4 colspan=4 {{Party shading/Federalist}} |6F
+|- style="height:2em"
+!1814
+|rowspan=2 {{Party shading/Federalist}} |8F, 4DR
+|{{Party shading/Federalist}} |98F, 89DR
+|rowspan=3 {{Party shading/Federalist}} |[[Thomas W. Thompson]] {{small|(F)}}
+|- style="height:2em"
+!1815
+|{{Party shading/Federalist}} |102F, 86DR
+|- style="height:2em"
+!1816
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[William Plumer]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |8DR, 4F
+|{{Party shading/Democratic-Republican}} |105DR, 84F
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[James Monroe]]/<br>[[Daniel D. Tompkins]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!1817
+|{{Party shading/Democratic-Republican}} |11DR, 1F
+|{{Party shading/Democratic-Republican}} |107DR, 87F
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[David L. Morril]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Clement Storer]] {{small|(DR)}}
+|rowspan=6 colspan=4 {{Party shading/Democratic-Republican}} |6DR
+|- style="height:2em"
+!1818
+|{{Party shading/Democratic-Republican}} |10DR, 2F
+|{{Party shading/Democratic-Republican}} |119DR, 75F
+|- style="height:2em"
+!1819
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Samuel Bell (New Hampshire politician)|Samuel Bell]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |11DR, 1F
+|{{Party shading/Democratic-Republican}} |124DR, 70F
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[John F. Parrott]] {{small|(DR)}}
+|- style="height:2em"
+!1820
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|- style="height:2em"
+!1821
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|- style="height:2em"
+!1822
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|- style="height:2em"
+!1823
+|{{Party shading/Democratic-Republican}} |[[Levi Woodbury]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Samuel Bell (New Hampshire politician)|Samuel Bell]] {{small|(DR)}}
+|rowspan=2 colspan=4 {{Party shading/Democratic-Republican}} |6 Adams-Clay DR
+|- style="height:2em"
+!1824
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[David L. Morril]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[John Quincy Adams]]/<br>[[John C. Calhoun]] {{small|(DR)}} {{aye}}
+|- style="height:2em"
+!1825
+|{{Party shading/Jacksonian}} |10J, 2NR
+|{{Party shading/Jacksonian}} |104J, 101NR, 5&nbsp;vac.
+|rowspan=11 {{Party shading/National Republican}} |[[Samuel Bell (New Hampshire politician)|Samuel Bell]] {{small|(NR)}}
+|rowspan=6 {{Party shading/Jacksonian}} |[[Levi Woodbury]] {{small|(J)}}
+|rowspan=4 colspan=4 {{Party shading/National Republican}} |5NR, 1J
+|- style="height:2em"
+!1826
+|{{Party shading/Jacksonian}} |8J, 4NR
+|{{Party shading/Jacksonian}} |98J, 91NR, 18?, 4&nbsp;vac.{{efn |name=Hubbard|A Jacksonian, [[Henry Hubbard]], was re-elected as Speaker.}}
+|- style="height:2em"
+!1827
+|{{Party shading/Democratic-Republican}} |[[Benjamin Pierce (governor)|Benjamin Pierce]] {{small|(DR)}}
+|{{Party shading/Jacksonian}} |11J, 1NR
+|{{Party shading/Jacksonian}} |89NR, 84J, 40?, 2&nbsp;vac.{{efn |name=Hubbard}}
+|- style="height:2em"
+!1828
+|{{Party shading/National Republican}} |[[John Bell (New Hampshire politician)|John Bell]] {{small|(NR)}}
+|{{Party shading/National Republican}} |10NR, 2J
+|{{Party shading/National Republican}} |92NR, 84J, 30?, 2&nbsp;vac.{{efn |A National Republican, [[James Wilson II]], was elected as Speaker.}}
+|rowspan=5 {{Party shading/National Republican}} |[[John Quincy Adams]]/<br>[[Richard Rush]] {{small|(NR)}} {{nay}}
+|- style="height:2em"
+!1829
+|{{Party shading/Democratic}} |[[Benjamin Pierce (governor)|Benjamin Pierce]] {{small|(D)}}
+|{{Party shading/Jacksonian}} |8J, 4NR
+|{{Party shading/Jacksonian}} |99J, 82NR
+|rowspan=5 colspan=4 {{Party shading/Jacksonian}} |6J
+|- style="height:2em"
+!1830
+|{{Party shading/Democratic}} |[[Matthew Harvey]] {{small|(D)}}{{efn |Resigned to take a seat on the [[United States District Court for the District of New Hampshire|U.S. District Court for New Hampshire]].}}
+|{{Party shading/Jacksonian}} |9J, 3NR
+|{{Party shading/Jacksonian}} |111J, 101NR
+|- style="height:2em"
+!rowspan=2 |1831
+|{{Party shading/Democratic}} |[[Joseph M. Harper]] {{small|(D)}}{{efn |name=presacted|As president of the state senate, acted as governor for unexpired term.}}
+|rowspan=2 {{Party shading/Jacksonian}} |10J, 2NR
+|rowspan=2 {{Party shading/Jacksonian}} |140J, 73NR
+|rowspan=6 {{Party shading/Jacksonian}} |[[Isaac Hill]] {{small|(J)}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Samuel Dinsmoor]] {{small|(D)}}
+|- style="height:2em"
+!1832
+|rowspan=2 {{Party shading/Jacksonian}} |11J, 1NR
+|{{Party shading/Democratic}} |144D, 52NR, 26?
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson]]/<br>[[Martin Van Buren]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1833
+|{{Party shading/Jacksonian}} |125J, 42NR
+|rowspan=4 colspan=4 {{Party shading/Jacksonian}} |5J
+|- style="height:2em"
+!1834
+|rowspan=2 {{Party shading/Democratic}} |[[William Badger]] {{small|(D)}}
+|{{Party shading/Democratic}} |12D
+|{{Party shading/Democratic}} |150D, 46W
+|- style="height:2em"
+!1835
+|rowspan=3 {{Party shading/Democratic}} |11D, 1W
+|{{Party shading/Democratic}} |150D, 58W
+|rowspan=2 {{Party shading/Jacksonian}} |[[Henry Hubbard]] {{small|(J)}}
+|- style="height:2em"
+!1836
+|rowspan=3 {{Party shading/Democratic}} |[[Isaac Hill]] {{small|(D)}}
+|{{Party shading/Democratic}} |168D, 46W
+|{{Party shading/Jacksonian}} |[[John Bell (New Hampshire politician)|John Page]] {{small|(J)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Martin Van Buren]]/<br>[[Richard Mentor Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1837
+|{{Party shading/Democratic}} |177D, 51W
+|rowspan=4 {{Party shading/Democratic}} |[[Henry Hubbard]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin Pierce]] {{small|(D)}}
+|rowspan=6 colspan=4 {{Party shading/Democratic}} |5D
+|- style="height:2em"
+!1838
+|{{Party shading/Democratic}} |8D, 4W
+|{{Party shading/Democratic}} |129D, 116W
+|- style="height:2em"
+!1839
+|rowspan=3 {{Party shading/Democratic}} |[[John Page (New Hampshire politician)|John Page]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |10D, 2W
+|{{Party shading/Democratic}} |154D, 91W
+|- style="height:2em"
+!1840
+|{{Party shading/Democratic}} |171D, 69W
+|rowspan=4 {{Party shading/Democratic}} |[[Martin Van Buren]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1841
+|{{Party shading/Democratic}} |161D, 85W
+|rowspan=5 {{Party shading/Democratic}} |[[Levi Woodbury]] {{small|(D)}}
+|- style="height:2em"
+!1842
+|rowspan=2 {{Party shading/Democratic}} |[[Henry Hubbard]] {{small|(D)}}
+|{{Party shading/Democratic}} |11D, 1W
+|{{Party shading/Democratic}} |166D, 64W
+|{{Party shading/Democratic}} |[[Leonard Wilcox]] {{small|(D)}}
+|- style="height:2em"
+!1843
+|{{Party shading/Democratic}} |10D, 2W
+|{{Party shading/Democratic}} |139D, 98W
+|rowspan=8 {{Party shading/Democratic}} |[[Charles G. Atherton]] {{small|(D)}}
+|rowspan=2 colspan=4 {{Party shading/Democratic}} |4D
+|- style="height:2em"
+!1844
+|rowspan=2 {{Party shading/Democratic}} |[[John Hardy Steele]] {{small|(D)}}
+|{{Party shading/Democratic}} |11D, 1W
+|{{Party shading/Democratic}} |153D, 81W
+|rowspan=6 {{Party shading/Democratic}} |[[James K. Polk]]/<br>[[George M. Dallas]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1845
+|{{Party shading/Democratic}} |12D
+|{{Party shading/Democratic}} |156D, 74W, 7{{abbr|Lty|Liberty Party}}
+|rowspan=3 colspan=4 {{Party shading/Democratic}} |3D, 1 Vacant
+|- style="height:2em"
+!rowspan=2 |1846
+|rowspan=2 {{Party shading/Whig}} |[[Anthony Colby]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |7W, 4D, 1I
+|rowspan=2 {{Party shading/Coalition}} |124D, 107W, 32I, 11{{abbr|Lty|Liberty Party}}{{efn |A coalition of Whigs, Independent Democrats, and Liberty Partiers elected [[John P. Hale]], then an Independent Democrat, to be Speaker, and they organized the chamber.}}
+|{{Party shading/Democratic}} |[[Benning W. Jenness]] {{small|(D)}}
+|- style="height:2em"
+|{{Party shading/Liberty}} |[[Joseph Cilley (1791–1887)|Joseph Cilley]] {{small|({{abbr|Lty|Liberty Party}})}}
+|- style="height:2em"
+!rowspan=2 |1847
+|rowspan=3 {{Party shading/Democratic}} |[[Jared W. Williams]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |11D, 1W
+|rowspan=2 {{Party shading/Democratic}} |146D, 136W
+|rowspan=3 {{Party shading/Independent Democratic}} |[[John P. Hale]] {{small|(ID)}}
+![[New Hampshire's 1st congressional district|NH-1]]
+![[New Hampshire's 2nd congressional district|NH-2]]
+![[New Hampshire's 3rd congressional district|NH-3]]
+![[New Hampshire's 4th congressional district|NH-4]]
+|- style="height:2em"
+|rowspan=2 {{Party shading/Independent (US)}} |[[Amos Tuck]] {{small|(I)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Charles H. Peaslee|Charles H.<br>Peaslee]] {{small|(D)}}
+|rowspan=3 {{Party shading/Whig}} |[[James Wilson II]] {{small|(W)}}
+|rowspan=2 {{Party shading/Democratic}} |[[James Hutchins Johnson|James Hutchins<br>Johnson]] {{small|(D)}}
+|- style="height:2em"
+!1848
+|{{Party shading/Democratic}} |10D, 2W
+|{{Party shading/Democratic}} |159D, 121W
+|rowspan=4 {{Party shading/Democratic}} |[[Lewis Cass]]/<br>[[William O. Butler]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1849
+|rowspan=3 {{Party shading/Democratic}} |[[Samuel Dinsmoor Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |11D, 1W
+|{{Party shading/Democratic}} |158D, 107W
+|rowspan=4 {{Party shading/Free Soil}} |[[John P. Hale]] {{small|(FS)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Moses Norris Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Free Soil}} |[[Amos Tuck]] {{small|(FS)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Harry Hibbard]] {{small|(D)}}
+|- style="height:2em"
+!1850
+|{{Party shading/Democratic}} |189D, 86W
+|{{Party shading/Democratic}} |[[George W. Morrison]] {{small|(D)}}
+|- style="height:2em"
+!1851
+|rowspan=2 {{Party shading/Democratic}} |10D, 2W
+|{{Party shading/Tie}} |114D, 114W, 54FS, 10&nbsp;vac.{{efn |A Democrat, [[Nathaniel B. Baker]], was elected as Speaker.}}
+|rowspan=2 {{Party shading/Whig}} |[[Amos Tuck]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[Jared Perkins]] {{small|(W)}}
+|- style="height:2em"
+!1852
+|rowspan=3 {{Party shading/Democratic}} |[[Noah Martin (politician)|Noah Martin]] {{small|(D)}}
+|{{Party shading/Democratic}} |141D, 101W, 32FS, 4I
+|rowspan=6 {{Party shading/Democratic}} |[[Franklin Pierce]]/<br>[[William R. King]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1853
+|rowspan=2 {{Party shading/Democratic}} |11D, 1W
+|rowspan=2 {{Party shading/Democratic}} |178D, 92W, 34FS
+|rowspan=2 {{Party shading/Democratic}} |[[Charles G. Atherton]] {{small|(D)}}
+!colspan=2 |[[New Hampshire's 1st congressional district|Dist. 1]]
+![[New Hampshire's 2nd congressional district|Dist. 2]]
+![[New Hampshire's 3rd congressional district|Dist. 3]]
+|- style="height:2em"
+|rowspan=2 colspan=2 {{Party shading/Democratic}} |[[George W. Kittredge]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[George W. Morrison]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Harry Hibbard]] {{small|(D)}}
+|- style="height:2em"
+!1854
+|{{Party shading/Democratic}} |[[Nathaniel B. Baker]] {{small|(D)}}
+|{{Party shading/Democratic}} |10D, 2W
+|{{Party shading/Democratic}} |160D, 145W, 1?, 5&nbsp;vac.
+|{{Party shading/Democratic}} |[[Jared W. Williams]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1855
+|rowspan=3 {{Party shading/Know Nothing}} |[[Ralph Metcalf (New Hampshire politician)|Ralph Metcalf]] {{small|(KN)}}
+|rowspan=2 {{Party shading/Know Nothing}} |11KN, 1D
+|rowspan=2 {{Party shading/Republican}} |227R, 79D, 2?, 5&nbsp;vac.
+|''vacant''
+|{{Party shading/Democratic}} |[[John S. Wells]] {{small|(D)}}
+|rowspan=3 colspan=2 {{Party shading/Know Nothing}} |[[James Pike (politician)|James Pike]] {{small|(KN)}}
+|rowspan=3 {{Party shading/Know Nothing}} |[[Mason Tappan]] {{small|(KN)}}
+|rowspan=3 {{Party shading/Know Nothing}} |[[Aaron H. Cragin]] {{small|(KN)}}
+|- style="height:2em"
+|rowspan=10 {{Party shading/Republican}} |[[John P. Hale]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[James Bell (New Hampshire politician)|James Bell]] {{small|(R)}}
+|- style="height:2em"
+!1856
+|{{Party shading/Know Nothing}} |8KN, 4D
+|{{Party shading/Republican}} |168R, 146D
+|rowspan=4 {{Party shading/Republican}} |[[John C. Frémont]]/<br>[[William L. Dayton]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1857
+|rowspan=2 {{Party shading/Republican}} |[[William Haile (New Hampshire politician)|William Haile]] {{small|(R)}}
+|{{Party shading/Republican}} |8R, 4D
+|{{Party shading/Republican}} |196R, 128D, 4&nbsp;vac.
+|rowspan=9 {{Party shading/Republican}} |[[Daniel Clark (New Hampshire politician)|Daniel Clark]] {{small|(R)}}
+|rowspan=2 colspan=2 {{Party shading/Republican}} |[[James Pike (politician)|James Pike]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Mason Tappan]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Aaron H. Cragin]] {{small|(R)}}
+|- style="height:2em"
+!1858
+|{{Party shading/Republican}} |9R, 3D
+|{{Party shading/Republican}} |196R, 119D
+|- style="height:2em"
+!1859
+|rowspan=2 {{Party shading/Republican}} |[[Ichabod Goodwin]] {{small|(R)}}
+|{{Party shading/Republican}} |8R, 4D
+|{{Party shading/Republican}} |199R, 126D
+|rowspan=4 colspan=2 {{Party shading/Republican}} |[[Gilman Marston]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Thomas M. Edwards|Thomas M.<br>Edwards]] {{small|(R)}}
+|- style="height:2em"
+!1860
+|rowspan=2 {{Party shading/Republican}} |10R, 2D
+|{{Party shading/Republican}} |206R, 121D
+|rowspan=4 {{Party shading/Republican}} |[[Abraham Lincoln]]/<br>[[Hannibal Hamlin]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1861
+|rowspan=2 {{Party shading/Republican}} |[[Nathaniel S. Berry]] {{small|(R)}}
+|{{Party shading/Republican}} |200R, 121D
+|rowspan=6 {{Party shading/Republican}} |[[Edward H. Rollins]] {{small|(R)}}
+|- style="height:2em"
+!1862
+|rowspan=8 {{Party shading/Republican}} |9R, 3D
+|{{Party shading/Republican}} |203R, 120D
+|- style="height:2em"
+!1863
+|rowspan=2 {{Party shading/Republican}} |[[Joseph A. Gilmore]] {{small|(R)}}
+|{{Party shading/Republican}} |190R, 141D
+|rowspan=2 colspan=2 {{Party shading/Democratic}} |[[Daniel Marcy]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[James W. Patterson|James W.<br>Patterson]] {{small|(R)}}
+|- style="height:2em"
+!1864
+|{{Party shading/Republican}} |210R, 123D
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln]]/<br>[[Andrew Johnson]] {{small|(NU)}} {{aye}}
+|- style="height:2em"
+!1865
+|rowspan=2 {{Party shading/Republican}} |[[Frederick Smyth (New Hampshire politician)|Frederick Smyth]] {{small|(R)}}
+|{{Party shading/Republican}} |214R, 114D
+|rowspan=12 {{Party shading/Republican}} |[[Aaron H. Cragin]] {{small|(R)}}
+|rowspan=2 colspan=2 {{Party shading/Republican}} |[[Gilman Marston]] {{small|(R)}}
+|- style="height:2em"
+!1866
+|{{Party shading/Republican}} |208R, 114D
+|{{Party shading/Republican}} |[[George G. Fogg]] {{small|(R)}}
+|- style="height:2em"
+!1867
+|rowspan=2 {{Party shading/Republican}} |[[Walter Harriman (politician)|Walter Harriman]] {{small|(R)}}
+|{{Party shading/Republican}} |202R, 128D
+|rowspan=6 {{Party shading/Republican}} |[[James W. Patterson]] {{small|(R)}}
+|rowspan=4 colspan=2 {{Party shading/Republican}} |[[Jacob Hart Ela]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Aaron Fletcher Stevens|Aaron Fletcher<br>Stevens]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jacob Benton]] {{small|(R)}}
+|- style="height:2em"
+!1868
+|{{Party shading/Republican}} |194R, 138D
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant]]/<br>[[Schuyler Colfax]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1869
+|rowspan=2 {{Party shading/Republican}} |[[Onslow Stearns]] {{small|(R)}}
+|{{Party shading/Republican}} |194R, 140D
+|- style="height:2em"
+!1870
+|{{Party shading/Republican}} |11R, 1D
+|{{Party shading/Republican}} |201R, 126D
+|- style="height:2em"
+!1871
+|{{Party shading/Democratic}} |[[James A. Weston]] {{small|(D)}}
+|{{Party shading/Tie}} |6D, 6R{{efn |A Democrat, George W. M. Pittman, was elected Senate President.<ref>{{Cite book|url=https://books.google.com/books?id=bCIbU1tyN8EC&pg=PA41|title=Biographical Sketches of the Delegates to the New Hampshire Constitutional Convention for 1889|date=1889|publisher=compiler|language=en|page=41}}</ref>}}
+|{{Party shading/Democratic}} |165D, 164R
+|rowspan=2 colspan=2 {{Party shading/Democratic}} |[[Ellery Albee Hibbard]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel Newell Bell]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Hosea W. Parker]] {{small|(D)}}
+|- style="height:2em"
+!1872
+|rowspan=2 {{Party shading/Republican}} |[[Ezekiel A. Straw]] {{small|(R)}}
+|{{Party shading/Republican}} |8R, 4D
+|{{Party shading/Republican}} |210R, 150D
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant]]/<br>[[Henry Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|{{Party shading/Republican}} |9R, 3D
+|{{Party shading/Republican}} |204R, 144D
+|rowspan=6 {{Party shading/Republican}} |[[Bainbridge Wadleigh]] {{small|(R)}}
+|rowspan=2 colspan=2 {{Party shading/Republican}} |[[William B. Small (politician)|William B. Small]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Austin F. Pike]] {{small|(R)}}
+|- style="height:2em"
+!1874
+|{{Party shading/Democratic}} |[[James A. Weston]] {{small|(D)}}
+|{{Party shading/Democratic}} |8D, 4R
+|{{Party shading/Democratic}} |177D, 164R
+|- style="height:2em"
+!1875
+|rowspan=2 {{Party shading/Republican}} |[[Person Colby Cheney]] {{small|(R)}}
+|{{Party shading/Democratic}} |7D, 5R
+|{{Party shading/Republican}} |191R, 182D
+|rowspan=4 colspan=2 {{Party shading/Democratic}} |[[Frank Jones (politician)|Frank Jones]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel Newell Bell]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry W. Blair]] {{small|(R)}}
+|- style="height:2em"
+!1876
+|{{Party shading/Republican}} |9R, 3D
+|{{Party shading/Republican}} |211R, 180D
+|rowspan=4 {{Party shading/Republican}} |[[Rutherford B. Hayes]]/<br>[[William A. Wheeler]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1877
+|rowspan=2 {{Party shading/Republican}} |[[Benjamin F. Prescott]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 4D
+|{{Party shading/Republican}} |224R, 155D
+|rowspan=6 {{Party shading/Republican}} |[[Edward H. Rollins]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[James F. Briggs]] {{small|(R)}}
+|- style="height:2em"
+!1878
+|{{Party shading/Republican}} |216R, 170D
+|- style="height:2em"
+!1879
+|rowspan=2 {{Party shading/Republican}} |[[Nathaniel Head]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 4D
+|rowspan=2 {{Party shading/Republican}} |168R, 100D, 11GB
+|{{Party shading/Republican}} |[[Charles H. Bell (politician)|Charles H. Bell]] {{small|(R)}}
+|rowspan=4 colspan=2 {{Party shading/Republican}} |[[Joshua G. Hall]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Evarts Worcester Farr|Evarts W. Farr]] {{small|(R)}}
+|- style="height:2em"
+!1880
+|rowspan=3 {{Party shading/Republican}} |[[Henry W. Blair]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[James A. Garfield]]/<br>[[Chester A. Arthur]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1881
+|rowspan=2 {{Party shading/Republican}} |[[Charles H. Bell (politician)|Charles H. Bell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |179R, 114D
+|rowspan=2 {{Party shading/Republican}} |[[Ossian Ray]] {{small|(R)}}
+|- style="height:2em"
+!1882
+|}
+
+===1883–present===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style=text-align:center
+!rowspan=2 class=unsortable |Year
+!colspan=2 |Executive office
+!colspan=2 |[[New Hampshire General Court|General Court]]
+!colspan=4 |[[New Hampshire's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of New Hampshire|Governor]]
+!class=unsortable |[[Executive Council of New Hampshire|Executive<br>Council]]<ref>{{Cite web|title=NH Elections Database » Search Elections|url=https://nh.electionstats.com/elections/search/year_from:1970/year_to:2020/office_id:464|access-date=2021-07-28|website=NH Elections Database|language=en-US}}</ref>
+!class=unsortable |[[New Hampshire Senate|State Senate]]
+!class=unsortable |[[New Hampshire House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from New Hampshire|Senator (Class II)]]
+!class=unsortable |[[List of United States senators from New Hampshire|Senator (Class III)]]
+!class=unsortable |[[New Hampshire's 1st congressional district|House District 1]]
+!class=unsortable |[[New Hampshire's 2nd congressional district|House District 2]]
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Republican}} |[[Samuel W. Hale]] {{small|(R)}}
+|rowspan=80 |{{Data missing|?|date=July 2021}}
+|rowspan=2 {{Party shading/Republican}} |17R, 7D
+|rowspan=2 {{Party shading/Republican}} |188R, 121D, 1I
+|rowspan=4 {{Party shading/Republican}} |[[Austin F. Pike]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Henry W. Blair]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Martin A. Haynes]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Ossian Ray]] {{small|(R)}}
+|
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Republican}} |[[James G. Blaine]]/<br>[[John A. Logan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1885
+|rowspan=2 {{Party shading/Republican}} |[[Moody Currier]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 8D, 1P{{efn |Following the death of Republican State Senator Hiram T. Morrill on July 7, 1885, the General Court elected [[Prohibition Party]] candidate Frank G. Thurston to fill the vacancy.<ref>{{cite journal |last=Yeargain|first=Tyler|date=2021|title=New England State Senates: Case Studies for Revisiting the Indirect Election of Legislators|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1405&context=unh_lr|journal=University of New Hampshire Law Review|volume=19|issue=2|pages= 370–71|doi= |access-date=April 28, 2021}}</ref>}}
+|rowspan=2 {{Party shading/Republican}} |183R, 122D
+|rowspan=4 {{Party shading/Republican}} |[[Jacob H. Gallinger]] {{small|(R)}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=2 {{Party shading/Republican}} |[[Charles H. Sawyer (politician)|Charles H. Sawyer]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 9D
+|rowspan=2 {{Party shading/Republican}} |169R, 138D
+|{{Party shading/Republican}} |[[Person Colby Cheney]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Luther F. McKinney]] {{small|(D)}}
+|- style="height:2em"
+!1888
+|{{Party shading/Republican}} |[[William E. Chandler]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison]]/<br>[[Levi P. Morton]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Republican}} |[[David H. Goodell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 6D
+|rowspan=2 {{Party shading/Republican}} |169R, 144D
+|{{Party shading/Republican}} |[[Gilman Marston]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Alonzo Nute]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Orren C. Moore]] {{small|(R)}}
+|- style="height:2em"
+!1890
+|rowspan=11 {{Party shading/Republican}} |[[William E. Chandler]] {{small|(R)}}
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Republican}} |[[Hiram A. Tuttle]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |14R, 10D
+|rowspan=2 {{Party shading/Republican}} |185R, 170D
+|rowspan=27 {{Party shading/Republican}} |[[Jacob H. Gallinger]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Luther F. McKinney]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Warren F. Daniell]] {{small|(D)}}
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison]]/<br>[[Whitelaw Reid]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{Party shading/Republican}} |[[John Butler Smith]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 9D
+|rowspan=2 {{Party shading/Republican}} |209R, 149D
+|rowspan=2 {{Party shading/Republican}} |[[Henry W. Blair]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry M. Baker]] {{small|(R)}}
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=2 {{Party shading/Republican}} |[[Charles A. Busiel]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 3D
+|rowspan=2 {{Party shading/Republican}} |264R, 99D
+|rowspan=18 {{Party shading/Republican}} |[[Cyrus A. Sulloway]] {{small|(R)}}
+|- style="height:2em"
+!1896
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley]]/<br>[[Garret Hobart]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Republican}} |[[George A. Ramsdell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |22R, 2D
+|rowspan=2 {{Party shading/Republican}} |291R, 66D
+|rowspan=4 {{Party shading/Republican}} |[[Frank G. Clarke]] {{small|(R)}}
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=2 {{Party shading/Republican}} |[[Frank W. Rollins]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |250R, 109D, 1ID
+|- style="height:2em"
+!1900
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley]]/<br>[[Theodore Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Republican}} |[[Chester B. Jordan]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 1D
+|rowspan=2 {{Party shading/Republican}} |300R, 97D
+|rowspan=12 {{Party shading/Republican}} |[[Henry E. Burnham]] {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |[[Frank D. Currier]] {{small|(R)}}
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=2 {{Party shading/Republican}} |[[Nahum J. Bachelder]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 4D
+|rowspan=2 {{Party shading/Republican}} |257R, 136D
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt]]/<br>[[Charles W. Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=2 {{Party shading/Republican}} |[[John McLane]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 3D
+|rowspan=2 {{Party shading/Republican}} |286R, 105D
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Republican}} |[[Charles M. Floyd]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 6D
+|rowspan=2 {{Party shading/Republican}} |262R, 128D, 1I
+|- style="height:2em"
+!1908
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft]]/<br>[[James S. Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{Party shading/Republican}} |[[Henry B. Quinby]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 4D
+|rowspan=2 {{Party shading/Republican}} |269R, 117D, 1I
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=2 {{Party shading/Republican}} |[[Robert P. Bass]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |220R, 173D
+|- style="height:2em"
+!1912
+|rowspan=8 {{Party shading/Democratic}} |[[Woodrow Wilson]]/<br>[[Thomas R. Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel D. Felker]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |14D, 10R
+|rowspan=2 {{Party shading/Coalition}} |207R, 195D{{efn |A coalition of Progressive Republicans and Democrats elected a Progressive Republican, William Britton, as Speaker.}}
+|rowspan=6 {{Party shading/Democratic}} |[[Henry F. Hollis]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Eugene E. Reed]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Raymond B. Stevens]] {{small|(D)}}
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Republican}} |[[Rolland H. Spaulding]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 4D, 1Prog
+|rowspan=2 {{Party shading/Republican}} |250R, 153D, 5Prog
+|rowspan=2 {{Party shading/Republican}} |[[Cyrus A. Sulloway]] {{small|(R)}}
+|rowspan=18 {{Party shading/Republican}} |[[Edward Hills Wason]] {{small|(R)}}
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=2 {{Party shading/Republican}} |[[Henry W. Keyes]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |246R, 157D, 1I
+|rowspan=6 {{Party shading/Republican}} |[[Sherman Everett Burroughs|Sherman Everett<br>Burroughs]] {{small|(R)}}
+|- style="height:2em"
+!1918
+|{{Party shading/Republican}} |[[Irving W. Drew]] {{small|(R)}}
+|- style="height:2em"
+!1919
+|rowspan=2 {{Party shading/Republican}} |[[John H. Bartlett]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 5D
+|rowspan=2 {{Party shading/Republican}} |244R, 160D, 1ID, 1I
+|rowspan=18 {{Party shading/Republican}} |[[Henry W. Keyes]] {{small|(R)}}
+|rowspan=14 {{Party shading/Republican}} |[[George H. Moses]] {{small|(R)}}
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding]]/<br>[[Calvin Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Republican}} |[[Albert O. Brown]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 3D
+|rowspan=2 {{Party shading/Republican}} |294R, 109D, 1I
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=2 {{Party shading/Democratic}} |[[Fred H. Brown]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Democratic}} |220D, 196R, 2I
+|rowspan=2 {{Party shading/Democratic}} |[[William N. Rogers]] {{small|(D)}}
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge]]/<br>[[Charles G. Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Republican}} |[[John Gilbert Winant]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 5D
+|rowspan=2 {{Party shading/Republican}} |273R, 147D, 1I
+|rowspan=7 {{Party shading/Republican}} |[[Fletcher Hale]] {{small|(R)}}
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=2 {{Party shading/Republican}} |[[Huntley N. Spaulding]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 4D
+|rowspan=2 {{Party shading/Republican}} |286R, 131D, 1I
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover]]/<br>[[Charles Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=2 {{Party shading/Republican}} |[[Charles W. Tobey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |19R, 5D
+|rowspan=2 {{Party shading/Republican}} |273R, 148D
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=4 {{Party shading/Republican}} |[[John Gilbert Winant]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |254R, 163D
+|- style="height:2em"
+!1932
+|rowspan=5 {{Party shading/Democratic}} |[[William N. Rogers]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover]]/<br>[[Charles Curtis]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1933
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |225R, 193D
+|rowspan=6 {{Party shading/Democratic}} |[[Fred H. Brown]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |[[Charles W. Tobey]] {{small|(R)}}
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=2 {{Party shading/Republican}} |[[Styles Bridges]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 9D
+|rowspan=2 {{Party shading/Republican}} |213R, 208D, 1I, 2&nbsp;vac.
+|- style="height:2em"
+!1936
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[John Nance Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1937
+|rowspan=4 {{Party shading/Republican}} |[[Francis P. Murphy]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |230R, 187D, 1I
+|rowspan=25 {{Party shading/Republican}} |[[Styles Bridges]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Arthur B. Jenks]] {{small|(R)}}
+|- style="height:2em"
+!1938
+|{{Party shading/Democratic}} |[[Alphonse Roy]] {{small|(D)}}
+|- style="height:2em"
+!1939
+|rowspan=2 {{Party shading/Republican}} |18R, 6D
+|rowspan=2 {{Party shading/Republican}} |269R, 158D
+|rowspan=15 {{Party shading/Republican}} |[[Charles W. Tobey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Arthur B. Jenks]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Foster W. Stearns]] {{small|(R)}}
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[Henry A. Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=4 {{Party shading/Republican}} |[[Robert O. Blood]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |229R, 194D
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=2 {{Party shading/Republican}} |17R, 7D
+|rowspan=2 {{Party shading/Republican}} |276R, 167D
+|rowspan=20 {{Party shading/Republican}} |[[Chester E. Merrow]] {{small|(R)}}
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[Harry S. Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=4 {{Party shading/Republican}} |[[Charles M. Dale]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 9D
+|rowspan=2 {{Party shading/Republican}} |266R, 163D, 1I
+|rowspan=2 {{Party shading/Republican}} |[[Sherman Adams]] {{small|(R)}}
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=2 {{Party shading/Republican}} |19R, 5D
+|rowspan=2 {{Party shading/Republican}} |273R, 126D, 1I
+|rowspan=8 {{Party shading/Republican}} |[[Norris Cotton]] {{small|(R)}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Republican}} |[[Thomas E. Dewey]]/<br>[[Earl Warren]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Republican}} |[[Sherman Adams]] {{small|(R)}}
+|rowspan=14 {{Party shading/Republican}} |18R, 6D
+|rowspan=2 {{Party shading/Republican}} |254R, 145D
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Republican}} |263R, 133D, 3I
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower]]/<br>[[Richard Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=2 {{Party shading/Republican}} |[[Hugh Gregg]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |276R, 122D, 1I
+|- style="height:2em"
+!1954
+|{{Party shading/Republican}} |[[Robert W. Upton]] {{small|(R)}}
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Republican}} |[[Lane Dwinell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |264R, 135D
+|rowspan=20 {{Party shading/Republican}} |[[Norris Cotton]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Perkins Bass]] {{small|(R)}}
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Republican}} |276R, 118D, 3I
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=4 {{Party shading/Republican}} |[[Wesley Powell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |264R, 136D
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon]]/<br>[[Henry Cabot Lodge Jr.]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1961
+|rowspan=2 {{Party shading/Republican}} |259R, 139D, 1I
+|- style="height:2em"
+!1962
+|{{Party shading/Republican}} |[[Maurice J. Murphy Jr.]] {{small|(R)}}
+|- style="height:2em"
+!1963
+|rowspan=6 {{Party shading/Democratic}} |[[John W. King]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Republican}} |19R, 5D
+|rowspan=2 {{Party shading/Republican}} |253R, 146D
+|rowspan=18 {{Party shading/Democratic}} |[[Thomas J. McIntyre]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Louis C. Wyman]] {{small|(R)}}
+|rowspan=20 {{Party shading/Republican}} |[[James Colgate Cleveland|James Colgate<br>Cleveland]] {{small|(R)}}
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson]]/<br>[[Hubert Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Democratic}} |4D, 1R
+|rowspan=4 {{Party shading/Republican}} |14R, 10D
+|rowspan=2 {{Party shading/Republican}} |216R, 183D
+|rowspan=2 {{Party shading/Democratic}} |[[J. Oliva Huot]] {{small|(D)}}
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Republican}} |245R, 155D
+|rowspan=8 {{Party shading/Republican}} |[[Louis C. Wyman]] {{small|(R)}}
+|- style="height:2em"
+!1968
+|rowspan=10 {{Party shading/Republican}} |[[Richard Nixon]]/<br>[[Spiro Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=4 {{Party shading/Republican}} |[[Walter R. Peterson Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |5R
+|rowspan=4 {{Party shading/Republican}} |15R, 9D
+|rowspan=2 {{Party shading/Republican}} |255R, 145D
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Republican}} |253R, 147D
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=8 {{Party shading/Republican}} |[[Meldrim Thomson]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |5R
+|rowspan=2 {{Party shading/Republican}} |14R, 10D
+|rowspan=2 {{Party shading/Republican}} |263R, 137D
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!rowspan=3 |1975
+|rowspan=4 {{Party shading/Republican}} |13R, 11D
+|rowspan=4 {{Party shading/Republican}} |234R, 166D
+|{{Party shading/Republican}} |[[Louis C. Wyman]] {{small|(R)}}{{efn |name=75vacancy|After having apparently won election to the Senate, Wyman was appointed to serve out the last 4 days of retiring Senator Norris Cotton's term. However, Durkin contested the election results in the Senate, which resulted in the seat being vacant for seven months until an agreement to hold a new special election between Wyman and Durkin. Cotton was reappointed to his old seat in the meantime (from August 8 to September 18), and Durkin, having emerged victorious in the special election was finally seated on September 18.}}
+|rowspan=12 {{Party shading/Democratic}} |[[Norman D'Amours]] {{small|(D)}}
+|- style="height:2em"
+|''vacant''{{efn |name=75vacancy}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Norris Cotton]] {{small|(R)}}{{efn |name=75vacancy}}
+|- style="height:2em"
+!1976
+|rowspan=5 {{Party shading/Democratic}} |[[John A. Durkin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford]]/<br>[[Bob Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1977
+|rowspan=8 {{Party shading/Republican}} |4R, 1D
+|rowspan=4 {{Party shading/Tie}} |12R, 12D{{efn |Republican Senate Presidents, first Alf E. Jacobson, then Robert B. Monier, were chosen in 1977 and 1979.}}
+|rowspan=2 {{Party shading/Republican}} |220R, 180D
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=3 {{Party shading/Democratic}} |[[Hugh Gallen]] {{small|(D)}}{{efn |Fell ill and yielded his powers to the president of the state Senate; died on December 29, 1982.}}
+|rowspan=2 {{Party shading/Republican}} |225R, 175D
+|rowspan=12 {{Party shading/Republican}} |[[Gordon J. Humphrey]] {{small|(R)}}
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan]]/<br>[[George H. W. Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Republican}} |14R, 10D
+|rowspan=2 {{Party shading/Republican}} |240R, 160D
+|rowspan=12 {{Party shading/Republican}} |[[Warren Rudman]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Judd Gregg]] {{small|(R)}}
+|- style="height:2em"
+!1982
+|{{Party shading/Republican}} |[[Vesta M. Roy]] {{small|(R)}}{{efn |name=presacted}}
+|- style="height:2em"
+!1983
+|rowspan=6 {{Party shading/Republican}} |[[John H. Sununu]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 9D
+|rowspan=2 {{Party shading/Republican}} |242R, 158D
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=12 {{Party shading/Republican}} |5R
+|rowspan=2 {{Party shading/Republican}} |18R, 6D
+|rowspan=2 {{Party shading/Republican}} |298R, 102D
+|rowspan=6 {{Party shading/Republican}} |[[Bob Smith (New Hampshire politician)|Bob Smith]] {{small|(R)}}
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=4 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |267R, 133D
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush]]/<br>[[Dan Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|rowspan=4 {{Party shading/Republican}} |[[Judd Gregg]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |282R, 118D
+|rowspan=2 {{Party shading/Republican}} |[[Chuck Douglas]] {{small|(R)}}
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=4 {{Party shading/Republican}} |13R, 11D
+|rowspan=2 {{Party shading/Republican}} |271R, 129D
+|rowspan=12 {{Party shading/Republican}} |[[Bob Smith (New Hampshire politician)|Bob Smith]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Bill Zeliff]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Richard N. Swett]] {{small|(D)}}
+|- style="height:2em"
+!1992
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton]]/<br>[[Al Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=4 {{Party shading/Republican}} |[[Steve Merrill]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |256R, 140D, 4L
+|rowspan=18 {{Party shading/Republican}} |[[Judd Gregg]] {{small|(R)}}
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=2 {{Party shading/Republican}} |18R, 6D
+|rowspan=2 {{Party shading/Republican}} |290R, 110D
+|rowspan=12 {{Party shading/Republican}} |[[Charles Bass]] {{small|(R)}}
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!1997
+|rowspan=6 {{Party shading/Democratic}} |[[Jeanne Shaheen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Republican}} |15R, 9D
+|rowspan=2 {{Party shading/Republican}} |254R, 146D
+|rowspan=6 {{Party shading/Republican}} |[[John E. Sununu]] {{small|(R)}}
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=6 {{Party shading/Republican}} |5R
+|{{Party shading/Democratic}} |13D, 11R
+|rowspan=2 {{Party shading/Republican}} |245R, 155D
+|- style="height:2em"
+!2000
+|{{Party shading/Tie}} |12D, 12R{{efn |In summer 1999 a Democratic senator died and was succeeded by a Republican elected in a special election.}}
+|rowspan=4 {{Party shading/Republican}} |[[George W. Bush]]/<br>[[Dick Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Republican}} |13R, 11D
+|rowspan=2 {{Party shading/Republican}} |256R, 144D
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=2 {{Party shading/Republican}} |[[Craig Benson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 6D
+|rowspan=2 {{Party shading/Republican}} |278R, 122D
+|rowspan=6 {{Party shading/Republican}} |[[John E. Sununu]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jeb Bradley]] {{small|(R)}}
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry]]/<br>[[John Edwards]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2005
+|rowspan=8 {{Party shading/Democratic}} |[[John Lynch (New Hampshire governor)|John Lynch]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Republican}} |249R, 151D
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=4 {{Party shading/Democratic}} |3D, 2R
+|rowspan=4 {{Party shading/Democratic}} |14D, 10R
+|rowspan=2 {{Party shading/Democratic}} |239D, 160R, 1I
+|rowspan=4 {{Party shading/Democratic}} |[[Carol Shea-Porter]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Paul Hodes]] {{small|(D)}}
+|- style="height:2em"
+!2008
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama]]/<br>[[Joe Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2009
+|{{Party shading/Democratic}} |225D, 175R
+|rowspan=18 {{Party shading/Democratic/current}} |[[Jeanne Shaheen]] {{small|(D)}}
+|- style="height:2em"
+!2010
+|{{Party shading/Democratic}} |224D, 176R
+|- style="height:2em"
+!2011
+|rowspan=2 {{Party shading/Republican}} |5R
+|rowspan=2 {{Party shading/Republican}} |19R, 5D
+|{{Party shading/Republican}} |298R, 102D
+|rowspan=6 {{Party shading/Republican}} |[[Kelly Ayotte]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Frank Guinta]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles Bass]] {{small|(R)}}
+|- style="height:2em"
+!2012
+|{{Party shading/Republican}} |295R, 105D{{efn |Democrats flipped three seats from the Republicans in 2011 special elections}}
+|- style="height:2em"
+!2013
+|rowspan=4 {{Party shading/Democratic}} |[[Maggie Hassan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|rowspan=2 {{Party shading/Republican}} |13R, 11D
+|rowspan=2 {{Party shading/Democratic}} |221D, 179R
+|rowspan=2 {{Party shading/Democratic}} |[[Carol Shea-Porter]]{{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Annie Kuster]] {{small|(D)}}
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=4 {{Party shading/Republican}} |3R, 2D
+|rowspan=4 {{party shading/Republican}} |14R, 10D
+|rowspan=2 {{party shading/Republican}} |239R, 160D, 1I
+|rowspan=2 {{party shading/Republican}} |[[Frank Guinta]] {{small|(R)}}
+|- style="height:2em"
+!2016
+|rowspan=4 {{party shading/Democratic}} |[[Hillary Clinton]]/<br>[[Tim Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|rowspan=8 {{Party shading/Republican}} |[[Chris Sununu]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |217R, 176D, 3L
+|rowspan=10 {{Party shading/Democratic/current}} |[[Maggie Hassan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Carol Shea-Porter]] {{small|(D)}}
+|- style="height:2em"
+!2018
+|- style="height:2em"
+!2019
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|rowspan=2 {{Party shading/Democratic}} |14D, 10R
+|rowspan=2 {{Party shading/Democratic}} |234D, 166R
+|rowspan=8 {{Party shading/Democratic/current}} |[[Chris Pappas (American politician)|Chris Pappas]] {{small|(D)}}
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden]]/<br>[[Kamala Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=6 {{Party shading/Republican/current}} |4R, 1D
+|rowspan=4 {{Party shading/Republican}} |14R, 10D
+|{{Party shading/Republican}} |213R, 187D
+|- style="height:2em"
+!2022
+|{{Party shading/Republican}} |211R, 188D, 1I
+|-
+!2023
+|{{Party shading/Republican}} |201R, 199D
+|- style="height:2em"
+!2024
+|{{Party shading/Republican}} |201R, 196D, 3I
+|rowspan=3 {{Party shading/Democratic}} |[[Kamala Harris]]/<br>[[Tim Walz]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |[[Kelly Ayotte]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |16R, 8D
+|rowspan=2 {{Party shading/Republican/current}} |222R, 178D
+|rowspan=2 {{Party shading/Democratic/current}} |[[Maggie Goodlander]] {{small|(D)}}
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+
+==Notes==
+{{notelist}}
+
+==See also==
+*[[New Hampshire#Politics|Politics in New Hampshire]]
+*[[Politics of New Hampshire]]
+*[[Elections in New Hampshire]]
+*[[List of New Hampshire General Courts]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states}}
+
+[[Category:Politics of New Hampshire]]
+[[Category:Government of New Hampshire]]
+[[Category:Political party strength in the United States by state|New Hampshire]]

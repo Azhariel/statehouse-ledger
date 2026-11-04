@@ -1,0 +1,1940 @@
+{{Short description|none}}<!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=April 2025}}
+[[File:Combined--Control of the U.S. House of Representatives - Control of the U.S. Senate.png|thumb|571x571px|Control of the Congress from 1855 to 2027]]
+[[File:Popular vote vs actual seats gained.png|thumb|400px|Popular vote (dots) and house seats (triangles) won by party]]
+
+'''Party divisions of United States Congresses''' have played a central role on the organization and operations of both chambers of the [[United States Congress]]—the [[United States Senate|Senate]] and the [[United States House of Representatives|House of Representatives]]—since its establishment as the [[Bicameralism|bicameral]] legislature of the [[Federal government of the United States]] in 1789. [[Political parties]] had not been anticipated when the [[United States Constitution|U.S. Constitution]] was drafted in 1787, nor did they exist at the time the first [[United States Senate elections, 1788 and 1789|Senate elections]] and [[United States House of Representatives elections, 1788 and 1789|House elections]] occurred in 1788 and 1789. Organized political parties developed in the U.S. in the 1790s, but political factions—from which organized parties evolved—began to appear almost immediately after the [[1st United States Congress|1st Congress]] convened. Those who supported the [[Presidency of George Washington|Washington administration]] were referred to as "pro-administration" and would eventually form the [[Federalist Party]], while those in opposition joined the emerging [[Democratic-Republican Party]].<ref>[https://www.senate.gov/history/partydiv.htm U.S. Senate: Party Divisions]</ref>
+
+==Party divisions by Congress==
+The following table lists the party divisions for each [[United States Congress]]. Note that numbers in boldface denote the majority party at that particular time while italicized numbers signify a Congress in which the majority party changed intra-term.
+
+{|class=wikitable style="text-align:center"
+|- valign=bottom
+!rowspan=2 |[[United States Congress|Congress]]
+!rowspan=2 |Years
+!colspan=5 |[[United States Senate|Senate]]
+!rowspan=999 |
+!colspan=5 |[[United States House of Representatives|House of Representatives]]
+!rowspan=2 |[[President of the United States|President]]
+!rowspan=2 |[[Government trifecta|Trifecta]]
+|- valign=bottom
+!Total
+!{{Party shading/Anti-Administration}} |[[Anti-Administration Party (United States)|Anti-<br>Admin]]<ref>The Anti-Administration Party was not a formal political party but rather a faction opposed to the policies of Treasury Secretary [[Alexander Hamilton]]. The faction eventually coalesced into the [[Democratic-Republican Party]].</ref>
+!{{Party shading/Pro-Administration}} |[[Pro-Administration Party (United States)|Pro-<br>Admin]]<ref>The Pro-Administration Party was not a formal political party but rather a faction supportive of the policies of Treasury Secretary [[Alexander Hamilton]]. The faction eventually coalesced into the [[Federalist Party]].</ref>
+![[List of political parties in the United States|Others]]
+!Vacancies
+!Total
+!{{Party shading/Anti-Administration}} |Anti-<br>Admin
+!{{Party shading/Pro-Administration}} |Pro-<br>Admin
+!Others
+!Vacancies
+|-
+|[[1st United States Congress|1st]]
+|1789–1791
+|{{Party shading/Pro-Administration}} |26
+|{{Party shading/Anti-Administration}} |8
+|{{Party shading/Pro-Administration}} |'''18'''
+|—
+|—
+|{{Party shading/Pro-Administration}} |65
+|{{Party shading/Anti-Administration}} |28
+|{{Party shading/Pro-Administration}} |'''37'''
+|—
+|—
+|rowspan=3 {{Party shading/Pro-Administration}} |[[George Washington]]
+|Yes<ref name="Washington's trifecta">Though Washington never formally joined a party, he was broadly sympathetic to what was later called the “Pro-Administration” faction which later became the Federalist Party.</ref>
+|-
+|[[2nd United States Congress|2nd]]
+|1791–1793
+|{{Party shading/Pro-Administration}} |30
+|{{Party shading/Anti-Administration}} |13
+|{{Party shading/Pro-Administration}} |'''16'''
+|—
+|1
+|{{Party shading/Pro-Administration}} |69
+|{{Party shading/Anti-Administration}} |30
+|{{Party shading/Pro-Administration}} |'''39'''
+|—
+|—
+|Yes<ref name="Washington's trifecta"/>
+|-
+|[[3rd United States Congress|3rd]]
+|1793–1795
+|{{Party shading/Pro-Administration}} |30
+|{{Party shading/Anti-Administration}} |14
+|{{Party shading/Pro-Administration}} |'''16'''
+|—
+|—
+|{{Party shading/Anti-Administration}} |105
+|{{Party shading/Anti-Administration}} |'''54'''
+|{{Party shading/Pro-Administration}} |51
+|—
+|—
+|No
+|- valign=bottom
+!Congress
+!Years
+!Total
+!{{Party shading/Democratic-Republican}} |[[Democratic-Republican Party (United States)|Democratic-<br>Republicans]]
+!{{Party shading/Federalist}} |[[Federalist Party (United States)|Federalists]]
+!Others
+!Vacancies
+!Total
+!{{Party shading/Democratic-Republican}} |Democratic-<br>Republicans
+!{{Party shading/Federalist}} |Federalists
+!Others
+!Vacancies
+!President
+!Trifecta
+|-
+|[[4th United States Congress|4th]]
+|1795–1797
+|{{Party shading/Federalist}} |32
+|{{Party shading/Democratic-Republican}} |11
+|{{Party shading/Federalist}} |'''21'''
+|—
+|—
+|{{Party shading/Democratic-Republican}} |106
+|{{Party shading/Democratic-Republican}} |'''59'''
+|{{Party shading/Federalist}} |47
+|—
+|—
+|{{Party shading/Independent (US)}} |[[George Washington]]<ref>Washington disapproved of formal political parties and refused to join either party, though he became a symbol of the [[Federalist Party]].</ref>
+|No
+|-
+|[[5th United States Congress|5th]]
+|1797–1799
+|{{Party shading/Federalist}} |32
+|{{Party shading/Democratic-Republican}} |10
+|{{Party shading/Federalist}} |'''22'''
+|—
+|—
+|{{Party shading/Federalist}} |106
+|{{Party shading/Democratic-Republican}} |49
+|{{Party shading/Federalist}} |'''57'''
+|—
+|—
+|{{Party shading/Federalist}} rowspan=2 |[[John Adams]]
+|Yes
+|-
+|[[6th United States Congress|6th]]
+|1799–1801
+|{{Party shading/Federalist}} |32
+|{{Party shading/Democratic-Republican}} |10
+|{{Party shading/Federalist}} |'''22'''
+|—
+|—
+|{{Party shading/Federalist}} |106
+|{{Party shading/Democratic-Republican}} |46
+|{{Party shading/Federalist}} |'''60'''
+|—
+|—
+|Yes
+|-
+|[[7th United States Congress|7th]]
+|1801–1803
+|{{Party shading/Democratic-Republican}} |34<ref name="Jefferson Senate">When Democratic-Republican Thomas Jefferson began his presidency in March 1801, the Senate held a two-day special Senate session with an ongoing Federalist majority (without the Democratic-Republican House in session), which briefly stalled the inauguration of a Democratic-Republican trifecta government, though the session was only called by outgoing president John Adams so that the Senate could provide advice to the new president. By the time the Congress began its first regular session in December 1801 to start official business the Democratic-Republicans had gained the Senate majority and thus, with the House and with President Jefferson, held the full trifecta of government throughout that first session and for the next several years. {{Cite journal |date=March 1801 |title=Congressional Record, March 1801 |url=https://www.congress.gov/senate-journal/congress-7-special-1.pdf |journal=Congressional Record |pages=147–151}}{{Cite web |date=June 2001 |title=Explanation of the Types of Sessions of Congress |url=https://www.thegreenpapers.com/Hx/SessionsExplanation.html#spe |website=The Green Papers}}</ref>
+|{{Party shading/Democratic-Republican}} |'''17'''
+|{{Party shading/Federalist}} |15
+|—
+|2
+|{{Party shading/Democratic-Republican}} |107
+|{{Party shading/Democratic-Republican}} |'''68'''
+|{{Party shading/Federalist}} |38
+|—
+|1
+|{{Party shading/Democratic-Republican}} rowspan=4 |[[Thomas Jefferson]]
+|No*/Yes<ref name="Jefferson Senate"/>
+|-
+|[[8th United States Congress|8th]]
+|1803–1805
+|{{Party shading/Democratic-Republican}} |34
+|{{Party shading/Democratic-Republican}} |'''25'''
+|{{Party shading/Federalist}} |9
+|—
+|—
+|{{Party shading/Democratic-Republican}} |142
+|{{Party shading/Democratic-Republican}} |'''103'''
+|{{Party shading/Federalist}} |39
+|—
+|—
+|Yes
+|-
+|[[9th United States Congress|9th]]
+|1805–1807
+|{{Party shading/Democratic-Republican}} |34
+|{{Party shading/Democratic-Republican}} |'''27'''
+|{{Party shading/Federalist}} |7
+|—
+|—
+|{{Party shading/Democratic-Republican}} |142
+|{{Party shading/Democratic-Republican}} |'''114'''
+|{{Party shading/Federalist}} |28
+|—
+|—
+|Yes
+|-
+|[[10th United States Congress|10th]]
+|1807–1809
+|{{Party shading/Democratic-Republican}} |34
+|{{Party shading/Democratic-Republican}} |'''28'''
+|{{Party shading/Federalist}} |6
+|—
+|—
+|{{Party shading/Democratic-Republican}} |142
+|{{Party shading/Democratic-Republican}} |'''116'''
+|{{Party shading/Federalist}} |26
+|—
+|—
+|Yes
+|-
+|[[11th United States Congress|11th]]
+|1809–1811
+|{{Party shading/Democratic-Republican}} |34
+|{{Party shading/Democratic-Republican}} |'''27'''
+|{{Party shading/Federalist}} |7
+|—
+|—
+|{{Party shading/Democratic-Republican}} |142
+|{{Party shading/Democratic-Republican}} |'''92'''
+|{{Party shading/Federalist}} |50
+|—
+|—
+|{{Party shading/Democratic-Republican}} rowspan=4 |[[James Madison]]
+|Yes
+|-
+|[[12th United States Congress|12th]]
+|1811–1813
+|{{Party shading/Democratic-Republican}} |36
+|{{Party shading/Democratic-Republican}} |'''30'''
+|{{Party shading/Federalist}} |6
+|—
+|—
+|{{Party shading/Democratic-Republican}} |143
+|{{Party shading/Democratic-Republican}} |'''107'''
+|{{Party shading/Federalist}} |36
+|—
+|—
+|Yes
+|-
+|[[13th United States Congress|13th]]
+|1813–1815
+|{{Party shading/Democratic-Republican}} |36
+|{{Party shading/Democratic-Republican}} |'''28'''
+|{{Party shading/Federalist}} |8
+|—
+|—
+|{{Party shading/Democratic-Republican}} |182
+|{{Party shading/Democratic-Republican}} |'''114'''
+|{{Party shading/Federalist}} |68
+|—
+|—
+|Yes
+|-
+|[[14th United States Congress|14th]]
+|1815–1817
+|{{Party shading/Democratic-Republican}} |38
+|{{Party shading/Democratic-Republican}} |'''26'''
+|{{Party shading/Federalist}} |12
+|—
+|—
+|{{Party shading/Democratic-Republican}} |183
+|{{Party shading/Democratic-Republican}} |'''119'''
+|{{Party shading/Federalist}} |64
+|—
+|—
+|Yes
+|-
+|[[15th United States Congress|15th]]
+|1817–1819
+|{{Party shading/Democratic-Republican}} |42
+|{{Party shading/Democratic-Republican}} |'''30'''
+|{{Party shading/Federalist}} |12
+|—
+|—
+|{{Party shading/Democratic-Republican}} |185
+|{{Party shading/Democratic-Republican}} |'''146'''
+|{{Party shading/Federalist}} |39
+|—
+|—
+|{{Party shading/Democratic-Republican}} rowspan=4 |[[James Monroe]]
+|Yes
+|-
+|[[16th United States Congress|16th]]
+|1819–1821
+|{{Party shading/Democratic-Republican}} |46
+|{{Party shading/Democratic-Republican}} |'''37'''
+|{{Party shading/Federalist}} |9
+|—
+|—
+|{{Party shading/Democratic-Republican}} |186
+|{{Party shading/Democratic-Republican}} |'''160'''
+|{{Party shading/Federalist}} |26
+|—
+|—
+|Yes
+|-
+|[[17th United States Congress|17th]]
+|1821–1823
+|{{Party shading/Democratic-Republican}} |48
+|{{Party shading/Democratic-Republican}} |'''44'''
+|{{Party shading/Federalist}} |4
+|—
+|—
+|{{Party shading/Democratic-Republican}} |187
+|{{Party shading/Democratic-Republican}} |'''155'''
+|{{Party shading/Federalist}} |32
+|—
+|—
+|Yes
+|-
+|[[18th United States Congress|18th]]
+|1823–1825
+|{{Party shading/Democratic-Republican}} |48
+|{{Party shading/Democratic-Republican}} |'''43'''
+|{{Party shading/Federalist}} |5
+|—
+|—
+|{{Party shading/Democratic-Republican}} |213
+|{{Party shading/Democratic-Republican}} |'''189'''
+|{{Party shading/Federalist}} |24
+|—
+|—
+|Yes
+|- valign=bottom
+!Congress
+!Years
+!Total
+!{{Party shading/Jacksonian}} |Jacksonian<ref name=adamsjackson>The [[Democratic-Republican Party]] broke up into two competing parties during the 1820s, but there is no official date of dissolution for the Democratic-Republicans. During the [[presidency of John Quincy Adams]], Congress became divided between a group that favored Adams and a group that favored [[Andrew Jackson]]. After Adams left office, Congress was divided into a group that supported the Jackson administration and a group that opposed it. During Jackson's presidency, the pro-Jackson group coalesced into the [[Democratic Party (United States)|Democratic Party]], while the anti-Jackson group (which included the [[National Republican Party]]) joined with the [[Anti-Masonic Party]] and other groups to form the [[Whig Party (United States)|Whig Party]].</ref>
+!{{Party shading/National Republican}} |Anti-Jackson<ref name=adamsjackson/>
+!Others
+!Vacancies
+!Total
+!{{Party shading/Jacksonian}} |Jacksonian<ref name=adamsjackson/>
+!{{Party shading/National Republican}} |Anti-Jackson<ref name=adamsjackson/>
+!Others
+!Vacancies
+!President
+!Trifecta
+|-
+|[[19th United States Congress|19th]]
+|1825–1827
+|{{Party shading/Jacksonian}} |48
+|{{Party shading/Jacksonian}} |'''26'''
+|{{Party shading/National Republican}} |22
+|—
+|—
+|{{Party shading/National Republican}} |213
+|{{Party shading/Jacksonian}} |104
+|{{Party shading/National Republican}} |'''109'''
+|—
+|—
+|{{Party shading/Democratic-Republican}} rowspan=2 |[[John Quincy Adams]]<ref>Adams won election as a Democratic-Republican, but he sought re-election as a National Republican.</ref>
+|No
+|-
+|[[20th United States Congress|20th]]
+|1827–1829
+|{{Party shading/Jacksonian}} |48
+|{{Party shading/Jacksonian}} |'''27'''
+|{{Party shading/National Republican}} |21
+|—
+|—
+|{{Party shading/Jacksonian}} |213
+|{{Party shading/Jacksonian}} |'''113'''
+|{{Party shading/National Republican}} |100
+|—
+|—
+|No
+|-
+|[[21st United States Congress|21st]]
+|1829–1831
+|{{Party shading/Jacksonian}} |48
+|{{Party shading/Jacksonian}} |'''25'''
+|{{Party shading/National Republican}} |23
+|—
+|—
+|{{Party shading/Jacksonian}} |213
+|{{Party shading/Jacksonian}} |'''136'''
+|{{Party shading/National Republican}} |72
+|5
+|—
+|{{Party shading/Democratic}} rowspan=4 |[[Andrew Jackson]]
+|Yes
+|-
+|[[22nd United States Congress|22nd]]
+|1831–1833
+|{{Party shading/Jacksonian}} |48<ref name="Senate 1833">Jacksonian control of the Senate was through plurality.</ref>
+|{{Party shading/Jacksonian}} |'''24'''
+|{{Party shading/National Republican}} |22
+|2
+|—
+|{{Party shading/Jacksonian}} |213
+|{{Party shading/Jacksonian}} |'''126'''
+|{{Party shading/National Republican}} |66
+|21
+|—
+|Yes<ref name="Jackson 1833">Jackson had a trifecta through a Senate that was controlled by plurality.</ref>
+|-
+|[[23rd United States Congress|23rd]]
+|1833–1835
+|{{Party shading/National Republican}} |48
+|{{Party shading/Jacksonian}} |20
+|{{Party shading/National Republican}} |'''26'''
+|2
+|—
+|{{Party shading/Jacksonian}} |240
+|{{Party shading/Jacksonian}} |'''143'''
+|{{Party shading/National Republican}} |63
+|34
+|—
+|No
+|-
+|[[24th United States Congress|24th]]
+|1835–1837
+|{{Party shading/Jacksonian}} |52<ref name="Jackson Senate">In the first congressional session the Senate remained under control of “National Republicans” for one year; before the start of the second congressional session the Senate reverted to Jacksonian control, and Jacksonians kept the Senate for the remainder of the congressional term.</ref>
+|{{Party shading/Jacksonian}} |'''26'''
+|{{Party shading/National Republican}} |24
+|2
+|—
+|{{Party shading/Jacksonian}} |242
+|{{Party shading/Jacksonian}} |'''143'''
+|{{Party shading/National Republican}} |75
+|24
+|—
+|No/Yes<ref name="Jackson Trifecta">Jackson did not have a trifecta during the first congressional session when the Senate remained under control of “National Republicans” for one year; Jacksonians flipped the Senate before the second congressional session and Jackson held a trifecta through that new Senate majority for the remainder of the congressional term.</ref>
+|- valign=bottom
+!Congress
+!Years
+!Total
+!{{Party shading/Democratic}} |[[Democratic Party (United States)|Democrats]]
+!{{Party shading/Whig}} |[[Whig Party (United States)|Whigs]]
+!Others
+!Vacancies
+!Total
+!{{Party shading/Democratic}} |Democrats
+!{{Party shading/Whig}} |Whigs
+!Others
+!Vacancies
+!President
+!Trifecta
+|-
+|[[25th United States Congress|25th]]
+|1837–1839
+|{{Party shading/Democratic}} |52
+|{{Party shading/Democratic}} |'''35'''
+|{{Party shading/Whig}} |17
+|—
+|—
+|{{Party shading/Democratic}} |242
+|{{Party shading/Democratic}} |'''128'''
+|{{Party shading/Whig}} |100
+|14
+|—
+|{{Party shading/Democratic}} rowspan=2 |[[Martin Van Buren]]
+|Yes
+|-
+|[[26th United States Congress|26th]]
+|1839–1841
+|{{Party shading/Democratic}} |52
+|{{Party shading/Democratic}} |'''30'''
+|{{Party shading/Whig}} |22
+|—
+|—
+|{{Party shading/Democratic}} |242
+|{{Party shading/Democratic}} |'''125'''
+|{{Party shading/Whig}} |109
+|8
+|—
+|Yes
+|-
+|[[27th United States Congress|27th]]
+|1841–1843
+|{{Party shading/Whig}} |52
+|{{Party shading/Democratic}} |22
+|{{Party shading/Whig}} |'''29'''
+|—
+|1
+|{{Party shading/Whig}} |242
+|{{Party shading/Democratic}} |98
+|{{Party shading/Whig}} |'''142'''
+|2
+|—
+|rowspan=2 {{Party shading/Independent (US)}} |[[John Tyler]]<ref>Whig president [[William Henry Harrison]] died April 4, 1841, one month into his term, and was succeeded by [[John Tyler]], who served for the remainder of the term. Tyler had been elected as vice president on the Whig ticket, but he became an [[independent (politics)|independent]] after the Whigs expelled him from the party on September 13, 1841.</ref>
+|Yes/No<ref>Whigs held their only trifecta from March 4, 1841, until later that year when the Whigs expelled Tyler from the party on September 13 and he became an Independent.</ref>
+|-
+|[[28th United States Congress|28th]]
+|1843–1845
+|{{Party shading/Whig}} |52
+|{{Party shading/Democratic}} |23
+|{{Party shading/Whig}} |'''29'''
+|—
+|—
+|{{Party shading/Democratic}} |223
+|{{Party shading/Democratic}} |'''147'''
+|{{Party shading/Whig}} |72
+|4
+|—
+|No
+|-
+|[[29th United States Congress|29th]]
+|1845–1847
+|{{Party shading/Democratic}} |58
+|{{Party shading/Democratic}} |'''34'''
+|{{Party shading/Whig}} |22
+|—
+|2
+|{{Party shading/Democratic}} |228
+|{{Party shading/Democratic}} |'''142'''
+|{{Party shading/Whig}} |79
+|7
+|—
+|{{Party shading/Democratic}} rowspan=2 |[[James K. Polk]]
+|Yes
+|-
+|[[30th United States Congress|30th]]
+|1847–1849
+|{{Party shading/Democratic}} |60
+|{{Party shading/Democratic}} |'''38'''
+|{{Party shading/Whig}} |21
+|1
+|—
+|{{Party shading/Whig}} |230<ref name="Polk House">Whigs controlled the House through a plurality in the 2nd half of the 1st congressional session; for the remainder of the two sessions the Whigs controlled the House through a majority.</ref>
+|{{Party shading/Democratic}} |110
+|{{Party shading/Whig}} |'''116'''
+|4
+|—
+|No
+|-
+|[[31st United States Congress|31st]]
+|1849–1851
+|{{Party shading/Democratic}} |62
+|{{Party shading/Democratic}} |'''35'''
+|{{Party shading/Whig}} |25
+|2
+|—
+|{{Party shading/Democratic}} |233<ref name="Taylor House">The Democrats held the House through a plurality.</ref>
+|{{Party shading/Democratic}} |'''113'''
+|{{Party shading/Whig}} |108
+|11
+|1
+|{{Party shading/Whig}} |[[Zachary Taylor]]<ref>President Taylor died July 9, 1850, about one year and four months into the term, and was succeeded by [[Millard Fillmore]], who served for the remainder of the term.</ref>
+|No
+|-
+|[[32nd United States Congress|32nd]]
+|1851–1853
+|{{Party shading/Democratic}} |62
+|{{Party shading/Democratic}} |'''36'''
+|{{Party shading/Whig}} |23
+|3
+|—
+|{{Party shading/Democratic}} |233
+|{{Party shading/Democratic}} |'''127'''
+|{{Party shading/Whig}} |85
+|21
+|—
+|{{Party shading/Whig}} |[[Millard Fillmore]]
+|No
+|-
+|[[33rd United States Congress|33rd]]
+|1853–1855
+|{{Party shading/Democratic}} |62
+|{{Party shading/Democratic}} |'''38'''
+|{{Party shading/Whig}} |22
+|2
+|—
+|{{Party shading/Democratic}} |234
+|{{Party shading/Democratic}} |'''157'''
+|{{Party shading/Whig}} |71
+|6
+|—
+|{{Party shading/Democratic}} |[[Franklin Pierce]]
+|Yes
+|- valign=bottom
+!Congress
+!Years
+!Total
+!{{Party shading/Democratic}} |Democrats
+!{{Party shading/Opposition}} |[[Opposition Party (Northern U.S.)|Opposition]]<ref>The [[Opposition Party (Northern U.S.)|"Opposition Party"]] was the congressional coalition formed by former Whigs and members of the nascent [[Republican Party (United States)|Republican Party]]. The Opposition Party opposed the Democratic Party in the aftermath of the collapse of the [[Whig Party (United States)|Whig Party]].</ref>
+!Others
+!Vacancies
+!Total
+!{{Party shading/Democratic}} |Democrats
+!{{Party shading/Opposition}} |Opposition
+!Others
+!Vacancies
+!President
+!Trifecta
+|-
+|[[34th United States Congress|34th]]
+|1855–1857
+|{{Party shading/Democratic}} |62
+|{{Party shading/Democratic}} |'''39'''
+|{{Party shading/Opposition}} |21
+|2
+|—
+|{{Party shading/Opposition}} |234
+|{{Party shading/Democratic}} |83
+|{{Party shading/Opposition}} |'''100'''
+|51
+|—
+|{{Party shading/Democratic}} |[[Franklin Pierce]]
+|No
+|- valign=bottom
+!Congress
+!Years
+!Total
+!{{Party shading/Democratic}} |Democrats
+!{{Party shading/Republican}} |[[Republican Party (United States)|Republicans]]
+!Others
+!Vacancies
+!Total
+!{{Party shading/Democratic}} |Democrats
+!{{Party shading/Republican}} |Republicans
+!Others
+!Vacancies
+!President
+!Trifecta
+|-
+|[[35th United States Congress|35th]]
+|1857–1859
+|{{Party shading/Democratic}} |64
+|{{Party shading/Democratic}} |'''39'''
+|{{Party shading/Republican}} |20
+|5
+|—
+|{{Party shading/Democratic}} |237
+|{{Party shading/Democratic}} |'''131'''
+|{{Party shading/Republican}} |94
+|13
+|—
+|{{Party shading/Democratic}} rowspan=2 |[[James Buchanan]]
+|Yes
+|-
+|[[36th United States Congress|36th]]
+|1859–1861
+|{{Party shading/Democratic}} |66
+|{{Party shading/Democratic}} |'''38'''
+|{{Party shading/Republican}} |26
+|2
+|—
+|{{Party shading/Republican}} |237<ref name="Buchannan House">The Republicans controlled the House through a coalition with other Opposition parties.</ref>
+|{{Party shading/Democratic}} |101
+|{{Party shading/Republican}} |'''113'''
+|23
+|—
+|No
+|-
+|[[37th United States Congress|37th]]
+|1861–1863
+|{{Party shading/Republican}} |50
+|{{Party shading/Democratic}} |11
+|{{Party shading/Republican}} |'''31'''
+|7
+|1
+|{{Party shading/Republican}} |178
+|{{Party shading/Democratic}} |42
+|{{Party shading/Republican}} |'''106'''
+|28
+|2
+|{{Party shading/Republican}} rowspan=2 |[[Abraham Lincoln]]<ref>President Lincoln was assassinated and died April 15, 1865, about a month after beginning his second term as president. He was succeeded by [[Democratic Party (United States)|Democrat]] [[Andrew Johnson]], who served the remainder of the term.</ref>
+|Yes
+|-
+|[[38th United States Congress|38th]]
+|1863–1865
+|{{Party shading/Republican}} |51
+|{{Party shading/Democratic}} |12
+|{{Party shading/Republican}} |'''29'''
+|—
+|—
+|{{Party shading/Republican}} |183<ref name="Lincoln House">The Republicans controlled the House through a coalition with [[Unconditional Unionist Party|Unconditional Unionists]].</ref>
+|{{Party shading/Democratic}} |80
+|{{Party shading/Republican}} |'''103'''
+|—
+|—
+|Yes<ref name="Lincoln Trifecta">The Republicans held a trifecta by controlling the House through a coalition with [[Unconditional Unionist Party|Unconditional Unionists]].</ref>
+|-
+|[[39th United States Congress|39th]]
+|1865–1867
+|{{Party shading/Republican}} |52
+|{{Party shading/Democratic}} |10
+|{{Party shading/Republican}} |'''42'''
+|—
+|—
+|{{Party shading/Republican}} |191
+|{{Party shading/Democratic}} |46
+|{{Party shading/Republican}} |'''145'''
+|—
+|—
+|{{Party shading/National Union}} rowspan=2 |[[Andrew Johnson]]<ref name=JohnsonParty>Johnson was elected as vice president on the [[National Union Party (United States)|National Union]] ticket, but was a Democrat prior to the 1864 election.</ref>
+|Yes/No<ref>Republicans held a trifecta until Lincoln's assassination on April 15, 1865, after which the former War Democrat Andrew Johnson became president.</ref>
+|-
+|[[40th United States Congress|40th]]
+|1867–1869
+|{{Party shading/Republican}} |53
+|{{Party shading/Democratic}} |11
+|{{Party shading/Republican}} |'''42'''
+|—
+|—
+|{{Party shading/Republican}} |193
+|{{Party shading/Democratic}} |49
+|{{Party shading/Republican}} |'''143'''
+|—
+|1
+|No
+|-
+|[[41st United States Congress|41st]]
+|1869–1871
+|{{Party shading/Republican}} |74
+|{{Party shading/Democratic}} |11
+|{{Party shading/Republican}} |'''61'''
+|—
+|2
+|{{Party shading/Republican}} |243
+|{{Party shading/Democratic}} |73
+|{{Party shading/Republican}} |'''170'''
+|—
+|—
+|{{Party shading/Republican}} rowspan=4 |[[Ulysses S. Grant]]
+|Yes
+|-
+|[[42nd United States Congress|42nd]]
+|1871–1873
+|{{Party shading/Republican}} |74
+|{{Party shading/Democratic}} |17
+|{{Party shading/Republican}} |'''57'''
+|—
+|—
+|{{Party shading/Republican}} |243
+|{{Party shading/Democratic}} |104
+|{{Party shading/Republican}} |'''136'''
+|3
+|—
+|Yes
+|-
+|[[43rd United States Congress|43rd]]
+|1873–1875
+|{{Party shading/Republican}} |74
+|{{Party shading/Democratic}} |19
+|{{Party shading/Republican}} |'''54'''
+|—
+|1
+|{{Party shading/Republican}} |293
+|{{Party shading/Democratic}} |88
+|{{Party shading/Republican}} |'''203'''
+|—
+|2
+|Yes
+|-
+|[[44th United States Congress|44th]]
+|1875–1877
+|{{Party shading/Republican}} |76
+|{{Party shading/Democratic}} |29
+|{{Party shading/Republican}} |'''46'''
+|—
+|1
+|{{Party shading/Democratic}} |293
+|{{Party shading/Democratic}} |'''181'''
+|{{Party shading/Republican}} |107
+|3
+|2
+|No
+|-
+|[[45th United States Congress|45th]]
+|1877–1879
+|{{Party shading/Republican}} |76<ref name="Rutherford Senate">Republicans controlled the Senate through the tie-breaking [[Vice President of the United States|vice president]].</ref>
+|{{Party shading/Democratic}} |36
+|{{Party shading/Republican}} |'''39'''
+|1
+|—
+|{{Party shading/Democratic}} |293
+|{{Party shading/Democratic}} |'''156'''
+|{{Party shading/Republican}} |137
+|—
+|—
+|{{Party shading/Republican}} rowspan=2 |[[Rutherford B. Hayes]]
+|No
+|-
+|[[46th United States Congress|46th]]
+|1879–1881
+|{{Party shading/Democratic}} |76
+|{{Party shading/Democratic}} |'''43'''
+|{{Party shading/Republican}} |33
+|—
+|—
+|{{Party shading/Democratic}} |293<ref name="Rutherford House">Democrats controlled the House through a coalition with Independent Democrats.</ref>
+|{{Party shading/Democratic}} |'''150'''
+|{{Party shading/Republican}} |128
+|14
+|1
+|No
+|-
+|[[47th United States Congress|47th]]
+|1881–1883
+|76<ref name="Deadlock">When the congressional term began with a special Senate session starting March 1881, the Republicans held the Senate (and a trifecta) through the tie-breaking vice president Arthur and through a caucus that included a Readjuster senator. When both Republican New York senators resigned on May 16 of that year, the Republicans lost control of the Senate and lost their trifecta, and the Senate ended their special session. By the time the Senate reconvened for a second special Senate session in October 1881 with two new Republican New York senators, Vice President Arthur had succeeded to the presidency and the Senate deadlocked in what is known as the "Great Senate Deadlock of 1881”. For the rest of the special session and for the remaining two regular congressional sessions, the split Senate decided to give Republicans the role of controlling the all-too important Senate committees, give the Democrat-caucusing independent the mostly ceremonial role of president pro tempore, and leave the patronage appointments and other Senate office appointments to the Democrats. {{cite web |title=The Great Senate Deadlock of 1881 |url=https://www.senate.gov/artandhistory/history/common/briefing/Senate_Deadlock_1881.htm |access-date=1 July 2014 |website=Senate.gov |publisher=US Senate}}</ref>
+|{{Party shading/Democratic}} |37
+|{{Party shading/Republican}} |37
+|2
+|—
+|{{Party shading/Republican}} |293<ref name="Arthur House">Republicans controlled the House through a plurality that eventually became a majority in the middle of the first congressional session.</ref>
+|{{Party shading/Democratic}} |130
+|{{Party shading/Republican}} |'''152'''
+|11
+|—
+|{{Party shading/Republican}} rowspan=2 |[[Chester A. Arthur]]<ref>[[James A. Garfield]] died September 19, 1881, roughly six months into his term. He was succeeded by [[Chester Arthur]], who served for the remainder of the term.</ref>
+|Yes<ref name="Deadlock"/>/No
+|-
+|[[48th United States Congress|48th]]
+|1883–1885
+|{{Party shading/Republican}} |76<ref name="Arthur Senate">Republicans controlled the Senate through a caucus with [[Readjuster Party|Readjusters]].</ref>
+|{{Party shading/Democratic}} |36
+|{{Party shading/Republican}} |'''40'''
+|—
+|—
+|{{Party shading/Democratic}} |325
+|{{Party shading/Democratic}} |'''200'''
+|{{Party shading/Republican}} |119
+|6
+|—
+|No
+|-
+|[[49th United States Congress|49th]]
+|1885–1887
+|{{Party shading/Republican}} |76<ref name="1885 Senate">Republicans controlled the Senate through a continued caucus with [[Readjuster Party|Readjusters]].</ref>
+|{{Party shading/Democratic}} |34
+|{{Party shading/Republican}} |'''41'''
+|—
+|1
+|{{Party shading/Democratic}} |325
+|{{Party shading/Democratic}} |'''182'''
+|{{Party shading/Republican}} |140
+|2
+|1
+|{{Party shading/Democratic}} rowspan=2 |[[Grover Cleveland]]
+|No
+|-
+|[[50th United States Congress|50th]]
+|1887–1889
+|{{Party shading/Republican}} |76<ref name="1885 Senate"/>
+|{{Party shading/Democratic}} |37
+|{{Party shading/Republican}} |'''39'''
+|—
+|—
+|{{Party shading/Democratic}} |325
+|{{Party shading/Democratic}} |'''170'''
+|{{Party shading/Republican}} |151
+|4
+|—
+|No
+|-
+|[[51st United States Congress|51st]]
+|1889–1891
+|{{Party shading/Republican}} |84
+|{{Party shading/Democratic}} |37
+|{{Party shading/Republican}} |'''47'''
+|—
+|—
+|{{Party shading/Republican}} |330
+|{{Party shading/Democratic}} |156
+|{{Party shading/Republican}} |'''173'''
+|1
+|—
+|{{Party shading/Republican}} rowspan=2 |[[Benjamin Harrison]]
+|Yes
+|-
+|[[52nd United States Congress|52nd]]
+|1891–1893
+|{{Party shading/Republican}} |88
+|{{Party shading/Democratic}} |39
+|{{Party shading/Republican}} |'''47'''
+|2
+|—
+|{{Party shading/Democratic}} |333
+|{{Party shading/Democratic}} |'''231'''
+|{{Party shading/Republican}} |88
+|14
+|—
+|No
+|-
+|[[53rd United States Congress|53rd]]
+|1893–1895
+|{{Party shading/Democratic}} |88<ref name="Cleveland Senate">Democrats controlled the Senate through a plurality.</ref>
+|{{Party shading/Democratic}} |'''44'''
+|{{Party shading/Republican}} |38
+|3
+|3
+|{{Party shading/Democratic}} |356
+|{{Party shading/Democratic}} |'''220'''
+|{{Party shading/Republican}} |126
+|10
+|—
+|{{Party shading/Democratic}} rowspan=2 |Grover Cleveland
+|Yes<ref name="Cleveland Trifecta">Democrats held a trifecta by controlling the Senate through a plurality.</ref>
+|-
+|[[54th United States Congress|54th]]
+|1895–1897
+|{{Party shading/Republican}} |88<ref name="McKinley Senate">Republicans controlled the Senate through a plurality.</ref>
+|{{Party shading/Democratic}} |39
+|{{Party shading/Republican}} |'''44'''
+|5
+|—
+|{{Party shading/Republican}} |357
+|{{Party shading/Democratic}} |104
+|{{Party shading/Republican}} |'''246'''
+|7
+|—
+|No
+|-
+|[[55th United States Congress|55th]]
+|1897–1899
+|{{Party shading/Republican}} |90<ref name="McKinley Senate"/>
+|{{Party shading/Democratic}} |34
+|{{Party shading/Republican}} |'''46'''
+|10
+|—
+|{{Party shading/Republican}} |357
+|{{Party shading/Democratic}} |134
+|{{Party shading/Republican}} |'''206'''
+|16
+|1
+|{{Party shading/Republican}} rowspan=2 |[[William McKinley]]<ref>McKinley died September 14, 1901, about six months into his second term, and was succeeded by [[Theodore Roosevelt]]. Roosevelt served for the remainder of the term and was [[1904 United States presidential election|elected president in 1904]].</ref>
+|Yes<ref name="McKinley Trifecta">Republicans held a trifecta by controlling the Senate through a plurality.</ref>
+|-
+|[[56th United States Congress|56th]]
+|1899–1901
+|{{Party shading/Republican}} |90
+|{{Party shading/Democratic}} |26
+|{{Party shading/Republican}} |'''53'''
+|11
+|—
+|{{Party shading/Republican}} |357
+|{{Party shading/Democratic}} |163
+|{{Party shading/Republican}} |'''185'''
+|9
+|—
+|Yes
+|-
+|[[57th United States Congress|57th]]
+|1901–1903
+|{{Party shading/Republican}} |90
+|{{Party shading/Democratic}} |29
+|{{Party shading/Republican}} |'''56'''
+|3
+|2
+|{{Party shading/Republican}} |357
+|{{Party shading/Democratic}} |153
+|{{Party shading/Republican}} |'''198'''
+|5
+|1
+|{{Party shading/Republican}} rowspan=4 |[[Theodore Roosevelt]]
+|Yes
+|-
+|[[58th United States Congress|58th]]
+|1903–1905
+|{{Party shading/Republican}} |90
+|{{Party shading/Democratic}} |32
+|{{Party shading/Republican}} |'''58'''
+|—
+|—
+|{{Party shading/Republican}} |386
+|{{Party shading/Democratic}} |178
+|{{Party shading/Republican}} |'''207'''
+|—
+|1
+|Yes
+|-
+|[[59th United States Congress|59th]]
+|1905–1907
+|{{Party shading/Republican}} |90
+|{{Party shading/Democratic}} |32
+|{{Party shading/Republican}} |'''58'''
+|—
+|—
+|{{Party shading/Republican}} |386
+|{{Party shading/Democratic}} |136
+|{{Party shading/Republican}} |'''250'''
+|—
+|—
+|Yes
+|-
+|[[60th United States Congress|60th]]
+|1907–1909
+|{{Party shading/Republican}} |92
+|{{Party shading/Democratic}} |29
+|{{Party shading/Republican}} |'''61'''
+|—
+|2
+|{{Party shading/Republican}} |386
+|{{Party shading/Democratic}} |164
+|{{Party shading/Republican}} |'''222'''
+|—
+|—
+|Yes
+|-
+|[[61st United States Congress|61st]]
+|1909–1911
+|{{Party shading/Republican}} |92
+|{{Party shading/Democratic}} |32
+|{{Party shading/Republican}} |'''59'''
+|—
+|1
+|{{Party shading/Republican}} |391
+|{{Party shading/Democratic}} |172
+|{{Party shading/Republican}} |'''219'''
+|—
+|—
+|{{Party shading/Republican}} rowspan=2 |[[William Howard Taft|William H. Taft]]
+|Yes
+|-
+|[[62nd United States Congress|62nd]]
+|1911–1913
+|{{Party shading/Republican}} |92
+|{{Party shading/Democratic}} |42
+|{{Party shading/Republican}} |'''49'''
+|—
+|1
+|{{Party shading/Democratic}} |391
+|{{Party shading/Democratic}} |'''228'''
+|{{Party shading/Republican}} |162
+|1
+|—
+|No
+|-
+|[[63rd United States Congress|63rd]]
+|1913–1915
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''51'''
+|{{Party shading/Republican}} |44
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''290'''
+|{{Party shading/Republican}} |127
+|18
+|—
+|{{Party shading/Democratic}} rowspan=4 |[[Woodrow Wilson]]
+|Yes
+|-
+|[[64th United States Congress|64th]]
+|1915–1917
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''56'''
+|{{Party shading/Republican}} |39
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''231'''
+|{{Party shading/Republican}} |193
+|8
+|3
+|Yes
+|-
+|[[65th United States Congress|65th]]
+|1917–1919
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''53'''
+|{{Party shading/Republican}} |42
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''210'''
+|{{Party shading/Republican}} |216
+|{{Party shading/Democratic}} |'''9'''<ref>The Democratic Party controlled the House in coalition with the [[Progressive Party (United States, 1912)|Progressive Party]] and the [[Socialist Party of America|Socialist Party]]. The lone congressional member of the [[Prohibition Party]] was not a part of this coalition.</ref>
+|—
+|Yes<ref name="Wilson Trifecta">Democrats held a trifecta through a coalition-led House majority with Progressive members and a Socialist member.</ref>
+|-
+|[[66th United States Congress|66th]]
+|1919–1921
+|{{Party shading/Republican}} |96
+|{{Party shading/Democratic}} |47
+|{{Party shading/Republican}} |'''49'''
+|—
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |191
+|{{Party shading/Republican}} |'''237'''
+|7
+|—
+|No
+|-
+|[[67th United States Congress|67th]]
+|1921–1923
+|{{Party shading/Republican}} |96
+|{{Party shading/Democratic}} |37
+|{{Party shading/Republican}} |'''59'''
+|—
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |132
+|{{Party shading/Republican}} |'''300'''
+|1
+|2
+|{{Party shading/Republican}} |[[Warren G. Harding]]<ref>President Harding died August 2, 1923, about two years and five months after becoming president, and was succeeded by vice-president [[Calvin Coolidge]]. Coolidge served for the remainder of the term and was [[1924 United States presidential election|subsequently elected president in 1924]].</ref>
+|Yes
+|-
+|[[68th United States Congress|68th]]
+|1923–1925
+|{{Party shading/Republican}} |96
+|{{Party shading/Democratic}} |43
+|{{Party shading/Republican}} |'''51'''
+|2
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |207
+|{{Party shading/Republican}} |'''225'''
+|3
+|—
+|{{Party shading/Republican}} rowspan=3 |[[Calvin Coolidge]]
+|Yes
+|-
+|[[69th United States Congress|69th]]
+|1925–1927
+|{{Party shading/Republican}} |96
+|{{Party shading/Democratic}} |40
+|{{Party shading/Republican}} |'''54'''
+|1
+|1
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |183
+|{{Party shading/Republican}} |'''247'''
+|5
+|—
+|Yes
+|-
+|[[70th United States Congress|70th]]
+|1927–1929
+|{{Party shading/Republican}} |96<ref name="Coolidge Senate">At the end of the first month of the first session of Congress, Republicans gained control of the Senate through a VP-tie-breaking majority.</ref>
+|{{Party shading/Democratic}} |47
+|{{Party shading/Republican}} |'''48'''
+|1
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |195
+|{{Party shading/Republican}} |'''237'''
+|3
+|—
+|Yes<ref name="Coolidge Trifecta">Republicans controlled a trifecta through a VP-tie-breaking majority in the Senate that began at the end of the first month of the first session of Congress.</ref>
+|-
+|[[71st United States Congress|71st]]
+|1929–1931
+|{{Party shading/Republican}} |96
+|{{Party shading/Democratic}} |39
+|{{Party shading/Republican}} |'''56'''
+|1
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |163
+|{{Party shading/Republican}} |'''267'''
+|1
+|4
+|{{Party shading/Republican}} rowspan=2 |[[Herbert Hoover]]
+|Yes
+|-
+|[[72nd United States Congress|72nd]]
+|1931–1933
+|{{Party shading/Republican}} |96<ref name="Hoover Senate">Republicans controlled the Senate through a VP-tie-breaking majority.</ref>
+|{{Party shading/Democratic}} |47
+|{{Party shading/Republican}} |'''48'''
+|1
+|—
+|{{Party shading/Democratic}} |435<ref name="Hoover House">Before Congress’ first session, Democrats gained the House majority, and they held that majority for the entire remainder of the congressional term.</ref>
+|{{Party shading/Democratic}} |'''217'''
+|{{Party shading/Republican}} |217
+|{{Party shading/Democratic}} |'''1'''
+|—
+|No
+|-
+|[[73rd United States Congress|73rd]]
+|1933–1935
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''59'''
+|{{Party shading/Republican}} |36
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''313'''
+|{{Party shading/Republican}} |117
+|5
+|—
+|{{Party shading/Democratic}} rowspan=6 |[[Franklin D. Roosevelt]]<ref>Roosevelt died April 12, 1945, about three months into his fourth term as president, and was succeeded by [[Harry S. Truman]]. Truman served the remainder of the term and was [[1948 United States presidential election|elected president in 1948]].</ref>
+|Yes
+|-
+|[[74th United States Congress|74th]]
+|1935–1937
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''69'''
+|{{Party shading/Republican}} |25
+|2
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''322'''
+|{{Party shading/Republican}} |103
+|10
+|—
+|Yes
+|-
+|[[75th United States Congress|75th]]
+|1937–1939
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''76'''
+|{{Party shading/Republican}} |16
+|4
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''333'''
+|{{Party shading/Republican}} |89
+|13
+|—
+|Yes
+|-
+|[[76th United States Congress|76th]]
+|1939–1941
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''69'''
+|{{Party shading/Republican}} |23
+|4
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''261'''
+|{{Party shading/Republican}} |169
+|5
+|—
+|Yes
+|-
+|[[77th United States Congress|77th]]
+|1941–1943
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''66'''
+|{{Party shading/Republican}} |28
+|2
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''268'''
+|{{Party shading/Republican}} |162
+|5
+|—
+|Yes
+|-
+|[[78th United States Congress|78th]]
+|1943–1945
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''57'''
+|{{Party shading/Republican}} |38
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''222'''
+|{{Party shading/Republican}} |209
+|4
+|—
+|Yes
+|-
+|[[79th United States Congress|79th]]
+|1945–1947
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''57'''
+|{{Party shading/Republican}} |38
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''243'''
+|{{Party shading/Republican}} |190
+|2
+|—
+|{{Party shading/Democratic}} rowspan=4 |[[Harry S. Truman]]
+|Yes
+|-
+|[[80th United States Congress|80th]]
+|1947–1949
+|{{Party shading/Republican}} |96
+|{{Party shading/Democratic}} |45
+|{{Party shading/Republican}} |'''51'''
+|—
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |188
+|{{Party shading/Republican}} |'''246'''
+|1
+|—
+|No
+|-
+|[[81st United States Congress|81st]]
+|1949–1951
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''54'''
+|{{Party shading/Republican}} |42
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''262'''
+|{{Party shading/Republican}} |171
+|2
+|—
+|Yes
+|-
+|[[82nd United States Congress|82nd]]
+|1951–1953
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''48'''
+|{{Party shading/Republican}} |47
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''235'''
+|{{Party shading/Republican}} |199
+|1
+|—
+|Yes
+|-
+|[[83rd United States Congress|83rd]]
+|1953–1955
+|{{Party shading/Republican}} |96<ref name="Eisenhower Senate">Republicans controlled the Senate for all of the first congressional session except its last week and did so with a VP-tie-breaking majority (1953), then controlled the Senate for all of the second congressional session except three days and did so with a VP-tie-breaking majority that included a caucus with an Independent (1954).</ref>
+|{{Party shading/Democratic}} |47
+|{{Party shading/Republican}} |'''48'''
+|1
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |213
+|{{Party shading/Republican}} |'''221'''
+|1
+|—
+|{{Party shading/Republican}} rowspan=4 |[[Dwight D. Eisenhower]]
+|Yes<ref name="20th Amendment Republican">According to the 20th Amendment to the U.S. Constitution, the new session of Congress begins on the 3rd of January, while the new presidency begins on the 20th of January. For the first seventeen days of this Congress, both the House of Representatives and the Senate were held by Republican Party, while the outgoing president was of the Democratic Party. After these seventeen days, the Republican Party had a trifecta.</ref><ref name="Eisenhower Trifecta">Republicans held a trifecta by controlling the Senate for all of the first congressional session except its last week since they had a VP-tie-breaking majority (1953), then controlling the Senate for all of the second congressional session except three days since they had a VP-tie-breaking majority that included a caucus with an Independent (1954).</ref>
+|-
+|[[84th United States Congress|84th]]
+|1955–1957
+|{{Party shading/Democratic}} |96<ref name="1955 Senate">Democrats controlled the Senate for one year through a caucus with an independent, before the independent joined the Democratic Party (1955).</ref>
+|{{Party shading/Democratic}} |'''48'''
+|{{Party shading/Republican}} |47
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''232'''
+|{{Party shading/Republican}} |203
+|—
+|—
+|No
+|-
+|[[85th United States Congress|85th]]
+|1957–1959
+|{{Party shading/Democratic}} |96
+|{{Party shading/Democratic}} |'''49'''
+|{{Party shading/Republican}} |47
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''234'''
+|{{Party shading/Republican}} |201
+|—
+|—
+|No
+|-
+|[[86th United States Congress|86th]]
+|1959–1961
+|{{Party shading/Democratic}} |98
+|{{Party shading/Democratic}} |'''64'''
+|{{Party shading/Republican}} |34
+|—
+|—
+|{{Party shading/Democratic}} |437
+|{{Party shading/Democratic}} |'''284'''
+|{{Party shading/Republican}} |153
+|—
+|—
+|No
+|-
+|[[87th United States Congress|87th]]
+|1961–1963
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''64'''
+|{{Party shading/Republican}} |36
+|—
+|—
+|{{Party shading/Democratic}} |437
+|{{Party shading/Democratic}} |'''262'''
+|{{Party shading/Republican}} |175
+|—
+|—
+|{{Party shading/Democratic}} |[[John F. Kennedy]]<ref>Kennedy died November 22, 1963, about two years and ten months into the term, and was succeeded by [[Lyndon B. Johnson]]. Johnson served the remainder of the term and was [[1964 United States presidential election|elected president in 1964]].</ref>
+|Yes<ref name="20th Amendment Democratic">According to the 20th Amendment to the U.S. Constitution, the new session of Congress begins on the 3rd of January, while the new presidency begins on the 20th of January. For the first seventeen days of this Congress, both the House of Representatives and the Senate were held by the Democratic Party, while the outgoing president was of the Republican Party. After these seventeen days, the Democratic Party had a trifecta.</ref>
+|-
+|[[88th United States Congress|88th]]
+|1963–1965
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''67'''
+|{{Party shading/Republican}} |33
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''258'''
+|{{Party shading/Republican}} |176
+|—
+|1
+|{{Party shading/Democratic}} rowspan=3 |[[Lyndon B. Johnson]]
+|Yes
+|-
+|[[89th United States Congress|89th]]
+|1965–1967
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''68'''
+|{{Party shading/Republican}} |32
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''295'''
+|{{Party shading/Republican}} |140
+|—
+|—
+|Yes
+|-
+|[[90th United States Congress|90th]]
+|1967–1969
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''64'''
+|{{Party shading/Republican}} |36
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''247'''
+|{{Party shading/Republican}} |187
+|—
+|1
+|Yes
+|-
+|[[91st United States Congress|91st]]
+|1969–1971
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''58'''
+|{{Party shading/Republican}} |42
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''243'''
+|{{Party shading/Republican}} |192
+|—
+|—
+|{{Party shading/Republican}} rowspan=2 |[[Richard Nixon]]<ref>Nixon resigned August 9, 1974, about a year and seven months into his second term as president, and was succeeded by [[Gerald R. Ford]], who served for the remainder of the term.</ref>
+|No<ref>According to the 20th Amendment to the U.S. Constitution, the new session of Congress begins on the 3rd of January, while the new presidency begins on the 20th of January. For the first seventeen days of this Congress, the Democratic Party had a trifecta. After these seventeen days, both the House of Representatives and the Senate were held by the Democratic Party, while President Nixon was of the Republican Party.</ref>
+|-
+|[[92nd United States Congress|92nd]]
+|1971–1973
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''54'''
+|{{Party shading/Republican}} |44
+|2
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''255'''
+|{{Party shading/Republican}} |180
+|—
+|—
+|No
+|-
+|[[93rd United States Congress|93rd]]
+|1973–1975
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''56'''
+|{{Party shading/Republican}} |42
+|2
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''243'''
+|{{Party shading/Republican}} |192
+|—
+|—
+|{{Party shading/Republican}} rowspan=2 |[[Gerald Ford]]
+|No
+|-
+|[[94th United States Congress|94th]]
+|1975–1977
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''61'''
+|{{Party shading/Republican}} |37
+|2
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''291'''
+|{{Party shading/Republican}} |144
+|—
+|—
+|No
+|-
+|[[95th United States Congress|95th]]
+|1977–1979
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''61'''
+|{{Party shading/Republican}} |38
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''292'''
+|{{Party shading/Republican}} |143
+|—
+|—
+|{{Party shading/Democratic}} rowspan=2 |[[Jimmy Carter]]
+|Yes<ref name="20th Amendment Democratic"/>
+|-
+|[[96th United States Congress|96th]]
+|1979–1981
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''58'''
+|{{Party shading/Republican}} |41
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''277'''
+|{{Party shading/Republican}} |157
+|{{Party shading/Conservative (New York)}} |1<ref name="96-98">In the {{USCongressOrdinal|96|97|,&ensp;}}, and {{USCongressOrdinal|98}} Congresses, the only Conservative member of the House, [[William Carney (politician)|William Carney]] of New York, caucused with the Republican Party.</ref>
+|—
+|Yes
+|-
+|[[97th United States Congress|97th]]
+|1981–1983
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |46
+|{{Party shading/Republican}} |'''53'''
+|1
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''242'''
+|{{Party shading/Republican}} |192
+|{{Party shading/Conservative (New York)}} |1<ref name="96-98"/>
+|—
+|{{Party shading/Republican}} rowspan=4 |[[Ronald Reagan]]
+|No
+|-
+|[[98th United States Congress|98th]]
+|1983–1985
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |46/45
+|{{Party shading/Republican}} |'''54/55'''
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''269'''
+|{{Party shading/Republican}} |165
+|{{Party shading/Conservative (New York)}} |1<ref name="96-98"/>
+|—
+|No
+|-
+|[[99th United States Congress|99th]]
+|1985–1987
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |47
+|{{Party shading/Republican}} |'''53'''
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''253'''
+|{{Party shading/Republican}} |181
+|{{Party shading/Republican}} |1<ref>Carney was elected as a Conservative but caucused with Republicans until October 1985, when he joined the Republican Party.</ref>
+|—
+|No
+|-
+|[[100th United States Congress|100th]]
+|1987–1989
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''55'''
+|{{Party shading/Republican}} |45
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''258'''
+|{{Party shading/Republican}} |177
+|—
+|—
+|No
+|-
+|[[101st United States Congress|101st]]
+|1989–1991
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''55'''
+|{{Party shading/Republican}} |45
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''260'''
+|{{Party shading/Republican}} |175
+|—
+|—
+|{{Party shading/Republican}} rowspan=2 |[[George H. W. Bush]]
+|No
+|-
+|[[102nd United States Congress|102nd]]
+|1991–1993
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''56'''
+|{{Party shading/Republican}} |44
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''267'''
+|{{Party shading/Republican}} |167
+|{{Party shading/Democratic}} |1<ref name="SandersRep">In the [[102nd Congress|102nd]] through [[109th Congress]]es, Independent [[Bernie Sanders]] of {{ushr|VT|AL}} caucused with the Democratic Party.</ref>
+|—
+|No
+|-
+|[[103rd United States Congress|103rd]]
+|1993–1995
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''57'''
+|{{Party shading/Republican}} |43
+|—
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''258'''
+|{{Party shading/Republican}} |176
+|{{Party shading/Democratic}} |1<ref name="SandersRep"/>
+|—
+|{{Party shading/Democratic}} rowspan=4 |[[Bill Clinton]]
+|Yes<ref name="20th Amendment Democratic"/>
+|-
+|[[104th United States Congress|104th]]
+|1995–1997
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |47
+|{{Party shading/Republican}} |'''53'''
+|—
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |204
+|{{Party shading/Republican}} |'''230'''
+|{{Party shading/Democratic}} |1<ref name="SandersRep"/>
+|—
+|No
+|-
+|[[105th United States Congress|105th]]
+|1997–1999
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |45
+|{{Party shading/Republican}} |'''55'''
+|—
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |206
+|{{Party shading/Republican}} |'''227'''
+|{{Party shading/Coalition}} |2<ref name="SandersEmerson">In the [[102nd Congress|102nd]] through [[109th Congress]]es, Independent [[Bernie Sanders]] of [[Vermont]] caucused with the Democratic Party. Independent [[Jo Ann Emerson]] switched to the Republican party on January 8, 1997.</ref>
+|—
+|No
+|-
+|[[106th United States Congress|106th]]
+|1999–2001
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |45
+|{{Party shading/Republican}} |'''55'''
+|—
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |211
+|{{Party shading/Republican}} |'''223'''
+|{{Party shading/Democratic}} |1<ref name="SandersRep"/>
+|—
+|No
+|-
+|[[107th United States Congress|107th]]
+|2001–2003
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''50'''<ref name="Split Control">The Democratic Party controlled the Senate in the 107th Congress from January 3 to January 20, 2001 (50-50 tie with Democratic vice president Al Gore [[List of tie-breaking votes cast by the vice president of the United States|as the deciding vote]]) and from May 24, 2001, to January 3, 2003 (after Senator Jim Jeffords left the Republican Party to become an Independent and caucus with the Democrats).</ref>
+|{{Party shading/Republican}} |'''50'''/49<ref>The Republican Party controlled the Senate in the 107th Congress from January 20, 2001 (50-50 tie with Republican vice president Dick Cheney [[List of tie-breaking votes cast by the vice president of the United States|as the deciding vote]]) until May 24, 2001, when Senator Jim Jeffords left the Republican Party to become an Independent and caucus with the Democrats.</ref>
+|{{Party shading/Democratic}} |0/'''1'''<ref name="Jeffords"/>
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |212
+|{{Party shading/Republican}} |'''221'''
+|{{Party shading/Coalition}} |2<ref name="SandersGoode">In the [[102nd Congress|102nd]] through [[109th Congress]]es, Independent [[Bernie Sanders]] of [[Vermont]] caucused with the Democratic Party. Independent [[Virgil Goode]] switched to the Republican party on August 1, 2002.</ref>
+|—
+|{{Party shading/Republican}} rowspan=4 |[[George W. Bush]]
+|Yes/No<ref>Republicans only held a trifecta from January 20 until May 24, 2001, when Senator Jim Jeffords left the Republican Party to become an Independent and caucus with the Democrats.</ref>
+|-
+|[[108th United States Congress|108th]]
+|2003–2005
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |48
+|{{Party shading/Republican}} |'''51'''
+|{{Party shading/Democratic}} |1<ref name="Jeffords">In the [[107th Congress]] (after May 24, 2001), and in the [[108th Congress]] and [[109th Congress]], Independent [[Jim Jeffords]] of [[Vermont]] caucused with the Democratic Party.</ref>	
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |205
+|{{Party shading/Republican}} |'''229'''
+|{{Party shading/Democratic}} |1<ref name="SandersRep"/>
+|—
+|Yes
+|-
+|[[109th United States Congress|109th]]
+|2005–2007
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |44
+|{{Party shading/Republican}} |'''55'''
+|{{Party shading/Democratic}} |1<ref name="Jeffords"/>
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |202
+|{{Party shading/Republican}} |'''232'''
+|{{Party shading/Democratic}} |1<ref name="SandersRep"/>
+|—
+|Yes
+|-
+|[[110th United States Congress|110th]]
+|2007–2009
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''49'''
+|{{Party shading/Republican}} |49
+|{{Party shading/Democratic}} |'''2'''<ref name="LiebermanSandersCaucus">Two independent members of the Senate [[Independent Democrat|caucused]] with the Democratic Party, and thus are considered to be a part of the [[Senate Democratic Caucus]]. In the {{USCongressOrdinal|110|111|,&ensp;}}, and {{USCongressOrdinal|112}} Congresses, it was [[Joseph Lieberman]] and [[Bernie Sanders]].</ref>
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''233'''
+|{{Party shading/Republican}} |202
+|—
+|—
+|No
+|-
+|[[111th United States Congress|111th]]
+|2009–2011
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''56–58'''<ref>From January 27 to April 28, 2009, when Senator [[Arlen Specter]] (R-Pennsylvania) joined the Democratic caucus, there were 56 Democratic senators, 41 Republicans, two independents, and one undecided seat in Minnesota. That vacancy was filled as an additional Democratic seat on July 7, 2009, with the swearing-in of [[Al Franken]], bringing the totals to 58 Democrats, 40 Republicans, and 2 independents. Seven weeks later, on August 25, Sen. [[Edward M. Kennedy]] (D-Mass.) died, lowering the Democratic total to 57 for a month until [[Paul G. Kirk Jr.]] (D) was appointed and sworn in as Senator Kennedy's interim replacement on September 25, 2009. Just over four months later, on February 4, 2010, [[Scott Brown (politician)|Scott Brown]] (R) who had won a special election for the seat, succeeded Paul Kirk, returning the Republican caucus to 41, and again reducing the Democratic caucus to 57 plus two independents. [The Democratic caucus dropped again briefly to 56 in the 18 days between the death of [[Sen. Robert Byrd]] (D-West Virginia) on June 28, 2010, and the seating of his interim successor, [[Carte Goodwin]] (also D) on July 16.] The appointed Democratic senator from Illinois, [[Roland Burris]] was succeeded on November 29, 2010, by [[Mark Kirk]], a Republican elected earlier that month, once again dropping the Democratic caucus to 56 with 2 independents facing 42 Republicans for the last month of the 111th Congress. [http://www.gpo.gov/fdsys/pkg/CDIR-2011-12-01/html/CDIR-2011-12-01-STATISTICALINFORMATION-5.htm December 2011 ''Congressional Directory''], page 324</ref>
+|{{Party shading/Republican}} |40–42<ref>From January 3 to April 28, 2009, prior to Senator Arlen Specter's switch to the Democratic Party, there were 41 Republican senators. The Republican caucus returned to 41 on February 4, 2010, with the swearing in of Scott Brown (R-Mass.) to fill the Democratic seat of Edward Kennedy and Paul Kirk. After [[Mark Kirk]] (R-Ill.) replaced [[Roland Burris]] as senator from Illinois on November 29, 2010, the Senate in the last month of the 111th Congress stood at 42 Republicans, 56 Democrats, and 2 independents.</ref>
+|{{Party shading/Democratic}} |'''2'''<ref name="LiebermanSandersCaucus"/>
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''257'''
+|{{Party shading/Republican}} |178
+|—
+|—
+|{{Party shading/Democratic}} rowspan=4 |[[Barack Obama]]
+|Yes<ref name="20th Amendment Democratic"/>
+|-
+|[[112th United States Congress|112th]]
+|2011–2013
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''51'''
+|{{Party shading/Republican}} |47
+|{{Party shading/Democratic}} |'''2'''<ref name="LiebermanSandersCaucus"/>
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |193
+|{{Party shading/Republican}} |'''242'''
+|—
+|—
+|No
+|-
+|[[113th United States Congress|113th]]
+|2013–2015
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''53'''
+|{{Party shading/Republican}} |45
+|{{Party shading/Democratic}} |'''2'''<ref name="KingSandersCaucus">Two independent members of the Senate [[Independent Democrat|caucused]] with the Democratic Party, and thus are considered to be a part of the [[Senate Democratic Caucus]]. In the {{USCongressOrdinal|113|117|,&ensp;}}, and {{USCongressOrdinal|119}} Congresses, it was [[Angus King]] and [[Bernie Sanders]].</ref>
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |201
+|{{Party shading/Republican}} |'''234'''
+|—
+|—
+|No
+|-
+|[[114th United States Congress|114th]]
+|2015–2017
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |44
+|{{Party shading/Republican}} |'''54'''
+|{{Party shading/Democratic}} |2<ref name="KingSandersCaucus"/>
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |188
+|{{Party shading/Republican}} |'''247'''
+|—
+|—
+|No
+|-
+|[[115th United States Congress|115th]]
+|2017–2019
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |46/47
+|{{Party shading/Republican}} |'''50–52'''
+|{{Party shading/Democratic}} |2<ref name="KingSandersCaucus"/>
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |194
+|{{Party shading/Republican}} |'''241'''
+|—
+|—
+|{{Party shading/Republican}} rowspan=2 |[[Donald Trump]]
+|Yes<ref name="20th Amendment Republican"/>
+|-
+|[[116th United States Congress|116th]]
+|2019–2021
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |45/46
+|{{Party shading/Republican}} |'''53/52'''
+|{{Party shading/Democratic}} |2<ref name="KingSandersCaucus"/>
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''235'''
+|{{Party shading/Republican}} |200/199
+|{{Party shading/Libertarian}} |1<ref>In the [[116th United States Congress|116th]] Congresses, Representative [[Justin Amash]] left the Republican Party to become an Independent on July 4, 2019, later became a Libertarian on May 31, 2020.</ref>
+|—
+|No
+|-
+|[[117th United States Congress|117th]]
+|2021–2023
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''46–48'''<ref>The Democratic Party took control of the Senate in the 117th Congress with the swearing in of Democratic senators Raphael Warnock and Jon Ossoff on January 20, 2021. With the two Independent senators (Bernie Sanders and Angus King) caucusing with the Democrats to create a 50-50 tie, Democratic vice president Kamala Harris [[List of tie-breaking votes cast by the vice president of the United States|became the deciding vote to give Democrats the majority]].</ref>
+|{{Party shading/Republican}} |'''51'''/50<ref>The Republican Party controlled the Senate in the 117th Congress from January 3 to January 20, 2021.</ref>
+|{{Party shading/Democratic}} |'''2/3'''<ref name="Sinema">In the [[117th Congress]], [[Angus King]] and [[Bernie Sanders]] continued to serve as [[Independent Democrat]]s, and Democratic senator [[Kyrsten Sinema]] switched to join them on December 9th, 2022.</ref>
+|—
+|{{Party shading/Democratic}} |435
+|{{Party shading/Democratic}} |'''222'''
+|{{Party shading/Republican}} |213
+|—
+|—
+|{{Party shading/Democratic}} rowspan=2 |[[Joe Biden]]
+|Yes<ref>Due to Democrats [[Jon Ossoff]] and [[Raphael Warnock]] (who defeated Republicans [[David Perdue]] and [[Kelly Loeffler]] in the Georgia special elections and their runoffs) not being inaugurated until January 20 (the same day which Joe Biden was inaugurated president), the Republicans held the presidency and the Senate until Biden, Ossoff, and Warnock were all sworn in, at which time the Democratic Party obtained a trifecta.</ref>
+|-
+|[[118th United States Congress|118th]]
+|2023–2025
+|{{Party shading/Democratic}} |100
+|{{Party shading/Democratic}} |'''47/48''' 
+|{{Party shading/Republican}} |49
+|{{Party shading/Democratic}} |'''3/4'''<ref name="Manchin">In the [[118th Congress]], [[Angus King]], [[Bernie Sanders]], and [[Kyrsten Sinema]] continued to serve as [[Independent Democrat]]s, and Democratic senator [[Joe Manchin]] switched to join them on May 31, 2024.</ref>
+|—
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |212/213
+|{{Party shading/Republican}} |'''222/220'''
+|—
+|2/1<ref>During the 118th Congress, George Santos (R-NY3) was expelled by a vote of 311 to 114 on the first of December, 2023.</ref><ref name=":0">{{Cite web |last=Elizabeth Elkind |first=Julia Johnson |date=2024-11-13 |title=Matt Gaetz resigns from Congress over Trump nod to be attorney general, Johnson says |url=https://www.foxnews.com/politics/matt-gaetz-resigns-from-congress-over-trump-nod-attorney-general-johnson-says |access-date=2025-01-19 |website=Fox News |language=en-US}}</ref>
+|No
+|-
+|[[119th United States Congress|119th]]
+|2025–2027
+|{{Party shading/Republican}} |100
+|{{Party shading/Democratic}} |45
+|{{Party shading/Republican}} |'''53/52'''
+|{{Party shading/Democratic}} |2<ref name="KingSandersCaucus"/>
+|1<ref>{{Cite web |date=2025-01-10 |title=Vance resigns his Senate seat as inauguration with Trump approaches |url=https://www.nbcnews.com/politics/jd-vance/vance-resign-senate-seat-inauguration-trump-rcna187036 |access-date=2025-01-19 |website=NBC News |language=en}}</ref>
+|{{Party shading/Republican}} |435
+|{{Party shading/Democratic}} |215
+|{{Party shading/Republican}} |'''219'''
+|—
+|1<ref name=":0"/>
+|{{Party shading/Republican}} rowspan=1 |Donald Trump
+|Yes<ref name="20th Amendment Republican"/>
+|- valign=top
+!rowspan=2 |Congress
+!rowspan=2 |Years
+!Total
+!{{Party shading/Democratic}} |Democrats
+!{{Party shading/Republican}} |Republicans
+!Others
+!Vacancies
+!Total
+!{{Party shading/Democratic}} |Democrats
+!{{Party shading/Republican}} |Republicans
+!Others
+!Vacancies
+!rowspan=2 |President
+!rowspan=2 |Trifecta
+|- valign=bottom
+!colspan=5 |Senate
+!colspan=5 |House of Representatives
+|}
+
+==Partisan control of Congress==
+This table shows the number of Congresses in which a party controlled either the House, the Senate, or the presidency.<!--Last updated for the 116th Congress -->
+
+{|class="wikitable sortable" 
+!Party
+!Senate
+!House
+!Presidency
+!Trifecta
+|- {{party shading/Democratic}}
+|[[Democratic Party (United States)|Democratic]]
+|51
+|59
+|45
+|30
+|- {{party shading/Republican}}
+|[[Republican Party (United States)|Republican]]
+|43
+|36
+|46
+|22<ref>The beginning of Lincoln's second term and of George W. Bush's first term began with a trifecta for the Republican Party but ended very shortly after beginning.</ref>
+|- {{party shading/Democratic-Republican}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]
+|12
+|13
+|14
+|12
+|- {{party shading/Federalist}}
+|[[Federalist Party (United States)|Federalist]]
+|3
+|2
+|2
+|2
+|- {{Party shading/Pro-Administration}}
+|[[Pro-Administration Party (United States)|Pro-<br>Administration]]
+|3
+|2
+|0
+|2
+|- {{party shading/Whig}}
+|[[Whig Party (United States)|Whig]]
+|2
+|2
+|2
+|0<ref>The beginning of William Harrison's term began as a trifecta for the Whigs. It continued after Harrison's death when Tyler became president, but ended shortly after once the Whig Party expelled Tyler into becoming an independent.</ref>
+|- {{party shading/National Republican}}
+|[[National Republican Party (United States)|National<br>Republican]]
+|1
+|1
+|0
+|0
+|- {{Party shading/Anti-Administration}}
+|[[Anti-Administration Party (United States)|Anti-<br>Administration]]
+|0
+|1
+|0
+|0
+|- {{Party shading/Opposition}}
+|[[Opposition Party (Northern U.S.)|Opposition]]
+|0
+|1
+|0
+|0
+|- {{Party shading/National Union}}
+|[[National Union Party (United States)|National<br>Union]]
+|0
+|0
+|2
+|0
+|- 
+|Split control
+|2<ref>The Democrats and Republicans shared control of the Senate in the [[47th United States Congress]]. In the middle of the [[107th United States Congress]], control of the Senate switched from the Republican Party to the Democratic Party.</ref>
+|0
+|1<ref>During the 27th Congress, the Whigs expelled the sitting president, John Tyler, from their party. Tyler governed as an independent.</ref>
+|49
+|- 
+|Independent
+|0
+|0
+|5
+|-
+|}
+{{clear}}
+
+==See also==
+*[[Divided government in the United States]]
+*[[Political party strength in U.S. states]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.senate.gov/history/partydiv.htm U.S. Senate: Party Divisions]
+*[http://history.house.gov/Institution/Party-Divisions/Party-Divisions/ Office of the House Clerk: Party Divisions of the House of Representatives]
+
+{{USCongress|state=expanded|powersprivilegesprocedurecommitteeshistoryandmedia}}
+
+[[Category:United States Congresses]]
+[[Category:History of the United States Congress]]
+[[Category:History of political parties in the United States]]
+[[Category:United States history-related lists]]
+[[Category:Democratic Party (United States)-related lists]]

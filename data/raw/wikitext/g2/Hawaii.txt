@@ -1,0 +1,649 @@
+{{Short description|Governors of Hawaii}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=July 2023}}
+{{redirect|Governors of Hawaii|a list of governors of the Hawaiian Kingdom|Governors of Hawaiʻi (island)}}
+{{stack|
+{{Infobox official post
+| post             = Governor
+| body             = Hawaii
+| insignia         = 
+| insignia_size    = 110
+| insignia_caption = Gubernatorial Logo
+| flag             = Flag of the Governor of Hawaii.svg
+| flag_caption     = Gubernatorial standard
+| native_name      = Ke Kia{{okina}}aina o Hawai{{okina}}i
+| image            = File:Josh Green Official Photo 2022 (cropped) (cropped).jpg
+| incumbent        = [[Josh Green (politician)|Josh Green]]
+| incumbent_since  = December 5, 2022
+| residence        = [[Washington Place]]
+| term_length      = Four years, renewable once
+| precursor        = Governor of [[Territory of Hawaii|Hawaii Territory]]
+| formation        = {{start date and age|1959|8|21|p=1|br=1}}
+| inaugural        = [[William F. Quinn]]
+| succession       = [[Gubernatorial_lines_of_succession_in_the_United_States#Hawaii|Line of succession]]
+| deputy           = [[Lieutenant Governor of Hawaii]]
+| website          = {{URL|governor.hawaii.gov}}
+}}
+[[File:Flag of the Governor of Hawaii.svg|thumb|170px|[[Flags of governors of the U.S. states|Flag of the governor]]]]
+[[File:Flag of the Governor of Hawaii pre-1959.svg|170px|thumb|Flag of the governor before statehood in 1959]]
+}}
+The '''governor of the State of Hawaii''' is the [[head of government]] of [[Hawaii]], and commander-in-chief of the [[U.S. state|state's]] [[Hawaii National Guard|military forces]].{{sfn|Haw. Const.|loc=[https://50constitutions.org/hi/constitution/section-id-66145 art. V, § 5]}}
+
+Of the eight governors of the state, two have been elected to three terms, four have been elected to two terms, and one has been elected to one term. No state governor has yet resigned or died in office, nor did any territorial governor die in office. [[George Ariyoshi]] was the first [[Asian Americans|Asian American]] to be governor of any [[U.S. state]]. The current governor is Democrat [[Josh Green (politician)|Josh Green]], who took office on December 5, 2022.
+
+The longest-serving governors are [[John A. Burns]] (1962–1974) and [[George Ariyoshi]] (1974–1986), both of whom served 12 years each.
+
+==List of governors==
+The [[Republic of Hawaii]] was annexed by the [[United States]] in 1898. It was organized into Hawaii Territory in 1900, and admitted as a state in 1959. The Republic had only one president, [[Sanford B. Dole]], who later was the first territorial governor.
+
+===Hawaii Territory===
+[[Territory of Hawaii|Hawaii Territory]] was [[Territories of the United States|organized]] on June 14, 1900, remaining a territory for 59 years. Twelve people served as territorial governor, appointed by the [[president of the United States]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Hawaii
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Dole, Sanford"|[[File:Presidentsanforddole.jpg|75px]]
+|'''[[Sanford B. Dole]]'''<br>{{Small|(1844–1926)}}<br>{{sfn|McMullin|1984|pp=105–106}}
+|data-sort-value="1258"|June 14, 1900{{efn|Dole was nominated on May 4, 1900,<ref>{{cite book |title=Senate Executive Journal, 56th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137394&seq=485 |page=481 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on May 9,<ref>{{cite book |title=Senate Executive Journal, 56th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137394&seq=491 |page=487 |via=[[HathiTrust]]}}</ref> and took office on June 14.{{sfn|McMullin|1984|pp=105–106}}}}<br />–<br />November 23, 1903<br>{{small|(1258 days; resigned)}}{{efn|Dole resigned, having been confirmed to the [[United States District Court for the District of Hawaii|United States District Court for Hawaii Territory]].{{sfn|McMullin|1984|pp=105–106}}<ref>{{Cite news |publication-date=November 24, 1903 |date=November 23, 1903 |location=Washington, D.C. |publication-place=New York City |title=Confirmed by the Senate |page=6 |newspaper=[[The New York Times]] |url=https://www.newspapers.com/article/the-new-york-times-confirmed-by-the-sena/132468354/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230926191038/https://www.newspapers.com/article/the-new-york-times-confirmed-by-the-sena/132468354/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|{{sortname|William|McKinley}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Carter, George"|[[File:Governor George Robert Carter.png|75px]]
+|'''[[George R. Carter]]'''<br>{{Small|(1866–1933)}}<br>{{sfn|McMullin|1984|pp=106–108}}
+|data-sort-value="1362"|November 23, 1903{{efn|Carter was appointed on October 31, 1903,<ref name="carter-nominated" /> during a Senate recess; nominated on November 11;<ref name="carter-nominated">{{cite book |title=Senate Executive Journal, 58th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069836&seq=24 |page=14 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on November 23;<ref>{{cite book |title=Senate Executive Journal, 58th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069836&seq=99 |pages=89–91 |via=[[HathiTrust]]}}</ref> and took office the same day.<ref>{{cite news |url=https://www.newspapers.com/article/honolulu-star-bulletin-with-simple-cerem/204619599/ |title=With Simple Ceremony New Governor Assumes Duty of Office |newspaper=[[Honolulu Star-Bulletin|Evening Bulletin]] |date=November 23, 1903 |page=1 |via=Newspapers.com}}</ref>}}<br />–<br />August 15, 1907<br>{{small|(1362 days; resigned)}}{{efn|Carter's term was to have ended November 23, 1907, but he had stated he did not wish to serve again, so his successor was appointed early.<ref>{{Cite news |publication-date=June 9, 1907 |date=June 8, 1907 |location=Washington, D.C. |publication-place=New York City |title=Gov. Carter Will Quit |page=4 |newspaper=[[The New York Times]] |url=https://www.newspapers.com/article/the-new-york-times-gov-carter-will-quit/132468424/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230926191033/https://www.newspapers.com/article/the-new-york-times-gov-carter-will-quit/132468424/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Frear, Walter"|[[File:Walter F. Frear.jpg|75px]]
+|'''[[Walter F. Frear]]'''<br>{{Small|(1863–1948)}}<br>{{sfn|McMullin|1984|pp=108–109}}
+|data-sort-value="2331"|August 15, 1907{{efn|Frear was appointed on June 28, 1907,<ref name="frear-nominated" /> during a Senate recess; nominated on December 3;<ref name="frear-nominated">{{cite book |title=Senate Executive Journal, 60th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069711&seq=93 |page=83 |via=[[HathiTrust]]}}</ref> and was confirmed by the Senate on December 18;<ref>{{cite book |title=Senate Executive Journal, 60th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069711&seq=168 |pages=158–159 |via=[[HathiTrust]]}}</ref> He took office on August 15.{{sfn|McMullin|1984|pp=108–109}}}}<br />–<br />December 31, 1913<br>{{small|(2331 days; replaced)}}
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Pinkham, Lucius"|[[File:Lucius Eugene Pinkham - standing.jpg|75px]]
+|'''[[Lucius E. Pinkham]]'''<br>{{Small|(1850–1922)}}<br>{{sfn|McMullin|1984|pp=109–111}}
+|data-sort-value="1635"|December 31, 1913{{efn|Pinkham was nominated on July 24, 1913,<ref>{{cite book |title=Senate Executive Journal, 63rd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069489&seq=248 |page=240 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on November 29.<ref>{{cite book |title=Senate Executive Journal, 63rd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069489&seq=449 |page=441 |via=[[HathiTrust]]}}</ref> He took office on December 31.<ref>{{cite news |url=https://www.newspapers.com/article/honolulu-star-bulletin-governor-pinkham/204619276/ |title=Governor Pinkham Takes Office Simply and Quietly |newspaper=[[Honolulu Star-Bulletin]] |date=December 31, 1913 |page=1 |access-date=October 20, 2026 |via=Newspapers.com}}</ref>}}<br />–<br />June 22, 1918<br>{{small|(1635 days; replaced)}}
+|{{sortname|Woodrow|Wilson}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="McCarthy, Charles"|[[File:Charles J. McCarthy (vol. 2, 1921).jpg|75px]]
+|'''[[Charles J. McCarthy]]'''<br>{{Small|(1861–1929)}}<br>{{sfn|McMullin|1984|pp=111–112}}
+|data-sort-value="1110"|June 22, 1918{{efn|McCarthy was nominated on April 18, 1918,<ref>{{cite book |title=Senate Executive Journal, 65th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069620&seq=876 |page=860 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on May 4,<ref>{{cite book |title=Senate Executive Journal, 65th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069620&seq=899 |page=883 |via=[[HathiTrust]]}}</ref> and took office on June 22.{{sfn|McMullin|1984|pp=111–112}}}}<br />–<br />July 5, 1921<br>{{small|(1110 days; replaced)}}
+|{{sortname|Woodrow|Wilson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Farrington, Wallace"|[[File:Wallace R. Farrington, G. G. Bain photo portrait.jpg|75px]]
+|rowspan="2"|'''[[Wallace Rider Farrington]]'''<br>{{Small|(1871–1933)}}<br>{{sfn|McMullin|1984|pp=112–114}}
+|rowspan="2" data-sort-value="2923"|July 5, 1921{{efn|Farrington was nominated on June 2, 1921,<ref>61 Cong. Rec. [https://www.govinfo.gov/app/details/GPO-CRECB-1921-pt2-v61/GPO-CRECB-1921-pt2-v61-23-2 2032] (1921)</ref> confirmed by the Senate on June 17,<ref>61 Cong. Rec. [https://www.govinfo.gov/app/details/GPO-CRECB-1921-pt3-v61/GPO-CRECB-1921-pt3-v61-11-1 2714] (1921)</ref> and took office on July 5.{{sfn|McMullin|1984|pp=112–114}} He was reconfirmed by the Senate on February 2, 1925.<ref>{{cite book |title=Senate Executive Journal, 68th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069372&seq=345 |page=335 |via=[[HathiTrust]]}}</ref>}}<br />–<br />July 5, 1929<br>{{small|(2923 days; replaced)}}
+|{{sortname|Warren G.|Harding}}
+|- style="height:2em;"
+|{{sortname|Calvin|Coolidge}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Judd, Lawrence"|[[File:Lawrence M. Judd (PP-74-3-007).jpg|75px]]
+|'''[[Lawrence M. Judd]]'''<br>{{Small|(1887–1968)}}<br>{{sfn|McMullin|1984|pp=114–116}}
+|data-sort-value="1701"|July 5, 1929{{efn|Judd was nominated on April 24, 1929,<ref>{{cite book |title=Senate Executive Journal, 71st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=osu.32435066736422&seq=42 |page=32 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 29,<ref>{{cite book |title=Senate Executive Journal, 71st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=osu.32435066736422&seq=56 |page=46 |via=[[HathiTrust]]}}</ref> and took office on July 5.{{sfn|McMullin|1984|pp=114–116}}}}<br />–<br />March 1, 1934<br>{{small|(1701 days; replaced)}}
+|{{sortname|Herbert|Hoover}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Poindexter, Joseph"|[[File:Joseph B. Poindexter (vol. 2, 1921).jpg|75px]]
+|'''[[Joseph Poindexter]]'''<br>{{Small|(1869–1951)}}<br>{{sfn|McMullin|1984|pp=116–117}}
+|data-sort-value="3099"|March 1, 1934{{efn|Poindexter was nominated on January 30, 1934,<ref>{{cite book |title=Senate Executive Journal, 73rd Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069588&seq=163 |page=155 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on February 5,<ref>{{cite book |title=Senate Executive Journal, 73rd Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069588&seq=211 |page=203 |via=[[HathiTrust]]}}</ref> and took office on March 1.{{sfn|McMullin|1984|pp=116–117}}}}<br />–<br />August 24, 1942<br>{{small|(3099 days; replaced)}}
+|{{sortname|Franklin D.|Roosevelt}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Stainback, Ingram"|[[File:Ingram Stainback.jpg|75px]]
+|rowspan="2"|'''[[Ingram Stainback]]'''{{efn|Stainback had little power until October 24, 1944, as his predecessor had declared martial law on December 7, 1941, following the [[attack on Pearl Harbor]], delegating executive authority to the military.<ref>{{Cite journal |last=Israel |first=Fred L. |date=August 1967 |title=Military Justice in Hawaii 1941–1944 |journal=[[Pacific Historical Review]] |volume=36 |issue=3 |pages=243–267 |doi=10.2307/3637150 |jstor=3637150}}</ref> During the military rule, the territory was governed by Lieutenant Generals [[Walter Short]], [[Delos Carleton Emmons]], and [[Robert C. Richardson Jr.]]<ref>{{Cite journal |last=Rankin |first=Robert S. |date=May 1944 |title=Martial Law and the Writ of Habeas Corpus in Hawaii |journal=[[The Journal of Politics]] |volume=6 |issue=2 |pages=213–229 |doi=10.2307/2125272 |jstor=2125272 |s2cid=153947841}}</ref>}}<br>{{Small|(1883–1961)}}<br>{{sfn|McMullin|1984|pp=117–119}}
+|rowspan="2" data-sort-value="3172"|August 24, 1942{{efn|Stainback was nominated on July 23, 1942,<ref>{{cite book |title=Senate Executive Journal, 77th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074913396&seq=477 |page=463 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on July 27,<ref>{{cite book |title=Senate Executive Journal, 77th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074913396&seq=482 |pages=468–469 |via=[[HathiTrust]]}}</ref> and took office on August 24.{{sfn|McMullin|1984|pp=117–119}} He was reconfirmed on July 13, 1946.<ref>{{cite book |title=Senate Executive Journal, 79th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=osu.32435066736489&seq=654 |page=640 |via=[[HathiTrust]]}}</ref>}}<br />–<br />April 30, 1951<br>{{small|(3172 days; resigned)}}{{efn|Stainback resigned due to poor health; he submitted his resignation on February 7, to take effect April 30.<ref>{{cite news |url=https://www.newspapers.com/article/hawaii-tribune-herald-stainback-resignat/204620294/ |agency=Associated Press |location=Washington, D.C. |publication-place=Hilo, Hawaii |title=Stainback Resignation Accepted |newspaper=[[Hawaii Tribune-Herald]] |date=March 26, 1951 |page=1 |access-date=October 20, 2026 |via=Newspapers.com}}</ref> Territorial Secretary Long, who would succeed him on May 8, acted as governor in the interim.<ref>{{cite news |url=https://www.newspapers.com/article/honolulu-star-bulletin-oren-e-long-is-c/204620512/ |title=Oren E. Long Is Confirmed As Governor |newspaper=[[Honolulu Star-Bulletin]] |date=May 4, 1951 |location=Washington, D.C. |publication-place=Honolulu |agency=United Press |page=1 |access-date=October 20, 2026 |via=Newspapers.com}}</ref>}}
+|{{sortname|Franklin D.|Roosevelt}}
+|- style="height:2em;"
+|{{sortname|Harry S.|Truman}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Long, Oren"|[[File:Oren E. Long (PP-75-4-020).jpg|75px]]
+|'''[[Oren E. Long]]'''<br>{{Small|(1889–1965)}}<br>{{sfn|McMullin|1984|pp=119–120}}
+|data-sort-value="663"|May 8, 1951{{efn|Long was nominated on April 23, 1951,<ref>{{cite book |title=Senate Executive Journal, 82nd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074913610&seq=350 |page=328 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on May 4,<ref>{{cite book |title=Senate Executive Journal, 82nd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074913610&seq=410 |page=388 |via=[[HathiTrust]]}}</ref> and took office on May 8.{{sfn|McMullin|1984|pp=119–120}}}}<br />–<br />February 28, 1953<br>{{small|(663 days; replaced)}}
+|{{sortname|Harry S.|Truman}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="King, Samuel"|[[File:Samuel Wilder King (PP-74-9-002).jpg|75px]]
+|'''[[Samuel Wilder King]]'''<br>{{Small|(1886–1959)}}<br>{{sfn|McMullin|1984|pp=120–122}}
+|data-sort-value="1615"|February 28, 1953{{efn|King was nominated on February 18, 1953,<ref>{{cite book |title=Senate Executive Journal, 83rd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074913727&seq=166 |page=154 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on February 23,<ref>{{cite book |title=Senate Executive Journal, 83rd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074913727&seq=169 |page=157 |via=[[HathiTrust]]}}</ref> and took office on February 28.{{sfn|McMullin|1984|pp=120–122}}}}<br />–<br />July 31, 1957<br>{{small|(1615 days; resigned)}}{{efn|King resigned when denied a second term by President Eisenhower, to take effect at the pleasure of the president;<ref>{{Cite news |publication-date=July 26, 1957 |date=July 25, 1957 |location=Honolulu |publication-place=Los Angeles |title=Hawaii Governor, Denied 2nd Term, Resigns Suddenly |page=6 |newspaper=[[Los Angeles Times]] |agency=Associated Press |url=https://www.newspapers.com/article/the-los-angeles-times-hawaii-governor-d/119412237/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230926191040/https://www.newspapers.com/article/the-los-angeles-times-hawaii-governor-d/119412237/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref> the president accepted it on July 31 and named territorial secretary [[Farrant L. Turner]] acting governor until a new governor took office.<ref>{{cite news |url=https://www.newspapers.com/article/hawaii-tribune-herald-president-accepts/204621450/ |location=Washington, D.C. |publication-place=Hilo, Hawaii |title=President Accepts King's Resignation |newspaper=[[Hawaii Tribune-Herald]] |page=1 |date=August 1, 1957 |access-date=October 20, 2026 |via=Newspapers.com}}</ref>}}
+|{{sortname|Dwight D.|Eisenhower}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Quinn, William"|[[File:William F. Quinn, 1958 (cropped).jpg|75px]]
+|'''[[William F. Quinn]]'''<br>{{Small|(1919–2006)}}<br>{{sfn|McMullin|1984|pp=122–123}}{{sfn|Sobel|1978|p=331}}<ref name="nga-quinn" />
+|data-sort-value="719"|September 2, 1957{{efn|Quinn was nominated on August 9, 1957,<ref>{{cite book |title=Senate Executive Journal, 85th Cong., 1st sess. |author=United States Senate |url=https://books.google.com/books?id=fOI3kC824lEC&pg=PA869 |page=869 |via=[[Google Books]]}}</ref> confirmed by the Senate on August 28,<ref>{{cite book |title=Senate Executive Journal, 85th Cong., 1st sess. |author=United States Senate |url=https://books.google.com/books?id=fOI3kC824lEC&pg=PA926 |page=926 |via=[[Google Books]]}}</ref> and took office on September 2.{{sfn|McMullin|1984|pp=122–123}}}}<br />–<br />August 21, 1959<br>{{small|(719 days;<br>elected state governor)}}
+|{{sortname|Dwight D.|Eisenhower}}
+|}
+
+===State of Hawaii===
+
+Hawaii was admitted to the Union on August 21, 1959, consisting of Hawaii Territory minus [[Palmyra Atoll]]. Since then, there have been nine governors.
+
+The governor is elected to a four-year term commencing on the first Monday in the December following the election. The [[Lieutenant Governor of Hawaii|lieutenant governor]] is elected for the same term and, since 1964, on the same [[ticket (election)|ticket]] as the governor.{{sfn|Haw. Const.|loc=[https://50constitutions.org/hi/constitution/section-id-66134 art. V, § 1]}}<ref>{{Cite journal |last=Tuttle Jr. |first=Daniel W. |date=June 1967 |title=The 1966 Election in Hawaii |journal=The Western Political Quarterly |volume=20 |issue=2, part 2 |pages=563–567 |doi=10.2307/446083 |jstor=446083}}</ref>  The [[1978 Hawaii State Constitutional Convention|1978 constitutional convention]] established a [[term limit]] of two consecutive terms for both offices.<ref>{{cite news |url=https://www.newspapers.com/article/honolulu-star-bulletin-big-success-of-co/208719043/ |title=Big Success of Con Con Is Surprise |date=November 8, 1978 |newspaper=[[Honolulu Star-Bulletin]] |last=Gomes |first=Lee |page=1 |via=Newspapers.com}}</ref> If the office of governor is vacant, the lieutenant governor becomes governor; if the governor is out of the state or unable to fulfill duties, the lieutenant governor acts as governor during such absence or disability.{{sfn|Haw. Const.|loc=[https://50constitutions.org/hi/constitution/section-id-66143 art. V, § 4]}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Hawaii
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Hawaii|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Quinn, William"|[[File:William F. Quinn, 1958 (cropped).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[William F. Quinn]]'''<br>{{Small|(1919–2006)}}<br>{{sfn|McMullin|1984|pp=122–123}}{{sfn|Sobel|1978|p=331}}<ref name="nga-quinn">{{Cite web |title=William Francis Quinn |url=https://www.nga.org/governor/william-francis-quinn/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260725225027/https://www.nga.org/governor/william-francis-quinn/ |archive-date=July 25, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|data-sort-value="1201"|August 21, 1959<ref>{{Cite news |last=Horio |first=Don |date=August 21, 1959 |title=Quinn, Kealoha Sworn In; 'Greatest Day for Isles' |page=1 |newspaper=[[Honolulu Star-Bulletin]] |url=https://www.newspapers.com/article/honolulu-star-bulletin-quinn-inaugurated/130033178/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230815015502/https://www.newspapers.com/article/honolulu-star-bulletin-quinn-inaugurated/130033178/ |archive-date=August 15, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 3, 1962<br>{{small|(1201 days; lost election)}}
+|[[Hawaii Republican Party|Republican]]{{sfn|Kallenbach|1977|p=150}}
+|[[1959 Hawaii gubernatorial election|1959]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|James|Kealoha}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|2
+|rowspan="4" data-sort-value="Burns, John"|[[File:John A. Burns, 1957.jpg |75px]]
+|rowspan="11" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[John A. Burns]]'''<br>{{Small|(1909–1975)}}<br>{{sfn|Sobel|1978|pp=331–332}}<ref name="nga-burns">{{Cite web |title=John Anthony Burns |url=https://www.nga.org/governor/john-anthony-burns/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260510085337/https://www.nga.org/governor/john-anthony-burns/ |archive-date=May 10, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="4383"|December 3, 1962<ref>{{Cite news |last1=Lovinger |first1=Paul W. |last2=Black |first2=Forrest |date=December 4, 1962 |title=Gov. Burns, Aides Take Up Duties |page=1 |newspaper=[[Honolulu Star-Bulletin]] |url=https://www.newspapers.com/article/honolulu-star-bulletin-burns-inaugurated/130033232/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230815021006/https://www.newspapers.com/article/honolulu-star-bulletin-burns-inaugurated/130033232/ |archive-date=August 15, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 2, 1974<br>{{small|(4383 days; retired)}}
+|rowspan="4"|[[Democratic Party of Hawaiʻi|Democratic]]{{sfn|Kallenbach|1977|p=150}}
+|rowspan="2"|[[1962 Hawaii gubernatorial election|1962]]
+|rowspan="11" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|William S.|Richardson}}<br />{{small|(resigned April 13, 1966)}}
+|- style="height:2em;"
+|{{sortname|Andrew T. F.|Ing}}
+|- style="height:2em;"
+|[[1966 Hawaii gubernatorial election|1966]]
+|{{sortname|Thomas|Gill|dab=politician}}
+|- style="height:2em;"
+|[[1970 Hawaii gubernatorial election|1970]]
+|{{sortname|George|Ariyoshi}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|3
+|rowspan="3" data-sort-value="Ariyoshi, George"|[[File:George Ariyoshi, 1974 (cropped).jpg|75px]]
+|rowspan="3"|'''[[George Ariyoshi]]'''<br>{{Small|(1926–2026)}}<br>{{sfn|Sobel|1978|pp=332–333}}<ref name="nga-ariyoshi">{{Cite web |title=George Ryoichi Ariyoshi |url=https://www.nga.org/governor/george-ryoichi-ariyoshi/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260617194731/https://www.nga.org/governor/george-ryoichi-ariyoshi/ |archive-date=June 17, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="4383"|December 2, 1974<ref>{{Cite news |last=Burris |first=Jerry |date=December 3, 1974 |title=Gov. Ariyoshi Reaffirms Pledges to Hawaii's People During Festive, Historic Inauguration |page=A1 |newspaper=[[The Honolulu Advertiser]] |url=https://www.newspapers.com/article/the-honolulu-advertiser-ariyoshi-inaugur/130033412/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230815015505/https://www.newspapers.com/article/the-honolulu-advertiser-ariyoshi-inaugur/130033412/ |archive-date=August 15, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 1, 1986<br>{{small|(4383 days; term-limited)}}{{efn|Under the constitution as amended in 1978, governors cannot be elected to more than two consecutive terms.{{sfn|Haw. Const.|loc=[https://50constitutions.org/hi/constitution/section-id-66123 art. V, § 1]}}|name=limits}}
+|rowspan="3"|[[Democratic Party of Hawaiʻi|Democratic]]{{sfn|Kallenbach|1977|p=150}}
+|[[1974 Hawaii gubernatorial election|1974]]
+|{{sortname|Nelson|Doi}}
+|- style="height:2em;"
+|[[1978 Hawaii gubernatorial election|1978]]
+|{{sortname|Jean|King}}
+|- style="height:2em;"
+|[[1982 Hawaii gubernatorial election|1982]]
+|{{sortname|John D.|Waiheʻe III}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Waiheʻe, John"|[[File:John D. Waiheʻe III, 1993.jpg|75px]]
+|rowspan="2"|'''[[John D. Waiheʻe III]]'''<br>{{Small|({{Abbr|b.|born in}} 1946)}}<br>{{sfn|Mullaney|1994|pp=103–106}}<ref name="nga-waihee">{{Cite web |title=John Waihee |url=https://www.nga.org/governor/john-waihee/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260513215718/https://www.nga.org/governor/john-waihee/ |archive-date=May 13, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|December 1, 1986<ref>{{Cite news |last=Burris |first=Jerry |date=December 2, 1986 |title=Waihee Begins With Unity Call |page=A1 |newspaper=[[The Honolulu Advertiser]] |url=https://www.newspapers.com/article/the-honolulu-advertiser-waihee-inaugurat/130033453/ |access-date=October 20, 2026 |via=Newspapers.com}}</ref><br/>–<br/>December 5, 1994<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Democratic Party of Hawaiʻi|Democratic]]<ref name="nga-waihee" />
+|[[1986 Hawaii gubernatorial election|1986]]
+|rowspan="2"|{{sortname|Ben|Cayetano}}
+|- style="height:2em;"
+|[[1990 Hawaii gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Cayetano, Ben"|[[File:Hawaii Governor Benjamin Cayetano.jpg |75px]]
+|rowspan="2"|'''[[Ben Cayetano]]'''<br>{{Small|({{Abbr|b.|born in}} 1939)}}<br><ref name="nga-cayetano">{{Cite web |title=Benjamin J. Cayetano |url=https://www.nga.org/governor/benjamin-j-cayetano/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260705080055/https://www.nga.org/governor/benjamin-j-cayetano/ |archive-date=July 5, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|December 5, 1994<ref>{{Cite news |last=Botticelli |first=Ann |date=December 6, 1994 |title=New Governor Offers Hope at Iolani Bash |page=A1 |newspaper=[[The Honolulu Advertiser]] |url=https://www.newspapers.com/article/the-honolulu-advertiser-cayetano-inaugur/130033486/ |access-date=October 20, 2026 |via=Newspapers.com}}</ref><br/>–<br/>December 2, 2002<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Democratic Party of Hawaiʻi|Democratic]]<ref name="nga-cayetano" />
+|[[1994 Hawaii gubernatorial election|1994]]
+|rowspan="2"|{{sortname|Mazie|Hirono}}
+|- style="height:2em;"
+|[[1998 Hawaii gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Lingle, Linda"|[[File:Linda Lingle in March 2010.jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Linda Lingle]]'''<br>{{Small|({{Abbr|b.|born in}} 1953)}}<br><ref name="nga-lingle">{{Cite web |title=Linda Lingle |url=https://www.nga.org/governor/linda-lingle/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260418080554/https://www.nga.org/governor/linda-lingle/ |archive-date=April 18, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|December 2, 2002<ref>{{Cite news |last1=Arakawa |first1=Lynda |last2=Pang |first2=Gordon Y. K. |date=December 3, 2002 |title=Lingle, Hawaii Begin Transition |page=A1 |newspaper=[[The Honolulu Advertiser]] |url=https://www.newspapers.com/article/the-honolulu-advertiser-lingle-inaugurat/130033545/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230815021008/https://www.newspapers.com/article/the-honolulu-advertiser-lingle-inaugurat/130033545/ |archive-date=August 15, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 6, 2010<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Hawaii Republican Party|Republican]]<ref name="nga-lingle" />
+|[[2002 Hawaii gubernatorial election|2002]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Duke|Aiona}}
+|- style="height:2em;"
+|[[2006 Hawaii gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|7
+|rowspan="3" data-sort-value="Abercrombie, Neil"|[[File:Neil Abercrombie (cropped).jpg|75px]]
+|rowspan="8" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Neil Abercrombie]]'''<br>{{Small|({{Abbr|b.|born in}} 1938)}}<br><ref name="nga-abercrombie">{{Cite web |title=Neil Abercrombie |url=https://www.nga.org/governor/neil-abercrombie/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260410200047/https://www.nga.org/governor/neil-abercrombie/ |archive-date=April 10, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1457"|December 6, 2010<ref>{{Cite news |last1=DePledge |first1=Derrick |last2=Reyes |first2=B. J. |date=December 7, 2010 |title='Our Driving Message Will Be, Make It Happen' |page=A1 |newspaper=[[Honolulu Star-Advertiser]] |url=https://www.newspapers.com/article/honolulu-star-advertiser-abercrombie-ina/130033579/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230815015503/https://www.newspapers.com/article/honolulu-star-advertiser-abercrombie-ina/130033579/ |archive-date=August 15, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 1, 2014<br>{{small|(1457 days;<br>lost nomination)}}<ref>{{Cite news |date=August 11, 2014 |title=Hawaiian Governor Loses Primary by Wide Margin; Senate Race Is Undecided |url=https://www.nytimes.com/2014/08/11/us/politics/hawaii-primary.html |newspaper=[[The New York Times]] |location=Honolulu |publication-place=New York City |last=Lovett |first=Ian |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20140811091053/https://www.nytimes.com/2014/08/11/us/politics/hawaii-primary.html |archive-date=August 11, 2014 |url-status=live}}</ref>
+|rowspan="3"|[[Democratic Party of Hawaiʻi|Democratic]]<ref name="nga-abercrombie" />
+|rowspan="3"|[[2010 Hawaii gubernatorial election|2010]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Brian|Schatz}}<br />{{small|(resigned December 26, 2012)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Shan|Tsutsui}}<br />{{small|(took office December 27, 2012)<br />(resigned January 31, 2018)}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|8
+|rowspan="4" data-sort-value="Ige, David"|[[File:Governor David Ige (cropped).jpg|75px]]
+|rowspan="4"|'''[[David Ige]]'''<br>{{Small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-ige">{{Cite web |title=David Ige |url=https://www.nga.org/governor/david-ige/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260705094323/https://www.nga.org/governor/david-ige/ |archive-date=July 5, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2927"|December 1, 2014<ref>{{Cite news |last=Bussewitz |first=Cathy |date=December 2, 2014 |title=Ige Sworn In As Hawaii Governor |page=1A |newspaper=[[West Hawaii Today]] |agency=Associated Press |location=Honolulu |publication-place=Kailua-Kona, Hawaii |url=https://www.newspapers.com/article/west-hawaii-today-ige-inaugurated-decemb/130033611/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230815021007/https://www.newspapers.com/article/west-hawaii-today-ige-inaugurated-decemb/130033611/ |archive-date=August 15, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 5, 2022<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="4"|[[Democratic Party of Hawaiʻi|Democratic]]<ref name="nga-ige" />
+|rowspan="3"|[[2014 Hawaii gubernatorial election|2014]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Doug|Chin}}<br />{{small|(took office February 2, 2018)}}
+|- style="height:2em;"
+|[[2018 Hawaii gubernatorial election|2018]]
+|{{sortname|Josh|Green|dab=politician}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Green, Josh"|[[File:Josh Green Official Photo 2022 (cropped) (cropped).jpg|75px]]
+|'''[[Josh Green (politician)|Josh Green]]'''<br>{{Small|({{Abbr|b.|born in}} 1970)}}<br><ref name="nga-green">{{Cite web |title=Josh Green |url=https://www.nga.org/governor/josh-green/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260814144622/https://www.nga.org/governor/josh-green/ |archive-date=August 14, 2026 |url-status=live |website=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2022|12|5|duration=on|format=no}}"|December 5, 2022<ref>{{Cite news |last=McAvoy |first=Audrey |date=December 6, 2022 |title=Gov. Green Targets Get |page=A1 |newspaper=[[Hawaii Tribune-Herald]] |agency=Associated Press |url=https://www.newspapers.com/article/hawaii-tribune-herald-green-inaugurated/130033663/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230815015507/https://www.newspapers.com/article/hawaii-tribune-herald-green-inaugurated/130033663/ |archive-date=August 15, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>Incumbent{{efn|Green's term [[2026 Hawaii gubernatorial election|will expire]] on December 7, 2026.}}<br>{{small|(in office {{Duration in days nts|2022|12|5|duration=on|format=no}} days)}}
+|[[Democratic Party of Hawaiʻi|Democratic]]<ref name="nga-green" />
+|[[2022 Hawaii gubernatorial election|2022]]
+|{{sortname|Sylvia|Luke}}
+|}
+
+==Electoral history==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |[[Green Party of the United States|Green]] nominee
+! colspan="4" scope="col" |Other candidate
+! colspan="4" scope="col" |Other candidate
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1959 Hawaii gubernatorial election|1959]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[John A. Burns]]
+| 82,074
+| 48.66%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[William F. Quinn]]'''
+| '''86,213'''
+| '''51.12%'''
+| bgcolor="{{party color|Independent}}" |
+| {{nowrap|David Kihei<br>(Commonwealth)}}
+| 480
+| 0.98%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1962 Hawaii gubernatorial election|1962]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John A. Burns]]'''
+| '''114,308'''
+| '''58.32%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[William F. Quinn]]
+| 81,707
+| 41.68%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1966 Hawaii gubernatorial election|1966]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John A. Burns]]'''
+| '''108,840'''
+| '''51.06%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Randolph Crossley]]
+| 104,324
+| 48.94%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1970 Hawaii gubernatorial election|1970]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John A. Burns]]'''
+| '''137,812'''
+| '''57.65%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Samuel Pailthorpe King|Samuel P. King]]
+| 101,249
+| 42.35%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1974 Hawaii gubernatorial election|1974]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[George Ariyoshi]]'''
+| '''136,262'''
+| '''54.58%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Randolph Crossley]]
+| 113,388
+| 45.42%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1978 Hawaii gubernatorial election|1978]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[George Ariyoshi]]'''
+| '''153,394'''
+| '''54.48%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[John R. Leopold]]
+| 124,610
+| 44.25%
+| bgcolor="{{party color|Independent}}" |
+| [[Alema Leota]]
+| 1,982
+| 0.70%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Gregory Reeser
+| 1,059
+| 0.38%
+| colspan=4| –
+| bgcolor="{{party color|Independent}}" |
+| {{nowrap|John Moore<br>(Aloha Democratic)}}
+| 542
+| 0.19%
+| colspan=4| –
+|-
+| [[1982 Hawaii gubernatorial election|1982]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[George Ariyoshi]]'''
+| '''141,043'''
+| '''45.23%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[D. G. Anderson]]
+| 81,507
+| 26.14%
+| bgcolor="{{party color|Independent}}" |
+| [[Frank Fasi]]
+| 89,303
+| 28.64%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1986 Hawaii gubernatorial election|1986]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John D. Waiheʻe III|John D. Waiheʻe]]'''
+| '''173,655'''
+| '''51.98%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[D. G. Anderson]]
+| 160,460
+| 48.02%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1990 Hawaii gubernatorial election|1990]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John D. Waiheʻe III|John D. Waiheʻe]]'''
+| '''203,491'''
+| '''59.83%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Fred Hemmings]]
+| 131,310
+| 38.61%
+| bgcolor="{{party color|Independent}}" |
+| Peggy Ha'o Ross
+| 2,446
+| 0.72%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Don Smith
+| 2,885
+| 0.85%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1994 Hawaii gubernatorial election|1994]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Ben Cayetano]]'''
+| '''134,978'''
+| '''36.58%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Pat Saiki]]
+| 107,908
+| 29.24%
+| bgcolor="{{party color|Independent}}" |
+| {{nowrap|[[Frank Fasi]]<br>(Best)}}
+| 113,158
+| 30.67%
+| colspan=4| –
+| bgcolor="{{party color|Green Party (United States)}}" |
+| Kioni Dudley
+| 12,969
+| 3.51%
+| colspan=4| –
+|-
+| [[1998 Hawaii gubernatorial election|1998]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Ben Cayetano]]'''
+| '''204,206'''
+| '''50.11%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Linda Lingle]]
+| 198,952
+| 48.82%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| George Peabody
+| 4,398
+| 1.08%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2002 Hawaii gubernatorial election|2002]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Mazie Hirono]]
+| 179,647
+| 47.01%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Linda Lingle]]'''
+| '''197,009'''
+| '''51.56%'''
+| bgcolor="{{party color|Independent}}" |
+| Jim Brewer
+| 1,147
+| 0.30%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Tracy Ryan
+| 1,364
+| 0.36%
+| colspan=4| –
+| bgcolor="{{party color|Natural Law Party (United States)}}" |
+| {{nowrap|[[Bu Laia|Bu La'ia Hill]]<br>([[Natural Law Party (United States)|Natural Law]])}}
+| 2,561
+| 0.67%
+| bgcolor="{{party color|Independent}}" |
+| {{nowrap|Daniel Cunningham<br>(Independent)}}
+| 382
+| 0.10%
+|-
+| [[2006 Hawaii gubernatorial election|2006]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Randy Iwase]]
+| 121,717
+| 35.35%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Linda Lingle]]'''
+| '''215,313'''
+| '''62.53%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Ozell Daniel
+| 1,850
+| 0.54%
+| bgcolor="{{party color|Green Party (United States)}}" |
+| Jim Brewer
+| 5,435
+| 1.58%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2010 Hawaii gubernatorial election|2010]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''{{nowrap|[[Neil Abercrombie|Neil<br>Abercrombie]]}}'''
+| '''222,724'''
+| '''58.22%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Duke Aiona]]
+| 157,311
+| 41.12%
+| bgcolor="{{party color|Independent}}" |
+| Tom Pollard
+| 1,263
+| 0.33%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Independent}}" |
+| {{nowrap|Daniel Cunningham<br>(Free Energy)}}
+| 1,265
+| 0.33%
+| colspan=4| –
+|-
+| [[2014 Hawaii gubernatorial election|2014]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[David Ige]]'''
+| '''181,106'''
+| '''49.45%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Duke Aiona]]
+| 135,775
+| 37.08%
+| bgcolor="{{party color|Independent}}" |
+| [[Mufi Hannemann]]
+| 42,934
+| 11.72%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Jeff Davis
+| 6,395
+| 1.75%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2018 Hawaii gubernatorial election|2018]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[David Ige]]'''
+| '''244,934'''
+| '''62.67%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Andria Tupola]]
+| 131,719
+| 33.70%
+| bgcolor="{{party color|Independent}}" |
+| Terrence Teruya
+| 4,067
+| 1.04%
+| colspan=4| –
+| bgcolor="{{party color|Green Party (United States)}}" |
+| Jim Brewer
+| 10,123
+| 2.59%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2022 Hawaii gubernatorial election|2022]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Josh Green (politician)|Josh Green]]'''
+| '''261,025'''
+| '''63.16%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Duke Aiona]]
+| 152,237
+| 36.84%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|}
+
+==See also==
+*[[Governors of Hawaiʻi (island)|List of governors of Hawaiʻi Island]]
+*[[Governors of Maui|List of governors of Maui]]
+*[[Governors of Oʻahu|List of governors of Oʻahu]]
+*[[Governors of Kauaʻi|List of governors of Kauaʻi]]
+*[[List of Hawaii state legislatures|List of Hawaiʻi state legislatures]]
+*[[List of Hawaiian monarchs]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Hawaii Governors |url=https://www.nga.org/former-governors/hawaii/ |access-date=October 21, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Hawaii Constitution |url=https://50constitutions.org/hi/constitution |ref={{sfnref|Haw. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 21, 2026}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015}}
+{{refend}}
+
+==External links==
+{{commons category | Governors of Hawaii}}
+*[https://governor.hawaii.gov/ Office of the Governor of Hawaii]
+
+{{Governors of Hawaii}}
+{{US Chief Executives}}
+{{Hawaii}}
+
+{{featured list}}
+
+{{DEFAULTSORT:Hawaii, List Of Governors Of}}
+[[Category:Governors of Hawaii|*]]
+[[Category:Lists of Hawaii politicians|Governors]]
+[[Category:Lists of state governors of the United States]]
+[[Category:Hawaii history-related lists|Governors]]

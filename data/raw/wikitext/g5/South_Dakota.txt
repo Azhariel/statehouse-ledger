@@ -1,0 +1,789 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+The [[governor of South Dakota]] is the [[head of government]] of the [[U.S. state]] of [[South Dakota]]. The current governor is [[Larry Rhoden]], representing the [[South Dakota Republican Party|Republican Party]], serving since 2025.
+
+==Governors==
+{{for|governors before statehood|List of governors of Dakota Territory}}
+[[Dakota Territory]] was organized on March 2, 1861;<ref>{{usstat|12|239}}</ref> on November 2, 1889, it was split into the states of [[North Dakota]] and South Dakota.<ref>{{usstat|25|676}}</ref>
+
+The [[Constitution of South Dakota]] originally provided for the election of a governor and lieutenant governor every two years with no limits. A law passed in 1947 prohibited parties from nominating someone who had served two consecutive terms, effectively creating a term limit, and an amendment in 1972 increased term lengths to four years while formally prohibiting someone from serving three consecutive terms. Should the office of governor become vacant, the lieutenant governor becomes governor.{{sfn|Kallenbach|1977|pp=542–544}}
+
+The Republican Party has been in control of the governorship continuously since 1979, Democrats last won the governorship of South Dakota in 1974. This is the longest drought of any state where the opposite party last held the office.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of South Dakota
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of South Dakota|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Mellette, Arthur"|[[File:Governor Arthur C Mellette.jpg|75px]]
+|rowspan="4" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|rowspan="2"|'''[[Arthur C. Mellette]]'''<br>{{small|(1842–1896)}}<br>{{sfn|Sobel|1978|p=1447}}<ref name="nga-mellette">{{Cite web |title=Arthur Calvin Mellette |url=https://www.nga.org/governor/arthur-calvin-mellette/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1159"|November 2, 1889{{efn|Mellette was territorial governor when South Dakota became a state, and was elected as its first governor.{{sfn|Sobel|1978|p=1447}}<ref>{{Cite news |date=1889-11-04 |title=Dakota Twins! |page=1 |work=The Daily Plainsman |url=https://www.newspapers.com/article/the-daily-plainsman/1099200/ |access-date=2023-07-04}}</ref> He was sworn in on October 15, 1889.<ref>South Dakota Legislature. ''Journal of the Senate''. 1889 spec. sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2999874&seq=19 7], accessed July 4, 2023</ref>}}<br />&ndash;<br />January 3, 1893<br>{{small|(1159 days; retired)}}{{sfn|Sobel|1978|p=1447}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1889 South Dakota gubernatorial election|1889]]
+|rowspan="21" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|James H.|Fletcher}}
+|- style="height:2em;"
+|[[1890 South Dakota gubernatorial election|1890]]
+|{{sortname|George H.|Hoffman}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Sheldon, Charles"|[[File:Charles H. Sheldon.jpg|75px]]
+|rowspan="2"|'''[[Charles H. Sheldon]]'''<br>{{small|(1840–1898)}}<br>{{sfn|Sobel|1978|pp=1447–1448}}<ref name="nga-sheldon">{{Cite web |title=Charles Henry Sheldon |url=https://www.nga.org/governor/charles-henry-sheldon/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1893<ref>South Dakota Legislature. ''Journal of the Senate''. 3rd sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2998912&seq=36 28], accessed July 4, 2023</ref><br />&ndash;<br />January 5, 1897<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1892 South Dakota gubernatorial election|1892]]
+|rowspan="2"|{{sortname|Charles N.|Herreid}}
+|- style="height:2em;"
+|[[1894 South Dakota gubernatorial election|1894]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Lee, Andrew"|[[File:Andrew E. Lee.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|People's Party (United States)}};" title="Represented the Populist Party"|
+|rowspan="2"|'''[[Andrew E. Lee]]'''<br>{{small|(1847–1934)}}<br>{{sfn|Sobel|1978|p=1448}}<ref name="nga-lee">{{Cite web |title=Andrew Ericson Lee |url=https://www.nga.org/governor/andrew-ericson-lee/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1897<ref>South Dakota Legislature. ''Journal of the Senate''. 5th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2998916&seq=10 3], accessed July 4, 2023</ref><br />&ndash;<br />January 8, 1901<br>{{small|(1464 days; retired)}}{{efn|Lee instead [[1900 United States House of Representatives election in South Dakota|ran unsuccessfully]] for the [[United States House of Representatives]].}}
+|rowspan="2"|[[People's Party (United States)|Populist]]
+|[[1896 South Dakota gubernatorial election|1896]]
+|{{sortname|Daniel T.|Hindman}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1898 South Dakota gubernatorial election|1898]]
+|{{sortname|John T.|Kean}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Herreid, Charles"|[[File:Charles N. Herreid.jpg|75px]]
+|rowspan="13" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Charles N. Herreid]]'''<br>{{small|(1857–1928)}}<br>{{sfn|Sobel|1978|p=1449}}<ref name="nga-herreid">{{Cite web |title=Charles N. Herreid |url=https://www.nga.org/governor/charles-n-herreid/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1901<ref>{{Cite news |date=1901-01-08 |title=Gov. Charles N. Herreid Has Been Inaugurated |page=1 |work=Argus-Leader |url=https://www.newspapers.com/article/argus-leader-herreid-inaugurated-january/127635971/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 3, 1905<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|p=1449}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1900 South Dakota gubernatorial election|1900]]
+|rowspan="2"|{{sortname|George W.|Snow}}
+|- style="height:2em;"
+|[[1902 South Dakota gubernatorial election|1902]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Elrod, Samuel"|[[File:Samuel H. Elrod 001.jpg|75px]]
+|'''[[Samuel H. Elrod]]'''<br>{{small|(1856–1935)}}<br>{{sfn|Sobel|1978|pp=1449–1450}}<ref name="nga-elrod">{{Cite web |title=Samuel Harrison Elrod |url=https://www.nga.org/governor/samuel-harrison-elrod/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1905<ref>South Dakota Legislature. ''Journal of the Senate''. 9th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2998919&seq=27 21], accessed July 4, 2023</ref><br />&ndash;<br />January 8, 1907<br>{{small|(736 days;<br>lost nomination)}}<ref>{{cite news|date=June 6, 1906|title=Republicans Name Ticket: Crawford Candidates Nominated at State Convention by Large Majorities|work=[[Argus Leader]]|location=Sioux Falls, S.D.|pages=1, 3|url=https://www.newspapers.com/image/229675795/|access-date=September 11, 2026}}</ref>
+|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1904 South Dakota gubernatorial election|1904]]
+|{{sortname|John E.|McDougall}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Crawford, Coe"|[[File:Crawfordcoe.jpg|75px]]
+|'''[[Coe I. Crawford]]'''<br>{{small|(1858–1944)}}<br>{{sfn|Sobel|1978|p=1450}}<ref name="nga-crawford">{{Cite web |title=Coe Isaac Crawford |url=https://www.nga.org/governor/coe-isaac-crawford/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 8, 1907<ref>{{Cite news |date=1907-01-10 |title=In Harness |page=3 |work=The Madison Daily Leader |url=https://www.newspapers.com/article/the-madison-daily-leader-crawford-inaugu/127636236/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 5, 1909<br>{{small|(729 days; retired)}}{{efn|Crawford was instead [[1909 United States Senate election in South Dakota|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1450}}}}
+|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1906 South Dakota gubernatorial election|1906]]
+|rowspan="2"|{{sortname|Howard C.|Shober}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Vessey, Robert"|[[File:RobertSVessey.jpg|75px]]
+|rowspan="2"|'''[[Robert S. Vessey]]'''<br>{{small|(1858–1929)}}<br>{{sfn|Sobel|1978|pp=1450–1451}}<ref name="nga-vessey">{{Cite web |title=Robert Scadden Vessey |url=https://www.nga.org/governor/robert-scadden-vessey/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1909<ref>{{Cite news |date=1909-01-07 |title=Law Makers Begin Grind |page=1 |work=The Miller Press |url=https://www.newspapers.com/article/the-miller-press-vessey-inaugurated-janu/127636312/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 7, 1913<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1908 South Dakota gubernatorial election|1908]]
+|- style="height:2em;"
+|[[1910 South Dakota gubernatorial election|1910]]
+|{{sortname|Frank M.|Byrne}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="Byrne, Frank"|[[File:FrankMByrne.jpg|75px]]
+|rowspan="2"|'''[[Frank M. Byrne]]'''<br>{{small|(1858–1927)}}<br>{{sfn|Sobel|1978|p=1451}}<ref name="nga-byrne">{{Cite web |title=Frank M. Byrne |url=https://www.nga.org/governor/frank-m-byrne/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 7, 1913<ref>{{Cite news |date=1913-01-10 |title=Wheels Begin to Turn |page=4 |work=Hot Springs Weekly Star |url=https://www.newspapers.com/article/hot-springs-weekly-star-byrne-inaugurate/127636455/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 2, 1917<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1912 South Dakota gubernatorial election|1912]]
+|{{sortname|Edward Lincoln|Abel}}
+|- style="height:2em;"
+|[[1914 South Dakota gubernatorial election|1914]]
+|{{sortname|Peter|Norbeck}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Norbeck, Peter"|[[File:PeterNorbeck R-SD.jpg|75px]]
+|rowspan="2"|'''[[Peter Norbeck]]'''<br>{{small|(1870–1936)}}<br>{{sfn|Sobel|1978|pp=1451–1452}}<ref name="nga-norbeck">{{Cite web |title=Peter Norbeck |url=https://www.nga.org/governor/peter-norbeck/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1917<ref>{{Cite news |date=1917-01-03 |title=South Dakota's Legislators Organize Without Friction |page=1 |work=The Daily Deadwood Pioneer-Times |url=https://www.newspapers.com/article/the-daily-deadwood-pioneer-times-norbeck/127636577/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 4, 1921<br>{{small|(1464 days; retired)}}{{efn|Norbeck was instead [[1920 United States Senate election in South Dakota|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1451–1452}}}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1916 South Dakota gubernatorial election|1916]]
+|rowspan="2"|{{sortname|William H.|McMaster}}
+|- style="height:2em;"
+|[[1918 South Dakota gubernatorial election|1918]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="McMaster, William"|[[File:McMASTER, WILLIAM N., SENATOR LCCN2016862204 (cropped).jpg|75px]]
+|rowspan="2"|'''[[William H. McMaster]]'''<br>{{small|(1877–1968)}}<br>{{sfn|Sobel|1978|p=1452}}<ref name="nga-mcmaster">{{Cite web |title=William Henry McMaster |url=https://www.nga.org/governor/william-henry-mcmaster/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1921<ref>{{Cite news |date=1921-01-04 |title=S.D. Legislature Convenes at Pierre in 17th Session; Gov. M'Master Inaugurated |page=1 |work=Argus-Leader |url=https://www.newspapers.com/article/argus-leader-mcmaster-inaugurated-januar/127636654/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 6, 1925<br>{{small|(1464 days; retired)}}{{efn|McMaster was instead [[1924 United States Senate election in South Dakota|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1452}}}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1920 South Dakota gubernatorial election|1920]]
+|rowspan="2"|{{sortname|Carl|Gunderson}}
+|- style="height:2em;"
+|[[1922 South Dakota gubernatorial election|1922]]
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Gunderson, Carl"|[[File:Gundersoncarl.jpg|75px]]
+|'''[[Carl Gunderson]]'''<br>{{small|(1864–1933)}}<br>{{sfn|Sobel|1978|p=1453}}<ref name="nga-gunderson">{{Cite web |title=Carl Gunderson |url=https://www.nga.org/governor/carl-gunderson/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="728"|January 6, 1925<ref>{{Cite news |date=1925-01-06 |title=People Demand Economy, Says New Executive |page=2 |work=Argus-Leader |agency=Associated Press |url=https://www.newspapers.com/article/argus-leader-gunderson-inaugurated-janua/127639243/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 3, 1927<br>{{small|(728 days; lost election)}}
+|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1924 South Dakota gubernatorial election|1924]]
+|{{sortname|Alva Clark|Forney}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|12
+|rowspan="3" data-sort-value="Bulow, William"|[[File:William John Bulow.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[William J. Bulow]]'''<br>{{small|(1869–1960)}}<br>{{sfn|Sobel|1978|pp=1453–1454}}<ref name="nga-bulow">{{Cite web |title=William John Bulow |url=https://www.nga.org/governor/william-john-bulow/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1465"|January 3, 1927<ref>{{Cite news |date=1927-01-04 |title=Bulow Took Oath of Office Monday |page=1 |work=The Daily Deadwood Pioneer-Times |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-deadwood-pioneer-times-bulow-s/127646708/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 6, 1931<br>{{small|(1465 days; retired)}}{{efn|Bulow was instead [[1930 United States Senate election in South Dakota|elected]] to the [[United States Senate]].}}
+|rowspan="3"|[[South Dakota Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=544}}
+|[[1926 South Dakota gubernatorial election|1926]]
+|{{sortname|Hyatt E.|Covey}}{{efn|Represented the [[South Dakota Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+|rowspan="2"|[[1928 South Dakota gubernatorial election|1928]]
+|{{sortname|Clarence E.|Coyne}}{{efn|name=lt-rep}}<br>{{small|(died May 27, 1929)}}
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John T.|Grigsby}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Green, Warren"|[[File:Warren Green.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Warren Green (South Dakota politician)|Warren Green]]'''<br>{{small|(1869–1945)}}<br>{{sfn|Sobel|1978|p=1454}}<ref name="nga-green">{{Cite web |title=Warren Everett Green |url=https://www.nga.org/governor/warren-everett-green/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 6, 1931<ref>{{Cite news |date=1931-01-06 |title=Dirt Farmer Takes Official Reins in Inaugural Service |language=en-us |page=1 |work=Rapid City Journal |agency=Associated Press |url=https://www.newspapers.com/article/rapid-city-journal-green-inaugurated-jan/127646829/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 3, 1933<br>{{small|(729 days; lost election)}}
+|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1930 South Dakota gubernatorial election|1930]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Odell K.|Whitney}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Berry, Tom"|[[File:Tom Berry.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Tom Berry (South Dakota politician)|Tom Berry]]'''<br>{{small|(1879–1951)}}<br>{{sfn|Sobel|1978|pp=1454–1455}}<ref name="nga-berry">{{Cite web |title=Thomas Matthew Berry |url=https://www.nga.org/governor/thomas-matthew-berry/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1933<ref>{{Cite news |date=1933-01-03 |title=Berry, Green Urge Economy |page=1 |work=Argus-Leader |agency=Associated Press |url=https://www.newspapers.com/article/argus-leader-berry-inaugurated-january-3/127647817/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 5, 1937<br>{{small|(1464 days; lost election)}}
+|rowspan="2"|[[South Dakota Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=544}}
+|[[1932 South Dakota gubernatorial election|1932]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Hans|Ustrud}}
+|- style="height:2em;"
+|[[1934 South Dakota gubernatorial election|1934]]
+|{{sortname|Robert|Peterson|dab=South Dakota politician}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Jensen, Leslie"|[[File:Leslie Jensen.jpg|75px]]
+|rowspan="11" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Leslie Jensen]]'''<br>{{small|(1892–1964)}}<br>{{sfn|Sobel|1978|p=1455}}<ref name="nga-jensen">{{Cite web |title=Leslie Jensen |url=https://www.nga.org/governor/leslie-jensen/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1937<ref>{{Cite news |date=1937-01-06 |title=Jensen Takes Office As Governor |page=1 |work=Deadwood Pioneer-Times |agency=Associated Press |url=https://www.newspapers.com/article/deadwood-pioneer-times-jensen-inaugurati/3705316/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 3, 1939<br>{{small|(729 days; retired)}}{{efn|Jensen instead [[1938 United States Senate elections in South Dakota|ran unsuccessfully]] for the Republican nomination to the [[United States Senate]].{{sfn|Sobel|1978|p=1455}}}}
+|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1936 South Dakota gubernatorial election|1936]]
+|rowspan="17" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Donald|McMurchie}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Bushfield, Harlan"|[[File:Harlan J. Bushfield (SD).png|75px]]
+|rowspan="2"|'''[[Harlan J. Bushfield]]'''<br>{{small|(1882–1948)}}<br>{{sfn|Sobel|1978|p=1456}}<ref name="nga-bushfield">{{Cite web |title=Harlan John Bushfield |url=https://www.nga.org/governor/harlan-john-bushfield/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1939<ref>{{Cite news |date=1939-01-03 |title=Bushfield Becomes 16th Governor of State; Jensen Urges Speedy Liquidation of Rural Credits |page=1 |work=The Daily Plainsman |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-plainsman-bushfield-inaugurate/127648591/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 5, 1943<br>{{small|(1464 days; retired)}}{{efn|Bushfield was instead [[1942 United States Senate election in South Dakota|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1456}}}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1938 South Dakota gubernatorial election|1938]]
+|- style="height:2em;"
+|[[1940 South Dakota gubernatorial election|1940]]
+|rowspan="2"|{{sortname|A. C.|Miller|Albert C. Miller}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Sharpe, Merrell"|[[File:Merrell Q. Sharpe.jpg|75px]]
+|rowspan="2"|'''[[Merrell Q. Sharpe]]'''<br>{{small|(1888–1962)}}<br>{{sfn|Sobel|1978|pp=1456–1457}}<ref name="nga-sharpe">{{Cite web |title=Merrell Quentin Sharpe |url=https://www.nga.org/governor/merrell-quentin-sharpe/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1943<ref>South Dakota Legislature. ''Journal of the Senate''. 28th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2998922&seq=23 16], accessed July 4, 2023</ref><br />&ndash;<br />January 7, 1947<br>{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1456–1457}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1942 South Dakota gubernatorial election|1942]]
+|- style="height:2em;"
+|[[1944 South Dakota gubernatorial election|1944]]
+|rowspan="2"|{{sortname|Sioux K.|Grigsby}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Mickelson, George T."|[[File:George T. Mickelson.jpg|75px]]
+|rowspan="2"|'''[[George T. Mickelson]]'''<br>{{small|(1903–1965)}}<br>{{sfn|Sobel|1978|p=1457}}<ref name="nga-mickelson-george-t">{{Cite web |title=George T. Mickelson |url=https://www.nga.org/governor/george-t-mickelson/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 7, 1947<ref>South Dakota Legislature. ''Journal of the Senate''. 30th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2998925&seq=20 8], accessed July 5, 2023</ref><br />&ndash;<br />January 2, 1951<br>{{small|(1457 days; term-limited)}}{{efn|Under a 1947 law, parties were prohibited from nominating someone who had served two consecutive terms as governor.|name=limits-1947}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1946 South Dakota gubernatorial election|1946]]
+|- style="height:2em;"
+|[[1948 South Dakota gubernatorial election|1948]]
+|rowspan="3"|{{sortname|Rex|Terry}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Anderson, Sigurd"|[[File:Sigurd Anderson.jpg|75px]]
+|rowspan="2"|'''[[Sigurd Anderson]]'''<br>{{small|(1904–1990)}}<br>{{sfn|Sobel|1978|pp=1457–1458}}<ref name="nga-anderson">{{Cite web |title=Sigurd Anderson |url=https://www.nga.org/governor/sigurd-anderson/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1951<ref>South Dakota Legislature. ''Journal of the Senate''. 32nd sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2946562&seq=11 7], accessed July 5, 2023</ref><br />&ndash;<br />January 4, 1955<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1947}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1950 South Dakota gubernatorial election|1950]]
+|- style="height:2em;"
+|[[1952 South Dakota gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Foss, Joe"|[[File:Joe Foss official portrait as Governor.jpg|75px]]
+|rowspan="2"|'''[[Joe Foss]]'''<br>{{small|(1915–2003)}}<br>{{sfn|Sobel|1978|p=1458}}<ref name="nga-foss">{{Cite web |title=Joseph Jacob Foss |url=https://www.nga.org/governor/joseph-jacob-foss/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1955<ref>South Dakota Legislature. ''Journal of the Senate''. 34th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b3106700&seq=14 8], accessed July 5, 2023</ref><br />&ndash;<br />January 6, 1959<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1947}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1954 South Dakota gubernatorial election|1954]]
+|rowspan="2"|{{sortname|L. Roy|Houck}}
+|- style="height:2em;"
+|[[1956 South Dakota gubernatorial election|1956]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Herseth, Ralph"|[[File:Ralph Herseth.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Ralph Herseth]]'''<br>{{small|(1909–1969)}}<br>{{sfn|Sobel|1978|p=1459}}<ref name="nga-herseth">{{Cite web |title=Ralph E. Herseth |url=https://www.nga.org/governor/ralph-e-herseth/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 6, 1959<ref>{{Cite news |date=1959-01-07 |title=S.D. Session Is Off to Fast Start with 4 Bills |page=2 |work=Argus-Leader |agency=Associated Press |url=https://www.newspapers.com/article/argus-leader-herseth-inaugurated-january/127656821/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 3, 1961<br>{{small|(729 days; lost election)}}
+|[[South Dakota Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=544}}
+|[[1958 South Dakota gubernatorial election|1958]]
+|{{sortname|John F.|Lindley}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Gubbrud, Archie"|[[File:Archie M. Gubbrud 1962 (cropped).jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Archie M. Gubbrud]]'''<br>{{small|(1910–1987)}}<br>{{sfn|Sobel|1978|pp=1459–1460}}<ref name="nga-gubbrud">{{Cite web |title=Archie Gubbrud |url=https://www.nga.org/governor/archie-gubbrud/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1961<ref>South Dakota Legislature. ''Journal of the Senate''. 37th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2946564&seq=16 11], accessed July 5, 2023</ref><br />&ndash;<br />January 5, 1965<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1947}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1960 South Dakota gubernatorial election|1960]]
+|{{sortname|Joseph H.|Bottum}}
+|- style="height:2em;"
+|[[1962 South Dakota gubernatorial election|1962]]
+|{{sortname|Nils|Boe}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Boe, Nils"|[[File:Nils Boe.jpg|75px]]
+|rowspan="2"|'''[[Nils Boe]]'''<br>{{small|(1913–1992)}}<br>{{sfn|Sobel|1978|p=1460}}<ref name="nga-boe">{{Cite web |title=Nils Andreas Boe |url=https://www.nga.org/governor/nils-andreas-boe/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1965<ref>South Dakota Legislature. ''Journal of the Senate''. 40th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2946566&seq=10 4], accessed July 5, 2023</ref><br />&ndash;<br />January 7, 1969<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1947}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1964 South Dakota gubernatorial election|1964]]
+|rowspan="2"|{{sortname|Lem|Overpeck}}
+|- style="height:2em;"
+|[[1966 South Dakota gubernatorial election|1966]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Farrar, Frank"|[[File:Frank Farrar.png|75px]]
+|'''[[Frank Farrar]]'''<br>{{small|(1929–2021)}}<br>{{sfn|Sobel|1978|pp=1460–1461}}<ref name="nga-farrar">{{Cite web |title=Frank Leroy Farrar |url=https://www.nga.org/governor/frank-leroy-farrar/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1969<ref>South Dakota Legislature. ''Journal of the Senate''. 44th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2946570&seq=8 4], accessed July 5, 2023</ref><br />&ndash;<br />January 5, 1971<br>{{small|(729 days; lost election)}}
+|[[South Dakota Republican Party|Republican]]{{sfn|Kallenbach|1977|p=544}}
+|[[1968 South Dakota gubernatorial election|1968]]
+|{{sortname|James|Abdnor}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|25
+|rowspan="3" data-sort-value="Kneip, Richard"|[[File:Dick Kneip.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Richard F. Kneip]]'''<br>{{small|(1933–1987)}}<br>{{sfn|Sobel|1978|p=1461}}<ref name="nga-kneip">{{Cite web |title=Richard Francis Kneip |url=https://www.nga.org/governor/richard-francis-kneip/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2758"|January 5, 1971<ref>South Dakota Legislature. ''Journal of the Senate''. 46th sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2946572&seq=14 4], accessed July 5, 2023</ref><br />&ndash;<br />July 24, 1978<br>{{small|(2758 days; resigned)}}{{efn|Kneip resigned, having been confirmed as [[List of ambassadors of the United States to Singapore|United States Ambassador to Singapore]].<ref name="nga-kneip" />}}
+|rowspan="3"|[[South Dakota Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=544}}
+|[[1970 South Dakota gubernatorial election|1970]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2" |{{sortname|William|Dougherty}}
+|- style="height:2em;"
+|[[1972 South Dakota gubernatorial election|1972]]
+|- style="height:2em;"
+|[[1974 South Dakota gubernatorial election|1974]]
+|{{sortname|Harvey|Wollman}}
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Wollman, Harvey"|[[File:Harvey Wollman.png|75px]]
+|'''[[Harvey Wollman]]'''<br>{{small|(1935–2022)}}<br><ref name="nga-wollman">{{Cite web |title=Harvey Wollman |url=https://www.nga.org/governor/harvey-wollman/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="162"|July 24, 1978<ref>{{Cite news |last=Porter |first=Charlotte |date=1978-07-25 |title=Wollman Inauguration an Event of Contrasting Feelings |page=1 |work=Rapid City Journal |agency=Associated Press |url=https://www.newspapers.com/article/rapid-city-journal-wollman-succeeds-knei/127657817/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 1, 1979<br>{{small|(162 days;<br>lost nomination)}}{{efn|Wollman lost the Democratic nomination to [[Roger D. McKellips]].}}
+|[[South Dakota Democratic Party|Democratic]]<ref name="nga-wollman" />
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|27
+|rowspan="2" data-sort-value="Janklow, Bill"|[[File:William Janklow (South Dakota Governor).jpg|75px]]
+|rowspan="16" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Bill Janklow]]'''<br>{{small|(1939–2012)}}<br><ref name="nga-janklow">{{Cite web |title=William J. Janklow |url=https://www.nga.org/governor/william-j-janklow/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2932"|January 1, 1979<ref>{{Cite news |last=Newhouse |first=Eric |date=1979-01-02 |title=Janklow Moves Early to Stop Appointments |page=1 |work=Rapid City Journal |agency=Associated Press |url=https://www.newspapers.com/article/rapid-city-journal-janklow-inaugurated-j/127657884/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 10, 1987<br>{{small|(2932 days; term-limited)}}{{efn|Under a 1972 amendment to the constitution, governors are ineligible to be elected to more than two consecutive terms.<ref>{{Cite web |title=S.D. Const. art. IV, § 2 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27SD%27&CID=223&art=4&sec=2&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]<ref name="nga-janklow" />
+|[[1978 South Dakota gubernatorial election|1978]]
+|rowspan="13" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Lowell C.|Hansen II}}
+|- style="height:2em;"
+|[[1982 South Dakota gubernatorial election|1982]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Mickelson, George S."|[[File:George S. Mickelson (cropped).jpeg|75px]]
+|rowspan="2"|'''[[George S. Mickelson]]'''<br>{{small|(1941–1993)}}<br><ref name="nga-mickelson-george-s">{{Cite web |title=George S. Mickelson |url=https://www.nga.org/governor/george-s-mickelson/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2292"|January 10, 1987<ref>{{Cite news |last=Bolding |first=Julie |date=1987-01-11 |title=Mickelson Takes Oath |page=1A |work=Argus-Leader |url=https://www.newspapers.com/article/argus-leader-mickelson-inaugurated-janua/127657990/ |access-date=2023-07-05}}</ref><br />&ndash;<br />April 19, 1993<br>{{small|(2292 days; died in office)}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]<ref name="nga-mickelson-george-s" />
+|[[1986 South Dakota gubernatorial election|1986]]
+|rowspan="2"|{{sortname|Walter Dale|Miller}}
+|- style="height:2em;"
+|[[1990 South Dakota gubernatorial election|1990]]
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Miller, Walter"|[[File:Walter Miller.png|75px]]
+|'''[[Walter Dale Miller]]'''<br>{{small|(1925–2015)}}<br><ref name="nga-miller">{{Cite web |title=Walter D. Miller |url=https://www.nga.org/governor/walter-d-miller/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="629"|April 19, 1993<ref>{{Cite news |last=Kranz |first=David |date=1993-04-20 |title=Miller to Become State's 29th Governor |page=6A |work=Argus-Leader |url=https://www.newspapers.com/article/argus-leader-miller-succeeds-mickelson-a/127658233/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 7, 1995<br>{{small|(629 days;<br>lost nomination)}}
+|[[South Dakota Republican Party|Republican]]<ref name="nga-miller" />
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Steve T.|Kirby}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Janklow, Bill"|[[File:William Janklow (South Dakota Governor).jpg|75px]]
+|rowspan="2"|'''[[Bill Janklow]]'''<br>{{small|(1939–2012)}}<br><ref name="nga-janklow" />
+|rowspan="2" data-sort-value="2923"|January 7, 1995<ref>{{Cite news |last=Woster |first=Terry |date=1995-01-08 |title=Janklow: Let's Work Together |page=1A |work=Argus-Leader |url=https://www.newspapers.com/article/argus-leader-janklow-inaugurated-january/127658285/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 7, 2003<br>{{small|(2923 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]<ref name="nga-janklow" />
+|[[1994 South Dakota gubernatorial election|1994]]
+|rowspan="2"|{{sortname|Carole|Hillard}}
+|- style="height:2em;"
+|[[1998 South Dakota gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Rounds, Mike"|[[File:Mike Rounds official photo.JPG|75px]]
+|rowspan="2"|'''[[Mike Rounds]]'''<br>{{small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-rounds">{{Cite web |title=Mike Rounds |url=https://www.nga.org/governor/mike-rounds/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2924"|January 7, 2003<ref>{{Cite news |last=Kafka |first=Joe |date=2003-01-08 |title=Rounds Sworn In As S.D. Governor |page=D7 |work=Rapid City Journal |agency=Associated Press |url=https://www.newspapers.com/article/rapid-city-journal-rounds-inaugurated-ja/127658324/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 8, 2011<br>{{small|(2924 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]<ref name="nga-rounds" />
+|[[2002 South Dakota gubernatorial election|2002]]
+|rowspan="2"|{{sortname|Dennis|Daugaard}}
+|- style="height:2em;"
+|[[2006 South Dakota gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Daugaard, Dennis"|[[File:Dennis Daugaard in 2017.jpg|75px]]
+|rowspan="2"|'''[[Dennis Daugaard]]'''<br>{{small|({{Abbr|b.|born in}} 1953)}}<br><ref name="nga-daugaard">{{Cite web |title=Dennis Daugaard |url=https://www.nga.org/governor/dennis-daugaard/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 8, 2011<ref>{{Cite news |last=Harriman |first=Peter |date=2011-01-09 |title=Daugaard Takes Oath with Call for Self-Reliance |page=1A |work=Argus-Leader |url=https://www.newspapers.com/article/argus-leader-daugaard-inaugurated-januar/127658375/ |access-date=2023-07-05}}</ref><br />&ndash;<br />January 5, 2019<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]<ref name="nga-daugaard" />
+|[[2010 South Dakota gubernatorial election|2010]]
+|rowspan="2"|{{sortname|Matt|Michels}}
+|- style="height:2em;"
+|[[2014 South Dakota gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Noem, Kristi"|[[File:Kristi Noem Portrait 2 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Kristi Noem]]'''<br>{{small|({{Abbr|b.|born in}} 1971)}}<br><ref name="nga-noem">{{Cite web |title=Kristi Noem |url=https://www.nga.org/governor/kristi-noem/ |access-date=July 4, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2213"|January 5, 2019<ref>{{Cite news |last=Kaczke |first=Lisa |title=Gov. Kristi Noem, in historic inauguration, looks to improve South Dakota's future |language=en-US |work=Argus Leader |url=https://www.argusleader.com/story/news/politics/2019/01/05/south-dakota-gov-kristi-noem-historic-inauguration-sets-goal-help-states-next-generation/2482414002/ |access-date=2023-10-02}}</ref><br />&ndash;<br />January 25, 2025<br>{{small|(2213 days; resigned)}}{{efn|Noem resigned, having been confirmed as [[United States Secretary of Homeland Security]].}}
+|rowspan="2"|[[South Dakota Republican Party|Republican]]<ref name="nga-noem" />
+|[[2018 South Dakota gubernatorial election|2018]]
+|rowspan="2"|{{sortname|Larry|Rhoden}}
+|- style="height:2em;"
+|[[2022 South Dakota gubernatorial election|2022]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|34
+|rowspan="3" data-sort-value="Rhoden, Larry"|[[File:Larry Rhoden 2025 (cropped).jpg|75px]]
+|rowspan="3"|'''[[Larry Rhoden]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br>
+|rowspan="3" data-sort-value="{{Duration in days nts|2025|1|25|duration=on|format=no}}"|January 25, 2025<ref>{{Cite web |date=2025-01-25 |title=Governor Rhoden Receives Governor Noem's Resignation Letter |url=https://news.sd.gov/news?id=news_kb_article_view&sys_id=a005ef3d47131e10da219464336d4304 |access-date=2025-01-25 |website=news.sd.gov}}</ref><br>&ndash;<br>Incumbent{{efn|Rhoden's term [[2026 South Dakota gubernatorial election|will expire]] on January 9, 2027; he was elected to a full term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2025|1|25|duration=on|format=no}} days)}}
+|rowspan="3"|[[South Dakota Republican Party|Republican]]
+|rowspan="2" style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Tony|Venhuizen}}<br>{{small|(appointed January 30, 2025)}}
+|- style="height:2em;"
+|[[2026 South Dakota gubernatorial election|2026]]
+|}
+
+==Electoral history (1950–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |Other candidate
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1950 South Dakota gubernatorial election|1950]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Joe Robbie]]
+| 99,062
+| 39.11%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Sigurd Anderson]]'''
+| '''154,254'''
+| '''60.89%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1952 South Dakota gubernatorial election|1952]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Sherman A. Iverson
+| 86,413
+| 29.85%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Sigurd Anderson]]'''
+| '''203,102'''
+| '''70.15%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1954 South Dakota gubernatorial election|1954]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Ed C. Martin
+| 102,377
+| 43.33%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Joe Foss]]'''
+| '''133,878'''
+| '''56.67%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1956 South Dakota gubernatorial election|1956]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Ralph Herseth]]
+| 133,198
+| 45.61%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Joe Foss]]'''
+| '''158,819'''
+| '''54.39%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1958 South Dakota gubernatorial election|1958]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Ralph Herseth]]'''
+| '''132,761'''
+| '''51.40%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Phil Saunders]]
+| 125,520
+| 48.60%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1960 South Dakota gubernatorial election|1960]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Ralph Herseth]]
+| 150,095
+| 49.27%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Archie M. Gubbrud]]'''
+| '''154,530'''
+| '''50.73%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1962 South Dakota gubernatorial election|1962]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Ralph Herseth]]
+| 112,438
+| 43.90%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Archie M. Gubbrud]]'''
+| '''143,682'''
+| '''56.10%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1964 South Dakota gubernatorial election|1964]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[John F. Lindley]]
+| 140,919
+| 48.33%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Nils Boe]]'''
+| '''150,151'''
+| '''51.67%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1966 South Dakota gubernatorial election|1966]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert Chamberlin]]
+| 96,504
+| 42.29%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Nils Boe]]'''
+| '''131,710'''
+| '''57.71%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1968 South Dakota gubernatorial election|1968]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert Chamberlin]]
+| 117,260
+| 42.35%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Frank Farrar]]'''
+| '''159,646'''
+| '''57.65%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1970 South Dakota gubernatorial election|1970]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Richard F. Kneip]]'''
+| '''131,616'''
+| '''54.85%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Frank Farrar]]
+| 108,347
+| 45.15%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1972 South Dakota gubernatorial election|1972]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Richard F. Kneip]]'''
+| '''185,012'''
+| '''60.03%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Carveth Thompson]]
+| 123,165
+| 39.97%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1974 South Dakota gubernatorial election|1974]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Richard F. Kneip]]'''
+| '''149,151'''
+| '''53.61%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| John E. Olson
+| 129,077
+| 46.39%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1978 South Dakota gubernatorial election|1978]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Roger D. McKellips]]
+| 112,679
+| 43.37%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Bill Janklow]]'''
+| '''147,116'''
+| '''56.63%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1982 South Dakota gubernatorial election|1982]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Michael J. O'Connor (politician)|Mike O'Connor]]
+| 81,136
+| 29.13%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Bill Janklow]]'''
+| '''197,429'''
+| '''70.87%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1986 South Dakota gubernatorial election|1986]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Lars Herseth]]
+| 141,898
+| 48.19%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[George S. Mickelson]]'''
+| '''154,543'''
+| '''51.81%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1990 South Dakota gubernatorial election|1990]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Bob L. Samuelson
+| 105,525
+| 41.10%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[George S. Mickelson]]'''
+| '''151,198'''
+| '''58.90%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1994 South Dakota gubernatorial election|1994]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Jim Beddow
+| 126,273
+| 40.52%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Bill Janklow]]'''
+| '''172,515'''
+| '''55.36%'''
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Nathan A. Barton
+| 12,825
+| 4.12%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1998 South Dakota gubernatorial election|1998]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Bernie Hunhoff]]
+| 85,473
+| 32.85%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Bill Janklow]]'''
+| '''166,621'''
+| '''64.04%'''
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Bob Newland
+| 4,389
+| 1.69%
+| bgcolor="{{party color|Nonpartisan}}" |
+| Ronald Wieczorek
+| 3,704
+| 1.42%
+| colspan=4| –
+|-
+| [[2002 South Dakota gubernatorial election|2002]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[James W. Abbott|Jim Abbott]]
+| 140,263
+| 41.92%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Mike Rounds]]'''
+| '''189,920'''
+| '''56.77%'''
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Nathan A. Barton
+| 1,983
+| 0.59%
+| bgcolor="{{party color|Nonpartisan}}" |
+| James P. Carlson
+| 2,393
+| 0.72%
+| colspan=4| –
+|-
+| [[2006 South Dakota gubernatorial election|2006]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Jack Billion]]
+| 121,226
+| 36.13%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Mike Rounds]]'''
+| '''206,990'''
+| '''61.69%'''
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Tom Gerber
+| 3,282
+| 0.98%
+| colspan=4| –
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| {{nowrap|Steven J. Willis<br>([[Constitution Party (United States)|Constitution]])}}
+| 4,010
+| 1.20%
+|-
+| [[2010 South Dakota gubernatorial election|2010]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Scott Heidepriem]]
+| 122,037
+| 38.49%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Dennis Daugaard]]'''
+| '''195,046'''
+| '''61.51%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2014 South Dakota gubernatorial election|2014]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Susan Wismer]]
+| 70,549
+| 25.43%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Dennis Daugaard]]'''
+| '''195,477'''
+| '''70.47%'''
+| colspan=4| –
+| bgcolor="{{party color|Nonpartisan}}" |
+| Michael J. Myers
+| 11,377
+| 4.10%
+| colspan=4| –
+|-
+| [[2018 South Dakota gubernatorial election|2018]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Billie Sutton]]
+| 161,454
+| 47.60%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Kristi Noem]]'''
+| '''172,912'''
+| '''50.97%'''
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Kurt Evans
+| 4,848
+| 1.43%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2022 South Dakota gubernatorial election|2022]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Jamie Smith (politician)|Jamie Smith]]
+| 123,148
+| 35.17%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Kristi Noem]]'''
+| '''217,035'''
+| '''61.98%'''
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Tracey Quint
+| 9,983
+| 2.85%
+| colspan=4| –
+| colspan=4| –
+|}
+
+==See also==
+* [[Gubernatorial lines of succession in the United States#South Dakota]]
+* [[List of South Dakota state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former South Dakota Governors |url=https://www.nga.org/former-governors/south-dakota/ |access-date=July 4, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of South Dakota - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=175 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[https://governor.sd.gov/ Office of the Governor of South Dakota]
+
+{{South Dakota}}
+{{Lists of US Governors}}
+
+{{DEFAULTSORT:South Dakota, List of Governors of}}
+[[Category:Lists of state governors of the United States|South Dakota]]
+[[Category:Governors of South Dakota|*]]
+[[Category:Lists of South Dakota politicians|Governors]]
+[[Category:South Dakota history-related lists|Governors]]

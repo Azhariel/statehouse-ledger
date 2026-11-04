@@ -1,0 +1,531 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+
+{{Infobox official post
+| post = Governor
+| body = California
+| native_name = 
+| insignia = Seal of California.svg
+| insignia_size = 110px
+| insignia_caption = [[Seal of California | State  Seal]]
+| image = [[File:Gavin Newsom 2026 (cropped 3x4).jpg|frameless|]]
+| image_size = 200px
+| incumbent = [[Gavin Newsom]]
+| incumbent_since = January 7, 2019
+| style = The Honorable
+| residence = Private home in the Fair Oaks suburb, near Sacramento, CA
+| term_length = Four years, renewable once consecutively or not
+| inaugural = [[Peter Hardeman Burnett]]
+| formation = Ceded to the United States after the Mexican-American war, officially entered into the United States with a constitution on September 9, 1850
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#California|Line of succession]]
+| deputy = [[Lieutenant Governor of California]]
+| salary = $245,929 (2026)
+| website = {{url|https://www.gov.ca.gov/}}
+}}
+
+The [[governor of California]]<!--"governor" is uncapitalized here because it is preceded by the modifier "The", as per [[MOS:JOBTITLES]] bullet 3 and table column 2 example 1.--> is the head of government of [[California]], whose responsibilities include making annual [[State of the State address]]es to the [[California State Legislature]], submitting the budget, and ensuring that state laws are enforced. The [[Governor (United States)|governor]] is also the commander-in-chief of the [[U.S. state|state's]] [[California National Guard|military forces]]. The current governor is [[Gavin Newsom]], who has been in office since 2019. 39 people have served as governor, over 40 distinct terms. Many have been influential nationwide in areas far-flung from state politics. [[Leland Stanford]] founded [[Stanford University]] in 1891. [[Earl Warren]], later [[Chief Justice of the United States|chief justice of the United States]], won an election with the nominations of the three major parties – the only person to run essentially unopposed for governor of California. [[Ronald Reagan]], who was president of the [[Screen Actors Guild]] and later [[president of the United States]], and [[Arnold Schwarzenegger]] both came to prominence through acting. [[Gray Davis]], the 37th governor of California, was the second governor in American history to be [[Recall election|recalled]] by voters. The shortest tenure was that of [[Milton Latham]], who served only five days before being elected to fill a vacant [[United States Senate]] seat. The longest tenure is that of [[Jerry Brown]], who served as governor from 1975 to 1983 and again from 2011 to 2019, the only governor to serve non-consecutive terms. He is the son of former governor [[Pat Brown]] who served from 1959 to 1967.
+
+==List of governors==
+{{for|the period before statehood|list of governors of California before 1850}}
+California was obtained by the United States in the [[Mexican Cession]] following the [[Mexican–American War]]. Unlike most other states, it was never organized as a territory and was admitted as the 31st state on September 9, 1850. The 1849 [[constitution of California]] called for elections every two years,{{sfn|Thorpe|1909|p=397|loc=1849 art. V, § 2}} with no set start date for the term. An amendment ratified in 1862 increased the term to four years.{{sfn|Thorpe|1909|p=408|loc=1862 art V. § 2}} The 1879 constitution set the term to begin on the first Monday after January 1, following an election.{{sfn|Thorpe|1909|p=423|loc=1879 art. V, § 2}} In 1990, Proposition 140 led to a constitutional amendment<ref>{{cite news |url=https://www.newspapers.com/article/enterprise-record-brown-says-term-limits/208218759/ |title=Brown says term limits will be tested |via=Newspapers.com |date=November 8, 1990 |location=Sacramento, California |publication-place=Chico, California |newspaper=[[Chico Enterprise-Record]] |page=1 |access-date=October 13, 2026}}</ref> implementing a [[term limit]] of two terms.{{sfn|Cal. Const.|loc=[https://50constitutions.org/ca/constitution/section-id-62338 art. V, § 2]}}
+
+Prior to this limit, only one governor, [[Earl Warren]], served more than two terms. [[Jerry Brown]] was elected to a third term in 2010, and then to a fourth and final term in 2014, because his previous terms were before the term limit was enacted. The 1849 constitution created the office of [[Lieutenant Governor of California|lieutenant governor]], who, in cases of vacancy in the office of governor, becomes governor.{{sfn|Thorpe|1909|p=397|loc=1849 art. V, § 17]}} The governor and the lieutenant governor are not formally elected on the same [[ticket (election)|ticket]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of California
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="4"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="3"|[[Lieutenant Governor of California|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Burnett, Peter"|[[File:Peter Hardeman Burnett - circa 1860.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Nonpartisan politician}};" title="Non-partisan"|
+|'''[[Peter Hardeman Burnett]]'''<br>{{Small|(1807–1895)}}<br>{{sfn|Sobel|1978|p=101}}<ref name="nga-burnett">{{Cite web |title=Peter Hardeman Burnett |url=https://www.nga.org/governor/peter-hardeman-burnett/ |access-date=October 13, 2023 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510111749/https://www.nga.org/governor/peter-hardeman-burnett/ |archive-date=May 10, 2026 |url-status=live}}</ref><ref name="ca-burnett">{{Cite web |title=Peter Burnett |url=https://governors.library.ca.gov/01-Burnett.html |access-date=October 13, 2026 |website=[[California State Library]] |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/01-Burnett.html |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="386"|December 20, 1849<ref>{{cite book |title=Journal of the Senate, 1849−1850 sess. |author=California Senate |page=20 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771762&seq=26 |via=[[HathiTrust]]}}</ref>{{efn|A civilian government was formed in late 1849 prior to official statehood, and operated as the state government for ten months before official statehood was granted.<ref name="nga-burnett" />}}<br />–<br />January 9, 1851<br />{{small|(386 days; resigned)}}{{efn|Burnett abruptly resigned after his first annual address was criticized by the legislature.<ref name="nga-burnett" />}}
+|[[Non-partisan democracy|Non-partisan]]{{efn|The 1849 election was non-partisan;{{sfn|Sobel|1978|p=101}}{{sfn|Kallenbach|1977|p=75}} sources say Burnett was an [[Independent Democrat]].<ref name="ca-burnett" />}}
+|[[1849 California gubernatorial election|1849]]
+|colspan="2" style="background:{{party color|Nonpartisan politician}};" title="Non-partisan"|
+|{{sortname|John|McDougal}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="McDougal, John"|[[File:John McDougall Portrait Crop Edit 3x4.jpg|75px]]
+|'''[[John McDougal]]'''<br>{{Small|(1818–1866)}}<br>{{sfn|Sobel|1978|pp=101–102}}<ref name="nga-mcdougal">{{Cite web |title=John McDougal |url=https://www.nga.org/governor/john-mcdougal/ |access-date=October 13, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919171903/https://www.nga.org/governor/john-mcdougal/ |archive-date=September 19, 2026 |url-status=live}}</ref><ref name="ca-mcdougal">{{Cite web |title=John McDougal |url=https://governors.library.ca.gov/02-Mcdougal.html |access-date=October 13, 2023 |website=[[California State Library]] |archive-url=https://web.archive.org/web/20260814080546/https://governors.library.ca.gov/02-Mcdougal.html |archive-date=August 14, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|January 9, 1851<ref>{{cite book |title=Journal of the Senate, 1851 sess. |author=California Senate |page=47 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175013632057&seq=55 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1852<br />{{small|(365 days; retired)}}{{efn|Some sources say McDougal later served in the [[California State Senate]];{{sfn|Sobel|1978|p=102}} however, they are mixing him up with [[James A. McDougall]].<ref>{{Cite journal |last=Melendy |first=H. Brett |date=1960 |title=Who Was John McDougal? |url=https://www.jstor.org/stable/3636162 |journal=Pacific Historical Review |volume=29 |issue=3 |page=235 |doi=10.2307/3636162 |issn=0030-8684}}</ref>}}
+|[[Non-partisan democracy|Non-partisan]]{{efn|The 1849 election was non-partisan;{{sfn|Sobel|1978|p=101}}{{sfn|Kallenbach|1977|p=75}} sources say McDougal was an [[Independent Democrat]].<ref name="ca-mcdougal" />}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" rowspan="3" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|David C.|Broderick}}{{efn|name=lt-dem}}<br />{{small|''(acting)''}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Bigler, John"|[[File:John Bigler, 1850.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John Bigler]]'''<br>{{Small|(1805–1871)}}<br>{{sfn|Sobel|1978|pp=102–103}}<ref name="nga-bigler">{{Cite web |title=John Bigler |url=https://www.nga.org/governor/john-bigler/ |access-date=October 13, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260927191659/https://www.nga.org/governor/john-bigler/ |archive-date=September 27, 2026 |url-status=live}}</ref><ref name="ca-bigler">{{Cite web |title=John Bigler |url=https://governors.library.ca.gov/03-bigler.html |access-date=October 13, 2026 |website=[[California State Library]] |archive-url=https://web.archive.org/web/20261002171053/https://governors.library.ca.gov/03-bigler.html |archive-date=October 2, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1463"|January 8, 1852<ref>{{cite book |title=Journal of the Senate, 1852 sess. |author=California Senate |page=27 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771788&seq=33 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1856<br />{{small|(1463 days; lost election)}}
+|rowspan="2"|[[California Democratic Party|Democratic]]{{sfn|Dubin|2003|p=13}}
+|[[1851 California gubernatorial election|1851]]
+|rowspan="2"|{{sortname|Samuel|Purdy}}
+|- style="height:2em;"
+|[[1853 California gubernatorial election|1853]]
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Johnson, J. Neely"|[[File:J Neely Johnson (3x4 cropped).jpg|75px]]
+|colspan="2" style="background:{{party color|Know Nothing}};" title="Represented the American Party"|
+|'''[[J. Neely Johnson]]'''<br>{{Small|(1825–1872)}}<br>{{sfn|Sobel|1978|p=103}}<ref name="nga-johnson-j">{{Cite web |title=John Neely Johnson |url=https://www.nga.org/governor/john-neely-johnson/ |access-date=October 13, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260922042654/https://www.nga.org/governor/john-neely-johnson/ |archive-date=September 22, 2026 |url-status=live}}</ref><ref name="ca-johnson-j">{{Cite web |title=J. Neely Johnson |url=https://governors.library.ca.gov/04-NJohnson.html |access-date=October 13, 2026 |website=[[California State Library]] |archive-url=https://web.archive.org/web/20260921103816/https://governors.library.ca.gov/04-NJohnson.html |archive-date=September 21, 2026 |url-status=live}}</ref>
+|data-sort-value="731"|January 9, 1856<ref>{{cite book |title=Journal of the Senate, 1856 sess. |author=California Senate |page=89 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771820&seq=89 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1858<br />{{small|(731 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=103}}
+|[[Know Nothing|American]]{{sfn|Dubin|2003|p=14}}
+|[[1855 California gubernatorial election|1855]]
+|colspan="2" style="background:{{party color|Know Nothing}};" title="Represented the American Party"|
+|{{sortname|Robert M.|Anderson|dab=politician}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Weller, John"|[[File:John B. Weller Destiny Road 3x4.jpg|75px]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}}; border-bottom: none;" title="Represented the Democratic Party"|
+|'''[[John B. Weller]]'''<br>{{Small|(1812–1875)}}<br>{{sfn|Sobel|1978|pp=103–104}}<ref name="nga-weller">{{Cite web |title=John B. Weller |url=https://www.nga.org/governor/john-b-weller/ |access-date=October 13, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260921213750/https://www.nga.org/governor/john-b-weller/ |archive-date=September 21, 2026 |url-status=live}}</ref><ref name="ca-weller">{{Cite web |title=John Weller |url=https://governors.library.ca.gov/05-Weller.html |access-date=October 13, 2026 |website=[[California State Library]] |archive-url=https://web.archive.org/web/20260617185502/https://governors.library.ca.gov/05-Weller.html |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 8, 1858<ref>{{cite book |title=Journal of the Senate, 1858 sess. |author=California Senate |page=54 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771622&seq=64 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1860<br />{{small|(732 days; retired)}}
+|[[California Democratic Party|Democratic]]{{sfn|Dubin|2003|p=14}}
+|[[1857 California gubernatorial election|1857]]
+|colspan="2" rowspan="4" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Joseph|Walkup}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Latham, Milton"|[[File:Latham1.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; border-top: none; padding: .2em .2em;" title="Represented the Lecompton faction of the Democratic Party"|
+|rowspan="3" style="background:{{party color|Lecompton Democrat}}; padding: .2em .2em;" title="Represented the Lecompton faction of the Democratic Party"|
+|'''[[Milton Latham|Milton S. Latham]]'''<br>{{Small|(1827–1882)}}<br>{{sfn|Sobel|1978|pp=104–105}}<ref name="nga-latham">{{Cite web |title=Milton Slocum Latham |url=https://www.nga.org/governor/milton-slocum-latham/ |access-date=October 13, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260921171245/https://www.nga.org/governor/milton-slocum-latham/ |archive-date=September 21, 2026 |url-status=live}}</ref><ref name="ca-latham">{{Cite web |title=Milton Latham |url=https://governors.library.ca.gov/06-Latham.html |access-date=October 13, 2026 |website=[[California State Library]] |archive-url=https://web.archive.org/web/20260617185504/https://governors.library.ca.gov/06-Latham.html |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="6"|January 9, 1860<ref>{{cite book |title=Journal of the Senate, 1860 sess. |author=California Senate |page=104 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771705&seq=110 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1860<br />{{small|(6 days; resigned)}}{{efn|Latham resigned, having been [[1860 United States Senate special election in California|elected]] to the [[United States Senate]].<ref name="nga-latham" />}}
+|[[Lecompton Constitution|Lecompton]]<br >[[California Democratic Party|Democratic]]{{sfn|Dubin|2003|p=14}}
+|[[1859 California gubernatorial election|1859]]
+|{{sortname|John G.|Downey}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Downey, John"|[[File:John G. Downey Crop.jpg|75px]]
+|rowspan="2"|'''[[John G. Downey]]'''<br>{{Small|(1827–1894)}}<br>{{sfn|Sobel|1978|p=105}}<ref name="nga-downey">{{Cite web |title=John G. Downey |url=https://www.nga.org/governor/john-g-downey/ |access-date=October 13, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260925230235/https://www.nga.org/governor/john-g-downey/ |archive-date=September 25, 2026 |url-status=live}}</ref><ref name="ca-downey">{{Cite web |title=John Downey |url=https://governors.library.ca.gov/07-Downey.html |website=[[California State Library]] |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20261003230423/https://governors.library.ca.gov/07-Downey.html |archive-date=October 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="728"|January 14, 1860<ref>{{cite book |title=Journal of the Senate, 1860 sess. |author=California Senate |page=153 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771705&seq=159 |via=[[HathiTrust]]}}</ref><br />–<br />January 10, 1862<br />{{small|(728 days; retired)}}
+|rowspan="2"|[[Lecompton Constitution|Lecompton]]<br />[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=69}}
+|rowspan="2" style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|{{sortname|Isaac N.|Quinn}}<br />{{small|''(acting)''}}<br />{{small|(term ended January 7, 1861)}}
+|- style="height:2em;"
+|{{sortname|Pablo|de la Guerra}}<br />{{small|''(acting)''}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Stanford, Leland"|[[File:Portrait of Leland Stanford Crop.jpg|75px]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Leland Stanford]]'''<br>{{Small|(1824–1893)}}<br>{{sfn|Sobel|1978|p=106}}<ref name="nga-stanford">{{Cite web |title=Amasa Leland Stanford |url=https://www.nga.org/governor/amasa-leland-stanford/ |website=[[National Governors Association]] |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260928230306/https://www.nga.org/governor/amasa-leland-stanford/ |archive-date=September 28, 2026 |url-status=live}}</ref><ref name="ca-stanford">{{Cite web |title=Leland Stanford |url=https://governors.library.ca.gov/08-Stanford.html |website=[[California State Library]] |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260816163537/https://governors.library.ca.gov/08-Stanford.html |archive-date=August 16, 2026 |url-status=live}}</ref>
+|data-sort-value="700"|January 10, 1862<ref>{{cite book |title=Journal of the Senate, 1862 sess. |author=California Senate |page=98 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771663&seq=104 |via=[[HathiTrust]]}}</ref><br />–<br /> December 10, 1863<br />{{small|(700 days; retired)}}{{efn|Stanford withdrew after losing the early primaries of the Union/Republican nomination.<ref>{{Cite news |date=June 20, 1863 |title=Republican Abolition State Ticket |page=2 |newspaper=[[The Placer Herald]] |url=https://www.newspapers.com/article/the-placer-herald-republican-abolition-s/137290044/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20231223192420/https://www.newspapers.com/article/the-placer-herald-republican-abolition-s/137290044/ |archive-date=December 23, 2023 |url-status=live}}</ref>}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1861 California gubernatorial election|1861]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John F.|Chellis}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Low, Frederick"|[[File:Gov. F. F. Low Crop.jpg|75px]]
+|colspan="2" style="background:{{party color|National Union Party (United States)}};" title="Represented the Union Party"|
+|'''[[Frederick Low]]'''<br>{{Small|(1828–1894)}}<br>{{sfn|Sobel|1978|p=107}}<ref name="nga-low">{{Cite web |title=Frederick Ferdinand Low |url=https://www.nga.org/governor/frederick-ferdinand-low/ |website=[[National Governors Association]] |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260929195510/https://www.nga.org/governor/frederick-ferdinand-low/ |archive-date=September 29, 2026 |url-status=live}}</ref><ref name="ca-low">{{Cite web |title=Frederick Low |url=https://governors.library.ca.gov/09-Low.html |website=[[California State Library]] |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185502/https://governors.library.ca.gov/09-Low.html |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|December 10, 1863<ref>{{cite book |title=Journal of the Senate, 1863–1864 sess. |author=California Senate |page=69 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771713&seq=73 |via=[[HathiTrust]]}}</ref><br />–<br />December 5, 1867<br />{{small|(1457 days; retired)}}
+|[[National Union Party (United States)|Union]]{{sfn|Kallenbach|1977|p=69}}
+|[[1863 California gubernatorial election|1863]]{{efn|First term under an 1862 constitutional amendment, which lengthened terms to four years.{{sfn|Thorpe|1909|p=408|loc=1862 art V. § 2}}}}
+|colspan="2" style="background:{{party color|National Union Party (United States)}};" title="Represented the Union Party"|
+|{{sortname|Tim N.|Machin}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Haight, Henry"|[[File:Henry Haight (3x4a).jpg|75px]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Henry Huntly Haight]]'''<br>{{Small|(1825–1878)}}<br>{{sfn|Sobel|1978|pp=107–108}}<ref name="nga-haight">{{Cite web |title=Henry Huntly Haight |url=https://www.nga.org/governor/henry-huntly-haight/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20261001234347/https://www.nga.org/governor/henry-huntly-haight/ |archive-date=October 1, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-haight">{{Cite web |title=Henry Haight |url=https://governors.library.ca.gov/10-haight.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/10-haight.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1465"|December 5, 1867<ref>{{cite book |title=Journal of the Senate, 1867−1868 sess. |author=California Senate |page=96 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008772091&seq=102 |via=[[HathiTrust]]}}</ref><br />–<br />December 8, 1871<br />{{small|(1465 days; lost election)}}
+|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=69}}
+|[[1867 California gubernatorial election|1867]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William|Holden|dab=politician}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Booth, Newton"|[[File:Newton Booth - Brady-Handy Crop.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Newton Booth]]'''<br>{{Small|(1825–1892)}}<br>{{sfn|Sobel|1978|p=108}}<ref name="nga-booth">{{Cite web |title=Newton Booth |url=https://www.nga.org/governor/newton-booth/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260809172029/https://www.nga.org/governor/newton-booth/ |archive-date=August 9, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-booth">{{Cite web |title=Newton Booth |url=https://governors.library.ca.gov/11-booth.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/11-booth.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1178"|December 8, 1871<ref>{{cite book |title=Journal of the Senate, 1871−1872 sess. |author=California Senate |page=117 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008772117&seq=127 |via=[[HathiTrust]]}}</ref><br />–<br />February 27, 1875<br />{{small|(1178 days; resigned)}}{{efn|Booth resigned, having been [[1874 United States Senate election in California|elected]] to the [[United States Senate]].<ref name="nga-booth" />}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1871 California gubernatorial election|1871]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Romualdo|Pacheco}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Pacheco, Romualdo"|[[File:Romualdo Pacheco - Brady-Handy (cropped).jpg|75px]]
+|'''[[Romualdo Pacheco]]'''<br>{{Small|(1831–1899)}}<br>{{sfn|Sobel|1978|p=109}}<ref name="nga-pacheco">{{Cite web |title=Romualdo Pacheco |url=https://www.nga.org/governor/romualdo-pacheco/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20261002205852/https://www.nga.org/governor/romualdo-pacheco/ |archive-date=October 2, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-pacheco">{{Cite web |title=Romualdo Pacheco |url=https://governors.library.ca.gov/12-pacheco.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260720183431/https://governors.library.ca.gov/12-pacheco.html |archive-date=July 20, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="286"|February 27, 1875<ref>{{Cite news |publication-date=February 28, 1875 |date=February 27, 1875 |location=Sacramento, California |publication-place=San Francisco |title=Our New Governor |page=8 |newspaper=[[San Francisco Chronicle]] |url=https://www.newspapers.com/article/san-francisco-chronicle-pacheco-succeeds/129263716/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801230835/https://www.newspapers.com/article/san-francisco-chronicle-pacheco-succeeds/129263716/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />December 9, 1875<br />{{small|(286 days; retired)}}{{efn|Pacheco instead [[1875 California lieutenant gubernatorial election|ran unsuccessfully]] for reelection as lieutenant governor.<ref>{{Cite news |date=October 1, 1875 |title=Official Returns |url=https://www.newspapers.com/article/the-sacramento-bee-official-returns-of/204312330/ |access-date=October 13, 2026 |newspaper=[[The Sacramento Bee|The Daily Bee]] |page=3 |via=Newspapers.com}}</ref>}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William|Irwin|dab=California politician}}{{efn|name=lt-dem}}<br />{{small|''(acting)''}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Irwin, William"|[[File:William Irwin Oval Edit.png|75px]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William Irwin (California politician)|William Irwin]]'''<br>{{Small|(1827–1886)}}<br>{{sfn|Sobel|1978|pp=109–110}}<ref name="nga-irwin">{{Cite web |title=William Irwin |url=https://www.nga.org/governor/william-irwin/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260616125113/https://www.nga.org/governor/william-irwin/ |archive-date=June 16, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-irwin">{{Cite web |title=William Irwin |url=https://governors.library.ca.gov/13-Irwin.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185502/https://governors.library.ca.gov/13-Irwin.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1492"|December 9, 1875<ref>{{cite book |title=Journal of the Senate, 1875–1876 sess. |author=California Senate |page=55 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067963978&seq=59 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1880<br />{{small|(1492 days; retired)}}
+|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=69}}
+|[[1875 California gubernatorial election|1875]]
+|{{sortname|James A.|Johnson|dab=California politician}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Perkins, George"|[[File:George Clement Perkins (cropped).jpg|75px]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[George C. Perkins]]'''<br>{{Small|(1839–1923)}}<br>{{sfn|Sobel|1978|pp=110–111}}<ref name="nga-perkins">{{Cite web |title=George Clement Perkins |url=https://www.nga.org/governor/george-clement-perkins/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20261005055908/https://www.nga.org/governor/george-clement-perkins/ |archive-date=October 5, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-perkins">{{Cite web |title=George Perkins |url=https://governors.library.ca.gov/14-Perkins.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185518/https://governors.library.ca.gov/14-Perkins.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1099"|January 8, 1880<ref>{{cite book |title=Journal of the Senate, 1880 sess. |author=California Senate |page=16 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008772158&seq=26 |via=[[HathiTrust]]}}</ref><br />–<br />January 10, 1883<br />{{small|(1099 days; retired)}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1879 California gubernatorial election|1879]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John|Mansfield|dab=American politician}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Stoneman, George"|[[File:Governor George Stoneman Crop.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[George Stoneman]]'''<br>{{Small|(1822–1894)}}<br>{{sfn|Sobel|1978|pp=111–112}}<ref name="nga-stoneman">{{Cite web |title=George Stoneman |url=https://www.nga.org/governor/george-stoneman/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20261011215604/https://www.nga.org/governor/george-stoneman/ |archive-date=October 11, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-stoneman">{{Cite web |title=George Stoneman |url=https://governors.library.ca.gov/15-Stoneman.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185502/https://governors.library.ca.gov/15-Stoneman.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1460"|January 10, 1883<ref>{{cite book |title=Journal of the Senate, 1883 sess. |author=California Senate |page=12 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008772174&seq=22 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1887<br />{{small|(1460 days; retired)}}
+|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=69}}
+|[[1882 California gubernatorial election|1882]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John|Daggett}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Bartlett, Washington"|[[File:Washington Bartlett 1883 Edit Crop.png|75px]]
+|'''[[Washington Bartlett]]'''<br>{{Small|(1824–1887)}}<br>{{sfn|Sobel|1978|p=112}}<ref name="nga-bartlett">{{Cite web |title=Washington Bartlett |url=https://www.nga.org/governor/washington-bartlett/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20261011220256/https://www.nga.org/governor/washington-bartlett/ |archive-date=October 11, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-bartlett">{{Cite web |title=Washington Bartlett |url=https://governors.library.ca.gov/16-Bartlett.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/16-Bartlett.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="248"|January 8, 1887<ref>{{cite book |title=Journal of the Senate, 1887 sess. |author=California Senate |page=24 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771994&seq=34 |via=[[HathiTrust]]}}</ref><br />–<br />September 12, 1887<br />{{small|(248 days; died in office)}}
+|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=69}}
+|[[1886 California gubernatorial election|1886]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Robert|Waterman|dab=politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Waterman, Robert"|[[File:Robert Waterman Crop.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Robert Waterman (politician)|Robert Waterman]]'''<br>{{Small|(1826–1891)}}<br>{{sfn|Sobel|1978|p=113}}<ref name="nga-waterman">{{Cite web |title=Robert Whitney Waterman |url=https://www.nga.org/governor/robert-whitney-waterman/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260513212020/https://www.nga.org/governor/robert-whitney-waterman/ |archive-date=May 13, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-waterman">{{Cite web |title=Robert Waterman |url=https://governors.library.ca.gov/17-Waterman.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185449/https://governors.library.ca.gov/17-Waterman.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1215"|September 12, 1887<ref>{{Cite news |date=September 13, 1887 |title=Pain Is Over |page=3 |newspaper=[[Oakland Tribune|Oakland Daily Evening Tribune]] |url=https://www.newspapers.com/article/oakland-tribune-waterman-succeeds-bartle/129270065/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802000736/https://www.newspapers.com/article/oakland-tribune-waterman-succeeds-bartle/129270065/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 8, 1891<br />{{small|(1215 days; retired)}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Stephen M.|White}}{{efn|Represented the [[California Democratic Party|Democratic Party]]|name=lt-dem}}<br />{{small|''(acting)''}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Markham, Henry"|[[File:Governor H. H. Markham Alt Edit Crop.jpg|75px]]
+|'''[[Henry Markham]]'''<br>{{Small|(1840–1923)}}<br>{{sfn|Sobel|1978|pp=113–114}}<ref name="nga-markham">{{Cite web |title=Henry Harrison Markham |url=https://www.nga.org/governor/henry-harrison-markham/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260509183604/https://www.nga.org/governor/henry-harrison-markham/ |archive-date=May 9, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-markham">{{Cite web |title=Henry Harrison Markham |url=https://governors.library.ca.gov/18-Markham.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185502/https://governors.library.ca.gov/18-Markham.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1465"|January 8, 1891<ref>{{cite book |title=Journal of the Senate, 1891 sess. |author=California Senate |page=25 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771978&seq=33 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1895<br />{{small|(1465 days; retired)}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1890 California gubernatorial election|1890]]
+|colspan="2" rowspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John B.|Reddick}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|19
+|rowspan="3" data-sort-value="Budd, James"|[[File:James H. Budd, Governor-Elect of California Trim Edit.png|75px]]
+|colspan="2" rowspan="3" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[James Budd]]'''<br>{{Small|(1851–1908)}}<br>{{sfn|Sobel|1978|pp=114–115}}<ref name="nga-budd">{{Cite web |title=James Herbert Budd |url=https://www.nga.org/governor/james-herbert-budd/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260613151907/https://www.nga.org/governor/james-herbert-budd/ |archive-date=June 13, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-budd">{{Cite web |title=James Budd |url=https://governors.library.ca.gov/19-Budd.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/19-Budd.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="3" data-sort-value="1455"|January 11, 1895<ref>{{cite book |title=Journal of the Senate, 1895 sess. |author=California Senate |page=52 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008772000&seq=60 |via=[[HathiTrust]]}}</ref><br />–<br />January 4, 1899<br />{{small|(1455 days; retired)}}
+|rowspan="3"|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=69}}
+|rowspan="3"|[[1894 California gubernatorial election|1894]]
+|{{sortname|Spencer G.|Millard}}{{efn|Represented the [[California Republican Party|Republican Party]]|name=lt-rep}}<br />{{small|(died October 24, 1895)}}
+|- style="height:2em;"
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William T.|Jeter}}<br />{{small|(appointed October 26, 1895)}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Gage, Henry"|[[File:Henry Gage (cropped).jpg|75px]]
+|colspan="2" rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Henry T. Gage]]'''<br>{{Small|(1852–1924)}}<br>{{sfn|Sobel|1978|p=115}}<ref name="nga-gage">{{Cite web |title=Henry Tifft Gage |url=https://www.nga.org/governor/henry-tifft-gage/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260410195612/https://www.nga.org/governor/henry-tifft-gage/ |archive-date=April 10, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-gage">{{Cite web |title=Henry Gage |url=https://governors.library.ca.gov/20-gage.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185439/https://governors.library.ca.gov/20-gage.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1464"|January 4, 1899<ref>{{cite book |title=Journal of the Senate, 1899 sess. |author=California Senate |page=20 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008772026&seq=30 |via=[[HathiTrust]]}}</ref><br />–<br />January 7, 1903<br />{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=115}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1898 California gubernatorial election|1898]]
+|colspan="2" rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Jacob H.|Neff}}
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Pardee, George"|[[File:George Pardee circa 1911 Crop.jpg|75px]]
+|'''[[George Pardee]]'''<br>{{Small|(1857–1941)}}<br>{{sfn|Sobel|1978|p=116}}<ref name="nga-pardee">{{Cite web |title=George Cooper Pardee |url=https://www.nga.org/governor/george-cooper-pardee/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260418110158/https://www.nga.org/governor/george-cooper-pardee/ |archive-date=April 18, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-pardee">{{Cite web |title=George Pardee |url=https://governors.library.ca.gov/21-Pardee.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/21-Pardee.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1464"|January 7, 1903<ref>{{cite book |title=Journal of the Senate, 1903 sess. |author=California Senate |page=76 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008772059&seq=88 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1907<br />{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=116}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1902 California gubernatorial election|1902]]
+|{{sortname|Alden|Anderson}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Gillett, James"|[[File:James Gillett, 1910 Crop.jpg|75px]]
+|'''[[James Gillett]]'''<br>{{Small|(1860–1937)}}<br>{{sfn|Sobel|1978|p=117}}<ref name="nga-gillett">{{Cite web |title=James Norris Gillett |url=https://www.nga.org/governor/james-norris-gillett/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260613182147/https://www.nga.org/governor/james-norris-gillett/ |archive-date=June 13, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-gillett">{{Cite web |title=James Gillett |url=https://governors.library.ca.gov/22-Gillett.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260915003457/https://governors.library.ca.gov/22-Gillett.html |archive-date=September 15, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1456"|January 9, 1907<ref>{{cite book |title=Journal of the Assembly, 1907 sess. |author=California Assembly |page=34 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c109110831&seq=50 |via=[[HathiTrust]]}}</ref><br />–<br />January 3, 1911<br />{{small|(1456 days; retired)}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1906 California gubernatorial election|1906]]
+|{{sortname|Warren R.|Porter}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|23
+|rowspan="4" data-sort-value="Johnson, Hiram"|[[File:Hiram Johnson Portrait (3x4 cropped).jpg|75px]]
+|rowspan="4"|'''[[Hiram Johnson]]'''<br>{{Small|(1866–1945)}}<br>{{sfn|Sobel|1978|p=118}}<ref name="nga-johnson-hiram">{{Cite web |title=Hiram Warren Johnson |url=https://www.nga.org/governor/hiram-warren-johnson/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260521021704/https://www.nga.org/governor/hiram-warren-johnson/ |archive-date=May 21, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-johnson-hiram">{{Cite web |title=Hiram Johnson |url=https://governors.library.ca.gov/23-hjohnson.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260620193542/https://governors.library.ca.gov/23-hjohnson.html |archive-date=June 20, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="4" data-sort-value="2264"|January 3, 1911<ref>{{cite book |title=Journal of the Senate, 1911 sess. |author=California Senate |page=60 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433008771853&seq=144 |via=[[HathiTrust]]}}</ref><br />–<br />March 15, 1917<br />{{small|(2264 days; resigned)}}{{efn|Johnson resigned, having been [[1916 United States Senate election in California|elected]] to the [[United States Senate]].<ref name="nga-johnson-hiram" />}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1910 California gubernatorial election|1910]]
+|{{sortname|Albert Joseph|Wallace}}
+|- style="height:2em;"
+|colspan="2" rowspan="3" style="background:{{party color|Progressive Party (United States)}};" title="Represented the Progressive Party"|
+|rowspan="3"|[[California Progressive Party|Progressive]]{{sfn|Kallenbach|1977|p=69}}
+|rowspan="3"|[[1914 California gubernatorial election|1914]]
+|colspan="2" style="background:{{party color|Progressive Party (United States)}};" title="Represented the Progressive Party"|
+|{{sortname|John Morton|Eshleman}}<br />{{small|(died February 28, 1916)}}
+|- style="height:2em;"
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William|Stephens|dab=American politician}}{{efn|name=lt-rep}}<br />{{small|(took office July 22, 1916)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|24
+|rowspan="2" data-sort-value="Stephens, William"|[[File:William D. Stephens LCCN2014715011 (cropped).jpg|75px]]
+|colspan="2" rowspan="9" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[William Stephens (American politician)|William Stephens]]'''<br>{{Small|(1859–1944)}}<br>{{sfn|Sobel|1978|p=119}}<ref name="nga-stephens">{{Cite web |title=William Dennison Stephens |url=https://www.nga.org/governor/william-dennison-stephens/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617062835/https://www.nga.org/governor/william-dennison-stephens/ |archive-date=June 17, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-stephens">{{Cite web |title=William Stephens |url=https://governors.library.ca.gov/24-Stephens.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/24-Stephens.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="2127"|March 15, 1917<ref>{{Cite news |date=March 15, 1917 |location=Sacramento, California |publication-place=Redding, California |title=Governor Quits Job To Become U.S. Senator |page=1 |newspaper=[[Redding Record Searchlight|Courier-Free Press]] |url=https://www.newspapers.com/article/record-searchlight-stephens-succeeds-joh/129278932/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230801230834/https://www.newspapers.com/article/record-searchlight-stephens-succeeds-joh/129278932/ |archive-date=August 1, 2023 |url-status=live}}</ref><br />–<br />January 9, 1923<br />{{small|(2127 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=119}}
+|rowspan="2"|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1918 California gubernatorial election|1918]]
+|colspan="2" rowspan="3" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|C. C.|Young}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Richardson, Friend"|[[File:Friend Richardson (cropped).jpg|75px]]
+|'''[[Friend Richardson]]'''<br>{{Small|(1865–1943)}}<br>{{sfn|Sobel|1978|p=120}}<ref name="nga-richardson">{{Cite web |title=Friend William Richardson |url=https://www.nga.org/governor/friend-william-richardson/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185831/https://www.nga.org/governor/friend-william-richardson/ |archive-date=June 17, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-richardson">{{Cite web |title=Friend Richardson |url=https://governors.library.ca.gov/25-Richardson.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/25-Richardson.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1457"|January 9, 1923<ref>{{cite book |title=Journal of the Senate, 1923 sess. |author=California Senate |page=92 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093241861&seq=100 |via=[[HathiTrust]]}}</ref><br />–<br />January 4, 1927<br />{{small|(1457 days;<br>lost nomination)}}<ref>{{Cite news |date=September 11, 1926 |title=Young Wins Republican Nomination |page=1 |newspaper=[[The Mendocino Beacon]] |url=https://www.newspapers.com/article/mendocino-coast-beacon-young-wins-republ/118237302/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926015800/https://www.newspapers.com/article/mendocino-coast-beacon-young-wins-republ/118237302/ |archive-date=September 26, 2023 |url-status=live}}</ref>
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1922 California gubernatorial election|1922]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Young, C. C."|[[File:CC Young (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[C. C. Young]]'''<br>{{Small|(1869–1947)}}<br>{{sfn|Sobel|1978|pp=120–121}}<ref name="nga-young">{{Cite web |title=Clement Calhoun Young |url=https://www.nga.org/governor/clement-calhoun-young/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260422122309/https://www.nga.org/governor/clement-calhoun-young/ |archive-date=April 22, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-young">{{Cite web |title=C. C. Young |url=https://governors.library.ca.gov/26-Young.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/26-Young.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="3" data-sort-value="1464"|January 4, 1927<ref>{{cite book |title=Journal of the Senate, 1927 sess. |author=California Senate |page=57 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067964372&seq=67 |via=[[HathiTrust]]}}</ref><br />–<br />January 6, 1931<br />{{small|(1464 days;<br>lost nomination)}}<ref>{{Cite news |date=August 28, 1930 |title=Rolph Nominated for Governor by Margin of 24,000 |page=1 |newspaper=[[The Fresno Bee]] |agency=Associated Press |location=San Francisco, California |publication-place=Fresno, California |url=https://www.newspapers.com/article/the-fresno-bee-rolph-nominated-for-gover/118238054/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926014258/https://www.newspapers.com/article/the-fresno-bee-rolph-nominated-for-gover/118238054/ |archive-date=September 26, 2023 |url-status=live}}</ref>
+|rowspan="3"|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|rowspan="3"|[[1926 California gubernatorial election|1926]]
+|{{sortname|Buron|Fitts}}<br />{{small|(resigned November 30, 1928)}}
+|- style="height:2em;"
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|colspan="2" rowspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Herschel L.|Carnahan}}<br />{{small|(appointed December 4, 1928)}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Rolph, James"|[[File:James Rolph Jr. Crop.jpg|75px]]
+|'''[[James Rolph]]'''<br>{{Small|(1869–1934)}}<br>{{sfn|Sobel|1978|p=121}}<ref name="nga-rolph">{{Cite web |title=James Rolph |url=https://www.nga.org/governor/james-rolph/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260314101334/https://www.nga.org/governor/james-rolph/ |archive-date=March 14, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-rolph">{{Cite web |title=James Rolph |url=https://governors.library.ca.gov/27-Rolph.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/27-Rolph.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1244"|January 6, 1931<ref>{{cite book |title=Journal of the Senate, 1931 sess. |author=California Senate |page=174 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2988760&seq=178 |via=[[HathiTrust]]}}</ref><br />–<br />June 2, 1934<br />{{small|(1244 days; died in office)}}
+|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|[[1930 California gubernatorial election|1930]]
+|{{sortname|Frank|Merriam}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Merriam, Frank"|[[File:Frank Merriam, portrait photo (cropped).jpg|75px]]
+|rowspan="2"|'''[[Frank Merriam]]'''<br>{{Small|(1865–1955)}}<br>{{sfn|Sobel|1978|p=122}}<ref name="nga-merriam">{{Cite web |title=Frank Finley Merriam |url=https://www.nga.org/governor/frank-finley-merriam/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617192115/https://www.nga.org/governor/frank-finley-merriam/ |archive-date=June 17, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-merriam">{{Cite web |title=Frank Merriam |url=https://governors.library.ca.gov/28-Merriam.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185501/https://governors.library.ca.gov/28-Merriam.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="1676"|June 2, 1934<ref>{{Cite news |date=June 2, 1934 |title=F.F. Merriam Assumes Post of Governor |page=1 |newspaper=[[Los Angeles Evening Record|Los Angeles Evening Post-Record]] |url=https://www.newspapers.com/article/los-angeles-evening-post-record-merriam/129280737/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802043810/https://www.newspapers.com/article/los-angeles-evening-post-record-merriam/129280737/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 2, 1939<br />{{small|(1676 days; lost election)}}
+|rowspan="2"|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="3" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1934 California gubernatorial election|1934]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|George J.|Hatfield}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Olson, Culbert"|[[File:Culbert L. Olson at a convention for the California Federation of Democratic Women's Clubs (cropped).jpg|75px]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Culbert Olson]]'''<br>{{Small|(1876–1962)}}<br>{{sfn|Sobel|1978|pp=122–123}}<ref name="nga-olson">{{Cite web |title=Culbert L. Olson |url=https://www.nga.org/governor/culbert-l-olson/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260304043819/https://www.nga.org/governor/culbert-l-olson/ |archive-date=March 4, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-olson">{{Cite web |title=Culbert Olson |url=https://governors.library.ca.gov/29-Olson.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185451/https://governors.library.ca.gov/29-Olson.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|data-sort-value="1464"|January 2, 1939<ref>{{cite book |title=Journal of the Senate, 1939 sess. |author=California Senate |page=20 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175032136411&seq=28 |via=[[HathiTrust]]}}</ref><br />–<br />January 4, 1943<br />{{small|(1464 days; lost election)}}
+|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=69}}
+|[[1938 California gubernatorial election|1938]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Ellis E.|Patterson}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|30
+|rowspan="3" data-sort-value="Warren, Earl"|[[File:Earl Warren Portrait, half figure, seated, facing front, as Governor (cropped 3x4).jpg|75px]]
+|colspan="2" rowspan="5" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Earl Warren]]'''<br>{{Small|(1891–1974)}}<br>{{sfn|Sobel|1978|pp=123–124}}<ref name="nga-warren">{{Cite web |title=Earl Warren |url=https://www.nga.org/governor/earl-warren/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260928100309/https://www.nga.org/governor/earl-warren/ |archive-date=September 28, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-warren">{{Cite web |title=Earl Warren |url=https://governors.library.ca.gov/30-Warren.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260923201140/https://governors.library.ca.gov/30-Warren.html |archive-date=September 23, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="3" data-sort-value="3927"|January 4, 1943<ref>{{cite book |title=Journal of the Senate, 1943 sess. |author=California Senate |page=12 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c109111808&seq=22 |via=[[HathiTrust]]}}</ref><br />–<br />October 4, 1953<br />{{small|(3927 days; resigned)}}{{efn|Warren resigned, having been appointed [[Chief Justice of the United States]].<ref name="nga-warren" /> His resignation letter specified he would leave office at "12 o'clock midnight, Sunday, Oct 4, 1953".<ref>{{Cite news |date=October 5, 1953 |title=Warren Resigns as Governor in 32 Words |page=7 |newspaper=[[Venice Vanguard|Evening Vanguard]] |agency=Associated Press |url=https://www.newspapers.com/article/evening-vanguard-warren-resigns-as-gover/118239808/ |access-date=October 13, 2026 |location=Sacramento, California |publication-place=Venice, California |via=Newspapers.com |archive-url=https://web.archive.org/web/20230926101921/https://www.newspapers.com/article/evening-vanguard-warren-resigns-as-gover/118239808/ |archive-date=September 26, 2023 |url-status=live}}</ref>}}
+|rowspan="3"|[[California Republican Party|Republican]]{{efn|Warren ran as a Republican for his first and third terms. For his second term, he won the nomination of the Republican, Democratic, and [[California Progressive Party|Progressive]] parties.<ref>{{Cite web |title=Biography of Earl Warren |url=https://warren.ucsd.edu/about/biography.html |access-date=October 13, 2026 |website=[[Earl Warren College]] |archive-url=https://web.archive.org/web/20260806021624/https://warren.ucsd.edu/about/biography.html |archive-date=August 6, 2026 |url-status=live}}</ref>}}
+|[[1942 California gubernatorial election|1942]]
+|colspan="2" rowspan="5" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Frederick F.|Houser}}
+|- style="height:2em;"
+|[[1946 California gubernatorial election|1946]]
+|rowspan="2"|{{sortname|Goodwin|Knight}}
+|- style="height:2em;"
+|[[1950 California gubernatorial election|1950]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Knight, Goodwin"|[[File:Goodwin J. Knight, 31st Governor of California Crop Edit.jpg |75px]]
+|rowspan="2"|'''[[Goodwin Knight]]'''<br>{{Small|(1896–1970)}}<br>{{sfn|Sobel|1978|pp=124–125}}<ref name="nga-knight">{{Cite web |title=Goodwin Jess Knight |url=https://www.nga.org/governor/goodwin-jess-knight/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260913091132/https://www.nga.org/governor/goodwin-jess-knight/ |archive-date=September 13, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-knight">{{Cite web |title=Goodwin Knight |url=https://governors.library.ca.gov/31-Knight.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617185454/https://governors.library.ca.gov/31-Knight.html |archive-date=June 17, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="1919"|October 5, 1953<ref>{{Cite news |last=Phillips |first=Herbert L. |date=October 5, 1953 |title=Knight Takes Oath As Governor; Warren Becomes Chief Justice |page=1 |newspaper=[[The Sacramento Bee]] |url=https://www.newspapers.com/article/the-sacramento-bee-knight-succeeds-warre/129282655/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802045316/https://www.newspapers.com/article/the-sacramento-bee-knight-succeeds-warre/129282655/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 5, 1959<br />{{small|(1919 days; retired)}}{{efn|Knight instead [[1958 United States Senate election in California|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=125}}}}
+|rowspan="2"|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=69}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|rowspan="2"|{{sortname|Harold J.|Powers}}
+|- style="height:2em;"
+|[[1954 California gubernatorial election|1954]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Brown, Pat"|[[File:Pat Brown, 1961.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Pat Brown]]'''<br>{{Small|(1905–1996)}}<br>{{sfn|Sobel|1978|pp=125–126}}<ref name="nga-brown-pat">{{Cite web |title=Edmund Gerald Brown |url=https://www.nga.org/governor/edmund-gerald-brown/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260513214618/https://www.nga.org/governor/edmund-gerald-brown/ |archive-date=May 13, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-brown-pat">{{Cite web |title=Edmund G. "Pat" Brown |url=https://governors.library.ca.gov/32-Pbrown.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260730031833/https://governors.library.ca.gov/32-Pbrown.html |archive-date=July 30, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 5, 1959<ref>{{cite book |title=Journal of the Senate, 1959 sess. |author=California Senate |page=47 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073221205&seq=55 |via=[[HathiTrust]]}}</ref><br />–<br />January 2, 1967<br />{{small|(2920 days; lost election)}}
+|rowspan="2"|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=70}}
+|[[1958 California gubernatorial election|1958]]
+|colspan="2" rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Glenn M.|Anderson}}
+|- style="height:2em;"
+|[[1962 California gubernatorial election|1962]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|[[Governorship of Ronald Reagan|33]]
+|rowspan="4" data-sort-value="Reagan, Ronald"|[[File:Ronald-Reagan-governor-California.jpg|75px]]
+|colspan="2" rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|'''[[Ronald Reagan]]'''<br>{{Small|(1911–2004)}}<br>{{sfn|Sobel|1978|p=126}}<ref name="nga-reagan">{{Cite web |title=Ronald Wilson Reagan |url=https://www.nga.org/governor/ronald-wilson-reagan/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260617074348/https://www.nga.org/governor/ronald-wilson-reagan/ |archive-date=June 17, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-reagan">{{Cite web |title=Ronald Reagan |url=https://governors.library.ca.gov/33-Reagan.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260919204651/https://governors.library.ca.gov/33-Reagan.html |archive-date=September 19, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="4" data-sort-value="2927"|January 2, 1967<ref>{{Cite news |last=Salzman |first=Ed |date=January 2, 1967 |title=Reagan Takes Midnight Oath |page=1 |newspaper=[[Oakland Tribune]] |location=Sacramento, California |publication-place=Oakland, California |url=https://www.newspapers.com/article/oakland-tribune-ronald-reagan-is-sworn-i/26335420/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802042307/https://www.newspapers.com/article/oakland-tribune-ronald-reagan-is-sworn-i/26335420/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 6, 1975<br />{{small|(2927 days; retired)}}
+|rowspan="4"|[[California Republican Party|Republican]]{{sfn|Kallenbach|1977|p=70}}
+|rowspan="2"|[[1966 California gubernatorial election|1966]]
+|colspan="2" rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Robert|Finch|dab=politician}}<br />{{small|(resigned January 8, 1969)}}
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Edwin|Reinecke}}<br />{{small|(resigned October 2, 1974)}}
+|- style="height:2em;"
+|rowspan="2"|[[1970 California gubernatorial election|1970]]
+|- style="height:2em;"
+|{{sortname|John L.|Harmer}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="Brown, Jerry"|[[File:Jerry Brown, 1980.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jerry Brown]]'''<br>{{Small|({{Abbr|b.|born in}} 1938)}}<br>{{sfn|Sobel|1978|p=127}}<ref name="nga-brown-jerry">{{Cite web |title=Edmund G. Brown Jr. |url=https://www.nga.org/governor/edmund-g-brown-jr/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260809194434/https://www.nga.org/governor/edmund-g-brown-jr/ |archive-date=August 9, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-brown-jerry-1">{{Cite web |title=Edmond G. "Jerry" Brown |url=https://governors.library.ca.gov/34-Jbrown.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260810054701/https://governors.library.ca.gov/34-Jbrown.html |archive-date=August 10, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 6, 1975<ref>{{cite book |title=Journal of the Assembly, 1975–1976 sess. |author=California Assembly |page=192 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c109383161&seq=204 |via=[[HathiTrust]]}}</ref><br />–<br />January 3, 1983<br />{{small|(2920 days; retired)}}
+|rowspan="2"|[[California Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=70}}
+|[[1974 California gubernatorial election|1974]]
+|colspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Mervyn|Dymally}}
+|- style="height:2em;"
+|[[1978 California gubernatorial election|1978]]
+|colspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Mike|Curb}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="Deukmejian, George"|[[File:George-Deukmejian-Official-Photo-Cropped.jpg|90x90px]]
+|colspan="2" rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[George Deukmejian]]'''<br>{{Small|(1928–2018)}}<br>{{sfn|Mullaney|1994|pp=46–50}}<ref name="nga-deukmejian">{{Cite web |title=George Deukmejian |url=https://www.nga.org/governor/george-deukmejian/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260418100009/https://www.nga.org/governor/george-deukmejian/ |archive-date=April 18, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-deukmejian">{{Cite web |title=George Deukmejian |url=https://governors.library.ca.gov/35-Deukmejian.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260915051401/https://governors.library.ca.gov/35-Deukmejian.html |archive-date=September 15, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 3, 1983<ref>{{Cite news |last=Shuit |first=Douglas |date=January 3, 1983 |title=Deukmejian Takes Oath As Governor |page=1 |newspaper=[[Los Angeles Times]] |location=Sacramento, California |publication-place=Los Angeles |url=https://www.newspapers.com/article/the-los-angeles-times-deukmejian-inaugur/129293748/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802042302/https://www.newspapers.com/article/the-los-angeles-times-deukmejian-inaugur/129293748/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 7, 1991<br />{{small|(2927 days; retired)}}
+|rowspan="2"|[[California Republican Party|Republican]]<ref name="ca-deukmejian" />
+|[[1982 California gubernatorial election|1982]]
+|colspan="2" rowspan="9" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Leo T.|McCarthy}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1986 California gubernatorial election|1986]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|36
+|rowspan="2" data-sort-value="Wilson, Pete"|[[File:Pete Wilson official portrait, 1991 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Pete Wilson]]'''<br>{{Small|({{Abbr|b.|born in}} 1933)}}<br>{{sfn|Mullaney|1994|pp=51–56}}<ref name="nga-wilson">{{Cite web |title=Pete Wilson |url=https://www.nga.org/governor/pete-wilson/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260925191333/https://www.nga.org/governor/pete-wilson/ |archive-date=September 25, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-wilson">{{Cite web |title=Pete Wilson |url=https://governors.library.ca.gov/36-Wilson.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260727032305/https://governors.library.ca.gov/36-Wilson.html |archive-date=July 27, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 7, 1991<ref>{{Cite news |last=Skelton |first=George |date=January 8, 1991 |title=Government Must Renew Credibility, Wilson Declares |page=A1 |newspaper=[[Los Angeles Times]] |location=Sacramento, California |publication-place=Los Angeles |url=https://www.newspapers.com/article/the-los-angeles-times-wilson-inaugurated/129293840/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802045314/https://www.newspapers.com/article/the-los-angeles-times-wilson-inaugurated/129293840/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 4, 1999<br />{{small|(2920 days; term-limited)}}{{efn|Under a 1990 amendment to the constitution, governors may not serve more than two terms.{{sfn|Cal. Const.|loc=[https://50constitutions.org/ca/constitution/section-id-62338 art. V, § 2]}}|name=limits}}
+|rowspan="2"|[[California Republican Party|Republican]]<ref name="ca-wilson" />
+|[[1990 California gubernatorial election|1990]]
+|- style="height:2em;"
+|[[1994 California gubernatorial election|1994]]
+|{{sortname|Gray|Davis}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="Davis, Gray"|[[File:Gray Davis, portrait.jpg|75px]]
+|colspan="2" rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Gray Davis]]'''<br>{{Small|({{Abbr|b.|born in}} 1942)}}<br><ref name="nga-davis">{{Cite web |title=Gray Davis |url=https://www.nga.org/governor/gray-davis-2/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260511214823/https://www.nga.org/governor/gray-davis-2/ |archive-date=May 11, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-davis">{{Cite web |title=Gray Davis |url=https://governors.library.ca.gov/37-Davis.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260822071221/https://governors.library.ca.gov/37-Davis.html |archive-date=August 22, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="2" data-sort-value="1779"|January 4, 1999<ref>{{Cite news |last=Lesher |first=Dave |date=January 5, 1999 |title=Davis Sworn In, Pledges 'Common Sense' Approach |page=A1 |newspaper=[[Los Angeles Times]] |url=https://www.newspapers.com/article/the-los-angeles-times-davis-inaugurated/129293879/ |access-date=October 13, 2026 |location=Sacramento, California |publication-place=Los Angeles |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802040804/https://www.newspapers.com/article/the-los-angeles-times-davis-inaugurated/129293879/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />November 17, 2003<br />{{small|(1779 days; recalled)}}{{efn|Davis was [[2003 California gubernatorial recall election|recalled]] and Schwarzenegger elected to replace him in a special election.<ref name="ca-schwarzenegger" />|name=elect-2003}}
+|rowspan="2"|[[California Democratic Party|Democratic]]<ref name="ca-davis" />
+|[[1998 California gubernatorial election|1998]]
+|rowspan="3"|{{sortname|Cruz|Bustamante}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[2002 California gubernatorial election|2002]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|[[Governorship of Arnold Schwarzenegger|38]]
+|rowspan="4" data-sort-value="Schwarzenegger, Arnold"|[[File: A. Schwarzenegger.jpg |frameless|75px]]
+|colspan="2" rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|'''[[Arnold Schwarzenegger]]'''<br>{{Small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-schwarzenegger">{{Cite web |title=Arnold Schwarzenegger |url=https://www.nga.org/governor/arnold-schwarzenegger/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260808202149/https://www.nga.org/governor/arnold-schwarzenegger/ |archive-date=August 8, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-schwarzenegger">{{Cite web |title=Arnold Schwarzenegger |url=https://governors.library.ca.gov/38-Schwarzenegger.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20261005144836/https://governors.library.ca.gov/38-Schwarzenegger.html |archive-date=October 5, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="4" data-sort-value="2605"|November 17, 2003<ref>{{Cite news |last1=Nicholas |first1=Peter |last2=Mathews |first2=Joe |date=November 18, 2003 |title=Schwarzenegger Sworn In, Rescinds Car Tax Increase |page=A1 |newspaper=[[Los Angeles Times]] |url=https://www.newspapers.com/article/the-los-angeles-times-schwarzenegger-ina/129293927/ |location=Sacramento, California |publication-place=Los Angeles |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802043808/https://www.newspapers.com/article/the-los-angeles-times-schwarzenegger-ina/129293927/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 3, 2011<br />{{small|(2605 days; term-limited)}}{{efn|name=limits}}
+|rowspan="4"|[[California Republican Party|Republican]]<ref name="ca-schwarzenegger" />
+|[[2003 California gubernatorial recall election|2003]]<br />{{small|(recall)}}{{efn|name=elect-2003}}
+|- style="height:2em;"
+|rowspan="3"|[[2006 California gubernatorial election|2006]]
+|{{sortname|John|Garamendi}}{{efn|name=lt-dem}}<br />{{small|(resigned November 3, 2009)}}
+|- style="height:2em;"
+|{{sortname|Mona|Pasquil}}{{efn|name=lt-dem}}<br />{{small|''(acting)''}}
+|- style="height:2em;"
+|colspan="2" rowspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Abel|Maldonado}}{{efn|name=lt-rep}}{{efn|name=newsom}}<br />{{small|(appointed April 27, 2010)}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|39
+|rowspan="3" data-sort-value="Brown, Jerry"|[[File:Edmund G Brown Jr (3x4).jpg|75px]]
+|colspan="2" rowspan="7" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Jerry Brown]]'''<br>{{Small|({{Abbr|b.|born in}} 1938)}}<br><ref name="nga-brown-jerry" /><ref name="ca-brown-jerry-2">{{Cite web |title=Edmund G. "Jerry" Brown |url=https://governors.library.ca.gov/39-Jbrown.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260711140010/https://governors.library.ca.gov/39-Jbrown.html |archive-date=July 11, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="3" data-sort-value="2927"|January 3, 2011<ref>{{Cite news |last=Siders |first=David |date=January 4, 2011 |title=Governor Seens a Year of Courage, Sacrifice |page=A1 |newspaper=[[The Sacramento Bee]] |url=https://www.newspapers.com/article/the-sacramento-bee-brown-inaugurated-jan/129293959/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802043806/https://www.newspapers.com/article/the-sacramento-bee-brown-inaugurated-jan/129293959/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />January 7, 2019<br />{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="3"|[[California Democratic Party|Democratic]]<ref name="ca-brown-jerry-2" />
+|rowspan="2"|[[2010 California gubernatorial election|2010]]
+|- style="height:2em;"
+|colspan="2" rowspan="6" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Gavin|Newsom}}{{efn|Newsom delayed his swearing in as lieutenant governor until January 10, 2011, to remain [[mayor of San Francisco]]; Maldonado stayed on as lieutenant governor until then.<ref>{{Cite news |last=Chang |first=Jack |date=January 11, 2011 |title=No more Mr. Mayor; he's Lt. Gov. Newsom |newspaper=[[The Sacramento Bee]] |url=https://www.newspapers.com/article/the-sacramento-bee-no-more-mr-mayor-he/208238375/ |access-date=October 13, 2026 |via=Newspapers.com}}</ref>|name=newsom}}<br />{{small|(took office January 10, 2011)}}
+|- style="height:2em;"
+|[[2014 California gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|[[Governorship of Gavin Newsom|40]]
+|rowspan="3" data-sort-value="Newsom, Gavin"|[[File:Gavin Newsom 2026 (cropped 3x4).jpg|frameless|100x100px]]
+|rowspan="3"|'''[[Gavin Newsom]]'''<br>{{Small|({{Abbr|b.|born in}} 1967)}}<br><ref name="nga-newsom">{{Cite web |title=Gavin Newsom |url=https://www.nga.org/governor/gavin-newsom/ |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260927183925/https://www.nga.org/governor/gavin-newsom/ |archive-date=September 27, 2026 |url-status=live |website=[[National Governors Association]]}}</ref><ref name="ca-newsom">{{Cite web |title=Gavin Newsom |url=https://governors.library.ca.gov/40-Newsom.html |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260715144031/https://governors.library.ca.gov/40-Newsom.html |archive-date=July 15, 2026 |url-status=live |website=[[California State Library]]}}</ref>
+|rowspan="3" data-sort-value="{{Duration in days nts|2019|1|7|duration=on|format=no}}"|January 7, 2019<ref>{{Cite news |last1=Willon |first1=Phil |last2=Luna |first2=Taryn |last3=Mason |first3=Melanie |date=January 8, 2019 |title='We'll Be There for Each Other' |page=A1 |newspaper=[[Los Angeles Times]] |location=Sacramento, California |publication-place=Los Angeles |url=https://www.newspapers.com/article/the-los-angeles-times-newsom-inaugurated/129293996/ |access-date=October 13, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230802040805/https://www.newspapers.com/article/the-los-angeles-times-newsom-inaugurated/129293996/ |archive-date=August 2, 2023 |url-status=live}}</ref><br />–<br />Incumbent{{efn|Newsom's second term began on January 6, 2023,<ref>{{Cite news |last1=Luna |first1=Taryn |last2=Wiley |first2=Hannah |last3=Rosenhall |first3=Laurel |date=January 6, 2023 |title=Newsom begins second term on anniversary of Jan. 6, casting California as a contrast |url=https://www.latimes.com/california/story/2023-01-06/newsom-second-inauguration-california |location=Sacramento, California |publication-place=Los Angeles |access-date=October 13, 2026 |website=[[Los Angeles Times]] |archive-url=https://web.archive.org/web/20260809172028/https://www.latimes.com/california/story/2023-01-06/newsom-second-inauguration-california |archive-date=August 9, 2026 |url-status=live}}</ref> and [[2026 California gubernatorial election|will expire]] on January 4, 2027; he is term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|7|duration=on|format=no}} days)}}
+|rowspan="3"|[[California Democratic Party|Democratic]]<ref name="ca-newsom" />
+|[[2018 California gubernatorial election|2018]]
+|rowspan="3"|{{sortname|Eleni|Kounalakis}}
+|- style="height:2em;"
+|[[2021 California gubernatorial recall election|2021]]<br />{{small|(recall)}}{{efn|Newsom defeated a [[2021 California gubernatorial recall election|recall election]].<ref>{{Cite news |last1=Ronayne |first1=Kathleen |last2=Blood |first2=Michael R. |date=September 15, 2021 |title=California Gov. Gavin Newsom beats back GOP-led recall |website=Associated Press News |url=https://apnews.com/article/california-recall-results-gavin-newsom-a590782877be099d44f1766b2d138394 |location=Sacramento, California |access-date=October 13, 2026 |archive-url=https://web.archive.org/web/20260808084110/https://apnews.com/article/california-recall-results-gavin-newsom-a590782877be099d44f1766b2d138394 |archive-date=August 8, 2026 |url-status=live}}</ref>}}
+|- style="height:2em;"
+|[[2022 California gubernatorial election|2022]]
+|- style="height:2em;"
+!scope="row"|''41''
+|data-sort-value="Becerra, Xavier|[[File:HHS_Xavier_Becerra.jpg|75px]]
+|'''''[[Xavier Becerra]]'''''<br>{{small|({{abbr|b.|born in}} 1958)}}
+|data-sort-value="{{Duration in days nts|2027|1|4|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 4, 2027''
+|''[[California Democratic Party|Democratic]]''
+|[[2026 California gubernatorial election|2026]]
+|''{{sortname|Fiona|Ma}}''
+|}
+
+==See also==
+{{Portal|California}}
+* {{section link|Gubernatorial lines of succession in the United States|California}}
+* [[List of California state legislatures]]
+* [[List of governors of California before 1850]]
+* [[First ladies and partners of California|Spouses of the governor of California]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{Refbegin}}
+* {{Cite web |title=Governors of California |url=https://governors.library.ca.gov/list.html |access-date=October 13, 2026 |website=[[California State Library]]}}
+* {{Cite web |title=Former California Governors |url=https://www.nga.org/former-governors/california/ |access-date=October 13, 2026 |website=[[National Governors Association]]}}
+* {{Cite web |title=Our Campaigns - Governor of California - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=204 |access-date=October 13, 2026 |website=www.ourcampaigns.com}}
+* {{cite web |title=California Constitution |url=https://50constitutions.org/ca/constitution |ref={{sfnref|Cal. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 12, 2026}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons01thor/ |volume=1 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{Refend}}
+
+==External links==
+{{commons category|Governors of California}}
+*[http://gov.ca.gov Office of the Governor of California]
+
+{{Governors of California}}
+{{Lists of US Governors}}
+{{featured list}}
+
+{{DEFAULTSORT:California, List Of Governors Of}}
+[[Category:Governors of California| ]]
+[[Category:Lists of state governors of the United States]]
+[[Category:Lists of California politicians|Governors]]

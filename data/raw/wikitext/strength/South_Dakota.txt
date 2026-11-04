@@ -1,0 +1,805 @@
+{{Short description|Politics in the US state of South Dakota}}
+{{More citations needed|date=September 2020}}
+The following table indicates the party of elected officials in the [[U.S. state]] of [[South Dakota]]:
+*[[List of governors of South Dakota|Governor]]
+*[[Lieutenant Governor of South Dakota|Lieutenant Governor]]
+*[[Secretary of State of South Dakota|Secretary of State]]
+*[[Attorney General of South Dakota|Attorney General]]
+*[[State Auditor of South Dakota|State Auditor]]
+*State Treasurer
+*Commissioner of School and Public Lands
+
+The table also indicates the historical party composition in the:
+*[[South Dakota Senate|State Senate]]
+*[[South Dakota House of Representatives|State House of Representatives]]
+*State Public Utilities Commission
+*[[List of United States senators from South Dakota|State delegation to the U.S. Senate]]
+*[[List of United States representatives from South Dakota|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's candidate received the state's electoral votes.
+
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=7 |Executive offices<ref>{{Cite book|url=https://sdsos.gov/general-information/assets/bluebook-docs/2019bluebook.pdf|title=Legislative Manual – South Dakota|year=2019}}</ref>
+!colspan=2 |[[South Dakota Legislature|State Legislature]]
+!rowspan=2 class=unsortable |[[South Dakota Public Utilities Commission|Pub. Util. Comm.]]
+!colspan=3 |[[South Dakota's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of South Dakota|Governor]]
+!class=unsortable |[[Lieutenant Governor of South Dakota|Lt. Governor]]
+!class=unsortable |[[Secretary of State of South Dakota|Sec. of State]]
+!class=unsortable |[[Attorney General of South Dakota|Atty. Gen.]]
+!class=unsortable |[[State Auditor of South Dakota|Auditor]]
+!class=unsortable |Treasurer
+!class=unsortable |Comm. of Lands
+!class=unsortable |[[South Dakota Senate|State Senate]]
+!class=unsortable |[[South Dakota House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from South Dakota|U.S. Senator (Class II)]]
+!class=unsortable |[[List of United States senators from South Dakota|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from South Dakota|U.S. House]]
+|- style="height:2em"
+!1889
+|rowspan=4 {{Party shading/Republican}} |[[Arthur C. Mellette]] {{small|(R)}}{{efn |[[Arthur C. Mellette]] had served as the final governor of [[Dakota Territory]] prior to his election as the first governor of the State of South Dakota.}}
+|rowspan=2 {{Party shading/Republican}} |James H. Fletcher {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Amund O. Ringsrud {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert Dollard]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |L. C. Taylor {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Wilbur F. Smith {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Osner H. Parker {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |37R, 4D, 4I
+|rowspan=2 {{Party shading/Republican}} |106R, 13D, 2Pop, 2I, 1Fus
+|rowspan=6 {{Party shading/Nonpartisan}} |3NP
+|rowspan=7 {{Party shading/Republican}} |[[Richard F. Pettigrew]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Gideon C. Moody]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |2R
+|rowspan=3 |
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Republican}} |[[George H. Hoffman]] {{small|(R)}}
+| rowspan=4 {{Party shading/Republican}} |W. W. Taylor {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Thomas H. Ruth]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |22R, 10I, 8D, 3Pop, 2?
+|rowspan=2 {{Party shading/Farmers' Alliance}} |58D, 33I, 20R, 10Pop, 1Fus{{efn |A Independent Republican Speaker, Charles X. Seward, was elected with the support of Democrats, Independents, Populists, and members of the Farmers' Alliance who ran as Independents. This alliance, with the Farmers' Alliance and the Populists being predominant, ran and organized the chamber.<ref>{{Cite book|last=Robinson|first=Doane|url=https://books.google.com/books?id=o5tQAAAAYAAJ&dq=charles%2520x.%2520seward%2520republican%2520south%2520dakota%2520speaker&pg=PA343|title=History of South Dakota|date=1904|publisher=B. F. Bowen|isbn=978-0-598-27657-5|language=en|page=343}}</ref>}}
+|rowspan=2 {{Party shading/Independent}} |[[James H. Kyle]] {{small|(I)}}
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Whitelaw Reid|Reid]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1893
+|rowspan=4 {{Party shading/Republican}} |[[Charles H. Sheldon]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles N. Herreid]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Thomas Thorson {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Coe I. Crawford]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |J. E. Hipple {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |35R, 4D, 3I, 1Pop
+|rowspan=2 {{Party shading/Republican}} |69R, 8I, 4D, 2Pop
+|rowspan=8 {{Party shading/Populist}} |[[James H. Kyle]] {{small|(Pop)}}
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=4 {{Party shading/Republican}} |Kirk G. Phillips {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |John L. Lockhart {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |35R, 3D, 3Pop, 3Fus, 1I
+|rowspan=2 {{Party shading/Republican}} |69R, 11Pop, 2D, 2I
+|rowspan=2 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1896
+| rowspan=6 {{Party shading/Silver Republican}} |[[Richard F. Pettigrew]] {{small|(SvR)}}
+|rowspan=4 {{Party shading/Fusion}} |2 – [[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D/SvR)}} {{nay}}<br>2 – [[William Jennings Bryan|Bryan]]/<br>[[Thomas E. Watson|Watson]] {{small|(Pop)}} {{nay}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Populist}} |[[Andrew E. Lee]] {{small|(Pop)}}
+|rowspan=2 {{Party shading/Republican}} |Daniel T. Hindman {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |William H. Roddle {{small|(R)}}
+|rowspan=2 {{Party shading/Populist}} |[[Melvin Grigsby]] {{small|(Pop)}}
+|rowspan=2 {{Party shading/Republican}} |J. E. Mayhew {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 15Fus, 6Pop, 2D
+|rowspan=2 {{Party shading/Republican}} |39R, 18Fus, 17Pop, 9D, 1I
+|rowspan=2 {{Party shading/Populist}} |3Pop
+|rowspan=2 {{Party shading/Populist}} |2Pop
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=3 {{Party shading/Fusion}} |[[Andrew E. Lee]] {{small|(Fus)}}{{efn |name=fusion |[[Andrew E. Lee]] won re-election on the Fusion ticket in 1898. In 1898, the Fusion Party was a coalition of [[Democratic Party (United States)|Democrats]]/<br>[[Populist Party (United States)|Populists]]; in 1900 it consisted of Democrats, Populists and [[Silver Republican Party|Silver Republicans]].}}
+|rowspan=3 {{Party shading/Republican}} |John T. Kean {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John L. Pyle]] {{small|(R)}}{{efn |name=died|Died in office.}}
+|rowspan=5 {{Party shading/Republican}} |James D. Reeves {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |John Schamber {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |David Eastman {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |31R, 6Fus, 4D, 4Pop
+|rowspan=3 {{Party shading/Republican}} |61R, 15Fus, 9D, 2Pop
+|rowspan=3 {{Party shading/Populist}} |2Pop, 1R
+|rowspan=15 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1900
+|rowspan=5 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1901
+|{{Party shading/Republican}} |[[James H. Kyle]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Charles N. Herreid]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |George W. Snow {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |O. C. Berg {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |41R, 2Fus, 1D, 1Pop
+|rowspan=2 {{Party shading/Republican}} |79R, 7D, 1Fus
+|rowspan=2 {{Party shading/Republican}} |2R, 1Pop
+|rowspan=12 {{Party shading/Republican}} |[[Robert J. Gamble]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Alfred B. Kittredge]] {{small|(R)}}
+|- style="height:2em"
+!1902
+|{{Party shading/Republican}} |[[Adolphus W. Burtt]] {{small|(R)}}
+|- style="height:2em"
+!1903
+|rowspan=4 {{Party shading/Republican}} |[[Philo Hall]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |J. F. Halladay {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |C. B. Collins {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |C. J. Bach {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |41R, 3D, 1Fus
+|rowspan=2 {{Party shading/Republican}} |77R, 8D, 2Fus
+|rowspan=31 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=2 {{Party shading/Republican}} |[[Samuel H. Elrod]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |John E. McDougall {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |David D. Wipf {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |42R, 2Pop, 1D
+|rowspan=2 {{Party shading/Republican}} |86R, 2D, 1Fus
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Republican}} |[[Coe I. Crawford]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Howard C. Shober {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[S. Wesley Clark]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |John Hirning {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |C. H. Cassill {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |O. C. Dokken {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |35R, 8D, 1Pop, 1Fus
+|rowspan=2 {{Party shading/Republican}} |80R, 9D
+|- style="height:2em"
+!1908
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=4 {{Party shading/Republican}} |[[Robert S. Vessey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Samuel C. Polley {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |George G. Johnson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |38R, 6D, 1Pop
+|rowspan=2 {{Party shading/Republican}} |92R, 9D, 1Pop, 1I
+|rowspan=6 {{Party shading/Republican}} |[[Coe I. Crawford]] {{small|(R)}}
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=2 {{Party shading/Republican}} |[[Frank M. Byrne]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Royal C. Johnson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Henry B. Anderson {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |F. F. Brinkler {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |32R, 11D, 1Pop, 1I
+|rowspan=2 {{Party shading/Republican}} |97R, 5D, 1Pop, 1I
+|- style="height:2em"
+!1912
+|rowspan=4 {{Party shading/Bull Moose}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Hiram Johnson|Johnson]] {{small|(Prog)}} {{nay}}
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Republican}} |[[Frank M. Byrne]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Edward Lincoln Abel {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Frank Galsner{{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |A. W. Ewert {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |34R, 11D
+|rowspan=2 {{Party shading/Republican}} |89R, 13D, 1I
+|rowspan=12 {{Party shading/Republican}} |[[Thomas Sterling]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Republican}} |[[Peter Norbeck]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Frank M. Rood {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Clarence C. Caldwell {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |J. E. Handlin {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Fred Hepperle {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |84R, 19D
+|rowspan=6 {{Party shading/Democratic}} |[[Edwin S. Johnson]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1916
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes|Hughes]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Republican}} |[[Peter Norbeck]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William H. McMaster]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |G. H. Helgerson {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |N. E. Knight {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |35R, 10D
+|rowspan=2 {{Party shading/Republican}} |89R, 14D
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=3 {{Party shading/Republican}} |C. A. Burkhart {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |Byron S. Payne {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Jay Reeves {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |43R, 2D
+|rowspan=2 {{Party shading/Republican}} |88R, 11D, 3I, 1?
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Republican}} |[[William H. McMaster]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Carl Gunderson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |W. S. O'Brein {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |44R, 1D
+|rowspan=2 {{Party shading/Republican}} |95R, 4D, 4I
+|rowspan=17 {{Party shading/Republican}} |[[Peter Norbeck]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1922
+|rowspan=5 {{Party shading/Republican}} |[[Clarence E. Coyne]] {{small|(R)}}
+|- style="height:2em"
+!1923
+|rowspan=6 {{Party shading/Republican}} |Buell F. Jones {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |Edward A. Jones {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |34R, 9D, 2I
+|rowspan=2 {{Party shading/Republican}} |84R, 12D, 5I, 1Fus
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Republican}} |[[Carl Gunderson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Alva Clark Forney]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |James L. Driscoll {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |O. P. J. Englstorm {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |35R, 9D, 1FL
+|rowspan=2 {{Party shading/Republican}} |85R, 15D, 2I, 1Fus
+|rowspan=7 {{Party shading/Republican}} |[[William H. McMaster]] {{small|(R)}}
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=5 {{Party shading/Democratic}} |[[William J. Bulow]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Hyatt E. Covey]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Gladys Pyle]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |A. J. Moodie {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 16D
+|rowspan=2 {{Party shading/Republican}} |77R, 25D, 1?
+|- style="height:2em"
+!1928
+|rowspan=5 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1929
+|{{Party shading/Republican}} |Clarence E. Coyne {{small|(R)}}{{efn |name=died}}
+|rowspan=5 {{Party shading/Republican}} |[[Merrell Q. Sharpe]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |William M. Dunn {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |33R, 12D
+|rowspan=3 {{Party shading/Republican}} |82R, 21D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |John T. Grigsby {{small|(D)}}{{efn |name=app|Appointed to fill a vacancy.}}
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=2 {{Party shading/Republican}} |[[Warren Green (South Dakota politician)|Warren Green]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Odell K. Whitney {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Elizabeth Coyne {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |A. C. Goodhope {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 14D
+|rowspan=2 {{Party shading/Republican}} |79R, 24D
+|rowspan=12 {{Party shading/Democratic}} |[[William J. Bulow]] {{small|(D)}}
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=4 {{Party shading/Democratic}} |[[Tom Berry (South Dakota politician)|Tom Berry]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Hans Ustrud {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Myrtle Morrison {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[D. Walter Conway]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |George O'Neill {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Frank G. Stewart {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |Ben Strool {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |30D, 15R
+|rowspan=2 {{Party shading/Democratic}} |69D, 34R
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|rowspan=4 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=2 {{Party shading/Democratic}} |[[Robert Peterson (South Dakota politician)|Robert Peterson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |32D, 13R
+|rowspan=2 {{Party shading/Democratic}} |63D, 40R
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!1937
+|rowspan=2 {{Party shading/Republican}} |[[Leslie Jensen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Donald McMurchie]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Goldie Wells]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Clair Roddewig]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Raymond A. Kelly]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[W. H. Hinselman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 22D
+|rowspan=2 {{Party shading/Republican}} |66R, 37D
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|{{Party shading/Democratic}} |[[Herbert E. Hitchcock]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1938
+|{{Party shading/Republican}} |[[Gladys Pyle]] {{small|(R)}}
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Republican}} |[[Harlan J. Bushfield]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Olive A. Ringsrud]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Leo A. Temmey]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[W. W. Warner]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[W. G. Douglas]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Earl A. Hammerquest]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |30R, 5D
+|rowspan=2 {{Party shading/Republican}} |62R, 13D
+|rowspan=34 {{Party shading/Republican}} |3R
+|rowspan=13 {{Party shading/Republican}} |[[Chan Gurney]] {{small|(R)}}
+|rowspan=19 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Republican}} |[[Wendell Willkie|Willkie]]/<br>[[Charles L. McNary|McNary]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1941
+|rowspan=4 {{Party shading/Republican}} |[[A. C. Miller (politician)|A. C. Miller]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |31R, 4D
+|rowspan=2 {{Party shading/Republican}} |65R, 10D
+|- style="height:2em"
+!1942
+|{{Party shading/Republican}} |John N. Thompson {{small|(R)}}
+|- style="height:2em"
+!1943
+|rowspan=4 {{Party shading/Republican}} |[[Merrell Q. Sharpe]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[L. M. Larsen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[George T. Mickelson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |E. V. Youngquist {{small|(R)}}{{efn |name=died}}
+|rowspan=7 {{Party shading/Republican}} |John A. Lunden {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |69R, 6D
+|rowspan=6 {{Party shading/Republican}} |[[Harlan J. Bushfield]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[John W. Bricker|Bricker]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1945
+|rowspan=5 {{Party shading/Republican}} |[[Sioux K. Grigsby]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Steve E. Anderson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Hazel Dean {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |35R
+|rowspan=2 {{Party shading/Republican}} |72R, 3D
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=5 {{Party shading/Republican}} |[[George T. Mickelson]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Annamae Riff]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Sigurd Anderson]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |Clarence E. Buehler {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |71R, 4D
+|- style="height:2em"
+!rowspan=2 |1948
+|rowspan=5 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[Earl Warren|Warren]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Vera C. Bushfield]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!1949
+|rowspan=6 {{Party shading/Republican}} |[[Rex Terry]] {{small|(R)}}
+|rowspan=23 {{Party shading/Republican}} |Bernard Linn {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 8D
+|rowspan=2 {{Party shading/Republican}} |64R, 11D
+|rowspan=25 {{Party shading/Republican}} |[[Karl Mundt]] {{small|(R)}}{{efn |Appointed after having already been elected to a full term.}}
+|- style="height:2em"
+!1950
+|rowspan=2 {{Party shading/Republican}} |[[James O. Gilkerson]] {{small|(R)}}
+|- style="height:2em"
+!1951
+|rowspan=4 {{Party shading/Republican}} |[[Sigurd Anderson]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Geraldine Ostroot]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Ralph A. Dunham]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Theodore Mehlaf {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 6D
+|rowspan=2 {{Party shading/Republican}} |66R, 9D
+|rowspan=12 {{Party shading/Republican}} |[[Francis Case]] {{small|(R)}}
+|- style="height:2em"
+!1952
+|rowspan=4 {{Party shading/Republican}} |[[Lawrence E. Mayes]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=2 {{Party shading/Republican}} |35R
+|rowspan=2 {{Party shading/Republican}} |73R, 2D
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Republican}} |[[Joe Foss]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[L. Roy Houck]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Phil Saunders]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Ed Elkins {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 6D
+|rowspan=2 {{Party shading/Republican}} |57R, 18D
+|- style="height:2em"
+!1956
+|rowspan=2 {{Party shading/Republican}} |[[Fay A. Allbee]] {{small|(R)}}
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Republican}} |[[Clara Halls]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 17D
+|rowspan=2 {{Party shading/Republican}} |48R, 27D
+|rowspan=4 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1958
+|{{Party shading/Republican}} |[[Oscar Brosz]] {{small|(R)}}
+|- style="height:2em"
+!1959
+|rowspan=2 {{Party shading/Democratic}} |[[Ralph Herseth]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[John F. Lindley]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Selma Sandness]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Parnell J. Donahue]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Harriet Horning]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican}} |Al Hamre {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 15R
+|rowspan=2 {{Party shading/Republican}} |43R, 32D
+|- style="height:2em"
+!1960
+|rowspan=5 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1961
+|rowspan=5 {{Party shading/Republican}} |[[Archie M. Gubbrud]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Joe Bottum]] {{small|(R)}}{{efn |Resigned when appointed to a seat in the U.S. Senate.}}
+|rowspan=5 {{Party shading/Republican}} |[[Essie Wiedenman]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[A. C. Miller (politician)|A. C. Miller]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Betty Lou Casey]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |23R, 12D
+|rowspan=3 {{Party shading/Republican}} |57R, 18D
+|rowspan=11 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!rowspan=2 |1962
+|- style="height:2em"
+|''vacant''
+|{{Party shading/Republican}} |[[Joe Bottum]] {{small|(R)}}
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Republican}} |[[Nils Boe]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Frank Farrar]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Al Hamre]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Lloyd Jorgenson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 9D
+|rowspan=2 {{Party shading/Republican}} |58R, 17D
+|rowspan=18 {{Party shading/Democratic}} |[[George McGovern]] {{small|(D)}}
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=4 {{Party shading/Republican}} |[[Nils Boe]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lem Overpeck]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Alma Larson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 15D, 1I
+|rowspan=2 {{Party shading/Republican}} |45R, 30D
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=2 {{Party shading/Republican}} |[[Lloyd Jorgenson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |Al Hamre {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 6D
+|rowspan=2 {{Party shading/Republican}} |64R, 11D
+|- style="height:2em"
+!1968
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Republican}} |[[Frank Farrar]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[James Abdnor]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Gordon Mydland]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Alice Kundert]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Neal Strand {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 8D
+|rowspan=2 {{Party shading/Republican}} |59R, 16D
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=7 {{Party shading/Democratic}} |[[Richard F. Kneip]] {{small|(D)}}{{efn |Richard F. Kneip was the last South Dakota governor to serve a two-year term (1971-73 and 1973-75), and the first elected to a four-year term (in the 1974 election).}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Dougherty]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Ralph Ginn]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |24R, 11D
+|rowspan=2 {{Party shading/Republican}} |45R, 30D
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|rowspan=2 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=6 {{Party shading/Democratic}} |[[Lorna Herseth]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Kermit A. Sande]] {{small|(D)}}
+|rowspan=18 {{Party shading/Republican}} |David Volk {{small|(R)}}
+|rowspan=6 {{Party shading/Democratic}} |George Kane {{small|(D)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 17R
+|rowspan=2 {{Party shading/Democratic}} |35R, 35D{{efn |A Democrat, [[Gene N. LeBrun]], was elected Speaker, and the Democrats organized and ran the House.<ref> [http://cdm16384.contentdm.oclc.org/cdm/compoundobject/collection/p15307coll3/id/70449/rec/37 p. 110, 112]</ref>}}
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|rowspan=6 {{Party shading/Democratic}} |[[James Abourezk]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=3 {{Party shading/Democratic}} |[[Harvey Wollman]] {{small|(D)}}{{efn |name=KneipResign|On July 24, 1978, Governor Kneip resigned to become United States [[Ambassador]] to [[Singapore]]. Lieutenant Governor [[Harvey L. Wollman]] succeeded to the office of governor on that date and served until January 1, 1979. The office of Lieutenant Governor remained vacant for the remainder of the term.}}
+|rowspan=4 {{Party shading/Republican}} |[[Bill Janklow]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 16R
+|rowspan=2 {{Party shading/Republican}} |37R, 33D
+|rowspan=2 {{Party shading/Democratic}} |3D
+|rowspan=4 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1977
+|rowspan=4 {{Party shading/Republican}} |24R, 11D
+|rowspan=4 {{Party shading/Republican}} |48R, 22D
+|rowspan=4 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1978
+|{{Party shading/Democratic}} |[[Harvey Wollman]] {{small|(D)}}{{efn |name=KneipResign}}
+|''vacant''{{efn |name=KneipResign}}
+|- style="height:2em"
+!1979
+|rowspan=8 {{Party shading/Republican}} |[[Bill Janklow]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Lowell C. Hansen II]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Alice Kundert]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Mark V. Meierhenry]] {{small|(R)}}
+|rowspan=24 {{Party shading/Republican}} |[[Vern Larson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} | John J. Gerken {{small|(R)}}
+|rowspan=18 {{Party shading/Republican}} |[[Larry Pressler]] {{small|(R)}}
+|rowspan=4 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Republican}} |25R, 10D
+|rowspan=2 {{Party shading/Republican}} |49R, 21D
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|rowspan=6 {{Party shading/Republican}} |[[James Abdnor]] {{small|(R)}}
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+| {{Party shading/Republican}} |F. Julian Cheney {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 9D
+|rowspan=2 {{Party shading/Republican}} |52R, 18D
+|rowspan=4 {{Party shading/Democratic}} |2D, 1R
+|rowspan=4 {{Party shading/Democratic}} |[[Tom Daschle]] {{small|(D)}}
+|- style="height:2em"
+!1984
+| {{Party shading/Republican}} |David Volk {{small|(R)}}
+|- style="height:2em"
+!1985
+|rowspan=2 {{Party shading/Republican}} | John J. Gerken {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |25R, 10D
+|rowspan=2 {{Party shading/Republican}} |57R, 13D
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=6 {{Party shading/Republican}} |[[George S. Mickelson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=6 {{Party shading/Republican}} |[[Walter Dale Miller]] {{small|(R)}}
+|rowspan=16 {{Party shading/Republican}} |[[Joyce Hazeltine]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Roger Tellinghuisen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Timothy Amdahl {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 11D
+|rowspan=2 {{Party shading/Republican}} |48R, 22D
+|rowspan=2 {{Party shading/Democratic}} |3D
+|rowspan=18 {{Party shading/Democratic}} |[[Tom Daschle]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Tim Johnson (South Dakota politician)|Tim Johnson]] {{small|(D)}}
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|rowspan=2 {{Party shading/Republican}} |20R, 15D
+|rowspan=2 {{Party shading/Republican}} |46R, 24D
+|rowspan=14 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=12 {{Party shading/Republican}} |[[Mark Barnett (lawyer)|Mark Barnett]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |G. Homer Harding {{small|(R)}}
+|rowspan=12 {{Party shading/Democratic}} |Curt Johnson {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 17D
+|rowspan=2 {{Party shading/Republican}} |45R, 25D
+|- style="height:2em"
+!1992
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Republican}} |[[Walter Dale Miller]] {{small|(R)}}{{efn |name=assumed|Assumed office following the death or resignation of predecessor.}}
+|rowspan=2 {{Party shading/Republican}} |[[Steve T. Kirby]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 15R
+|rowspan=2 {{Party shading/Republican}} |41R, 29D
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=8 {{Party shading/Republican}} |[[Bill Janklow]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Carole Hillard]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |Dick Butler {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 16D
+|rowspan=2 {{Party shading/Republican}} |45R, 24D, 1I
+|- style="height:2em"
+!1996
+|rowspan=4 {{Party shading/Republican}} |[[Bob Dole|Dole]]/<br>[[Jack Kemp|Kemp]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1997
+|rowspan=4 {{Party shading/Republican}} |22R, 13D
+|rowspan=2 {{Party shading/Republican}} |47R, 23D
+|rowspan=18 {{Party shading/Democratic}} |[[Tim Johnson (South Dakota politician)|Tim Johnson]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |[[John Thune]] {{small|(R)}}
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=2 {{Party shading/Republican}} |52R, 18D
+|- style="height:2em"
+!2000
+|rowspan=8 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Republican}} |24R, 11D
+|rowspan=2 {{Party shading/Republican}} |50R, 20D
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=8 {{Party shading/Republican}} |[[Mike Rounds]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Dennis Daugaard]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Chris Nelson (American politician)|Chris Nelson]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Larry Long (politician)|Larry Long]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Rich Sattgast]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |Vern Larson {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Bryce Healy {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 9D
+|rowspan=2 {{Party shading/Republican}} |49R, 21D
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|{{Party shading/Republican}} |[[Bill Janklow]] {{small|(R)}}{{efn |name=res|Resigned.}}
+|- style="height:2em"
+!2004
+|rowspan=7 {{Party shading/Democratic}} |[[Stephanie Herseth Sandlin]] {{small|(D)}}{{efn |First elected in special election.}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |25R, 10D
+|rowspan=2 {{Party shading/Republican}} |51R, 19D
+|rowspan=2 {{Party shading/Republican}} |3R
+|rowspan=23 {{Party shading/Republican/current}} |[[John Thune]] {{small|(R)}}
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=6 {{Party shading/Republican}} |Jarrod Johnson {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 15D
+|rowspan=2 {{Party shading/Republican}} |50R, 20D
+|rowspan=4 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!2008
+|rowspan=4 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/Republican}} |21R, 14D
+|rowspan=2 {{Party shading/Republican}} |46R, 24D
+|- style="height:2em"
+!2010
+|rowspan=9 {{Party shading/Republican}} |[[Marty Jackley]] {{small|(R)}}
+|- style="height:2em"
+!2011
+|rowspan=8 {{Party shading/Republican}} |[[Dennis Daugaard]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Matt Michels]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jason Gant]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Steve Barnett (politician)|Steve Barnett]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Rich Sattgast]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |30R, 5D{{efn |Democratic Senator-elect [[Eldon Nygaard]] switched to the Republicans prior to the start of the legislative session.}}
+|rowspan=2 {{Party shading/Republican}} |50R, 19D, 1I
+|rowspan=17 {{Party shading/Republican/current}} |3R
+|rowspan=8 {{Party shading/Republican}} |[[Kristi Noem]] {{small|(R)}}
+|- style="height:2em"
+!2012
+|rowspan=4 {{Party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2013
+|rowspan=2 {{party shading/Republican}} |Vern Larson {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |28R, 7D
+|rowspan=2 {{party shading/Republican}} |53R, 17D
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=4 {{party shading/Republican}} |[[Shantel Krebs]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |Ryan Brunner {{small|(R)}}{{efn |Resigned to be a senior policy advisor in Governor Noem's office.}}
+|rowspan=2 {{party shading/Republican}} |27R, 8D
+|rowspan=2 {{party shading/Republican}} |58R, 12D
+|rowspan=13 {{party shading/Republican/current}} |[[Mike Rounds]] {{small|(R)}}
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2017
+|rowspan=2 {{party shading/Republican}} |29R, 6D
+|rowspan=2 {{party shading/Republican}} |60R, 10D
+|- style="height:2em"
+!2018
+|- style="height:2em"
+!2019
+|rowspan=7 {{party shading/Republican}} |[[Kristi Noem]] {{small|(R)}}{{efn |Resigned to become [[United States Secretary of Homeland Security]]}}
+|rowspan=7 {{party shading/Republican}} |[[Larry Rhoden]] {{small|(R)}}
+|rowspan=5 {{party shading/Republican}} |[[Steve Barnett (politician)|Steve Barnett]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jason Ravnsborg]] {{small|(R)}}{{efn |[[Jason Ravnsborg]] Impeached by the South Dakota House of Representatives on April 12, 2022, and suspended from his duties pending trial in the South Dakota Senate.}}
+|rowspan=9 {{Party shading/Republican/current}} |[[Rich Sattgast]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican/current}} |[[Josh Haeder]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |30R, 5D
+|rowspan=2 {{Party shading/Republican}} |59R, 11D
+|rowspan=9 {{Party shading/Republican/current}} |[[Dusty Johnson]] {{small|(R)}}
+|- style="height:2em"
+!2020
+|rowspan=5 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2021
+|rowspan=3 {{party shading/Republican}} |32R, 3D
+|rowspan=3 {{Party shading/Republican}} |62R, 8D
+|- style="height:2em"
+!rowspan=2 |2022
+|rowspan=2 {{Party shading/Republican}} |Jarrod Johnson {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+| {{Party shading/Republican}} |[[Mark Vargo (politician)|Mark Vargo]] {{small|(R)}}{{efn |name=app}}
+|-
+!2023
+|rowspan=4 {{Party shading/Republican/current}} |[[Monae Johnson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |[[Marty Jackley]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |[[Brock Greenfield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 4D
+|rowspan=2 {{Party shading/Republican}} |63R, 7D
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{party shading/Republican/current}} |[[Larry Rhoden]] {{small|(R)}}{{efn |name=assumed|Assumed office following the death or resignation of predecessor.}}
+|rowspan=2 {{Party shading/Republican/current}} |[[Tony Venhuizen]] {{small|(R)}}{{efn |name=app|Appointed to fill a vacancy.}}
+|rowspan=2 {{Party shading/Republican/current}} |32R, 3D
+|{{Party shading/Republican}} |64R, 6D
+|- style="height:2em"
+!2026
+| {{Party shading/Republican/current}} |65R, 5D{{efn|name=LD27|[[Peri Pourier]] (District [[South Dakota's 27th legislative district|27]]) [[Party switching in the United States|switched]] from the Democratic Party to the Republican Party.}}
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[South Dakota#Politics|Politics in South Dakota]]
+*[[Government of South Dakota]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states|state=expanded}}
+{{South Dakota}}
+
+{{DEFAULTSORT:Political Party Strength In South Dakota}}
+[[Category:Politics of South Dakota]]
+[[Category:Government of South Dakota]]
+[[Category:Political party strength in the United States by state|South Dakota]]

@@ -1,0 +1,1644 @@
+{{Short description|Politics in the US state of New York}}
+{{Politics of New York}}
+{{about|the state|the city|Political party strength in New York City}}{{See also|Politics of New York (state)}}
+
+As of 2022, the [[Democratic Party (United States)|Democratic Party]] dominates the politics of New York.<ref>{{Cite web|url=https://spectrumlocalnews.com/nys/central-ny/ny-state-of-politics/2022/11/01/democrats-remain-dominant-political-party-in-new-york|title=Democrats remain dominant political party in New York|first=Nick|last=Reisman|website=spectrumlocalnews.com|date=November 1, 2022}}</ref>
+
+This page contains party enrollment data as well as historical data on the party affiliations of certain New York elected officials.
+
+==Party enrollment==
+{|class=wikitable
+!colspan=6 |New York party enrollment data as of February 20, 2025<ref>{{Cite web |title=Enrollment by County |url=https://www.elections.ny.gov/EnrollmentCounty.html |access-date=September 19, 2023 |website=Elections.ny.gov}}</ref>
+|-
+!colspan=2 rowspan=2 |Party
+!rowspan=2 |%
+!colspan=2 |Total voters
+!rowspan=2 |Total
+|-
+!Active
+!Inactive
+|-
+|{{party color cell|Democratic Party (US)}}
+![[Democratic Party (United States)|Democratic]]
+|align="center" |47.90
+|align="center" |5,896,984
+|403,434
+|'''6,300,418'''
+|-
+|{{party color cell|Republican Party (US)}}
+![[Republican Party (United States)|Republican]]
+|align="center" |22.63
+|align="center" |2,845,295
+|131,446
+|'''2,976,741'''
+|-
+|{{party color cell|Conservative Party of New York State}}
+![[Conservative Party of New York State|Conservative]]
+|align="center" |1.27
+|align="center" |160,125
+|7,107
+|'''167,232'''
+|-
+|{{party color cell|Working Families Party}}
+![[Working Families Party|Working Families]]
+|align="center" |0.44
+|align="center" |55,804
+|2,989
+|'''58,793'''
+|-
+|{{party color cell|Other parties (US)}}
+![[List of political parties in the United States|Minor parties]]
+|align="center" |2.72
+|align="center" |336,758
+|21,480
+|'''358,238'''
+|-
+|{{party color cell|Independent politician}}
+![[Independent voter|Unaffiliated]]
+|align="center" |25.03
+|align="center" |3,108,039
+|184,092
+|'''3,292,131'''
+|-
+!colspan=2 |Total
+!align="center" |100%
+!align="center" |12,403,005
+!750,548
+!13,153,553
+|}
+
+{{align|right|{{Switcher |[[File:2025 New York voter registration map by county.svg|300px]]|Voter registration by county |[[File:2025 New York voter registration map by congressional district.svg|300px]]|Voter registration by congressional district<br>{{collapsible list|title = Legend:|
+{{legend|#BDD3FF|30–40%}} |
+{{legend|#A5B0FF|40–50%}} |
+{{legend|#7996E2|50–60%}} |
+{{legend|#6674DE|60–70%}} |
+{{legend|#584CDE|70–80%}} |
+{{legend|#FFC8CD|30–40%}} |
+{{legend|#FFB2B2|40–50%}} |
+{{legend|#E27F7F|50–60%}} |}}}}}}
+
+==Party affiliations of elected officials==
+The following table indicates the historical party affiliations of the following elected officials in the [[U.S. state]] of [[New York (state)|New York]]:
+*[[Governor of New York|Governor]]
+*[[Lieutenant Governor of New York|Lieutenant Governor]]
+*[[Secretary of State of New York|Secretary of State]] (before 1927)
+*[[Attorney General of New York|Attorney General]]
+*[[New York State Comptroller|State Comptroller]]
+*[[New York State Treasurer|Treasurer]] (before 1927)
+
+The table also indicates the historical party composition in the:
+*[[New York State Senate|State Senate]]
+*[[New York State Assembly|State Assembly]]
+*[[List of United States senators from New York|New York delegation to the United States Senate]]
+*[[List of United States representatives from New York|New York delegation to the United States House of Representatives]] (also see [[New York's congressional districts]])
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+== 1777–1926 ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[New York State Legislature|State Legislature]]
+!colspan=3 |[[New York's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[Governor of New York|Governor]]
+!class=unsortable |[[Lieutenant Governor of New York|Lieutenant Governor]]
+!class=unsortable |[[Secretary of State of New York|Secretary of State]]
+!class=unsortable |[[Attorney General of New York|Attorney General]]
+!class=unsortable |[[New York State Comptroller|Comptroller]]
+!class=unsortable |[[New York State Treasurer|Treasurer]]
+!class=unsortable |[[New York State Senate|Senate]]
+!class=unsortable |[[New York State Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from New York|Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from New York|Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from New York|House]]
+|- style="height:2em"
+!1777
+|rowspan=9 |[[George Clinton (vice president)|George Clinton]] {{efn |There was no codified start for terms when Clinton took office; the date was set at July 1 in 1787, starting presumably in 1789. Most sources state that early governors took office on April 1; however, more contemporary sources note the elections were held on April 1, with the oath of office being delivered on July 1.}}
+|rowspan=9 |[[Pierre Van Cortlandt]]
+|''None''{{efn |Office established in 1778.}}
+|rowspan=10 |[[Egbert Benson]]
+|rowspan=4 |[[Comfort Sands]]{{efn |As Auditor-General.}}
+|[[Peter Van Brugh Livingston]]
+|
+|
+|colspan=4 rowspan=11 |
+|- style="height:2em"
+!1778
+|rowspan=5 |[[John Morin Scott]]{{efn |name=died|Died in office.}}
+|rowspan=19 |[[Gerard Bancker]]
+|- style="height:2em"
+!…
+|- style="height:2em"
+!1781
+|- style="height:2em"
+!1782
+|rowspan=15 |[[Peter T. Curtenius]]{{efn |As Auditor.}}
+|- style="height:2em"
+!1783
+|- style="height:2em"
+!1784
+|rowspan=14 |[[Lewis Allaire Scott]]{{efn |name=died}}
+|- style="height:2em"
+!1785
+|- style="height:2em"
+!1786
+|- style="height:2em"
+!1787
+|rowspan=5 {{Party shading/Anti-Administration}} |[[George Clinton (vice president)|George Clinton]] {{small|(AA)}}
+|rowspan=5 {{Party shading/Anti-Administration}} |[[Pierre Van Cortlandt]] {{small|(AA)}}
+|- style="height:2em"
+!1788
+|rowspan=2 {{Party shading/Pro-Administration}} |[[Richard Varick]] {{small|(PA)}}
+|- style="height:2em"
+!1789
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Democratic-Republican}} |45DR, 19F, 1?
+|rowspan=2 {{Party shading/Pro-Administration}} |[[Philip Schuyler]] {{small|(PA)}}
+|rowspan=6 {{Party shading/Pro-Administration}} |[[Rufus King]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Tie}} |3AA, 3PA
+|rowspan=3 |''none''{{efn |Electors were to be appointed by state legislature, which deadlocked, so no electors were chosen.}}
+|- style="height:2em"
+!1790
+|rowspan=2 {{Party shading/Anti-Administration}} |[[Aaron Burr]] {{small|(AA)}}
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |38F, 23DR, 4?
+|- style="height:2em"
+!1791
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=4 {{Party shading/Anti-Administration}} |[[Aaron Burr]] {{small|(AA)}}
+|rowspan=2 {{Party shading/Pro-Administration}} |4PA, 2AA
+|- style="height:2em"
+!1792
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[George Clinton (vice president)|George Clinton]] {{small|(DR)}}
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Pierre Van Cortlandt]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |[[Morgan Lewis (governor)|Morgan Lewis]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=4 {{Party shading/Independent (US)}} |[[George Washington|Washington]] {{small|(I)}} {{aye}} /<br>[[George Clinton (vice president)|Clinton]] {{small|(DR)}} {{nay}}{{efn |name=electors|Electors, appointed by the state legislature, cast their ballots for these two candidates for president.}}
+|- style="height:2em"
+!1793
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Nathaniel Lawrence]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=2 {{Party shading/Pro-Administration}} |7PA, 3AA
+|- style="height:2em"
+!1794
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|- style="height:2em"
+!1795
+|rowspan=7 {{Party shading/Federalist}} |[[John Jay]] {{small|(F)}}
+|rowspan=7 {{Party shading/Federalist}} |[[Stephen Van Rensselaer]] {{small|(F)}}
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Aaron Burr]] {{small|(DR)}}
+|{{Party shading/Federalist}} |[[Rufus King]] {{small|(F)}}
+|rowspan=2 {{Party shading/Tie}} |5DR, 5F
+|- style="height:2em"
+!1796
+|rowspan=7 {{Party shading/Federalist}} |[[Josiah Ogden Hoffman]] {{small|(F)}}
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=5 {{Party shading/Federalist}} |[[John Laurance]] {{small|(F)}}
+|rowspan=5 {{Party shading/Federalist}} |[[John Adams|Adams]] {{small|(F)}} {{aye}} /<br>[[Thomas Pinckney|Pinckney]] {{small|(F)}} {{nay}}{{efn |name=electors}}
+|- style="height:2em"
+!1797
+|rowspan=4 |[[Samuel Jones (New York comptroller)|Samuel Jones]]
+|{{Party shading/Federalist}} |35F, 7DR, 1&nbsp;vac.
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |[[Philip Schuyler]] {{small|(F)}}{{efn |name=ill|Resigned due to ill health.}}
+|rowspan=3 {{Party shading/Federalist}} |6F, 4DR
+|- style="height:2em"
+!rowspan=2 |1798
+|rowspan=4 {{Party shading/Federalist}} |[[Daniel Hale (politician)|Daniel Hale]] {{small|(F)}}
+|rowspan=6 {{Party shading/Federalist}} |[[Robert McClellan (New York treasurer)|Robert McClellan]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |36F, 5DR, 2&nbsp;vac.
+|rowspan=2 {{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |[[John Sloss Hobart]] {{small|(F)}}{{efn |Appointed to [[United States district court]].}}
+|- style="height:2em"
+|{{Party shading/Federalist}} |[[William North]] {{small|(F)}}{{efn |name=appointed|Appointed by the Governor to fill remainder of unexpired term.}}
+|- style="height:2em"
+!1799
+|rowspan=2 {{Party shading/Federalist}} |32F, 11DR
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |[[James Watson (New York politician)|James Waston]] {{small|(F)}}{{efn |Resigned to accept an appointment as a United States naval officer.}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |6DR, 4F
+|- style="height:2em"
+!1800
+|rowspan=2 {{Party shading/Federalist}} |[[John Vernon Henry]] {{small|(F)}}
+|{{Party shading/Federalist}} |F majority
+|rowspan=3 {{Party shading/Federalist}} |[[Gouverneur Morris]] {{small|(F)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Armstrong Jr.]] {{small|(DR)}}{{efn |name=resigned|Resigned.}}
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]]/<br>[[Aaron Burr|Burr]] {{small|(DR)}} {{aye}}{{efn |name=electors}}
+|- style="height:2em"
+!1801
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[George Clinton (vice president)|George Clinton]] {{small|(DR)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Jeremiah Van Rensselaer]] {{small|(DR)}}
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Thomas Tillotson]] {{small|(DR)}}
+|{{Party shading/Federalist}} |22F, 21DR
+|{{Party shading/Democratic-Republican}} |83DR, 25F
+|rowspan=2 {{Party shading/Democratic-Republican}} |7DR, 3F
+|- style="height:2em"
+!1802
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Ambrose Spencer]] {{small|(DR)}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Elisha Jenkins]] {{small|(DR)}}{{efn |Resigned when appointed Secretary of State of New York.}}
+|{{Party shading/Federalist}} |22F, 21DR
+|{{Party shading/Democratic-Republican}} |83DR, 25F
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[DeWitt Clinton]] {{small|(DR)}}{{efn |Resigned to become [[Mayor of New York City]].}}
+|- style="height:2em"
+!rowspan=2 |1803
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Abraham G. Lansing]] {{small|(L)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |21DR, 1F
+|rowspan=2 {{Party shading/Democratic-Republican}} |73DR, 32F, 3?
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Theodorus Bailey (politician)|Theodorus Bailey]] {{small|(DR)}}{{efn |Resigned to accept the position of [[Postmaster]] of New York City.}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |12DR, 5F
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Armstrong Jr.]] {{small|(DR)}}
+|- style="height:2em"
+!rowspan=2 |1804
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Morgan Lewis (governor)|Morgan Lewis]] {{small|(DR)}}
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[John Broome (politician)|John Broome]] {{small|(DR)}}{{efn |name=died}}
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[John Woodworth (New York politician)|John Woodworth]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |27DR, 5F
+|rowspan=2 {{Party shading/Democratic-Republican}} |82DR, 18F
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]]/<br>[[George Clinton (vice president)|Clinton]] {{small|(DR)}} {{aye}}{{efn |name=electors-app|Electors appointed by state legislature.}}
+|- style="height:2em"
+|{{Party shading/Democratic-Republican}} |[[John Armstrong Jr.]] {{small|(DR)}}{{efn |Resigned to become minister to France.}}
+|rowspan=10 {{Party shading/Democratic-Republican}} |[[John Smith (New York politician, born 1752)|John Smith]] {{small|(DR)}}
+|- style="height:2em"
+!1805
+|{{Party shading/Democratic-Republican}} |28DR, 4F
+|{{Party shading/Democratic-Republican}} |77DR, 21F, 2{{abbr|B|Burrites}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Samuel L. Mitchill]] {{small|(DR)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |15DR, 2F
+|- style="height:2em"
+!1806
+|{{Party shading/Democratic-Republican}} |[[Elisha Jenkins]] {{small|(DR)}}
+|rowspan=14 {{Party shading/Democratic-Republican}} |[[Archibald McIntyre]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |32DR
+|{{Party shading/Democratic-Republican}} |76DR, 19F, 5{{abbr|L|Lewisites}}{{efn |With the election of Morgan Lewis as Governor, the DRs began to divide into two factions, the Lewisites loyal to Lewis, and Clintonians loyal to DeWitt Clinton.}}
+|- style="height:2em"
+!1807
+|rowspan=11 {{Party shading/Democratic-Republican}} |[[Daniel D. Tompkins]] {{small|(DR)}}{{efn |name=vp|Resigned to become [[Vice President of the United States]].}}
+|{{Party shading/Democratic-Republican}} |[[Thomas Tillotson]] {{small|(DR)}}
+|{{Party shading/Federalist}} |49DR, 19F, 32{{abbr|L|Lewisites}}{{efn |A coalition of Lewisites and Federalists elected a Lewisite, [[Andrew McCord]], as Speaker and organized the chamber.}}
+|- style="height:2em"
+!1808
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Elisha Jenkins]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Matthias B. Hildreth]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[David Thomas (New York politician)|David Thomas]] {{small|(C)}}
+|{{Party shading/Democratic-Republican}} |24DR, 8F&{{abbr|L|Lewisites}}
+|{{Party shading/Democratic-Republican}} |65DR, 23F, 11{{abbr|L|Lewisites}}
+|rowspan=5 {{Party shading/Democratic-Republican}} |13 – [[James Madison|Madison]]/<br>[[George Clinton (vice president)|Clinton]] {{small|(DR)}} {{aye}}<br>3 – [[George Clinton (vice president)|Clinton]]/<br>[[James Madison|Madison]] {{small|(DR)}} {{nay}}<br>3 – [[George Clinton (vice president)|Clinton]]/<br>[[James Monroe|Monroe]] {{small|(DR)}} {{nay}}{{efn |name=electors-app}}
+|- style="height:2em"
+!1809
+|{{Party shading/Democratic-Republican}} |23DR, 9F
+|{{Party shading/Democratic-Republican}} |61DR, 48F, 3{{abbr|L|Lewisites}}, 1IR
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Obadiah German]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |10DR, 7F
+|- style="height:2em"
+!1810
+|rowspan=2 {{Party shading/Federalist}} |[[Daniel Hale (politician)|Daniel Hale]] {{small|(F)}}
+|{{Party shading/Federalist}} |[[Abraham Van Vechten]] {{small|(F)}}
+|rowspan=3 {{Party shading/Federalist}} |[[Abraham G. Lansing]] {{small|(F)}}
+|{{Party shading/Democratic-Republican}} |20DR, 12F
+|{{Party shading/Federalist}} |64F, 48DR
+|- style="height:2em"
+!rowspan=2 |1811
+|{{Party shading/Democratic-Republican}} |[[John Tayler]] {{small|(DR)}}{{efn |name=actingLG|As [[majority Leader of the New York State Senate|Temporary President of the State Senate]], became acting Lieutenant Governor upon a vacancy in the office.}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Matthias B. Hildreth]] {{small|(DR)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |22DR, 10F
+|rowspan=2 {{Party shading/Democratic-Republican}} |71DR, 41F
+|rowspan=3 {{Party shading/Democratic-Republican}} |12DR, 5F
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[DeWitt Clinton]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Elisha Jenkins]] {{small|(DR)}}
+|- style="height:2em"
+!1812
+|{{Party shading/Democratic-Republican}} |[[Thomas Addis Emmet]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |[[David Thomas (New York politician)|David Thomas]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |25DR, 7F
+|{{Party shading/Democratic-Republican}} |69DR, 43F
+|rowspan=4 {{Party shading/Fusion}} |[[DeWitt Clinton|D. Clinton]]/<br>[[Jared Ingersoll|Ingersoll]] {{small|(DR/F)}} {{nay}}{{efn |name=electors-app}}
+|- style="height:2em"
+!1813
+|rowspan=4 {{Party shading/Democratic-Republican}} |John Tayler {{small|(DR)}}
+|rowspan=2 {{Party shading/Federalist}} |[[Jacob R. Van Rensselaer]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |[[Abraham Van Vechten]] {{small|(F)}}
+|rowspan=4 {{Party shading/Federalist}} |[[Charles Z. Platt]] {{small|(F)}}
+|{{Party shading/Democratic-Republican}} |24DR, 8F
+|{{Party shading/Federalist}} |59F, 52DR, 1&nbsp;vac.
+|rowspan=7 {{Party shading/Federalist}} |[[Rufus King]] {{small|(F)}}
+|{{Party shading/Federalist}} |19F, 8DR
+|- style="height:2em"
+!1814
+|{{Party shading/Democratic-Republican}} |27DR, 5F
+|{{Party shading/Federalist}} |65F, 47DR
+|{{Party shading/Federalist}} |18F, 9DR
+|- style="height:2em"
+!1815
+|{{Party shading/Democratic-Republican}} |[[Peter Buell Porter]] {{small|(DR)}}
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Martin Van Buren]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |26DR, 6F
+|{{Party shading/Democratic-Republican}} |71DR, 41F
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Nathan Sanford]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |21DR, 6F
+|- style="height:2em"
+!1816
+|[[Robert L. Tillotson]]
+|{{Party shading/Democratic-Republican}} |25DR, 7F
+|{{Party shading/Federalist}} |63DR, 63F{{efn |A Democratic-Republican, [[Daniel Cruger]], was elected with three members absent on a 62–61 vote. A seat was contested by the Federalists, however, which led to an extended fight over the [[Council of Appointment]]. After the DRs won that debate, the contested seat was handed to the Federalist, and the Federalists had a functional majority of 62–61 despite the loss of the Speaker's seat.}}
+|rowspan=9 {{Party shading/Democratic-Republican}} |[[James Monroe|Monroe]]/<br>[[Daniel D. Tompkins|Tompkins]] {{small|(DR)}} {{aye}}{{efn |name=electors-app}}
+|- style="height:2em"
+!rowspan=2 |1817
+|{{Party shading/Democratic-Republican}} |[[John Tayler]] {{small|(DR)}}{{efn |name=assumed|As lieutenant governor, assumed governorship upon resignation of predecessor.}}
+|{{Party shading/Democratic-Republican}} |[[Philetus Swift]] {{small|(DR)}}{{efn |name=actingLG}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Charles D. Cooper]] {{small|(DR)}}
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Gerrit L. Dox]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |25DR, 7F
+|rowspan=2 {{Party shading/Democratic-Republican}} |90DR, 36F
+|rowspan=3 {{Party shading/Democratic-Republican}} |22DR, 5F
+|- style="height:2em"
+|rowspan=6 {{Party shading/Fusion}} |[[DeWitt Clinton]] {{small|(DR)}}{{efn |The length and dates of terms were changed in 1821, during Clinton's second term, which then ended on December 31, 1822 rather than July 1, 1823.}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |John Tayler {{small|(DR)}}
+|- style="height:2em"
+!1818
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[John Van Ness Yates]] {{small|(DR)}}
+|rowspan=3 {{Party shading/Fusion}} |[[Archibald McIntyre]] {{small|({{abbr|C|Clintonian}})}}
+|{{Party shading/Democratic-Republican}} |27DR, 5F
+|{{Party shading/Democratic-Republican}} |95DR, 31F
+|- style="height:2em"
+!1819
+|rowspan=2 {{Party shading/Federalist}} |[[Thomas J. Oakley]] {{small|(F)}}
+|{{Party shading/Democratic-Republican}} |28DR, 4F
+|{{Party shading/Democratic-Republican}} |95DR, 30F, 1?
+|''vacant''
+|rowspan=2 {{Party shading/Democratic-Republican}} |21DR, 6F
+|- style="height:2em"
+!1820
+|{{Party shading/Democratic-Republican}} |18{{abbr|B|Bucktails}}, 13{{abbr|C|Clintonians}}, 1DR{{efn |A division within the Democratic-Republican Party occurred with the election of DeWitt Clinton as Governor between the Clintonians, who were loyal to him, and Bucktails, who were aligned with Martin Van Buren.}}
+|{{Party shading/Fusion}} |58{{abbr|B|Bucktails}}, 34F, 30{{abbr|C|Clintonians}}{{efn |A coalition was formed between the Clintonians and Federalists to elect [[John Canfield Spencer]], a Clintonian, as Speaker and organized the chamber.}}
+|rowspan=5 {{Party shading/Federalist}} |[[Rufus King]] {{small|(F)}}
+|- style="height:2em"
+!1821
+|rowspan=11 {{Party shading/Democratic-Republican}} |[[Samuel A. Talcott]] {{small|(DR)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Savage (American politician, born 1779)|John Savage]] {{small|(DR)}}{{efn |Elected Chief Justice of the New York Supreme Court by the State Legislature.}}
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Benjamin Knower]] {{small|({{abbr|B|Bucktail}})}}
+|{{Party shading/Democratic-Republican}} |19{{abbr|B|Bucktails}}, 13{{abbr|C|Clintonians}}
+|{{Party shading/Democratic-Republican}} |71{{abbr|B|Bucktails}}, 33{{abbr|C|Clintonians}}, 22F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Martin Van Buren]] {{small|(DR/{{abbr|B|Bucktail}})}}
+|{{Party shading/Democratic-Republican}} |20DR, 7F
+|- style="height:2em"
+!1822
+|{{Party shading/Fusion}} |18{{abbr|C|Clintonians}}, 13{{abbr|B|Bucktails}}, 1?
+|{{Party shading/Democratic-Republican}} |73{{abbr|B|Bucktails}}, 48{{abbr|C|Clintonians}}, 5F
+|{{Party shading/Democratic-Republican}} |19DR, 8F
+|- style="height:2em"
+!1823
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Joseph C. Yates]] {{small|(DR)}}{{efn |Per the 1821 state constitution, Yates' term was the first to last two years rather than three.}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Erastus Root]] {{small|(DR)}}
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[William L. Marcy]] {{small|({{abbr|B|Bucktail}})}}{{efn |Elected a justice of the New York Supreme Court by the State Legislature shortly before the end of his second term.}}
+|{{Party shading/Democratic-Republican}} |32{{abbr|B|Bucktails}}
+|{{Party shading/Democratic-Republican}} |112{{abbr|B|Bucktails}}, 16{{abbr|C|Clintonians}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |30DR, 4F
+|- style="height:2em"
+!1824
+|{{Party shading/Democratic-Republican}} |[[Abraham Keyser Jr.]] {{small|({{abbr|B|Bucktail}})}}
+|{{Party shading/Democratic-Republican}} |30{{abbr|B|Bucktails}}, 2{{abbr|C|Clintonians}}
+|{{Party shading/Democratic-Republican}} |91{{abbr|B|Bucktails}}, 37{{abbr|C|Clintonians}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |26 – [[John Quincy Adams|Adams]]/<br>[[John C. Calhoun|Calhoun]] {{small|(DR)}} {{aye}}{{efn |The state delegation of New York in the U.S. House of Representatives [[1824 United States presidential election#1825 contingent election|voted]] 18-14-2 for John Quincy Adams.}}<br>5 – [[William H. Crawford|Crawford]]/<br>[[Nathaniel Macon|Macon]] {{small|(DR)}} {{nay}}<br>4 – [[Henry Clay|Clay]]/<br>[[Nathan Sanford|Sanford]] {{small|(DR)}} {{nay}}<br>1 – [[Andrew Jackson|Jackson]]/<br>[[John C. Calhoun|Calhoun]] {{small|(DR)}} {{nay}}{{efn |name=electors-app}}
+|- style="height:2em"
+!1825
+|rowspan=4 {{Party shading/Fusion}} |[[DeWitt Clinton]] {{small|({{abbr|P|Clintonian}})}}{{efn |In April 1824, Clinton's political enemies, the [[Bucktails]], voted in the [[New York State Legislature]] for his removal from his post as president of the [[Erie Canal Commission]], causing such indignation among the electorate that he was nominated for governor by the "People's Party", and was re-elected governor over the official candidate of the [[Democratic-Republican Party]], fellow canal commissioner [[Samuel Young (New York politician)|Samuel Young]].}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Fusion}} |[[James Tallmadge Jr.]] {{small|({{abbr|P|Clintonian}})}}
+|{{Party shading/Fusion}} |[[Gamaliel H. Barstow]] {{small|({{abbr|C|Clintonian}})}}
+|{{Party shading/Democratic-Republican}} |21{{abbr|B|Bucktails}}, 11{{abbr|C|Clintonians}}
+|{{Party shading/Fusion}} |86{{abbr|C|Clintonians}}, 42{{abbr|B|Bucktails}}, 1I
+|rowspan=6 {{Party shading/Jacksonian}} |[[Martin Van Buren]] {{small|(J)}}{{efn |name=gov|Resigned when elected Governor of New York.}}
+|''vacant''
+|{{Party shading/National Republican}} |25NR, 9JD
+|- style="height:2em"
+!1826
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Azariah C. Flagg]] {{small|(DR)}}
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Abraham Keyser Jr.]] {{small|({{abbr|B|Bucktail}})}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |17{{abbr|B|Bucktails}}, 15{{abbr|C|Clintonians}}
+|{{Party shading/Democratic-Republican}} |68{{abbr|B|Bucktails}}, 55{{abbr|C|Clintonians}}, 1I
+|rowspan=8 {{Party shading/National Republican}} |[[Nathan Sanford]] {{small|(NR)}}
+|{{Party shading/National Republican}} |26NR, 8J
+|- style="height:2em"
+!1827
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Nathaniel Pitcher]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |84{{abbr|B|Bucktails}}, 43{{abbr|C|Clintonians}}, 1I
+|{{Party shading/Jacksonian}} |19J, 15NR
+|- style="height:2em"
+!rowspan=3 |1828
+|rowspan=3 {{Party shading/Democratic-Republican}} |22{{abbr|B|Bucktails}}, 10{{abbr|C|Clintonians}}
+|rowspan=3 {{Party shading/Jacksonian}} |93J, 17[[Anti-Masonic Party|A-M]], 16NR
+|rowspan=3 {{Party shading/Jacksonian}} |18J, 16NR
+|rowspan=7 {{Party shading/Democratic}} |[[Andrew Jackson|Jackson]]/<br>[[John C. Calhoun|Calhoun]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Nathaniel Pitcher]] {{small|(DR)}}{{efn |name=assumed}}
+|{{Party shading/Democratic-Republican}} |[[Peter R. Livingston (politician, born 1766)|Peter R. Livingston]] {{small|(DR)}}{{efn |name=actingLG}}
+|- style="height:2em"
+|{{Party shading/Democratic-Republican}} |[[Charles Dayan]] {{small|(DR)}}{{efn |name=actingLG}}
+|- style="height:2em"
+!rowspan=2 |1829
+|{{Party shading/Jacksonian}} |[[Martin Van Buren]] {{small|(J)}}{{efn |name=res-sos|Resigned to become [[United States Secretary of State]].}}
+|{{Party shading/Jacksonian}} |[[Enos T. Throop]] {{small|(J)}}
+|rowspan=5 {{Party shading/Jacksonian}} |[[Azariah C. Flagg]] {{small|(J)}}
+|rowspan=5 {{Party shading/Jacksonian}} |[[Silas Wright]] {{small|(J)}}{{efn |name=senate|Resigned when elected to the [[United States Senate]].}}
+|rowspan=9 {{Party shading/Jacksonian}} |[[Abraham Keyser Jr.]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |20J, 9NR, {{nowrap|3A-M}}
+|rowspan=2 {{Party shading/Jacksonian}} |82J, {{nowrap|30A-M}}, 16NR
+|rowspan=5 {{Party shading/Jacksonian}} |[[Charles E. Dudley]] {{small|(J)}}
+|rowspan=3 {{Party shading/Jacksonian}} |19J, 12NR, {{nowrap|3A-M}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Jacksonian}} |[[Enos T. Throop]] {{small|(J)}}{{efn |name=ltelected|As lieutenant governor, became governor for unexpired term and was later elected in his own right.}}
+|{{Party shading/Jacksonian}} |[[Charles Stebbins]] {{small|(J)}}{{efn |name=actingLG}}
+|rowspan=7 {{Party shading/Democratic}} |[[Greene C. Bronson]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}{{efn |name=nysup|Resigned to take seat on New York Supreme Court.}}
+|- style="height:2em"
+!1830
+|{{Party shading/Jacksonian}} |[[William M. Oliver]] {{small|(J)}}{{efn |name=actingLG}}
+|{{Party shading/Jacksonian}} |25J, 4NR, {{nowrap|3A-M}}
+|{{Party shading/Jacksonian}} |91J, {{nowrap|29A-M}}, 7NR
+|- style="height:2em"
+!1831
+|rowspan=2 {{Party shading/Jacksonian}} |[[Edward Philip Livingston]] {{small|(J)}}
+|{{Party shading/Jacksonian}} |25J, {{nowrap|5A-M}}, 2NR
+|{{Party shading/Jacksonian}} |93J, {{nowrap|31A-M}}, 4NR
+|rowspan=2 {{Party shading/Jacksonian}} |[[William L. Marcy]] {{small|(J)}}{{efn |name=gov}}
+|rowspan=2 {{Party shading/Jacksonian}} |23J, {{nowrap|8A-M}}, 3NR
+|- style="height:2em"
+!1832
+|{{Party shading/Jacksonian}} |24J, {{nowrap|6A-M}}, 2NR
+|{{Party shading/Jacksonian}} |95J, {{nowrap|28A-M}}, 5NR
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson|Jackson]]/<br>[[Martin Van Buren|Van Buren]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1833
+|rowspan=6 {{Party shading/Democratic}} |[[William L. Marcy]] {{nowrap|{{small|({{abbr|D-H|Democratic (Hunker)}})}}}}
+|rowspan=6 {{Party shading/Democratic}} |[[John Tracy (New York politician)|John Tracy]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[John Adams Dix]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|rowspan=6 {{Party shading/Democratic}} |[[Azariah C. Flagg]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|{{Party shading/Jacksonian}} |26J, {{nowrap|6A-M}}
+|{{Party shading/Jacksonian}} |100J, {{nowrap|25A-M}}, 3NR
+|rowspan=4 {{Party shading/Jacksonian}} |[[Nathaniel P. Tallmadge]] {{small|(J)}}
+|rowspan=4 {{Party shading/Jacksonian}} |[[Silas Wright]] {{small|(J)}}{{efn |name=gov}}
+|rowspan=2 {{Party shading/Jacksonian}} |32J, {{nowrap|8A-M}}
+|- style="height:2em"
+!1834
+|{{Party shading/Jacksonian}} |25J, {{nowrap|7A-M}}
+|{{Party shading/Jacksonian}} |113J, {{nowrap|10A-M}}, 5ID
+|- style="height:2em"
+!1835
+|rowspan=2 {{Party shading/Democratic}} |28D, 4W
+|{{Party shading/Democratic}} |91D, 36W, 1&nbsp;vac.
+|{{Party shading/Jacksonian}} |31J, 9NR
+|- style="height:2em"
+!1836
+|rowspan=3 {{Party shading/Democratic}} |[[Samuel Beardsley]] {{nowrap|{{small|({{abbr|D-H|Democratic (Hunker)}})}}}}
+|{{Party shading/Democratic}} |111D, 16W, 1A
+|{{Party shading/Jacksonian}} |32J, 8NR, 1W
+|rowspan=4 {{Party shading/Democratic}} |[[Martin Van Buren|Van Buren]]/<br>[[Richard Mentor Johnson|Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1837
+|{{Party shading/Democratic}} |[[Abraham Keyser Jr.]] {{small|(D)}}
+|{{Party shading/Democratic}} |27D, 5W
+|{{Party shading/Democratic}} |90D, 38W
+|rowspan=2 {{Party shading/Democratic}} |[[Nathaniel P. Tallmadge]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Silas Wright]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|rowspan=2 {{Party shading/Democratic}} |30D, 10W
+|- style="height:2em"
+!1838
+|{{Party shading/Whig}} |[[Gamaliel H. Barstow]] {{small|(W)}}
+|{{Party shading/Democratic}} |22D, 10W
+|{{Party shading/Whig}} |100W, 28D
+|- style="height:2em"
+!1839
+|rowspan=4 {{Party shading/Whig}} |[[William H. Seward]] {{small|(W)}}
+|rowspan=4 {{Party shading/Whig}} |[[Luther Bradish]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[John Canfield Spencer]] {{small|(W)}}{{efn |Resigned to become [[United States Secretary of War]].}}
+|rowspan=3 {{Party shading/Whig}} |[[Willis Hall (New York politician)|Willis Hall]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[Bates Cooke]] {{small|(W)}}{{efn |name=ill}}
+|rowspan=3 {{Party shading/Whig}} |[[Jacob Haight]] {{small|(W)}}
+|{{Party shading/Democratic}} |18D, 14W
+|{{Party shading/Whig}} |83W, 45D
+|''vacant''
+|rowspan=2 {{Party shading/Whig}} |21W, 19D
+|- style="height:2em"
+!1840
+|{{Party shading/Whig}} |20W, 12D
+|{{Party shading/Whig}} |70W, 58D
+|rowspan=5 {{Party shading/Whig}} |[[Nathaniel P. Tallmadge]] {{small|(W)}}{{efn |Resigned when appointed Governor of [[Wisconsin Territory]].}}
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison|Harrison]]/<br>[[John Tyler|Tyler]] {{small|(W)}} {{aye}}
+|- style="height:2em"
+!1841
+|{{Party shading/Nonpartisan}} |[[Archibald Campbell (New York politician)|Archibald Campbell]] {{small|(NP)}}
+|{{Party shading/Whig}} |[[John A. Collier]] {{small|(W)}}
+|{{Party shading/Whig}} |21W, 11D
+|{{Party shading/Whig}} |66W, 62D
+|rowspan=2 {{Party shading/Democratic}} |21D, 19W
+|- style="height:2em"
+!1842
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel Young (New York politician)|Samuel Young]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|rowspan=4 {{Party shading/Democratic}} |[[George P. Barker]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Azariah C. Flagg]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Farrington (American politician)|Thomas Farrington]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|{{Party shading/Democratic}} |17D, 15W
+|{{Party shading/Democratic}} |96D, 32W
+|- style="height:2em"
+!1843
+|rowspan=3 {{Party shading/Democratic}} |[[William C. Bouck]] {{nowrap|{{small|({{abbr|D-H|Democratic (Hunker)}})}}}}
+|rowspan=3 {{Party shading/Democratic}} |[[Daniel S. Dickinson]] {{nowrap|{{small|({{abbr|D-H|Democratic (Hunker)}})}}}}
+|{{Party shading/Democratic}} |22D, 10W
+|rowspan=3 {{Party shading/Democratic}} |92D, 36W
+|rowspan=3 {{Party shading/Democratic}} |24D, 10W
+|- style="height:2em"
+!rowspan=2 |1844
+|rowspan=2 {{Party shading/Democratic}} |26D, 6W
+|rowspan=5 {{Party shading/Democratic}} |[[James K. Polk|Polk]]/<br>[[George M. Dallas|Dallas]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|''vacant''
+|{{Party shading/Democratic}} |[[Henry A. Foster]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1845
+|rowspan=2 {{Party shading/Democratic}} |[[Silas Wright]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|rowspan=3 {{Party shading/Democratic}} |[[Addison Gardiner]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Nathaniel S. Benton]] {{nowrap|{{small|({{abbr|D-H|Democratic (Hunker)}})}}}}{{efn |Legislated out of office by State Constitution of 1846.}}
+|rowspan=3 {{Party shading/Democratic}} |[[John Van Buren]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|{{Party shading/Democratic}} |[[Benjamin Enos]] {{nowrap|{{small|({{abbr|D-H|Democratic (Hunker)}})}}}}
+|{{Party shading/Democratic}} |27D, 4W, 1KN
+|{{Party shading/Democratic}} |65D, 47W, 15KN, 1ID
+|rowspan=6 {{Party shading/Democratic}} |[[Daniel S. Dickinson]] {{nowrap|{{small|({{abbr|D-H|Democratic (Hunker)}})}}}}
+|rowspan=4 {{Party shading/Democratic}} |[[John Adams Dix]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 9W, 4KN
+|- style="height:2em"
+!1846
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas Farrington (American politician)|Thomas Farrington]] {{nowrap|{{small|({{abbr|D-B|Democratic (Barnburner)}})}}}}
+|{{Party shading/Democratic}} |25D, 6W, 1KN
+|{{Party shading/Democratic}} |74D, 51W, 2{{abbr|AR|Antirenter}}, 1ID
+|- style="height:2em"
+!1847
+|rowspan=2 {{Party shading/Whig}} |[[John Young (governor)|John Young]] {{small|(W)}}
+|{{Party shading/Democratic}} |21D, 10W, 1KN
+|{{Party shading/Whig}} |76W, 52D
+|{{Party shading/Whig}} |23W, 11D
+|- style="height:2em"
+!1848
+|{{Party shading/Whig}} |[[Hamilton Fish]] {{small|(W)}}
+|rowspan=4 {{Party shading/Whig}} |[[Christopher Morgan (politician)|Christopher Morgan]] {{small|(W)}}{{efn |First popularly-elected Secretary of State.}}
+|rowspan=2 {{Party shading/Whig}} |[[Ambrose L. Jordan]] {{small|(W/{{abbr|AR|Antirenter}})}}{{efn |First popularly-elected Attorney General.}}
+|rowspan=2 {{Party shading/Whig}} |[[Millard Fillmore]] {{small|(W)}}{{efn |First popularly-elected Comptroller.}}{{efn |name=vp}}
+|rowspan=4 {{Party shading/Whig}} |[[Alvah Hunt]] {{small|(W)}}{{efn |First popularly-elected Treasurer.}}
+|rowspan=2 {{Party shading/Whig}} |24W, 8D{{efn |With the adoption of the [[Constitution of New York|Constitution of 1847]], Senators moved from having one-quarter of the body each year to having every seat in the body up every two years, starting with the election of 1847.}}
+|{{Party shading/Whig}} |91W, 36D, 1I
+|{{Party shading/Whig}} |24W, 10D
+|rowspan=4 {{Party shading/Whig}} |[[Zachary Taylor|Taylor]]/<br>[[Millard Fillmore|Fillmore]] {{small|(W)}} {{aye}}
+|- style="height:2em"
+!1849
+|rowspan=2 {{Party shading/Whig}} |[[Hamilton Fish]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[George W. Patterson]] {{small|(W)}}
+|{{Party shading/Whig}} |106W, 14FS, 7D, 1{{abbr|AR|Antirenter}}
+|rowspan=7 {{Party shading/Whig}} |[[William H. Seward]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |32W, 1D, 1FS
+|- style="height:2em"
+!1850
+|rowspan=4 {{Party shading/Democratic}} |[[Levi S. Chatfield]] {{small|(D)}} {{efn |name=resigned}}
+|{{Party shading/Whig}} |[[Washington Hunt]] {{small|(W)}}{{efn |name=gov}}
+|rowspan=2 {{Party shading/Whig}} |17W, 15D
+|{{Party shading/Coalition}} |64D, 64W{{efn |Due to a disputed election with a Whig candidate, the Democrats had a nominal majority at the start of session, and elected [[Noble S. Elderkin]] Speaker and organized the chamber. Midway through the session, Elderkin departed to care for his ill wife, and the Whigs assumed functional control under [[Robert H. Pruyn]]. After the seat dispute was decided in favor of the Democrat, and after it had been determined Elderkin would be gone the rest of session, a Democrat, [[Ferral C. Dininny]], was again selected as Speaker.}}
+|- style="height:2em"
+!1851
+|rowspan=2 {{Party shading/Whig}} |[[Washington Hunt]] {{small|(W)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Sanford E. Church]] {{small|(D)}}
+|{{Party shading/Whig}} |[[Philo C. Fuller]] {{small|(W)}}{{efn |name=appointed}}
+|{{Party shading/Whig}} |82W, 44D, 1FS, 1I
+|''vacant''
+|rowspan=2 {{Party shading/Whig}} |17W, 16D, 1FS
+|- style="height:2em"
+!1852
+|rowspan=3 {{Party shading/Democratic}} |[[Henry S. Randall]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[John C. Wright (New York politician)|John C. Wright]] {{small|(D)}}
+|{{Party shading/Whig}} |[[James M. Cook]] {{small|(W)}}
+|rowspan=3 {{Party shading/Tie}} |16W, 16D{{efn |As a results of the even split, over the two year term, the Senate President Pro Tempore was traded between [[Edwin D. Morgan]], a Whig, and [[William McMurray (politician)|William McMurray]], a Democrat. Morgan had it for the first two months of 1852, then McMurray had it the last month of that session and the regular session of 1853, and then Morgan retained for the special session of 1853.}}
+|{{Party shading/Whig}} |65W, 63D
+|rowspan=6 {{Party shading/Whig}} |[[Hamilton Fish]] {{small|(W)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin Pierce|Pierce]]/<br>[[William R. King|King]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1853
+|rowspan=3 {{Party shading/Democratic}} |[[Horatio Seymour]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Benjamin Welch]] {{small|(D)}}{{efn |Welch successfully contested Cook's election, and served from November 20, 1852 to the end of the term.}}
+|rowspan=2 {{Party shading/Democratic}} |88D, 40W
+|rowspan=2 {{Party shading/Democratic}} |20D 11W, 1FS, 1I
+|- style="height:2em"
+|{{Party shading/Whig}} |[[Gardner Stow]] {{small|(W)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1854
+|rowspan=2 {{Party shading/Whig}} |[[Elias W. Leavenworth]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[Ogden Hoffman]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[James M. Cook]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |[[Elbridge G. Spaulding]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |24W, 8D
+|{{Party shading/Whig}} |77W, 47D, 2I, 1FS, 1{{abbr|AML|Anti-Maine Law}}
+|{{Party shading/Democratic}} |19D, 12W, 1I
+|- style="height:2em"
+!1855
+|rowspan=2 {{Party shading/Whig}} |[[Myron H. Clark]] {{small|(W)}}{{efn |name=fusion|Elected on a [[electoral fusion|fusion]] Whig-Free Democratic ticket.}}
+|rowspan=2 {{Party shading/Whig}} |[[Henry Jarvis Raymond]] {{small|(W)}}{{efn |name=fusion}}
+|{{Party shading/Whig}} |75W, 38D, 9KN, 4{{abbr|T|Temperance}}, 2R
+|rowspan=6 {{Party shading/Republican}} |[[William H. Seward]] {{small|(R)}}{{efn |name=res-sos}}
+|rowspan=2 {{Party shading/Opposition}} |23[[Opposition Party (Northern U.S.)|O]], 5D, 3KN, 2W
+|- style="height:2em"
+!1856
+|rowspan=2 {{Party shading/American}} |[[Joel T. Headley]] {{small|(KN)}}
+|rowspan=2 {{Party shading/American}} |[[Stephen B. Cushing]] {{small|(KN)}}
+|rowspan=2 {{Party shading/American}} |[[Lorenzo Burrows]] {{small|(KN)}}
+|rowspan=2 {{Party shading/American}} |[[Stephen Clark (New York treasurer)|Stephen Clark]] {{small|(KN)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 12KN, 4D{{efn |The Republicans organized the chamber.}}
+|{{Party shading/Coalition}} |47D, 44KN, 35R, 2W{{efn |A Democrat, [[Orville Robinson]], was elected with the help of Republican members on the 49th ballot.}}
+|rowspan=4 {{Party shading/Republican}} |[[John C. Frémont|Frémont]]/<br>[[William L. Dayton|Dayton]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1857
+|rowspan=2 {{Party shading/Republican}} |[[John A. King]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Henry R. Selden]] {{small|(R)}}
+|{{Party shading/Republican}} |80R, 40D, 8KN
+|rowspan=6 {{Party shading/Republican}} |[[Preston King (politician)|Preston King]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 12D
+|- style="height:2em"
+!1858
+|rowspan=2 {{Party shading/Democratic}} |[[Gideon J. Tucker]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Lyman Tremain]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Sanford E. Church]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Isaac V. Vanderpoel]] {{small|(D)}}
+|rowspan=2 {{Party shading/Coalition}} |15R, 14D, 2KN, 1IR{{efn |The Know Nothings and Independent Republican members worked with the Republicans to organize the chamber.}}
+|{{Party shading/Coalition}} |61R, 57D, 11KN{{efn |A Democrat, [[Thomas G. Alvord]], was elected with the help of the Know Nothings on the 53th ballot.}}
+|- style="height:2em"
+!1859
+|rowspan=4 {{Party shading/Republican}} |[[Edwin D. Morgan]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert Campbell (New York politician)|Robert Campbell]] {{small|(R)}}
+|{{Party shading/Republican}} |91R, 27D, 9KN, 1ID
+|rowspan=2 {{Party shading/Republican}} |26R, 7D
+|- style="height:2em"
+!1860
+|rowspan=2 {{Party shading/Democratic}} |[[David R. Floyd-Jones]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles G. Myers]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Robert Denniston]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Philip Dorsheimer]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 9D
+|{{Party shading/Republican}} |90R, 37D, 1&nbsp;vac.
+|rowspan=4 {{Party shading/Republican}} |[[Abraham Lincoln|Lincoln]]/<br>[[Hannibal Hamlin|Hamlin]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1861
+|{{Party shading/Republican}} |93R, 35D
+|rowspan=6 {{Party shading/Republican}} |[[Ira Harris]] {{small|(R)}}{{efn |name=appointed}}
+|rowspan=2 {{Party shading/Republican}} |23R, 10D
+|- style="height:2em"
+!1862
+|rowspan=2 {{Party shading/National Union}} |[[Horatio Ballard]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |[[Daniel S. Dickinson]] {{small|(NU)}}
+|rowspan=4 {{Party shading/National Union}} |[[Lucius Robinson]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |[[William B. Lewis (New York treasurer)|William Lewis]] {{small|(NU)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 8D
+|{{Party shading/Republican}} |92R, 35D, 1IR
+|- style="height:2em"
+!1863
+|rowspan=2 {{Party shading/Constitutional Union}} |[[Horatio Seymour]] {{small|(CU)}}
+|rowspan=2 {{Party shading/Constitutional Union}} |[[David R. Floyd-Jones]] {{small|(CU)}}
+|{{Party shading/Tie}} |64D, 64R{{efn |A Democrat, [[Theophilus C. Callicot]], was elected Speaker after cutting a deal with the Republicans that if he was elected, he would guarantee the election of a Republican Senator, later determined to be [[Edwin D. Morgan]].}}
+|rowspan=6 {{Party shading/Republican}} |[[Edwin D. Morgan]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 13R, 1U
+|- style="height:2em"
+!1864
+|rowspan=2 {{Party shading/National Union}} |[[Chauncey Depew]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |[[John Cochrane (politician)|John Cochrane]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |[[George W. Schuyler]] {{small|(NU)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 11D
+|{{Party shading/Republican}} |81R, 45D, 1ID, 1U
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{aye}}
+|- style="height:2em"
+!1865
+|rowspan=2 {{Party shading/National Union}} |[[Reuben Fenton]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |[[Thomas G. Alvord]] {{small|(NU)}}
+|{{Party shading/Republican}} |75R, 52D, 1ID
+|rowspan=4 {{Party shading/Republican}} |21R, 10D
+|- style="height:2em"
+!1866
+|rowspan=2 {{Party shading/Republican}} |[[Francis C. Barlow]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John H. Martindale]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Thomas Hillhouse (American politician)|Thomas Hillhouse]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Joseph Howland]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 5D
+|{{Party shading/Republican}} |90R, 38D
+|- style="height:2em"
+!1867
+|rowspan=2 {{Party shading/Republican}} |[[Reuben Fenton]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Stewart L. Woodford]] {{small|(R)}}
+|{{Party shading/Republican}} |83R, 45D
+|rowspan=15 {{Party shading/Republican}} |[[Roscoe Conkling]] {{small|(R)}}{{efn |name=garfield|Resigned in protest of President [[James A. Garfield]]'s position on federal appointments.}}
+|- style="height:2em"
+!1868
+|rowspan=4 {{Party shading/Democratic}} |[[Homer Augustus Nelson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Marshall B. Champlain]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William F. Allen (New York politician)|William F. Allen]] {{small|(D)}}{{efn |name=appeals|Resigned to become a judge of the [[New York Court of Appeals]].}}
+|rowspan=4 {{Party shading/Democratic}} |[[Wheeler H. Bristol]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 15D
+|{{Party shading/Democratic}} |73D, 55R
+|rowspan=4 {{Party shading/Democratic}} |[[Horatio Seymour|Seymour]]/<br>[[Francis Preston Blair Jr.|Blair]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1869
+|rowspan=4 {{Party shading/Democratic}} |[[John T. Hoffman]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Allen C. Beach]] {{small|(D)}}
+|{{Party shading/Republican}} |74R, 52D, 2ID
+|rowspan=6 {{Party shading/Republican}} |[[Reuben Fenton]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 13D
+|- style="height:2em"
+!1870
+|rowspan=2 {{Party shading/Democratic}} |[[Asher P. Nichols]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 14R
+|{{Party shading/Democratic}} |73D, 55R
+|- style="height:2em"
+!1871
+|{{Party shading/Democratic}} |65D, 63R
+|rowspan=2 {{Party shading/Democratic}} |16D, 15R
+|- style="height:2em"
+!1872
+|rowspan=2 {{Party shading/Republican}} |[[G. Hilton Scribner]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Francis C. Barlow]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Nelson K. Hopkins]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Thomas Raines]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |25R, 7D
+|{{Party shading/Republican}} |97R, 31D
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Republican}} |[[John Adams Dix]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John C. Robinson]] {{small|(R)}}
+|{{Party shading/Republican}} |92R, 34D, 2LR
+|{{Party shading/Republican}} |24R, 9D
+|- style="height:2em"
+!1874
+|rowspan=2 {{Party shading/Democratic}} |[[Diedrich Willers Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Daniel Pratt (New York politician)|Daniel Pratt]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Abraham Lansing]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 13D, 1IR
+|{{Party shading/Republican}} |72R, 54D, 2LR
+|{{Party shading/Republican}} |23R, 10D
+|- style="height:2em"
+!1875
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel J. Tilden]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[William Dorsheimer]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Thomas Raines]] {{small|(D)}}
+|{{Party shading/Democratic}} |74D, 53R, 1ID
+|rowspan=6 {{Party shading/Democratic}} |[[Francis Kernan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |17R, 16D
+|- style="height:2em"
+!1876
+|rowspan=2 {{Party shading/Democratic}} |[[John Bigelow]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Charles S. Fairchild]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Lucius Robinson]] {{small|(D)}}{{efn |name=gov}}
+|rowspan=2 {{Party shading/Democratic}} |[[Charles N. Ross]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 12D
+|{{Party shading/Republican}} |71R, 57D
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel J. Tilden|Tilden]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1877
+|rowspan=3 {{Party shading/Democratic}} |[[Lucius Robinson]] {{small|(D)}}{{efn |Per an 1874 amendment to the state constitution—taking effect January 1, 1875—Robinson's term was the first to last three years instead of two. As Tilden had been elected prior to the amendment's taking effect, he served the old two-year term.}}
+|rowspan=3 {{Party shading/Democratic}} |[[Frederic P. Olcott]] {{small|(D)}}{{efn |name=appointed}}
+|{{Party shading/Republican}} |70R, 58D
+|- style="height:2em"
+!1878
+|rowspan=2 {{Party shading/Democratic}} |[[Allen C. Beach]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Augustus Schoonmaker Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[James Mackin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 12D, 1ID
+|{{Party shading/Republican}} |66R, 61D, 1GB
+|- style="height:2em"
+!1879
+|{{Party shading/Republican}} |98R, 27D, 3GB
+|rowspan=2 {{Party shading/Republican}} |24R, 9D
+|- style="height:2em"
+!1880
+|rowspan=4 {{Party shading/Republican}} |[[Alonzo B. Cornell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[George Gilbert Hoskins]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Joseph Bradford Carr]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Hamilton Ward Sr.]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[James W. Wadsworth]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Nathan D. Wendell]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |25R, 7D
+|{{Party shading/Republican}} |91R, 35D, 1GB, 1ID
+|rowspan=5 {{Party shading/Republican}} |[[James A. Garfield|Garfield]]/<br>[[Chester A. Arthur|Arthur]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1881
+|rowspan=2 {{Party shading/Republican}} |80R, 47D, 1ID
+|{{Party shading/Republican}} |[[Thomas C. Platt]] {{small|(R)}}{{efn |name=garfield}}
+|rowspan=3 {{Party shading/Republican}} |19R, 13D, 1I
+|- style="height:2em"
+|rowspan=6 {{Party shading/Republican}} |[[Warner Miller]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Elbridge G. Lapham]] {{small|(R)}}
+|- style="height:2em"
+!1882
+|rowspan=2 {{Party shading/Republican}} |[[Leslie W. Russell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Ira Davenport (politician)|Ira Davenport]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert A. Maxwell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 15R
+|{{Party shading/Democratic}} |67D, 60R, 1IR
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Democratic}} |[[Grover Cleveland]] {{small|(D)}}{{efn |Resigned to become [[President of the United States]].}}
+|rowspan=2 {{Party shading/Democratic}} |[[David B. Hill]] {{small|(D)}}
+|{{Party shading/Democratic}} |86D, 38R, 1[[Central Labor Union|UL]], 1GB, 1ID, 1IR
+|rowspan=2 {{Party shading/Democratic}} |21D, 13R
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Democratic}} |[[Denis O'Brien (politician)|Denis O'Brien]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Alfred C. Chapin]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 13D
+|{{Party shading/Republican}} |72R, 56D
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1885
+|rowspan=7 {{Party shading/Democratic}} |[[David B. Hill]] {{small|(D)}}{{efn |name=ltelected}}
+|{{Party shading/Republican}} |[[Dennis McCarthy (New York politician)|Dennis McCarthy]] {{small|(R)}}{{efn |name=actingLG}}
+|{{Party shading/Republican}} |74R, 54D
+|rowspan=7 {{Party shading/Republican}} |[[William M. Evarts]] {{small|(R)}}
+|rowspan=2 {{Party shading/Tie}} |17D, 17R
+|- style="height:2em"
+!1886
+|rowspan=6 {{Party shading/Democratic}} |[[Edward F. Jones]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Frederick Cook (American politician)|Frederick Cook]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Lawrence J. Fitzgerald]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 12D
+|{{Party shading/Republican}} |77R, 49D, 1ID, 1IR
+|- style="height:2em"
+!1887
+|{{Party shading/Republican}} |74R, 54D
+|rowspan=6 {{Party shading/Republican}} |[[Frank Hiscock]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |19R, 15D
+|- style="height:2em"
+!1888
+|rowspan=4 {{Party shading/Democratic}} |[[Charles F. Tabor]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Edward Wemple]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 11D
+|{{Party shading/Republican}} |72R, 55D, 1ID
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Levi P. Morton|Morton]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1889
+|{{Party shading/Republican}} |77R, 51D
+|- style="height:2em"
+!1890
+|rowspan=4 {{Party shading/Democratic}} |[[Frank Rice (politician)|Frank Rice]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Elliot Danforth]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 13D
+|{{Party shading/Republican}} |71R, 57D
+|- style="height:2em"
+!1891
+|{{Party shading/Democratic}} |68D, 59R, 1IR
+|rowspan=2 {{Party shading/Democratic}} |23D, 11R
+|- style="height:2em"
+!1892
+|rowspan=3 {{Party shading/Democratic}} |[[Roswell P. Flower]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[William F. Sheehan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Simon W. Rosendale]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Frank Campbell (New York politician)|Frank Campbell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 14R, 1IR
+|{{Party shading/Democratic}} |67D, 61R
+|rowspan=5 {{Party shading/Democratic}} |[[David B. Hill]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1893
+|{{Party shading/Democratic}} |74D, 54R
+|rowspan=6 {{Party shading/Democratic}} |[[Edward Murphy Jr.]] {{small|(D)}}
+|{{Party shading/Democratic}} |20D, 14R
+|- style="height:2em"
+!1894
+|rowspan=5 {{Party shading/Republican}} |[[John Palmer (1842–1905)|John Palmer]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Theodore E. Hancock]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[James A. Roberts]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Addison B. Colvin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 12D, 1ID
+|{{Party shading/Republican}} |71R, 57D
+|{{Party shading/Democratic}} |19D, 15R
+|- style="height:2em"
+!1895
+|rowspan=2 {{Party shading/Republican}} |[[Levi P. Morton]] {{small|(R)}}{{efn |Per the 1894 state constitution, his term was the first to last two years rather than three.}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles T. Saxton]] {{small|(R)}}
+|{{Party shading/Republican}} |105R, 23D
+|rowspan=4 {{Party shading/Republican}} |28R, 6D
+|- style="height:2em"
+!1896
+|rowspan=3 {{Party shading/Republican}} |35R, 14D, 1IR{{efn |Due to a change in the [[Constitution of New York]] in 1894, the Senate began to have its elections during even years, with a three-year term with the election of 1895 to allow for a transition.}}
+|{{Party shading/Republican}} |103R, 47D
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Garret Hobart|Hobart]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Republican}} |[[Frank S. Black]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Timothy L. Woodruff]] {{small|(R)}}
+|{{Party shading/Republican}} |114R, 35D, 1I
+|rowspan=12 {{Party shading/Republican}} |[[Thomas C. Platt]] {{small|(R)}}
+|- style="height:2em"
+!1898
+|{{Party shading/Republican}} |77R, 69D, 3{{abbr|CU|City Union}}, 1IR
+|- style="height:2em"
+!1899
+|rowspan=2 {{Party shading/Republican}} |[[Theodore Roosevelt]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John T. McDonough]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John C. Davies (lawyer)|John C. Davies]] {{small|(R)}}
+|{{Party shading/Republican}} |[[William J. Morgan (New York politician)|William J. Morgan]] {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |[[John P. Jaeckel]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 23D
+|{{Party shading/Republican}} |87R, 63D
+|rowspan=13 {{Party shading/Republican}} |[[Chauncey Depew]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 16R
+|- style="height:2em"
+!1900
+|{{Party shading/Republican}} |[[Theodore P. Gilman]] {{small|(R)}}{{efn |name=appointed}}
+|{{Party shading/Republican}} |92R, 57D, 1&nbsp;vac.
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1901
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Odell (politician)|Benjamin Odell]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Erastus C. Knight]] {{small|(R)}}{{efn |Resigned to become [[List of mayors of Buffalo, New York|Mayor of Buffalo]].}}
+|rowspan=2 {{Party shading/Republican}} |35R, 15D
+|{{Party shading/Republican}} |105R, 45D
+|rowspan=2 {{Party shading/Republican}} |22R, 12D
+|- style="height:2em"
+!1902
+|{{Party shading/Republican}} |[[Nathan L. Miller]] {{small|(R)}}{{efn |Appointed to fill unexpired term, reelected, then resigned to become a justice of the [[New York Supreme Court]].}}
+|{{Party shading/Republican}} |106R, 42D, 2ID
+|- style="height:2em"
+!1903
+|rowspan=2 {{Party shading/Republican}} |[[Frank W. Higgins]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John F. O'Brien (secretary of state)|John F. O'Brien]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[John Cunneen]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |[[Otto Kelsey]] {{small|(R)}}{{efn |Resigned to become New York State Superintendent of Insurance.}}
+|rowspan=2 {{Party shading/Republican}} |[[John G. Wickser]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 22D
+|{{Party shading/Republican}} |89R, 61D
+|rowspan=2 {{Party shading/Republican}} |20R, 17D
+|- style="height:2em"
+!1904
+|{{Party shading/Republican}} |97R, 52D, 1{{abbr|IC|Ind. Cit.}}
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=2 {{Party shading/Republican}} |[[Frank W. Higgins]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Matthew Linn Bruce]] {{small|(R)}}{{efn |name=nysup}}
+|rowspan=2 {{Party shading/Republican}} |[[Julius Marshuetz Mayer]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John G. Wallenmeier Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 20D
+|{{Party shading/Republican}} |104R, 46D
+|rowspan=4 {{Party shading/Republican}} |26R, 11D
+|- style="height:2em"
+!1906
+|{{Party shading/Republican}} |[[John Raines]] {{small|(R)}} {{efn |name=actingLG}}
+|{{Party shading/Republican}} |[[William C. Wilson (New York politician)|William C. Wilson]] {{small|(R)}}{{efn |name=appointed}}
+|{{Party shading/Republican}} |111R, 35D, 3[[Municipal Ownership League|MOL]], 1ID
+|- style="height:2em"
+!1907
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes]] {{small|(R)}}{{efn |Resigned to take seat as [[Associate Justice of the Supreme Court of the United States|Associate Justice of the U.S. Supreme Court]].}}
+|rowspan=2 {{Party shading/Democratic}} |[[Lewis Stuyvesant Chanler]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[John Sibley Whalen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William S. Jackson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Martin H. Glynn]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Julius Hauser]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 20D
+|{{Party shading/Republican}} |98R, 51D, 1[[Independence Party (United States)|IL]]
+|- style="height:2em"
+!1908
+|{{Party shading/Republican}} |96R, 54D
+|rowspan=5 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1909
+|rowspan=2 {{Party shading/Republican}} |[[Horace White]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Samuel S. Koenig]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Edward R. O'Malley]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Charles H. Gaus]] {{small|(R)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Republican}} |[[Thomas B. Dunn]]{{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |35R, 16D
+|rowspan=2 {{Party shading/Republican}} |99R, 51D
+|rowspan=7 {{Party shading/Republican}} |[[Elihu Root]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |25R, 12D
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Otto Kelsey]] {{small|(R)}}{{efn |Acted until the appointment of a successor.}}
+|- style="height:2em"
+!1910
+|{{Party shading/Republican}} |[[Horace White]] {{small|(R)}}{{efn |name=assumed}}
+|{{Party shading/Republican}} |[[George H. Cobb]] {{small|(R)}}{{efn |name=actingLG}}
+|{{Party shading/Republican}} |[[Clark Williams (New York politician)|Clark Williams]] {{small|(R)}}{{efn |name=appointed}}
+|{{Party shading/Republican}} |94R, 56D
+|- style="height:2em"
+!1911
+|rowspan=2 {{Party shading/Democratic}} |[[John Alden Dix]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas F. Conway]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Edward Lazansky]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Thomas Carmody (New York politician)|Thomas Carmody]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Sohmer]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[John J. Kennedy (New York State Treasurer)|John J. Kennedy]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |29D, 21R, 1{{abbr|IL|Independence League}}
+|{{Party shading/Democratic}} |87D, 63R
+|rowspan=6 {{Party shading/Democratic}} |[[James A. O'Gorman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 15R
+|- style="height:2em"
+!1912
+|{{Party shading/Republican}} |101R, 48D, 1Soc
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|{{Party shading/Democratic}} |[[William Sulzer]] {{small|(D)}}{{efn |Impeached and removed from office for campaign contribution fraud.}}
+|{{Party shading/Democratic}} |[[Martin H. Glynn]] {{small|(D)}}{{efn |name=actingLG}}
+|rowspan=2 {{Party shading/Democratic}} |[[Mitchell May]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |33D, 16R, 2Prog
+|{{Party shading/Democratic}} |104D, 42R, 4Prog
+|rowspan=2 {{Party shading/Democratic}} |31D, 12R, 1Prog
+|- style="height:2em"
+!1914
+|{{Party shading/Democratic}} |[[Martin H. Glynn]] {{small|(D)}}{{efn |name=assumed}}
+|{{Party shading/Democratic}} |[[Robert F. Wagner]] {{small|(D)}}{{efn |name=actingLG}}
+|{{Party shading/Democratic}} |[[James A. Parsons]] {{small|(D)}} {{efn |name=appointed}}
+|{{Party shading/Bull Moose}} |[[Homer D. Call]] {{small|(Prog)}}{{efn |Elected by Legislature.}}
+|{{Party shading/Republican}} |82R, 48D, 20Prog
+|- style="height:2em"
+!1915
+|rowspan=4 {{Party shading/Republican}} |[[Charles Seymour Whitman]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Edward Schoeneck]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Francis Hugo]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Egburt E. Woodbury]] {{small|(R)}}{{efn |name=ill}}
+|rowspan=6 {{Party shading/Republican}} |[[Eugene M. Travis]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[James L. Wells]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |34R, 17D
+|{{Party shading/Republican}} |100R, 50D
+|rowspan=12 {{Party shading/Republican}} |[[James W. Wadsworth Jr.|James W.<br>Wadsworth Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 19D, 1Soc
+|- style="height:2em"
+!1916
+|{{Party shading/Republican}} |97R, 52D, 1Soc
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes|Hughes]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1917
+|rowspan=2 {{Party shading/Republican}} |[[Merton E. Lewis]] {{small|(R)}}{{efn |Appointed for remainder of first half of term, elected to fill second half of term.}}
+|rowspan=2 {{Party shading/Republican}} |36R, 15D
+|{{Party shading/Republican}} |100R, 48D, 2Soc
+|rowspan=6 {{Party shading/Republican}} |[[William M. Calder]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 16D, 1Soc
+|- style="height:2em"
+!1918
+|{{Party shading/Republican}} |96R, 44D, 10Soc
+|- style="height:2em"
+!1919
+|rowspan=2 {{Party shading/Democratic}} |[[Al Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Harry C. Walker]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles D. Newton]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 22D
+|{{Party shading/Republican}} |94R, 54D, 2Soc
+|rowspan=2 {{Party shading/Republican}} |24R, 19D
+|- style="height:2em"
+!1920
+|{{Party shading/Republican}} |111R, 34D, 5Soc
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Republican}} |[[Nathan L. Miller]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Jeremiah Wood]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John J. Lyons]] {{small|(R)}}
+|{{Party shading/Republican}} |[[James A. Wendell]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |[[N. Monroe Marshall]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |39R, 11D, 1Soc
+|{{Party shading/Republican}} |119R, 28D, 3S
+|rowspan=2 {{Party shading/Republican}} |33R, 9D, 1Soc
+|- style="height:2em"
+!1922
+|{{Party shading/Republican}} |[[William J. Maier]] {{small|(R)}}{{efn |name=appointed}}
+|{{Party shading/Republican}} |96R, 53D, 1Soc
+|- style="height:2em"
+!1923
+|rowspan=4 {{Party shading/Democratic}} |[[Al Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[George R. Lunn]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[James A. Hamilton]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Carl Sherman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[James W. Fleming]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[George K. Shuler]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 25R
+|{{Party shading/Republican}} |81R, 69D
+|rowspan=4 {{Party shading/Democratic}} |[[Royal S. Copeland]] {{small|(D)}}
+|{{Party shading/Tie}} |21R, 21D, 1&nbsp;vac.
+|- style="height:2em"
+!1924
+|{{Party shading/Republican}} |86R, 64D
+|rowspan=3 {{Party shading/Democratic}} |22D, 21R
+|rowspan=3 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Republican}} |[[Seymour Lowman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Florence E. S. Knapp]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Albert Ottinger]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Vincent B. Murphy]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Lewis H. Pounds]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 22D
+|{{Party shading/Republican}} |96R, 54D
+|- style="height:2em"
+!1926
+|{{Party shading/Republican}} |91R, 59D
+|}
+
+== 1927–present ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=4 |Executive offices
+!colspan=2 |[[New York State Legislature|State Legislature]]
+!colspan=3 |[[New York's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[Governor of New York|Governor]]
+!class=unsortable |[[Lieutenant Governor of New York|Lt. Governor]]
+!class=unsortable |[[Attorney General of New York|Attorney General]]
+!class=unsortable |[[New York State Comptroller|Comptroller]]
+!class=unsortable |[[New York State Senate|Senate]]
+!class=unsortable |[[New York State Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from New York|Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from New York|Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from New York|House]]
+|- style="height:2em"
+!1927
+|rowspan=2 {{Party shading/Democratic}} |[[Al Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Edwin Corning]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Albert Ottinger]] {{small|(R)}}
+|rowspan=14 {{Party shading/Democratic}} |[[Morris S. Tremaine]] {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |27R, 24D
+|{{Party shading/Republican}} |84R, 66D
+|rowspan=11 {{Party shading/Democratic}} |[[Royal S. Copeland]] {{small|(D)}}{{efn |name=died}}
+|rowspan=22 {{Party shading/Democratic}} |[[Robert F. Wagner]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 18R
+|
+|- style="height:2em"
+!1928
+|{{Party shading/Republican}} |88R, 62D
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Herbert H. Lehman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Hamilton Ward Jr.]] {{small|(R)}}
+|{{Party shading/Republican}} |89R, 61D
+|rowspan=2 {{Party shading/Democratic}} |23D, 20R
+|- style="height:2em"
+!1930
+|{{Party shading/Republican}} |86R, 63D, 1&nbsp;vac.
+|- style="height:2em"
+!1931
+|rowspan=12 {{Party shading/Democratic}} |[[John J. Bennett Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 25D
+|rowspan=2 {{Party shading/Republican}} |80R, 70D
+|{{Party shading/Democratic}} |22D, 20R, 1&nbsp;vac.
+|- style="height:2em"
+!1932
+|{{Party shading/Democratic}} |23D, 20R
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=9 {{Party shading/Democratic}} |[[Herbert H. Lehman]] {{small|(D)}}{{efn |Resigned when appointed Director of Foreign Relief and Rehabilitation Operations for the [[United States Department of State]].}}
+|rowspan=6 {{Party shading/Democratic}} |[[M. William Bray]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 25R
+|{{Party shading/Republican}} |77R, 73D
+|rowspan=5 {{Party shading/Democratic}} |29D, 16R
+|- style="height:2em"
+!1934
+|{{Party shading/Republican}} |85R, 65D
+|- style="height:2em"
+!1935
+|rowspan=4 {{Party shading/Democratic}} |29D, 22R
+|{{Party shading/Democratic}} |77D, 73R
+|- style="height:2em"
+!1936
+|{{Party shading/Republican}} |82R, 67D, 1&nbsp;vac.
+|- style="height:2em"
+!1937
+|{{Party shading/Republican}} |76R, 74D
+|- style="height:2em"
+!1938
+|{{Party shading/Republican}} |84R, 65D, 5AL
+|rowspan=9 {{Party shading/Democratic}} |[[James M. Mead]] {{small|(D)}}{{efn |Appointed to fill remainder of term, then subsequently elected to in his own right.}}
+|{{Party shading/Democratic}} |28D, 17R
+|- style="height:2em"
+!1939
+|rowspan=3 {{Party shading/Democratic}} |[[Charles Poletti]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 24D
+|rowspan=2 {{Party shading/Republican}} |85R, 64D, 1AL
+|rowspan=4 {{Party shading/Democratic}} |25D, 19R, 1AL
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|{{Party shading/Democratic}} |[[Harry D. Yates]] {{small|(D)}}{{efn |name=actingLG}}
+|rowspan=2 {{Party shading/Republican}} |30R, 21D
+|rowspan=2 {{Party shading/Republican}} |87R, 62D, 1AL
+|- style="height:2em"
+!1942
+|{{Party shading/Democratic}} |[[Charles Poletti]] {{small|(D)}}{{efn |name=assumed}}
+|{{Party shading/Republican}} |[[Joe R. Hanley]] {{small|(R)}}{{efn |name=actingLG}}
+|{{Party shading/American Labor}} |[[Joseph V. O'Leary]] {{small|(AL)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1943
+|rowspan=12 {{Party shading/Republican}} |[[Thomas E. Dewey]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Thomas W. Wallace]] {{small|(R)}}{{efn |name=died}}
+|rowspan=12 {{Party shading/Republican}} |[[Nathaniel L. Goldstein]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Frank C. Moore (politician)|Frank C. Moore]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 20D
+|rowspan=2 {{Party shading/Republican}} |90R, 59D, 1AL
+|{{Party shading/Democratic}} |23R, 21D, 1AL
+|- style="height:2em"
+!1944
+|rowspan=7 {{Party shading/Republican}} |[[Joe R. Hanley]] {{small|(R)}}{{efn |As majority Leader of the [[New York State Senate]], served as Acting Lt. Governor upon succession of Lt. Governor to Governor, then elected in his own right.}}
+|rowspan=3 {{Party shading/Tie}} |22D, 22R, 1AL
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=2 {{Party shading/Republican}} |35R, 21D
+|rowspan=2 {{Party shading/Republican}} |94R, 55D, 1AL
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=2 {{Party shading/Republican}} |41R, 14D, 1AL
+|rowspan=2 {{Party shading/Republican}} |109R, 40D, 1AL
+|rowspan=12 {{Party shading/Republican}} |[[Irving Ives]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 15D, 2AL
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[Earl Warren|Warren]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1949
+|rowspan=2 {{Party shading/Republican}} |31R, 25D
+|rowspan=4 {{Party shading/Republican}} |87R, 63D
+|{{Party shading/Republican}} |[[John Foster Dulles]] {{small|(R)}}{{efn |name=appointed}}
+|{{Party shading/Democratic}} |23D, 20R, 1AL
+|- style="height:2em"
+!1950
+|rowspan=7 {{Party shading/Democratic}} |[[Herbert H. Lehman]] {{small|(D)}}
+|{{Party shading/Democratic}} |22D, 20R, 1AL, 1Lib
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Republican}} |[[Frank C. Moore (politician)|Frank C. Moore]] {{small|(R)}}{{efn |Resigned to become President of [[Nelson Rockefeller]]'s Government Affairs Foundation.}}
+|rowspan=4 {{Party shading/Republican}} |[[J. Raymond McGovern]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |32R, 23D, 1AL
+|{{Party shading/Democratic}} |23D, 22R
+|- style="height:2em"
+!1952
+|{{Party shading/Republican}} |23R, 22D
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|{{Party shading/Republican}} |[[Arthur H. Wicks]] {{small|(R)}}{{efn |name=actingLG}}{{efn |Forced to resign when it became known that he had made frequent visits to convicted labor leader Joseph S. Fay while the latter was incarcerated at [[Sing Sing]] prison.}}
+|rowspan=2 {{Party shading/Republican}} |37R, 19D
+|rowspan=2 {{Party shading/Republican}} |98R, 52D
+|rowspan=2 {{Party shading/Republican}} |27R, 16D
+|- style="height:2em"
+!1954
+|{{Party shading/Republican}} |[[Walter J. Mahoney]] {{small|(R)}}{{efn |name=actingLG}}
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Democratic}} |[[W. Averell Harriman]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[George DeLuca]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Jacob Javits]] {{small|(R)}}{{efn |name=senate}}
+|rowspan=25 {{Party shading/Democratic}} |[[Arthur Levitt Sr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |34R, 24D
+|rowspan=2 {{Party shading/Republican}} |90R, 60D
+|rowspan=4 {{Party shading/Republican}} |26R, 17D
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=23 {{Party shading/Republican}} |[[Louis J. Lefkowitz]] {{small|(R)}}{{efn |name=legislature|Elected by State Legislature to fill unexpired term, later elected in their own right.}}
+|rowspan=2 {{Party shading/Republican}} |38R, 20D
+|rowspan=2 {{Party shading/Republican}} |96R, 54D
+|rowspan=25 {{Party shading/Republican}} |[[Jacob Javits]] {{small|(R)}}
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=15 {{Party shading/Republican}} |[[Nelson Rockefeller]] {{small|(R)}}{{efn |Resigned to devote himself to his [[Commission on Critical Choices for Americans]].}}
+|rowspan=15 {{Party shading/Republican}} |[[Malcolm Wilson (politician)|Malcolm Wilson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |34R, 24D
+|rowspan=2 {{Party shading/Republican}} |92R, 58D
+|rowspan=6 {{Party shading/Republican}} |[[Kenneth Keating]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 19D
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Republican}} |33R, 25D
+|rowspan=2 {{Party shading/Republican}} |84R, 66D
+|rowspan=2 {{Party shading/Democratic}} |22D, 21R
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Republican}} |85R, 65D
+|rowspan=2 {{Party shading/Republican}} |21R, 20D
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|{{Party shading/Democratic}} |33D, 25R
+|{{Party shading/Democratic}} |88D, 62R
+|rowspan=4 {{Party shading/Democratic}} |[[Robert F. Kennedy]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 14R
+|- style="height:2em"
+!1966
+|{{Party shading/Republican}} |37R, 28D
+|{{Party shading/Democratic}} |90D, 75R
+|- style="height:2em"
+!1967
+|rowspan=2 {{Party shading/Republican}} |31R, 26D
+|rowspan=2 {{Party shading/Democratic}} |80D, 70R
+|rowspan=6 {{Party shading/Democratic}} |26D, 15R
+|- style="height:2em"
+!1968
+|rowspan=4 {{Party shading/Democratic}} |[[Hubert Humphrey|Humphrey]]/<br>[[Edmund Muskie|Muskie]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Republican}} |33R, 24D
+|rowspan=2 {{Party shading/Republican}} |76R, 72D, 2Con{{efn |name=conservative|Conservative member(s) caucused with the Republicans.}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles Goodell]] {{small|(R)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=2 {{Party shading/Republican}} |32R, 25D
+|rowspan=2 {{Party shading/Republican}} |77R, 70D, 2Con, 1UMAB{{efn |Conservative member(s) caucused with the Republicans. John J. Walsh, a registered Democrat, ran for re-election on the ticket of an "Upper Manhattan Apartment Building Party", and defeated the regular Democratic candidate [[Edward H. Lehner]]<ref>{{Cite news|last=Clines|first=Francis X.|date=1970-11-10|title=Recanvass Names Walsh Victor By 99 Votes in Assembly Race|language=en-US|work=The New York Times|url=https://www.nytimes.com/1970/11/10/archives/recanvass-names-walsh-victor-by-99-votes-in-assembly-race.html|access-date=2021-06-17|issn=0362-4331}}</ref>}}
+|rowspan=7 {{Party shading/Conservative}} |[[James L. Buckley]] {{small|({{abbr|Con|Conservative}})}}
+|- style="height:2em"
+!1972
+|rowspan=5 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1973
+|rowspan=3 {{Party shading/Republican}} |37R, 23D
+|rowspan=3 {{Party shading/Republican}} |83R, 66D, 1Con{{efn |name=conservative}}
+|rowspan=3 {{Party shading/Democratic}} |22D, 17R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Malcolm Wilson (politician)|Malcolm Wilson]] {{small|(R)}}{{efn |name=assumed}}
+|rowspan=2 {{Party shading/Republican}} |[[Warren M. Anderson]] {{small|(R)}}{{efn |name=actingLG}}
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=8 {{Party shading/Democratic}} |[[Hugh Carey]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Mary Anne Krupsak]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |34R, 26D
+|rowspan=2 {{Party shading/Democratic}} |88D, 62R
+|rowspan=2 {{Party shading/Democratic}} |27D, 12R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1977
+|rowspan=6 {{Party shading/Republican}} |35R, 25D
+|rowspan=2 {{Party shading/Democratic}} |90D, 60R
+|rowspan=24 {{Party shading/Democratic}} |[[Daniel Patrick Moynihan|Daniel Patrick<br>Moynihan]] {{small|(D)}}
+|{{Party shading/Democratic}} |28D, 11R
+|- style="height:2em"
+!1978
+|{{Party shading/Democratic}} |27D, 12R
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Democratic}} |[[Mario Cuomo]] {{small|(D)}}
+|rowspan=15 {{Party shading/Democratic}} |[[Robert Abrams]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=15 {{Party shading/Republican}} |[[Edward Regan]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |86D, 64R
+|rowspan=2 {{Party shading/Democratic}} |26D, 13R
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Democratic}} |85D, 64R, 1Lib{{efn |name=caucus|Members of the Liberal, Independence, and Working Families parties caucused with Democrats.}}
+|rowspan=18 {{Party shading/Republican}} |[[Al D'Amato]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 17R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=12 {{Party shading/Democratic}} |[[Mario Cuomo]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Alfred DelBello]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=6 {{Party shading/Republican}} |35R, 26D
+|rowspan=2 {{Party shading/Democratic}} |98D, 52R
+|rowspan=2 {{Party shading/Democratic}} |20D, 14R
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=2 {{Party shading/Democratic}} |92D, 56R, 2Lib{{efn |name=caucus}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 15R
+|- style="height:2em"
+!1986
+|{{Party shading/Republican}} |[[Warren M. Anderson]] {{small|(R)}}{{efn |name=actingLG}}
+|- style="height:2em"
+!1987
+|rowspan=8 {{Party shading/Democratic}} |[[Stan Lundine]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |92D, 58R
+|rowspan=2 {{Party shading/Democratic}} |20D, 14R
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Democratic}} |[[Michael Dukakis|Dukakis]]/<br>[[Lloyd Bentsen|Bentsen]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1989
+|rowspan=2 {{Party shading/Republican}} |34R, 27D
+|rowspan=4 {{Party shading/Democratic}} |21D, 13R
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=4 {{Party shading/Republican}} |35R, 26D
+|rowspan=2 {{Party shading/Democratic}} |95D, 55R
+|- style="height:2em"
+!1992
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Democratic}} |100D, 50R
+|rowspan=2 {{Party shading/Democratic}} |18D, 13R
+|- style="height:2em"
+!1994
+|{{Party shading/Democratic}} |[[Oliver Koppell]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[H. Carl McCall]] {{small|(D)}}
+|- style="height:2em"
+!1995
+|rowspan=12 {{Party shading/Republican}} |[[George Pataki]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Betsy McCaughey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Dennis Vacco]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |36R, 25D
+|rowspan=4 {{Party shading/Democratic}} |95D, 55R
+|rowspan=2 {{Party shading/Democratic}} |17D, 14R
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!1997
+|rowspan=2 {{Party shading/Democratic}} |[[Betsy McCaughey]] {{small|(D)}}{{efn |Switched parties after not being selected to be Governor Pataki's running mate for the [[1998 New York gubernatorial election|1998 election]].}}
+|rowspan=4 {{Party shading/Republican}} |35R, 26D
+|rowspan=2 {{Party shading/Democratic}} |18D, 13R
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=8 {{Party shading/Republican}} |[[Mary Donohue]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Eliot Spitzer]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |98D, 52R
+|rowspan=34 {{Party shading/Democratic/current}} |[[Chuck Schumer]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |19D, 12R
+|- style="height:2em"
+!2000
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Republican}} |36R, 25D
+|rowspan=10 {{Party shading/Democratic}} |[[Hillary Clinton]] {{small|(D)}}{{efn |name=res-sos}}
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=4 {{Party shading/Democratic}} |[[Alan Hevesi]] {{small|(D)}}{{efn |Re-elected in 2006, but resigned prior to beginning of the new term.}}
+|rowspan=2 {{Party shading/Republican}} |37R, 25D
+|rowspan=2 {{Party shading/Democratic}} |102D, 48R
+|rowspan=2 {{Party shading/Democratic}} |19D, 10R
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry|Kerry]]/<br>[[John Edwards|Edwards]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |35R, 27D
+|{{Party shading/Democratic}} |104D, 46R
+|rowspan=2 {{Party shading/Democratic}} |20D, 9R
+|- style="height:2em"
+!2006
+|{{Party shading/Democratic}} |103D, 47R
+|- style="height:2em"
+!2007
+|rowspan=2 {{Party shading/Democratic}} |[[Eliot Spitzer]] {{small|(D)}}{{efn |name=resigned}}<ref>{{Cite news |date=March 12, 2008 |title=Spitzer Resigns After Sex Scandal, Pressure |url=https://www.npr.org/templates/story/story.php?storyId=88134976 |publisher=[[NPR]] |access-date=11 December 2021}}</ref>
+|rowspan=2 {{Party shading/Democratic}} |[[David Paterson]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Andrew Cuomo]] {{small|(D)}}
+|rowspan=26 {{Party shading/Democratic/current}} |[[Thomas DiNapoli]] {{small|(D)}}{{efn |name=legislature}}
+|rowspan=2 {{Party shading/Republican}} |33R, 29D
+|rowspan=4 {{Party shading/Democratic}} |106D, 42R, 1Ind, 1WF{{efn |name=caucus}}
+|rowspan=4 {{Party shading/Democratic}} |23D, 6R
+|- style="height:2em"
+!rowspan=3 |2008
+|rowspan=12 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=6 {{Party shading/Democratic}} |[[David Paterson]] {{small|(D)}}{{efn |name=assumed}}
+|{{Party shading/Republican}} |[[Joseph Bruno]] {{small|(R)}}{{efn |name=actingLG}}
+|rowspan=2 {{Party shading/Republican}} |32R, 30D
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Dean Skelos]] {{small|(R)}}{{efn |name=actingLG}}
+|- style="height:2em"
+!rowspan=3 |2009
+|{{Party shading/Democratic}} |[[Malcolm Smith (American politician)|Malcolm Smith]] {{small|(D)}}{{efn |name=actingLG}}
+|rowspan=4 {{Party shading/Democratic}} |32D, 30R{{efn |Democrats [[Pedro Espada Jr.]] and [[Hiram Monserrate]] briefly interrupted the majority by voting for a Republican organizing resolution, precipitating the [[2009 New York State Senate leadership crisis]]. Democrats ended up retaining their majority for the remainder of the term.}}
+|rowspan=4 {{Party shading/Democratic}} |107D, 41R, 1Ind, 1WF{{efn |name=caucus}}
+|rowspan=22 {{Party shading/Democratic/current}} |[[Kirsten Gillibrand]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=3 {{Party shading/Democratic}} |26D, 3R
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Pedro Espada Jr.]] {{small|(D)}}{{efn |name=actingLG}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Richard Ravitch]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!2010
+|{{Party shading/Democratic}} |27D, 2R{{efn |Republican [[John M. McHugh]] of the 23rd district resigned from Congress on September 21, 2009, after being confirmed as the [[United States Secretary of the Army]]. Democrat [[Bill Owens (New York politician)|Bill Owens]] won a [[2009 New York's 23rd congressional district special election|special election]] to succeed him on November 3, 2009.}}
+|- style="height:2em"
+!2011
+|rowspan=11 {{Party shading/Democratic}} |[[Andrew Cuomo]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Robert Duffy (politician)|Robert Duffy]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Eric Schneiderman]] {{small|(D)}}{{efn |name=resigned}}<ref>{{Cite web|title=Statement By Attorney General Eric T. Schneiderman {{!}} New York State Attorney General|url=https://ag.ny.gov/press-release/2018/statement-attorney-general-eric-t-schneiderman|access-date=2021-06-17|website=ag.ny.gov|date=8 May 2018 |language=en}}</ref>
+|rowspan=2 {{Party shading/Republican}} |37R/IDC, 26D
+|rowspan=2 {{Party shading/Democratic}} |98D, 51R, 1Ind{{efn |name=caucus}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 8R{{efn |Democrats and Republicans each flipped one seat in special elections held in 2011, keeping the partisan composition the same as after the 2010 elections.}}
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|rowspan=2 {{Party shading/Coalition}} |35R/IDC, 28D{{efn |name=idc|Members of the [[Independent Democratic Conference]], along with one other Democratic Senator, [[Simcha Felder]], formed a power-sharing deal with the Republicans.}}
+|rowspan=2 {{party shading/Democratic}} |105D, 44R, 1Ind{{efn |name=caucus}}
+|rowspan=2 {{party shading/Democratic}} |21D, 6R
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=7 {{party shading/Democratic}} |[[Kathy Hochul]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |37R/IDC, 26D
+|rowspan=2 {{party shading/Democratic}} |105D, 43R, 1Ind, 1Con{{efn |name=caucus}}{{efn |name=conservative}}
+|rowspan=4 {{party shading/Democratic}} |18D, 9R
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|rowspan=2 {{Party shading/Coalition}} |39R/IDC, 24D{{efn |name=idc}}
+|rowspan=7 {{party shading/Democratic}} |106D, 43R, 1Ind{{efn |name=caucus}}
+|- style="height:2em"
+!2018
+|{{Party shading/Democratic}} |[[Barbara Underwood]] {{small|(D)}}{{efn |Was Acting Attorney General from May 8 to May 22, was subsequently appointed May 22 by the New York Legislature to serve out the remainder of Schneiderman's term.}}
+|- style="height:2em"
+!2019
+|rowspan=10 {{Party shading/Democratic/current}} |[[Letitia James]] {{small|(D)}}
+|{{party shading/Democratic}} |39D, 23R, 1ID
+|rowspan=2 {{party shading/Democratic}} |21D, 6R
+|- style="height:2em"
+!2020
+|{{party shading/Democratic}} |40D, 23R{{efn |Democratic Senator [[Simcha Felder]], who had caucused with the Republican majority, was without a caucus until July 2019 when he was accepted into the Democratic majority.}}
+|rowspan=6 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |2021
+|rowspan=4 {{Party shading/Democratic}} |43D, 20R
+|rowspan=4 {{Party shading/Democratic}} |19D, 8R
+|- style="height:2em"
+|rowspan=7 {{Party shading/Democratic/current}} |[[Kathy Hochul]] {{small|(D)}}{{efn |name=assumed}}
+|rowspan=2 {{Party shading/Democratic}} |[[Brian Benjamin]] {{small|(D)}}{{efn |name=appointed}}{{efn |Senate Temporary President [[Andrea Stewart-Cousins]] {{small|(D)}} served as Acting Lieutenant Governor from August 24–September 9, 2021}}{{efn |name=resigned}}<ref>{{cite web|url=https://www.nytimes.com/2022/04/12/nyregion/brian-benjamin-resigns-indicted.html|title=Lt. Gov. Benjamin Resigns Following Campaign Finance Indictment|first1=William K.|last1=Rashbaum|first2=Nicholas|last2=Fandos|first3=Jeffrey C.|last3=Mays|date=April 12, 2022|work=[[The New York Times]]}}</ref>
+|- style="height:2em"
+!rowspan=2 |2022
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic/current}} |[[Antonio Delgado]] {{small|(D)}}{{efn |name=appointed}}{{efn |Senate Temporary President [[Andrea Stewart-Cousins]] {{small|(D)}} served as Acting Lieutenant Governor from April 12–May 25, 2022}}<ref>{{Cite news|url=https://nystateofpolitics.com/state-of-politics/new-york/ny-state-of-politics/2022/05/23/antonio-delgado-will-be-sworn-in-as-lieutenant-governor-on-wednesday?cid=share_twitter|title=Antonio Delgado will be sworn in as New York lieutenant governor on Wednesday|last=Reisman|first=Nick|work=Spectrum News|access-date=May 23, 2022}}</ref>
+|{{Party shading/Democratic}} |107D, 43R{{efn |Independence Assemblyman [[Fred Thiele]] joined the Democratic Party on May 5, 2022.}}
+|-
+!2023
+|rowspan=2 {{Party shading/Democratic}} |42D, 21R
+|rowspan=2 {{Party shading/Democratic}} |102D, 48R
+|{{Party shading/Democratic}} |15D, 11R
+|- style="height:2em"
+!2024
+|{{Party shading/Democratic}} |16D, 10R{{efn |Republican [[George Santos]] of the 3rd district was expelled from Congress on December 1, 2023, after numerous scandals. Democrat [[Tom Suozzi]] won a [[2024 New York's 3rd congressional district special election|special election]] to succeed him on February 13, 2024.}}
+|rowspan=3 {{Party shading/Democratic}} |[[Kamala Harris|Harris]]/<br>[[Tim Walz|Walz]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |41D, 22R
+|rowspan=2 {{Party shading/Democratic/current}} |103D, 47R
+|rowspan=2 {{Party shading/Democratic/current}} |19D, 7R
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+==See also==
+*[[New York (state)#Politics|Politics in New York]]
+*[[Politics of New York (state)]]
+*[[Elections in New York (state)|Elections in New York]]
+*[[List of political parties in New York]]
+*[[Political party strength in New York City]]
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In New York}}
+[[Category:Politics of New York (state)]]
+[[Category:Political party strength in the United States by state|New York]]
+[[Category:Political parties in New York (state)]]
+[[Category:Government of New York (state)]]

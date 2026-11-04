@@ -1,0 +1,999 @@
+{{Short description|none}}
+{{Use mdy dates|date=July 2023}}
+{{ElectionsVT}}
+The '''governor of Vermont''' is the [[head of government]] of the [[U.S. state]] of [[Vermont]]. Since 1994, Vermont is one of only two U.S. states ([[New Hampshire]] being the other) that elects governors for two-year terms.<ref>{{Cite web |last=Berg-Andersson |first=Richard E. |date=May 23, 2021 |title=Length of Terms of Office of State Governors Throughout American History |url=https://www.thegreenpapers.com/Hx/LengthOfTermGovernor.phtml |access-date=January 5, 2023 |website=The Green Papers |publisher=Richard E. Berg-Andersson}}</ref> Until 1870, Vermont elected its governors for one-year terms.<ref>[http://www.snellingcenter.org/filemanager/download/3681 pdf] {{webarchive|url=https://web.archive.org/web/20160112041922/http://www.snellingcenter.org/filemanager/download/3681 |date=2016-01-12 }}</ref> [[Isaac Tichenor]], [[Jonas Galusha]], [[Erastus Fairbanks]], and [[Richard A. Snelling]] each served non-consecutive terms, while [[Thomas Chittenden]] served non-consecutive terms as governor of the Vermont Republic.<ref>{{Cite web |last=Vermont State Archives & Records Administration |date=2017 |title=State Officers: Executive Branch; Governors |url=https://sos.vermont.gov/vsara/research/executive-branch/state-officers/governors/ |access-date=January 5, 2023 |website=SOS.Vermont.Gov |publisher=Vermont Secretary of State |location=Montpelier, VT}}</ref>
+
+==Mountain Rule==
+From the founding of the [[Vermont Republican Party|Republican Party]] in the 1850s until the 1960s, only Republicans won general elections for Vermont's statewide offices. One method that made this possible was the Republican Party's imposition of the "Mountain Rule," an informal mechanism which restricted the pool of candidates.<ref>[https://sos.vermont.gov/vsara/learn/elections/direct-primary The Direct Primary], sos.vermont.gov</ref>
+
+Under the original provisions of the Mountain Rule, one U.S. senator was a resident of the east side of the [[Green Mountains]] and one resided on the west side. The expanded version of the rule called for the governorship and lieutenant governorship to alternate between residents of the east and west sides. Nominees for governor and lieutenant governor were originally allowed two one-year terms, and later one two-year term. For nearly 100 years, likely [[Vermont Republican Party|Republican]] candidates for office in [[Vermont]] agreed to abide by the expanded Mountain Rule in the interests of party unity. Several factors led to the eventual weakening of the Mountain Rule, including the long political dispute between the [[Redfield Proctor Jr.|Proctor]] (conservative) and [[George Aiken|Aiken]]–[[Ernest W. Gibson Jr.|Gibson]] (progressive) wings of the party; primaries rather than conventions to select nominees; the direct election of [[U.S. Senators]]; and several active third parties, including the [[Progressive Party (United States, 1912)|Progressives]], the [[Prohibition Party]], and the [[Local Option]] movement. In the 1960s, the rise of the [[Vermont Democratic Party]] and the construction of [[Interstate 89]] also contributed to the end of the Mountain Rule. Although I-89 is a north–south route, it traverses Vermont from southeast to northwest for the majority of its length within the state and changed the way residents view how it is divided.<ref>{{Cite news |date=1895-02-12 |title=The Mountain Rule in Vermont |page=7 |work=The New York Times |url=https://www.newspapers.com/article/the-new-york-times-the-mountain-rule-in/132793478/ |access-date=2023-10-02}}</ref><ref>[http://www.vermonthistory.org/journal/71/vt713_401.pdf Magazine article, Mountain Rule Revisited], by Samuel B. Hand, Vermont History Magazine, published by Vermont Historical Society, Summer/Fall 2003, pages 139 to 151</ref>
+
+==List of governors==
+===Vermont Republic===
+The [[Vermont Republic]] declared independence from [[Kingdom of Great Britain|Great Britain]] on January 15, 1777.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Republic of Vermont
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Election
+!scope="col"|Lt. Governor
+|- style="height:2em;"
+!rowspan="12" scope="rowgroup"|1
+|rowspan="12" data-sort-value="Chittenden, Thomas"|[[File:ThomasChittenden.png|75px]]
+|rowspan="12"|'''[[Thomas Chittenden]]'''<br>{{Small|(1730–1797)}}<br>{{sfn|Sobel|1978|p=1561}}<ref name="nga-chittenden-thomas">{{Cite web |title=Thomas Chittenden |url=https://www.nga.org/governor/thomas-chittenden/ |access-date=July 11, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="12" data-sort-value="4233"|March 13, 1778<ref>{{Cite book |last=State of Vermont |url=http://archive.org/details/bub_gb_1VgSAAAAYAAJ/page/243 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=I |page=243}}</ref><br />–<br />October 13, 1789<br>{{small|(4233 days; lost election)}}<ref name="Position">{{cite news |date=October 17, 2018 |orig-date=October 24, 2004 |title=Position Papers: When conviviality leads to 'conspiracy of collegiality' |url=https://www.timesargus.com/news/position-papers-when-conviviality-leads-to-conspiracy-of-collegiality/article_cd95a1ea-d9b4-5cc5-9649-c513753e37af.html |work=[[Barre Montpelier Times Argus]] |location=Barre, VT}}</ref>
+|[[March 1778 Vermont Republic gubernatorial election|{{sup|Mar.}}1778]]
+|rowspan="2"|{{sortname|Joseph|Marsh}}
+|- style="height:2em;"
+| [[September 1778 Vermont Republic gubernatorial election|{{sup|Sept.}}1778]]
+|- style="height:2em;"
+|[[1779 Vermont Republic gubernatorial election|1779]]
+|rowspan="2"|{{sortname|Benjamin|Carpenter}}
+|- style="height:2em;"
+|[[1780 Vermont Republic gubernatorial election|1780]]
+|- style="height:2em;"
+|[[1781 Vermont Republic gubernatorial election|1781]]
+|{{sortname|Elisha|Payne}}
+|- style="height:2em;"
+|[[1782 Vermont Republic gubernatorial election|1782]]
+|rowspan="4"|{{sortname|Paul|Spooner}}
+|- style="height:2em;"
+|[[1783 Vermont Republic gubernatorial election|1783]]
+|- style="height:2em;"
+|[[1784 Vermont Republic gubernatorial election|1784]]
+|- style="height:2em;"
+|[[1785 Vermont Republic gubernatorial election|1785]]
+|- style="height:2em;"
+|[[1786 Vermont Republic gubernatorial election|1786]]
+|rowspan="4"|{{sortname|Joseph|Marsh}}
+|- style="height:2em;"
+|[[1787 Vermont Republic gubernatorial election|1787]]
+|- style="height:2em;"
+|[[1788 Vermont Republic gubernatorial election|1788]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Robinson, Moses"|[[File:Mosesrobinson.jpg|75px]]
+|'''[[Moses Robinson]]'''<br>{{Small|(1741–1813)}}<br><ref name="nga-robinson-moses">{{Cite web |title=Moses Robinson |url=https://www.nga.org/governor/moses-robinson/ |access-date=July 11, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="373"|October 13, 1789<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/recordsofgoverno03verm/page/188 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=III |page=189}}</ref><br />–<br />October 20, 1790<br>{{small|(373 days; lost election)}}<ref name="Position"/>
+|[[1789 Vermont Republic gubernatorial election|1789]]
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Chittenden, Thomas"|[[File:ThomasChittenden.png|75px]]
+|'''[[Thomas Chittenden]]'''<br>{{Small|(1730–1797)}}<br>{{sfn|Sobel|1978|p=1561}}<ref name="nga-chittenden-thomas" />
+|data-sort-value="136"|October 20, 1790<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/recordsofgoverno03verm/page/188 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=III |page=211}}</ref><br />–<br />March 4, 1791<br>{{small|(136 days;<br>became state governor)}}<ref name="Wilbur">{{cite book |last=Wilbur |first=La Fayette |date=1899 |title=Early History of Vermont |url=https://books.google.com/books?id=GYwUAAAAYAAJ&pg=PA333 |location=Jericho, VT |publisher=Roscoe Printing House |page=333 |via=[[Google Books]]}}</ref>
+|[[1790 Vermont Republic gubernatorial election|1790]]
+|{{sortname|Peter|Olcott}}
+|}
+
+===State of Vermont===
+Vermont was [[admission to the Union|admitted to the Union]] on March 4, 1791.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Vermont
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Vermont|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|1
+|rowspan="6" data-sort-value="Chittenden, Thomas"|[[File:ThomasChittenden.png|75px]]
+|rowspan="6" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|rowspan="6"|'''[[Thomas Chittenden]]'''<br>{{Small|(1730–1797)}}<br>{{sfn|Sobel|1978|p=1561}}<ref name="nga-chittenden-thomas" />
+|rowspan="6" data-sort-value="2366"|March 5, 1791{{sfn|Kallenbach|1977|pp=587–589}}<br />–<br />August 25, 1797<br>{{small|(2366 days; died in office)}}<ref name="Wilbur"/>
+|rowspan="6"|No party{{sfn|Glashan|1979|p=314}}
+|[[1791 Vermont gubernatorial election|1791]]
+|rowspan="5" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|rowspan="3"|{{sortname|Peter|Olcott}}
+|- style="height:2em;"
+|[[1792 Vermont gubernatorial election|1792]]
+|- style="height:2em;"
+|[[1793 Vermont gubernatorial election|1793]]
+|- style="height:2em;"
+|[[1794 Vermont gubernatorial election|1794]]
+|rowspan="2"|{{sortname|Jonathan|Hunt|dab=Vermont lieutenant governor}}
+|- style="height:2em;"
+|[[1795 Vermont gubernatorial election|1795]]
+|- style="height:2em;"
+|[[1796 Vermont gubernatorial election|1796]]
+|style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|Paul|Brigham}}{{efn|Represented the [[Democratic-Republican Party]]|name=lt-dr}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Brigham, Paul"|[[File:Paul Brigham Vermont Governor.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|'''[[Paul Brigham]]'''<br>{{Small|(1746–1824)}}<br>{{sfn|Sobel|1978|p=1562}}<ref name="nga-brigham">{{Cite web |title=Paul Brigham |url=https://www.nga.org/governor/paul-brigham/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="53"|August 25, 1797{{sfn|Kallenbach|1977|pp=587–589}}<br />–<br />October 16, 1797<br>{{small|(53 days; retired)}}{{efn|Brigham was instead reelected as lieutenant governor.}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Glashan|1979|p=310}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="10" scope="rowgroup"|3
+|rowspan="10" data-sort-value="Tichenor, Isaac"|[[File:Isaac Tichenor.jpg|75px]]
+|rowspan="10" style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|rowspan="10"|'''[[Isaac Tichenor]]'''<br>{{Small|(1754–1838)}}<br>{{sfn|Sobel|1978|pp=1562–1563}}<ref name="nga-tichenor">{{Cite web |title=Isaac Tichenor |url=https://www.nga.org/governor/isaac-tichenor/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="10" data-sort-value="3645"|October 16, 1797<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords04waltrich/page/140 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=IV |page=141}}</ref><br />–<br />October 9, 1807<br>{{small|(3645 days; lost election)}}<ref name="Position"/>
+|rowspan="10"|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1797 Vermont gubernatorial election|1797]]
+|rowspan="16" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|rowspan="16"|{{sortname|Paul|Brigham}}
+|- style="height:2em;"
+|[[1798 Vermont gubernatorial election|1798]]
+|- style="height:2em;"
+|[[1799 Vermont gubernatorial election|1799]]
+|- style="height:2em;"
+|[[1800 Vermont gubernatorial election|1800]]
+|- style="height:2em;"
+|[[1801 Vermont gubernatorial election|1801]]
+|- style="height:2em;"
+|[[1802 Vermont gubernatorial election|1802]]
+|- style="height:2em;"
+|[[1803 Vermont gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1804 Vermont gubernatorial election|1804]]
+|- style="height:2em;"
+|[[1805 Vermont gubernatorial election|1805]]
+|- style="height:2em;"
+|[[1806 Vermont gubernatorial election|1806]]
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Smith, Israel"|[[File:Israel Smith.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|'''[[Israel Smith]]'''<br>{{Small|(1759–1810)}}<br>{{sfn|Sobel|1978|pp=1563–1564}}<ref name="nga-smith-israel">{{Cite web |title=Israel Smith |url=https://www.nga.org/governor/israel-smith/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="372"|October 9, 1807<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords05waltrich/page/151 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=IV |page=151}}</ref><br />–<br />October 14, 1808<br>{{small|(372 days; lost election)}}<ref name="Position"/>
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1807 Vermont gubernatorial election|1807]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Tichenor, Isaac"|[[File:Isaac Tichenor.jpg|75px]]
+|style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|'''[[Isaac Tichenor]]'''<br>{{Small|(1754–1838)}}<br>{{sfn|Sobel|1978|pp=1562–1563}}<ref name="nga-tichenor" />
+|data-sort-value="366"|October 14, 1808<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords05waltrich/page/192 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=V |page=192}}</ref><br />–<br />October 14, 1809<br>{{small|(366 days; lost election)}}<ref name="Position"/>
+|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1808 Vermont gubernatorial election|1808]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|6
+|rowspan="4" data-sort-value="Galusha, Jonas"|[[File:Jonas Galusha.jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|rowspan="4"|'''[[Jonas Galusha]]'''<br>{{Small|(1753–1834)}}<br>{{sfn|Sobel|1978|pp=1564–1565}}<ref name="nga-galusha">{{Cite web |title=Jonas Galusha |url=https://www.nga.org/governor/jonas-galusha/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1471"|October 14, 1809<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords05waltrich/page/245 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=V |page=245}}</ref><br />–<br />October 23, 1813<br>{{small|(1471 days; lost election)}}<ref name="Position"/>
+|rowspan="4"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1809 Vermont gubernatorial election|1809]]
+|- style="height:2em;"
+|[[1810 Vermont gubernatorial election|1810]]
+|- style="height:2em;"
+|[[1811 Vermont gubernatorial election|1811]]
+|- style="height:2em;"
+|[[1812 Vermont gubernatorial election|1812]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Chittenden, Martin"|[[File:Martin Chittenden.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|rowspan="2"|'''[[Martin Chittenden]]'''<br>{{Small|(1763–1840)}}<br>{{sfn|Sobel|1978|pp=1565–1566}}<ref name="nga-chittenden-martin">{{Cite web |title=Martin Chittenden |url=https://www.nga.org/governor/martin-chittenden/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="722"|October 23, 1813<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords06waltrich/page/16 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VI |page=16}}</ref><br />–<br />October 14, 1815<br>{{small|(722 days; lost election)}}<ref name="Position"/>
+|rowspan="2"|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1813 Vermont gubernatorial election|1813]]
+|rowspan="2" style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|rowspan="2"|{{sortname|William|Chamberlain|dab=politician}}
+|- style="height:2em;"
+|[[1814 Vermont gubernatorial election|1814]]
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|8
+|rowspan="5" data-sort-value="Galusha, Jonas"|[[File:Jonas Galusha.jpg|75px]]
+|rowspan="11" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|rowspan="5"|'''[[Jonas Galusha]]'''<br>{{Small|(1753–1834)}}<br>{{sfn|Sobel|1978|pp=1564–1565}}<ref name="nga-galusha" />
+|rowspan="5" data-sort-value="1827"|October 14, 1815<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords06waltrich/page/108 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VI |page=108}}</ref><br />–<br />October 13, 1820<br>{{small|(1827 days; retired)}}{{sfn|Sobel|1978|pp=1564–1565}}
+|rowspan="5"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1815 Vermont gubernatorial election|1815]]
+|rowspan="15" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|rowspan="5"|{{sortname|Paul|Brigham}}
+|- style="height:2em;"
+|[[1816 Vermont gubernatorial election|1816]]
+|- style="height:2em;"
+|[[1817 Vermont gubernatorial election|1817]]
+|- style="height:2em;"
+|[[1818 Vermont gubernatorial election|1818]]
+|- style="height:2em;"
+|[[1819 Vermont gubernatorial election|1819]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|9
+|rowspan="3" data-sort-value="Skinner, Richard"|[[File:Richard Skinner.jpg|75px]]
+|rowspan="3"|'''[[Richard Skinner (American politician)|Richard Skinner]]'''<br>{{Small|(1778–1833)}}<br>{{sfn|Sobel|1978|p=1566}}<ref name="nga-skinner">{{Cite web |title=Richard Skinner |url=https://www.nga.org/governor/richard-skinner/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1093"|October 13, 1820<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords06waltrich/page/290 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VI |page=290}}</ref><br />–<br />October 10, 1823<br>{{small|(1093 days; retired)}}{{sfn|Sobel|1978|p=1566}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1820 Vermont gubernatorial election|1820]]
+|rowspan="2"|{{sortname|William|Cahoon}}
+|- style="height:2em;"
+|[[1821 Vermont gubernatorial election|1821]]
+|- style="height:2em;"
+|[[1822 Vermont gubernatorial election|1822]]
+|rowspan="5"|{{sortname|Aaron|Leland}}{{efn|name=lt-dr}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|10
+|rowspan="3" data-sort-value="Van Ness, Cornelius"|[[File:Cornelius P Van Ness.jpg|75px]]
+|rowspan="3"|'''[[Cornelius P. Van Ness]]'''<br>{{Small|(1782–1852)}}<br>{{sfn|Sobel|1978|p=1567}}<ref name="nga-vanness">{{Cite web |title=Cornelius P. Van Ness |url=https://www.nga.org/governor/cornelius-p-van-ness/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|October 10, 1823<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords07waltrich/page/68 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VII |page=68}}</ref><br />–<br />October 13, 1826<br>{{small|(1100 days; retired)}}{{sfn|Sobel|1978|p=1567}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1823 Vermont gubernatorial election|1823]]
+|- style="height:2em;"
+|[[1824 Vermont gubernatorial election|1824]]
+|- style="height:2em;"
+|[[1825 Vermont gubernatorial election|1825]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Butler, Ezra"|[[File:Ezra Butler (Vermont Governor).jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|National Republican Party (US)}};" title="Represented the National Republican Party"|
+|rowspan="2"|'''[[Ezra Butler]]'''<br>{{Small|(1763–1838)}}<br>{{sfn|Sobel|1978|pp=1567–1568}}<ref name="nga-butler">{{Cite web |title=Ezra Butler |url=https://www.nga.org/governor/ezra-butler/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|October 13, 1826<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords07waltrich/page/208 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VII |page=208}}</ref><br />–<br />October 10, 1828<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1567–1568}}
+|rowspan="2"|[[National Republican Party (United States)|National<br>Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1826 Vermont gubernatorial election|1826]]
+|- style="height:2em;"
+|[[1827 Vermont gubernatorial election|1827]]
+|rowspan="3"|{{sortname|Henry|Olin}}{{efn|name=lt-dr}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|12
+|rowspan="3" data-sort-value="Crafts, Samuel"|[[File:Samuel Crafts.jpg|75px]]
+|rowspan="3"|'''[[Samuel C. Crafts]]'''<br>{{Small|(1768–1853)}}<br>{{sfn|Sobel|1978|pp=1568–1569}}<ref name="nga-crafts">{{Cite web |title=Samuel C. Crafts |url=https://www.nga.org/governor/samuel-c-crafts/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1104"|October 10, 1828<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/vermontgovrecords07waltrich/page/303 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VII |page=303}}</ref><br />–<br />October 18, 1831<br>{{small|(1104 days; retired)}}{{sfn|Sobel|1978|pp=1568–1569}}
+|rowspan="3"|[[National Republican Party (United States)|National<br>Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1828 Vermont gubernatorial election|1828]]
+|- style="height:2em;"
+|[[1829 Vermont gubernatorial election|1829]]
+|- style="height:2em;"
+|[[1830 Vermont gubernatorial election|1830]]
+|style="color:inherit;background:{{party color|National Republican Party (US)}};" title="Represented the National Republican Party"|
+|{{sortname|Mark|Richards|dab=politician}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|13
+|rowspan="4" data-sort-value="Palmer, William"|[[File:William A. Palmer.jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Anti-Masonic Party}};" title="Represented the Anti-Masonic Party"|
+|rowspan="4"|'''[[William A. Palmer]]'''<br>{{Small|(1781–1860)}}<br>{{sfn|Sobel|1978|pp=1569–1570}}<ref name="nga-palmer">{{Cite web |title=William A. Palmer |url=https://www.nga.org/governor/william-a-palmer/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1477"|October 18, 1831<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/recordsgovernor01goog/page/8 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VIII |page=8}}</ref><br />–<br />November 2, 1835<br>{{small|(1477 days;<br>deadlocked election)}}{{efn|name=elect1835}}<ref name="Position"/>
+|rowspan="4"|[[Anti-Masonic Party|Anti-Masonic]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1831 Vermont gubernatorial election|1831]]
+|rowspan="4" style="color:inherit;background:{{party color|Anti-Masonic Party}};" title="Represented the Anti-Masonic Party"|
+|rowspan="4"|{{sortname|Lebbeus|Egerton}}
+|- style="height:2em;"
+|[[1832 Vermont gubernatorial election|1832]]
+|- style="height:2em;"
+|[[1833 Vermont gubernatorial election|1833]]
+|- style="height:2em;"
+|[[1834 Vermont gubernatorial election|1834]]
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|14
+|rowspan="6" data-sort-value="Jennison, Silas"|[[File:Silas Hemenway Jenison.jpg|75px]]
+|rowspan="18" style="color:inherit;background:{{party color|Whig Party (US)}};" title="Represented the Whig Party"|
+|rowspan="6"|'''[[Silas H. Jennison]]'''<br>{{Small|(1791–1849)}}<br>{{sfn|Sobel|1978|pp=1570–1571}}<ref name="nga-jennison">{{Cite web |title=Silas H. Jension |url=https://www.nga.org/governor/silas-h-jension/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="6" data-sort-value="2178"|November 2, 1835{{efn|name=elect1835}}<br />–<br />October 18, 1841<br>{{small|(2178 days; retired)}}{{sfn|Sobel|1978|pp=1570–1571}}
+|rowspan="6"|[[Whig Party (United States)|Whig]]{{efn|Jennison represented both the [[Anti-Masonic Party|Anti-Masonic]] and [[Whig Party (United States)|Whig]] parties in 1835.{{sfn|Glashan|1979|p=316}}}}
+|[[1835 Vermont gubernatorial election|1835]]{{efn|In the [[1835 Vermont gubernatorial election|1835 election]], Palmer received a plurality, but not the required majority; the legislature remained deadlocked after 63 votes and the joint assembly dissolved on November 2<ref>{{Cite book |last=State of Vermont |url=https://archive.org/details/recordsgovernor01goog/page/215 |title=Records of the Governor and Council of the State of Vermont |date=1873 |publisher=Montpelier, J. & J.M. Poland |volume=VIII |page=215}}</ref> without choosing a governor, so Lieutenant Governor Jennison acted as governor for the term.{{sfn|Sobel|1978|pp=1569–1570}}|name=elect1835}}
+|rowspan="18" style="color:inherit;background:{{party color|Whig Party (US)}};" title="Represented the Whig Party"|
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+|[[1836 Vermont gubernatorial election|1836]]
+|rowspan="5"|{{sortname|David M.|Camp}}
+|- style="height:2em;"
+|[[1837 Vermont gubernatorial election|1837]]
+|- style="height:2em;"
+|[[1838 Vermont gubernatorial election|1838]]
+|- style="height:2em;"
+|[[1839 Vermont gubernatorial election|1839]]
+|- style="height:2em;"
+|[[1840 Vermont gubernatorial election|1840]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Paine, Charles"|[[File:VshPaine.JPG|75px]]
+|rowspan="2"|'''[[Charles Paine]]'''<br>{{Small|(1799–1853)}}<br>{{sfn|Sobel|1978|p=1571}}<ref name="nga-paine">{{Cite web |title=Charles Paine |url=https://www.nga.org/governor/charles-paine/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="726"|October 18, 1841<ref>Vermont General Assembly. ''Journal of the Senate''. 1841 sess., [https://babel.hathitrust.org/cgi/pt?id=hvd.32044100176965&view=2up&seq=60 14], accessed July 13, 2023</ref><br />–<br />October 13, 1843<br>{{small|(726 days; retired)}}{{sfn|Sobel|1978|p=1571}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1841 Vermont gubernatorial election|1841]]
+|rowspan="2"|{{sortname|Waitstill R.|Ranney}}
+|- style="height:2em;"
+|[[1842 Vermont gubernatorial election|1842]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Mattocks, John"|[[File:John Mattocks.jpg|75px]]
+|'''[[John Mattocks]]'''<br>{{Small|(1777–1847)}}<br>{{sfn|Sobel|1978|p=1572}}<ref name="nga-mattocks">{{Cite web |title=John Mattocks |url=https://www.nga.org/governor/john-mattocks/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|October 13, 1843<ref>Vermont General Assembly. ''Journal of the Senate''. 1843 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b3001129&seq=265 12], accessed July 13, 2023</ref><br />–<br />October 11, 1844<br>{{small|(365 days; retired)}}{{sfn|Sobel|1978|p=1572}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1843 Vermont gubernatorial election|1843]]
+|rowspan="3"|{{sortname|Horace|Eaton}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Slade, William"|[[File:William Slade.jpg|75px]]
+|rowspan="2"|'''[[William Slade (politician)|William Slade]]'''<br>{{Small|(1786–1859)}}<br>{{sfn|Sobel|1978|pp=1572–1573}}<ref name="nga-slade">{{Cite web |title=William Slade |url=https://www.nga.org/governor/william-slade/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|October 11, 1844<ref>Vermont General Assembly. ''Journal of the Senate''. 1844 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b3001129&seq=459 11], accessed July 13, 2023</ref><br />–<br />October 9, 1846<br>{{small|(729 days; retired)}}<ref>{{cite book |last=Crockett |first=Walter Hill |date=1921 |title=Vermont: The Green Mountain State |volume=3 |url=https://books.google.com/books?id=HHwMPTqQ1Z0C&pg=PA358 |location=New York, NY |publisher=Century History Company |page=358 |via=[[Google Books]]}}</ref>
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1844 Vermont gubernatorial election|1844]]
+|- style="height:2em;"
+|[[1845 Vermont gubernatorial election|1845]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Eaton, Horace"|[[File:Horace Eaton.jpg|75px]]
+|rowspan="2"|'''[[Horace Eaton]]'''<br>{{Small|(1804–1855)}}<br>{{sfn|Sobel|1978|pp=1573–1574}}<ref name="nga-eaton">{{Cite web |title=Horace Eaton |url=https://www.nga.org/governor/horace-eaton/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="742"|October 9, 1846<ref>Vermont General Assembly. ''Journal of the Senate''. 1846 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b3001130&seq=16 8], accessed July 13, 2023</ref><br />–<br />October 19, 1848<br>{{small|(742 days; retired)}}<ref name="nga-eaton" />
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1846 Vermont gubernatorial election|1846]]
+|rowspan="2"|{{sortname|Leonard|Sargeant}}
+|- style="height:2em;"
+|[[1847 Vermont gubernatorial election|1847]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Coolidge, Carlos"|[[File:Carlos Coolidge.gif|75px]]
+|rowspan="2"|'''[[Carlos Coolidge]]'''<br>{{Small|(1792–1866)}}<br>{{sfn|Sobel|1978|pp=1574–1575}}<ref name="nga-coolidge">{{Cite web |title=Carlos Coolidge |url=https://www.nga.org/governor/carlos-coolidge/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="724"|October 19, 1848<ref>Vermont General Assembly. ''Journal of the Senate''. 1848 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433082088133&seq=30 24], accessed July 13, 2023</ref><br />–<br />October 12, 1850<br>{{small|(724 days; retired)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1848 Vermont gubernatorial election|1848]]
+|rowspan="2"|{{sortname|Robert|Pierpoint|dab=Vermont politician}}
+|- style="height:2em;"
+|[[1849 Vermont gubernatorial election|1849]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Williams, Charles"|[[File:Charles K Williams.jpg|75px]]
+|rowspan="2"|'''[[Charles K. Williams]]'''<br>{{Small|(1782–1853)}}<br>{{sfn|Sobel|1978|pp=1575–1576}}<ref name="nga-williams">{{Cite web |title=Charles Kilborn Williams |url=https://www.nga.org/governor/charles-kilborn-williams/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="738"|October 12, 1850<ref>{{Cite news |date=1850-10-17 |title=The Legislature |page=2 |work=The Brattleboro' Eagle |url=https://www.newspapers.com/article/the-brattleboro-eagle-williams-inaugura/128180502/ |access-date=2023-07-14}}</ref><br />–<br />October 18, 1852<br>{{small|(738 days; retired)}}{{sfn|Sobel|1978|pp=1575–1576}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1850 Vermont gubernatorial election|1850]]
+|rowspan="2"|{{sortname|Julius|Converse}}
+|- style="height:2em;"
+|[[1851 Vermont gubernatorial election|1851]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Fairbanks, Erastus"|[[File:Erastus Fairbanks.jpg|75px]]
+|'''[[Erastus Fairbanks]]'''<br>{{Small|(1792–1864)}}<br>{{sfn|Sobel|1978|pp=1576–1577}}<ref name="nga-fairbanks-erastus">{{Cite web |title=Erastus Fairbanks |url=https://www.nga.org/governor/erastus-fairbanks/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="380"|October 18, 1852<ref>Vermont General Assembly. ''Journal of the Senate''. 1852 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433082091095&seq=35 25], accessed July 13, 2023</ref><br />–<br />November 1, 1853<br>{{small|(380 days; lost election)}}<ref name="Position"/>
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1852 Vermont gubernatorial election|1852]]
+|{{sortname|William C.|Kittredge}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Robinson, John"|[[File:John S Robinson.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John S. Robinson (governor)|John S. Robinson]]'''<br>{{Small|(1804–1860)}}<br>{{sfn|Sobel|1978|p=1577}}<ref name="nga-robinson-john">{{Cite web |title=John Staniford Robinson |url=https://www.nga.org/governor/john-staniford-robinson/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="347"|November 1, 1853<ref>{{Cite news |date=1853-11-02 |title=Legislature of Vermont |page=3 |work=The Daily Journal |url=https://www.newspapers.com/article/the-daily-journal-robinson-takes-oath-no/128219187/ |access-date=2023-07-14}}</ref><br />–<br />October 13, 1854<br>{{small|(347 days; retired)}}{{sfn|Sobel|1978|p=1577}}
+|[[Vermont Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1853 Vermont gubernatorial election|1853]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Jefferson P.|Kidder}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Royce, Stephen"|[[File:Stephen Royce.jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (US)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Stephen Royce]]'''<br>{{Small|(1787–1868)}}<br>{{sfn|Sobel|1978|pp=1577–1578}}<ref name="nga-royce">{{Cite web |title=Stephen Royce |url=https://www.nga.org/governor/stephen-royce/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|October 13, 1854<ref>Vermont General Assembly. ''Journal of the Senate''. 1854 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433082091095&seq=568 16], accessed July 14, 2023</ref><br />–<br />October 10, 1856<br>{{small|(729 days; retired)}}<ref name="MountainRule">{{cite news |date=October 16, 1911 |title=The Mountain Rule |url=https://www.newspapers.com/article/rutland-daily-herald-mountain-rule/137883953/ |work=[[Rutland Herald]] |location=Rutland, VT |page=4 |via=[[Newspapers.com]]}}</ref>
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|p=596}}
+|[[1854 Vermont gubernatorial election|1854]]
+|style="color:inherit;background:{{party color|Whig Party (US)}};" title="Represented the Whig Party"|
+|rowspan="2"|{{sortname|Ryland|Fletcher}}
+|- style="height:2em;"
+|rowspan="64" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|p=596}}
+|[[1855 Vermont gubernatorial election|1855]]
+|rowspan="15" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|24
+|rowspan="2" data-sort-value="Fletcher, Ryland"|[[File:Ryland Fletcher (Vermont Governor).jpg|75px]]
+|rowspan="2"|'''[[Ryland Fletcher]]'''<br>{{Small|(1799–1885)}}<br>{{sfn|Sobel|1978|pp=1578–1579}}<ref name="nga-fletcher-ryland">{{Cite web |title=Ryland Fletcher |url=https://www.nga.org/governor/ryland-fletcher/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|October 10, 1856<ref>{{Cite news |date=1856-10-17 |title=General Assembly |page=2 |work=The Vermont Patriot and State Gazette |url=https://www.newspapers.com/article/the-vermont-patriot-and-state-gazette-fl/128223088/ |access-date=2023-07-14}}</ref><br />–<br />October 15, 1858<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|pp=1578–1579}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1856 Vermont gubernatorial election|1856]]
+|rowspan="2"|{{sortname|James M.|Slade}}
+|- style="height:2em;"
+|[[1857 Vermont gubernatorial election|1857]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Hall, Hiland"|[[File:Hiland Hall (cropped).jpg|75px]]
+|rowspan="2"|'''[[Hiland Hall]]'''<br>{{Small|(1795–1885)}}<br>{{sfn|Sobel|1978|pp=1579–1580}}<ref name="nga-hall">{{Cite web |title=Hiland Hall |url=https://www.nga.org/governor/hiland-hall/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|October 15, 1858<ref>Vermont General Assembly. ''Journal of the Senate''. 1858 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433082078977&seq=20 14], accessed July 14, 2023</ref><br />–<br />October 12, 1860<br>{{small|(729 days; retired)}}<ref name="MountainRule"/>
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1858 Vermont gubernatorial election|1858]]
+|rowspan="2"|{{sortname|Burnham|Martin}}
+|- style="height:2em;"
+|[[1859 Vermont gubernatorial election|1859]]
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Fairbanks, Erastus"|[[File:Erastus Fairbanks.jpg|75px]]
+|'''[[Erastus Fairbanks]]'''<br>{{Small|(1792–1864)}}<br>{{sfn|Sobel|1978|pp=1576–1577}}<ref name="nga-fairbanks-erastus" />
+|data-sort-value="376"|October 12, 1860<ref>{{Cite news |date=1860-10-12 |title=Legislature of Vermont |page=3 |work=The Daily Journal |url=https://www.newspapers.com/article/the-daily-journal-fairbanks-inaugurated/128224715/ |access-date=2023-07-14}}</ref><br />–<br />October 22, 1861<br>{{small|(376 days; retired)}}{{sfn|Sobel|1978|pp=1576–1577}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1860 Vermont gubernatorial election|1860]]
+|rowspan="2"|{{sortname|Levi|Underwood}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|27
+|rowspan="2" data-sort-value="Holbrook, Frederick"|[[File:Frederick Holbrook.jpg|75px]]
+|rowspan="2"|'''[[Frederick Holbrook]]'''<br>{{Small|(1813–1909)}}<br>{{sfn|Sobel|1978|p=1580}}<ref name="nga-holbrook">{{Cite web |title=Frederick Holbrook |url=https://www.nga.org/governor/frederick-holbrook/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="718"|October 22, 1861<ref>{{Cite news |date=1861-10-22 |title=By Telegraph |page=3 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-holbrook-inaug/128300733/ |access-date=2023-07-16}}</ref><br />–<br />October 9, 1863<br>{{small|(718 days; retired)}}<ref name="MountainRule"/>
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1861 Vermont gubernatorial election|1861]]
+|- style="height:2em;"
+|[[1862 Vermont gubernatorial election|1862]]
+|rowspan="3"|{{sortname|Paul|Dillingham}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Smith, J. Gregory"|[[File:J. Gregory Smith.jpg|75px]]
+|rowspan="2"|'''[[J. Gregory Smith]]'''<br>{{Small|(1818–1891)}}<br>{{sfn|Sobel|1978|p=1581}}<ref name="nga-smith-jgregory">{{Cite web |title=John Gregory Smith |url=https://www.nga.org/governor/john-gregory-smith/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|October 9, 1863<ref>Vermont General Assembly. ''Journal of the Senate''. 1863 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433082078506&seq=24 18], accessed July 15, 2023</ref><br />–<br />October 13, 1865<br>{{small|(736 days; retired)}}<ref name="MountainRule"/>
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1863 Vermont gubernatorial election|1863]]
+|- style="height:2em;"
+|[[1864 Vermont gubernatorial election|1864]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Dillingham, Paul"|[[File:Paul Dillingham.jpg|75px]]
+|rowspan="2"|'''[[Paul Dillingham]]'''<br>{{Small|(1799–1891)}}<br>{{sfn|Sobel|1978|pp=1581–1582}}<ref name="nga-dillingham-paul">{{Cite web |title=Paul Dillingham |url=https://www.nga.org/governor/paul-dillingham/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="731"|October 13, 1865<ref>Vermont General Assembly. ''Journal of the Senate''. 1865 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433082085469&seq=31 25], accessed July 15, 2023</ref><br />–<br />October 13, 1867<br>{{small|(731 days; retired)}}{{sfn|Sobel|1978|pp=1581–1582}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1865 Vermont gubernatorial election|1865]]
+|rowspan="2"|{{sortname|Abraham B.|Gardner}}
+|- style="height:2em;
+|[[1866 Vermont gubernatorial election|1866]]
+|- style="height:2em;
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Page, John"|[[File:John b page.jpg|75px]]
+|rowspan="2"|'''[[John B. Page]]'''<br>{{Small|(1826–1885)}}<br>{{sfn|Sobel|1978|pp=1582–1583}}<ref name="nga-page-john">{{Cite web |title=John B. Page |url=https://www.nga.org/governor/john-b-page/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="735"|October 13, 1867<ref>{{Cite news |date=1867-10-11 |title=From Montpelier |page=3 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-page-sworn-in/128301461/ |access-date=2023-07-16}}</ref><br />–<br />October 16, 1869<br>{{small|(735 days; retired)}}{{sfn|Sobel|1978|pp=1582–1583}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1867 Vermont gubernatorial election|1867]]
+|rowspan="2"|{{sortname|Stephen|Thomas|dab=Medal of Honor}}
+|- style="height:2em;"
+|[[1868 Vermont gubernatorial election|1868]]
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Washburn, Peter"|[[File:Peter T Washburn.jpg|75px]]
+|'''[[Peter T. Washburn]]'''<br>{{Small|(1814–1870)}}<br>{{sfn|Sobel|1978|p=1583}}<ref name="nga-washburn">{{Cite web |title=Peter T. Washburn |url=https://www.nga.org/governor/peter-t-washburn/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="115"|October 16, 1869<ref>{{Cite news |date=1869-10-21 |title=Legislature of Vermont |page=2 |work=Vermont Christian Messenger |url=https://www.newspapers.com/article/vermont-christian-messenger-washburn-ina/128301732/ |access-date=2023-07-16}}</ref><br />–<br />February 7, 1870<br>{{small|(115 days; died in office)}}<ref name="Wilbur"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1869 Vermont gubernatorial election|1869]]
+|{{sortname|George W.|Hendee}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Hendee, George"|[[File:GeorgeWHendee (cropped).jpg|75px]]
+|'''[[George Whitman Hendee]]'''<br>{{Small|(1832–1906)}}<br>{{sfn|Sobel|1978|p=1584}}<ref name="nga-hendee">{{Cite web |title=George Whitman Hendee |url=https://www.nga.org/governor/george-whitman-hendee/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="242"|February 7, 1870<ref>{{Cite news |date=1870-02-11 |title=Death of Governor Washburn |page=2 |work=The St Johnsbury Times |url=https://www.newspapers.com/article/the-st-johnsbury-times-hendee-succeeds-w/128301838/ |access-date=2023-07-16}}</ref><br />–<br />October 6, 1870<br>{{small|(242 days; retired)}}{{sfn|Sobel|1978|p=1584}}{{efn|Republican convention delegates decided that since Washburn, from the East side of the Green Mountains, had won the nomination in 1869, the 1870 nomination should go to a candidate from the West. They also decided that though he was from the West, nominating Hendee would violate the Mountain Rule's two years in office provision, because 1870 would be the first election for a two-year term. As a result, Hendee was not a candidate.}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Stewart, John"|[[File:John Wolcott Stewart.jpg|75px]]
+|'''[[John Wolcott Stewart]]'''<br>{{Small|(1825–1915)}}<br>{{sfn|Sobel|1978|pp=1584–1585}}<ref name="nga-stewart">{{Cite web |title=John Wolcott Stewart |url=https://www.nga.org/governor/john-wolcott-stewart/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 6, 1870<ref>{{Cite news |date=1870-10-07 |title=Legislature of Vermont |page=2 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-stewart-inaugu/128302143/ |access-date=2023-07-16}}</ref><br />–<br />October 3, 1872<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1584–1585}}{{efn|Vermont's gubernatorial terms were changed from one year to two. Stewart argued that the Mountain Rule's two-term limit on governors should allow him to serve two two-year terms. Republican convention delegates decided that the Mountain Rule limited governors to two years in office, so Stewart was not renominated.}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1870 Vermont gubernatorial election|1870]]
+|rowspan="29" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|George N.|Dale}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Converse, Julius"|[[File:Julius Converse.gif|75px]]
+|'''[[Julius Converse]]'''<br>{{Small|(1798–1885)}}<br>{{sfn|Sobel|1978|p=1585}}<ref name="nga-converse">{{Cite web |title=Julius Converse |url=https://www.nga.org/governor/julius-converse/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|October 3, 1872<ref>{{Cite news |date=1872-10-04 |title=Legislature of Vermont |page=2 |work=The Daily Journal |url=https://www.newspapers.com/article/the-daily-journal-converse-inaugurated-o/128302799/ |access-date=2023-07-16}}</ref><br />–<br />October 8, 1874<br>{{small|(736 days; retired)}}<ref name="MountainRule"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1872 Vermont gubernatorial election|1872]]
+|{{sortname|Russell S.|Taft}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Peck, Asahel"|[[File:Asahel Peck.jpg|75px]]
+|'''[[Asahel Peck]]'''<br>{{Small|(1803–1879)}}<br>{{sfn|Sobel|1978|p=1586}}<ref name="nga-peck">{{Cite web |title=Asahel Peck |url=https://www.nga.org/governor/asahel-peck/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 8, 1874<ref>{{Cite news |date=1874-10-09 |title=Legislature of Vermont |page=3 |work=Burlington Daily Sentinel |url=https://www.newspapers.com/article/burlington-daily-sentinel-peck-inaugurat/128303021/ |access-date=2023-07-16}}</ref><br />–<br />October 5, 1876<br>{{small|(729 days; retired)}}<ref name="MountainRule"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1874 Vermont gubernatorial election|1874]]
+|{{sortname|Lyman G.|Hinckley}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Fairbanks, Horace"|[[File:Horace Fairbanks.jpg|75px]]
+|'''[[Horace Fairbanks]]'''<br>{{Small|(1820–1888)}}<br>{{sfn|Sobel|1978|pp=1586–1587}}<ref name="nga-fairbanks-horace">{{Cite web |title=Horace Fairbanks |url=https://www.nga.org/governor/horace-fairbanks/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 5, 1876<ref>{{Cite news |date=1876-10-07 |title=Legislature of Vermont |page=1 |work=The Rutland Daily Globe |url=https://www.newspapers.com/article/the-rutland-daily-globe-fairbanks-inaugu/128303178/ |access-date=2023-07-16}}</ref><br />–<br />October 3, 1878<br>{{small|(729 days; retired)}}<ref name="MountainRule"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1876 Vermont gubernatorial election|1876]]
+|{{sortname|Redfield|Proctor}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Proctor, Redfield 1"|[[File:Redfield Proctor, 37th United States Secretary of War.jpg|75px]]
+|'''[[Redfield Proctor]]'''<br>{{Small|(1831–1908)}}<br>{{sfn|Sobel|1978|pp=1587–1588}}<ref name="nga-proctor-redfield-1">{{Cite web |title=Redfield Proctor Sr. |url=https://www.nga.org/governor/redfield-proctor-sr/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|October 3, 1878<ref>{{Cite news |date=1878-10-04 |title=Legislature of Vermont |page=2 |work=The Daily Journal |url=https://www.newspapers.com/article/the-daily-journal-proctor-inaugurated-oc/128303418/ |access-date=2023-07-16}}</ref><br />–<br />October 7, 1880<br>{{small|(736 days; retired)}}<ref name="MountainRule"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1878 Vermont gubernatorial election|1878]]
+|{{sortname|Eben Pomeroy|Colton}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Farnham, Roswell"|[[File:Roswell Farnham.jpg|75px]]
+|'''[[Roswell Farnham]]'''<br>{{Small|(1827–1903)}}<br>{{sfn|Sobel|1978|pp=1588–1589}}<ref name="nga-farnham">{{Cite web |title=Roswell Farnham |url=https://www.nga.org/governor/roswell-farnham/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 7, 1880<ref>{{Cite news |date=1880-10-08 |title=Legislature of Vermont |page=4 |work=Rutland Daily Herald |url=https://www.newspapers.com/article/rutland-daily-herald-farnham-inaugurated/128303470/ |access-date=2023-07-16}}</ref><br />–<br />October 5, 1882<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1588–1589}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1880 Vermont gubernatorial election|1880]]
+|{{sortname|John L.|Barstow}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Barstow, John"|[[File:John L Barstow.gif|75px]]
+|'''[[John L. Barstow]]'''<br>{{Small|(1832–1913)}}<br>{{sfn|Sobel|1978|pp=1589–1590}}<ref name="nga-barstow">{{Cite web |title=John Lester Barstow |url=https://www.nga.org/governor/john-lester-barstow/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 5, 1882<ref>{{Cite news |date=1882-10-06 |title=The Legislature |page=3 |work=St. Albans Daily Messenger |url=https://www.newspapers.com/article/st-albans-daily-messenger-barstow-inaug/128303530/ |access-date=2023-07-16}}</ref><br />–<br />October 2, 1884<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1589–1590}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1882 Vermont gubernatorial election|1882]]
+|{{sortname|Samuel E.|Pingree}}
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Pingree, Samuel"|[[File:Samuel E. Pingree.jpg|75px]]
+|'''[[Samuel E. Pingree]]'''<br>{{Small|(1832–1922)}}<br>{{sfn|Sobel|1978|pp=1590–1591}}<ref name="nga-pingree">{{Cite web |title=Samuel E. Pingree |url=https://www.nga.org/governor/samuel-e-pingree/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|October 2, 1884<ref>{{Cite news |date=1884-10-02 |title=Legislature of Vermont |page=3 |work=St. Albans Daily Messenger |url=https://www.newspapers.com/article/st-albans-daily-messenger-redfield-inau/128303566/ |access-date=2023-07-16}}</ref><br />–<br />October 7, 1886<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|pp=1590–1591}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1884 Vermont gubernatorial election|1884]]
+|{{sortname|Ebenezer J.|Ormsbee}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Ormsbee, Ebenezer"|[[File:Ebenezer Jolls Ormsbee.jpg|75px]]
+|'''[[Ebenezer J. Ormsbee]]'''<br>{{Small|(1834–1924)}}<br>{{sfn|Sobel|1978|p=1591}}<ref name="nga-ormsbee">{{Cite web |title=Ebenezer Jolls Ormsbee |url=https://www.nga.org/governor/ebenezer-jolls-ormsbee/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 7, 1886<ref>{{Cite news |date=1886-10-08 |title=From Montpelier |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-ormsbee-inaugu/128303603/ |access-date=2023-07-16}}</ref><br />–<br />October 4, 1888<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=1591}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1886 Vermont gubernatorial election|1886]]
+|{{sortname|Levi K.|Fuller}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Dillingham, William"|[[File:William P. Dillingham, governor 1888-1890 (Republican).jpg|75px]]
+|'''[[William P. Dillingham]]'''<br>{{Small|(1843–1923)}}<br>{{sfn|Sobel|1978|p=1592}}<ref name="nga-dillingham-william">{{Cite web |title=William Paul Dillingham |url=https://www.nga.org/governor/william-paul-dillingham/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 4, 1888<ref>{{Cite news |date=1888-10-05 |title=The Legislature |page=5 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-dillingham-ina/128303639/ |access-date=2023-07-16}}</ref><br />–<br />October 2, 1890<br>{{small|(729 days; retired)}}<ref name="MountainRule"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1888 Vermont gubernatorial election|1888]]
+|{{sortname|Urban A.|Woodbury}}
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Page, Carroll"|[[File:Carroll Smalley Page, 1920.jpg|75px]]
+|'''[[Carroll S. Page]]'''<br>{{Small|(1843–1925)}}<br>{{sfn|Sobel|1978|pp=1592–1593}}<ref name="nga-page-carroll">{{Cite web |title=Carroll Smalley Page |url=https://www.nga.org/governor/carroll-smalley-page/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|October 2, 1890<ref>{{Cite news |date=1890-10-08 |title=Legislature of Vermont |page=2 |work=Lyndonville Journal |url=https://www.newspapers.com/article/lyndonville-journal-page-inaugurated-oct/128303714/ |access-date=2023-07-16}}</ref><br />–<br />October 6, 1892<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|pp=1592–1593}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1890 Vermont gubernatorial election|1890]]
+|{{sortname|Henry A.|Fletcher}}
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Fuller, Levi"|[[File:Fuller.jpg|75px]]
+|'''[[Levi K. Fuller]]'''<br>{{Small|(1841–1896)}}<br>{{sfn|Sobel|1978|pp=1593–1594}}<ref name="nga-fuller">{{Cite web |title=Levi Knight Fuller |url=https://www.nga.org/governor/levi-knight-fuller/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 6, 1892<ref>{{Cite news |date=1892-10-07 |title=Gov. Fuller Now |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-fuller-inaugur/128303831/ |access-date=2023-07-16}}</ref><br />–<br />October 4, 1894<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1593–1594}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1892 Vermont gubernatorial election|1892]]
+|{{sortname|F. Stewart|Stranahan}}
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Woodbury, Urban"|[[File:Urban A Woodbury.jpg|75px]]
+|'''[[Urban A. Woodbury]]'''<br>{{Small|(1838–1915)}}<br>{{sfn|Sobel|1978|p=1594}}<ref name="nga-woodbury">{{Cite web |title=Urban Andrain Woodbury |url=https://www.nga.org/governor/urban-andrain-woodbury/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|October 4, 1894<ref>{{Cite news |date=1894-10-05 |title=The Legislature |page=1 |work=Rutland Daily Herald |url=https://www.newspapers.com/article/rutland-daily-herald-woodbury-inaugurate/128303892/ |access-date=2023-07-16}}</ref><br />–<br />October 8, 1896<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|p=1594}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1894 Vermont gubernatorial election|1894]]
+|{{sortname|Zophar M.|Mansur}}
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Grout, Josiah"|[[File:VshJosiahGrout.JPG|75px]]
+|'''[[Josiah Grout]]'''<br>{{Small|(1841–1925)}}<br>{{sfn|Sobel|1978|p=1595}}<ref name="nga-grout">{{Cite web |title=Josiah Grout |url=https://www.nga.org/governor/josiah-grout/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 8, 1896<ref>{{Cite news |date=1896-10-08 |title=From Woodbury to Grout |page=1 |work=St. Albans Daily Messenger |url=https://www.newspapers.com/article/st-albans-daily-messenger-grout-inaugur/128303967/ |access-date=2023-07-16}}</ref><br />–<br />October 6, 1898<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=1595}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1896 Vermont gubernatorial election|1896]]
+|{{sortname|Nelson W.|Fisk}}
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Smith, Edward"|[[File:Edward Curtis Smith (Vermont governor).jpg|75px]]
+|'''[[Edward Curtis Smith]]'''<br>{{Small|(1854–1935)}}<br>{{sfn|Sobel|1978|pp=1595–1596}}<ref name="nga-smith-edward">{{Cite web |title=Edward Curtis Smith |url=https://www.nga.org/governor/edward-curtis-smith/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 6, 1898<ref>{{Cite news |date=1898-10-06 |title=The Inauguration |page=1 |work=Montpelier Daily Record |url=https://www.newspapers.com/article/montpelier-daily-record-smith-inaugurate/128304007/ |access-date=2023-07-16}}</ref><br />–<br />October 4, 1900<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1595–1596}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1898 Vermont gubernatorial election|1898]]
+|{{sortname|Henry C.|Bates}}
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Stickney, William"|[[File:William Wallace Stickney (Vermont governor).jpg|75px]]
+|'''[[William W. Stickney (politician)|William W. Stickney]]'''<br>{{Small|(1853–1932)}}<br>{{sfn|Sobel|1978|pp=1596–1597}}<ref name="nga-stickney">{{Cite web |title=William W. Stickney |url=https://www.nga.org/governor/william-w-stickney/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="730"|October 4, 1900<ref>{{Cite news |date=1900-10-04 |title=Stickney Inaugurated |page=1 |work=St. Albans Daily Messenger |url=https://www.newspapers.com/article/st-albans-daily-messenger-stickney-inau/128304086/ |access-date=2023-07-16}}</ref><br />–<br />October 3, 1902<br>{{small|(730 days; retired)}}{{sfn|Sobel|1978|pp=1596–1597}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1900 Vermont gubernatorial election|1900]]
+|{{sortname|Martin F.|Allen}}
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="McCullough, John"|[[File:John G McCullough.jpg|75px]]
+|'''[[John G. McCullough]]'''<br>{{Small|(1835–1915)}}<br>{{sfn|Sobel|1978|p=1597}}<ref name="nga-mccullough">{{Cite web |title=John Griffith McCullough |url=https://www.nga.org/governor/john-griffith-mccullough/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="735"|October 3, 1902<ref>{{Cite news |date=1902-10-03 |title=Inauguration Day |page=1 |work=St. Albans Daily Messenger |url=https://www.newspapers.com/article/st-albans-daily-messenger-mccullough-in/128304122/ |access-date=2023-07-16}}</ref><br />–<br />October 6, 1904<br>{{small|(735 days; retired)}}{{sfn|Sobel|1978|p=1597}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1902 Vermont gubernatorial election|1902]]
+|{{sortname|Zed S.|Stanton}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Bell, Charles"|[[File:Charles J. Bell.jpg|75px]]
+|'''[[Charles J. Bell (politician)|Charles J. Bell]]'''<br>{{Small|(1845–1909)}}<br>{{sfn|Sobel|1978|p=1598}}<ref name="nga-bell">{{Cite web |title=Charles James Bell |url=https://www.nga.org/governor/charles-james-bell/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 6, 1904<ref>{{Cite news |date=1904-10-06 |title=Inaugural Day |page=1 |work=St. Albans Daily Messenger |url=https://www.newspapers.com/article/st-albans-daily-messenger-bell-inaugura/128304158/ |access-date=2023-07-16}}</ref><br />–<br />October 4, 1906<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=1598}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1904 Vermont gubernatorial election|1904]]
+|{{sortname|Charles H.|Stearns}}
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Proctor, Fletcher"|[[File:Fletcher D. Proctor (cropped).jpg|75px]]
+|'''[[Fletcher D. Proctor]]'''<br>{{Small|(1860–1911)}}<br>{{sfn|Sobel|1978|pp=1598–1599}}<ref name="nga-proctor-fletcher">{{Cite web |title=Fletcher Dutton Proctor |url=https://www.nga.org/governor/fletcher-dutton-proctor/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|October 4, 1906<ref>{{Cite news |date=1906-10-05 |title=Inauguration |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-proctor-inaugu/128304493/ |access-date=2023-07-16}}</ref><br />–<br />October 8, 1908<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|pp=1598–1599}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1906 Vermont gubernatorial election|1906]]
+|{{sortname|George H.|Prouty}}
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Prouty, George"|[[File:GeorgeProuty.jpg|75px]]
+|'''[[George H. Prouty]]'''<br>{{Small|(1862–1918)}}<br>{{sfn|Sobel|1978|pp=1599–1600}}<ref name="nga-prouty">{{Cite web |title=George Prouty |url=https://www.nga.org/governor/george-prouty/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 8, 1908<ref>{{Cite news |date=1908-10-08 |title=Gov. G. H. Prouty Takes Oath of Office |page=1 |work=Bennington Banner |url=https://www.newspapers.com/article/bennington-banner-prouty-inaugurated-oct/128304573/ |access-date=2023-07-16}}</ref><br />–<br />October 6, 1910<br>{{small|(729 days; retired)}}<ref name="MountainRule"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1908 Vermont gubernatorial election|1908]]
+|{{sortname|John A.|Mead}}
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Mead, John"|[[File:John Abner Mead USA politician Governor Vermont-crop.jpg|75px]]
+|'''[[John A. Mead]]'''<br>{{Small|(1841–1920)}}<br>{{sfn|Sobel|1978|pp=1600–1601}}<ref name="nga-mead">{{Cite web |title=John Abner Mead |url=https://www.nga.org/governor/john-abner-mead/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|October 6, 1910<ref>{{Cite news |date=1910-10-06 |title=John A. Mead Inaugurated As Governor |page=1 |work=The Barre Daily Times |url=https://www.newspapers.com/article/the-barre-daily-times-mead-inaugurated-o/128323142/ |access-date=2023-07-16}}</ref><br />–<br />October 3, 1912<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1600–1601}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1910 Vermont gubernatorial election|1910]]
+|{{sortname|Leighton P.|Slack}}
+|- style="height:2em;"
+!scope="row"|54
+|data-sort-value="Fletcher, Allen"|[[File:Allen Miller Fletcher.jpg|75px]]
+|'''[[Allen M. Fletcher]]'''<br>{{Small|(1853–1922)}}<br>{{sfn|Sobel|1978|p=1601}}<ref name="nga-fletcher-allen">{{Cite web |title=Allen M. Fletcher |url=https://www.nga.org/governor/allen-m-fletcher/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="827"|October 3, 1912<ref>{{Cite news |date=1912-10-03 |title=State Changes Its Governor |page=1 |work=Burlington Daily News |url=https://www.newspapers.com/article/burlington-daily-news-fletcher-inaugurat/128323422/ |access-date=2023-07-16}}</ref><br />–<br />January 7, 1915<br>{{small|(827 days; retired)}}{{sfn|Sobel|1978|p=1601}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1912 Vermont gubernatorial election|1912]]
+|{{sortname|Frank E.|Howe}}
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Gates, Charles"|[[File:Charles W. Gates.jpg|75px]]
+|'''[[Charles W. Gates]]'''<br>{{Small|(1856–1927)}}<br>{{sfn|Sobel|1978|p=1602}}<ref name="nga-gates">{{Cite web |title=Charles W. Gates |url=https://www.nga.org/governor/charles-w-gates/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1915<ref>{{Cite news |date=1915-01-07 |title=Gates Takes Oath; Fletcher's Talk Fairly Bristles |page=1 |work=The Barre Daily Times |url=https://www.newspapers.com/article/the-barre-daily-times-gates-inaugurated/128323547/ |access-date=2023-07-16}}</ref><br />–<br />January 4, 1917<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=1602}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1914 Vermont gubernatorial election|1914]]
+|{{sortname|Hale K.|Darling}}
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="Graham, Horace"|[[File:Horace French Graham.jpg|75px]]
+|'''[[Horace F. Graham]]'''<br>{{Small|(1862–1941)}}<br>{{sfn|Sobel|1978|pp=1602–1603}}<ref name="nga-graham">{{Cite web |title=Horace French Graham |url=https://www.nga.org/governor/horace-french-graham/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="737"|January 4, 1917<ref>{{Cite news |date=1917-01-04 |title=Governor Graham Outlines New Method for Economy |page=1 |work=St. Albans Daily Messenger |url=https://www.newspapers.com/article/st-albans-daily-messenger-graham-inaugu/128323857/ |access-date=2023-07-16}}</ref><br />–<br />January 10, 1919<br>{{small|(737 days; retired)}}<ref name="Slayton">{{cite news |last=Slayton |first=Tom |date=March 2, 1980 |title=End of Vermont's Old 'Mountain Rule' Helped Doom GOP's Political Monopoly |url=https://www.newspapers.com/article/rutland-daily-herald-slayton/137884217/ |work=[[Rutland Herald]] |location=Rutland, VT |page=5 |via=[[Newspapers.com]]}}</ref>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1916 Vermont gubernatorial election|1916]]
+|{{sortname|Roger W.|Hulburd}}
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Clement, Percival"|[[File:Percivalclement.jpg|75px]]
+|'''[[Percival W. Clement]]'''<br>{{Small|(1846–1927)}}<br>{{sfn|Sobel|1978|pp=1603–1604}}<ref name="nga-clement">{{Cite web |title=Percival W. Clement |url=https://www.nga.org/governor/percival-w-clement/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 10, 1919<ref>{{Cite news |date=1919-01-10 |title=Governor Takes Oath of Office |page=1 |work=Burlington Daily News |url=https://www.newspapers.com/article/burlington-daily-news-clement-inaugurate/128323952/ |access-date=2023-07-16}}</ref><br />–<br />January 7, 1921<br>{{small|(729 days; retired)}}<ref name="Slayton"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1918 Vermont gubernatorial election|1918]]
+|{{sortname|Mason S.|Stone}}
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Hartness, James"|[[File:James Hartness.jpg|75px]]
+|'''[[James Hartness]]'''<br>{{Small|(1861–1934)}}<br>{{sfn|Sobel|1978|pp=1604–1605}}<ref name="nga-hartness">{{Cite web |title=James Hartness |url=https://www.nga.org/governor/james-hartness/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="728"|January 7, 1921<ref>{{Cite news |date=1921-01-08 |title=James Hartness Is Inaugurated Governor of State |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-hartness-inaug/128324387/ |access-date=2023-07-16}}</ref><br />–<br />January 4, 1923<br>{{small|(728 days; retired)}}{{sfn|Sobel|1978|pp=1604–1605}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1920 Vermont gubernatorial election|1920]]
+|{{sortname|Abram W.|Foote}}
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="Proctor, Redfield 2"|[[File:RedfieldProctorjr.jpg|75px]]
+|'''[[Redfield Proctor Jr.]]'''<br>{{Small|(1879–1957)}}<br>{{sfn|Sobel|1978|pp=1605–1606}}<ref name="nga-proctor-redfield-2">{{Cite web |title=Redfield Proctor Jr. |url=https://www.nga.org/governor/redfield-proctor-jr/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 4, 1923<ref>{{Cite news |date=1923-01-05 |title=Proctor Takes Oath of Office; Declares for State Budget Based on Expected Income |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-proctor-inaugu/128361914/ |access-date=2023-07-17}}</ref><br />–<br />January 8, 1925<br>{{small|(736 days; retired)}}<ref name="Slayton"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1922 Vermont gubernatorial election|1922]]
+|{{sortname|Franklin S.|Billings}}
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Billings, Franklin"|[[File:Franklin S. Billings.jpg|75px]]
+|'''[[Franklin S. Billings]]'''<br>{{Small|(1862–1935)}}<br>{{sfn|Sobel|1978|p=1606}}<ref name="nga-billings">{{Cite web |title=Franklin Swift Billings |url=https://www.nga.org/governor/franklin-swift-billings/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 8, 1925<ref>{{Cite news |date=1925-01-09 |title=Franklin S. Billings Is Inaugurated 63rd Governor of Vermont |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-billings-inaug/128362016/ |access-date=2023-07-17}}</ref><br />–<br />January 6, 1927<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=1606}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1924 Vermont gubernatorial election|1924]]
+|{{sortname|Walter K.|Farnsworth}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|61
+|rowspan="3" data-sort-value="Weeks, John"|[[File:John Eliakim Weeks.jpg|75px]]
+|rowspan="3"|'''[[John E. Weeks]]'''<br>{{Small|(1853–1949)}}<br>{{sfn|Sobel|1978|pp=1606–1607}}<ref name="nga-weeks">{{Cite web |title=John Eliakim Weeks |url=https://www.nga.org/governor/john-eliakim-weeks/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1464"|January 6, 1927<ref>{{Cite news |date=1927-01-07 |title=John E. Weeks Sworn As State's 64th Governor |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-weeks-inaugura/128362225/ |access-date=2023-07-17}}</ref><br />–<br />January 8, 1931<br>{{small|(1464 days; retired)}}{{efn|Weeks was instead [[1930 United States House of Representatives elections|elected]] to the [[United States House of Representatives]].{{sfn|Sobel|1978|pp=1606–1607}}<ref name="Slayton"/>}}
+|rowspan="3"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|rowspan="2"|[[1926 Vermont gubernatorial election|1926]]
+|{{sortname|Hollister|Jackson}}<br>{{small|(died November 2, 1927)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1928 Vermont gubernatorial election|1928]]
+|rowspan="11" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Stanley C.|Wilson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|62
+|rowspan="2" data-sort-value="Wilson, Stanley"|[[File:Stanley Calef Wilson.jpg|75px]]
+|rowspan="2"|'''[[Stanley C. Wilson]]'''<br>{{Small|(1879–1967)}}<br>{{sfn|Sobel|1978|pp=1607–1608}}<ref name="nga-wilson">{{Cite web |title=Stanley Calef Wilson |url=https://www.nga.org/governor/stanley-calef-wilson/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 8, 1931<ref>{{Cite news |date=1931-01-09 |title=Stanley C. Wilson of Chelsea Is Inducted Into Office As Governor of Vermont |page=1 |work=The Burlington Free Press |agency=Associated Press |url=https://www.newspapers.com/article/the-burlington-free-press-wilson-inaugur/128362398/ |access-date=2023-07-17}}</ref><br />–<br />January 10, 1935<br>{{small|(1464 days; retired)}}<ref>{{cite news |date=July 19, 1934 |title=Gov. Wilson Says He Is Not A Candidate "At This Time" For Re-Election Or For Congress |url=https://www.newspapers.com/article/rutland-daily-herald-candidate/137926888/ |work=[[Rutland Herald]] |location=Rutland, VT |page=1 |via=[[Newspapers.com]]}}</ref>
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1930 Vermont gubernatorial election|1930]]
+|{{sortname|Benjamin|Williams|dab=Vermont politician}}
+|- style="height:2em;"
+|[[1932 Vermont gubernatorial election|1932]]
+|{{sortname|Charles Manley|Smith}}
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Smith, Charles"|[[File:Charles Manley Smith 2.jpg|75px]]
+|'''[[Charles Manley Smith]]'''<br>{{Small|(1868–1937)}}<br>{{sfn|Sobel|1978|pp=1608–1609}}<ref name="nga-smith-charles">{{Cite web |title=Charles Manley Smith |url=https://www.nga.org/governor/charles-manley-smith/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 10, 1935<ref>{{Cite news |date=1935-01-11 |title=Gov. Charles M. Smith Inaugurated in Customary Dignified Ceremony in the Hall of Representatives |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-smith-inaugura/128362430/ |access-date=2023-07-17}}</ref><br />–<br />January 7, 1937<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|pp=1608–1609}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1934 Vermont gubernatorial election|1934]]
+|{{sortname|George D.|Aiken}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|64
+|rowspan="2" data-sort-value="Aiken, George"|[[File:GeorgeAiken-VTSEN- (cropped).jpg|75px]]
+|rowspan="2"|'''[[George Aiken]]'''<br>{{Small|(1892–1984)}}<br>{{sfn|Sobel|1978|p=1609}}<ref name="nga-aiken">{{Cite web |title=George D. Aiken |url=https://www.nga.org/governor/george-d-aiken/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 7, 1937<ref>{{Cite news |date=1937-01-08 |title=Gov. Aiken's Inaugural Raps Connecticut River Storage Dam Projects |page=16 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-aiken-inaugura/128362600/ |access-date=2023-07-17}}</ref><br />–<br />January 9, 1941<br>{{small|(1464 days; retired)}}<ref>{{cite news |date=June 25, 1940 |title=Young Gibson To Succeed His Father |url=https://www.newspapers.com/article/the-bennington-evening-banner-gibson/137929224/ |work=[[Bennington Banner]] |location=Bennington, VT |page=1 |via=[[Newspapers.com]]}}</ref>{{efn|Aiken was instead [[1940 United States Senate special election in Vermont|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1609}}}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1936 Vermont gubernatorial election|1936]]
+|rowspan="2"|{{sortname|William Henry|Wills|dab=politician}}
+|- style="height:2em;"
+|[[1938 Vermont gubernatorial election|1938]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|65
+|rowspan="2" data-sort-value="Wills, William"|[[File:Wm Henry Wills.jpg|75px]]
+|rowspan="2"|'''[[William Henry Wills (politician)|William Henry Wills]]'''<br>{{Small|(1882–1946)}}<br>{{sfn|Sobel|1978|p=1610}}<ref name="nga-wills">{{Cite web |title=William H. Wills |url=https://www.nga.org/governor/william-h-wills/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 9, 1941<ref>{{Cite news |date=1941-01-10 |title=Inaugural Crowd of 1000 Hears Gov. Wills Call for Industrial Expansion Program in State |page=1 |work=Rutland Daily Herald |url=https://www.newspapers.com/article/rutland-daily-herald-wills-inaugurated-j/128362786/ |access-date=2023-07-17}}</ref><br />–<br />January 4, 1945<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|p=1610}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1940 Vermont gubernatorial election|1940]]
+|rowspan="2"|{{sortname|Mortimer R.|Proctor}}
+|- style="height:2em;"
+|[[1942 Vermont gubernatorial election|1942]]
+|- style="height:2em;"
+!scope="row"|66
+|data-sort-value="Proctor, Mortimer"|[[File:Mortimer R. Proctor (Vermont governor).jpg|75px]]
+|'''[[Mortimer R. Proctor]]'''<br>{{Small|(1889–1968)}}<br>{{sfn|Sobel|1978|pp=1610–1611}}<ref name="nga-proctor-mortimer">{{Cite web |title=Mortimer R. Proctor |url=https://www.nga.org/governor/mortimer-r-proctor/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 4, 1945<ref>{{Cite news |date=1945-01-05 |title=Proctor Is Inaugurated Governor, Pledging to Further Strengthen and Revitalize State of Vermont |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-proctor-inaugu/128362893/ |access-date=2023-07-17}}</ref><br />–<br />January 9, 1947<br>{{small|(736 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1610–1611}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1944 Vermont gubernatorial election|1944]]
+|rowspan="2"|{{sortname|Lee E.|Emerson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|67
+|rowspan="2" data-sort-value="Gibson, Ernest"|[[File:Ernest W. Gibson Jr. (VT).jpg|75px]]
+|rowspan="2"|'''[[Ernest W. Gibson Jr.]]'''<br>{{Small|(1901–1969)}}<br>{{sfn|Sobel|1978|pp=1611–1612}}<ref name="nga-gibson">{{Cite web |title=Ernest William Gibson |url=https://www.nga.org/governor/ernest-william-gibson/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1104"|January 9, 1947<ref>{{Cite news |date=1947-01-10 |title=Ernest W. Gibson Becomes State's 65th Governor, Advocates Some Sweeping Changes in Gov't |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-gibson-inaugur/128362955/ |access-date=2023-07-17}}</ref><br />–<br />January 16, 1950<br>{{small|(1104 days; resigned)}}{{efn|Gibson resigned, having been confirmed to the [[United States District Court for the District of Vermont]].{{sfn|Sobel|1978|pp=1611–1612}}}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1946 Vermont gubernatorial election|1946]]
+|- style="height:2em;"
+|[[1948 Vermont gubernatorial election|1948]]
+|{{sortname|Harold J.|Arthur}}
+|- style="height:2em;"
+!scope="row"|68
+|data-sort-value="Arthur, Harold"|[[File:Harold J. Arthur.jpg|75px]]
+|'''[[Harold J. Arthur]]'''<br>{{Small|(1904–1971)}}<br>{{sfn|Sobel|1978|pp=1612–1613}}<ref name="nga-arthur">{{Cite web |title=Harold John Arthur |url=https://www.nga.org/governor/harold-john-arthur/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="354"|January 16, 1950<ref>{{Cite news |date=1950-01-17 |title=Gov. Arthur in Inaugural Address Says He Will Be a Candidate for 2nd Term |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-arthur-succeed/128363009/ |access-date=2023-07-17}}</ref><br />–<br />January 4, 1951<br>{{small|(354 days; retired)}}{{sfn|Sobel|1978|pp=1612–1613}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|69
+|rowspan="2" data-sort-value="Emerson, Lee"|[[File:Lee Emerson Vermont 2.jpg|75px]]
+|rowspan="2"|'''[[Lee E. Emerson]]'''<br>{{Small|(1898–1976)}}<br>{{sfn|Sobel|1978|p=1613}}<ref name="nga-emerson">{{Cite web |title=Lee Emerson |url=https://www.nga.org/governor/lee-emerson/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1951<ref>{{Cite news |date=1951-01-05 |title=Gov. Emerson's Inaugural Message Urges Revision of 4 Major State Depts. |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-emerson-inaugu/128363301/ |access-date=2023-07-17}}</ref><br />–<br />January 6, 1955<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1950 Vermont gubernatorial election|1950]]
+|rowspan="7" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Joseph B.|Johnson}}
+|- style="height:2em;"
+|[[1952 Vermont gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|70
+|rowspan="2" data-sort-value="Johnson, Joseph"|[[File:Joseph Blaine Johnson.jpg|75px]]
+|rowspan="2"|'''[[Joseph B. Johnson]]'''<br>{{Small|(1893–1986)}}<br>{{sfn|Sobel|1978|p=1614}}<ref name="nga-johnson">{{Cite web |title=Joseph Blaine Johnson |url=https://www.nga.org/governor/joseph-blaine-johnson/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1471"|January 6, 1955<ref>{{Cite news |date=1955-01-07 |title=Legislators and Visitors in Reception Line Greeting Vermont's Governor Johnson |page=1 |work=The Bennington Evening Banner |url=https://www.newspapers.com/article/the-bennington-evening-banner-johnson-in/128363397/ |access-date=2023-07-17}}</ref><br />–<br />January 15, 1959<br>{{small|(1471 days; retired)}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1954 Vermont gubernatorial election|1954]]
+|{{sortname|Consuelo N.|Bailey}}
+|- style="height:2em;"
+|[[1956 Vermont gubernatorial election|1956]]
+|{{sortname|Robert T.|Stafford}}
+|- style="height:2em;"
+!scope="row"|71
+|data-sort-value="Stafford, Robert"|[[File:Robert Stafford.jpg|75px]]
+|'''[[Robert Stafford]]'''<br>{{Small|(1913–2006)}}<br>{{sfn|Sobel|1978|pp=1614–1615}}<ref name="nga-stafford">{{Cite web |title=Robert T. Stafford |url=https://www.nga.org/governor/robert-t-stafford/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="722"|January 15, 1959<ref>{{Cite news |date=1959-01-16 |title=Stafford Inaugurated; Outlines Broad Program |page=1 |work=Rutland Daily Herald |url=https://www.newspapers.com/article/rutland-daily-herald-stafford-inaugurate/128363730/ |access-date=2023-07-17}}</ref><br />–<br />January 5, 1961<br>{{small|(722 days; retired)}}{{efn|Stafford was instead [[1960 United States House of Representatives elections|elected]] to the [[United States House of Representatives]].{{sfn|Sobel|1978|pp=1614–1615}}}}
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1958 Vermont gubernatorial election|1958]]
+|{{sortname|Robert S.|Babcock}}
+|- style="height:2em;"
+!scope="row"|72
+|data-sort-value="Keyser, F. Ray"|[[File:F. Ray Keyser Jr. (VT).png|75px]]
+|'''[[F. Ray Keyser Jr.]]'''<br>{{Small|(1927–2015)}}<br>{{sfn|Sobel|1978|pp=1615–1616}}<ref name="nga-keyser">{{Cite web |title=F. Ray Keyser |url=https://www.nga.org/governor/f-ray-keyser/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 5, 1961<ref>{{Cite news |date=1961-01-06 |title=Youngest Governor Begins His Term in State House |page=1 |work=Burlington Daily News |agency=United Press International |url=https://www.newspapers.com/article/burlington-daily-news-keyser-inaugurated/128363827/ |access-date=2023-07-17}}</ref><br />–<br />January 10, 1963<br>{{small|(736 days; lost election)}}<ref name="Position"/>
+|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1960 Vermont gubernatorial election|1960]]
+|rowspan="2"|{{sortname|Ralph A.|Foote}}{{efn|Represented the [[Vermont Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|73
+|rowspan="3" data-sort-value="Hoff, Philip"|[[File:Philip H. Hoff (VT).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Philip H. Hoff]]'''<br>{{Small|(1924–2018)}}<br>{{sfn|Sobel|1978|p=1616}}<ref name="nga-hoff">{{Cite web |title=Philip Henderson Hoff |url=https://www.nga.org/governor/philip-henderson-hoff/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 10, 1963<ref>{{Cite news |date=1963-01-18 |title=Philip Hoff Takes Office As 71st Vermont Governor |page=1A |work=Addison County Independent |url=https://www.newspapers.com/article/addison-county-independent-hoff-inaugura/128364839/ |access-date=2023-07-17}}</ref><br />–<br />January 9, 1969<br>{{small|(2192 days; retired)}}{{sfn|Sobel|1978|p=1616}}
+|rowspan="3"|[[Vermont Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1962 Vermont gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1964 Vermont gubernatorial election|1964]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|John J.|Daley}}
+|- style="height:2em;"
+|[[1966 Vermont gubernatorial election|1966]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|74
+|rowspan="2" data-sort-value="Davis, Deane"|[[File:Deane C. Davis (VT).png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Deane C. Davis]]'''<br>{{Small|(1900–1990)}}<br>{{sfn|Sobel|1978|p=1617}}<ref name="nga-davis">{{Cite web |title=Deane C. Davis |url=https://www.nga.org/governor/deane-c-davis/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 9, 1969<ref>{{Cite news |date=1969-01-10 |title=Family Watches As Davis Takes Oath As Governor |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-davis-inaugura/128365118/ |access-date=2023-07-17}}</ref><br />–<br />January 4, 1973<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Vermont Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1968 Vermont gubernatorial election|1968]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Thomas L.|Hayes}}
+|- style="height:2em;"
+|[[1970 Vermont gubernatorial election|1970]]
+|rowspan="2"|{{sortname|John S.|Burgess}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|75
+|rowspan="2" data-sort-value="Salmon, Thomas"|[[File:Thomas P. Salmon.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Thomas P. Salmon]]'''<br>{{small|(1932–2025)}}<br>{{sfn|Sobel|1978|pp=1617–1618}}<ref name="nga-salmon">{{Cite web |title=Thomas P. Salmon |url=https://www.nga.org/governor/thomas-p-salmon/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1973<ref>{{Cite news |date=1973-01-05 |title=Vermont's Leadership Changes |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-salmon-inaugur/128365167/ |access-date=2023-07-17}}</ref><br />–<br />January 6, 1977<br>{{small|(1464 days; retired)}}{{efn|Salmon instead [[1976 United States Senate election in Vermont|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|pp=1617–1618}}}}
+|rowspan="2"|[[Vermont Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=587–589}}
+|[[1972 Vermont gubernatorial election|1972]]
+|- style="height:2em;"
+|[[1974 Vermont gubernatorial election|1974]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Brian D.|Burns}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|76
+|rowspan="4" data-sort-value="Snelling, Richard"|[[File:Richard A Snelling.jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|'''[[Richard A. Snelling]]'''<br>{{Small|(1927–1991)}}<br>{{sfn|Sobel|1978|pp=1618–1619}}<ref name="nga-snelling">{{Cite web |title=Richard A. Snelling |url=https://www.nga.org/governor/richard-a-snelling/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2927"|January 6, 1977<ref>{{Cite news |last=Conte |first=Christopher |date=1977-01-07 |title=It Was a Day of Shock and Ceremony for the Legislature |page=7 |work=Rutland Daily Herald |url=https://www.newspapers.com/article/rutland-daily-herald-snelling-inaugurate/128365250/ |access-date=2023-07-17}}</ref><br />–<br />January 10, 1985<br>{{small|(2927 days; retired)}}
+|rowspan="4"|[[Vermont Republican Party|Republican]]<ref name="nga-snelling" />
+|[[1976 Vermont gubernatorial election|1976]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|T. Garry|Buckley}}
+|- style="height:2em;"
+|[[1978 Vermont gubernatorial election|1978]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Madeleine|Kunin}}{{efn|Represented the [[Vermont Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+|[[1980 Vermont gubernatorial election|1980]]
+|- style="height:2em;"
+|[[1982 Vermont gubernatorial election|1982]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Peter P.|Smith}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|77
+|rowspan="3" data-sort-value="Kunin, Madeleine"|[[File:Madeleine Kunin (D-VT).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Madeleine Kunin]]'''<br>{{small|({{Abbr|b.|born in}} 1933)}}<br><ref name="nga-kunin">{{Cite web |title=Madeleine M. Kunin |url=https://www.nga.org/governor/madeleine-m-kunin/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 10, 1985<ref>{{Cite news |last=Hoffman |first=Jack |date=1985-01-11 |title=Gov. Madeleine Kunin Begins Her Historic Term |page=1 |work=Rutland Daily Herald |url=https://www.newspapers.com/article/rutland-daily-herald-kunin-inaugurated-j/128365559/ |access-date=2023-07-17}}</ref><br />–<br />January 10, 1991<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Vermont Democratic Party|Democratic]]<ref name="nga-kunin" />
+|[[1984 Vermont gubernatorial election|1984]]
+|- style="height:2em;"
+|[[1986 Vermont gubernatorial election|1986]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Howard|Dean}}
+|- style="height:2em;"
+|[[1988 Vermont gubernatorial election|1988]]
+|- style="height:2em;"
+!scope="row"|78
+|data-sort-value="Snelling, Richard"|[[File:Richard A Snelling.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Richard A. Snelling]]'''<br>{{Small|(1927–1991)}}<br><ref name="nga-snelling" />
+|data-sort-value="216"|January 10, 1991<ref>{{Cite news |last=Allen |first=Susan |date=1991-01-11 |title=Snelling Optimistic Amid Grim Budget Warnings |page=1A |work=The Burlington Free Press |agency=Associated Press |url=https://www.newspapers.com/article/the-burlington-free-press-snelling-inaug/128365747/ |access-date=2023-07-17}}</ref><br />–<br />August 13, 1991<br>{{small|(216 days; died in office)}}
+|[[Vermont Republican Party|Republican]]<ref name="nga-snelling" />
+|[[1990 Vermont gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|79
+|rowspan="6" data-sort-value="Dean, Howard"|[[File:Howard Dean (cropped).jpg|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="6"|'''[[Howard Dean]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-dean">{{Cite web |title=Howard Dean |url=https://www.nga.org/governor/howard-dean/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="6" data-sort-value="4168"|August 13, 1991<ref>{{Cite news |last=Liley |first=Betsy |date=1991-08-14 |title=Democrat Dean Takes Top Post |page=1 |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-dean-succeeds/128365851/ |access-date=2023-07-17}}</ref><br />–<br />January 9, 2003<br>{{small|(4168 days; retired)}}
+|rowspan="6"|[[Vermont Democratic Party|Democratic]]<ref name="nga-dean" />
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1992 Vermont gubernatorial election|1992]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Barbara W.|Snelling}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1994 Vermont gubernatorial election|1994]]
+|- style="height:2em;"
+|[[1996 Vermont gubernatorial election|1996]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Doug|Racine}}
+|- style="height:2em;"
+|[[1998 Vermont gubernatorial election|1998]]
+|- style="height:2em;"
+|[[2000 Vermont gubernatorial election|2000]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|80
+|rowspan="4" data-sort-value="Douglas, Jim"|[[File:Jim Douglas-2009 (cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|'''[[Jim Douglas]]'''<br>{{small|({{Abbr|b.|born in}} 1951)}}<br><ref name="nga-douglas">{{Cite web |title=Jim Douglas |url=https://www.nga.org/governor/jim-douglas/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2920"|January 9, 2003<ref>{{Cite news |last=Remsen |first=Nancy |date=2003-01-10 |title=Douglas Takes Reins of Vt. Government |page=1A |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-douglas-inaugu/128365981/ |access-date=2023-07-17}}</ref><br />–<br />January 6, 2011<br>{{small|(2920 days; retired)}}
+|rowspan="4"|[[Vermont Republican Party|Republican]]<ref name="nga-douglas" />
+|[[2002 Vermont gubernatorial election|2002]]
+|rowspan="7" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|{{sortname|Brian|Dubie}}
+|- style="height:2em;"
+|[[2004 Vermont gubernatorial election|2004]]
+|- style="height:2em;"
+|[[2006 Vermont gubernatorial election|2006]]
+|- style="height:2em;"
+|[[2008 Vermont gubernatorial election|2008]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|81
+|rowspan="3" data-sort-value="Shumlin, Peter"|[[File:Peter Shumlin (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Peter Shumlin]]'''<br>{{small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-shumlin">{{Cite web |title=Peter Shumlin |url=https://www.nga.org/governor/peter-shumlin/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 6, 2011<ref>{{Cite news |last=Hallenbeck |first=Terri |date=2011-01-07 |title=State's 81st Governor Inaugurated; Democrat Lays Out Bold Agenda |page=1A |work=The Burlington Free Press |url=https://www.newspapers.com/article/the-burlington-free-press-shumlin-inaugu/128366048/ |access-date=2023-07-17}}</ref><br />–<br />January 5, 2017<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Vermont Democratic Party|Democratic]]<ref name="nga-shumlin" />
+|[[2010 Vermont gubernatorial election|2010]]
+|rowspan="3"|{{sortname|Phil|Scott}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[2012 Vermont gubernatorial election|2012]]
+|- style="height:2em;"
+|[[2014 Vermont gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|82
+|rowspan="6" data-sort-value="Scott, Phil"|[[File:Phil Scott 2019 (cropped).jpg|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="6"|'''[[Phil Scott]]'''<br>{{small|({{Abbr|b.|born in}} 1958)}}<br><ref name="nga-scott">{{Cite web |title=Phil Scott |url=https://www.nga.org/governor/phil-scott/ |access-date=July 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="6" data-sort-value="{{Duration in days nts|2017|1|5|duration=on|format=no}}"|January 5, 2017<ref>{{Cite news |last=Goswami |first=Neal P. |date=2017-01-06 |title=New Governor Vows to Make Vt. Affordable |page=A1 |work=Rutland Daily Herald |url=https://www.newspapers.com/article/rutland-daily-herald-scott-inaugurated-j/128366114/ |access-date=2023-07-17}}</ref><br />–<br />Incumbent{{efn|Scott's fifth term began on January 9, 2025,<ref>{{Cite news |last=Cusanelli |first=Michael |date=2025-01-09 |title=In inaugural address, Scott touches on familiar themes of affordability, housing |url=https://www.mynbc5.com/article/vermont-gov-phil-scott-to-give-inaugural-address/63382775 |access-date=2025-01-23 |work=WPTZ |language=en}}</ref> and [[2026 Vermont gubernatorial election|will expire]] in January 2027; he was elected to a sixth term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2017|1|5|duration=on|format=no}} days)}}
+|rowspan="6"|[[Vermont Republican Party|Republican]]<ref name="nga-scott" />
+|[[2016 Vermont gubernatorial election|2016]]
+|rowspan="2" style="color:inherit;background:{{party color|Vermont Progressive Party}};" title="Represented the Progressive Party"|
+|rowspan="2"|{{sortname|David|Zuckerman|dab=politician}}{{efn|Represented the [[Vermont Progressive Party|Progressive Party]]|name=lt-vpp}}
+|- style="height:2em;"
+|[[2018 Vermont gubernatorial election|2018]]
+|- style="height:2em;"
+|[[2020 Vermont gubernatorial election|2020]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Molly|Gray}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[2022 Vermont gubernatorial election|2022]]
+|style="color:inherit;background:{{party color|Vermont Progressive Party}};" title="Represented the Progressive Party"|
+|{{sortname|David|Zuckerman|dab=politician}}{{efn|name=lt-vpp}}
+|- style="height:2em;"
+|[[2024 Vermont gubernatorial election|2024]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John S.|Rodgers}}
+|- style="height:2em;"
+|[[2026 Vermont gubernatorial election|2026]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|''{{sortname|Molly|Gray}}''{{efn|name=lt-dem}}
+|}
+
+==See also==
+*{{section link|Gubernatorial lines of succession in the United States|Vermont}}
+*[[List of Vermont General Assemblies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former Vermont Governors |url=https://www.nga.org/former-governors/vermont/ |access-date=July 5, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Vermont - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=282 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+==External links==
+*[https://governor.vermont.gov/ Office of the Governor of Vermont]
+
+{{Lists of US Governors}}
+{{Governors of Vermont}}
+{{Vermont}}
+
+{{DEFAULTSORT:Vermont, List of Governors of}}
+[[Category:Lists of state governors of the United States|Vermont]]
+[[Category:Lists of Vermont politicians|Governors]]
+[[Category:Governors of Vermont| ]]
+[[Category:Vermont history-related lists|Governors]]

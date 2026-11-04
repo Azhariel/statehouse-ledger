@@ -1,0 +1,1312 @@
+{{Short description|Politics in the US state of South Carolina}}
+{{multiple issues|
+{{More citations needed|date=September 2020}}
+{{Missing information|state officials, mainly in the 19th century|date=February 2019}}
+}}
+The following table indicates the '''parties of elected officials in the [[U.S. state]] of [[South Carolina]]''':
+*[[List of governors of South Carolina|Governor]]
+*[[List of lieutenant governors of South Carolina|Lieutenant Governor]]
+*[[Secretary of State of South Carolina|Secretary of State]]
+*[[Attorneys General of South Carolina|Attorney General]]
+*[[Treasurer of South Carolina|Treasurer]]
+*[[Comptroller General of South Carolina|Comptroller General]]
+*[[South Carolina Superintendent of Education|Superintendent of Education]]
+*[[South Carolina Adjutant General|Adjutant General]] (no longer elected after 2014; appointed by governor beginning in 2019)<ref name=aj>{{cite web |url=https://ballotpedia.org/South_Carolina_Adjutant_General |title=South Carolina Adjutant General |publisher=BallotPedia |access-date=January 16, 2018}}</ref>
+*[[South Carolina Department of Agriculture|Commissioner of Agriculture]]
+
+The table also indicates the historical party composition in the:
+*[[South Carolina Senate|State Senate]]
+*[[South Carolina House of Representatives|State House of Representatives]]
+*[[List of United States senators from South Carolina|State delegation to the U.S. Senate]]
+*[[List of United States representatives from South Carolina|State delegation to the U.S. House of Representatives]]
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+'''Bold''' indicates present office holders.
+
+==1776–1864==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[South Carolina General Assembly|State Legislature]]{{cn|date=August 2024}}
+!colspan=3 |[[South Carolina's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of South Carolina|Governor]]
+!class=unsortable |[[List of lieutenant governors of South Carolina|Lt. Governor]]
+!class=unsortable |[[Secretary of State of South Carolina|Sec. of State]]
+!class=unsortable |[[Attorney General of South Carolina|Atty. Gen.]]
+!class=unsortable |[[South Carolina Comptroller General|Comptroller]]
+!class=unsortable |[[South Carolina Adjutant General|Adj. Gen.]]
+!class=unsortable |[[South Carolina Senate|State Senate]]
+!class=unsortable |[[South Carolina House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from South Carolina|U.S. Senator (Class II)]]
+!class=unsortable |[[List of United States senators from South Carolina|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from South Carolina|U.S. House]]
+|- style="height:2em"
+!1776
+|rowspan=2 {{Party shading/Independent}} |[[John Rutledge]] {{small|(I)}}{{efn |name=articles-pres|President under the [[Articles of Confederation]] chosen by the [[South Carolina General Assembly|General Assembly]].}}{{efn |name=resigned|Resigned.}}<!-- Gov -->
+|{{Party shading/Independent}} |[[Henry Laurens]] {{small|(I)}}<!-- LG -->
+|rowspan=7 class="small" |{{data missing|date=February 2020|?}}<!-- Sec. -->
+|rowspan=16 class="small" |Alexander Moultrie<!-- AG -->
+|rowspan=14 class="small" |''no such office''<!-- Comptroller -->
+|rowspan=3 class="small" |{{data missing|date=February 2020|?}}<!-- Adjutant -->
+|colspan=2 {{Party shading/Independent}} |Ind.
+|colspan=4 rowspan=13 |''no such offices''
+|- style="height:2em"
+!1777
+|rowspan=2 {{Party shading/Independent}} |[[James Parsons (lieutenant governor)|James Parsons]] {{small|(I)}}<!-- LG -->
+|colspan=2 rowspan=2 {{Party shading/Independent}} |Ind.
+|- style="height:2em"
+!1778
+|{{Party shading/Independent}} |[[Rawlins Lowndes]] {{small|(I)}}{{efn |name=articles-pres}}{{efn |Imprisoned by [[United Kingdom|British]] during [[American Revolution]].}}<!-- Gov -->
+|- style="height:2em"
+!1779
+|rowspan=3 {{Party shading/Independent}} |[[John Rutledge]] {{small|(I)}}{{efn |name=articles-gov|Governor under the Articles of Confederation chosen by the General Assembly.}}<!-- Gov -->
+|{{Party shading/Independent}} |[[Thomas Bee]] {{small|(I)}}<!-- LG -->
+|rowspan=13 |[[Pierce Butler (American politician)|Pierce Butler]]
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|- style="height:2em"
+!1780
+|rowspan=2 {{Party shading/Independent}} |[[Christopher Gadsden]] {{small|(I)}}<!-- LG -->
+|- style="height:2em"
+!1781
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|- style="height:2em"
+!1782
+|{{Party shading/Independent}} |[[John Mathews (lawyer)|John Mathews]] {{small|(I)}}{{efn |name=articles-gov}}<!-- Gov -->
+|{{Party shading/Independent}} |[[Richard Hutson]] {{small|(I)}}<!-- LG -->
+|- style="height:2em"
+!1783
+|rowspan=2 {{Party shading/Independent}} |[[Benjamin Guerard]] {{small|(I)}}{{efn |name=articles-gov}}<!-- Gov -->
+|{{Party shading/Independent}} |[[Richard Beresford]] {{small|(I)}}<!-- LG -->
+|rowspan=4 |[[John Vanderhorst]]
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|- style="height:2em"
+!1784
+|{{Party shading/Independent}} |[[William Moultrie]] {{small|(I)}}<!-- LG -->
+|- style="height:2em"
+!1785
+|rowspan=2 {{Party shading/Independent}} |[[William Moultrie]] {{small|(I)}}{{efn |name=articles-gov}}<!-- Gov -->
+|rowspan=2 {{Party shading/Independent}} |[[Charles Drayton]] {{small|(I)}}<!-- LG -->
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|rowspan=2 {{Party shading/Independent}} |Ind.
+|- style="height:2em"
+!1786
+|- style="height:2em"
+!1787
+|rowspan=2 {{Party shading/Federalist}} |[[Thomas Pinckney]] {{small|(F)}}{{efn |name=articles-gov}}<!-- Gov -->
+|rowspan=2 {{Party shading/Federalist}} |[[Thomas Gadsden]] {{small|(F)}}<!-- LG -->
+|rowspan=8 {{Party shading/Democratic-Republican}} |Peter Freneau {{small|(DR)}}
+|rowspan=2 {{Party shading/Federalist}} |F maj.<!-- SC Senate -->
+|rowspan=2 {{Party shading/Federalist}} |F maj.<!-- SC House -->
+|- style="height:2em"
+!1788
+|- style="height:2em"
+!1789
+|rowspan=3 {{Party shading/Federalist}} |[[Charles Pinckney (governor)|Charles Pinckney]] {{small|(F)}}{{efn |name=articles-gov}}<!-- Gov -->
+|rowspan=2 {{Party shading/Federalist}} |[[Alexander Gillon]] {{small|(F)}}<!-- LG -->
+|rowspan=2 {{Party shading/Federalist}} |F maj.<!-- SC Senate -->
+|rowspan=2 {{Party shading/Federalist}} |F maj.<!-- SC House -->
+|rowspan=3 {{Party shading/Pro-Administration}} |[[Pierce Butler (American politician)|Pierce Butler]] {{small|(PA)}}<!-- US Senator 2 -->
+|rowspan=6 {{Party shading/Pro-Administration}} |[[Ralph Izard]] {{small|(PA)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Anti-Administration}} |3AA, 2PA<!-- US House -->
+|rowspan=4 {{Party shading/Independent}} |[[George Washington|Washington]] {{small|(I)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1790
+|rowspan=10 |{{data missing|date=February 2020|?}}<!-- Comptroller -->
+|- style="height:2em"
+!1791
+|{{Party shading/Federalist}} |[[Isaac Holmes (lieutenant governor)|Isaac Holmes]] {{small|(F)}}<!-- LG -->
+|{{Party shading/Federalist}} |F maj.<!-- SC Senate -->
+|{{Party shading/Federalist}} |F maj.
+|rowspan=2 {{Party shading/Pro-Administration}} |3PA, 2AA<!-- US House -->
+|- style="height:2em"
+!1792
+|rowspan=2 {{Party shading/Federalist}} |[[William Moultrie]] {{small|(F)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Federalist}} |[[James Ladson]] {{small|(F)}}<!-- LG -->
+|rowspan=16 |John Julius Pringle
+|rowspan=13 |Laurence Manning
+|rowspan=2 {{Party shading/Federalist}} |F maj.<!-- SC Senate -->
+|rowspan=2 {{Party shading/Federalist}} |F maj.
+|rowspan=2 {{Party shading/Anti-Administration}} |[[Pierce Butler (American politician)|Pierce Butler]] {{small|(AA)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1793
+|{{Party shading/Anti-Administration}} |5AA, 1PA<!-- US House -->
+|rowspan=4 {{Party shading/Independent}} |[[George Washington|Washington]] {{small|(I)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1794
+|rowspan=2 {{Party shading/Federalist}} |[[Arnoldus Vanderhorst]] {{small|(F)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Federalist}} |[[Lewis Morris]] {{small|(F)}}<!-- LG -->
+|rowspan=2 {{Party shading/Federalist}} |F maj.<!-- SC Senate -->
+|rowspan=2 {{Party shading/Federalist}} |F maj.
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Pierce Butler (American politician)|Pierce Butler]] {{small|(DR)}}
+|{{Party shading/Anti-Administration}} |4AA, 2PA<!-- US House -->
+|- style="height:2em"
+!1795
+|rowspan=4 |Stephen Ravenel
+|rowspan=6 {{party shading/Federalist}} |[[Jacob Read]] {{small|(F)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |4DR, 2AA<!-- US House -->
+|- style="height:2em"
+!1796
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Charles Pinckney (governor)|Charles Pinckney]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Robert Anderson (Revolutionary War)|Robert Anderson]] {{small|(DR)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |DR maj.<!-- SC Senate -->
+|rowspan=2 {{Party shading/Federalist}} |F maj.
+|- style="height:2em"
+!1797
+|rowspan=2 {{party shading/Democratic-Republican}} |[[John Hunter (South Carolina politician)|John Hunter]] {{small|(DR)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Tie}} |3DR, 3F<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]] {{small|(DR)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1798
+|rowspan=2 {{Party shading/Federalist}} |[[Edward Rutledge]] {{small|(F)}}{{efn |name=died|Died in office.}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Drayton]] {{small|(DR)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |DR maj.
+|rowspan=2 {{Party shading/Democratic-Republican}} |DR maj.
+|- style="height:2em"
+!1799
+|rowspan=4 |Isaac Motte Dart
+|rowspan=3 {{party shading/Democratic-Republican}} |[[Charles Pinckney (governor)|Charles Pinckney]] {{small|(DR)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Federalist}} |5F, 1DR<!-- US House -->
+|- style="height:2em"
+!1800
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Drayton]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Richard Winn]] {{small|(DR)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Paul Hamilton (politician)|Paul Hamilton]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |DR maj.
+|rowspan=2 {{Party shading/Democratic-Republican}} |DR maj.
+|- style="height:2em"
+!1801
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John E. Colhoun]] {{small|(DR)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Tie}} |3DR, 3F<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1802
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[James Burchill Richardson]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Ezekiel Pickens]] {{small|(DR)}}
+|rowspan=26 {{Party shading/Democratic-Republican}} |DR maj.
+|rowspan=26 {{Party shading/Democratic-Republican}} |DR maj.
+|rowspan=9 {{party shading/Democratic-Republican}} |[[Thomas Sumter]] {{small|(DR)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1803
+|rowspan=4 |[[Daniel Elliott Huger]]
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Pierce Butler (American politician)|Pierce Butler]] {{small|(DR)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |6DR, 2F<!-- US House -->
+|- style="height:2em"
+!1804
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Paul Hamilton (politician)|Paul Hamilton]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Thomas Sumter Jr.]] {{small|(DR)}}<!-- LG -->
+|rowspan=13 {{Party shading/Democratic-Republican}} |[[Thomas Lee (South Carolina judge)|Thomas Lee]] {{small|(DR)}}
+|- style="height:2em"
+!1805
+|rowspan=31 |John Baylis Earle
+|rowspan=20 {{Party shading/Democratic-Republican}} |[[John Gaillard]] {{small|(DR)}}<!-- US Senator 3 -->
+|rowspan=8 {{Party shading/Democratic-Republican}} |8DR<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]]/<br>[[George Clinton (vice president)|Clinton]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1806
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Charles Pinckney (governor)|Charles Pinckney]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |John Hopkins {{small|(DR)}}<!-- LG -->
+|- style="height:2em"
+!1807
+|rowspan=4 |[[Stephen Lee Jr.]]<!-- Sec. -->
+|- style="height:2em"
+!1808
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Drayton]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Frederick Nance]] {{small|(DR)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Langdon Cheves]] {{small|(DR)}}
+|- style="height:2em"
+!1809
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison|Madison]]/<br>[[George Clinton (vice president)|Clinton]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1810
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Henry Middleton (governor)|Henry Middleton]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Samuel Farrow]] {{small|(DR)}}<!-- LG -->
+|rowspan=8 |John Smythe Richardson Sr.<!-- AG -->
+|- style="height:2em"
+!1811
+|rowspan=4 |Daniel James Ravenel
+|rowspan=6 {{party shading/Democratic-Republican}} |[[John Taylor (South Carolina governor)|John Taylor]] {{small|(DR)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1812
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Joseph Alston]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Eldred Simkins]] {{small|(DR)}}<!-- LG -->
+|- style="height:2em"
+!1813
+|rowspan=2 {{Party shading/Democratic-Republican}} |9DR<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison|Madison]]/<br>[[Elbridge Gerry|Gerry]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1814
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[David Rogerson Williams]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Robert Creswell]] {{small|(DR)}}<!-- LG -->
+|- style="height:2em"
+!1815
+|rowspan=4 |[[John G. Brown (South Carolina politician)|John G. Brown]]<!-- Sec. -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |8DR, 1F<!-- US House -->
+|- style="height:2em"
+!1816
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Andrew Pickens (governor)|Andrew Pickens]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Alfred Cuthbert]] {{small|(DR)}}<!-- LG -->
+|- style="height:2em"
+!1817
+|{{Party shading/Democratic-Republican}} |George Warren Cross {{small|(DR)}}
+|rowspan=6 {{party shading/Democratic-Republican}} |[[William Smith (South Carolina senator)|William Smith]] {{small|(DR)}}<!-- US Senator 2 -->
+|rowspan=8 {{Party shading/Democratic-Republican}} |9DR<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Monroe|Monroe]]/<br>[[Daniel D. Tompkins|Tompkins]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1818
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Geddes (politician)|John Geddes]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[William Youngblood]] {{small|(DR)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Robert Y. Hayne]] {{small|(DR)}}<!-- AG -->
+|{{Party shading/Democratic-Republican}} |[[Robert Creswell]] {{small|(DR)}}<!-- Comptroller -->
+|- style="height:2em"
+!1819
+|rowspan=4 |[[Beaufort Taylor Watts]]<!-- Sec. -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John S. Cogdell]] {{small|(DR)}}<!-- Comptroller -->
+|- style="height:2em"
+!1820
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Thomas Bennett Jr.]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[William Pinckney]] {{small|(DR)}}<!-- LG -->
+|- style="height:2em"
+!1821
+|{{Party shading/Democratic-Republican}} |[[Thomas Lee (South Carolina judge)|Thomas Lee]] {{small|(DR)}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Monroe|Monroe]]/<br>[[Daniel D. Tompkins|Tompkins]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1822
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Lyde Wilson]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Henry Bradley]] {{small|(DR)}}<!-- LG -->
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[James L. Petigru]] {{small|(DR)}}<!-- AG -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |Benjamin T. Elmore {{small|(DR)}}
+|- style="height:2em"
+!1823
+|rowspan=4 |[[William Laval]]<!-- Sec. -->
+|rowspan=2 {{party shading/Democratic-Republican}} |[[Robert Y. Hayne]] {{small|(DR)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1824
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Richard Irvine Manning I]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[William A. Bull]] {{small|(DR)}}<!-- LG -->
+|- style="height:2em"
+!1825
+|rowspan=6 {{party shading/Jacksonian}} |[[Robert Y. Hayne]] {{small|(J)}}<!-- US Senator 2 -->
+|{{party shading/Jacksonian}} |[[John Gaillard]] {{small|(J)}}<!-- US Senator 3 -->
+|rowspan=6 {{party shading/Jacksonian}} |9J<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Andrew Jackson|Jackson]]/<br>[[John C. Calhoun|Calhoun]] {{small|(DR)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1826
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Taylor (South Carolina governor)|John Taylor]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[James Witherspoon Sr.]] {{small|(DR)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |Alexander Speer {{small|(DR)}}
+|{{party shading/Jacksonian}} |[[William Harper (South Carolina politician)|William Harper]] {{small|(J)}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1827
+|rowspan=3 |Robert Starke
+|rowspan=4 {{party shading/Jacksonian}} |[[William Smith (South Carolina senator)|William Smith]] {{small|(J)}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1828
+|rowspan=2 {{party shading/Nullifier}} |[[Stephen Decatur Miller]] {{small|(N)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Nullifier}} |Thomas Williams {{small|(N)}}<!-- LG -->
+|rowspan=2 {{Party shading/National Republican}} |[[James L. Petigru]] {{small|(NR)}}<!-- AG -->
+|rowspan=6 {{Party shading/Nullifier}} |N maj.
+|rowspan=6 {{Party shading/Nullifier}} |N maj.
+|- style="height:2em"
+!1829
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson|Jackson]]/<br>[[John C. Calhoun|Calhoun]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1830
+|rowspan=2 {{party shading/Nullifier}} |[[James Hamilton Jr.]] {{small|(N)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Nullifier}} |[[Patrick Noble]] {{small|(N)}}<!-- LG -->
+|Henry Pendleton Taylor
+|rowspan=2 {{Party shading/Democratic}} |[[Hugh S. Legaré]] {{small|(D)}}
+|rowspan=4 {{Party shading/Nullifier}} |Thomas Harrison {{small|(N)}}
+|- style="height:2em"
+!1831
+|rowspan=5 {{Party shading/Democratic}} |[[Samuel Hammond]] {{small|(D)}}
+|rowspan=2 {{party shading/Nullifier}} |[[Robert Y. Hayne]] {{small|(N)}}<!-- US Senator 2 -->
+|rowspan=2 {{party shading/Nullifier}} |[[Stephen Decatur Miller]] {{small|(N)}}<!-- US Senator 3 -->
+|rowspan=2 {{party shading/Jacksonian}} |6J, 3N<!-- US House -->
+|- style="height:2em"
+!1832
+|rowspan=2 {{party shading/Nullifier}} |[[Robert Y. Hayne]] {{small|(N)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Nullifier}} |[[Charles Cotesworth Pinckney II|Charles C. Pinckney II]] {{small|(N)}}<!-- LG -->
+|rowspan=4 {{Party shading/Nullifier}} |[[Robert Barnwell Rhett]] {{small|(N)}}
+|- style="height:2em"
+!1833
+|rowspan=4 {{party shading/Nullifier}} |[[John C. Calhoun]] {{small|(N)}}<!-- US Senator 2 -->
+|''vacant''<!-- US Senator 3 -->
+|{{party shading/Nullifier}} |7N, 2J<!-- US House -->
+|rowspan=4 {{party shading/Nullifier}} |[[John Floyd (Virginia politician)|Floyd]]/<br>[[Henry Lee (economist)|Lee]] (DN) {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1834
+|rowspan=2 {{party shading/Nullifier}} |[[George McDuffie]] {{small|(N)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Whitemarsh Benjamin Seabrook]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |William Laval {{small|(D)}}
+|rowspan=32 {{Party shading/Democratic}} |D maj.
+|rowspan=32 {{Party shading/Democratic}} |D maj.
+|rowspan=3 {{party shading/Nullifier}} |[[William C. Preston]] {{small|(N)}}<!-- US Senator 3 -->
+|{{party shading/Nullifier}} |8N, 1J<!-- US House -->
+|- style="height:2em"
+!1835
+|rowspan=2 {{party shading/Nullifier}} |6N, 2J, 1NR<!-- US House -->
+|- style="height:2em"
+!1836
+|rowspan=2 {{Party shading/Democratic}} |[[Pierce Mason Butler]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[William Porcher DuBose]] {{small|(D)}}<!-- LG -->
+|rowspan=3 |Benjamin H. Saxon
+|rowspan=12 |Henry Bailey
+|rowspan=5 |James Jones
+|- style="height:2em"
+!1837
+|rowspan=6 {{party shading/Democratic}} |[[John C. Calhoun]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=6 {{Party shading/Whig}} |[[William C. Preston]] {{small|(W)}}<!-- US Senator 3 -->
+|rowspan=2 {{party shading/Nullifier}} |5N, 3D, 1W<!-- US House -->
+|rowspan=4 {{Party shading/Whig}} |[[Willie P. Mangum|Mangum]]/<br>[[John Tyler|Tyler]] {{small|(W)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1838
+|rowspan=2 {{Party shading/Democratic}} |[[Patrick Noble]] {{small|(D)}}{{efn |name=died}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Barnabas Kelet Henagan]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |William Edward Hayne {{small|(D)}}
+|- style="height:2em"
+!1839
+|rowspan=4 |Maximillan LaBorde
+|rowspan=4 {{Party shading/Democratic}} |8D, 1W<!-- US House -->
+|- style="height:2em"
+!1840
+|{{Party shading/Democratic}} |[[Barnabas Kelet Henagan]] {{small|(D)}}{{efn |name=assumed|Assumed office following death or resignation of predecessor.}}<!-- Gov -->
+|''vacant''<!-- LG -->
+|- style="height:2em"
+!1841
+|{{Party shading/Democratic}} |[[John Peter Richardson II]] {{small|(D)}}<!-- Gov -->
+|{{Party shading/Democratic}} |[[W. K. Clowney]] {{small|(D)}}<!-- LG -->
+|rowspan=14 |James Willis Cantey
+|rowspan=4 {{Party shading/Democratic}} |[[Martin Van Buren|Van Buren]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1842
+|rowspan=2 {{Party shading/Democratic}} |[[James H. Hammond]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Isaac Donnom Witherspoon]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |William Laval {{small|(D)}}
+|- style="height:2em"
+!1843
+|rowspan=4 |Robert Quash Pinckney
+|rowspan=2 {{party shading/Democratic}} |[[Daniel Elliott Huger]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=4 {{party shading/Democratic}} |[[George McDuffie]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=11 {{Party shading/Democratic}} |7D<!-- US House -->
+|- style="height:2em"
+!1844
+|rowspan=2 {{Party shading/Democratic}} |[[William Aiken Jr.]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[John Fulton Ervin]] {{small|(D)}}<!-- LG -->
+|- style="height:2em"
+!1845
+|rowspan=5 {{party shading/Democratic}} |[[John C. Calhoun]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Democratic}} |[[James K. Polk|Polk]]/<br>[[George M. Dallas|Dallas]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1846
+|rowspan=2 {{Party shading/Democratic}} |[[David Johnson (governor)|David Johnson]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[William Cain (American politician)|William Cain]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |William C. Black {{small|(D)}}
+|- style="height:2em"
+!1847
+|rowspan=5 {{Party shading/Democratic}} |[[Barnabas Kelet Henagan]] {{small|(D)}}
+|rowspan=11 {{party shading/Democratic}} |[[Andrew Butler]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1848
+|rowspan=2 {{Party shading/Democratic}} |[[Whitemarsh Benjamin Seabrook]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[William Henry Gist]] {{small|(D)}}<!-- LG -->
+|rowspan=18 |Isaac W. Hayne
+|- style="height:2em"
+!1849
+|rowspan=5 {{Party shading/Democratic}} |[[Lewis Cass|Cass]]/<br>[[William Orlando Butler|Butler]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!rowspan=2 |1850
+|rowspan=3 {{Party shading/Democratic}} |[[John Hugh Means]] {{small|(D)}}<!-- Gov -->
+|rowspan=3 {{Party shading/Democratic}} |[[Joshua John Ward]] {{small|(D)}}<!-- LG -->
+|rowspan=5 {{Party shading/Democratic}} |James B. McCully {{small|(D)}}
+|{{party shading/Democratic}} |[[Franklin H. Elmore]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+|{{party shading/Democratic}} |[[Robert Woodward Barnwell]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1851
+|rowspan=4 |Benjamin Perry
+|{{party shading/Democratic}} |[[Robert Barnwell Rhett]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1852
+|rowspan=2 {{Party shading/Democratic}} |[[John Lawrence Manning]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[James Irby]] {{small|(D)}}<!-- LG -->
+|{{party shading/Democratic}} |[[William F. De Saussure]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1853
+|rowspan=5 {{party shading/Democratic}} |[[Josiah J. Evans]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=8 {{Party shading/Democratic}} |6D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce|Pierce]]/<br>[[William R. King|King]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1854
+|rowspan=2 {{Party shading/Democratic}} |[[James Hopkins Adams]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Richard de Treville]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |[[John D. Ashmore]] {{small|(D)}}
+|rowspan=7 |Richard Gill Mills Dunovant
+|- style="height:2em"
+!1855
+|rowspan=4 |James Patterson
+|- style="height:2em"
+!1856
+|rowspan=2 {{Party shading/Democratic}} |[[Robert Francis Withers Allston|Robert F. W. Allston]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Gabriel Cannon]] {{small|(D)}}<!-- LG -->
+|- style="height:2em"
+!1857
+|''vacant''<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic}} |[[James Buchanan|Buchanan]]/<br>[[John C. Breckinridge|Breckinridge]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1858
+|rowspan=2 {{Party shading/Democratic}} |[[William Henry Gist]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[M. E. Carn]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |Thomas J. Pickens {{small|(D)}}
+|{{party shading/Democratic}} |[[Arthur P. Hayne]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=3 {{party shading/Democratic}} |[[James H. Hammond]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1859
+|rowspan=4 |Isaac Hayne Means
+|rowspan=2 {{party shading/Democratic}} |[[James Chesnut Jr.]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1860
+|rowspan=2 {{Party shading/Democratic}} |[[Francis Wilkinson Pickens]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[W. W. Harllee]] {{small|(D)}}<!-- LG -->
+|- style="height:2em"
+!1861
+|{{Party shading/Democratic}} |[[States Rights Gist]] {{small|(D)}}
+|rowspan=4 |''vacant''<!-- US Senator 2 -->
+|rowspan=4 |''vacant''<!-- US Senator 3 -->
+|rowspan=4 |''vacant''<!-- US House -->
+|rowspan=4 {{Party shading/Southern Democratic}} |[[John C. Breckinridge|Breckinridge]]/<br>[[Joseph Lane|Lane]] {{small|({{abbr|SD|Southern Democratic}})}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1862
+|rowspan=2 {{Party shading/Democratic}} |[[Milledge Luke Bonham]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Plowden Weston]] {{small|(D)}}<!-- LG -->
+|rowspan=3 {{Party shading/Democratic}} |James A. Black {{small|(D)}}
+|Wilmot Gibbes De Saussure
+|- style="height:2em"
+!1863
+|rowspan=2 |W. R. Huntt
+|rowspan=2 |Albert Creswell Garlington
+|- style="height:2em"
+!1864
+|{{Party shading/Democratic}} |[[Andrew Gordon Magrath]] {{small|(D)}}{{efn |Deposed by the [[Union Army]].}}<!-- Gov -->
+|{{Party shading/Democratic}} |[[Robert McCaw]] {{small|(D)}}<!-- LG -->
+|}
+
+==1865–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=9 |Executive offices
+!colspan=2 |[[South Carolina General Assembly|State Legislature]]<ref>{{cite book |last1=Dubin |first1=Michael J. |title=Party Affiliations in the State Legislatures: A Year by Year Summary, 1796-2006 |date=2007 |publisher=McFarland & Company, Inc., Publishers |location=Jefferson |isbn=9780786429141 |page=170 |url=https://archive.org/details/partyaffiliation0000dubi/page/170/mode/2up |access-date=10 February 2025}}</ref>
+!colspan=3 |[[South Carolina's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:1em"
+!class=unsortable |[[List of governors of South Carolina|Governor]]
+!class=unsortable |[[List of lieutenant governors of South Carolina|Lt. Governor]]
+!class=unsortable |[[Secretary of State of South Carolina|Sec. of State]]
+!class=unsortable |[[Attorney General of South Carolina|Atty. Gen.]]
+!class=unsortable |[[South Carolina Treasurer|Treasurer]]
+!class=unsortable |[[South Carolina Comptroller General|Comptroller]]
+!class=unsortable |[[South Carolina Superintendent of Education|Supt. of Ed.]]
+!class=unsortable |[[South Carolina Adjutant General|Adj. Gen.]]
+!class=unsortable |[[South Carolina Department of Agriculture|Comm. of Ag.]]
+!class=unsortable |[[South Carolina Senate|State Senate]]
+!class=unsortable |[[South Carolina House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from South Carolina|U.S. Senator (Class II)]]
+!class=unsortable |[[List of United States senators from South Carolina|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from South Carolina|U.S. House]]
+|- style="height:1em"
+!1865
+|{{Party shading/Unionist}} |[[Benjamin Franklin Perry]] {{small|(UD)}}{{efn |Appointed by [[President of the United States|President]] [[Andrew Johnson]].}}<!-- Gov -->
+|''vacant''<!-- LG -->
+|rowspan=2 |W. R. Huntt
+|rowspan=3 |Isaac W. Hayne
+|rowspan=2 |William Hood
+|{{Party shading/Democratic}} |James A. Black {{small|(D)}}
+|rowspan=3 |''no such office''<!-- Education -->
+|rowspan=4 |Albert Creswell Garlington
+|rowspan=15 |''no such office''{{efn |The Department of Agriculture was established in 1879.<ref>[https://www.scstatehouse.gov/CommitteeInfo/HouseLegislativeOversightCommittee/AgencyWebpages/Agriculture/Department%20of%20Agriculture%20Full%20Committee%20Study%20with%20appendices.pdf Subcommittee Study of the Department of Agriculture (July 28, 2017), pg. 9.]</ref>}}<!-- Agriculture -->
+|rowspan=4 {{Party shading/Nonpartisan}} |31NP<!-- SC Senate -->
+|rowspan=4 {{Party shading/Nonpartisan}} |124NP<!-- SC House -->
+|rowspan=3 |''vacant''<!-- US Senator 2 -->
+|rowspan=3 |''vacant''<!-- US Senator 3 -->
+|rowspan=3 |''vacant''<!-- US House -->
+|rowspan=4 {{Party shading/Nonpartisan}} |ineligible to participate<!-- ECV -->
+|- style="height:1em"
+!1866
+|rowspan=2 {{Party shading/Nonpartisan}} |[[James Lawrence Orr]] {{small|(NP)}}{{efn |First popularly-elected Governor.}}<!-- Gov -->
+|rowspan=2 {{Party shading/Nonpartisan}} |[[William Dennison Porter]] {{small|(NP)}}<!-- LG -->
+|rowspan=2 {{Party shading/Nonpartisan}} |Simon L. Leaphart {{small|(NP)}}
+|- style="height:1em"
+!1867
+|{{Party shading/Democratic}} |[[Ellison Capers]] {{small|(D)}}
+|{{Party shading/Nonpartisan}} |Simon L. Leaphart {{small|(NP)}}
+|- style="height:1em"
+!1868
+|rowspan=4 {{Party shading/Republican}} |[[Robert Kingston Scott]] {{small|(R)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Republican}} |[[Lemuel Boozer]] {{small|(R)}}<!-- LG -->
+|rowspan=4 {{Party shading/Republican}} |[[Francis Lewis Cardozo]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Daniel Henry Chamberlain]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Niles G. Parker {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |John L. Neagle {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Justus K. Jillson]] {{small|(R)}}<!-- Education -->
+|rowspan=9 {{Party shading/Republican}} |[[Thomas J. Robertson]] {{small|(R)}}<!-- US Senator 2 -->
+|rowspan=5 {{Party shading/Republican}} |[[Frederick A. Sawyer]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=5 {{Party shading/Republican}} |4R<!-- US House -->
+|- style="height:1em"
+!1869
+|rowspan=3 {{Party shading/Republican}} |[[Franklin J. Moses Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |25R, 6D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Republican}} |110R, 14D<!-- SC House -->
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Schuyler Colfax|Colfax]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1870
+|rowspan=2 {{Party shading/Republican}} |[[Alonzo J. Ransier]] {{small|(R)}}<!-- LG -->
+|- style="height:1em"
+!1871
+|rowspan=2 {{Party shading/Republican}} |26R, 5D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Republican}} |100R, 21[[Union Reform Party of South Carolina|UR]], 3I<!-- SC House -->
+|- style="height:1em"
+!1872
+|rowspan=2 {{Party shading/Republican}} |[[Franklin J. Moses Jr.]] {{small|(R)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Republican}} |[[Richard Howell Gleaves]] {{small|(R)}}<!-- LG -->
+|rowspan=4 {{Party shading/Republican}} |[[Henry E. Hayne]] {{small|(R)}}
+|rowspan=4 |Samuel Wickliff Melton
+|rowspan=5 {{Party shading/Republican}} |[[Francis Lewis Cardozo]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Solomon L. Hoge]] {{small|(R)}}
+|rowspan=4 |Henry William Purvis
+|- style="height:1em"
+!1873
+|rowspan=2 {{Party shading/Republican}} |25R, 8D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Republican}} |101R, 23D<!-- SC House -->
+|rowspan=6 {{Party shading/Republican}} |[[John J. Patterson]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Republican}} |5R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1874
+|rowspan=2 {{Party shading/Republican}} |[[Daniel Henry Chamberlain]] {{small|(R)}}{{efn |Claimed governorship following [[1876 South Carolina gubernatorial election|1876 election]].}}<!-- Gov -->
+|rowspan=2 {{Party shading/Republican}} |Thomas C. Dunn {{small|(R)}}
+|- style="height:1em"
+!1875
+|rowspan=2 {{Party shading/Republican}} |26R, 7[[Conservative Party (South Carolina)|C]]<!-- SC Senate -->
+|rowspan=2 {{Party shading/Republican}} |91R, 33[[Conservative Party (South Carolina)|C]]<!-- SC House -->
+|- style="height:1em"
+!1876
+|rowspan=3 {{Party shading/Democratic}} |[[Wade Hampton III]] {{small|(D)}}{{efn |name=resigned}}<!-- Gov -->
+|rowspan=3 {{Party shading/Democratic}} |[[William Dunlap Simpson]] {{small|(D)}}<!-- LG -->
+|rowspan=6 {{Party shading/Democratic}} |Robert Moorman Sims {{small|(D)}}
+|{{Party shading/Republican}} |[[William Stone (attorney)|William Stone]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Johnson Hagood (governor)|Johnson Hagood]] {{small|(D)}}
+|{{Party shading/Republican}} |[[John R. Tolbert]] {{small|(R)}}<!-- Education -->
+|rowspan=4 {{Party shading/Democratic}} |[[Edwin Warren Moïse]] {{small|(D)}}
+|- style="height:1em"
+!1877
+|{{Party shading/Republican}} |[[Robert B. Elliott]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Simon L. Leaphart {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Hugh Smith Thompson]] {{small|(D)}}<!-- Education -->
+|rowspan=2 {{Party shading/Republican}} |18R, 15D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |65D, 59R<!-- SC House -->
+|rowspan=18 {{Party shading/Democratic}} |[[Matthew Butler]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Republican}} |3R, 2D<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Rutherford B. Hayes|Hayes]]/<br>[[William A. Wheeler|Wheeler]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1878
+|rowspan=4 {{Party shading/Democratic}} |[[LeRoy Franklin Youmans]] {{small|(D)}}
+|- style="height:1em"
+!1879
+|{{Party shading/Democratic}} |[[William Dunlap Simpson]] {{small|(D)}}{{efn |name=assumed}}<!-- Gov -->
+|rowspan=2 |''vacant''
+|rowspan=2 {{Party shading/Democratic}} |28D, 5R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |121D, 3R<!-- SC House -->
+|rowspan=12 {{Party shading/Democratic}} |[[Wade Hampton III]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=3 {{Party shading/Democratic}} |5D<!-- US House -->
+|- style="height:1em"
+!1880
+|{{Party shading/Democratic}} |[[Thomas Bothwell Jeter]] {{small|(D)}}
+|John C. Coit
+|John Scoffing
+|rowspan=11 {{Party shading/Democratic}} |[[A. P. Butler (Commissioner)|A. P. Butler]] {{small|(D)}}<!-- Agriculture -->
+|- style="height:1em"
+!1881
+|{{Party shading/Democratic}} |[[Johnson Hagood (governor)|Johnson Hagood]] {{small|(D)}}<!-- Gov -->
+|{{Party shading/Democratic}} |[[John Doby Kennedy]] {{small|(D)}}<!-- LG -->
+|rowspan=6 {{Party shading/Democratic}} |J. P. Richardson {{small|(D)}}
+|{{Party shading/Democratic}} |[[John Bratton]] {{small|(D)}}
+|rowspan=4 |[[Arthur Middleton Manigault]]
+|rowspan=4 {{Party shading/Democratic}} |33D, 2R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |120D, 4R<!-- SC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1882
+|rowspan=4 {{Party shading/Democratic}} |[[Hugh Smith Thompson]] {{small|(D)}}{{efn |name=resigned}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[John Calhoun Sheppard]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |James Nathan Lipscomb {{small|(D)}}
+|rowspan=4 |Charles R. Miles
+|rowspan=4 {{Party shading/Democratic}} |William E. Stoney {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Asbury Coward]] {{small|(D)}}<!-- Education -->
+|{{Party shading/Democratic}} |3D, 2R<!-- US House -->
+|- style="height:1em"
+!1883
+|rowspan=2 {{Party shading/Democratic}} |118D, 6R<!-- SC House -->
+|rowspan=4 {{Party shading/Democratic}} |6D, 1R<!-- US House -->
+|- style="height:1em"
+!1884
+|- style="height:1em"
+!1885
+|rowspan=5 |Milledge Lipscomb Bonham Jr.
+|rowspan=2 {{Party shading/Democratic}} |32D, 3R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |119D, 5R<!-- SC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1886
+|{{Party shading/Democratic}} |[[John Calhoun Sheppard]] {{small|(D)}}{{efn |name=assumed}}<!-- Gov -->
+|''vacant''<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |[[William Zachariah Leitner]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joseph H. Earle]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |John S. Verner {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James H. Rice]] {{small|(D)}}<!-- Education -->
+|- style="height:1em"
+!1887
+|rowspan=3 {{Party shading/Democratic}} |[[John Peter Richardson III]] {{small|(D)}}<!-- Gov -->
+|rowspan=3 {{Party shading/Democratic}} |William Mauldin {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |I. S. Bamberg {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |33D, 2R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |120D, 4R<!-- SC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D<!-- US House -->
+|- style="height:1em"
+!1888
+|rowspan=2 {{Party shading/Democratic}} |John Quitman Marshall {{small|(D)}}
+|- style="height:1em"
+!1889
+|rowspan=2 {{Party shading/Democratic}} |E. R. McIver {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |35D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |121D, 3R<!-- SC House -->
+|rowspan=2 {{Party shading/Democratic}} |6D, 1R<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Allen G. Thurman|Thurman]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1890
+|rowspan=4 {{Party shading/Democratic}} |[[Benjamin Tillman]] {{small|(D)}}<!-- Gov -->
+|rowspan=3 {{Party shading/Democratic}} |[[Eugene B. Gary]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |James E. Tindal {{small|(D)}}
+ |[[Young J. Pope]]
+|rowspan=4 {{Party shading/Democratic}} |[[William Haselden Ellerbe]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[W. D. Mayfield]] {{small|(D)}}<!-- Education -->
+|rowspan=5 |Hugh L. Farley
+|- style="height:1em"
+!1891
+|{{Party shading/Democratic}} |[[John L. McLaurin]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |W. T. C. Bates {{small|(D)}}
+|{{Party shading/Democratic}} |Mr. Moore {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Democratic}} |32D, 3R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |115D, 9R<!-- SC House -->
+|rowspan=6 {{Party shading/Democratic}} |[[John L. M. Irby]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic}} |7D<!-- US House -->
+|- style="height:1em"
+!1892
+|rowspan=2 |Daniel A. Townshend
+|rowspan=12 class="small" |''no such office''{{efn |Responsibilities originally housed at the Department of Agriculture were transferred to other state agencies from 1891 to 1904.}}<!-- Agriculture -->
+|- style="height:1em"
+!1893
+|rowspan=4 {{Party shading/Democratic}} |[[Washington H. Timmerman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |36D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |120D, 4R<!-- SC House -->
+|rowspan=2 {{Party shading/Democratic}} |6D, 1R<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1894
+|rowspan=3 {{Party shading/Democratic}} |[[John Gary Evans]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Daniel Hollard Tompkins {{small|(D)}}
+|rowspan=4 |William A. Barber
+|rowspan=3 {{Party shading/Democratic}} |[[James Norton (South Carolina politician)|James W. Norton]] {{small|(D)}}
+|- style="height:1em"
+!1895
+|rowspan=4 |John Gary Watts
+|rowspan=2 {{Party shading/Democratic}} |29D, 7ID<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |104D, 17ID, 3R<!-- SC House -->
+|rowspan=23 {{Party shading/Democratic}} |[[Benjamin Tillman]] {{small|(D)}}<!-- US Senator 2 -->
+|{{Party shading/Democratic}} |7D<!-- US House -->
+|- style="height:1em"
+!1896
+|{{Party shading/Democratic}} |6D, 1R<!-- US House -->
+|- style="height:1em"
+!1897
+|rowspan=2 {{Party shading/Democratic}} |[[William Haselden Ellerbe]] {{small|(D)}}{{efn |name=died}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Miles Benjamin McSweeney]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |W. H. Timmerman {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Lafayette P. Epton {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |36D<!-- SC Senate -->
+|rowspan=6 {{Party shading/Democratic}} |123D, 1R<!-- SC House -->
+|{{Party shading/Democratic}} |[[Joseph H. Earle]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=37 {{Party shading/Democratic}} |7D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1898
+|rowspan=4 |G. Duncan Bellinger Sr.
+|rowspan=4 {{Party shading/Democratic}} |[[John J. McMahan]] {{small|(D)}}<!-- Education -->
+|rowspan=5 {{Party shading/Democratic}} |[[John L. McLaurin]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:1em"
+!1899
+|rowspan=4 {{Party shading/Democratic}} |[[Miles Benjamin McSweeney]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Robert B. Scarborough]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |Marion Reed Cooper {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |John P. Derham {{small|(D)}}
+|rowspan=4 |Joseph W. Floyd
+|rowspan=12 {{Party shading/Democratic}} |41D<!-- SC Senate -->
+|- style="height:1em"
+!1900
+|- style="height:1em"
+!1901
+|rowspan=2 {{Party shading/Democratic}} |[[James H. Tillman]] {{small|(D)}}<!-- LG -->
+|rowspan=12 {{Party shading/Democratic}} |R. H. Jennings {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1902
+|rowspan=3 |U. X. Gunter Jr.
+|rowspan=6 {{Party shading/Democratic}} |[[Oscar B. Martin]] {{small|(D)}}<!-- Education -->
+|- style="height:1em"
+!1903
+|rowspan=4 {{Party shading/Democratic}} |[[Duncan Clinch Heyward]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[John Sloan (South Carolina politician)|John Sloan]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |[[J. T. Gantt]] {{small|(D)}}<!-- Sec. -->
+|rowspan=12 {{Party shading/Democratic}} |Adolphus W. Jones {{small|(D)}}
+|rowspan=4 |John D. Frost<!-- Adjutant -->
+|rowspan=62 {{Party shading/Democratic}} |124D<!-- SC House -->
+|rowspan=5 {{Party shading/Democratic}} |[[Asbury Latimer]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:1em"
+!1904
+|rowspan=14 {{Party shading/Democratic}} |[[E. J. Watson]] {{small|(D)}}<!-- Agriculture -->
+|- style="height:1em"
+!1905
+|{{Party shading/Democratic}} |[[LeRoy Franklin Youmans]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Alton B. Parker|Parker]]/<br>[[Henry G. Davis|Davis]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1906
+|D. C. Ray
+|- style="height:1em"
+!1907
+|rowspan=4 {{Party shading/Democratic}} |[[Martin Frederick Ansel]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Gordon McLeod]] {{small|(D)}}<!-- LG -->
+|rowspan=10 {{Party shading/Democratic}} |[[R. M. McCown]] {{small|(D)}}<!-- Sec. -->
+|rowspan=6 |J. Fraser Lyon
+|rowspan=3 |[[John C. Boyd]]<!-- Adjutant -->
+|- style="height:1em"
+!1908
+|rowspan=15 {{Party shading/Democratic}} |[[John E. Swearingen]] {{small|(D)}}<!-- Education -->
+|{{Party shading/Democratic}} |[[Frank B. Gary]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:1em"
+!1909
+|rowspan=37 {{Party shading/Democratic}} |[[Ellison D. Smith]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[John W. Kern|Kern]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1910
+|rowspan=12 |William W. Moore<!-- Adjutant -->
+|- style="height:1em"
+!1911
+|rowspan=4 {{Party shading/Democratic}} |[[Cole L. Blease]] {{small|(D)}}{{efn |name=resigned}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Charles Aurelius Smith]] {{small|(D)}}<!-- LG -->
+|rowspan=9 {{Party shading/Democratic}} |44D<!-- SC Senate -->
+|- style="height:1em"
+!1912
+|- style="height:1em"
+!1913
+|rowspan=5 {{Party shading/Democratic}} |Thomas H. Peeples {{small|(D)}}
+|rowspan=14 {{Party shading/Democratic}} |S. T. Carter {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1914
+|- style="height:1em"
+!1915
+|{{Party shading/Democratic}} |[[Charles Aurelius Smith]] {{small|(D)}}{{efn |name=assumed}}<!-- Gov -->
+|''vacant''<!-- LG -->
+|rowspan=3 {{Party shading/Democratic}} |Carlton W. Sawyer {{small|(D)}}
+|- style="height:1em"
+!1916
+|rowspan=4 {{Party shading/Democratic}} |[[Richard Irvine Manning III]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Bethea]] {{small|(D)}}<!-- LG -->
+|- style="height:1em"
+!1917
+|rowspan=8 {{Party shading/Democratic}} |[[W. Banks Dove]] {{small|(D)}}{{efn |name=died}}<!-- Sec. -->
+|rowspan=5 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!rowspan=2 |1918
+|rowspan=7 |Samuel Wolfe
+|rowspan=3 {{Party shading/Democratic}} |R. Lyles Osborne {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[A. C. Summers]] {{small|(D)}}<!-- Agriculture -->
+|{{Party shading/Democratic}} |[[Christie Benet]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+|{{Party shading/Democratic}} |[[William P. Pollock]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!1919
+|rowspan=3 {{Party shading/Democratic}} |[[Robert Archer Cooper]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |[[J. T. Liles]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Bonneau Harris]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=50 {{Party shading/Democratic}} |46D<!-- SC Senate -->
+|rowspan=6 {{Party shading/Democratic}} |[[Nathaniel B. Dial]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!1920
+|{{Party shading/Democratic}} |Wilbert Sutherland {{small|(D)}}
+|- style="height:1em"
+!1921
+|{{Party shading/Democratic}} |[[Wilson Godfrey Harvey]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Walter E. Duncan {{small|(D)}}
+|rowspan=2 |[[Rufus W. Grant]]<!-- Adjutant -->
+|rowspan=4 {{Party shading/Democratic}} |[[James M. Cox|Cox]]/<br>[[Franklin D. Roosevelt|Roosevelt]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1922
+|{{Party shading/Democratic}} |[[Wilson Godfrey Harvey]] {{small|(D)}}{{efn |name=assumed}}
+|''vacant''
+|rowspan=26 {{Party shading/Democratic}} |[[James H. Hope]] {{small|(D)}}<!-- Education -->
+|- style="height:1em"
+!1923
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Gordon McLeod]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[E. B. Jackson]] {{small|(D)}}<!-- LG -->
+|rowspan=3 |[[Robert E. Craig]]<!-- Adjutant -->
+|- style="height:1em"
+!1924
+|rowspan=27 {{Party shading/Democratic}} |[[W. P. Blackwell]] {{small|(D)}}{{efn |name=died}}<!-- Sec. -->
+|rowspan=28 {{Party shading/Democratic}} |[[John M. Daniel]] {{small|(D)}}<!-- AG -->
+|- style="height:1em"
+!1925
+|rowspan=19 {{Party shading/Democratic}} |A. J. Beattie {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Cole L. Blease]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Davis|Davis]]/<br>[[Charles W. Bryan|Bryan]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1926
+|rowspan=8 {{Party shading/Democratic}} |Julian Haskell Scarborough {{small|(D)}}
+|rowspan=35 |[[James C. Dozier]]<!-- Adjutant -->
+|rowspan=7 {{Party shading/Democratic}} |[[James W. Shealy]] {{small|(D)}}<!-- Agriculture -->
+|- style="height:1em"
+!1927
+|rowspan=4 {{Party shading/Democratic}} |[[John Gardiner Richards Jr.]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Bothwell Butler]] {{small|(D)}}<!-- LG -->
+|- style="height:1em"
+!1928
+|- style="height:1em"
+!1929
+|rowspan=4 {{Party shading/Democratic}} |[[Al Smith|Smith]]/<br>[[Joseph T. Robinson|Robinson]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1930
+|- style="height:1em"
+!1931
+|rowspan=4 {{Party shading/Democratic}} |[[Ibra Charles Blackwood]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[James O. Sheppard|James Sheppard]] {{small|(D)}}<!-- LG -->
+|rowspan=10 {{Party shading/Democratic}} |[[James F. Byrnes]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!1932
+|- style="height:1em"
+!1933
+|rowspan=25 {{Party shading/Democratic}} |[[J. Roy Jones]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=34 {{Party shading/Democratic}} |6D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1934
+|rowspan=6 {{Party shading/Democratic}} |E. P. Miller {{small|(D)}}
+|- style="height:1em"
+!1935
+|rowspan=4 {{Party shading/Democratic}} |[[Olin D. Johnston]] {{small|(D)}}<!-- Gov -->
+|rowspan=6 {{Party shading/Democratic}} |[[Joseph Emile Harley]] {{small|(D)}}<!-- LG -->
+|- style="height:1em"
+!1936
+|- style="height:1em"
+!1937
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1938
+|- style="height:1em"
+!1939
+|rowspan=2 {{Party shading/Democratic}} |[[Burnet R. Maybank]] {{small|(D)}}{{efn |name=resigned}}<!-- Gov -->
+|- style="height:1em"
+!1940
+|rowspan=28 {{Party shading/Democratic}} |[[Jeff B. Bates]] {{small|(D)}}{{efn |name=died}}
+|- style="height:1em"
+!rowspan=2 |1941
+|rowspan=2 {{Party shading/Democratic}} |[[Joseph Emile Harley]] {{small|(D)}}{{efn |name=assumed}}{{efn |name=died}}<!-- Gov -->
+|rowspan=3 |''vacant''<!-- LG -->
+|{{Party shading/Democratic}} |[[Alva M. Lumpkin]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+|{{Party shading/Democratic}} |[[Roger C. Peace]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!1942
+|{{Party shading/Democratic}} |[[Richard Manning Jefferies]] {{small|(D)}}{{efn |name=assumed}}<!-- Gov -->
+|rowspan=12 {{Party shading/Democratic}} |[[Burnet R. Maybank]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!1943
+|rowspan=2 {{Party shading/Democratic}} |[[Olin D. Johnston]] {{small|(D)}}{{efn |name=resigned}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |[[Ransome Judson Williams]] {{small|(D)}}<!-- LG -->
+|rowspan=25 {{Party shading/Democratic}} |Elridge C. Rhodes {{small|(D)}}
+|- style="height:1em"
+!1944
+|{{Party shading/Democratic}} |[[Wilton E. Hall]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:1em"
+!1945
+|rowspan=2 {{Party shading/Democratic}} |[[Ransome Judson Williams]] {{small|(D)}}{{efn |name=assumed}}<!-- Gov -->
+|rowspan=2 |''vacant''<!-- LG -->
+|rowspan=22 {{Party shading/Democratic}} |[[Olin D. Johnston]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1946
+|- style="height:1em"
+!1947
+|rowspan=4 {{Party shading/Democratic}} |[[Strom Thurmond]] {{small|(D)}}<!-- Gov -->
+|rowspan=9 {{Party shading/Democratic}} |[[George Bell Timmerman Jr.]] {{small|(D)}}<!-- LG -->
+|rowspan=21 {{Party shading/Democratic}} |[[Jesse T. Anderson]] {{small|(D)}}<!-- Education -->
+|- style="height:1em"
+!1948
+|- style="height:1em"
+!1949
+|rowspan=4 {{Party shading/Dixiecrat}} |[[Strom Thurmond|Thurmond]]/<br>[[Fielding L. Wright|Wright]] (Dix) {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1950
+|{{Party shading/Democratic}} |[[P. T. Bradham]] {{small|(D)}}{{efn |name=assumed}}<!-- Sec. -->
+|- style="height:1em"
+!1951
+|rowspan=5 {{Party shading/Democratic}} |[[James F. Byrnes]] {{small|(D)}}<!-- Gov -->
+|rowspan=30 {{Party shading/Democratic}} |[[Oscar Frank Thornton]] {{small|(D)}}<!-- Sec. -->
+|rowspan=9 {{Party shading/Democratic}} |[[T. C. Callison]] {{small|(D)}}<!-- AG -->
+|- style="height:1em"
+!1952
+|- style="height:1em"
+!1953
+|rowspan=5 {{Party shading/Democratic}} |[[Adlai Stevenson II|Stevenson]]/<br>[[John Sparkman|Sparkman]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!rowspan=2 |1954
+|{{Party shading/Democratic}} |[[Charles E. Daniel]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+|rowspan=2 {{Party shading/Democratic}} |[[Strom Thurmond]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!1955
+|rowspan=4 {{Party shading/Democratic}} |[[George Bell Timmerman Jr.]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Fritz Hollings]] {{small|(D)}}<!-- LG -->
+|- style="height:1em"
+!1956
+|rowspan=22 {{Party shading/Democratic}} |[[William L. Harrelson]] {{small|(D)}}<!-- Agriculture -->
+|{{Party shading/Democratic}} |[[Thomas A. Wofford]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!1957
+|rowspan=7 {{Party shading/Democratic}} |[[Strom Thurmond]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Democratic}} |[[Adlai Stevenson II|Stevenson]]/<br>[[Estes Kefauver|Kefauver]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1958
+|- style="height:1em"
+!1959
+|rowspan=4 {{Party shading/Democratic}} |[[Fritz Hollings]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Burnet R. Maybank Jr.]] {{small|(D)}}<!-- LG -->
+|rowspan=25 {{Party shading/Democratic}} |[[Daniel R. McLeod]] {{small|(D)}}<!-- AG -->
+|rowspan=12 |[[Frank D. Pinkney]]<!-- Adjutant -->
+|- style="height:1em"
+!1960
+|- style="height:1em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1962
+|{{Party shading/Democratic}} |123D, 1R<!-- SC House -->{{efn |[[Charles Boineau]] was elected in Richmond County in a special election as the first Republican to win election to the House since 1900.<ref>{{Cite web|title=South Caroliniana Library – University Libraries {{!}} University of South Carolina|url=https://sc.edu/about/offices_and_divisions/university_libraries/browse/south_caroliniana/index.php|access-date=2021-06-28|website=sc.edu}}</ref>}}
+|- style="height:1em"
+!1963
+|rowspan=2 {{Party shading/Democratic}} |[[Donald S. Russell]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Democratic}} |[[Robert Evander McNair]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |124D<!-- SC House -->
+|- style="height:1em"
+!1964
+|rowspan=42 {{Party shading/Republican}} |[[Strom Thurmond]] {{small|(R)}}
+|- style="height:1em"
+!1965
+|rowspan=6 {{Party shading/Democratic}} |[[Robert Evander McNair]] {{small|(D)}}
+|rowspan=2 |''vacant''
+|rowspan=2 {{Party shading/Democratic}} |123D, 1R<!-- SC House -->
+|rowspan=8 {{party shading/Democratic}} |5D, 1R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Barry Goldwater|Goldwater]]/<br>[[William E. Miller|Miller]] {{small|(R)}} {{Nay}}<!-- ECV -->
+|- style="height:1em"
+!1966
+|rowspan=31 {{Party shading/Democratic}} |[[Grady Patterson]] {{small|(D)}}{{efn |First elected in a special election.}}
+|{{Party shading/Democratic}} |[[Donald S. Russell]] {{small|(D)}}
+|- style="height:1em"
+!1967
+|rowspan=4 {{Party shading/Democratic}} |[[John C. West]] {{small|(D)}}<!-- LG -->
+|rowspan=10 {{Party shading/Democratic}} |[[J. Henry Mills]] {{small|(D)}}<!-- Comptroller -->
+|rowspan=13 {{Party shading/Democratic}} |[[Cyril B. Busbee]]<!-- Education -->
+|rowspan=2 {{Party shading/Democratic}} |43D, 6R, 1I<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |107D, 17R<!-- SC House -->
+|rowspan=42 {{Party shading/Democratic}} |[[Fritz Hollings]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:1em"
+!1968
+|- style="height:1em"
+!1969
+|rowspan=2 {{Party shading/Democratic}} |47D, 3R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |119D, 5R<!-- SC House -->
+|rowspan=9 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:1em"
+!1970
+|- style="height:1em"
+!1971
+|rowspan=4 {{Party shading/Democratic}} |[[John C. West]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Earle Morris Jr.]] {{small|(D)}}<!-- LG -->
+|rowspan=9 {{Party shading/Democratic}} |[[Robert L. McCrady]] {{small|(D)}}<!-- Adjutant -->
+|rowspan=2 {{Party shading/Democratic}} |44D, 2R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |113D, 11R<!-- SC House -->
+|- style="height:1em"
+!1972
+|- style="height:1em"
+!1973
+|rowspan=5 {{Party shading/Democratic}} |43D, 3R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |103D, 21R<!-- SC House -->
+|rowspan=2 {{party shading/Democratic}} |4D, 2R<!-- US House -->
+|- style="height:1em"
+!1974
+|- style="height:1em"
+!1975
+|rowspan=5 {{Party shading/Republican}} |[[James B. Edwards]] {{small|(R)}}<!-- Gov -->
+|rowspan=5 {{Party shading/Democratic}} |[[W. Brantley Harvey Jr.]] {{small|(D)}}<!-- LG -->
+|rowspan=3 {{Party shading/Democratic}} |108D, 16R<!-- SC House -->
+|rowspan=5 {{party shading/Democratic}} |5D, 1R<!-- US House -->
+|- style="height:1em"
+!rowspan=2 |1976
+|- style="height:1em"
+|rowspan=25 {{Party shading/Democratic}} |[[Earle Morris Jr.]] {{small|(D)}}<!-- Comptroller -->
+|- style="height:1em"
+!1977
+|rowspan=6 {{Party shading/Republican}} |G. Bryan Patrick {{small|(R)}}<!-- Agriculture -->
+|rowspan=4 {{Party shading/Democratic}} |42D, 4R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |112D, 12R<!-- SC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{aye}}<!-- ECV -->
+|- style="height:1em"
+!1978
+|- style="height:1em"
+!1979
+|rowspan=8 {{Party shading/Democratic}} |[[Richard Riley]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Nancy Stevenson]] {{small|(D)}}<!-- LG -->
+|rowspan=13 {{Party shading/Democratic}} |[[John Tucker Campbell]] {{small|(D)}}<!-- Sec. -->
+|rowspan=13 {{Party shading/Democratic}} |Charlie G. Williams {{small|(D)}}<!-- Education -->
+|rowspan=17 {{Party shading/Democratic}} |T. Eston Marchant {{small|(D)}}<!-- Adjutant -->
+|rowspan=4 {{Party shading/Democratic}} |108D, 16R<!-- SC House -->
+|rowspan=2 {{party shading/Democratic}} |4D, 2R<!-- US House -->
+|- style="height:1em"
+!1980
+|- style="height:1em"
+!1981
+|rowspan=4 {{Party shading/Democratic}} |39D, 7R<!-- SC Senate -->
+|rowspan=2 {{party shading/Republican}} |4R, 2D<!-- US House -->
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}<!-- ECV -->
+|- style="height:1em"
+!1982
+|- style="height:1em"
+!1983
+|rowspan=4 {{Party shading/Democratic}} |[[Michael R. Daniel]] {{small|(D)}}<!-- LG -->
+|rowspan=13 {{Party shading/Democratic}} |[[Thomas T. Medlock]] {{small|(D)}}<!-- AG -->
+|rowspan=8 {{Party shading/Democratic}} |Les Tindal {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Democratic}} |105D, 19R<!-- SC House -->
+|rowspan=4 bgcolor="#D8BFD8" |3D, 3R<!-- US House -->
+|- style="height:1em"
+!1984
+|- style="height:1em"
+!1985
+|rowspan=4 {{Party shading/Democratic}} |36D, 10R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |96D, 28R<!-- SC House -->
+|- style="height:1em"
+!1986
+|- style="height:1em"
+!1987
+|rowspan=9 {{Party shading/Republican}} |[[Carroll A. Campbell Jr.]] {{small|(R)}}<!-- Gov -->
+|rowspan=9 {{Party shading/Democratic}} |[[Nick Theodore]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |92D, 32R<!-- SC House -->
+|rowspan=7 {{party shading/Democratic}} |4D, 2R<!-- US House -->
+|- style="height:1em"
+!1988
+|- style="height:1em"
+!1989
+|rowspan=5 {{Party shading/Democratic}} |35D, 11R<!-- SC Senate -->
+|rowspan=3 {{Party shading/Democratic}} |88D, 36R<!-- SC House -->
+|rowspan=5 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}<!-- ECV -->
+|- style="height:1em"
+!rowspan=2 |1990
+|- style="height:1em"
+|rowspan=14 {{Party shading/Republican}} |Les Tindal {{small|(R)}}<!-- Agriculture -->
+|- style="height:1em"
+!1991
+|rowspan=13 {{Party shading/Republican}} |[[Jim Miles (politician)|Jim Miles]] {{small|(R)}}<!-- Sec. -->
+|rowspan=9 {{Party shading/Republican}} |Barbara Nielsen {{small|(R)}}<!-- Education -->
+|rowspan=2 {{Party shading/Democratic}} |80D, 44R<!-- SC House -->
+|- style="height:1em"
+!1992
+|- style="height:1em"
+!1993
+|rowspan=2 {{Party shading/Democratic}} |30D, 16R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |74D, 50R<!-- SC House -->
+|rowspan=2 bgcolor="#D8BFD8" |3D, 3R<!-- US House -->
+|rowspan=5 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{nay}}<!-- ECV -->
+|- style="height:1em"
+!1994
+|- style="height:1em"
+!rowspan=2 |1995
+|rowspan=5 {{Party shading/Republican}} |[[David Beasley]] {{small|(R)}}<!-- Gov -->
+|rowspan=9 {{Party shading/Republican}} |[[Bob Peeler]] {{small|(R)}}<!-- LG -->
+|rowspan=9 {{Party shading/Republican}} |[[Charlie Condon]] {{small|(R)}}<!-- AG -->
+|rowspan=5 {{Party shading/Republican}} |[[Richard Eckstrom]] {{small|(R)}}<!-- Treasurer -->
+|{{Party shading/Democratic}} |Stan Spears {{small|(D)}}<!-- Adjutant -->
+|rowspan=3 {{Party shading/Democratic}} |26D, 20R<!-- SC Senate -->
+|rowspan=3 {{Party shading/Republican}} |70R, 54D<!-- SC House -->
+|rowspan=20 {{Party shading/Republican}} |4R, 2D<!-- US House -->
+|- style="height:1em"
+|rowspan=19 {{Party shading/Republican}} |Stan Spears {{small|(R)}}<!-- Adjutant -->
+|- style="height:1em"
+!1996
+|- style="height:1em"
+!1997
+|rowspan=4 {{Party shading/Democratic}} |25D, 21R<!-- SC Senate -->
+|rowspan=2 {{Party shading/Republican}} |71R, 53D<!-- SC House -->
+|rowspan=4 {{Party shading/Republican}} |[[Bob Dole|Dole]]/<br>[[Jack Kemp|Kemp]] {{small|(R)}} {{nay}}<!-- ECV -->
+|- style="height:1em"
+!1998
+|- style="height:1em"
+!1999
+|rowspan=4 {{Party shading/Democratic}} |[[Jim Hodges]] {{small|(D)}}<!-- Gov -->
+|rowspan=9 {{Party shading/Democratic}} |[[Grady Patterson]] {{small|(D)}}<!-- Treasurer -->
+|rowspan=4 {{Party shading/Democratic}} |[[Jim Lander]] {{small|(D)}}<!-- Comptroller -->
+|rowspan=9 {{Party shading/Democratic}} |[[Inez Tenenbaum]] {{small|(D)}}<!-- Education -->
+|rowspan=2 {{Party shading/Republican}} |67R, 57D<!-- SC House -->
+|- style="height:1em"
+!2000
+|- style="height:1em"
+!2001
+|rowspan=2 {{Party shading/Republican}} |25R, 21D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Republican}} |71R, 53D<!-- SC House -->
+|rowspan=11 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}<!-- ECV -->
+|- style="height:1em"
+!2002
+|- style="height:1em"
+!2003
+|rowspan=11 {{Party shading/Republican}} |[[Mark Sanford]] {{small|(R)}}<!-- Gov -->
+|rowspan=11 {{Party shading/Republican}} |[[André Bauer]] {{small|(R)}}<!-- LG -->
+|rowspan=30 {{Party shading/Republican/current}} |[[Mark Hammond (American politician)|Mark Hammond]] {{small|(R)}}<!-- Sec. -->
+|rowspan=11 {{Party shading/Republican}} |[[Henry McMaster]] {{small|(R)}}<!-- AG -->
+|rowspan=25 {{Party shading/Republican}} |[[Richard Eckstrom]] {{small|(R)}}{{efn |name=resigned}}<!-- Comptroller -->
+|rowspan=2 {{Party shading/Republican}} |Charles Sharpe {{small|(R)}}<!-- Agriculture -->
+|rowspan=6 {{Party shading/Republican}} |26R, 20D<!-- SC Senate -->
+|rowspan=3 {{Party shading/Republican}} |73R, 51D<!-- SC House -->
+|rowspan=29 {{Party shading/Republican}} |[[Lindsey Graham]]{{efn |name=died}} {{small|(R)}}<!-- US Senator 2 -->
+|- style="height:1em"
+!rowspan=2 |2004
+|- style="height:1em"
+|rowspan=28 {{Party shading/Republican/current}} |[[Hugh Weathers]] {{small|(R)}}<!-- Agriculture -->
+|- style="height:1em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |74R, 50D<!-- SC House -->
+|rowspan=11 {{Party shading/Republican}} |[[Jim DeMint]] {{small|(R)}}<!-- US Senator 3 -->
+|- style="height:1em"
+!2006
+|- style="height:1em"
+!rowspan=3 |2007
+|{{Party shading/Republican}} |[[Thomas Ravenel]] {{small|(R)}}{{efn |name=resigned}}<!-- Treasurer -->
+|rowspan=6 {{Party shading/Democratic}} |[[Jim Rex]] {{small|(D)}}<!-- Education -->
+|rowspan=6 {{Party shading/Republican}} |73R, 51D<!-- SC House -->
+|- style="height:1em"
+|{{Party shading/Republican}} |Ken Wingate {{small|(R)}}{{efn |Appointed on an interim basis by Governor [[Mark Sanford]].}}<!-- Treasurer -->
+|{{Party shading/Republican}} |26R, 19D<!-- SC Senate -->
+|- style="height:1em"
+|rowspan=4 {{Party shading/Republican}} |[[Converse Chellis]] {{small|(R)}}{{efn |Elected by [[South Carolina General Assembly|state legislature]] to fill vacancy.}}<!-- Treasurer -->
+|rowspan=7 {{Party shading/Republican}} |27R, 19D<!-- SC Senate -->
+|- style="height:1em"
+!2008
+|- style="height:1em"
+!2009
+|rowspan=5 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{nay}}<!-- ECV -->
+|- style="height:1em"
+!2010
+|- style="height:1em"
+!2011
+|rowspan=8 {{Party shading/Republican}} |[[Nikki Haley]] {{small|(R)}}{{efn |Resigned January 24, 2017 upon confirmation as [[United States Ambassador to the United Nations]].}}<!-- Gov -->
+|rowspan=2 {{Party shading/Republican}} |[[Ken Ard (politician)|Ken Ard]] {{small|(R)}}<!-- LG -->
+|rowspan=19 {{Party shading/Republican/current}} |[[Alan Wilson (politician)|Alan Wilson]] {{small|(R)}}<!-- AG -->
+|rowspan=19 {{Party shading/Republican/current}} |[[Curtis Loftis]] {{small|(R)}}<!-- Treasurer -->
+|rowspan=6 {{Party shading/Republican}} |[[Mick Zais]] {{small|(R)}}<!-- Education -->
+|rowspan=10 {{Party shading/Republican}} |Robert Livingston {{small|(R)}}{{efn |Last elected Adjutant General, retired on January 17, 2019.}}<!-- Adjutant -->
+|rowspan=3 {{Party shading/Republican}} |76R, 48D<!-- SC House -->
+|rowspan=3 {{Party shading/Republican}} |5R, 1D<!-- US House -->
+|- style="height:1em"
+!rowspan=2 |2012
+|- style="height:1em"
+|rowspan=3 {{Party shading/Republican}} |[[Glenn F. McConnell]] {{small|(R)}} {{efn |name=resigned}}
+|- style="height:1em"
+!2013
+|rowspan=3 {{Party shading/Republican}} |28R, 18D<!-- SC Senate -->
+|rowspan=5 {{Party shading/Republican}} |78R, 46D<!-- SC House -->
+|rowspan=16 {{Party shading/Republican/current}} |[[Tim Scott]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=7 {{Party shading/Republican}} |6R, 1D<!-- US House -->
+|rowspan=5 {{Party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{nay}}<!-- ECV -->
+|- style="height:1em"
+!rowspan=2 |2014
+|- style="height:1em"
+|{{Party shading/Democratic}} |[[Yancey McGill]] {{small|(D)}}<!-- LG -->
+|- style="height:1em"
+!2015
+|rowspan=2 {{Party shading/Republican}} |[[Henry McMaster]] {{small|(R)}}<!-- LG -->
+|rowspan=8 {{Party shading/Republican}} |[[Molly Spearman]] {{small|(R)}}<!-- Education -->
+|{{Party shading/Republican}} |28R, 17D 1V{{efn |State Senator [[Clementa C. Pinckney]] was [[Charleston church shooting|assassinated]] in June 2015.}}<!-- SC Senate -->
+|- style="height:1em"
+!2016
+|rowspan=3 {{Party shading/Republican}} |28R, 18D<!-- SC Senate -->{{efn |Margie Bright Matthews succeeded Pinckney.}}
+|- style="height:1em"
+!2017
+|rowspan=11 {{Party shading/Republican/current}} |[[Henry McMaster]] {{small|(R)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Republican}} |[[Kevin L. Bryant]] {{small|(R)}}<!-- LG -->
+|rowspan=4 {{Party shading/Republican}} |80R, 44D<!-- SC House -->
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{aye}}
+|- style="height:1em"
+!2018
+|- style="height:1em"
+!2019
+|rowspan=9 {{Party shading/Republican/current}} |[[Pamela Evette]] {{small|(R)}}<!-- LG -->
+|rowspan=9 |''appointed''{{efn |Adjutant General became an appointed position in 2019.}}<!-- Adjutant -->
+|rowspan=2 {{party shading/Republican}} |27R, 19D<!-- SC Senate -->
+|rowspan=2 {{party shading/Republican}} |5R, 2D<!-- US House -->
+|- style="height:1em"
+!2020
+|- style="height:1em"
+!2021
+|rowspan=2 {{Party shading/Republican}} |30R, 16D<!-- SC Senate -->
+|rowspan=2 {{Party shading/Republican}} |81R, 43D<!-- SC House -->
+|rowspan=7 {{Party shading/Republican/current}} |6R, 1D<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{nay}}
+|- style="height:1em"
+!2022
+|-
+!2023
+|rowspan=5 {{Party shading/Democratic/current}} |[[Brian J. Gaines]] {{small|(D)}}{{efn|name=mcmaster|Appointed by Governor [[Henry McMaster]].}}<!-- Comptroller -->
+|rowspan=5 {{Party shading/Republican/current}} |[[Ellen Weaver]] {{small|(R)}}<!-- Education -->
+|rowspan=2 {{Party shading/Republican}} |30R, 15D, 1I<!-- SC Senate -->
+|rowspan=3 {{Party shading/Republican}} |88R, 36D<!-- SC House -->
+|- style="height:1em"
+!2024
+|- style="height:1em"
+!2025
+|rowspan=3 {{Party shading/Republican/current}} |34R, 12D<!-- SC Senate -->
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:1em"
+!rowspan=2 |2026
+|rowspan=2 {{Party shading/Republican/current}} |89R, 35D<!-- SC House -->
+|- style="height:1em"
+|rowspan=1 {{Party shading/Republican/current}} |[[Darline Graham]] {{small|(R)}}{{efn|name=mcmaster}}<!-- US Senator 2 -->
+|}
+
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[South Carolina#Government and politics|Government and politics in South Carolina]]
+*[[Politics of South Carolina]]
+*[[Elections in South Carolina]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states|state=expand}}
+
+{{DEFAULTSORT:Political Party Strength In South Carolina}}
+[[Category:Politics of South Carolina]]
+[[Category:Government of South Carolina]]
+[[Category:Political party strength in the United States by state|South Carolina]]

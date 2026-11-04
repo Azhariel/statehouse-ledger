@@ -1,0 +1,688 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+| post = Governor
+| body = Kentucky
+| native_name = 
+| insignia = Seal of Kentucky.svg
+| insignia_size = 110px
+| insignia_caption = [[Seal of Kentucky | Commonwealth Seal]]
+| image = Andy Beshear in April 2026 (cropped 3).jpg
+| image_size = 200px
+| incumbent = [[Andy Beshear]]
+| incumbent_since = December 10, 2019 (first term) - re-elected consecutively, December 12, 2023 (second term)
+| style = The Honorable
+| residence = [[Kentucky Governor's Mansion]]
+| term_length = Four years, renewable again consecutively or nonconsecutively then, available again after 4-year cool-off period
+| inaugural = [[Isaac Shelby]]
+| formation = Kentucky County, Virginia admitted to the Union as Kentucky on June 1, 1792
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Kentucky|Line of succession]]
+| deputy = [[Lieutenant Governor of Kentucky]]
+| salary = $174,216 (2026)
+| website = {{url|governor.ky.gov}}
+}}
+
+The [[governor of Kentucky]] is the [[head of government]] of the Commonwealth of [[Kentucky]].{{sfn|Ky. Const.|loc=[https://50constitutions.org/ky/constitution/section-id-67583 § 69]}} Fifty-nine individuals have held the office of governor. Prior to a 1992 amendment to the constitution, governors were prohibited from succeeding themselves in office, though four ([[Isaac Shelby]], [[John L. Helm]], [[James B. McCreary]] and [[Happy Chandler]]) served multiple non-consecutive terms. [[Paul E. Patton]], the first Kentucky governor eligible for a second consecutive term under the amendment, won his reelection bid in 1999. [[James Garrard]] succeeded himself in 1800, before the constitutional provision existed. Garrard is also the longest serving governor, serving for a total period of eight years and 90 days. In 2023 [[Kentucky Democratic Party|Democrat]] [[Andy Beshear]] became the 3rd incumbent governor in Kentucky history to be reelected to a second consecutive term.  
+
+[[William Goebel]], who was elected to the office in the disputed [[1899 Kentucky gubernatorial election|election of 1899]], remains the only governor of any U.S. state to die from assassination while in office.<ref>{{Cite encyclopedia |year=1992 |title=Goebel Assassination |encyclopedia=The Kentucky Encyclopedia |publisher=The University Press of Kentucky |location=Lexington |editor-last=Kleber |editor-first=John E. |isbn=0-8131-1772-0}}</ref> Goebel is also the shortest serving governor, serving for a period of only three days. [[Martha Layne Collins]], who held the office from 1983 to 1987, was the first woman to serve as governor and was only the third woman to serve as governor of any U.S. state who had not been married to a previous governor.<ref>{{Cite encyclopedia |year=1992 |title=Governor, Office of |encyclopedia=The Kentucky Encyclopedia |publisher=The University Press of Kentucky |location=Lexington |editor-last=Kleber |editor-first=John E. |isbn=0-8131-1772-0}}</ref> The 63rd and current Kentucky governor is [[Kentucky Democratic Party|Democrat]] [[Andy Beshear]], who took office on December 10, 2019.
+
+==Governors==
+[[Kentucky County, Virginia]] was [[admission to the Union|admitted to the Union]] as Kentucky on June 1, 1792. There have been 59 governors, serving 63 distinct terms.
+
+An unelected group proclaimed Kentucky's secession from the [[Union (American Civil War)|Union]] on November 20, 1861, and it was annexed by the [[Confederate States of America]] on December 10, 1861. The Confederate government elected two governors, but it never held much control over the state.
+
+The original 1792 [[Constitution of Kentucky]] had the governor chosen by an [[electoral college]]{{sfn|Thorpe|1909|p=1268|loc=1792 art. II, § 2}} for a term of four years, commencing on the first day of June.{{sfn|Thorpe|1909|p=1268|loc=1792 art. II, § 3}} The second constitution in 1799 changed this to a popular vote,{{sfn|Thorpe|1909|p=1281|loc=1799 art. III, § 2}} prevented governors from succeeding themselves within seven years of their terms,{{sfn|Thorpe|1909|p=1281|loc=1799 art. III, § 3}} and moved the start date to the fourth Tuesday after the election.{{sfn|Thorpe|1909|p=1281|loc=1799 art. III, § 5}} The third constitution in 1850 reduced the succession limitation to four years,{{sfn|Thorpe|1909|p=1297|loc=1850 art. III, § 3}} and moved the start date of the term to the fifth Tuesday after the election.{{sfn|Thorpe|1909|p=1297|loc=1850 art. III, § 5}} A 1992 amendment allowed governors to have a second term before being prevented from succeeding themselves for four years.{{sfn|Ky. Const.|loc=[https://50constitutions.org/ky/constitution/section-id-67595 § 71]}} Originally, should the office of governor be vacant, the speaker of the Senate would exercise the powers of the office;{{sfn|Thorpe|1909|p=1269|loc=1792 art. II, § 15}} in 1799, the office of lieutenant governor was created to fill this role,{{sfn|Thorpe|1909|p=1282|loc=1799 art. III, § 16–18}} and, as of 1992, is elected on the same [[ticket (election)|ticket]] as the governor.{{sfn|Ky. Const.|loc=[https://50constitutions.org/ky/constitution/section-id-67591 § 70]}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Commonwealth of Kentucky
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|The state labels Andy Beshear as the 63nd governor;<ref>{{Cite web |title=Governor Andy Beshear |url=https://governor.ky.gov/about/governor-andy-beshear |access-date=October 26, 2026 |website=Governor of Kentucky |archive-url=https://web.archive.org/web/20261006101838/https://governor.ky.gov/about/governor-andy-beshear |archive-date=October 6, 2026 |url-status=live}}</ref> based on this, subsequent terms of repeat governors are numbered.}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Kentucky|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1799.{{sfn|Thorpe|1909|p=1282|loc=1799 art. III, § 16}}}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Shelby, Isaac"|[[File:Isaac shelby.jpg|75px]]
+|rowspan="12" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[Isaac Shelby]]'''<br>{{Small|(1750–1826)}}<br>{{sfn|Sobel|1978|pp=507–508}}<ref name="nga-shelby">{{cite web |title=Isaac Shelby |url=https://www.nga.org/governor/isaac-shelby/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261003054454/https://www.nga.org/governor/isaac-shelby/ |archive-date=October 3, 2026 |url-status=live}}</ref>
+|data-sort-value="1459"|June 4, 1792<ref>{{Cite news |date=June 30, 1792 |title=Carlisle, June 20 |page=3 |newspaper=[[Philadelphia Aurora|General Advertiser]] |url=https://www.newspapers.com/article/aurora-general-advertiser-shelby-inaugur/130452582/ |archive-url=https://web.archive.org/web/20230822221509/https://www.newspapers.com/article/aurora-general-advertiser-shelby-inaugur/130452582/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />June 1, 1796<br>{{small|(1459 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|[[1792 Kentucky gubernatorial election|1792]]
+|colspan="2" rowspan="2" style="background:#EEEEEE; color:inherit;"|''Office did not exist''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Garrard, James"|[[File:JGarrard.jpg|75px]]
+|rowspan="2"|'''[[James Garrard]]'''<br>{{Small|(1749–1822)}}<br>{{sfn|Sobel|1978|pp=508–509}}<ref name="nga-garrard">{{cite web |title=James Garrard |url=https://www.nga.org/governor/james-garrard/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919210714/https://www.nga.org/governor/james-garrard/ |archive-date=September 19, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="3018"|June 1, 1796<ref>{{Cite news |date=July 22, 1796 |title=Garrard inaugurated June 1 (Other sources make it clear "1st inst." refers to June, not July) |page=3 |newspaper=[[Intelligencer Journal|Lancaster Journal]] |url=https://www.newspapers.com/article/lancaster-intelligencer-garrard-inaugura/130453283/ |archive-url=https://web.archive.org/web/20230822230018/https://www.newspapers.com/article/lancaster-intelligencer-garrard-inaugura/130453283/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 5, 1804<br>{{small|(3018 days; term-limited)}}{{efn|Under the 1799 constitution, governors were ineligible for seven years after the end of their term.{{sfn|Thorpe|1909|p=1281|loc=1799 art. III, § 3}}|name=limits-1799}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|[[1796 Kentucky gubernatorial election|1796]]
+|- style="height:2em;"
+|[[1800 Kentucky gubernatorial election|1800]]
+|rowspan="2" style="background: {{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|{{sortname|Alexander Scott|Bullitt}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|3
+|rowspan="3" data-sort-value="Greenup, Christopher"|[[File:Christopher Greenup.jpg|75px]]
+|rowspan="3"|'''[[Christopher Greenup]]'''<br>{{Small|(1750–1818)}}<br>{{sfn|Sobel|1978|p=509}}<ref name="nga-greenup">{{cite web |title=Christopher Greenup |url=https://www.nga.org/governor/christopher-greenup/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920101417/https://www.nga.org/governor/christopher-greenup/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1449"|September 5, 1804{{sfn|Kallenbach|1977|p=205}}<br />–<br />August 23, 1808<br>{{small|(1449 days; term-limited)}}{{efn|name=limits-1799}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|rowspan="3"|[[1804 Kentucky gubernatorial election|1804]]
+|{{sortname|John|Caldwell|dab=Kentucky politician}}<br />{{small|(died November 19, 1804)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="4" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|Thomas|Posey}}<br />{{small|(acting, elected Speaker in 1805)}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Scott, Charles"|[[File:Portrait of Charles Scott.jpg|75px]]
+|'''[[Charles Scott (Kentucky politician)|Charles Scott]]'''<br>{{Small|(1739–1813)}}<br>{{sfn|Sobel|1978|p=510}}<ref name="nga-scott">{{cite web |title=Charles Scott |url=https://www.nga.org/governor/charles-scott/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260928023633/https://www.nga.org/governor/charles-scott/ |archive-date=September 28, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|August 23, 1808{{sfn|Kallenbach|1977|p=205}}<br />–<br />August 24, 1812<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1799}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|[[1808 Kentucky gubernatorial election|1808]]
+|{{sortname|Gabriel|Slaughter}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Shelby, Isaac"|[[File:Isaac shelby.jpg|75px]]
+|'''[[Isaac Shelby]]'''<br>{{Small|(1750–1826)}}<br>{{sfn|Sobel|1978|pp=507–508}}<ref name="nga-shelby" />
+|data-sort-value="1474"|August 24, 1812{{sfn|Kallenbach|1977|p=205}}<br />–<br />September 5, 1816<br>{{small|(1474 days; term-limited)}}{{efn|name=limits-1799}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|[[1812 Kentucky gubernatorial election|1812]]
+|{{sortname|Richard|Hickman}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Madison, George"|[[File:George Madison.jpg|75px]]
+|'''[[George Madison]]'''<br>{{Small|(1763–1816)}}<br>{{sfn|Sobel|1978|pp=510–511}}<ref name="nga-madison">{{cite web |title=George Madison |url=https://www.nga.org/governor/george-madison/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920220300/https://www.nga.org/governor/george-madison/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="40"|September 5, 1816{{efn|The constitutional start date would have been August 27;{{sfn|Kallenbach|1977|p=205}} however, contemporary news indicates Madison succeeded Shelby on September 5.<ref>{{Cite news |date=September 9, 1816 |title=Governor Madison |page=3 |newspaper=[[Kentucky Gazette]] |url=https://www.newspapers.com/article/kentucky-gazette-madison-inaugurated-sep/130477813/ |archive-url=https://web.archive.org/web/20230822223011/https://www.newspapers.com/article/kentucky-gazette-madison-inaugurated-sep/130477813/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />October 14, 1816<br>{{small|(40 days; died in office)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|[[1816 Kentucky gubernatorial election|1816]]
+|{{sortname|Gabriel|Slaughter}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Slaughter, Gabriel"|[[File:Gabriel Slaughter.jpg|75px]]
+|'''[[Gabriel Slaughter]]'''<br>{{Small|(1767–1830)}}<br>{{sfn|Sobel|1978|pp=511–512}}<ref name="nga-slaughter">{{cite web |title=Gabriel Slaughter |url=https://www.nga.org/governor/gabriel-slaughter/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260925030901/https://www.nga.org/governor/gabriel-slaughter/ |archive-date=September 25, 2026 |url-status=live}}</ref>
+|data-sort-value="1425"|October 14, 1816<ref>{{Cite news |date=September 3, 1828 |title=Oaths of the Governor |page=2 |newspaper=[[Argus of Western America]] |url=https://www.newspapers.com/article/the-argus-of-western-america-slaughter-s/130478269/ |archive-url=https://web.archive.org/web/20230822221508/https://www.newspapers.com/article/the-argus-of-western-america-slaughter-s/130478269/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 7, 1820<br>{{small|(1425 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Adair, John"|[[File:JOHN ADAIR colour corrected.jpg|75px]]
+|'''[[John Adair]]'''<br>{{Small|(1757–1840)}}<br>{{sfn|Sobel|1978|pp=512–513}}<ref name="nga-adair">{{cite web |title=John Adair |url=https://www.nga.org/governor/john-adair/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260921150000/https://www.nga.org/governor/john-adair/ |archive-date=September 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1448"|September 7, 1820{{efn|The constitutional start date would have been August 29;{{sfn|Kallenbach|1977|p=205}} however, what little contemporary reporting that has been found says he was inaugurated on September 7.<ref>{{Cite news |date=September 13, 1820 |title=none |quote=Gen. John Adair, is elected Governor, and William F. Barry, Lieutenant Governor, of the state of Kentucky, and entered upon the duties of their office on the 7th inst. |page=2 |newspaper=[[New York Post|New York Evening Post]] |url=https://www.newspapers.com/article/the-evening-post-adair-elected/119966863/ |archive-url=https://web.archive.org/web/20230927160048/https://www.newspapers.com/article/the-evening-post-adair-elected/119966863/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><ref>{{Cite news |date=October 11, 1820 |title=Kentucky Election |page=1 |newspaper=[[The Republican Compiler]] |url=https://www.newspapers.com/article/gettysburg-compiler-adair-inaugurated-se/130478523/ |archive-url=https://web.archive.org/web/20230822223012/https://www.newspapers.com/article/gettysburg-compiler-adair-inaugurated-se/130478523/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />August 24, 1824<br>{{small|(1448 days; term-limited)}}{{efn|name=limits-1799}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=205}}
+|[[1820 Kentucky gubernatorial election|1820]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|William T.|Barry}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Desha, Joseph"|[[File:Joseph Desha by Katherine Helm.jpg|75px]]
+|'''[[Joseph Desha]]'''<br>{{Small|(1768–1842)}}<br>{{sfn|Sobel|1978|pp=513–514}}<ref name="nga-desha">{{cite web |title=Joseph Desha |url=https://www.nga.org/governor/joseph-desha/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920153433/https://www.nga.org/governor/joseph-desha/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|August 24, 1824<ref>{{Cite news |publication-date=September 17, 1824 |date=September 10, 1824 |location=Washington, D.C. |publication-place=Charleston, South Carolina |title=Kentucky |page=2 |newspaper=[[The Post and Courier|The Charleston Courier]] |url=https://www.newspapers.com/article/the-charleston-daily-courier-desha-inaug/130489056/ |archive-url=https://web.archive.org/web/20230823033002/https://www.newspapers.com/article/the-charleston-daily-courier-desha-inaug/130489056/ |archive-date=August 23, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 26, 1828<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1799}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=206}}
+|[[1824 Kentucky gubernatorial election|1824]]
+|{{sortname|Robert B.|McAfee}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Metcalfe, Thomas"|[[File:TMetcalfe.jpg|75px]]
+|style="color:inherit;background: {{party color|National Republican Party}};" title="Represented the National Republican Party"|
+|'''[[Thomas Metcalfe (Kentucky politician)|Thomas Metcalfe]]'''<br>{{Small|(1780–1855)}}<br>{{sfn|Sobel|1978|p=514}}<ref name="nga-metcalfe">{{cite web |title=Thomas Metcalfe |url=https://www.nga.org/governor/thomas-metcalfe/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920010313/https://www.nga.org/governor/thomas-metcalfe/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|August 26, 1828<ref>{{Cite news |date=August 30, 1828 |title=The Inauguration |page=3 |newspaper=Anti-Jackson Bulletin and Messenger of Truth |url=https://www.newspapers.com/article/anti-jackson-bulletin-and-messenger-of-t/130489305/ |archive-url=https://web.archive.org/web/20230823033001/https://www.newspapers.com/article/anti-jackson-bulletin-and-messenger-of-t/130489305/ |archive-date=August 23, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 28, 1832<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1799}}
+|[[National Republican Party|National<br />Republican]]{{efn|Kallenbach labels Metcalfe both as a [[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|p=206}} and a National Republican;{{sfn|Kallenbach|1977|p=209}} Glashan labels him a National Republican;{{sfn|Glashan|1979|p=108}} and Dubin{{sfn|Dubin|2003|p=1828}} and Sobel{{sfn|Sobel|1978|p=514}} describe him as a pro-Adams Administration candidate.}}
+|[[1828 Kentucky gubernatorial election|1828]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John|Breathitt}}{{efn|name=ltdem|Represented the [[Kentucky Democratic Party|Democratic Party]]}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Breathitt, John"|[[File:John Breathitt.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John Breathitt]]'''<br>{{Small|(1786–1834)}}<br>{{sfn|Sobel|1978|p=515}}<ref name="nga-breathitt-john">{{Cite web |title=John Breathitt |url=https://www.nga.org/governor/john-breathitt/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920101537/https://www.nga.org/governor/john-breathitt/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="543"|August 28, 1832{{sfn|Kallenbach|1977|p=206}}<br />–<br />February 21, 1834<br>{{small|(543 days; died in office)}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Dubin|2003|p=29}}
+|[[1832 Kentucky gubernatorial election|1832]]
+|style="color:inherit;background: {{party color|National Republican Party}};" title="Represented the National Republican Party"|
+|{{sortname|James T.|Morehead|dab=Kentucky politician}}{{efn|Represented the [[National Republican Party]].}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Morehead, James"|[[File:JTMorehead.jpg|75px]]
+|style="color:inherit;background: {{party color|National Republican Party}};" title="Represented the National Republican Party"|
+|'''[[James T. Morehead (Kentucky politician)|James T. Morehead]]'''<br>{{Small|(1797–1854)}}<br>{{sfn|Sobel|1978|pp=515–516}}<ref name="nga-morehead-james">{{Cite web |title=James Turner Morehead |url=https://www.nga.org/governor/james-turner-morehead/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920115332/https://www.nga.org/governor/james-turner-morehead/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="922"|February 21, 1834<ref>{{Cite news |date=March 5, 1834 |title=Death of Gov. Breathitt |page=2 |newspaper=[[Pittsburgh Post-Gazette|Daily Pittsburgh Gazette]] |url=https://www.newspapers.com/article/the-pittsburgh-gazette-morehead-succeeds/130489733/ |archive-url=https://web.archive.org/web/20230823032959/https://www.newspapers.com/article/the-pittsburgh-gazette-morehead-succeeds/130489733/ |archive-date=August 23, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 30, 1836<br>{{small|(922 days; retired)}}
+|[[National Republican Party|National<br />Republican]]{{efn|Glashan labels Morehead a National Republican,{{sfn|Glashan|1979|p=104}} and Sobel notes he succeeded to governor as a Whig,{{sfn|Sobel|1978|p=516}} as the National Republicans had transitioned into the Whig Party in 1834.}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Clark, James"|[[File:JClark.jpg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[James Clark (Kentucky politician)|James Clark]]'''<br>{{Small|(1779–1839)}}<br>{{sfn|Sobel|1978|pp=516–517}}<ref name="nga-clark">{{cite web |title=James Clark |url=https://www.nga.org/governor/james-clark/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920231935/https://www.nga.org/governor/james-clark/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1093"|August 30, 1836<ref>{{Cite news |date=September 3, 1836 |title=Governor Clark |page=2 |newspaper=[[Courier Journal|Louisville Daily Journal]] |url=https://www.newspapers.com/article/the-courier-journal-clark-inaugurated-au/130489915/ |archive-url=https://web.archive.org/web/20230823033000/https://www.newspapers.com/article/the-courier-journal-clark-inaugurated-au/130489915/ |archive-date=August 23, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 27, 1839<br>{{small|(1093 days; died in office)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=74}}
+|[[1836 Kentucky gubernatorial election|1836]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|Charles A.|Wickliffe}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Wickliffe, Charles"|[[File:Wickliffe CA.jpg|75px]]
+|'''[[Charles A. Wickliffe]]'''<br>{{Small|(1788–1869)}}<br>{{sfn|Sobel|1978|pp=517–518}}<ref name="nga-wickliffe">{{cite web |title=Charles Anderson Wickliffe |url=https://www.nga.org/governor/charles-anderson-wickliffe/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260922091048/https://www.nga.org/governor/charles-anderson-wickliffe/ |archive-date=September 22, 2026 |url-status=live}}</ref>
+|data-sort-value="373"|August 27, 1839<ref>{{Cite news |date=August 29, 1839 |title=Death of the Governor of Kentucky |page=2 |newspaper=[[Kentucky Gazette]] |url=https://www.newspapers.com/article/kentucky-gazette-wickliffe-succeeds-clar/130490087/ |archive-url=https://web.archive.org/web/20230823033958/https://www.newspapers.com/article/kentucky-gazette-wickliffe-succeeds-clar/130490087/ |archive-date=August 23, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 2, 1840<br>{{small|(373 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Sobel|1978|p=517}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Letcher, Robert"|[[File:RPLetcher.jpg|75px]]
+|'''[[Robert P. Letcher]]'''<br>{{Small|(1788–1861)}}<br>{{sfn|Sobel|1978|p=518}}<ref name="nga-letcher">{{cite web |title=Robert Perkins Letcher |url=https://www.nga.org/governor/robert-perkins-letcher/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920022010/https://www.nga.org/governor/robert-perkins-letcher/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|September 2, 1840<ref>{{Cite news |date=September 19, 1840 |title=News of the Week |page=3 |newspaper=The Native American |url=https://www.newspapers.com/article/the-native-american-letcher-inaugurated/130490358/ |archive-url=https://web.archive.org/web/20230823032958/https://www.newspapers.com/article/the-native-american-letcher-inaugurated/130490358/ |archive-date=August 23, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 4, 1844<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1799}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=75}}
+|[[1840 Kentucky gubernatorial election|1840]]
+|rowspan="3" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|Manlius Valerius|Thomson}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Owsley, William"|[[File:William Owsley.jpg|75px]]
+|'''[[William Owsley]]'''<br>{{Small|(1782–1862)}}<br>{{sfn|Sobel|1978|p=519}}<ref name="nga-owsley">{{cite web |title=William Owsley |url=https://www.nga.org/governor/william-owsley/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920141501/https://www.nga.org/governor/william-owsley/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|September 4, 1844<ref>{{Cite news |date=September 7, 1844 |title=none |quote=The Hon. Wm. Owsley took the usual oath of office at Frankfort on Wednesday, and is now Governor of this State. |page=3 |newspaper=[[Courier Journal|Louisville Daily Journal]] |url=https://www.newspapers.com/article/the-courier-journal-owsley-inaugurated-s/130507179/ |archive-url=https://web.archive.org/web/20230826063150/https://www.newspapers.com/article/the-courier-journal-owsley-inaugurated-s/130507179/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 6, 1848<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1799}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=76}}
+|[[1844 Kentucky gubernatorial election|1844]]
+|{{sortname|Archibald|Dixon}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Crittenden, John"|[[File:John Jordan Crittenden - Brady 1855.jpg|75px]]
+|'''[[John J. Crittenden]]'''<br>{{Small|(1787–1863)}}<br>{{sfn|Sobel|1978|pp=519–520}}<ref name="nga-crittenden">{{cite web |title=John Jordan Crittenden |url=https://www.nga.org/governor/john-jordan-crittenden/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920114359/https://www.nga.org/governor/john-jordan-crittenden/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="693"|September 6, 1848<ref>{{Cite news |date=September 6, 1848 |publication-date=September 9, 1848 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Inauguration Day |page=3 |newspaper=[[Courier Journal|The Louisville Morning Courier]] |url=https://www.newspapers.com/article/the-louisville-daily-courier-crittenden/130669943/ |archive-url=https://web.archive.org/web/20230826060955/https://www.newspapers.com/article/the-louisville-daily-courier-crittenden/130669943/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />July 30, 1850<br>{{small|(693 days; resigned)}}{{efn|Crittenden resigned, having been confirmed as [[United States Attorney General]].{{sfn|Sobel|1978|p=520}}}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=77}}
+|[[1848 Kentucky gubernatorial election|1848]]{{efn|The 1850 constitution shifted the election schedule forward, shortening this term by a year.}}
+|{{sortname|John L.|Helm}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Helm, John"|[[File:JohnLaRueHelm.jpg|75px]]
+|'''[[John L. Helm]]'''<br>{{Small|(1802–1867)}}<br>{{sfn|Sobel|1978|pp=520–521}}<ref name="nga-helm">{{cite web |title=John Larue Helm |url=https://www.nga.org/governor/john-larue-helm/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260726062425/https://www.nga.org/governor/john-larue-helm/ |archive-date=July 26, 2026 |url-status=live}}</ref>
+|data-sort-value="400"|July 30, 1850{{efn|Helm was sworn in on July 31, but contemporary sources say Crittenden resigned on July 30.<ref>{{Cite news |date=July 31, 1850 |title=Resignation of Governor Crittenden |page=3 |newspaper=[[Courier Journal|The Louisville Daily Journal]] |url=https://www.newspapers.com/article/the-courier-journal-helm-succeeds-critte/130670250/ |archive-url=https://web.archive.org/web/20230826060957/https://www.newspapers.com/article/the-courier-journal-helm-succeeds-critte/130670250/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />September 2, 1851<br>{{small|(400 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Sobel|1978|p=521}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Powell, Lazarus"|[[File:Lazarus W. Powell - Brady-Handy.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Lazarus Powell]]'''<br>{{Small|(1812–1867)}}<br>{{sfn|Sobel|1978|pp=521–522}}<ref name="nga-powell">{{cite web |title=Lazarus Whitehead Powell |url=https://www.nga.org/governor/lazarus-whitehead-powell/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920005808/https://www.nga.org/governor/lazarus-whitehead-powell/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|September 2, 1851<ref>{{Cite news |date=September 2, 1851 |publication-date=September 3, 1851 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Inauguration of the Governor and Lieut. Governor |page=3 |newspaper=[[Courier Journal|The Louisville Daily Journal]] |url=https://www.newspapers.com/article/the-courier-journal/60232165/ |archive-url=https://web.archive.org/web/20230826060956/https://www.newspapers.com/article/the-courier-journal/60232165/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 4, 1855<br>{{small|(1464 days; term-limited)}}{{efn|Under the 1850 constitution, governors were ineligible for four years after the end of their term.{{sfn|Thorpe|1909|p=1297|loc=1850 art. III, § 3}}|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Dubin|2003|p=77}}
+|[[1851 Kentucky gubernatorial election|1851]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|John Burton|Thompson}}{{efn|Represented the [[Whig Party (United States)|Whig Party]].}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Morehead, Charles"|[[File:Charles Slaughter Morehead.jpg|75px]]
+|style="color:inherit;background: {{party color|Know Nothing}};" title="Represented the American Party"|
+|'''[[Charles S. Morehead]]'''<br>{{Small|(1802–1868)}}<br>{{sfn|Sobel|1978|pp=522–523}}<ref name="nga-morehead-charles">{{Cite web |title=Charles Slaughter Morehead |url=https://www.nga.org/governor/charles-slaughter-morehead/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920071415/https://www.nga.org/governor/charles-slaughter-morehead/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|September 4, 1855<ref>{{Cite news |publication-date=September 6, 1855 |date=September 5, 1855 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=The Inauguration Ceremonies |page=1 |newspaper=[[Courier Journal|The Louisville Daily Courier]] |url=https://www.newspapers.com/article/the-louisville-daily-courier-inauguratio/46533471/ |archive-url=https://web.archive.org/web/20231101182959/https://www.newspapers.com/article/the-louisville-daily-courier-inauguratio/46533471/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 30, 1859<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Know Nothing|American]]{{sfn|Dubin|2003|p=78}}
+|[[1855 Kentucky gubernatorial election|1855]]
+|style="color:inherit;background: {{party color|Know Nothing}};" title="Represented the American Party"|
+|{{sortname|James Greene|Hardy}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Magoffin, Beriah"|[[File:Beriah Magoffin - Brady-Handy.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Beriah Magoffin]]'''<br>{{Small|(1815–1885)}}<br>{{sfn|Sobel|1978|pp=523–524}}<ref name="nga-magoffin">{{cite web |title=Beriah Magoffin |url=https://www.nga.org/governor/beriah-magoffin/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260921000932/https://www.nga.org/governor/beriah-magoffin/ |archive-date=September 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1085"|August 30, 1859<ref>{{Cite news |date=August 31, 1859 |title=The Inauguration of Magoffin |page=2 |newspaper=[[Courier Journal|The Louisville Daily Courier]] |url=https://www.newspapers.com/article/the-louisville-daily-courier/60230590/ |archive-url=https://web.archive.org/web/20230826063152/https://www.newspapers.com/article/the-louisville-daily-courier/60230590/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 18, 1862<br>{{small|(1085 days; resigned)}}{{efn|Magoffin resigned due to disagreement with the state legislature over neutrality in the [[American Civil War]].{{sfn|Sobel|1978|p=524}}}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]{{sfn|Dubin|2003|p=79}}
+|rowspan="2"|[[1859 Kentucky gubernatorial election|1859]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Linn|Boyd}}<br />{{small|(died December 17, 1859)}}
+|- style="height:2em;"
+|colspan="2" rowspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Robinson, James"|[[File:James F Robinson.jpg|75px]]
+|'''[[James Fisher Robinson]]'''<br>{{Small|(1800–1882)}}<br>{{sfn|Sobel|1978|pp=524–525}}<ref name="nga-robinson">{{cite web |title=James Fisher Robinson |url=https://www.nga.org/governor/james-fisher-robinson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920113607/https://www.nga.org/governor/james-fisher-robinson/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="380"|August 18, 1862<ref>{{Cite news |date=August 19, 1862 |title=Kentucky Legislature |page=3 |newspaper=[[Courier Journal|The Louisville Daily Journal]] |url=https://www.newspapers.com/article/the-courier-journal-robinson-succeeds-ma/130670398/ |archive-url=https://web.archive.org/web/20230826063141/https://www.newspapers.com/article/the-courier-journal-robinson-succeeds-ma/130670398/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 1, 1863<br>{{small|(380 days; retired)}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Bramlette, Thomas"|[[File:Thomas E. Bramlette (Kentucky).jpg|75px]]
+|style="color:inherit;background: {{party color|Unionist politician (American Civil War)}};" title="Represented the Union Democratic Party"|
+|'''[[Thomas E. Bramlette]]'''<br>{{Small|(1817–1875)}}<br>{{sfn|Sobel|1978|pp=525–526}}<ref name="nga-bramlette">{{cite web |title=Thomas Elliott Bramlette |url=https://www.nga.org/governor/thomas-elliott-bramlette/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261003113820/https://www.nga.org/governor/thomas-elliott-bramlette/ |archive-date=October 3, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|September 1, 1863<ref>{{Cite news |date=August 31, 1863 |publication-date=September 3, 1863 |title=The Inauguration of Gov. Bramlette |location=Frankfort, Kentucky |publication-place=Maysville, Kentucky |page=3 |newspaper=Dollar Weekly Bulletin |url=https://www.newspapers.com/article/maysville-weekly-bulletin/29598663/ |archive-url=https://web.archive.org/web/20250330162323/https://www.newspapers.com/article/maysville-bulletin/29598663/ |archive-date=March 30, 2025 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 3, 1867<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Unionist politician (American Civil War)|Union<br />Democratic]]{{sfn|Sobel|1978|p=525}}
+|[[1863 Kentucky gubernatorial election|1863]]
+|style="color:inherit;background: {{party color|Unionist politician (American Civil War)}};" title="Represented the Union Democratic Party"|
+|{{sortname|Richard Taylor|Jacob}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Helm, John"|[[File:JohnLaRueHelm.jpg|75px]]
+|rowspan="10" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John L. Helm]]'''<br>{{Small|(1802–1867)}}<br>{{sfn|Sobel|1978|pp=520–521}}<ref name="nga-helm" />
+|data-sort-value="6"|September 3, 1867<ref>{{Cite news |date=September 4, 1867 |title=Inauguration of Gov. Helm |page=2 |newspaper=Owensboro Monitor |url=https://www.newspapers.com/article/the-owensboro-monitor-helm-inaugurated-s/130670501/ |archive-url=https://web.archive.org/web/20230826063148/https://www.newspapers.com/article/the-owensboro-monitor-helm-inaugurated-s/130670501/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 8, 1867<br>{{small|(6 days; died in office)}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1867 Kentucky gubernatorial election|1867]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John W.|Stevenson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Stevenson, John"|[[File:John Stevenson.jpg|75px]]
+|rowspan="2"|'''[[John W. Stevenson]]'''<br>{{Small|(1812–1886)}}<br>{{sfn|Sobel|1978|pp=526–527}}<ref name="nga-stevenson">{{cite web |title=John White Stevenson |url=https://www.nga.org/governor/john-white-stevenson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920010200/https://www.nga.org/governor/john-white-stevenson/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1255"|September 8, 1867<ref>{{Cite news |date=September 9, 1867 |title=The Death of Governor Helm |page=1 |newspaper=[[Courier Journal|The Louisville Daily Journal]] |url=https://www.newspapers.com/article/the-courier-journal-stevenson-succeeds-h/130670541/ |archive-url=https://web.archive.org/web/20230826063146/https://www.newspapers.com/article/the-courier-journal-stevenson-succeeds-h/130670541/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />February 13, 1871<br>{{small|(1255 days; resigned)}}{{efn|Stevenson resigned, having been [[1871 United States Senate election in Kentucky|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=526}}}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|rowspan="3" colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1868 Kentucky gubernatorial special election|1868]]<br />{{small|(special)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Leslie, Preston"|[[File:PHLeslie.jpg|75px]]
+|rowspan="2"|'''[[Preston Leslie]]'''<br>{{Small|(1819–1907)}}<br>{{sfn|Sobel|1978|p=527}}<ref name="nga-leslie">{{cite web |title=Preston Hopkins Leslie |url=https://www.nga.org/governor/preston-hopkins-leslie/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261013161602/https://www.nga.org/governor/preston-hopkins-leslie/ |archive-date=October 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1661"|February 13, 1871<ref>{{Cite news |date=February 17, 1871 |title=Kentucky Legislature |page=2 |newspaper=[[The Advocate-Messenger|Kentucky Advocate]] |url=https://www.newspapers.com/article/kentucky-advocate-leslie-succeeds-steven/130670631/ |archive-url=https://web.archive.org/web/20230826063153/https://www.newspapers.com/article/kentucky-advocate-leslie-succeeds-steven/130670631/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 31, 1875<br>{{small|(1661 days; term-limited)}}{{efn|name=limits-1850}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+|[[1871 Kentucky gubernatorial election|1871]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John G.|Carlisle}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="McCreary, James"|[[File:James-B-McCreary.jpg|75px]]
+|'''[[James B. McCreary]]'''<br>{{Small|(1838–1918)}}<br>{{sfn|Sobel|1978|p=528}}<ref name="nga-mccreary">{{cite web |title=James Bennett McCreary |url=https://www.nga.org/governor/james-bennett-mccreary/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920072001/https://www.nga.org/governor/james-bennett-mccreary/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|August 31, 1875<ref>{{Cite news |date=September 1, 1875 |title=none |quote=The inauguration of Hon. James B. McCreary, Governor elect of Kentucky, at the capital yesterday... |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal/10374906/ |archive-url=https://web.archive.org/web/20230826063145/https://www.newspapers.com/article/the-courier-journal/10374906/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 2, 1879<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1875 Kentucky gubernatorial election|1875]]
+|{{sortname|John C.|Underwood}}
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Blackburn, Luke"|[[File:Luke-P.-Blackburn.jpg|75px]]
+|'''[[Luke P. Blackburn]]'''<br>{{Small|(1816–1887)}}<br>{{sfn|Sobel|1978|p=529}}<ref name="nga-blackburn">{{cite web |title=Luke Pryor Blackburn |url=https://www.nga.org/governor/luke-pryor-blackburn/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919224048/https://www.nga.org/governor/luke-pryor-blackburn/ |archive-date=September 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|September 2, 1879<ref>{{Cite news |date=September 5, 1879 |title=The Inauguration |page=2 |newspaper=Interior Journal |url=https://www.newspapers.com/article/interior-journal-blackburn-inaugurated-s/130670668/ |archive-url=https://web.archive.org/web/20230826060958/https://www.newspapers.com/article/interior-journal-blackburn-inaugurated-s/130670668/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 4, 1883<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1879 Kentucky gubernatorial election|1879]]
+|{{sortname|James E.|Cantrill}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Knott, J. Proctor"|[[File:J. Proctor Knott - Brady-Handy.jpg|75px]]
+|'''[[J. Proctor Knott]]'''<br>{{Small|(1830–1911)}}<br>{{sfn|Sobel|1978|pp=529–530}}<ref name="nga-knott">{{cite web |title=James Proctor Knott |url=https://www.nga.org/governor/james-proctor-knott/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260726062221/https://www.nga.org/governor/james-proctor-knott/ |archive-date=July 26, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|September 4, 1883<ref>{{Cite news |date=September 4, 1883 |location=Frankfort, Kentucky |publication-place=Danville, Kentucky |publication-date=September 7, 1883 |title=Kentucky's New Governor |page=1 |newspaper=[[The Advocate-Messenger|Kentucky Advocate]] |url=https://www.newspapers.com/article/kentucky-advocate-knott-inaugurated-sept/130670694/ |archive-url=https://web.archive.org/web/20230826060959/https://www.newspapers.com/article/kentucky-advocate-knott-inaugurated-sept/130670694/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />August 30, 1887<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1883 Kentucky gubernatorial election|1883]]
+|{{sortname|James R.|Hindman}}
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Buckner, Simon"|[[File:Simon Bolivar Buckner Sr.jpg|75px]]
+|'''[[Simon Bolivar Buckner]]'''<br>{{Small|(1823–1914)}}<br>{{sfn|Sobel|1978|pp=530–531}}<ref name="nga-buckner">{{cite web |title=Simon Bolivar Buckner |url=https://www.nga.org/governor/simon-bolivar-buckner/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920120554/https://www.nga.org/governor/simon-bolivar-buckner/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|August 30, 1887<ref>{{Cite news |publication-date=August 31, 1887 |date=August 30, 1887 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Gov. Buckner |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-buckner-inaugurated/130670721/ |archive-url=https://web.archive.org/web/20230826062502/https://www.newspapers.com/article/the-courier-journal-buckner-inaugurated/130670721/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 1, 1891<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1887 Kentucky gubernatorial election|1887]]
+|{{sortname|James William|Bryan}}
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Brown, John 1"|[[File:John Y. Brown 1835-1904 - Brady-Handy.jpg|75px]]
+|'''[[John Y. Brown (politician, born 1835)|John Y. Brown]]'''<br>{{Small|(1835–1904)}}<br>{{sfn|Sobel|1978|pp=531–532}}<ref name="nga-brown-john1">{{Cite web |title=John Young Brown Sr. |url=https://www.nga.org/governor/john-young-brown-sr/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920141519/https://www.nga.org/governor/john-young-brown-sr/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1562"|September 1, 1891<ref>{{Cite news |date=September 1, 1891 |location=Frankfort, Kentucky |publication-place=Lexington, Kentucky |title=The New Rung In, the Old Rung Out at Frankfort |page=1 |newspaper=[[Lexington Herald-Leader|Kentucky Leader]] |url=https://www.newspapers.com/article/lexington-herald-leader-brown-inaugurate/130670757/ |archive-url=https://web.archive.org/web/20230826060959/https://www.newspapers.com/article/lexington-herald-leader-brown-inaugurate/130670757/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 10, 1895<br>{{small|(1562 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1891 Kentucky gubernatorial election|1891]]
+|{{sortname|Mitchell Cary|Alford}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Bradley, William"|[[File:William-O.-Bradley.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[William O'Connell Bradley]]'''<br>{{Small|(1847–1914)}}<br>{{sfn|Sobel|1978|pp=532–533}}<ref name="nga-bradley">{{cite web |title=William O. Bradley |url=https://www.nga.org/governor/william-o-bradley/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920014206/https://www.nga.org/governor/william-o-bradley/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 10, 1895<ref>{{Cite news |date=December 10, 1895 |location=Frankfort, Kentucky |publication-place=Lexington, Kentucky |title=Gov. W. O. Bradley |page=1 |newspaper=[[Lexington Herald-Leader|Daily Leader]] |url=https://www.newspapers.com/article/lexington-herald-leader-bradley-inaugura/130670800/ |archive-url=https://web.archive.org/web/20230826063155/https://www.newspapers.com/article/lexington-herald-leader-bradley-inaugura/130670800/ |archive-date=August 26, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 12, 1899<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Republican Party of Kentucky|Republican]]{{sfn|Kallenbach|1977|p=206}}
+|[[1895 Kentucky gubernatorial election|1895]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William Jackson|Worthington}}
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Taylor, William"|[[File:William Sylvester Taylor.jpg|75px]]
+|'''[[William S. Taylor (Kentucky politician)|William S. Taylor]]'''<br>{{Small|(1853–1928)}}<br>{{sfn|Sobel|1978|pp=533–534}}<ref name="nga-taylor">{{cite web |title=William Sylvester Taylor |url=https://www.nga.org/governor/william-sylvester-taylor/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920215518/https://www.nga.org/governor/william-sylvester-taylor/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="51"|December 12, 1899<ref>{{Cite news |date=December 12, 1899 |title=Wm. Sylvester Taylor, Governor of Kentucky |page=1 |newspaper=[[Lexington Herald-Leader|Daily Leader]] |location=Frankfort, Kentucky |publication-place=Lexington, Kentucky |agency=Associated Press |url=https://www.newspapers.com/article/lexington-herald-leader-taylor-inaugurat/130724174/ |archive-url=https://web.archive.org/web/20230827045110/https://www.newspapers.com/article/lexington-herald-leader-taylor-inaugurat/130724174/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 31, 1900<br>{{small|(51 days; removed)}}{{efn|Taylor won the 1899 election and was sworn into office. However, the legislature challenged the validity of his win, claiming ballot fraud. His challenger, Goebel, was shot on January 30, 1900, but was named governor by the legislature and sworn in the next day; he died three days later. Since Lieutenant Governor Marshall's win had also been invalidated, Beckham, having been named lieutenant governor, succeeded Goebel.{{sfn|Sobel|1978|p=533}}{{sfn|Sobel|1978|p=534}}|name=elect-1899}}
+|[[Republican Party of Kentucky|Republican]]{{sfn|Kallenbach|1977|p=206}}
+|rowspan="2"|[[1899 Kentucky gubernatorial election|1899]]{{efn|name=elect-1899}}
+|{{sortname|John|Marshall|dab=Kentucky politician}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Goebel, William"|[[File:William Goebel circa 1889.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William Goebel]]'''<br>{{Small|(1856–1900)}}<br>{{sfn|Sobel|1978|p=534}}<ref name="nga-goebel">{{cite web |title=William Goebel |url=https://www.nga.org/governor/william-goebel/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261006131256/https://www.nga.org/governor/william-goebel/ |archive-date=October 6, 2026 |url-status=live}}</ref>
+|data-sort-value="4"|January 31, 1900<ref>{{Cite news |publication-date=February 1, 1900 |date=January 31, 1900 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Solemn Scene Was the Inauguration of William Goebel As Governor |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-goebel-inaugurated-j/130724286/ |archive-url=https://web.archive.org/web/20230827045110/https://www.newspapers.com/article/the-courier-journal-goebel-inaugurated-j/130724286/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />February 3, 1900<br>{{small|(4 days; assassinated)}}{{efn|name=elect-1899}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|J. C. W.|Beckham}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Beckham, J. C. W."|[[File:BECKHAM, J.C.W. SENATOR LCCN2016858952 (cropped).jpg|75px]]
+|rowspan="3"|'''[[J. C. W. Beckham]]'''<br>{{Small|(1869–1940)}}<br>{{sfn|Sobel|1978|pp=535–536}}<ref name="nga-beckham">{{cite web |title=John Crepps Wickliffe Beckham |url=https://www.nga.org/governor/john-crepps-wickliffe-beckham/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920113415/https://www.nga.org/governor/john-crepps-wickliffe-beckham/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2867"|February 3, 1900<ref>{{Cite news |date=February 3, 1900 |publication-date=February 4, 1900 |location=Frankfort, Kentucky |publication-place=Lexington, Kentucky |title=Beckham Sworn In |page=1 |newspaper=[[Lexington Herald-Leader|Sunday Leader]] |agency=Associated Press |url=https://www.newspapers.com/article/lexington-herald-leader-beckham-succeeds/130724324/ |archive-url=https://web.archive.org/web/20230827043604/https://www.newspapers.com/article/lexington-herald-leader-beckham-succeeds/130724324/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 10, 1907<br>{{small|(2867 days; term-limited)}}{{efn|name=limits-1850}}
+|rowspan="3"|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}{{efn|name=elect-1899}}
+|colspan="2" rowspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1900 Kentucky gubernatorial special election|1900]]<br />{{small|(special)}}
+|- style="height:2em;"
+|[[1903 Kentucky gubernatorial election|1903]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William P.|Thorne}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Willson, Augustus"|[[File:August E. Willson, Governor of Kentucky.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Augustus E. Willson]]'''<br>{{Small|(1846–1931)}}<br>{{sfn|Sobel|1978|pp=536–537}}<ref name="nga-willson">{{cite web |title=Augustus Everett Willson |url=https://www.nga.org/governor/augustus-everett-willson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920185104/https://www.nga.org/governor/augustus-everett-willson/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 10, 1907<ref>{{Cite news |date=December 10, 1907 |publication-date=December 11, 1907 |location=Frankfort, Kentucky |publication-place=Lexington, Kentucky |title=Willson Sworn In and Declares He Will Uphold Law |page=1 |newspaper=[[Lexington Herald-Leader|Lexington Herald]] |url=https://www.newspapers.com/article/the-lexington-herald-willson-inaugurated/130724363/ |archive-url=https://web.archive.org/web/20230827045106/https://www.newspapers.com/article/the-lexington-herald-willson-inaugurated/130724363/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 12, 1911<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Republican Party of Kentucky|Republican]]{{sfn|Kallenbach|1977|p=206}}
+|[[1907 Kentucky gubernatorial election|1907]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William Hopkinson|Cox}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="McCreary, James"|[[File:James-B-McCreary.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James B. McCreary]]'''<br>{{Small|(1838–1918)}}<br>{{sfn|Sobel|1978|p=528}}<ref name="nga-mccreary" />
+|data-sort-value="1457"|December 12, 1911<ref>{{Cite news |publication-date=December 13, 1911 |date=December 12, 1911 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Second Oath As Governor |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-mccreary-inaugurated/130724405/ |archive-url=https://web.archive.org/web/20230827043610/https://www.newspapers.com/article/the-courier-journal-mccreary-inaugurated/130724405/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 7, 1915<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1911 Kentucky gubernatorial election|1911]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Edward J.|McDermott}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Stanley, Augustus"|[[File:Augustus O Stanley.jpg|75px]]
+|'''[[Augustus Owsley Stanley]]'''<br>{{Small|(1867–1958)}}<br>{{sfn|Sobel|1978|pp=537–538}}<ref name="nga-stanley">{{cite web |title=Augustus Owsley Stanley |url=https://www.nga.org/governor/augustus-owsley-stanley/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920015632/https://www.nga.org/governor/augustus-owsley-stanley/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1260"|December 7, 1915<ref>{{Cite news |last=Kaltenbacher |first=Will S. |publication-date=December 8, 1915 |date=December 7, 1915 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Stanley Dedicates Himself to State's Service Amid Cheers |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-stanley-inaugurated/130724439/ |archive-url=https://web.archive.org/web/20230827045112/https://www.newspapers.com/article/the-courier-journal-stanley-inaugurated/130724439/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />May 19, 1919<br>{{small|(1260 days; resigned)}}{{efn|Stanley resigned, having been [[1918 United States Senate election in Kentucky|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=537}}}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1915 Kentucky gubernatorial election|1915]]
+|{{sortname|James D.|Black}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Black, James"|[[File:James-Dixon-Black.jpg|75px]]
+|'''[[James D. Black]]'''<br>{{Small|(1849–1938)}}<br>{{sfn|Sobel|1978|p=538}}<ref name="nga-black">{{cite web |title=James Dixon Black |url=https://www.nga.org/governor/james-dixon-black/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919224017/https://www.nga.org/governor/james-dixon-black/ |archive-date=September 19, 2026 |url-status=live}}</ref>
+|data-sort-value="205"|May 19, 1919<ref>{{Cite news |publication-date=May 20, 1919 |date=May 19, 1919 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Black Becomes 41st Governor |page=3 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-black-succeeds-stanl/130724478/ |archive-url=https://web.archive.org/web/20230827043603/https://www.newspapers.com/article/the-courier-journal-black-succeeds-stanl/130724478/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 9, 1919<br>{{small|(205 days; lost election)}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Morrow, Edwin"|[[File:Edwin-P-Morrow,-speaking.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Edwin P. Morrow]]'''<br>{{Small|(1877–1935)}}<br>{{sfn|Sobel|1978|p=539}}<ref name="nga-morrow">{{cite web |title=Edwin Porch Morrow |url=https://www.nga.org/governor/edwin-porch-morrow/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920124349/https://www.nga.org/governor/edwin-porch-morrow/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 9, 1919<ref>{{Cite news |last=Perry |first=Claud W. |publication-date=December 10, 1919 |date=December 9, 1919 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=E. P. Morrow Is Sworn In As Governor |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-morrow-inaugurated-d/130724507/ |archive-url=https://web.archive.org/web/20230827045117/https://www.newspapers.com/article/the-courier-journal-morrow-inaugurated-d/130724507/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 11, 1923<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Republican Party of Kentucky|Republican]]{{sfn|Kallenbach|1977|p=206}}
+|[[1919 Kentucky gubernatorial election|1919]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|S. Thruston|Ballard}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Fields, William"|[[File:FIELDS, W.J. REPRESENTATIVE LCCN2016858772 (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William J. Fields]]'''<br>{{Small|(1874–1954)}}<br>{{sfn|Sobel|1978|pp=539–540}}<ref name="nga-fields">{{cite web |title=William Jason Fields |url=https://www.nga.org/governor/william-jason-fields/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260925052238/https://www.nga.org/governor/william-jason-fields/ |archive-date=September 25, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 11, 1923<ref>{{Cite news |last=Briney |first=Russell |publication-date=December 12, 1923 |date=December 11, 1923 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Fields Assumes Duties As Governor |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-fields-as-governor/30573451/ |archive-url=https://web.archive.org/web/20230827043612/https://www.newspapers.com/article/the-courier-journal-fields-as-governor/30573451/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 13, 1927<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1923 Kentucky gubernatorial election|1923]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Henry|Denhardt}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Sampson, Flem"|[[File:Flem D. Sampson (KY).png|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Flem D. Sampson]]'''<br>{{Small|(1875–1967)}}<br>{{sfn|Sobel|1978|pp=540–541}}<ref name="nga-sampson">{{cite web |title=Flem Davis Sampson |url=https://www.nga.org/governor/flem-davis-sampson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920185740/https://www.nga.org/governor/flem-davis-sampson/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|December 13, 1927<ref>{{Cite news |last=Michler |first=George |publication-date=December 14, 1927 |date=December 13, 1927 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=10,000 Watch Ceremonies in Frankfort |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-sampson-inaugurated/130724590/ |archive-url=https://web.archive.org/web/20230827043608/https://www.newspapers.com/article/the-courier-journal-sampson-inaugurated/130724590/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 8, 1931<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Republican Party of Kentucky|Republican]]{{sfn|Kallenbach|1977|p=206}}
+|[[1927 Kentucky gubernatorial election|1927]]
+|{{sortname|James|Breathitt Jr.}}{{efn|name=ltdem}}
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Laffoon, Ruby"|[[File:Ruby Laffoon Portrait.png|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Ruby Laffoon]]'''<br>{{Small|(1869–1941)}}<br>{{sfn|Sobel|1978|pp=541–542}}<ref name="nga-laffoon">{{cite web |title=Ruby Laffoon |url=https://www.nga.org/governor/ruby-laffoon/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919210244/https://www.nga.org/governor/ruby-laffoon/ |archive-date=September 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 8, 1931<ref>{{Cite news |last=Hart |first=Joe |publication-date=December 9, 1931 |date=December 8, 1931 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Laffoon Says He Will Keep Platform Pledges; Takes Oath As Governor Before Throng |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-laffoon-inaugurated/130724630/ |archive-url=https://web.archive.org/web/20230827043609/https://www.newspapers.com/article/the-courier-journal-laffoon-inaugurated/130724630/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 10, 1935<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1931 Kentucky gubernatorial election|1931]]
+|{{sortname|Happy|Chandler}}
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Chandler, Happy"|[[File:Albert B. Chandler Sr. (KY).jpg|75px]]
+|'''[[Happy Chandler]]'''<br>{{Small|(1898–1991)}}<br>{{sfn|Sobel|1978|pp=542–543}}<ref name="nga-chandler">{{cite web |title=Albert Benjamin Chandler |url=https://www.nga.org/governor/albert-benjamin-chandler/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260921052509/https://www.nga.org/governor/albert-benjamin-chandler/ |archive-date=September 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1400"|December 10, 1935<ref>{{Cite news |last=Henderson |first=J. Howard |publication-date=December 11, 1935 |date=December 10, 1935 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Chandler Sworn As Governor |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-chandler-inaugurated/130724662/ |archive-url=https://web.archive.org/web/20230827045120/https://www.newspapers.com/article/the-courier-journal-chandler-inaugurated/130724662/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />October 9, 1939<br>{{small|(1400 days; resigned)}}{{efn|Chandler resigned so that his successor would appoint him to the [[United States Senate]].{{sfn|Sobel|1978|p=542}}}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1935 Kentucky gubernatorial election|1935]]
+|{{sortname|Keen|Johnson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|45
+|rowspan="2" data-sort-value="Johnson, Keen"|[[File:Keen Johnson.jpg|75px]]
+|rowspan="2"|'''[[Keen Johnson]]'''<br>{{Small|(1896–1970)}}<br>{{sfn|Sobel|1978|pp=543–544}}<ref name="nga-johnson">{{cite web |title=Keen Johnson |url=https://www.nga.org/governor/keen-johnson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920021551/https://www.nga.org/governor/keen-johnson/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1521"|October 9, 1939<ref>{{Cite news |date=October 9, 1939 |publication-date=October 10, 1939 |title=Chandler Resigns, Is Named Senator |page=1 |location=Frankfort, Kentucky |publication-place=Lexington, Kentucky |newspaper=[[Lexington Herald-Leader|Lexington Herald]] |agency=Associated Press |url=https://www.newspapers.com/article/the-lexington-herald-johnson-succeeds-ch/130724713/ |archive-url=https://web.archive.org/web/20230827045111/https://www.newspapers.com/article/the-lexington-herald-johnson-succeeds-ch/130724713/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 7, 1943<br>{{small|(1521 days; term-limited)}}{{efn|name=limits-1850}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1939 Kentucky gubernatorial election|1939]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Rodes K.|Myers}}
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Willis, Simeon"|[[File:Simeon_Willis_(KY).png|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Simeon Willis]]'''<br>{{Small|(1879–1965)}}<br>{{sfn|Sobel|1978|pp=544–545}}<ref name="nga-willis">{{cite web |title=Simeon Slavens Willis |url=https://www.nga.org/governor/simeon-slavens-willis/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920014237/https://www.nga.org/governor/simeon-slavens-willis/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 7, 1943<ref>{{Cite news |last=Trout |first=Allan M. |date=December 7, 1943 |publication-date=December 8, 1943 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=6,000 See Wills Inaugurated Governor Amid Fanfare |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-willis-inaugurated-d/130724747/ |archive-url=https://web.archive.org/web/20230827045112/https://www.newspapers.com/article/the-courier-journal-willis-inaugurated-d/130724747/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 9, 1947<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Republican Party of Kentucky|Republican]]{{sfn|Kallenbach|1977|p=206}}
+|[[1943 Kentucky gubernatorial election|1943]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Kenneth H.|Tuggle}}
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Clements, Earle"|[[File:Earle-Clements.jpg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Earle Clements]]'''<br>{{Small|(1896–1985)}}<br>{{sfn|Sobel|1978|pp=545–546}}<ref name="nga-clements">{{cite web |title=Earle Chester Clements |url=https://www.nga.org/governor/earle-chester-clements/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919205812/https://www.nga.org/governor/earle-chester-clements/ |archive-date=September 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1085"|December 9, 1947<ref>{{Cite news |last=Morris |first=Hugh |date=December 9, 1947 |publication-date=December 10, 1947 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Clements Asks Kentuckian's Unselfish Aid |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-clements-inaugurated/130724768/ |archive-url=https://web.archive.org/web/20230827043606/https://www.newspapers.com/article/the-courier-journal-clements-inaugurated/130724768/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 27, 1950<br>{{small|(1085 days; resigned)}}{{efn|Clements resigned, having been [[1950 United States Senate elections in Kentucky|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=545}}}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1947 Kentucky gubernatorial election|1947]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Lawrence|Wetherby}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|48
+|rowspan="2" data-sort-value="Wetherby, Lawrence"|[[File:Lawrence-Wetherby (cropped).jpg|75px]]
+|rowspan="2"|'''[[Lawrence Wetherby]]'''<br>{{Small|(1908–1994)}}<br>{{sfn|Sobel|1978|pp=546–547}}<ref name="nga-wetherby">{{cite web |title=Lawrence Winchester Wetherby |url=https://www.nga.org/governor/lawrence-winchester-wetherby/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920005745/https://www.nga.org/governor/lawrence-winchester-wetherby/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1843"|November 27, 1950<ref>{{Cite news |last=Stiles |first=S. V. |date=November 27, 1950 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |publication-date=November 28, 1950 |title=Wetherby Takes Oath As Governor, Pledges a Program of Advancement |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-wetherby-succeeds-cl/130724795/ |archive-url=https://web.archive.org/web/20230827043611/https://www.newspapers.com/article/the-courier-journal-wetherby-succeeds-cl/130724795/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 13, 1955<br>{{small|(1843 days; term-limited)}}{{efn|name=limits-1850}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1951 Kentucky gubernatorial election|1951]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Emerson|Beauchamp}}
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Chandler, Happy"|[[File:Albert B. Chandler Sr. (KY).jpg|75px]]
+|'''[[Happy Chandler]]'''<br>{{Small|(1898–1991)}}<br>{{sfn|Sobel|1978|pp=542–543}}<ref name="nga-chandler" />
+|data-sort-value="1457"|December 13, 1955<ref>{{Cite news |last=Morris |first=Hugh |date=December 13, 1955 |publication-date=December 14, 1955 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Big Parade Delays Oath Rites |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-chandler-inaugurated/130724828/ |archive-url=https://web.archive.org/web/20230827043613/https://www.newspapers.com/article/the-courier-journal-chandler-inaugurated/130724828/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 8, 1959<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1955 Kentucky gubernatorial election|1955]]
+|{{sortname|Harry Lee|Waterfield}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Combs, Bert"|[[File:Bert-Combs (cropped).jpg|75px]]
+|'''[[Bert Combs]]'''<br>{{Small|(1911–1991)}}<br>{{sfn|Sobel|1978|pp=547–548}}<ref name="nga-combs">{{cite web |title=Bert Thomas Combs |url=https://www.nga.org/governor/bert-thomas-combs/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920054419/https://www.nga.org/governor/bert-thomas-combs/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 8, 1959<ref>{{Cite news |last=Morris |first=Hugh |date=December 8, 1959 |publication-date=December 9, 1959 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |title=Ceremony Held Under Clear Skies |page=1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-combs-inaugurated-de/130724882/ |archive-url=https://web.archive.org/web/20230827045115/https://www.newspapers.com/article/the-courier-journal-combs-inaugurated-de/130724882/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 10, 1963<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1959 Kentucky gubernatorial election|1959]]
+|{{sortname|Wilson W.|Wyatt}}
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Breathitt, Ned"|[[File:Ned-Breathitt-at-desk (cropped).jpg|75px]]
+|'''[[Ned Breathitt]]'''<br>{{Small|(1924–2003)}}<br>{{sfn|Sobel|1978|p=548}}<ref name="nga-breathitt-ned">{{Cite web |title=Edward Thompson Breathitt |url=https://www.nga.org/governor/edward-thompson-breathitt/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920085316/https://www.nga.org/governor/edward-thompson-breathitt/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 10, 1963<ref>{{Cite news |last=Patterson |first=Malcolm |date=December 10, 1963 |publication-date=December 11, 1963 |location=Frankfort, Kentucky |publication-place=Lexington, Kentucky |title=ETB, Waterfield Take Official Oath Just After Midnight |page=1 |newspaper=[[Lexington Herald-Leader|Lexington Herald]] |url=https://www.newspapers.com/article/the-lexington-herald-breathitt-inaugurat/130724931/ |archive-url=https://web.archive.org/web/20230827045115/https://www.newspapers.com/article/the-lexington-herald-breathitt-inaugurat/130724931/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 12, 1967<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1963 Kentucky gubernatorial election|1963]]
+|{{sortname|Harry Lee|Waterfield}}
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Nunn, Louie"|[[File:Louie-Nunn (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Louie Nunn]]'''<br>{{Small|(1924–2004)}}<br>{{sfn|Sobel|1978|pp=549–550}}<ref name="nga-nunn">{{cite web |title=Louie Broady Nunn |url=https://www.nga.org/governor/louie-broady-nunn/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920141857/https://www.nga.org/governor/louie-broady-nunn/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|December 12, 1967<ref>{{Cite news |last=Morris |first=Hugh |date=December 13, 1967 |title=Nunn and Ford Pledge Cooperation |page=A1 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-nunn-inaugurated-dec/130724967/ |archive-url=https://web.archive.org/web/20230827043611/https://www.newspapers.com/article/the-courier-journal-nunn-inaugurated-dec/130724967/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 7, 1971<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Republican Party of Kentucky|Republican]]{{sfn|Kallenbach|1977|p=206}}
+|[[1967 Kentucky gubernatorial election|1967]]
+|{{sortname|Wendell|Ford}}{{efn|name=ltdem}}
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Ford, Wendell"|[[File:Sen Wendell Ford.jpg|75px]]
+|rowspan="9" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Wendell Ford]]'''<br>{{Small|(1924–2015)}}<br>{{sfn|Sobel|1978|p=550}}<ref name="nga-ford">{{cite web |title=Wendell Hampton Ford |url=https://www.nga.org/governor/wendell-hampton-ford/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261014021735/https://www.nga.org/governor/wendell-hampton-ford/ |archive-date=October 14, 2026 |url-status=live}}</ref>
+|data-sort-value="1118"|December 7, 1971<ref>{{Cite news |last=Billiter |first=Bill |date=December 8, 1971 |title=Ford Pledges 'Service to the People' |page=A1 |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-ford-inaugurated-dec/130725002/ |archive-url=https://web.archive.org/web/20230827045119/https://www.newspapers.com/article/the-courier-journal-ford-inaugurated-dec/130725002/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 28, 1974<br>{{small|(1118 days; resigned)}}{{efn|Ford resigned, having been [[1974 United States Senate election in Kentucky|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=550}}}}
+|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|[[1971 Kentucky gubernatorial election|1971]]
+|{{sortname|Julian|Carroll}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|54
+|rowspan="2" data-sort-value="Carroll, Julian"|[[File:Julian-Carroll.jpg|75px]]
+|rowspan="2"|'''[[Julian Carroll]]'''<br>{{Small|(1931–2023)}}<br>{{sfn|Sobel|1978|p=551}}<ref name="nga-carroll">{{cite web |title=Julian Morton Carroll |url=https://www.nga.org/governor/julian-morton-carroll/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920212924/https://www.nga.org/governor/julian-morton-carroll/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1810"|December 28, 1974<ref>{{Cite news |last=Wilson |first=Richard |date=December 29, 1974 |title=Julian Carroll Takes the Oath As Kentucky's 50th Governor |page=A1 |newspaper=[[Courier Journal|Courier-Journal & Times]] |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |url=https://www.newspapers.com/article/the-courier-journal-carroll-succeeds-for/130725044/ |archive-url=https://web.archive.org/web/20230827045109/https://www.newspapers.com/article/the-courier-journal-carroll-succeeds-for/130725044/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 11, 1979<br>{{small|(1810 days; term-limited)}}{{efn|name=limits-1850}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=206}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1975 Kentucky gubernatorial election|1975]]
+|rowspan="7" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Thelma|Stovall}}
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Brown, John 2"|[[File:John_Y._Brown_Jr._(KY).png|75px]]
+|'''[[John Y. Brown Jr.]]'''<br>{{Small|(1933–2022)}}<br><ref name="nga-brown-john2">{{Cite web |title=John Y. Brown Jr. |url=https://www.nga.org/governor/john-y-brown-jr/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260909090318/https://www.nga.org/governor/john-y-brown-jr/ |archive-date=September 9, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 11, 1979<ref>{{Cite news |last=Johnson |first=Bob |date=December 12, 1979 |title=Brown Calls for Idealism As He Takes Oath of Office |page=A1 |newspaper=[[Courier Journal]] |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |url=https://www.newspapers.com/article/the-courier-journal-brown-inaugurated-de/130725061/ |archive-url=https://web.archive.org/web/20230827045107/https://www.newspapers.com/article/the-courier-journal-brown-inaugurated-de/130725061/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 13, 1983<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]<ref name="nga-brown-john2" />
+|[[1979 Kentucky gubernatorial election|1979]]
+|{{sortname|Martha Layne|Collins}}
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="Collins, Martha"|[[File:Lt. Governor Martha Layne Collins (cropped).jpg|75px]]
+|'''[[Martha Layne Collins]]'''<br>{{Small|(1936–2025)}}<br><ref name="nga-collins">{{cite web |title=Martha Layne Collins |url=https://www.nga.org/governor/martha-layne-collins/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920215702/https://www.nga.org/governor/martha-layne-collins/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|December 13, 1983<ref>{{Cite news |last=Johnson |first=Bob |date=December 14, 1983 |title=Gov. Collins Vows To Put Kentucky First |page=A1 |newspaper=[[Courier Journal]] |url=https://www.newspapers.com/article/the-courier-journal-collins-inaugurated/130725089/ |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |archive-url=https://web.archive.org/web/20230827045108/https://www.newspapers.com/article/the-courier-journal-collins-inaugurated/130725089/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 8, 1987<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]<ref name="nga-collins" />
+|[[1983 Kentucky gubernatorial election|1983]]
+|{{sortname|Steve|Beshear}}
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Wilkinson, Wallace"|[[File:Wallace Wilkinson crop.jpg|75px]]
+|'''[[Wallace Wilkinson]]'''<br>{{Small|(1941–2002)}}<br>{{sfn|Mullaney|1994|pp=140–144}}<ref name="nga-wilkinson">{{cite web |title=Wallace G. Wilkinson |url=https://www.nga.org/governor/wallace-g-wilkinson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920105052/https://www.nga.org/governor/wallace-g-wilkinson/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 8, 1987<ref>{{Cite news |last=Johnson |first=Bob |date=December 9, 1987 |title=Wilkinson Promises Opportunity, Hope |page=A1 |newspaper=[[Courier Journal]] |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |url=https://www.newspapers.com/article/the-courier-journal-wilkinson-inaugurate/130725122/ |archive-url=https://web.archive.org/web/20230827043609/https://www.newspapers.com/article/the-courier-journal-wilkinson-inaugurate/130725122/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 10, 1991<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1850}}
+|[[Kentucky Democratic Party|Democratic]]<ref name="nga-wilkinson" />
+|[[1987 Kentucky gubernatorial election|1987]]
+|{{sortname|Brereton C.|Jones}}
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Jones, Brereton"|[[File:Nate Morris Gov Jones (cropped).jpg|75px]]
+|'''[[Brereton C. Jones]]'''<br>{{Small|(1939–2023)}}<br>{{sfn|Mullaney|1994|pp=145–147}}<ref name="nga-jones">{{cite web |title=Brereton C. Jones |url=https://www.nga.org/governor/brereton-c-jones/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920015321/https://www.nga.org/governor/brereton-c-jones/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 10, 1991<ref>{{Cite news |last=Wolfe |first=Charles |date=December 11, 1991 |title=Oath More Fun the Second Time |page=12A |newspaper=[[The Paducah Sun]] |location=Frankfort, Kentucky |publication-place=Paducah, Kentucky |agency=Associated Press |url=https://www.newspapers.com/article/the-paducah-sun-jones-inaugurated-decemb/130725167/ |archive-url=https://web.archive.org/web/20230827043602/https://www.newspapers.com/article/the-paducah-sun-jones-inaugurated-decemb/130725167/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 12, 1995<br>{{small|(1464 days; term-limited)}}{{efn|Under a 1992 amendment to the constitution, governors are ineligible for four years after the end of their second consecutive elected term.{{sfn|Ky. Const.|loc=[https://50constitutions.org/ky/constitution/section-id-67595 § 71]}}|name=limits-1992}}
+|[[Kentucky Democratic Party|Democratic]]<ref name="nga-jones" />
+|[[1991 Kentucky gubernatorial election|1991]]
+|{{sortname|Paul E.|Patton}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|59
+|rowspan="2" data-sort-value="Patton, Paul"|[[File:Paul E. Patton 2013 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Paul E. Patton]]'''<br>{{Small|({{Abbr|b.|born in}} 1937)}}<br><ref name="nga-patton">{{cite web |title=Paul E. Patton |url=https://www.nga.org/governor/paul-e-patton/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919214706/https://www.nga.org/governor/paul-e-patton/ |archive-date=September 19, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|December 12, 1995<ref>{{Cite news |last=Cross |first=Al |date=December 13, 1995 |title=No Retreat From School Reform, He Vows at Inaugural |page=A1 |newspaper=[[Courier Journal]] |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |url=https://www.newspapers.com/article/the-courier-journal-patton-inaugurated-d/130725215/ |archive-url=https://web.archive.org/web/20230827043602/https://www.newspapers.com/article/the-courier-journal-patton-inaugurated-d/130725215/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 9, 2003<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1992}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]<ref name="nga-patton" />
+|[[1995 Kentucky gubernatorial election|1995]]
+|rowspan="2"|{{sortname|Steve|Henry}}
+|- style="height:2em;"
+|[[1999 Kentucky gubernatorial election|1999]]
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Fletcher, Ernie"|[[File:Ernie Fletcher, official portrait (107th Congress) (cropped).jpg|frameless|113x113px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Ernie Fletcher]]'''<br>{{Small|({{Abbr|b.|born in}} 1952)}}<br><ref name="nga-fletcher">{{cite web |title=Ernie Fletcher |url=https://www.nga.org/governor/ernie-fletcher/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920141027/https://www.nga.org/governor/ernie-fletcher/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 9, 2003<ref>{{Cite news |last1=Loftus |first1=Tom |last2=Cross |first2=Al |date=December 10, 2003 |title=Fletcher Vows a 'New Unity' |page=A1 |newspaper=[[Courier Journal]] |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |url=https://www.newspapers.com/article/the-courier-journal-fletcher-inaugurated/130725259/ |archive-url=https://web.archive.org/web/20230827043608/https://www.newspapers.com/article/the-courier-journal-fletcher-inaugurated/130725259/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 11, 2007<br>{{small|(1464 days; lost election)}}
+|[[Republican Party of Kentucky|Republican]]<ref name="nga-fletcher" />
+|[[2003 Kentucky gubernatorial election|2003]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Steve|Pence}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|61
+|rowspan="3" data-sort-value="Beshear, Steve"|[[File:Kentucky Governor Steve Beshear 2014.jpg|frameless|95x95px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Steve Beshear]]'''<br>{{Small|({{Abbr|b.|born in}} 1944)}}<br><ref name="nga-beshear-steve">{{Cite web |title=Steven L. Beshear |url=https://www.nga.org/governor/steven-l-beshear/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260920155524/https://www.nga.org/governor/steven-l-beshear/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2920"|December 11, 2007<ref>{{Cite news |last1=Loftus |first1=Tom |last2=Gerth |first2=Joseph |date=December 12, 2007 |title=Beshear Era Begins |page=A1 |newspaper=[[Courier Journal]] |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |url=https://www.newspapers.com/article/the-courier-journal-beshear-inaugurated/130725306/ |archive-url=https://web.archive.org/web/20230827043601/https://www.newspapers.com/article/the-courier-journal-beshear-inaugurated/130725306/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 8, 2015<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1992}}
+|rowspan="3"|[[Kentucky Democratic Party|Democratic]]<ref name="nga-beshear-steve" />
+|[[2007 Kentucky gubernatorial election|2007]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Daniel|Mongiardo}}
+|- style="height:2em;"
+|rowspan="2"|[[2011 Kentucky gubernatorial election|2011]]
+|{{sortname|Jerry|Abramson}}<br />{{small|(resigned November 13, 2014)}}
+|- style="height:2em;"
+|{{sortname|Crit|Luallen}}
+|- style="height:2em;"
+!scope="row"|62
+|data-sort-value="Bevin, Matt"|[[File:Matt Bevin (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Matt Bevin]]'''<br>{{Small|({{Abbr|b.|born in}} 1967)}}<br><ref name="nga-bevin">{{cite web |title=Matt Bevin |url=https://www.nga.org/governor/matt-bevin/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260914163438/https://www.nga.org/governor/matt-bevin/ |archive-date=September 14, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|December 8, 2015<ref>{{Cite news |last=Gerth |first=Joseph |date=December 9, 2015 |title=Bevin Sworn In |page=1A |newspaper=[[Courier Journal]] |location=Frankfort, Kentucky |publication-place=Louisville, Kentucky |url=https://www.newspapers.com/article/the-courier-journal-bevin-inaugurated-de/130725336/ |archive-url=https://web.archive.org/web/20230827045113/https://www.newspapers.com/article/the-courier-journal-bevin-inaugurated-de/130725336/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 10, 2019<br />{{small|(1464 days; lost election)}}
+|[[Republican Party of Kentucky|Republican]]<ref name="nga-bevin" />
+|[[2015 Kentucky gubernatorial election|2015]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Jenean|Hampton}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|63
+|rowspan="2" data-sort-value="Beshear, Andy"|[[File:Andy Beshear in April 2026 (closer crop 2).jpg|frameless|106x106px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Andy Beshear]]'''<br>{{Small|({{Abbr|b.|born in}} 1977)}}<br><ref name="nga-beshear-andy">{{Cite web |title=Andy Beshear |url=https://www.nga.org/governor/gov-andy-beshear/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261005172750/https://www.nga.org/governor/gov-andy-beshear/ |archive-date=October 5, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|12|10|duration=on|format=no}}"|December 10, 2019<ref>{{Cite news |last=Schreiner |first=Bruce |date=December 11, 2019 |title=New Governor Reorganizes State Board of Education |page=A1 |newspaper=[[Messenger-Inquirer]] |agency=Associated Press |location=Frankfort, Kentucky |publication-place=Owensboro, Kentucky |url=https://www.newspapers.com/article/messenger-inquirer-beshear-inaugurated-d/130725361/ |archive-url=https://web.archive.org/web/20230827043609/https://www.newspapers.com/article/messenger-inquirer-beshear-inaugurated-d/130725361/ |archive-date=August 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />Incumbent{{efn|Beshear's second term began on December 12, 2023,<ref>{{Cite news |last=Schreiner |first=Bruce |date=December 12, 2023 |title=Democratic Gov. Andy Beshear denounces politics of division at start of 2nd term in Kentucky |url=https://apnews.com/article/kentucky-governor-andy-beshear-inauguration-d5c0ed8df6aefbb6b122b4f9727f5e4a |access-date=October 27, 2026 |website=[[Associated Press]] |archive-url=https://web.archive.org/web/20231212095406/https://apnews.com/article/kentucky-governor-andy-beshear-inauguration-d5c0ed8df6aefbb6b122b4f9727f5e4a |archive-date=December 12, 2023 |url-status=live}}</ref> and [[2027 Kentucky gubernatorial election|will expire]] on December 7, 2027; he will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|12|10|duration=on|format=no}} days)}}
+|rowspan="2"|[[Kentucky Democratic Party|Democratic]]<ref name="nga-beshear-andy" />
+|[[2019 Kentucky gubernatorial election|2019]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Jacqueline|Coleman}}
+|- style="height:2em;"
+|[[2023 Kentucky gubernatorial election|2023]]
+|}
+
+==Confederate governors==
+
+{{stack|
+[[File:Gwjohnson ky.jpg|upright|thumb|[[George W. Johnson (Kentucky politician)|George W. Johnson]], 1st Confederate Governor of Kentucky]]
+[[File:Richard-Hawes.jpg|upright|thumb|[[Richard Hawes]], 2nd Confederate Governor of Kentucky]]
+|clear=right}}
+
+During the [[American Civil War|Civil War]], a group of secessionists met at [[Russellville, Kentucky|Russellville]] to form a [[Confederate government of Kentucky|Confederate government]] for the Commonwealth of Kentucky. This government never successfully displaced the government in [[Frankfort, Kentucky|Frankfort]], and Kentucky remained in the Union through the entire war. Two men were elected governor of the Confederate government: [[George W. Johnson (Kentucky politician)|George W. Johnson]], who served from November 20, 1861, to his death on April 8, 1862, at the [[Battle of Shiloh]], and, on Johnson's death, [[Richard Hawes]], who served until the Confederate surrender on April 9, 1865. The Confederate government disbanded shortly after the end of the war in 1865.<ref>{{Cite encyclopedia |year=1992 |title=Confederate Government |encyclopedia=The Kentucky Encyclopedia |publisher=The University Press of Kentucky |location=Lexington, Kentucky |editor-last=Kleber |editor-first=John E. |isbn=0-8131-1772-0}}</ref>
+
+==See also==
+* [[Timeline of Kentucky history]]
+* [[List of Kentucky General Assemblies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+
+{{refbegin}}
+* {{Cite web |title=Kentucky's Governors |url=http://kdla.ky.gov/resources/KYGovernors.htm |url-status=dead |archive-url=https://web.archive.org/web/20100708030053/http://www.kdla.ky.gov/resources/KYGovernors.htm |archive-date=July 8, 2010 |access-date=July 13, 2010 |website=Kentucky Department for Libraries and Archives}}
+* {{Cite web |title=Former Kentucky Governors |url=https://www.nga.org/former-governors/kentucky/ |access-date=October 26, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Kentucky Constitution |url=https://50constitutions.org/ky/constitution |ref={{sfnref|Ky. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 25, 2026}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=February 27, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons03thor/ |volume=3 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+
+{{commons category | Governors of Kentucky}}
+*[http://governor.ky.gov/ Office of the Governor of Kentucky]
+
+{{Governors of Kentucky}}
+{{Lists of US Governors}}
+{{Kentucky}}
+
+{{featured list}}
+
+{{DEFAULTSORT:Kentucky, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Kentucky| ]]
+[[Category:Lists of Kentucky politicians|Governors]]
+[[Category:Kentucky history-related lists|Governors]]

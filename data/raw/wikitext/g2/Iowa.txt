@@ -1,0 +1,734 @@
+{{Short description|None}}
+{{Use American English|date=April 2026}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+| post = Governor
+| body = Iowa
+| insignia = Iowa-StateSeal.svg
+| insignia_size = 110
+| insignia_caption = [[Seal of Iowa|State seal]]
+| image = Kim Reynolds by Gage Skidmore 2 (cropped).jpg
+| incumbent = [[Kim Reynolds]]
+| incumbent_since = May 24, 2017
+| style = The Honorable
+| department = [[Government of Iowa]]
+| residence = [[Terrace Hill]]
+| term_length = Four years, no term limits
+| precursor = Governor of [[Iowa Territory]]
+| inaugural = [[Ansel Briggs]]
+| formation = {{start date and age|1846|12|3|p=1|br=1}}
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Iowa|Line of succession]]
+| deputy = [[Lieutenant Governor of Iowa]]
+| salary = $130,000 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 5, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+| website = {{url|governor.iowa.gov}}
+}}
+The '''governor of Iowa''' is the [[head of government]] of the [[U.S. state]] of [[Iowa]]. The [[Governor (United States)|governor]] is the head of the [[Executive (government)|executive branch]] of the state government{{sfn|Iowa Const.|loc=art. IV]}}. The officeholder has the power to either approve or [[veto]] bills passed by the [[Iowa General Assembly]],{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-amendment-id-140464 art. III, § 16]}} to convene the legislature, as well as to grant [[pardon]]s, except in cases of [[treason]] and [[Impeachment in the United States|impeachment]]. The governor of Iowa is also the [[commander-in-chief]] of the state's [[Iowa National Guard|military forces]].{{sfn|Iowa Const.|loc=art. IV]}} The governor has the ability to sign executive orders, these have ranged from topics including the establishment of councils, committees and task forces, and appropriation reductions to prevent a state budget deficit.
+
+There have been 41 individuals who held the position of Iowa governor, with two of those serving multiple distinct terms, [[Samuel J. Kirkwood]] and [[Terry Branstad]]. The current governor, [[Kim Reynolds]], is the first woman to hold the position and was sworn in on May 24, 2017. The longest-serving is [[Terry Branstad]], who served from 1983 to 1999 and then again from 2011 to 2017. He is the longest-serving governor in [[History of the United States|U.S. history]], surpassing the previous record of 21 years set by [[George Clinton (vice president)|George Clinton]] of [[New York (state)|New York]]. The shortest-serving was [[Robert D. Fulton]], who served 16 days.
+
+== List of governors ==
+===Territory of Iowa===
+
+[[Iowa Territory]] was formed on July 4, 1838, from [[Wisconsin Territory]]. It had four governors appointed by the [[president of the United States]], though the first resigned days after he was confirmed by the Senate and before ever reaching the territory. 
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Iowa
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Atkinson, Henry"|[[File:Colonel_Henry_Atkinson.jpg|75px]]
+|'''[[Henry Atkinson (soldier)|Henry Atkinson]]'''<br>{{small|(1782–1842)}}
+|data-sort-value"25"|June 13, 1838<br />–<br />July 7, 1838<br>{{small|(25 days; resigned<br>before taking office)}}{{efn|Atkinson was nominated on June 12, 1838,<ref>{{cite book |title=Senate Executive Journal, 25th Cong., 2nd sess. |author=United States Senate |page=131 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527047&seq=143 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on June 13.<ref>{{cite book |title=Senate Executive Journal, 25th Cong., 2nd sess. |author=United States Senate |page=133 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527047&seq=145 |via=[[HathiTrust]]}}</ref> However, he declined the post;{{sfn|McMullin|1984|p=155}} no source gives a date for when this happened, so his term is marked as having ended when his successor was confirmed.}}
+|{{sortname|Martin|Van Buren}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Lucas, Robert"|[[File:Robert lucas.jpg|75px]]
+|'''[[Robert Lucas (governor)|Robert Lucas]]'''{{efn|Lucas did not arrive for six weeks after the territory had been created; in the interim, territorial secretary [[William B. Conway]] acted as governor.<ref>{{Cite book |year=1903 |title=The Messages and Proclamations of the Governors of Iowa |publisher=State Historical Society of Iowa |location=Iowa City, Iowa |url=https://books.google.com/books?id=QoE0AQAAMAAJ&pg=PA208 |editor-last=Shambaugh |editor-first=Benjamin F. |volume=1 |page=208 |via=[[Google Books]]}}</ref>}}<br>{{small|(1781–1853)}}<br>{{sfn|McMullin|1984|p=155}}
+|data-sort-value="993"|July 7, 1838{{efn|Lucas was nominated,<ref>{{cite book |title=Senate Executive Journal, 25th Cong., 2nd sess. |author=United States Senate |page=145 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527047&seq=157 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate,<ref>{{cite book |title=Senate Executive Journal, 25th Cong., 2nd sess. |author=United States Senate |page=153 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527047&seq=165 |via=[[HathiTrust]]}}</ref> on July 7, 1838. He took office on August 15.{{sfn|McMullin|1984|p=155}}}}<br />–<br />March 25, 1841<br>{{small|(993 days; replaced)}}{{efn|Lucas was out of the capital when Chambers arrived, and did not formally resign his commission until June 17, per a letter written to [[United States Secretary of State|U.S. Secretary of State]] [[Daniel Webster]].<ref>{{Cite book |url=https://archive.org/details/executivejournal01iowa |title=Executive Journal of Iowa 1838–1841, Governor Robert Lucas |publisher=State Historical Society of Iowa |year=1906 |pages=277–279 |via=[[Internet Archive]]}}</ref>}}
+|{{sortname|Martin|Van Buren}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Chambers, John"|[[File:John-Chambers.jpg|75px]]
+|'''[[John Chambers (politician)|John Chambers]]'''<br>{{small|(1780–1852)}}<br>{{sfn|McMullin|1984|pp=157–158}}
+|data-sort-value="1700"|March 25, 1841{{efn|Chambers was appointed on March 25, 1841,{{sfn|McMullin|1984|p=157}} during a Senate recess; nominated on June 17;<ref>{{cite book |title=Senate Executive Journal, 27th Cong., 1st sess. |author=United States Senate |page=386 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527047&seq=398 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on July 15.<ref>{{cite book |title=Senate Executive Journal, 27th Cong., 1st sess. |author=United States Senate |page=406 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527047&seq=418 |via=[[HathiTrust]]}}</ref> He took office on May 13.{{sfn|McMullin|1984|p=157}} He was reappointed on July 2, 1844, during a Senate recess,<ref name="territorial-ia">{{Cite book |url=https://books.google.com/books?id=6IVHAQAAMAAJ |title=The Territorial Papers of the United States: Volume I: General |date=1934 |publisher=[[United States Government Publishing Office]] |page=13}}</ref> and reconfirmed by the Senate on December 23.<ref>{{cite book |title=Senate Executive Journal, 28th Cong., 2nd sess. |author=United States Senate |page=364 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178826&seq=366 |via=[[HathiTrust]]}}</ref>}}<br />–<br />November 18, 1845<br>{{small|(1700 days; replaced)}}
+|{{sortname|William Henry|Harrison}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Clarke, John"|[[File:James Clarke, gov, editor.jpg|75px]]
+|'''[[James Clarke (Iowa politician)|James Clarke]]'''<br>{{small|(1812–1850)}}<br>{{sfn|McMullin|1984|pp=158–160}}
+|data-sort-value="381"|November 8, 1845{{efn|Clarke was appointed during a Senate recess; McMullin says it was on November 8, 1845,{{sfn|McMullin|1984|p=159}} but some sources say November 18.<ref>{{Cite book |last=Gue |first=Benjamin F. |url=https://books.google.com/books?id=2FM0AQAAMAAJ&pg=PA52 |title=History of Iowa vol. 4: Iowa Biography |publisher=Century History Company |year=1903 |page=52}}</ref> He was formally nominated on December 23, 1845,<ref>{{cite book |title=Senate Executive Journal, 29th Cong., 1st sess. |author=United States Senate |page=10 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178834&seq=16 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on February 3, 1846.<ref>{{cite book |title=Senate Executive Journal, 29th Cong., 1st sess. |author=United States Senate |page=41 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178834&seq=47 |via=[[HathiTrust]]}}</ref>}}<br />–<br />December 3, 1846<br>{{small|(381 days; statehood)}}
+|{{sortname|James K.|Polk}}
+|}
+
+===State of Iowa===
+
+The southeast portion of Iowa Territory was [[Admission to the Union|admitted to the Union]] as the State of Iowa on December 28, 1846. The first [[Iowa|Constitution of Iowa]], adopted in 1846, created the office of governor with a four-year term,{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-139832 1846 art. V, § 2]}} with no specific start date. The 1857 constitution reduced this term to two years,{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-140108 1857 art. IV, § 2]}} but an amendment in 1972 increased this back to four years.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-amendment-id-140488 1972 art. IV, § 2]}} The 1857 constitution also set the start of the term to the second Monday in the January following the election,{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-140136 1857 art. IV, § 15]}} which was moved one day later by a 1988 amendment.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-amendment-id-140535 1988 art. IV, § 15]}}
+
+The office of [[List of lieutenant governors of Iowa|lieutenant governor]] was created in the 1857 constitution, elected for the same term as the governor.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-140110 1857 art. IV, § 3]}} An amendment in 1988 specified that the lieutenant governor would be elected on the same ticket as the governor.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-amendment-id-140529 1988 art. IV, § 3]}} Originally, if the office of governor were to become vacant, the [[Secretary of State of Iowa]] would act as governor,{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-139864 1846 art. V, § 18]}}, and in 1857 this became the duty of the lieutenant governor.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-140140 1857 art. IV, § 17]}} An amendment was passed in 2024 making it so that the lieutenant governor becomes governor, not simply acts, in such circumstances.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-amendment-id-140566 2024 art. IV, § 17]}} There is no [[term limit]] on the number of terms a governor may serve.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Iowa
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|There is no official numbering, and different governors have interpreted it differently, depending on if they give a new number when a governor has multiple distinct terms in office.<ref>{{Cite news |last=Hennigan |first=Gregg |date=November 5, 2010 |title=No 41st Governor for Iowa? |website=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |url=http://thegazette.com/2010/11/05/no-41st-governor-for-iowa |access-date=November 8, 2014 |archive-url=https://web.archive.org/web/20101111044720/http://thegazette.com/2010/11/05/no-41st-governor-for-iowa/ |archive-date=November 11, 2010 |url-status=dead}}</ref> This article includes numbering for every distinct term in office.}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[List of lieutenant governors of Iowa|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1857.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-140110 1857 art. IV, § 3]}}}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Briggs, Ansel"|[[File:Ansel Briggs, First Governor of the State - History of Iowa.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Ansel Briggs]]'''<br>{{small|(1806–1881)}}<br>{{sfn|Sobel|1978|p=429}}<ref name="nga-briggs">{{cite web |title=Ansel Briggs |url=https://www.nga.org/governor/ansel-briggs/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512212710/https://www.nga.org/governor/ansel-briggs/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|December 3, 1846<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1846 sess. |author=Iowa General Assembly |page=33 |url=https://babel.hathitrust.org/cgi/pt?id=iau.31858030079002&seq=39 |via=[[HathiTrust]]}}</ref><br />–<br />December 4, 1850<br>{{small|(1463 days; retired)}}
+|[[Iowa Democratic Party|Democratic]]{{sfn|Dubin|2003|p=65}}
+|[[1846 Iowa gubernatorial election|1846]]
+|style="background:#EEEEEE; color:inherit;" colspan="2" rowspan="3"|''Office did not exist''
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Hempstead, Stephen"|[[File:StephenHempstead.jpg|75px]]
+|'''[[Stephen P. Hempstead]]'''<br>{{small|(1812–1883)}}<br>{{sfn|Sobel|1978|pp=429–430}}<ref name="nga-hempstead">{{cite web |title=Stephen Hempstead |url=https://www.nga.org/governor/stephen-hempstead/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418104355/https://www.nga.org/governor/stephen-hempstead/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|data-sort-value="1467"|December 4, 1850<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1850 sess. |author=Iowa General Assembly |page=35 |url=https://babel.hathitrust.org/cgi/pt?id=iau.31858030079010&seq=41 |via=[[HathiTrust]]}}</ref><br />–<br />December 9, 1854<br>{{small|(1467 days; retired)}}{{efn|Hempstead instead [[1854 United States House of Representatives elections in Iowa|ran unsuccessfully]] for the [[United States House of Representatives]].<ref>{{cite web |url=http://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=165 |title=Hempstead, Stephen P. |website=Biographical Directory of Iowa |archive-url=https://web.archive.org/web/20260611221810/http://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=165 |archive-date=June 11, 2026 |url-status=live |access-date=October 25, 2026}}</ref>}}
+|[[Iowa Democratic Party|Democratic]]{{sfn|Dubin|2003|p=65}}
+|[[1850 Iowa gubernatorial election|1850]]
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Grimes, James"|[[File:Hon. James W. Grimes, Iowa - NARA - 528410 (cropped) (1).jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[James W. Grimes]]'''<br>{{small|(1816–1872)}}<br>{{sfn|Sobel|1978|pp=430–431}}<ref name="nga-grimes">{{cite web |title=James Wilson Grimes |url=https://www.nga.org/governor/james-wilson-grimes/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517092808/https://www.nga.org/governor/james-wilson-grimes/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1133"|December 9, 1854<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1854 sess. |author=Iowa General Assembly |page=42 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881577&seq=48 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1858<br>{{small|(1133 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=66}}
+|[[1854 Iowa gubernatorial election|1854]]{{efn|The election schedule changed with this term, switching to odd-numbered years and shortening the term by nearly a year.}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Lowe, Ralph"|[[File:Ralph P. Lowe, Governor of Iowa - History of Iowa.jpg|75px]]
+|rowspan="19" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Ralph P. Lowe]]'''<br>{{small|(1805–1883)}}<br>{{sfn|Sobel|1978|p=431}}<ref name="nga-lowe">{{cite web |title=Ralph Phillips Lowe |url=https://www.nga.org/governor/ralph-phillips-lowe/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511215832/https://www.nga.org/governor/ralph-phillips-lowe/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="728"|January 14, 1858<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1858 sess. |author=Iowa General Assembly |page=47 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881579&seq=51 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1860<br>{{small|(728 days; retired)}}{{efn|Lowe was instead elected to the [[Iowa Supreme Court]].{{sfn|Sobel|1978|p=431}}}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Dubin|2003|p=66}}
+|[[1857 Iowa gubernatorial election|1857]]{{efn|First term under the 1857 constitution, which shortened terms to two years.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-id-140108 1857 art. IV, § 2]}}}}
+|rowspan="7" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Oran|Faville}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Kirkwood, Samuel"|[[File:Samuel Jordan Kirkwood.jpg|75px]]
+|rowspan="2"|'''[[Samuel J. Kirkwood]]'''<br>{{small|(1813–1894)}}<br>{{sfn|Sobel|1978|pp=432–433}}<ref name="nga-kirkwood">{{cite web |title=Samuel Jordan Kirkwood |url=https://www.nga.org/governor/samuel-jordan-kirkwood/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418072629/https://www.nga.org/governor/samuel-jordan-kirkwood/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1465"|January 11, 1860<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1860 sess. |author=Iowa General Assembly |page=51 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881580&seq=67 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1864<br>{{small|(1465 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1859 Iowa gubernatorial election|1859]]
+|{{sortname|Nicholas J.|Rusch}}
+|- style="height:2em;"
+|[[1861 Iowa gubernatorial election|1861]]
+|{{sortname|John R.|Needham}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Stone, William"|[[File:Willstone.gif|75px]]
+|rowspan="2"|'''[[William M. Stone]]'''<br>{{small|(1827–1893)}}<br>{{sfn|Sobel|1978|p=433}}<ref name="nga-stone">{{cite web |title=William Milo Stone |url=https://www.nga.org/governor/william-milo-stone/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509164141/https://www.nga.org/governor/william-milo-stone/ |archive-date=May 9, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 14, 1864<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1864 sess. |author=Iowa General Assembly |page=42 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881584&seq=48 |via=[[HathiTrust]]}}</ref><br />–<br />January 16, 1868<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1863 Iowa gubernatorial election|1863]]
+|{{sortname|Enoch W.|Eastman}}
+|- style="height:2em;"
+|[[1865 Iowa gubernatorial election|1865]]
+|{{sortname|Benjamin F.|Gue}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|7
+|rowspan="4" data-sort-value="Merrill, Samuel"|[[File:Samuelmerrill.jpg|75px]]
+|rowspan="4"|'''[[Samuel Merrill (Iowa politician)|Samuel Merrill]]'''<br>{{small|(1822–1899)}}<br>{{sfn|Sobel|1978|p=434}}<ref name="nga-merrill">{{cite web |title=Samuel Merrill |url=https://www.nga.org/governor/samuel-merrill/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314095321/https://www.nga.org/governor/samuel-merrill/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1457"|January 16, 1868<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1868 sess. |author=Iowa General Assembly |page=46 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881586&seq=52 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1872<br>{{small|(1457 days; retired)}}
+|rowspan="4"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1867 Iowa gubernatorial election|1867]]
+|{{sortname|John|Scott|dab=Iowa politician}}
+|- style="height:2em;"
+|rowspan="3"|[[1869 Iowa gubernatorial election|1869]]
+|{{sortname|Madison Miner|Walden}}<br />{{small|(resigned 1871)}}{{efn|No source appears to know which date Walden resigned, just that it was after being [[1870 United States House of Representatives elections in Iowa|elected]] to the [[United States House of Representatives]] for a term beginning March 4.<ref>{{congbio|id=W000034|name=Walden, Madison Miner|inline=1}}</ref>}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Henry C.|Bulis}}<br />{{small|(appointed September 13, 1871)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="Carpenter, Cyrus"|[[File:Cyrus Clay Carpenter.jpg|75px]]
+|rowspan="2"|'''[[Cyrus C. Carpenter]]'''<br>{{small|(1829–1898)}}<br>{{sfn|Sobel|1978|pp=434–435}}<ref name="nga-carpenter">{{cite web |title=Cyrus Clay Carpenter |url=https://www.nga.org/governor/cyrus-clay-carpenter/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414064326/https://www.nga.org/governor/cyrus-clay-carpenter/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1872<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1872 sess. |author=Iowa General Assembly |page=54 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881587&seq=56 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1876<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1871 Iowa gubernatorial election|1871]]
+|- style="height:2em;"
+|[[1873 Iowa gubernatorial election|1873]]
+|{{sortname|Joseph|Dysart}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Kirkwood, Samuel"|[[File:Samuel Jordan Kirkwood.jpg|75px]]
+|'''[[Samuel J. Kirkwood]]'''<br>{{small|(1813–1894)}}<br>{{sfn|Sobel|1978|pp=432–433}}<ref name="nga-kirkwood" />
+|data-sort-value="386"|January 13, 1876<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1876 sess. |author=Iowa General Assembly |page=25 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881589&seq=37 |via=[[HathiTrust]]}}</ref><br />–<br />February 1, 1877<br>{{small|(386 days; resigned)}}{{efn|Kirkwood resigned, having been [[1876–77 United States Senate elections|elected]] to the [[United States Senate]].<ref name="nga-kirkwood" />}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1875 Iowa gubernatorial election|1875]]
+|{{sortname|Joshua G.|Newbold}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Newbold, Joshua"|[[File:Governor Newbold with signature.jpg|75px]]
+|'''[[Joshua G. Newbold]]'''<br>{{small|(1830–1903)}}<br>{{sfn|Sobel|1978|pp=435–436}}<ref name="nga-newbold">{{cite web |title=Joshua G. Newbold |url=https://www.nga.org/governor/joshua-g-newbold/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613181942/https://www.nga.org/governor/joshua-g-newbold/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="351"|February 1, 1877<ref>{{Cite news |date=February 7, 1877 |title=none |quote=Last Thursday, at half past ten a.m., Lieut. Governor Newbold became full fledged Governor of Iowa by taking the oath as prescribed by the Constitution. |page=4 |newspaper=[[The Waterloo-Cedar Falls Courier|The Waterloo Courier]] |url=https://www.newspapers.com/article/the-courier-newbold-succeeds-kirkwood-fe/130320069/ |archive-url=https://web.archive.org/web/20230820055432/https://www.newspapers.com/article/the-courier-newbold-succeeds-kirkwood-fe/130320069/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 17, 1878<br>{{small|(351 days; retired)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Gear, John"|[[File:John Henry Gear - Senator.jpg|75px]]
+|rowspan="2"|'''[[John H. Gear]]'''<br>{{small|(1825–1900)}}<br>{{sfn|Sobel|1978|pp=436–437}}<ref name="nga-gear">{{cite web |title=John Henry Gear |url=https://www.nga.org/governor/john-henry-gear/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418101918/https://www.nga.org/governor/john-henry-gear/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 17, 1878<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1878 sess. |author=Iowa General Assembly |page=24 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881590&seq=30 |via=[[HathiTrust]]}}</ref><br />–<br />January 12, 1882<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1877 Iowa gubernatorial election|1877]]
+|rowspan="7" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Frank T.|Campbell}}
+|- style="height:2em;"
+|[[1879 Iowa gubernatorial election|1879]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|12
+|rowspan="2" data-sort-value="Sherman, Buren"|[[File:Burensherman.jpg|75px]]
+|rowspan="2"|'''[[Buren R. Sherman]]'''<br>{{small|(1836–1904)}}<br>{{sfn|Sobel|1978|pp=437–438}}<ref name="nga-sherman">{{cite web |title=Buren Robinson Sherman |url=https://www.nga.org/governor/buren-robinson-sherman/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410192337/https://www.nga.org/governor/buren-robinson-sherman/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1882<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1882 sess. |author=Iowa General Assembly |page=20 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881591&seq=26 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1886<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1881 Iowa gubernatorial election|1881]]
+|rowspan="2"|{{sortname|Orlando H.|Manning}}
+|- style="height:2em;"
+|[[1883 Iowa gubernatorial election|1883]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Larrabee, William"|[[File:GovernorLarrabee.jpg|75px]]
+|rowspan="2"|'''[[William Larrabee (Iowa politician)|William Larrabee]]'''<br>{{small|(1832–1912)}}<br>{{sfn|Sobel|1978|pp=438–439}}<ref name="nga-larrabee">{{cite web |title=William Larrabee |url=https://www.nga.org/governor/william-larrabee/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260305115346/https://www.nga.org/governor/william-larrabee/ |archive-date=March 5, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1506"|January 14, 1886<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1886 sess. |author=Iowa General Assembly |page=33 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881593&seq=37 |via=[[HathiTrust]]}}</ref><br />–<br />February 27, 1890{{efn|name=boies}}<br>{{small|(1506 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1885 Iowa gubernatorial election|1885]]
+|rowspan="2"|{{sortname|John A. T.|Hull}}
+|- style="height:2em;"
+|[[1887 Iowa gubernatorial election|1887]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Boies, Horace"|[[File:HBoies.png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Horace Boies]]'''<br>{{small|(1827–1923)}}<br>{{sfn|Sobel|1978|pp=439–440}}<ref name="nga-boies">{{cite web |title=Horace Boies |url=https://www.nga.org/governor/horace-boies/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417180843/https://www.nga.org/governor/horace-boies/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1415"|February 27, 1890{{efn|name=boies|Boies' inauguration was delayed for six weeks;<ref>{{Cite news |publication-date=February 28, 1890 |date=February 27, 1890 |location=Des Moines, Iowa |publication-place=Sioux City, Iowa |title=A Democratic Ruler |page=1 |newspaper=[[Sioux City Journal]] |url=https://www.newspapers.com/article/the-sioux-city-journal-a-democratic-rule/119847255/ |archive-url=https://web.archive.org/web/20230927040205/https://www.newspapers.com/article/119847255/a-democratic-ruler/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref> the legislature was deadlocked in organizing itself, so Larrabee remained in office until Boies was certified.{{sfn|Kallenbach|1977|p=181}}}}<br />–<br />January 11, 1894<br>{{small|(1415 days; lost election)}}
+|rowspan="2"|[[Iowa Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=181}}
+|[[1889 Iowa gubernatorial election|1889]]
+|{{sortname|Alfred N.|Poyneer}}{{efn|Represented the [[Republican Party of Iowa|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+|[[1891 Iowa gubernatorial election|1891]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Samuel L.|Bestow}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Jackson, Frank"|[[File:Frankjackson.gif|75px]]
+|rowspan="22" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Frank D. Jackson]]'''<br>{{small|(1854–1938)}}<br>{{sfn|Sobel|1978|p=440}}<ref name="nga-jackson">{{cite web |title=Frank Darr Jackson |url=https://www.nga.org/governor/frank-darr-jackson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612151133/https://www.nga.org/governor/frank-darr-jackson/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 11, 1894<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1894 sess. |author=Iowa General Assembly |page=29 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881596&seq=45 |via=[[HathiTrust]]}}</ref><br />–<br />January 16, 1896<br>{{small|(736 days; retired)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1893 Iowa gubernatorial election|1893]]
+|rowspan="7" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Warren S.|Dungan}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Drake, Francis"|[[File:FrancisMDrake.jpg|75px]]
+|'''[[Francis M. Drake]]'''<br>{{small|(1830–1903)}}<br>{{sfn|Sobel|1978|pp=440–441}}<ref name="nga-drake">{{cite web |title=Francis Marion Drake |url=https://www.nga.org/governor/francis-marion-drake/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513224216/https://www.nga.org/governor/francis-marion-drake/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 16, 1896<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1896 sess. |author=Iowa General Assembly |page=33 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067946346&seq=47 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1898<br>{{small|(729 days; retired)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1895 Iowa gubernatorial election|1895]]
+|{{sortname|Matt|Parrott}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Shaw, L. M."|[[File:Leslie Shaw, Bain photo portrait.jpg|75px]]
+|rowspan="2"|'''[[L. M. Shaw]]'''<br>{{small|(1848–1932)}}<br>{{sfn|Sobel|1978|pp=441–442}}<ref name="nga-shaw">{{cite web |title=Leslie Mortier Shaw |url=https://www.nga.org/governor/leslie-mortier-shaw/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418101420/https://www.nga.org/governor/leslie-mortier-shaw/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 13, 1898<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1898 sess. |author=Iowa General Assembly |page=102 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015067946320&seq=116 |via=[[HathiTrust]]}}</ref><br />–<br />January 16, 1902<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1897 Iowa gubernatorial election|1897]]
+|rowspan="2"|{{sortname|James C.|Milliman}}
+|- style="height:2em;"
+|[[1899 Iowa gubernatorial election|1899]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|18
+|rowspan="3" data-sort-value="Cummins, Albert"|[[File:Albert Baird Cummins circa 1917.jpg|75px]]
+|rowspan="3"|'''[[Albert B. Cummins]]'''<br>{{small|(1850–1926)}}<br>{{sfn|Sobel|1978|pp=442–443}}<ref name="nga-cummins">{{cite web |title=Albert Baird Cummins |url=https://www.nga.org/governor/albert-baird-cummins/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710083546/https://www.nga.org/governor/albert-baird-cummins/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2505"|January 16, 1902<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1902 sess. |author=Iowa General Assembly |page=53 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015006991361&seq=125 |via=[[HathiTrust]]}}</ref><br />–<br />November 24, 1908<br>{{small|(2505 days; resigned)}}{{efn|Cummins resigned, having been [[1908 United States Senate election in Iowa|elected]] to the [[United States Senate]];<ref name="nga-cummins" /> Cummins had already lost the Republican nomination for governor to [[Beryl F. Carroll]].}}
+|rowspan="3"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1901 Iowa gubernatorial election|1901]]
+|rowspan="2"|{{sortname|John|Herriott}}
+|- style="height:2em;"
+|[[1903 Iowa gubernatorial election|1903]]{{efn|The election schedule switched to even-numbered years after this election, which lengthened this term by nearly a year.}}
+|- style="height:2em;"
+|[[1906 Iowa gubernatorial election|1906]]
+|{{sortname|Warren|Garst}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Garst, Warren"|[[File:Warren Garst.jpg|75px]]
+|'''[[Warren Garst]]'''<br>{{small|(1850–1924)}}<br><ref name="nga-garst">{{cite web |title=Warren Garst |url=https://www.nga.org/governor/warren-garst/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607084144/https://www.nga.org/governor/warren-garst/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|data-sort-value="52"|November 24, 1908<ref>{{Cite news |date=November 25, 1908 |title=Garst Takes Oath As Iowa Governor |page=2 |newspaper=[[The Des Moines Register|The Register and Leader]] |url=https://www.newspapers.com/article/the-des-moines-register-garst-inaugurate/130354466/ |archive-url=https://web.archive.org/web/20230821143321/https://www.newspapers.com/article/the-des-moines-register-garst-inaugurate/130354466/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1909<br>{{small|(52 days; retired)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Carroll, Beryl"|[[File:Beryl F. Carroll (1).jpg|75px]]
+|rowspan="2"|'''[[Beryl F. Carroll]]'''<br>{{small|(1860–1939)}}<br>{{sfn|Sobel|1978|p=443}}<ref name="nga-carroll">{{cite web |title=Beryl Franklin Carroll |url=https://www.nga.org/governor/beryl-franklin-carroll/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608204332/https://www.nga.org/governor/beryl-franklin-carroll/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 14, 1909<ref>{{cite book |title=Journal of the Iowa Senate, 1909 sess. |author=Iowa General Assembly |page=49 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433004422428&seq=65 |via=[[HathiTrust]]}}</ref><br />–<br />January 16, 1913<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1908 Iowa gubernatorial election|1908]]
+|rowspan="10" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|George W.|Clarke|dab=Iowa politician}}
+|- style="height:2em;"
+|[[1910 Iowa gubernatorial election|1910]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Clarke, George"|[[File:Lieutenant Governor George W. Clarke.jpg|75px]]
+|rowspan="2"|'''[[George W. Clarke (Iowa politician)|George W. Clarke]]'''<br>{{small|(1852–1936)}}<br>{{sfn|Sobel|1978|pp=443–444}}<ref name="nga-clarke">{{cite web |title=George Washington Clarke |url=https://www.nga.org/governor/george-washington-clarke/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710074323/https://www.nga.org/governor/george-washington-clarke/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 16, 1913<ref>{{Cite news |date=January 17, 1913 |title=New Regime Takes Hold at Capital |page=1 |newspaper=[[The Des Moines Register|The Register and Leader]] |url=https://www.newspapers.com/article/the-des-moines-register-clarke-inaugurat/130354734/ |archive-url=https://web.archive.org/web/20230821143240/https://www.newspapers.com/article/the-des-moines-register-clarke-inaugurat/130354734/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1917<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1912 Iowa gubernatorial election|1912]]
+|rowspan="2"|{{sortname|William L.|Harding}}
+|- style="height:2em;"
+|[[1914 Iowa gubernatorial election|1914]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Harding, William"|[[File:William Lloyd Harding in 1915.jpg|75px]]
+|rowspan="2"|'''[[William L. Harding]]'''<br>{{small|(1877–1934)}}<br>{{sfn|Sobel|1978|p=444}}<ref name="nga-harding">{{cite web |title=William Lloyd Harding |url=https://www.nga.org/governor/william-lloyd-harding/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422105820/https://www.nga.org/governor/william-lloyd-harding/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1917<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1917 sess. |author=Iowa General Assembly |page=117 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881602&seq=143 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1921<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1916 Iowa gubernatorial election|1916]]
+|rowspan="2"|{{sortname|Ernest Robert|Moore}}
+|- style="height:2em;"
+|[[1918 Iowa gubernatorial election|1918]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Kendall, Nathan"|[[File:Nathan E. Kendall.png|75px]]
+|rowspan="2"|'''[[Nathan E. Kendall]]'''<br>{{small|(1868–1936)}}<br>{{sfn|Sobel|1978|p=445}}<ref name="nga-kendall">{{cite web |title=Nathan Edward Kendall |url=https://www.nga.org/governor/nathan-edward-kendall/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512225142/https://www.nga.org/governor/nathan-edward-kendall/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 13, 1921<ref>{{Cite news |date=January 13, 1921 |title=Kendall Takes Oath of Office |page=1 |newspaper=[[Quad-City Times|Davenport Democrat]] |location=Des Moines, Iowa |publication-place=Davenport, Iowa |url=https://www.newspapers.com/article/quad-city-times-kendall-inaugurated-janu/130355157/ |archive-url=https://web.archive.org/web/20230821143241/https://www.newspapers.com/article/quad-city-times-kendall-inaugurated-janu/130355157/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 15, 1925<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1920 Iowa gubernatorial election|1920]]
+|rowspan="2"|{{sortname|John|Hammill}}
+|- style="height:2em;"
+|[[1922 Iowa gubernatorial election|1922]]
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|24
+|rowspan="5" data-sort-value="Hammill, John"|[[File:John Hammill.png|75px]]
+|rowspan="5"|'''[[John Hammill]]'''<br>{{small|(1875–1936)}}<br>{{sfn|Sobel|1978|pp=445–446}}<ref name="nga-hammill">{{cite web |title=John Hammill |url=https://www.nga.org/governor/john-hammill/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521021607/https://www.nga.org/governor/john-hammill/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="2192"|January 15, 1925<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1925 sess. |author=Iowa General Assembly |page=71 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881885&seq=83 |via=[[HathiTrust]]}}</ref><br />–<br />January 15, 1931<br>{{small|(2192 days; retired)}}{{efn|Hamill instead [[1930 United States Senate election in Iowa|ran unsuccessfully]] for the Republican nomination for the [[United States Senate]].{{sfn|Sobel|1978|p=446}}}}
+|rowspan="5"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1924 Iowa gubernatorial election|1924]]
+|rowspan="2"|{{sortname|Clem F.|Kimball}}<br />{{small|(died September 10, 1928)}}
+|- style="height:2em;"
+|rowspan="3"|[[1926 Iowa gubernatorial election|1926]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Arch W.|McFarlane}}<br />{{small|(appointed November 15, 1928)}}
+|- style="height:2em;"
+|[[1928 Iowa gubernatorial election|1928]]
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Turner, Dan"|[[File:Dan W. Turner.png|75px]]
+|'''[[Dan W. Turner]]'''<br>{{small|(1877–1969)}}<br>{{sfn|Sobel|1978|p=446}}<ref name="nga-turner">{{cite web |title=Daniel Webster Turner |url=https://www.nga.org/governor/daniel-webster-turner/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260921133408/https://www.nga.org/governor/daniel-webster-turner/ |archive-date=September 21, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 15, 1931<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1931 sess. |author=Iowa General Assembly |page=93 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881888&seq=105 |via=[[HathiTrust]]}}</ref><br />–<br />January 12, 1933<br>{{small|(729 days; lost election)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=181}}
+|[[1930 Iowa gubernatorial election|1930]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Herring, Clyde"|[[File:Clyde L. Herring, US Senator.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Clyde L. Herring]]'''<br>{{small|(1879–1945)}}<br>{{sfn|Sobel|1978|pp=446–447}}<ref name="nga-herring">{{cite web |title=Clyde Laverne Herring |url=https://www.nga.org/governor/clyde-laverne-herring/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314192926/https://www.nga.org/governor/clyde-laverne-herring/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1933<ref>{{Cite news |date=January 12, 1933 |title=Herring Takes Oath As 26th Governor of State |page=1 |newspaper=[[Iowa City Press-Citizen]] |agency=Associated Press |location=Des Moines, Iowa |publication-place=Iowa City, Iowa |url=https://www.newspapers.com/article/iowa-city-press-citizen-herring-inaugura/130355526/ |archive-url=https://web.archive.org/web/20230821143322/https://www.newspapers.com/article/iowa-city-press-citizen-herring-inaugura/130355526/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1937<br>{{small|(1464 days; retired)}}{{efn|Herring was instead [[1936 United States Senate election in Iowa|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=447}}}}
+|rowspan="2"|[[Iowa Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=181}}
+|[[1932 Iowa gubernatorial election|1932]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Nelson G.|Kraschel}}
+|- style="height:2em;"
+|[[1934 Iowa gubernatorial election|1934]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Kraschel, Nelson"|[[File:Nelson G. Kraschel.png|75px]]
+|'''[[Nelson G. Kraschel]]'''<br>{{small|(1889–1957)}}<br>{{sfn|Sobel|1978|pp=447–448}}<ref name="nga-kraschel">{{cite web |title=Nelson George Kraschel |url=https://www.nga.org/governor/nelson-george-kraschel/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710084130/https://www.nga.org/governor/nelson-george-kraschel/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 14, 1937<ref>{{Cite news |date=January 15, 1937 |title=Government Changes Urged |page=4 |newspaper=[[Sioux City Journal]] |agency=Associated Press |location=Des Moines, Iowa |publication-place=Sioux City, Iowa |url=https://www.newspapers.com/article/sioux-city-journal-kraschel-inaugurated/130355638/ |archive-url=https://web.archive.org/web/20230821143239/https://www.newspapers.com/article/sioux-city-journal-kraschel-inaugurated/130355638/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1939<br>{{small|(729 days; lost election)}}
+|[[Iowa Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=181}}
+|[[1936 Iowa gubernatorial election|1936]]
+|{{sortname|John K.|Valentine}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Wilson, George"|[[File:George Allison Wilson.jpg|75px]]
+|rowspan="10" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[George A. Wilson]]'''<br>{{small|(1884–1953)}}<br>{{sfn|Sobel|1978|p=448}}<ref name="nga-wilson">{{cite web |title=George Allison Wilson |url=https://www.nga.org/governor/george-allison-wilson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260307130032/https://www.nga.org/governor/george-allison-wilson/ |archive-date=March 7, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1939<ref>{{cite book |title=Journal of the Iowa Senate, 1939 sess. |author=Iowa General Assembly |page=55 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881460&seq=67 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1943<br>{{small|(1464 days; retired)}}{{efn|Wilson was instead [[1942 United States Senate election in Iowa|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=448}}}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|[[1938 Iowa gubernatorial election|1938]]
+|rowspan="8" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Bourke B.|Hickenlooper}}
+|- style="height:2em;"
+|[[1940 Iowa gubernatorial election|1940]]
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Hickenlooper, Bourke"|[[File:Bourke B. Hickenlooper.jpg|75px]]
+|'''[[Bourke B. Hickenlooper]]'''<br>{{small|(1896–1971)}}<br>{{sfn|Sobel|1978|pp=448–449}}<ref name="nga-hickenlooper">{{cite web |title=Bourke Blakemore Hickenlooper |url=https://www.nga.org/governor/bourke-blakemore-hickenlooper/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260818063610/https://www.nga.org/governor/bourke-blakemore-hickenlooper/ |archive-date=August 18, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 14, 1943<ref>{{cite book |title=Journal of the Iowa Senate, 1943 sess. |author=Iowa General Assembly |page=48 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881463&seq=60 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1945<br>{{small|(729 days; retired)}}{{efn|Hickenlooper was instead [[1944 United States Senate election in Iowa|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=449}}}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|[[1942 Iowa gubernatorial election|1942]]
+|{{sortname|Robert D.|Blue}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Blue, Robert"|[[File:Robert Blue - Official Portrait - 49th GA.jpg|75px]]
+|rowspan="2"|'''[[Robert D. Blue]]'''<br>{{small|(1898–1989)}}<br>{{sfn|Sobel|1978|pp=449–450}}<ref name="nga-blue">{{cite web |title=Robert Donald Blue |url=https://www.nga.org/governor/robert-donald-blue/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410200829/https://www.nga.org/governor/robert-donald-blue/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1945<ref>{{cite book |title=Journal of the Iowa Senate, 1945 sess. |author=Iowa General Assembly |page=49 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2881464&seq=61 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1949<br>{{small|(1464 days;<br>retired)}} 
+|rowspan="2"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|[[1944 Iowa gubernatorial election|1944]]
+|rowspan="3"|{{sortname|Kenneth A.|Evans}}
+|- style="height:2em;"
+|[[1946 Iowa gubernatorial election|1946]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|31
+|rowspan="3" data-sort-value="Beardsley, William"|[[File:Bill Beardsley.png|75px]]
+|rowspan="3"|'''[[William S. Beardsley]]'''<br>{{small|(1901–1954)}}<br>{{sfn|Sobel|1978|p=450}}<ref name="nga-beardsley">{{cite web |title=William S. Beardsley |url=https://www.nga.org/governor/william-s-beardsley/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519095640/https://www.nga.org/governor/william-s-beardsley/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2139"|January 13, 1949<ref>{{Cite news |last=Mills |first=George |date=January 14, 1949 |title=Both Parties Laud Speech of Beardsley |page=1 |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-beardsley-inaugu/130371228/ |archive-url=https://web.archive.org/web/20230821143241/https://www.newspapers.com/article/the-des-moines-register-beardsley-inaugu/130371228/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 21, 1954<br>{{small|(2139 days; died in office)}}
+|rowspan="3"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|[[1948 Iowa gubernatorial election|1948]]
+|- style="height:2em;"
+|[[1950 Iowa gubernatorial election|1950]]
+|{{sortname|William H.|Nicholas}}
+|- style="height:2em;"
+|[[1952 Iowa gubernatorial election|1952]]
+|{{sortname|Leo|Elthon}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Elton, Leo"|[[File:Leo Elthon.png|75px]]
+|'''[[Leo Elthon]]'''<br>{{small|(1898–1967)}}<br>{{sfn|Sobel|1978|pp=450–451}}<ref name="nga-elthon">{{cite web |title=Leo Elthon |url=https://www.nga.org/governor/leo-elthon/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510115842/https://www.nga.org/governor/leo-elthon/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|data-sort-value="54"|November 21, 1954<ref>{{Cite news |last=Mills |first=George |date=November 22, 1954 |title=Crash Kills Beardsley; Car Hits Rear of Truck Near D. M.; Elthon Is Governor; Will Serve 2 Months As Iowa's Chief |page=1 |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-elthon-succeeds/130371302/ |archive-url=https://web.archive.org/web/20230821143242/https://www.newspapers.com/article/the-des-moines-register-elthon-succeeds/130371302/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1955<br>{{small|(54 days; retired)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Hoegh, Leo"|[[File:Leo Hoegh.png|75px]]
+|'''[[Leo Hoegh]]'''<br>{{small|(1908–2000)}}<br>{{sfn|Sobel|1978|p=451}}<ref name="nga-hoegh">{{cite web |title=Leo Arthur Hoegh |url=https://www.nga.org/governor/leo-arthur-hoegh/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260310211200/https://www.nga.org/governor/leo-arthur-hoegh/ |archive-date=March 10, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 13, 1955<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1955 sess. |author=Iowa General Assembly |page=52 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2944161&seq=64 |via=[[HathiTrust]]}}</ref><br />–<br />January 17, 1957<br>{{small|(736 days; lost election)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|[[1954 Iowa gubernatorial election|1954]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Leo|Elthon}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="Loveless, Herschel"|[[File:Herschel C. Loveless (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Herschel C. Loveless]]'''<br>{{small|(1911–1989)}}<br>{{sfn|Sobel|1978|p=452}}<ref name="nga-loveless">{{cite web |title=Herschel C. Loveless |url=https://www.nga.org/governor/herschel-c-loveless/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613182349/https://www.nga.org/governor/herschel-c-loveless/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 17, 1957<ref>{{cite book |title=Journal of the Iowa House of Representatives, 1957 sess. |author=Iowa General Assembly |page=57 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2944162&seq=73 |via=[[HathiTrust]]}}</ref><br />–<br />January 12, 1961<br>{{small|(1457 days; retired)}}{{efn|Loveless instead [[1960 United States Senate election in Iowa|ran unsuccessfully]] for the [[United States Senate]].}}
+|rowspan="2"|[[Iowa Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=182}}
+|[[1956 Iowa gubernatorial election|1956]]
+|{{sortname|William H.|Nicholas}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1958 Iowa gubernatorial election|1958]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Edward J.|McManus}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Erbe, Norman"|[[File:Norman A. Erbe (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Norman A. Erbe]]'''<br>{{small|(1919–2000)}}<br>{{sfn|Sobel|1978|pp=452–453}}<ref name="nga-erbe">{{cite web |title=Norman Arthur Erbe |url=https://www.nga.org/governor/norman-arthur-erbe/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260416231025/https://www.nga.org/governor/norman-arthur-erbe/ |archive-date=April 16, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 12, 1961<ref>{{cite book |title=Journal of the Iowa Senate, 1961 sess. |author=Iowa General Assembly |page=48 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2944211&seq=66 |via=[[HathiTrust]]}}</ref><br />–<br />January 17, 1963<br>{{small|(736 days; lost election)}}
+|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|[[1960 Iowa gubernatorial election|1960]]
+|rowspan="2"|{{sortname|W. L.|Mooty}}{{efn|Represented the [[Iowa Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|36
+|rowspan="3" data-sort-value="Hughes, Harold"|[[File:Harold Hughes, US Senator.jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Harold Hughes]]'''<br>{{small|(1922–1996)}}<br>{{sfn|Sobel|1978|p=453}}<ref name="nga-hughes">{{cite web |title=Harold Everett Hughes |url=https://www.nga.org/governor/harold-everett-hughes/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607081936/https://www.nga.org/governor/harold-everett-hughes/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2177"|January 17, 1963<ref>{{cite book |title=Journal of the Iowa Senate, 1963 sess. |author=Iowa General Assembly |page=46 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2944212&seq=63 |via=[[HathiTrust]]}}</ref><br />–<br />January 1, 1969<br>{{small|(2177 days; resigned)}}{{efn|Hughes resigned, having been [[1968 United States Senate election in Iowa|elected]] to the [[United States Senate]].<ref name="nga-hughes" />}}
+|rowspan="3"|[[Iowa Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=182}}
+|[[1962 Iowa gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1964 Iowa gubernatorial election|1964]]
+|rowspan="2"|{{sortname|Robert D.|Fulton}}
+|- style="height:2em;"
+|[[1966 Iowa gubernatorial election|1966]]
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Fulton, Robert"|[[File:Robert D. Fulton.png|75px]]
+|'''[[Robert D. Fulton]]'''<br>{{small|(1929–2024)}}<br>{{sfn|Sobel|1978|p=454}}<ref name="nga-fulton">{{cite web |title=Robert David Fulton |url=https://www.nga.org/governor/robert-david-fulton/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606081644/https://www.nga.org/governor/robert-david-fulton/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="16"|January 1, 1969<ref>{{Cite news |last=Mabry |first=Drake |date=January 2, 1969 |title=Governor's Oath to Fulton |page=1 |newspaper=[[Des Moines Tribune]] |url=https://www.newspapers.com/article/des-moines-tribune-fulton-succeeds-hughe/130372067/ |archive-url=https://web.archive.org/web/20230821143240/https://www.newspapers.com/article/des-moines-tribune-fulton-succeeds-hughe/130372067/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 16, 1969<br>{{small|(16 days; retired)}}
+|[[Iowa Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=182}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|38
+|rowspan="5" data-sort-value="Ray, Robert"|[[File:Robert D. Ray (IA).png|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="5"|'''[[Robert D. Ray]]'''<br>{{small|(1928–2018)}}<br>{{sfn|Sobel|1978|pp=454–455}}<ref name="nga-ray">{{cite web |title=Robert D. Ray |url=https://www.nga.org/governor/robert-d-ray/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410193741/https://www.nga.org/governor/robert-d-ray/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="5112"|January 16, 1969<ref>{{cite book |title=Journal of the Iowa Senate, 1969 sess. |author=Iowa General Assembly |page=62 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.b2944155&seq=74 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1983<br>{{small|(5112 days; retired)}}
+|rowspan="5"|[[Republican Party of Iowa|Republican]]{{sfn|Kallenbach|1977|p=182}}
+|[[1968 Iowa gubernatorial election|1968]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Roger|Jepsen}}
+|- style="height:2em;"
+|[[1970 Iowa gubernatorial election|1970]]
+|- style="height:2em;"
+|[[1972 Iowa gubernatorial election|1972]]
+|rowspan="2"|{{sortname|Arthur|Neu}}
+|- style="height:2em;"
+|[[1974 Iowa gubernatorial election|1974]]{{efn|First term under a 1972 constitutional amendment which lengthened terms to four years.{{sfn|Iowa Const.|loc=[https://50constitutions.org/ia/constitution/section-amendment-id-140488 1972 art. IV, § 2]}}}}
+|- style="height:2em;"
+|[[1978 Iowa gubernatorial election|1978]]
+|{{sortname|Terry|Branstad}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|39
+|rowspan="4" data-sort-value="Branstad, Terry"|[[File:Terry Branstad attends recommissioning ceremony for USS Iowa, Apr 28, 1984.JPEG|75px]]
+|rowspan="4"|'''[[Terry Branstad]]'''<br>{{small|({{Abbr|b.|born in}} 1946)}}<br>{{sfn|Mullaney|1994|pp=130–133}}<ref name="nga-branstad">{{cite web |title=Terry E. Branstad |url=https://www.nga.org/governor/terry-e-branstad/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260718035852/https://www.nga.org/governor/terry-e-branstad/ |archive-date=July 18, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="5846"|January 14, 1983<ref>{{Cite news |last1=Yepsen |first1=David |last2=Knudson |first2=Dewey |last3=Witosky |first3=Tom |date=January 15, 1983 |title=New Governor Calls for Action on Social Programs, Education |page=1A |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-branstad-inaugur/130390258/ |archive-url=https://web.archive.org/web/20230821143243/https://www.newspapers.com/article/the-des-moines-register-branstad-inaugur/130390258/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 15, 1999<br>{{small|(5846 days; retired)}}
+|rowspan="4"|[[Republican Party of Iowa|Republican]]<ref name="nga-branstad" />
+|[[1982 Iowa gubernatorial election|1982]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Robert T.|Anderson|dab=politician}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1986 Iowa gubernatorial election|1986]]
+|{{sortname|Jo Ann|Zimmerman}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1990 Iowa gubernatorial election|1990]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Joy|Corning}}
+|- style="height:2em;"
+|[[1994 Iowa gubernatorial election|1994]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Vilsack, Tom"|[[File:Tom Vilsack, official USDA photo portrait (1).jpg |75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Tom Vilsack]]'''<br>{{small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-vilsack">{{cite web |title=Thomas J. Vilsack |url=https://www.nga.org/governor/thomas-j-vilsack/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314101249/https://www.nga.org/governor/thomas-j-vilsack/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 15, 1999<ref>{{Cite news |last=Yepsen |first=David |date=January 16, 1999 |title=Vilsack's Inaugural Address Stresses Importance of Iowa's Children |page=1A |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-vilsack-inaugura/130390329/ |archive-url=https://web.archive.org/web/20230821143320/https://www.newspapers.com/article/the-des-moines-register-vilsack-inaugura/130390329/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 2007<br>{{small|(2920 days; retired)}}
+|rowspan="2"|[[Iowa Democratic Party|Democratic]]<ref name="nga-vilsack" />
+|[[1998 Iowa gubernatorial election|1998]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Sally|Pederson}}
+|- style="height:2em;"
+|[[2002 Iowa gubernatorial election|2002]]
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Culver, Chet"|[[File:Gov Chet Culver.jpg |75px]]
+|'''[[Chet Culver]]'''<br>{{small|({{Abbr|b.|born in}} 1966)}}<br><ref name="nga-culver">{{cite web |title=Chet Culver |url=https://www.nga.org/governor/chet-culver/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521011217/https://www.nga.org/governor/chet-culver/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 2007<ref>{{Cite news |last=Beaumont |first=Thomas |date=January 13, 2007 |title=State Needs To Lead the Nation in Renewable Energy, He Says |page=1A |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-culver-inaugurat/130390365/ |archive-url=https://web.archive.org/web/20230821143322/https://www.newspapers.com/article/the-des-moines-register-culver-inaugurat/130390365/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 2011<br>{{small|(1464 days; lost election)}}
+|[[Iowa Democratic Party|Democratic]]<ref name="nga-culver" />
+|[[2006 Iowa gubernatorial election|2006]]
+|{{sortname|Patty|Judge}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|42
+|rowspan="2" data-sort-value="Branstad, Terry"|[[File:Terry Branstad official photo.jpg|75px]]
+|rowspan="8" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Terry Branstad]]'''<br>{{small|({{Abbr|b.|born in}} 1946)}}<br><ref name="nga-branstad" />
+|rowspan="2" data-sort-value="2323"|January 14, 2011<ref>{{Cite news |last=Beaumont |first=Thomas |date=January 15, 2011 |title=New Era Dawns for Branstad |page=1A |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-branstad-inaugur/130390393/ |archive-url=https://web.archive.org/web/20230821144746/https://www.newspapers.com/article/the-des-moines-register-branstad-inaugur/130390393/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />May 24, 2017<br>{{small|(2323 days; resigned)}}{{efn|Branstad resigned, having been confirmed as [[List of ambassadors of the United States to China|United States Ambassador to China]].<ref>{{Cite news |last=Pfannenstiel |first=Brianne |date=May 24, 2017 |title=Branstad resigns governorship, takes office as U.S. Ambassador to China |website=[[The Des Moines Register]] |url=https://www.desmoinesregister.com/story/news/2017/05/24/gov-terry-branstad-no-more-nations-longest-serving-governor-becomes-u-s-ambassador-china/341852001/ |access-date=October 25, 2026}}</ref>}}
+|rowspan="2"|[[Republican Party of Iowa|Republican]]<ref name="nga-branstad" />
+|[[2010 Iowa gubernatorial election|2010]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Kim|Reynolds}}
+|- style="height:2em;"
+|[[2014 Iowa gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|43
+|rowspan="6" data-sort-value="Reynolds, Kim"|[[file:Kim Reynolds by Gage Skidmore 2 (cropped).jpg|99x99px]]
+|rowspan="6"|'''[[Kim Reynolds]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br><ref name="nga-reynolds">{{cite web |title=Kim Reynolds |url=https://www.nga.org/governor/kim-reynolds/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260701035912/https://www.nga.org/governor/kim-reynolds/ |archive-date=July 1, 2026 |url-status=live}}</ref>
+|rowspan="6" data-sort-value="{{Duration in days nts|2017|5|24|duration=on|format=no}}"|May 24, 2017<ref>{{Cite news |last=Noble |first=Jason |date=May 25, 2017 |title=State's 43rd Chief Executive Completes Her Historic Ascent |page=1A |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-reynolds-succeed/130390438/ |archive-url=https://web.archive.org/web/20230821143243/https://www.newspapers.com/article/the-des-moines-register-reynolds-succeed/130390438/ |archive-date=August 21, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />Incumbent{{efn|Reynolds' second full term began on January 13, 2023,<ref>{{Cite news |last=Gruber-Miller |first=Stephen |date=January 13, 2023 |title=Kim Reynolds has been sworn in for a second 4-year term as governor. Here's what to know: |url=https://www.desmoinesregister.com/story/news/politics/2023/01/13/kim-reynolds-inauguration-iowa-governor-sworn-in-legislature-caucus/69731285007/ |access-date=October 25, 2026 |website=[[The Des Moines Register]]}}</ref> and [[2026 Iowa gubernatorial election|will expire]] on January 15, 2027; she is not seeking reelection.<ref>{{Cite news |last=Goldmacher |first=Shane |date=April 11, 2025 |title=Gov. Kim Reynolds of Iowa Won’t Seek Re-election, Setting Up Open Race |url=https://www.nytimes.com/2025/04/11/us/politics/kim-reynolds-iowa-governor.html |access-date=April 12, 2025 |website=[[The New York Times]] |archive-url=https://web.archive.org/web/20250411170343/https://www.nytimes.com/2025/04/11/us/politics/kim-reynolds-iowa-governor.html |archive-date=April 11, 2025 |url-status=live}}</ref>}}<br>{{small|(in office {{Duration in days nts|2017|5|24|duration=on|format=no}} days)}}
+|rowspan="6"|[[Republican Party of Iowa|Republican]]<ref name="nga-reynolds" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Adam|Gregg}}<br>{{small|(appointed May 25, 2017)<br>(resigned September 3, 2024)}}
+|- style="height:2em;"
+|[[2018 Iowa gubernatorial election|2018]]
+|- style="height:2em;"
+|rowspan="3"|[[2022 Iowa gubernatorial election|2022]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Chris|Cournoyer}}<br>{{small|(appointed December 16, 2024)}}
+|- style="height:2em;"
+!scope="row"|''44''
+|data-sort-value="Sand, Rob"|[[File:Rob_Sand_campaign_headshot_(cropped_1).jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''''[[Rob Sand]]'''''<br>{{small|({{abbr|b.|born in}} 1982)}}
+|data-sort-value="{{Duration in days nts|2027|1|15|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 15, 2027''
+|''[[Iowa Democratic Party|Democratic]]''
+|[[2026 Iowa gubernatorial election|2026]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|''{{sortname|Dave|Muhlbauer}}''
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Iowa governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1837.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1840
+ScaleMinor = unit:year increment:1 start:1838
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:whig    value:rgb(0.88, 0.67, 0.46)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1853 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1838.45 till:1838.52 color:noparty text:"Henry Atkinson"
+ from:1838.52 till:1841.46 color:noparty text:"Robert Lucas"
+ from:1841.23 till:1845.88 color:noparty text:"John Chambers"
+ from:1845.85 till:1846.92 color:noparty text:"James Clarke"
+ from:1846.92 till:1850.93 color:dem text:"Ansel Briggs"
+ from:1850.93 till:1854.94 color:dem text:"Stephen P. Hempstead"
+ from:1854.94 till:1858.04 color:whig text:"James W. Grimes"
+ from:1858.04 till:1860.03 color:rep text:"Ralph P. Lowe"
+ from:1876.04 till:1877.09 color:rep text:"Samuel J. Kirkwood"
+ from:1864.04 till:1868.04 color:rep text:"William M. Stone"
+ from:1868.04 till:1872.03 color:rep text:"Samuel Merrill"
+ from:1872.03 till:1876.04 color:rep text:"Cyrus C. Carpenter"
+ from:1877.09 till:1878.05 color:rep text:"Joshua G. Newbold"
+ from:1878.05 till:1882.03 color:rep text:"John H. Gear"
+ from:1882.03 till:1886.04 color:rep text:"Buren R. Sherman"
+ from:1886.04 till:1890.16 color:rep text:"William Larrabee"
+ from:1890.16 till:1894.03 color:dem text:"Horace Boies"
+ from:1894.03 till:1896.04 color:rep text:"Frank D. Jackson"
+ from:1896.04 till:1898.04 color:rep text:"Francis M. Drake"
+ from:1898.04 till:1902.04 color:rep text:"L. M. Shaw"
+ from:1902.04 till:1908.9 color:rep text:"Albert B. Cummins"
+ from:1908.9 till:1909.04 color:rep text:"Warren Garst"
+ from:1909.04 till:1913.04 color:rep text:"Beryl F. Carroll"
+ from:1913.04 till:1917.03 color:rep text:"George W. Clarke"
+ from:1917.03 till:1921.04 color:rep text:"William L. Harding"
+ from:1921.04 till:1925.04 color:rep text:"Nathan E. Kendall"
+ from:1925.04 till:1931.04 color:rep text:"John Hammill"
+ from:1931.04 till:1933.03 color:rep text:"Dan W. Turner"
+ from:1933.03 till:1937.04 color:dem text:"Clyde L. Herring"
+ from:1937.04 till:1939.03 color:dem text:"Nelson G. Kraschel"
+ from:1939.03 till:1943.04 color:rep text:"George A. Wilson"
+ from:1943.04 till:1945.03 color:rep text:"Bourke B. Hickenlooper"
+ from:1945.03 till:1949.04 color:rep text:"Robert D. Blue"
+ from:1949.04 till:1954.89 color:rep text:"William S. Beardsley"
+ from:1954.89 till:1955.04 color:rep text:"Leo Elthon"
+ from:1955.04 till:1957.05 color:rep text:"Leo Hoegh"
+ from:1957.05 till:1961.03 color:dem text:"Herschel C. Loveless"
+ from:1961.03 till:1963.05 color:rep text:"Norman A. Erbe"
+ from:1963.05 till:1969 color:dem text:"Harold Hughes"
+ from:1969 till:1969.04 color:dem text:"Robert D. Fulton"
+ from:1969.04 till:1983.04 color:rep text:"Robert D. Ray"
+ from:2011.04 till:2017.39 color:rep text:"Terry Branstad"
+ from:1999.04 till:2007.03 color:dem text:"Tom Vilsack"
+ from:2007.03 till:2011.04 color:dem text:"Chet Culver"
+ from:2017.39 till:$now color:rep text:"Kim Reynolds"
+
+LineData=
+ from:1860.03 till:1864.04 atpos:668 color:rep width:6 # SJK 1st term
+ from:1983.04 till:1999.04 atpos:87 color:rep width:6 # TB 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1840.00 width:0.1 color:0year
+ at:1845.00 width:0.1 color:5year
+ at:1850.00 width:0.1 color:0year
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+*{{slink|Gubernatorial lines of succession in the United States#Iowa}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+*{{Cite web |title=Former Iowa Governors |url=https://www.nga.org/former-governors/iowa/ |access-date=October 25, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Iowa Constitution |url=https://50constitutions.org/ia/constitution |ref={{sfnref|Iowa Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 25, 2026}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=February 27, 2023}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{portal|Iowa}}
+*[https://governor.iowa.gov/ Office of the Governor of Iowa]
+
+{{Iowa}}
+{{Governors of Iowa}}
+{{Current U.S. governors}}
+{{US Chief Executives}}
+{{Current Iowa statewide political officials}}
+
+{{DEFAULTSORT:Iowa, List of Governors of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Iowa| ]]
+[[Category:Lists of Iowa officeholders|List of Governors]]
+[[Category:Lists of Iowa politicians|Governors]]
+[[Category:Iowa history-related lists|Governors]]

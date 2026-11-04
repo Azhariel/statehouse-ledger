@@ -1,0 +1,946 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Use American English|date=July 2018}}
+{{Infobox official post
+| post = Governor
+| body = Washington
+| insignia = Seal of the Executive Department of Washington.svg
+| insignia_size = 110px
+| insignia_caption = Seal of the governor
+| image = Bob Ferguson at his 2023 Shrimp Feed 02 (cropped).jpg
+| image_size = 200px
+| incumbent = [[Bob Ferguson (politician)|Bob Ferguson]]
+| incumbent_since = January 15, 2025
+| style = {{ublist|[[Governor]] (informal)|[[The Honorable]] (formal)}}
+| status = {{ublist|[[Head of state]]|[[Head of government]]}}
+| residence = [[Washington Governor's Mansion]]
+| term_length = Four years, no term limit
+| inaugural = [[Elisha P. Ferry]]
+| formation = November 11, 1889
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Washington|Line of succession]]
+| deputy = [[Lieutenant Governor of Washington]]
+| salary = [[United States dollar|$]]218,744<ref name="salary">{{Cite web|url=https://salaries.wa.gov/salary|title=Salary Information|publisher=Washington Citizens' Commission on Salaries for Elected Officials|access-date=July 4, 2025}}</ref>
+| website = {{URL|https://governor.wa.gov/}}
+}}
+The '''governor of Washington''' is the [[head of government]] of [[Washington (state)|Washington]] and commander-in-chief of the [[Washington National Guard|state's military forces]].<ref name="wac-3-2">WA Const. art. III, § 2.</ref><ref>WA Const. art. III, § 8.</ref> The officeholder has a duty to enforce state laws,<ref name="wac-3-5">WA Const. art. III, § 5.</ref> the power to either approve or veto bills passed by the [[Washington Legislature]] and [[line-item veto]] power to cancel specific provisions in spending bills.<ref>WA Const. art. III, § 12.</ref> The Washington governor may also convene the legislature on "extraordinary occasions".<ref name="wac-3-5" />
+
+Washington Territory had 14 territorial governors from its organization in 1853 until the formation of the state of Washington in 1889. Territorial governors were appointed by the president of the United States. [[Elisha P. Ferry]] had the longest term of eight years and went on to become the state's first governor. [[William H. Wallace]] was appointed governor but never took office due to being elected as the territory's congressional delegate. [[George Edward Cole]] was appointed governor and took office, but his appointment was never ratified by the U.S. Senate and he was replaced as governor after four months.
+
+Twenty-two individuals have held the office of Governor of Washington since the state's admission to the Union, with [[Arthur B. Langlie]] serving non-consecutive terms. [[Populist Party (United States)|Populist Party]] candidate [[John Rankin Rogers]] is the only non-[[Washington State Democratic Party|Democratic]] or [[Washington State Republican Party|Republican]] nominee to win office. The most recent governor to be from [[Eastern Washington]] was [[Clarence D. Martin]], elected in 1932.<ref>{{Cite news |last=Brunner |first=Jim |date=September 20, 2020 |title=Meet Loren Culp, the Republican gubernatorial candidate who wants to unseat Jay Inslee |work=The Seattle Times |url=https://www.seattletimes.com/seattle-news/politics/who-is-loren-culp-the-gubernatorial-candidate-who-lives-on-goa-way-with-eyes-fixed-on-olympia/ |access-date=August 1, 2023}}</ref> The current governor is Democrat [[Bob Ferguson (politician)|Bob Ferguson]], who took office on January 15, 2025. 
+
+==List of governors==
+===Territory of Washington===
+[[Washington Territory]] was organized on March 2, 1853, from the northern half of [[Oregon Territory]]. 
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Washington
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Stevens, Isaac"|[[File:Isaac Stevens (3x4 cropped).jpg|75px]]
+|'''[[Isaac Stevens]]'''<br>{{Small|(1818–1862)}}<br>{{sfn|McMullin|1984|pp=311–312}}
+|data-sort-value="1519"|March 17, 1853{{efn|Stevens was nominated<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., special sess., [https://books.google.com/books?id=USxRI4KXAbwC&pg=PA77 77], accessed July 19, 2023.</ref> and confirmed by the Senate<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., special sess., [https://books.google.com/books?id=USxRI4KXAbwC&pg=PA81 81], accessed July 19, 2023.</ref> on March 17, 1853, and arrived in Olympia on November 25.<ref>{{Cite book |last=Stevens |first=Hazard |url=https://books.google.com/books?id=yIw-AAAAYAAJ&pg=PA414 |title=The Life of Isaac Ingalls Stevens |date=1901 |publisher=Houghton, Mifflin |page=414 |language=en}}</ref>}}<br />–<br />May 13, 1857<br>{{small|(1519 days; replaced)}}{{efn|Stevens, whose replacement had been confirmed but not yet arrived in the territory, resigned on August 11, 1857, having been [[1856–57 United States House of Representatives elections|elected]] to the [[United States House of Representatives]].{{sfn|McMullin|1984|pp=311–312}}<ref>{{Cite news |date=August 14, 1857 |title=none |page=2 |work=Pioneer and Democrat |url=https://www.newspapers.com/article/pioneer-and-democrat-stevens-resigns-aug/128532137/ |access-date=July 20, 2023 | quote=Olympia, Aug. 11, 1857: I have transmitted a communication to the Secretary of State... resigning the office of Governor of the Territory of Washington to take effect this date...}}</ref>}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="McMullen, Fayette"|[[File:LaFayette McMullen.jpg|75px]]
+|'''[[Fayette McMullen]]'''<br>{{Small|(1805–1880)}}<br>{{sfn|McMullin|1984|pp=312–313}}
+|data-sort-value="662"|May 13, 1857{{efn|[[James Patton Anderson]] was nominated on March 12, 1857,<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., special sess., [https://books.google.com/books?id=AC3jtBfAEa0C&pg=PA241 241], accessed July 19, 2023.</ref> and confirmed by the Senate on March 13,<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., special sess., [https://books.google.com/books?id=AC3jtBfAEa0C&pg=PA253 253], accessed July 19, 2023.</ref> but declined.<ref name="territorial-papers">{{Cite book |url=https://books.google.com/books?id=6IVHAQAAMAAJ |title=The Territorial Papers of the United States: Volume I: General |date=1934 |publisher=[[United States Government Publishing Office]] |page=31 |language=en}}</ref> McMullen was appointed on May 13, 1857, during a Senate recess;{{sfn|McMullin|1984|pp=312–313}} nominated on December 22, 1857;<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., 1st sess., [https://books.google.com/books?id=AC3jtBfAEa0C&pg=PA275 275], accessed July 19, 2023.</ref> and confirmed by the Senate on January 18, 1858.<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., 1st sess., [https://books.google.com/books?id=AC3jtBfAEa0C&pg=PA294 294], accessed July 19, 2023.</ref> He took office on September 10, 1857.<ref>{{Cite news |date=September 11, 1857 |title=Arrival of Governor McMullen |page=2 |work=Pioneer and Democrat |url=https://www.newspapers.com/article/pioneer-and-democrat-mcmullen-inaugurate/128534002/ |access-date=July 20, 2023}}</ref>}}<br />–<br />March 5, 1859<br>{{small|(662 days; replaced)}}{{efn|McMullen left the territory in July 1858, without a formal resignation; the nomination of his successor only notes that the office is vacant.<ref name="gholson-nomination" /> Territorial Secretary [[Charles H. Mason]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=312–313}}}}
+|{{sortname|James|Buchanan}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Gholson, Richard"|[[File:Richard D. Gholson.jpg|75px]]
+|'''[[Richard D. Gholson]]'''<br>{{Small|(1804–1862)}}<br>{{sfn|McMullin|1984|pp=313–315}}
+|data-sort-value="713"|March 5, 1859{{efn|Gholson was nominated<ref name="gholson-nomination">U.S. Congress. ''Senate Exec. Journal''. 36th Cong., special sess., [https://books.google.com/books?id=2dOGAAAAMAAJ&pg=PA72 72], accessed July 19, 2023.</ref> and confirmed by the Senate<ref>U.S. Congress. ''Senate Exec. Journal''. 36th Cong., special sess., [https://books.google.com/books?id=2dOGAAAAMAAJ&pg=PA75 75], accessed July 19, 2023.</ref> on March 5, 1859, and he arrived in the territory on July 10.<ref>{{Cite news |date=July 15, 1859 |title=none | quote=Gov. Gholson, who some time since received the appointment as Executive for this Territory, arrived here on the steamer ''Northerner'', on Sunday last. |page=2 |work=Pioneer and Democrat |url=https://www.newspapers.com/article/pioneer-and-democrat-gholson-arrives-jul/128534626/ |access-date=July 20, 2023}}</ref>}}<br />–<br />February 14, 1861<br>{{small|(713 days; resigned)}}{{efn|Gholson left the territory in May 1860 on a leave of absence to move his wife from Texas to Kentucky, and never returned; he formally resigned on February 14, 1861, saying "I am unwilling for even a day to hold office under a (so-called) 'Republican' President."{{sfn|McMullin|1984|pp=313–315}} Territorial Secretary [[Henry McGill]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=313–315}}}}
+|{{sortname|James|Buchanan}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Wallace, William"|[[File:Washington Territory Governor William Henson Wallace, circa 1850-1870 (cropped).jpg|75px]]
+|'''[[William H. Wallace]]'''<br>{{Small|(1811–1879)}}<br>{{sfn|McMullin|1984|pp=315–316}}
+|data-sort-value="91"|April 9, 1861<br />–<br />July 8, 1861<br>{{small|(91 days; resigned<br>before taking office)}}{{efn|Wallace was appointed on April 9, 1861, during a Senate recess;{{sfn|McMullin|1984|pp=315–316}} nominated on July 10;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 1st sess., [https://books.google.com/books?id=3l6dM2XHbbcC&pg=PA376 376], accessed July 19, 2023.</ref> and confirmed by the Senate on July 16.<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 1st sess., [https://books.google.com/books?id=3l6dM2XHbbcC&pg=PA466 466], accessed July 19, 2023.</ref> However, even though he was a resident of the territory, he never took office, as he was [[1860–61 United States House of Representatives elections|elected]] to the [[United States House of Representatives]] on July 8.{{sfn|McMullin|1984|pp=315–316}} Territorial Secretary [[L. Jay S. Turney]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=315–316}}}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Pickering, William"|[[File:William Pickering.jpg|75px]]
+|rowspan="2"|'''[[William Pickering (governor)|William Pickering]]'''<br>{{Small|(1798–1873)}}<br>{{sfn|McMullin|1984|pp=316–317}}
+|rowspan="2" data-sort-value="1799"|December 19, 1861{{efn|Pickering was nominated on December 5, 1861;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 2nd sess., [https://books.google.com/books?id=OdqGAAAAMAAJ&pg=PA1 1], accessed July 19, 2023.</ref> confirmed by the Senate on December 19;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., 2nd sess., [https://books.google.com/books?id=OdqGAAAAMAAJ&pg=PA25 25], accessed July 19, 2023.</ref> and arrived in the territory in June 1862.{{sfn|McMullin|1984|pp=316–317}} He was reconfirmed by the Senate on January 6, 1866.<ref>U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 1st sess., [https://books.google.com/books?id=6wm4wavLZY4C&pg=PA317 317], accessed July 19, 2023.</ref>}}<br />–<br />November 21, 1866<br>{{small|(1799 days; replaced)}}{{efn|President Johnson removed Pickering because he had publicly criticized [[Reconstruction era]] policies. Territorial Secretary [[Elwood Evans]] acted as governor until his successor arrived.}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Cole, George"|[[File:George Edward Cole.jpg|75px]]
+|'''[[George Edward Cole]]'''<br>{{Small|(1826–1906)}}<br>{{sfn|McMullin|1984|pp=317–318}}
+|data-sort-value="101"|November 21, 1866{{efn|Cole was appointed on November 21, 1866, during a Senate recess;{{sfn|McMullin|1984|pp=317–318}} nominated on December 14;<ref>U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 2nd sess., [https://books.google.com/books?id=hPSGAAAAMAAJ&pg=PA7 7], accessed July 19, 2023.</ref> but was rejected by the Senate on March 1, 1867.<ref name="cole-rejection">U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 2nd sess., [https://books.google.com/books?id=hPSGAAAAMAAJ&pg=PA281 281], accessed July 19, 2023.</ref>}}<br />–<br />March 1, 1867<br>{{small|(101 days;<br>nomination failed)}}{{efn|Cole's nomination was rejected by the Senate on March 1, 1867,<ref name="cole-rejection" /> and he left office on March 4.{{sfn|McMullin|1984|pp=317–318}} Territorial Secretary [[Elwood Evans]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=317–318}}}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Moore, Marshall"|[[File:MFMoore.jpg|75px]]
+|'''[[Marshall F. Moore]]'''<br>{{Small|(1829–1870)}}<br>{{sfn|McMullin|1984|pp=318–319}}
+|data-sort-value="717"|April 20, 1867{{efn|[[Charles E. De Long]] was nominated on April 15, 1867,<ref>U.S. Congress. ''Senate Exec. Journal''. 40th Cong., 1st sess., [https://books.google.com/books?id=Ml2ZXQj8SxQC&pg=PA717 717], accessed July 19, 2023.</ref> but was rejected by the Senate on April 17.<ref>U.S. Congress. ''Senate Exec. Journal''. 40th Cong., 1st sess., [https://books.google.com/books?id=Ml2ZXQj8SxQC&pg=PA750 750], accessed July 19, 2023.</ref> Moore was then nominated on April 19,<ref>U.S. Congress. ''Senate Exec. Journal''. 40th Cong., 1st sess., [https://books.google.com/books?id=Ml2ZXQj8SxQC&pg=PA761 761], accessed July 19, 2023.</ref> and confirmed by the Senate on April 20.<ref>U.S. Congress. ''Senate Exec. Journal''. 40th Cong., 1st sess., [https://books.google.com/books?id=Ml2ZXQj8SxQC&pg=PA780 780], accessed July 19, 2023.</ref>}}<br />–<br />April 5, 1869<br>{{small|(717 days; replaced)}}{{efn|McMullin says Moore resigned due to ill health,{{sfn|McMullin|1984|pp=318–319}} but the nomination of his successor specifies he was being removed.<ref name="flanders-nomination" />}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Flanders, Alvan"|[[File:Alvan Flanders.jpg|75px]]
+|'''[[Alvan Flanders]]'''<br>{{Small|(1825–1894)}}<br>{{sfn|McMullin|1984|pp=319–320}}
+|data-sort-value="344"|April 5, 1869{{efn|Flanders was nominated on April 3, 1869,<ref name="flanders-nomination">U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 1st sess., [https://books.google.com/books?id=J45NAQAAMAAJ&pg=PA76 76], accessed July 19, 2023.</ref> and confirmed by the Senate on April 5.<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 1st sess., [https://books.google.com/books?id=J45NAQAAMAAJ&pg=PA88 88], accessed July 19, 2023.</ref>}}<br />–<br />March 14, 1870<br>{{small|(344 days; replaced)}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Salomon, Edward"|[[File:Washington Territorial Governor Edward Selig Salomon, circa 1870-1872 (square crop).jpg|75px]]
+|'''[[Edward S. Salomon]]'''<br>{{Small|(1836–1913)}}<br>{{sfn|McMullin|1984|pp=320–321}}
+|data-sort-value="775"|March 14, 1870{{efn|Salomon was nominated on January 10, 1870,<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 2nd sess., [https://books.google.com/books?id=TRhHAQAAMAAJ&pg=PA333 333], accessed July 19, 2023.</ref> and confirmed by the Senate on March 14.<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 2nd sess., [https://books.google.com/books?id=TRhHAQAAMAAJ&pg=PA391 391], accessed July 19, 2023.</ref>}}<br />–<br />April 26, 1872<br>{{small|(775 days; resigned)}}{{efn|Salomon's resignation was requested due to "financial maneuvering and excessive absences".{{sfn|McMullin|1984|pp=320–321}}}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Ferry, Elisha"|[[File:Elisha Peyre Ferry.jpg|75px]]
+|'''[[Elisha P. Ferry]]'''<br>{{Small|(1825–1895)}}<br>{{sfn|McMullin|1984|pp=321–323}}
+|data-sort-value="2923"|April 26, 1872{{efn|[[James F. Legate]] was nominated on January 11, 1872,<ref>U.S. Congress. ''Senate Exec. Journal''. 42nd Cong., 2nd sess., [https://books.google.com/books?id=QHKiAAAAMAAJ&pg=PA165 165], accessed July 19, 2023.</ref> but was withdrawn on April 9.<ref>U.S. Congress. ''Senate Exec. Journal''. 42nd Cong., 2nd sess., [https://books.google.com/books?id=QHKiAAAAMAAJ&pg=PA229 229], accessed July 19, 2023.</ref> Ferry was then nominated on April 24,<ref>U.S. Congress. ''Senate Exec. Journal''. 42nd Cong., 2nd sess., [https://books.google.com/books?id=QHKiAAAAMAAJ&pg=PA238 238], accessed July 19, 2023.</ref> and confirmed by the Senate on April 26.<ref>U.S. Congress. ''Senate Exec. Journal''. 42nd Cong., 2nd sess., [https://books.google.com/books?id=QHKiAAAAMAAJ&pg=PA241 241], accessed July 19, 2023.</ref> He was reconfirmed by the Senate on May 2, 1876.<ref>U.S. Congress. ''Senate Exec. Journal''. 44th Cong., 1st sess., [https://books.google.com/books?id=oalECQ5Lc5sC&pg=PA233 233], accessed July 26, 2023.</ref>}}<br />–<br />April 26, 1880<br>{{small|(2923 days; replaced)}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Newell, William"|[[File:Washington Territorial Governor William Augustus Newell, circa 1880-1884 (square crop).jpg|75px]]
+|'''[[William A. Newell]]'''<br>{{Small|(1817–1901)}}<br>{{sfn|McMullin|1984|pp=323–324}}
+|data-sort-value="1529"|April 26, 1880{{efn|Newell was nominated on April 9, 1880, for a term to begin April 26;<ref>U.S. Congress. ''Senate Exec. Journal''. 46th Cong., 2nd sess., [https://books.google.com/books?id=5TctAQAAMAAJ&pg=PA305 305], accessed July 19, 2023.</ref> and was confirmed by the Senate on April 21.<ref>U.S. Congress. ''Senate Exec. Journal''. 46th Cong., 2nd sess., [https://books.google.com/books?id=5TctAQAAMAAJ&pg=PA314 314], accessed July 19, 2023.</ref>}}<br />–<br />July 2, 1884<br>{{small|(1529 days; replaced)}}
+|{{sortname|Rutherford B.|Hayes}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Squire, Watson"|[[File:Watson C. Squire (square crop).jpg|75px]]
+|'''[[Watson C. Squire]]'''<br>{{Small|(1838–1926)}}<br>{{sfn|McMullin|1984|pp=324–326}}
+|data-sort-value="1012"|July 2, 1884{{efn|Squire was nominated on July 1, 1884,<ref>U.S. Congress. ''Senate Exec. Journal''. 48th Cong., 1st sess., [https://books.google.com/books?id=Zd-tAAAAMAAJ&pg=PA313 313], accessed July 19, 2023.</ref> and confirmed by the Senate on July 2.<ref>U.S. Congress. ''Senate Exec. Journal''. 48th Cong., 1st sess., [https://books.google.com/books?id=Zd-tAAAAMAAJ&pg=PA316 316], accessed July 19, 2023.</ref>}}<br />–<br />April 9, 1887<br>{{small|(1012 days; replaced)}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Semple, Eugene"|[[File:Eugene Semple.jpg|75px]]
+|'''[[Eugene Semple]]'''<br>{{Small|(1840–1908)}}<br>{{sfn|McMullin|1984|pp=326–327}}
+|data-sort-value="715"|April 9, 1887{{efn|Semple was appointed on April 9, 1887, during a Senate recess;{{sfn|McMullin|1984|pp=326–327}} nominated on January 4, 1888;<ref>U.S. Congress. ''Senate Exec. Journal''. 50th Cong., 1st sess., [https://books.google.com/books?id=UY2IAAAAMAAJ&pg=PA102 102], accessed July 19, 2023.</ref> and confirmed by the Senate on January 16.<ref>U.S. Congress. ''Senate Exec. Journal''. 50th Cong., 1st sess., [https://books.google.com/books?id=UY2IAAAAMAAJ&pg=PA141 141], accessed July 19, 2023.</ref>}}<br />–<br />March 23, 1889<br>{{small|(715 days; replaced)}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Moore, Miles"|[[File:Miles C. Moore.jpg|75px]]
+|'''[[Miles Conway Moore]]'''<br>{{Small|(1845–1919)}}<br>{{sfn|McMullin|1984|pp=327–328}}
+|data-sort-value="241"|March 23, 1889{{efn|Moore was nominated on March 21, 1889,<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA28 28], accessed July 19, 2023.</ref> and confirmed by the Senate on March 23.<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA38 38], accessed July 19, 2023.</ref>}}<br />–<br />November 18, 1889<br>{{small|(241 days; statehood)}}
+|{{sortname|Benjamin|Harrison}}
+|}
+
+===State of Washington===
+Washington was admitted to the Union on November 11, 1889. The term for governor is four years,<ref name="wac-3-2" /> commencing on the second Monday in the January following the election.<ref>WA Const. art. III, § 4</ref> If the office of governor is vacant or the governor is unable to discharge their duties, the lieutenant governor assumes the duties of governor, though still officially retains the office of lieutenant governor.<ref>{{Cite web |title=AG, Secretary of State issue joint statement regarding gubernatorial succession in the event of a vacancy |url=https://www.sos.wa.gov/office/news-releases.aspx |access-date=November 25, 2020 |publisher=Washington Secretary of State}}</ref> If both the offices of governor and lieutenant governor are unable to fulfill their duties, the secretary of state is next in line, and then the treasurer.<ref>WA Const. art. III, § 10</ref> There is no limit to the number of terms a governor may serve.<ref>{{Cite web |title=Constitutional and Statutory Provisions for Number of Consecutive Terms of Elected State Officials |url=http://www.nga.org/Files/pdf/BOS4-9.pdf |url-status=dead |archive-url=https://web.archive.org/web/20110629023725/http://www.nga.org/files/pdf/BOS4-9.pdf |archive-date=June 29, 2011 |access-date=July 3, 2010 |publisher=National Governor's Association}}</ref> The office of [[Lieutenant Governor of Washington|lieutenant governor]] is not elected on the same [[ticket (election)|ticket]] as the governor.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Washington
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Washington|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Ferry, Elisha"|[[File:Elisha Peyre Ferry.jpg|75px]]
+|rowspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|'''[[Elisha P. Ferry]]'''<br>{{Small|(1825–1895)}}<br>{{sfn|Sobel|1978|p=1675}}<ref name="nga-ferry">{{Cite web |title=Elisha Peyre Ferry |url=https://www.nga.org/governor/elisha-peyre-ferry/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1151"|November 18, 1889<ref>{{Cite news |date=November 19, 1889 |title=Garb of Statehood |page=2 |work=The Seattle Post-Intelligencer |url=https://www.newspapers.com/article/the-seattle-post-intelligencer-ferry-ina/128580968/ |access-date=July 20, 2023}}</ref><br />–<br />January 11, 1893<br>{{small|(1151 days; retired)}}{{sfn|Sobel|1978|p=1675}}
+|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1889 Washington gubernatorial election|1889]]
+|rowspan="2"style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|Charles E.|Laughton}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="McGraw, John"|[[File:Governor John H. McGraw, circa 1893-1897.jpg|75px]]
+|'''[[John McGraw (governor)|John McGraw]]'''<br>{{Small|(1850–1910)}}<br>{{sfn|Sobel|1978|p=1676}}<ref name="nga-mcgraw">{{Cite web |title=John Harte McGraw |url=https://www.nga.org/governor/john-harte-mcgraw/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 1893<ref>Washington State Legislature. ''Journal of the House of Representatives''. 3rd legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1893HouseJournal.pdf 44], accessed July 20, 2023</ref><br />–<br />January 13, 1897<br>{{small|(1464 days; retired)}}
+|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1892 Washington gubernatorial election|1892]]
+|{{sortname|F. H.|Luce}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Rogers, John"|[[File:Governor John Rogers, circa 1897-1901.jpg|75px]]
+|style="color:inherit;background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|rowspan="2"|'''[[John Rankin Rogers]]'''<br>{{Small|(1838–1901)}}<br>{{sfn|Sobel|1978|pp=1677–1678}}<ref name="nga-rogers">{{Cite web |title=John Rankin Rogers |url=https://www.nga.org/governor/john-rankin-rogers/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1808"|January 13, 1897<ref>Washington State Legislature. ''Journal of the House of Representatives''. 5th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1897HouseJournal.pdf 34], accessed July 20, 2023</ref><br />–<br />December 26, 1901<br>{{small|(1808 days; died in office)}}
+|[[Populist Party (United States)|Populist]]{{sfn|Sobel|1978|pp=1677–1678}}
+|[[1896 Washington gubernatorial election|1896]]
+|style="color:inherit;background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|{{sortname|Thurston|Daniels}}
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|[[Washington State Democratic Party|Democratic]]{{sfn|Sobel|1978|pp=1677–1678}}
+|[[1900 Washington gubernatorial election|1900]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Henry|McBride|dab=politician}}{{efn|Represented the [[Washington State Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="McBride, Henry"|[[File:Henry McBride LOC 15123928486.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Henry McBride (politician)|Henry McBride]]'''<br>{{Small|(1856–1937)}}<br>{{sfn|Sobel|1978|p=1678}}<ref name="nga-mcbride">{{Cite web |title=Henry McBride |url=https://www.nga.org/governor/henry-mcbride/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1113"|December 26, 1901<ref>{{Cite news |date=December 27, 1901 |title=Gov. McBride of Washington |page=1 |work=The Spokesman-Review |url=https://www.newspapers.com/article/the-spokesman-review-mcbride-succeeds-ro/128585136/ |access-date=July 20, 2023}}</ref><br />–<br />January 11, 1905<br>{{small|(1113 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=1678}}
+|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Mead, Albert"|[[File:Governor Albert E. Mead, ca. 1905 - DPLA - 0ce65feee0bfaf0c775fb2b52613369f (cropped).jpg|75px]]
+|'''[[Albert E. Mead]]'''<br>{{Small|(1861–1913)}}<br>{{sfn|Sobel|1978|p=1679}}<ref name="nga-mead">{{Cite web |title=Albert E. Mead |url=https://www.nga.org/governor/albert-e-mead/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1478"|January 11, 1905<ref>Washington State Legislature. ''Journal of the House of Representatives''. 9th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1905HouseJournal.pdf 33], accessed July 20, 2023</ref><br />–<br />January 27, 1909<br>{{small|(1478 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=1679}}
+|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1904 Washington gubernatorial election|1904]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Charles E.|Coon}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Cosgrove, Samuel"|[[File:Samuel Goodlove Cosgrove.jpg|75px]]
+|'''[[Samuel G. Cosgrove]]'''<br>{{Small|(1847–1909)}}<br>{{sfn|Sobel|1978|pp=1679–1680}}<ref name="nga-cosgrove">{{Cite web |title=Samuel G. Cosgrove |url=https://www.nga.org/governor/samuel-g-cosgrove/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="61"|January 27, 1909<ref>Washington State Legislature. ''Journal of the House of Representatives''. 11th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1909HouseJournal.pdf 152], accessed July 20, 2023</ref><br />–<br />March 28, 1909<br>{{small|(61 days; died in office)}}
+|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1908 Washington gubernatorial election|1908]]
+|{{sortname|Marion E.|Hay}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Hay, Marion"|[[File:Governor Marion E. Hay.jpg|75px]]
+|'''[[Marion E. Hay]]'''<br>{{Small|(1865–1933)}}<br>{{sfn|Sobel|1978|pp=1680–1681}}<ref name="nga-hay">{{Cite web |title=Marion E. Hay |url=https://www.nga.org/governor/marion-e-hay/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1390"|March 28, 1909<ref>{{Cite news |date=March 29, 1909 |title=Governor S. G. Cosgrove Passes Away Suddenly |page=1 |work=The Tacoma Daily Ledger |url=https://www.newspapers.com/article/the-tacoma-daily-ledger-hay-succeeds-cos/128585400/ |access-date=July 20, 2023}}</ref><br />–<br />January 15, 1913<br>{{small|(1390 days; lost election)}}
+|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="Lister, Ernest"|[[File:Ernest Lister LCCN2014687323 retouched.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Ernest Lister]]'''<br>{{Small|(1870–1919)}}<br>{{sfn|Sobel|1978|pp=1681–1682}}<ref name="nga-lister">{{Cite web |title=Ernest Lister |url=https://www.nga.org/governor/ernest-lister/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2342"|January 15, 1913<ref>Washington State Legislature. ''Journal of the House of Representatives''. 13th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1913HouseJournal.pdf 44], accessed July 20, 2023</ref><br />–<br />June 14, 1919<br>{{small|(2342 days; died in office)}}
+|rowspan="2"|[[Washington State Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1912 Washington gubernatorial election|1912]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Louis F.|Hart}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1916 Washington gubernatorial election|1916]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Hart, Louis"|[[File:Louis F. Hart, Gov. of Wash. LCCN2016848033 (cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Louis F. Hart]]'''<br>{{Small|(1862–1929)}}<br>{{sfn|Sobel|1978|p=1682}}<ref name="nga-hart">{{Cite web |title=Louis Folwell Hart |url=https://www.nga.org/governor/louis-folwell-hart/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2042"|June 14, 1919<ref>{{Cite news |date=June 14, 1919 |title=Louis F. Hart Goes to Executive Chair |page=1 |work=The News Tribune |url=https://www.newspapers.com/article/the-news-tribune-hart-succeeds-lister-ju/128587234/ |access-date=July 20, 2023}}</ref><br />–<br />January 14, 1925<br>{{small|(2042 days; retired)}}{{sfn|Sobel|1978|p=1682}}
+|rowspan="2"|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1920 Washington gubernatorial election|1920]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William J.|Coyle}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Hartley, Roland"|[[File:Roland H. Hartley LCCN2014717860 (3x4).jpg|75px]]
+|rowspan="2"|'''[[Roland H. Hartley]]'''<br>{{Small|(1864–1952)}}<br>{{sfn|Sobel|1978|p=1683}}<ref name="nga-hartley">{{Cite web |title=Roland H. Hartley |url=https://www.nga.org/governor/roland-h-hartley/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 14, 1925<ref>Washington State Legislature. ''Journal of the House of Representatives''. 19th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1925HouseJournal.pdf 23], accessed July 20, 2023</ref><br />–<br />January 11, 1933<br>{{small|(2920 days;<br>lost nomination)}}{{efn|Hartley lost the Republican nomination to [[John Arthur Gellatly]].}}
+|rowspan="2"|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1924 Washington gubernatorial election|1924]]
+|{{sortname|W. Lon|Johnson}}
+|- style="height:2em;"
+|[[1928 Washington gubernatorial election|1928]]
+|{{sortname|John Arthur|Gellatly}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Martin, Clarence"|[[File:Clarence Daniel Martin.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Clarence D. Martin]]'''<br>{{Small|(1886–1955)}}<br>{{sfn|Sobel|1978|pp=1683–1684}}<ref name="nga-martin">{{Cite web |title=Clarence Daniel Martin |url=https://www.nga.org/governor/clarence-daniel-martin/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 11, 1933<ref>{{Cite news |date=January 11, 1933 |title=Martin Takes Oath as New Governor |page=1 |work=The Bellingham Herald |url=https://www.newspapers.com/article/the-bellingham-herald-martin-inaugurated/128588432/ |access-date=July 21, 2023}}</ref><br />–<br />January 15, 1941<br>{{small|(2927 days;<br>lost nomination)}}{{efn|Martin lost the Democratic nomination to [[Clarence Dill]].}}
+|rowspan="2"|[[Washington State Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1932 Washington gubernatorial election|1932]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="5"|{{sortname|Victor Aloysius|Meyers}}{{efn|Represented the [[Washington State Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+|[[1936 Washington gubernatorial election|1936]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Langlie, Arthur"|[[File:Governor Langlie.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Arthur B. Langlie]]'''<br>{{Small|(1900–1966)}}<br>{{sfn|Sobel|1978|pp=1684–1685}}<ref name="nga-langlie">{{Cite web |title=Arthur B. Langlie |url=https://www.nga.org/governor/arthur-b-langlie/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 15, 1941<ref>Washington State Legislature. ''Journal of the House of Representatives''. 27th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1941HouseJournal.pdf 32], accessed July 20, 2023</ref><br />–<br />January 10, 1945<br>{{small|(1457 days; lost election)}}
+|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1940 Washington gubernatorial election|1940]]
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Wallgren, Monrad"|[[File:Governor Monrad Charles Wallgren (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Monrad Wallgren]]'''<br>{{Small|(1891–1961)}}<br>{{sfn|Sobel|1978|p=1685}}<ref name="nga-wallgren">{{Cite web |title=Monrad Charles Wallgren |url=https://www.nga.org/governor/monrad-charles-wallgren/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 10, 1945<ref>Washington State Legislature. ''Journal of the House of Representatives''. 29th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1944-45HouseJournal.pdf 31], accessed July 20, 2023</ref><br />–<br />January 12, 1949<br>{{small|(1464 days; lost election)}}
+|[[Washington State Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1944 Washington gubernatorial election|1944]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Langlie, Arthur"|[[File:Governor Langlie.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Arthur B. Langlie]]'''<br>{{Small|(1900–1966)}}<br>{{sfn|Sobel|1978|pp=1684–1685}}<ref name="nga-langlie" />
+|rowspan="2" data-sort-value="2927"|January 12, 1949<ref>Washington State Legislature. ''Journal of the House of Representatives''. 31st legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1949HouseJournal.pdf 39], accessed July 20, 2023</ref><br />–<br />January 16, 1957<br>{{small|(2927 days; retired)}}{{efn|Langlie instead [[1956 United States Senate election in Washington|ran unsuccessfully]] for the [[United States Senate]].}}
+|rowspan="2"|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1948 Washington gubernatorial election|1948]]
+|- style="height:2em;"
+|[[1952 Washington gubernatorial election|1952]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Emmett T.|Anderson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Rosellini, Albert"|[[File:Albert D. Rosellini (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Albert Rosellini]]'''<br>{{Small|(1910–2011)}}<br>{{sfn|Sobel|1978|p=1686}}<ref name="nga-rosellini">{{Cite web |title=Albert Dean Rosellini |url=https://www.nga.org/governor/albert-dean-rosellini/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 16, 1957<ref>Washington State Legislature. ''Journal of the House of Representatives''. 35th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1957HouseJournal.pdf 41], accessed July 20, 2023</ref><br />–<br />January 13, 1965<br>{{small|(2920 days; lost election)}}
+|rowspan="2"|[[Washington State Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1956 Washington gubernatorial election|1956]]
+|rowspan="8" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="8"|{{sortname|John|Cherberg}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1960 Washington gubernatorial election|1960]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|16
+|rowspan="3" data-sort-value="Evans, Daniel"|[[File:Daniel J. Evans.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Daniel J. Evans]]'''<br>{{small|(1925–2024)}}<br>{{sfn|Sobel|1978|pp=1686–1687}}<ref name="nga-evans">{{Cite web |title=Daniel Jackson Evans |url=https://www.nga.org/governor/daniel-jackson-evans/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="4383"|January 13, 1965<ref>Washington State Legislature. ''Journal of the House of Representatives''. 39th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1965HouseJournal.pdf 60], accessed July 20, 2023</ref><br />–<br />January 12, 1977<br>{{small|(4383 days; retired)}}{{sfn|Sobel|1978|pp=1686–1687}}
+|rowspan="3"|[[Washington State Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=622–623}}
+|[[1964 Washington gubernatorial election|1964]]
+|- style="height:2em;"
+|[[1968 Washington gubernatorial election|1968]]
+|- style="height:2em;"
+|[[1972 Washington gubernatorial election|1972]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Ray, Dixy"|[[File:Dixy Lee Ray (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Dixy Lee Ray]]'''<br>{{Small|(1914–1994)}}<br>{{sfn|Sobel|1978|pp=1687–1688}}<ref name="nga-ray">{{Cite web |title=Dixy Lee Ray |url=https://www.nga.org/governor/dixy-lee-ray/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 12, 1977<ref>Washington State Legislature. ''Journal of the House of Representatives''. 45th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1977HouseJournal.pdf 44], accessed July 20, 2023</ref><br />–<br />January 14, 1981<br>{{small|(1464 days;<br>lost nomination)}}{{efn|Ray lost the Democratic nomination to [[Jim McDermott]].}}
+|[[Washington State Democratic Party|Democratic]]<ref name="nga-ray" />
+|[[1976 Washington gubernatorial election|1976]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Spellman, John"|[[File:JohnDSpellman.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John Spellman]]'''<br>{{Small|(1926–2018)}}<br><ref name="nga-spellman">{{Cite web |title=John Dennis Spellman |url=https://www.nga.org/governor/john-dennis-spellman/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 14, 1981<ref>Washington State Legislature. ''Journal of the House of Representatives''. 47th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1981HouseJournal.pdf 52], accessed July 20, 2023</ref><br />–<br />January 16, 1985<br>{{small|(1464 days; lost election)}}
+|[[Washington State Republican Party|Republican]]<ref name="nga-spellman" />
+|[[1980 Washington gubernatorial election|1980]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Gardner, Booth"|[[File:Booth Gardner (3x4 cropped).jpg|75px]]
+|rowspan="11" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Booth Gardner]]'''<br>{{Small|(1936–2013)}}<br><ref name="nga-gardner">{{Cite web |title=Booth Gardner |url=https://www.nga.org/governor/booth-gardner/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 16, 1985<ref>Washington State Legislature. ''Journal of the House of Representatives''. 49th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1985HouseJournalVol1.pdf 44], accessed July 20, 2023</ref><br />–<br />January 13, 1993<br>{{small|(2920 days; retired)}}
+|rowspan="2"|[[Washington State Democratic Party|Democratic]]<ref name="nga-gardner" />
+|[[1984 Washington gubernatorial election|1984]]
+|- style="height:2em;"
+|[[1988 Washington gubernatorial election|1988]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Joel|Pritchard}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Lowry, Mike"|[[File:Michael E. Lowry.jpg|75px]]
+|'''[[Mike Lowry]]'''<br>{{Small|(1939–2017)}}<br><ref name="nga-lowry">{{Cite web |title=Michael Lowry |url=https://www.nga.org/governor/michael-lowry/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 13, 1993<ref>Washington State Legislature. ''Journal of the House of Representatives''. 53rd legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1993HouseJournal.pdf 55], accessed July 20, 2023</ref><br />–<br />January 15, 1997<br>{{small|(1464 days; retired)}}
+|[[Washington State Democratic Party|Democratic]]<ref name="nga-lowry" />
+|[[1992 Washington gubernatorial election|1992]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Locke, Gary"|[[File:Gary Locke.jpg|75px]]
+|rowspan="2"|'''[[Gary Locke]]'''<br>{{small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-locke">{{Cite web |title=Gary Locke |url=https://www.nga.org/governor/gary-locke/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 15, 1997<ref>Washington State Legislature. ''Journal of the House of Representatives''. 55th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/1997HouseJournal.pdf 96], accessed July 20, 2023</ref><br />–<br />January 12, 2005<br>{{small|(2920 days; retired)}}
+|rowspan="2"|[[Washington State Democratic Party|Democratic]]<ref name="nga-locke" />
+|[[1996 Washington gubernatorial election|1996]]
+|rowspan="8" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="5"|{{sortname|Brad|Owen}}
+|- style="height:2em;"
+|[[2000 Washington gubernatorial election|2000]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Gregoire, Christine"|[[File:ChristineGregoireOfficial (cropped).jpg|75px]]
+|rowspan="2"|'''[[Christine Gregoire]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-gregoire">{{Cite web |title=Chris Gregoire |url=https://www.nga.org/governor/chris-gregoire/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 12, 2005<ref>Washington State Legislature. ''Journal of the House of Representatives''. 59th legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/2005HouseJournal.pdf 69], accessed July 20, 2023</ref><br />–<br />January 16, 2013<br>{{small|(2927 days; retired)}}
+|rowspan="2"|[[Washington State Democratic Party|Democratic]]<ref name="nga-gregoire" />
+|[[2004 Washington gubernatorial election|2004]]
+|- style="height:2em;"
+|[[2008 Washington gubernatorial election|2008]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|23
+|rowspan="3" data-sort-value="Inslee, Jay"|[[File:Jay Inslee official portrait (cropped 2).jpg|75px]]
+|rowspan="3"|'''[[Jay Inslee]]'''<br>{{small|({{Abbr|b.|born in}} 1951)}}<br><ref name="nga-inslee">{{Cite web |title=Jay Inslee |url=https://www.nga.org/governor/jay-inslee/ |access-date=July 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="4383"|January 16, 2013<ref>Washington State Legislature. ''Journal of the House of Representatives''. 63rd legislature, [https://leg.wa.gov/LIC/Documents/Historical/FloorJournals/House/2013HouseJournal.pdf 50], accessed July 20, 2023</ref><br />–<br />January 15, 2025<br>{{small|(4383 days; retired)}}
+|rowspan="3"|[[Washington State Democratic Party|Democratic]]<ref name="nga-inslee" />
+|[[2012 Washington gubernatorial election|2012]]
+|- style="height:2em;"
+|[[2016 Washington gubernatorial election|2016]]
+|{{sortname|Cyrus|Habib}}
+|- style="height:2em;"
+|[[2020 Washington gubernatorial election|2020]]
+|rowspan="2"|{{sortname|Denny|Heck}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Ferguson, Bob"|[[File:Bob_Ferguson_at_his_2023_Shrimp_Feed_02_(cropped).jpg|75px]]
+|'''[[Bob Ferguson (politician)|Bob Ferguson]]'''<br>{{small|({{Abbr|b.|born in}} 1965)}}<br><ref name="nga-ferguson">{{Cite web |title=Bob Ferguson |url=https://www.nga.org/governor/bob-ferguson/ |access-date=January 18, 2025 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2025|1|15|duration=on|format=no}}"|January 15, 2025<ref>{{Cite news |last1=Toay |first1=Adel |last2=Smith |first2=Helen |date=2025-01-15 |title=Bob Ferguson takes office as Washington's governor |work=[[KING-TV]] | url=https://www.king5.com/article/news/politics/state-politics/bob-ferguson-washington-governor-swearing-in/281-7b70acdd-b239-4e3f-8fff-18f4736ba547 |access-date=2025-01-23 |language=en-US}}</ref><br />–<br />Incumbent{{efn|Ferguson's term [[2028 Washington gubernatorial election|will expire]] on January 8, 2029.}}<br>{{small|(in office {{Duration in days nts|2025|1|15|duration=on|format=no}} days)}}
+|[[Washington State Democratic Party|Democratic]]<ref name="nga-ferguson" />
+|[[2024 Washington gubernatorial election|2024]]
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Washington governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1852.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1860
+ScaleMinor = unit:year increment:1 start:1853
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:populist value:rgb(0.67, 0.88, 0.69)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1868 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1853.21 till:1857.61 color:noparty text:"Isaac Stevens"
+ from:1857.36 till:1859.18 color:noparty text:"Fayette McMullen"
+ from:1859.18 till:1861.12 color:noparty text:"Richard D. Gholson"
+ from:1861.27 till:1861.52 color:noparty text:"William H. Wallace"
+ from:1861.97 till:1866.89 color:noparty text:"William Pickering"
+ from:1866.89 till:1867.17 color:noparty text:"George Edward Cole"
+ from:1867.3 till:1869.26 color:noparty text:"Marshall F. Moore"
+ from:1869.26 till:1870.2 color:noparty text:"Alvan Flanders"
+ from:1870.2 till:1872.32 color:noparty text:"Edward S. Salomon"
+ from:1889.88 till:1893.03 color:rep text:"Elisha P. Ferry"
+ from:1880.32 till:1884.5 color:noparty text:"William A. Newell"
+ from:1884.5 till:1887.27 color:noparty text:"Watson C. Squire"
+ from:1887.27 till:1889.22 color:noparty text:"Eugene Semple"
+ from:1889.22 till:1889.88 color:noparty text:"Miles Conway Moore"
+ from:1893.03 till:1897.04 color:rep text:"John McGraw"
+ from:1900 till:1901.99 color:dem text:"John Rankin Rogers"
+ from:1901.99 till:1905.03 color:rep text:"Henry McBride"
+ from:1905.03 till:1909.07 color:rep text:"Albert E. Mead"
+ from:1909.07 till:1909.24 color:rep text:"Samuel G. Cosgrove"
+ from:1909.24 till:1913.04 color:rep text:"Marion E. Hay"
+ from:1913.04 till:1919.45 color:dem text:"Ernest Lister"
+ from:1919.45 till:1925.04 color:rep text:"Louis F. Hart"
+ from:1925.04 till:1933.03 color:rep text:"Roland H. Hartley"
+ from:1933.03 till:1941.04 color:dem text:"Clarence D. Martin"
+ from:1949.03 till:1957.04 color:rep text:"Arthur B. Langlie"
+ from:1945.03 till:1949.03 color:dem text:"Monrad Wallgren"
+ from:1957.04 till:1965.04 color:dem text:"Albert Rosellini"
+ from:1965.04 till:1977.03 color:rep text:"Daniel J. Evans"
+ from:1977.03 till:1981.04 color:dem text:"Dixy Lee Ray"
+ from:1981.04 till:1985.04 color:rep text:"John Spellman"
+ from:1985.04 till:1993.04 color:dem text:"Booth Gardner"
+ from:1993.04 till:1997.04 color:dem text:"Mike Lowry"
+ from:1997.04 till:2005.03 color:dem text:"Gary Locke"
+ from:2005.03 till:2013.04 color:dem text:"Christine Gregoire"
+ from:2013.04 till:2025.04 color:dem text:"Jay Inslee"
+ from:2025.04 till:$now color:dem text:"Bob Ferguson"
+
+LineData=
+ from:1872.32 till:1880.32 atpos:490 color:noparty width:6 # EPF 1st term
+ from:1897.04 till:1900 atpos:384 color:populist width:6 # JRR populist
+ from:1941.04 till:1945.03 atpos:228 color:rep width:6 # ABL 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==Electoral history (1952–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |[[Socialist Labor Party of America|Socialist Labor]] nominee
+! colspan="4" scope="col" |[[Socialist Workers Party (United States)|Socialist Workers]] nominee
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |Other candidate
+! colspan="4" scope="col" |Other candidate
+! colspan="4" scope="col" |Other candidate
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1952 Washington gubernatorial election|1952]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Hugh Mitchell (politician)|Hugh Mitchell]]
+| 510,675
+| 47.35%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Arthur B. Langlie]]'''
+| '''567,822'''
+| '''52.65%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1956 Washington gubernatorial election|1956]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Albert Rosellini]]'''
+| '''616,773'''
+| '''54.63%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Emmett T. Anderson]]
+| 508,041
+| 45.00%
+| bgcolor="{{party color|Socialist Labor Party (United States)}}" |
+| Henry Killman
+| 4,163
+| 0.37%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1960 Washington gubernatorial election|1960]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Albert Rosellini]]'''
+| '''611,987'''
+| '''50.34%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Lloyd J. Andrews]]
+| 594,122
+| 48.87%
+| bgcolor="{{party color|Socialist Labor Party (United States)}}" |
+| Henry Killman
+| 8,647
+| 0.71%
+| bgcolor="{{party color|Socialist Workers Party (United States)}}" |
+| Jack W. Wright
+| 992
+| 0.08%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1964 Washington gubernatorial election|1964]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Albert Rosellini]]
+| 548,692
+| 43.89%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Daniel J. Evans]]'''
+| '''697,256'''
+| '''55.77%'''
+| bgcolor="{{party color|Socialist Labor Party (United States)}}" |
+| Henry Killman
+| 4,326
+| 0.35%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1968 Washington gubernatorial election|1968]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[John J. O'Connell (politician)|John J. O'Connell]]
+| 560,262
+| 44.28%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Daniel J. Evans]]'''
+| '''692,378'''
+| '''54.72%'''
+| bgcolor="{{party color|Socialist Labor Party (United States)}}" |
+| Henry Killman
+| 1,113
+| 0.09%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Conservative Party (United States)}}" |
+| Ken Chriswell<br>([[Conservative Party (United States)#Washington|Conservative]])
+| 11,602
+| 0.92%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1972 Washington gubernatorial election|1972]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Albert Rosellini]]
+| 630,613
+| 42.82%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Daniel J. Evans]]'''
+| '''747,825'''
+| '''50.78%'''
+| bgcolor="{{party color|Socialist Labor Party (United States)}}" |
+| Henry Killman
+| 2,709
+| 0.18%
+| bgcolor="{{party color|Socialist Workers Party (United States)}}" |
+| Robin David
+| 4,552
+| 0.31%
+| colspan=4| –
+| bgcolor="#009966" |
+| Vic Gould<br>(Taxpayers)
+| 86,843
+| 5.90%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1976 Washington gubernatorial election|1976]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Dixy Lee Ray]]'''
+| '''821,797'''
+| '''53.14%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[John Spellman]]
+| 687,039
+| 44.43%
+| bgcolor="{{party color|Socialist Labor Party (United States)}}" |
+| Henry Killman
+| 4,137
+| 0.27%
+| bgcolor="{{party color|Socialist Workers Party (United States)}}" |
+| Patricia A. Bethard
+| 3,106
+| 0.20%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Maurice Willey
+| 4,133
+| 0.27%
+| bgcolor="{{party color|American Independent Party}}" |
+| {{nowrap|Art Manning<br>([[American Independent Party|American Independent]])}}
+| 12,406
+| 0.80%
+| bgcolor="{{party color|OWL Party}}" |
+| Red Kelly<br>([[OWL Party|OWL]])
+| 12,400
+| 0.80%
+| bgcolor="{{party color|U.S. Labor Party}}" |
+| {{nowrap|Evelyn Olafson<br>([[U.S. Labor Party|U.S. Labor]])}}
+| 1,364
+| 0.09%
+|-
+| [[1980 Washington gubernatorial election|1980]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Jim McDermott]]
+| 749,813
+| 43.32%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[John Spellman]]'''
+| '''981,083'''
+| '''56.68%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1984 Washington gubernatorial election|1984]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Booth Gardner]]'''
+| '''1,006,993'''
+| '''53.31%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[John Spellman]]
+| 881,994
+| 46.69%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1988 Washington gubernatorial election|1988]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Booth Gardner]]'''
+| '''1,166,448'''
+| '''62.21%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Bob Williams (Washington politician)|Bob Williams]]
+| 708,481
+| 37.79%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1992 Washington gubernatorial election|1992]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Mike Lowry]]'''
+| '''1,184,315'''
+| '''52.16%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Ken Eikenberry]]
+| 1,086,216
+| 47.84%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1996 Washington gubernatorial election|1996]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Gary Locke]]'''
+| '''1,296,492'''
+| '''57.96%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Ellen Craswell]]
+| 940,538
+| 42.04%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2000 Washington gubernatorial election|2000]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Gary Locke]]'''
+| '''1,441,973'''
+| '''58.38%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[John Carlson (radio host)|John Carlson]]
+| 980,060
+| 39.68%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Steve LePage
+| 47,819
+| 1.94%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2004 Washington gubernatorial election|2004]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Christine Gregoire]]'''
+| '''1,373,361'''
+| '''48.87%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Dino Rossi]]
+| 1,373,228
+| 48.87%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Ruth Bennett
+| 63,464
+| 2.26%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2008 Washington gubernatorial election|2008]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Christine Gregoire]]'''
+| '''1,598,738'''
+| '''53.24%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Dino Rossi]]
+| 1,404,124
+| 46.76%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2012 Washington gubernatorial election|2012]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Jay Inslee]]'''
+| '''1,582,802'''
+| '''51.54%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Rob McKenna]]
+| 1,488,245
+| 48.46%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2016 Washington gubernatorial election|2016]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Jay Inslee]]'''
+| '''1,760,520'''
+| '''54.25%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Bill Bryant (politician)|Bill Bryant]]
+| 1,476,346
+| 45.49%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2020 Washington gubernatorial election|2020]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Jay Inslee]]'''
+| '''2,294,243'''
+| '''56.56%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Loren Culp
+| 1,749,066
+| 43.12%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2024 Washington gubernatorial election|2024]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Bob Ferguson (politician)|Bob Ferguson]]'''
+| '''2,143,368'''
+| '''55.51%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Dave Reichert]]
+| 1,709,818
+| 44.28%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|}
+
+==See also==
+*[[List of Washington state legislatures]]
+*[[Gubernatorial lines of succession in the United States#Washington]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former Washington Governors |url=https://www.nga.org/former-governors/washington/ |access-date=July 5, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+*{{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+*{{Cite journal |last=Ficken |first=Robert E. |date=Winter 2005–2006 |title=Figureheads of State |url=http://columbia.washingtonhistory.org/anthology/fromtriballands/figureheads.aspx |url-status=dead |journal=Columbia Magazine |volume=19 |issue=4 |archive-url=https://web.archive.org/web/20111008093244/http://columbia.washingtonhistory.org/anthology/fromtriballands/figureheads.aspx |archive-date=October 8, 2011 |access-date=January 27, 2011}}
+*{{Cite book |last=Meany, Edmond S |url=http://www.secstate.wa.gov/history/publications_detail.aspx?p=30 |title=Governors of Washington : territorial and state |publisher=University of Washington |year=1915 |location=Seattle |author-link=Meany, Edmond S |access-date=June 30, 2010}}
+*{{Cite web |title=Washington Territorial and State Governors |url=http://www.sos.wa.gov/library/WashingtonTerritorialandStateGovernors.aspx |access-date=July 1, 2010 |publisher=Washington Secretary of State}}
+* {{Cite web |title=Our Campaigns - Governor of Washington - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=290 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.governor.wa.gov Office of the Governor of Washington]
+
+{{Governors of Washington}}
+{{Current U.S. governors}}
+{{US Chief Executives}}
+{{Washington}}
+{{Washington statewide elected officials}}
+{{Government of Washington}}
+{{featured list}}
+
+{{DEFAULTSORT:Washington, List of Governors of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Washington (state)|*]]
+[[Category:Lists of Washington (state) politicians|Governors]]
+[[Category:Lists of territorial governors of the United States|Governors of Washington Territory]]
+[[Category:1889 establishments in Washington (state)]]
+[[Category:Washington (state) history-related lists|Governors]]

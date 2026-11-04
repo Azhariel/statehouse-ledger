@@ -1,0 +1,1240 @@
+{{Short description|Politics in the US state of New Jersey}}
+{{More citations needed|date=September 2020}}
+{{align|right|{{Switcher |[[File:2025 New Jersey voter registration map by county.svg|300px]]|Voter registration by county |[[File:2025 New Jersey voter registration map by congressional district.svg|300px]]|Voter registration by congressional district<br>{{collapsible list|title = Legend:|
+{{legend|#BDD3FF|30–40%}} |
+{{legend|#A5B0FF|40–50%}} |
+{{legend|#7996E2|50–60%}} |
+{{legend|#AAE5AA|30–40%}} |
+{{legend|#FFC8CD|30–40%}} |
+{{legend|#FFB2B2|40–50%}} |}}}}}}
+
+==Partisan identification in the electorate==
+On November 1, 2025, the New Jersey Department of State reported 6,632,260 registered voters. Among these, 2,526,861 (38.1%) were registered Democrats, 1,673,397 (25.3%) were registered Republicans, 2,358,288 (35.6%) were registered unaffiliated, and 73,714 (1.1%) were registered with other parties.<ref>{{Cite web |url=https://www.nj.gov/state/elections/assets/pdf/svrs-reports/2025/2025-11-voter-registration-by-county.pdf |title=Statewide Voter Registration Summary |website=www.nj.gov}}</ref>
+
+==Partisan affiliation of elected officials==
+The following table indicates the party of elected officials in the [[U.S. state]] of [[New Jersey]]:
+*[[List of governors of New Jersey|Governor]]
+*[[Lieutenant Governor of New Jersey|Lieutenant Governor]]
+
+The table also indicates the historical party composition in the:
+*[[New Jersey Senate|State Senate]]
+*[[New Jersey General Assembly|State General Assembly]]
+*[[List of United States senators from New Jersey|State delegation to the U.S. Senate]]
+*[[List of United States representatives from New Jersey|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+==1776–2009==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!Executive office
+!colspan=2 |[[New Jersey Legislature|State Legislature]]
+!colspan=3 |[[New Jersey's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of New Jersey|Governor]]
+!class=unsortable |[[New Jersey Senate|Senate]]
+!class=unsortable |[[New Jersey General Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from New Jersey|Senator (Class I)]]
+!class=unsortable |[[List of United States senators from New Jersey|Senator (Class II)]]
+!class=unsortable |[[List of United States representatives from New Jersey|House]]
+|- style="height:2em"
+!1776
+|rowspan=4 {{Party shading/Federalist}} |[[William Livingston]] {{small|(F)}}
+|
+|
+|colspan=4 rowspan=3 |''began in 1789''
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1788
+|- style="height:2em"
+!1789
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=3 {{Party shading/Pro-Administration}} |[[Jonathan Elmer]] {{small|(PA)}}
+|rowspan=3 {{Party shading/Pro-Administration}} |[[William Paterson (judge)|William Paterson]] {{small|(PA)}}
+|rowspan=3 {{Party shading/Pro-Administration}} |4PA
+|rowspan=9 {{Party shading/Independent}} |[[George Washington]] {{small|(I)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1790
+|{{Party shading/Federalist}} |[[Elisha Lawrence]] {{small|(F)}}{{efn |name=acting|Acting.}}
+|rowspan=2 {{Party shading/Federalist}} |F majority
+|rowspan=2 {{Party shading/Federalist}} |F majority
+|- style="height:2em"
+|rowspan=3 {{Party shading/Federalist}} |[[William Paterson (judge)|William Paterson]] {{small|(F)}}
+|- style="height:2em"
+!1791
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=5 {{Party shading/Pro-Administration}} |[[John Rutherfurd]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Pro-Administration}} |[[Philemon Dickinson]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Pro-Administration}} |3PA, 1I
+|- style="height:2em"
+!1792
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|- style="height:2em"
+!rowspan=2 |1793
+|{{Party shading/Federalist}} |[[Thomas Henderson (New Jersey politician)|Thomas Henderson]] {{small|(F)}}{{efn |name=acting}}
+|rowspan=2 {{Party shading/Federalist}} |F majority
+|rowspan=2 {{Party shading/Democratic-Republican}} |DR majority
+|rowspan=3 {{Party shading/Pro-Administration}} |[[Frederick Frelinghuysen (general)|Frederick Frelinghuysen]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Pro-Administration}} |5PA
+|- style="height:2em"
+|rowspan=8 {{Party shading/Federalist}} |[[Richard Howell]] {{small|(F)}}
+|- style="height:2em"
+!1794
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=1 {{Party shading/Pro-Administration}} |4PA, 1I{{efn |[[Abraham Clark]], a member of the Pro-Administration Party, died September 15, 1794, and [[Aaron Kitchell]] was elected to fill his vacancy.}}
+|- style="height:2em"
+!1795
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=2 {{Party shading/Federalist}} |[[John Rutherfurd]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |[[Frederick Frelinghuysen (general)|Frederick Frelinghuysen]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |4F, 1I
+|- style="height:2em"
+!1796
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|rowspan=4 {{Party shading/Federalist}} |[[John Adams]]/<br>[[Thomas Pinckney]] {{small|(F)}} {{Aye}}
+|- style="height:2em"
+!1797
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=2 {{Party shading/Federalist}} |[[Franklin Davenport]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |[[Richard Stockton (U.S. senator)|Richard Stockton]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |5F
+|- style="height:2em"
+!1798
+|{{Party shading/Democratic-Republican}} |DR majority
+|{{Party shading/Democratic-Republican}} |DR majority
+|- style="height:2em"
+!1799
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=2 {{Party shading/Federalist}} |[[James Schureman]] {{small|(F)}}
+|rowspan=6 {{Party shading/Federalist}} |[[Jonathan Dayton]] {{small|(F)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |3DR, 2F
+|- style="height:2em"
+!1800
+|{{Party shading/Federalist}} |F majority
+|{{Party shading/Federalist}} |F majority
+|rowspan=4 {{Party shading/Federalist}} |[[John Adams]]/<br>[[Charles Cotesworth Pinckney]] {{small|(F)}} {{Nay}}
+|- style="height:2em"
+!1801
+|{{Party shading/Democratic-Republican}} |[[Joseph Bloomfield]] {{small|(DR)}}
+|{{Party shading/Federalist}} |9F, 4DR
+|{{Party shading/Federalist}} |28F, 11DR
+|rowspan=2 {{Party shading/Federalist}} |[[Aaron Ogden]] {{small|(F)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |5DR
+|- style="height:2em"
+!1802
+|{{Party shading/Democratic-Republican}} |[[John Lambert (politician)|John Lambert]] {{small|(DR)}}{{efn |name=acting}}
+|{{Party shading/Federalist}} |7F, 6DR
+|{{Party shading/Democratic-Republican}} |24DR, 16F
+|- style="height:2em"
+!1803
+|rowspan=9 {{Party shading/Democratic-Republican}} |[[Joseph Bloomfield]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |8DR, 5F
+|{{Party shading/Federalist}} |20F, 19DR, 1?{{efn |A Federalist, [[William Coxe Jr.]], was elected Speaker, and the Federalists organized the chamber.}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[John Condit]] {{small|(DR)}}
+|rowspan=10 {{Party shading/Democratic-Republican}} |6DR
+|- style="height:2em"
+!1804
+|{{Party shading/Democratic-Republican}} |8DR, 5F
+|{{Party shading/Democratic-Republican}} |25DR, 14F, 1?
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]]/<br>[[George Clinton (vice president)|George Clinton]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1805
+|{{Party shading/Democratic-Republican}} |9DR, 4F
+|{{Party shading/Democratic-Republican}} |28DR, 12F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Aaron Kitchell]] {{small|(DR)}}
+|- style="height:2em"
+!1806
+|{{Party shading/Democratic-Republican}} |8DR, 5F
+|{{Party shading/Democratic-Republican}} |25DR, 14F, 1[[Tertium quids|OR]]
+|- style="height:2em"
+!1807
+|{{Party shading/Federalist}} |7F, 6DR
+|{{Party shading/Democratic-Republican}} |21DR, 19F
+|- style="height:2em"
+!1808
+|{{Party shading/Democratic-Republican}} |9DR, 4F
+|{{Party shading/Democratic-Republican}} |25DR, 15F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison]]/<br>[[George Clinton (vice president)|George Clinton]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1809
+|{{Party shading/Democratic-Republican}} |7DR, 6F
+|{{Party shading/Democratic-Republican}} |23DR, 17F
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[John Lambert (politician)|John Lambert]] {{small|(DR)}}
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[John Condit]] {{small|(DR)}}
+|- style="height:2em"
+!1810
+|rowspan=2 {{Party shading/Democratic-Republican}} |8DR, 5F
+|{{Party shading/Democratic-Republican}} |24DR, 16F
+|- style="height:2em"
+!1811
+|{{Party shading/Democratic-Republican}} |26DR, 14F
+|- style="height:2em"
+!1812
+|{{Party shading/Federalist}} |[[Aaron Ogden]] {{small|(F)}}
+|{{Party shading/Democratic-Republican}} |9DR, 4F
+|{{Party shading/Democratic-Republican}} |30DR, 10F
+|rowspan=4 {{Party shading/Federalist}} |[[DeWitt Clinton]]/<br>[[Jared Ingersoll]] {{small|(F)}} {{Nay}}
+|- style="height:2em"
+!1813
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[William Sanford Pennington]] {{small|(DR)}}
+|{{Party shading/Federalist}} |7F, 6DR
+|{{Party shading/Federalist}} |23F, 17DR
+|{{Party shading/Federalist}} |4F, 2DR
+|- style="height:2em"
+!1814
+|rowspan=3 {{Party shading/Democratic-Republican}} |7DR, 6F
+|{{Party shading/Democratic-Republican}} |23DR, 17F
+|{{Party shading/Tie}} |3DR, 3F{{efn |[[Jacob Hufty]], a Federalist, died on May 20, 1814, and was replaced by [[Thomas Bines]], a Democratic-Republican, on November 2, 1814.}}
+|- style="height:2em"
+!1815
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Mahlon Dickerson]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |22DR, 18F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James J. Wilson]] {{small|(DR)}}
+|rowspan=10 {{Party shading/Democratic-Republican}} |6DR
+|- style="height:2em"
+!1816
+|{{Party shading/Democratic-Republican}} |27DR, 15F
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[James Monroe]]/<br>[[Daniel D. Tompkins]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1817
+|rowspan=12 {{Party shading/Democratic}} |[[Isaac Halstead Williamson]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic-Republican}} |8DR, 5F
+|{{Party shading/Democratic-Republican}} |23DR, 18F
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[Mahlon Dickerson]] {{small|(DR)}}
+|- style="height:2em"
+!1818
+|{{Party shading/Democratic-Republican}} |26DR, 16F
+|- style="height:2em"
+!1819
+|{{Party shading/Democratic-Republican}} |27DR, 16F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Samuel L. Southard]] {{small|(DR)}}
+|- style="height:2em"
+!1820
+|rowspan=4 {{Party shading/Democratic-Republican}} |9DR, 4F
+|{{Party shading/Democratic-Republican}} |31DR, 12F
+|- style="height:2em"
+!1821
+|{{Party shading/Democratic-Republican}} |36DR, 7F
+|- style="height:2em"
+!1822
+|{{Party shading/Democratic-Republican}} |30DR, 13F
+|- style="height:2em"
+!1823
+|{{Party shading/Democratic-Republican}} |31DR, 12F
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Joseph McIlvaine]] {{small|(DR)}}
+|- style="height:2em"
+!1824
+|{{Party shading/Democratic-Republican}} |8DR, 5F
+|{{Party shading/Democratic-Republican}} |29DR, 14F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Andrew Jackson]]/<br>[[John C. Calhoun]] {{small|(DR)}} {{Nay}}
+|- style="height:2em"
+!1825
+|{{Party shading/Jacksonian}} |J majority
+|{{Party shading/Jacksonian}} |J majority
+|rowspan=2 {{Party shading/National Republican}} |[[Joseph McIlvaine]] {{small|(NR)}}
+|rowspan=4 {{Party shading/Jacksonian}} |[[Mahlon Dickerson]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |3J, 2NR, 1I
+|- style="height:2em"
+!1826
+|{{Party shading/Jacksonian}} |J majority
+|{{Party shading/Jacksonian}} |J majority
+|- style="height:2em"
+!1827
+|{{Party shading/National Republican}} |NR majority
+|{{Party shading/National Republican}} |NR majority
+|rowspan=2 {{Party shading/National Republican}} |[[Ephraim Bateman]] {{small|(NR)}}
+|rowspan=2 {{Party shading/National Republican}} |3NR, 2I, 1J
+|- style="height:2em"
+!1828
+|{{Party shading/National Republican}} |NR majority
+|{{Party shading/National Republican}} |NR majority
+|rowspan=4 {{Party shading/National Republican}} |[[John Quincy Adams]]/<br>[[Richard Rush]] {{small|(NR)}} {{Nay}}
+|- style="height:2em"
+!1829
+|rowspan=3 {{Party shading/Democratic}} |[[Peter Dumont Vroom]] {{small|(D)}}
+|{{Party shading/National Republican}} |9NR, 5J
+|{{Party shading/National Republican}} |25NR, 18J
+|rowspan=4 {{Party shading/Jacksonian}} |[[Mahlon Dickerson]] {{small|(J)}}
+|rowspan=7 {{Party shading/National Republican}} |[[Theodore Frelinghuysen]] {{small|(NR)}}
+|rowspan=4 {{Party shading/National Republican}} |6NR
+|- style="height:2em"
+!1830
+|{{Party shading/Jacksonian}} |8J, 6NR
+|{{Party shading/Jacksonian}} |28J, 15NR
+|- style="height:2em"
+!1831
+|{{Party shading/Jacksonian}} |10J, 4NR
+|{{Party shading/Jacksonian}} |37J, 13NR
+|- style="height:2em"
+!1832
+|{{Party shading/Whig}} |[[Samuel L. Southard]] {{small|(W)}}
+|{{Party shading/National Republican}} |7NR, 7J{{efn |A Whig, [[Elias P. Seeley]], was elected as Vice President of the Legislative Council.}}
+|{{Party shading/Jacksonian}} |26J, 24NR
+|rowspan=5 {{Party shading/Democratic}} |[[Andrew Jackson]]/<br>[[Martin Van Buren]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1833
+|{{Party shading/Whig}} |[[Elias P. Seeley]] {{small|(W)}}
+|rowspan=2 {{Party shading/National Republican}} |8NR, 6J
+|rowspan=2 {{Party shading/National Republican}} |33NR, 17J
+|rowspan=5 {{Party shading/National Republican}} |[[Samuel L. Southard]] {{small|(NR)}}
+|rowspan=3 {{Party shading/Jacksonian}} |6J
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Peter Dumont Vroom]] {{small|(D)}}
+|- style="height:2em"
+!1834
+|{{Party shading/Democratic}} |13D, 1NR
+|{{Party shading/Democratic}} |41D, 9NR
+|- style="height:2em"
+!1835
+|{{Party shading/Democratic}} |8D, 6W
+|{{Party shading/Democratic}} |28D, 21W, 1?
+|rowspan=2 {{Party shading/Jacksonian}} |[[Garret D. Wall]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |5J, 1W
+|- style="height:2em"
+!1836
+|{{Party shading/Democratic}} |[[Philemon Dickerson]] {{small|(D)}}
+|{{Party shading/Democratic}} |9D, 5W
+|{{Party shading/Democratic}} |34D, 16W
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison]]/<br>[[Francis Granger]] {{small|(W)}} {{Nay}}
+|- style="height:2em"
+!1837
+|rowspan=6 {{Party shading/Whig}} |[[William Pennington]] {{small|(W)}}
+|{{Party shading/Democratic}} |7D, 7W{{efn |A Democrat, Jeptha B. Munn, was elected as Vice President of the Legislative Council with the absence of a Whig member of the Council.<ref>{{cite book |editor1-last=Niles |editor1-first=Hezekiah |title=Niles' Weekly Register |date=1837 |page=129 |url=https://books.google.com/books?id=8bIRAAAAYAAJ |language=en}}</ref>}}
+|{{Party shading/Democratic}} |31D, 19W
+|rowspan=4 {{Party shading/Whig}} |[[Samuel L. Southard]] {{small|(W)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Garret D. Wall]] {{small|(D)}}
+|rowspan=2 {{Party shading/Whig}} |6W
+|- style="height:2em"
+!1838
+|{{Party shading/Whig}} |10W, 6D
+|{{Party shading/Whig}} |35W, 18D
+|- style="height:2em"
+!1839
+|rowspan=2 {{Party shading/Whig}} |10W, 7D
+|rowspan=2 {{Party shading/Whig}} |33W, 20D
+|rowspan=2 {{Party shading/Democratic}} |5D, 1W
+|- style="height:2em"
+!1840
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison]]/<br>[[John Tyler]] {{small|(W)}} {{Aye}}
+|- style="height:2em"
+!1841
+|{{Party shading/Whig}} |13W, 5D
+|{{Party shading/Whig}} |41W, 12D
+|rowspan=10 {{Party shading/Whig}} |[[William L. Dayton]] {{small|(W)}}
+|rowspan=12 {{Party shading/Whig}} |[[Jacob W. Miller]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |6W
+|- style="height:2em"
+!1842
+|{{Party shading/Tie}} |9D, 9W{{efn |A Democrat, John Cassedy, was elected as Vice President of the Legislative Council.}}
+|{{Party shading/Whig}} |34W, 24D
+|- style="height:2em"
+!1843
+|rowspan=2 {{Party shading/Democratic}} |[[Daniel Haines]] {{small|(D)}}
+|{{Party shading/Whig}} |10W, 8D
+|{{Party shading/Whig}} |32W, 26D
+|rowspan=2 {{Party shading/Democratic}} |4D, 1W
+|- style="height:2em"
+!1844
+|{{Party shading/Democratic}} |12D, 6W
+|{{Party shading/Democratic}} |35D, 23W
+|rowspan=4 {{Party shading/Whig}} |[[Henry Clay]]/<br>[[Theodore Frelinghuysen]] {{small|(W)}} {{Nay}}
+|- style="height:2em"
+!1845
+|rowspan=3 {{Party shading/Whig}} |[[Charles C. Stratton]] {{small|(W)}}
+|{{Party shading/Whig}} |13W, 6D
+|{{Party shading/Whig}} |40W, 18D
+|rowspan=1 {{Party shading/Whig}} |4W, 1D
+|- style="height:2em"
+!1846
+|rowspan=4 {{Party shading/Whig}} |12W, 7D
+|{{Party shading/Whig}} |30W, 27D, 1A
+|rowspan=1 {{Party shading/Whig}} |3W, 2D
+|- style="height:2em"
+!1847
+|{{Party shading/Whig}} |40W, 18D
+|rowspan=4 {{Party shading/Whig}} |4W, 1D
+|- style="height:2em"
+!1848
+|rowspan=3 {{Party shading/Democratic}} |[[Daniel Haines]] {{small|(D)}}
+|{{Party shading/Whig}} |38W, 20D
+|rowspan=4 {{Party shading/Whig}} |[[Zachary Taylor]]/<br>[[Millard Fillmore]] {{small|(W)}} {{Aye}}
+|- style="height:2em"
+!1849
+|{{Party shading/Whig}} |39W, 19D
+|- style="height:2em"
+!1850
+|{{Party shading/Whig}} |10W, 9D
+|{{Party shading/Whig}} |33W, 25D
+|- style="height:2em"
+!1851
+|rowspan=3 {{Party shading/Democratic}} |[[George Franklin Fort|George F. Fort]] {{small|(D)}}
+|{{Party shading/Tie}} |10D, 10W{{efn |A Democrat, Silas D. Canfield, was elected as President of the Senate.}}
+|{{Party shading/Democratic}} |30D, 28W
+|rowspan=2 {{Party shading/Democratic}} |[[Robert F. Stockton]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |4D, 1W
+|- style="height:2em"
+!1852
+|rowspan=3 {{Party shading/Democratic}} |13D, 7W
+|{{Party shading/Democratic}} |45D, 15W
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce]]/<br>[[William R. King]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1853
+|{{Party shading/Democratic}} |39D, 21W
+|rowspan=8 {{Party shading/Democratic}} |[[John Renshaw Thomson]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[William Wright (New Jersey politician)|William Wright]] {{small|(D)}}
+|- style="height:2em"
+!1854
+|rowspan=3 {{Party shading/Democratic}} |[[Rodman M. Price]] {{small|(D)}}
+|{{Party shading/Democratic}} |40D, 20W
+|- style="height:2em"
+!1855
+|{{Party shading/Democratic}} |10D, 9W, 1KN{{efn |A Democrat, [[William Cowper Alexander]], was elected to be Senate President.}}
+|{{Party shading/Coalition}} |29D, 25W, 6KN{{efn |A coalition of Whigs and Know-Nothings elected a Whig, William Parry, as Speaker, and organized the chamber.}}
+|rowspan=2 {{Party shading/Opposition}} |4O, 1D
+|- style="height:2em"
+!1856
+|{{Party shading/Democratic}} |11D, 5W, 4KN
+|{{Party shading/Democratic}} |31D, 15KN, 14W
+|rowspan=4 {{Party shading/Democratic}} |[[James Buchanan]]/<br>[[John C. Breckinridge]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1857
+|rowspan=3 {{Party shading/Republican}} |[[William A. Newell]] {{small|(R)}}
+|{{Party shading/Democratic}} |11D, 6O, 3KN
+|{{Party shading/Democratic}} |38D, 22R
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!1858
+|{{Party shading/Democratic}} |15D, 6O
+|{{Party shading/Democratic}} |35D, 25R
+|- style="height:2em"
+!1859
+|{{Party shading/Democratic}} |13D, 8O
+|{{Party shading/Opposition}} |36O, 24D
+|rowspan=6 {{Party shading/Republican}} |[[John C. Ten Eyck]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |3R, 2D
+|- style="height:2em"
+!1860
+|rowspan=3 {{Party shading/Republican}} |[[Charles Smith Olden]] {{small|(R)}}
+|{{Party shading/Democratic}} |12D, 8R, 1KN
+|{{Party shading/Democratic}} |30D, 28R, 2KN{{efn |A Democrat, [[Austin H. Patterson]], was elected Speaker.}}
+|rowspan=4 {{Party shading/Republican}} |4 – [[Abraham Lincoln]]/<br>[[Hannibal Hamlin]] {{small|(R)}} {{Aye}}<br>3 – [[Stephen A. Douglas]]/<br>[[Herschel V. Johnson]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1861
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Democratic}} |32D, 28R
+|rowspan=1 {{Party shading/Republican}} |[[Richard Stockton Field]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!1862
+|{{Party shading/Democratic}} |10D, 10R, 1I{{efn |A War Democrat, [[Joseph T. Crowell]], was elected President of the Senate with Republican support.<ref>{{cite book |last1=Gillette |first1=William |title=Jersey blue : Civil War politics in New Jersey, 1854-1865 |date=1995 |publisher=Rutgers University Press |location=New Brunswick, N.J. |isbn=9780813526942 |page=180 |url=https://books.google.com/books?id=7i70YYRzeKIC&pg=PA180}}</ref>}}
+|{{Party shading/Democratic}} |36D, 24R
+|rowspan=1 {{Party shading/Democratic}} |[[James Walter Wall]] {{small|(D)}}
+|- style="height:2em"
+!1863
+|rowspan=3 {{Party shading/Democratic}} |[[Joel Parker (politician)|Joel Parker]] {{small|(D)}}
+|{{Party shading/Democratic}} |13D, 8R
+|{{Party shading/Democratic}} |45D, 15R
+|rowspan=4 {{Party shading/Democratic}} |[[William Wright (New Jersey politician)|William Wright]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!1864
+|{{Party shading/Democratic}} |14D, 7R
+|{{Party shading/Democratic}} |40D, 20R
+|rowspan=4 {{Party shading/Democratic}} |[[George B. McClellan]]/<br>[[George H. Pendleton]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1865
+|{{Party shading/Democratic}} |13D, 8R
+|{{Party shading/Tie}} |30D, 30R{{efn |After some days of discussion, a Democrat, [[Joseph T. Crowell]], was elected Speaker.<ref>{{cite book |title=Manual of the Legislature of New Jersey |date=1910 |publisher=J.A. Fitzgerald |page=412 |url=https://books.google.com/books?id=nC9SAAAAYAAJ |language=en}}</ref>}}
+|rowspan=2 {{Party shading/Democratic}} |[[John P. Stockton]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!1866
+|rowspan=3 {{Party shading/Republican}} |[[Marcus Lawrence Ward]] {{small|(R)}}
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Republican}} |36R, 24D
+|- style="height:2em"
+!1867
+|{{Party shading/Republican}} |13R, 8D
+|{{Party shading/Republican}} |33R, 27D
+|rowspan=2 {{Party shading/Republican}} |[[Frederick T. Frelinghuysen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Alexander G. Cattell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |3R, 2D
+|- style="height:2em"
+!1868
+|{{Party shading/Democratic}} |11D, 10R
+|{{Party shading/Democratic}} |46D, 14R
+|rowspan=4 {{Party shading/Democratic}} |[[Horatio Seymour]]/<br>[[Francis Preston Blair Jr.]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1869
+|rowspan=3 {{Party shading/Democratic}} |[[Theodore F. Randolph]] {{small|(D)}}
+|{{Party shading/Democratic}} |12D, 9R
+|{{Party shading/Democratic}} |32D, 28R
+|rowspan=6 {{Party shading/Democratic}} |[[John P. Stockton]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!1870
+|{{Party shading/Democratic}} |13D, 8R
+|{{Party shading/Democratic}} |34D, 26R
+|- style="height:2em"
+!1871
+|rowspan=2 {{Party shading/Republican}} |12R, 9D
+|{{Party shading/Republican}} |34R, 26D
+|rowspan=6 {{Party shading/Republican}} |[[Frederick T. Frelinghuysen]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |3R, 2D
+|- style="height:2em"
+!1872
+|rowspan=3 {{Party shading/Democratic}} |[[Joel Parker (politician)|Joel Parker]] {{small|(D)}}
+|{{Party shading/Republican}} |36R, 24D
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant]]/<br>[[Henry Wilson]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Republican}} |14R, 7D
+|{{Party shading/Republican}} |44R, 16D
+|rowspan=2 {{Party shading/Republican}} |6R, 1D
+|- style="height:2em"
+!1874
+|{{Party shading/Republican}} |32R, 28D
+|- style="height:2em"
+!1875
+|rowspan=3 {{Party shading/Democratic}} |[[Joseph D. Bedle]] {{small|(D)}}
+|{{Party shading/Republican}} |13R, 8D
+|{{Party shading/Democratic}} |41D, 19R
+|rowspan=6 {{Party shading/Democratic}} |[[Theodore F. Randolph]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |5D, 2R
+|- style="height:2em"
+!1876
+|{{Party shading/Republican}} |12R, 9D
+|{{Party shading/Republican}} |37R, 23D
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel J. Tilden]]/<br>[[Thomas A. Hendricks]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1877
+|{{Party shading/Democratic}} |11D, 10R
+|{{Party shading/Tie}} |30D, 30R{{efn |After several days of ballots, a Democrat, Rudolph Rabe, was elected Speaker of the Assembly.<ref>{{cite book |last1=Mowbray |first1=Jay Henry |title=Representative Men of New York: A Record of Their Achievements |date=1898 |publisher=New York Press |page=146 |url=https://books.google.com/books?id=sZU-AAAAYAAJ |language=en}}</ref>}}
+|rowspan=18 {{Party shading/Democratic}} |[[John R. McPherson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 3R
+|- style="height:2em"
+!1878
+|rowspan=3 {{Party shading/Democratic}} |[[George B. McClellan]] {{small|(D)}}
+|{{Party shading/Democratic}} |12D, 9R
+|{{Party shading/Democratic}} |33D, 27R
+|- style="height:2em"
+!1879
+|{{Party shading/Republican}} |11R, 9D, 1I
+|{{Party shading/Republican}} |33R, 27D
+|rowspan=2 {{Party shading/Republican}} |4R, 3D
+|- style="height:2em"
+!1880
+|{{Party shading/Republican}} |12R, 9D
+|{{Party shading/Republican}} |35R, 25D
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock]]/<br>[[William Hayden English]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1881
+|rowspan=3 {{Party shading/Democratic}} |[[George C. Ludlow]] {{small|(D)}}
+|{{Party shading/Republican}} |15R, 5D, 1I
+|{{Party shading/Republican}} |34R, 26D
+|rowspan=6 {{Party shading/Republican}} |[[William J. Sewell]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |4R, 3D
+|- style="height:2em"
+!1882
+|rowspan=3 {{Party shading/Republican}} |12R, 9D
+|rowspan=2 {{Party shading/Democratic}} |35D, 25R
+|- style="height:2em"
+!1883
+|- style="height:2em"
+!1884
+|rowspan=3 {{Party shading/Democratic}} |[[Leon Abbett]] {{small|(D)}}
+|{{Party shading/Democratic}} |34D, 26R
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland]]/<br>[[Thomas A. Hendricks]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1885
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Republican}} |34R, 26D
+|- style="height:2em"
+!1886
+|{{Party shading/Republican}} |13R, 8D
+|{{Party shading/Republican}} |31R, 29D
+|- style="height:2em"
+!1887
+|rowspan=3 {{Party shading/Democratic}} |[[Robert S. Green]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |12R, 9D
+|{{Party shading/Republican}} |32R, 28D
+|rowspan=6 {{Party shading/Democratic}} |[[Rufus Blodgett]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |5R, 2D
+|- style="height:2em"
+!1888
+|{{Party shading/Republican}} |37R, 23D
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland]]/<br>[[Allen G. Thurman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1889
+|{{Party shading/Democratic}} |11D, 10R
+|{{Party shading/Democratic}} |32D, 28R
+|rowspan=2 {{Party shading/Republican}} |4R, 3D
+|- style="height:2em"
+!1890
+|rowspan=3 {{Party shading/Democratic}} |[[Leon Abbett]] {{small|(D)}}
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Democratic}} |37D, 23R
+|- style="height:2em"
+!1891
+|{{Party shading/Democratic}} |14D, 7R
+|{{Party shading/Democratic}} |40D, 20R
+|rowspan=2 {{Party shading/Democratic}} |5D, 2R
+|- style="height:2em"
+!1892
+|rowspan=2 {{Party shading/Democratic}} |16D, 5R
+|{{Party shading/Democratic}} |42D, 18R
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland]]/<br>[[Adlai Stevenson I]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1893
+|rowspan=3 {{Party shading/Democratic}} |[[George Theodore Werts]] {{small|(D)}}
+|{{Party shading/Democratic}} |39D, 21R
+|rowspan=7 {{Party shading/Democratic}} |[[James Smith Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |6D, 2R
+|- style="height:2em"
+!1894
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Republican}} |39R, 21D
+|- style="height:2em"
+!1895
+|{{Party shading/Republican}} |16R, 5D
+|{{Party shading/Republican}} |54R, 6D
+|rowspan=7 {{Party shading/Republican}} |[[William J. Sewell]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |8R
+|- style="height:2em"
+!1896
+|rowspan=2 {{Party shading/Republican}} |[[John W. Griggs]] {{small|(R)}}{{efn |Resigned in order to become [[United States Attorney General]].}}
+|rowspan=2 {{Party shading/Republican}} |18R, 3D
+|{{Party shading/Republican}} |53R, 7D
+|rowspan=5 {{Party shading/Republican}} |[[William McKinley]]/<br>[[Garret Hobart]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1897
+|{{Party shading/Republican}} |56R, 4D
+|- style="height:2em"
+!rowspan=2 |1898
+|{{Party shading/Republican}} |[[Foster McGowan Voorhees]] {{small|(R)}}{{efn |name=acting}}
+|rowspan=4 {{Party shading/Republican}} |14R, 7D
+|rowspan=3 {{Party shading/Republican}} |37R, 23D
+|- style="height:2em"
+|{{Party shading/Republican}} |[[David Ogden Watkins]] {{small|(R)}}{{efn |name=acting}}
+|- style="height:2em"
+!1899
+|rowspan=3 {{Party shading/Republican}} |[[Foster McGowan Voorhees]] {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |[[John Kean (New Jersey politician)|John Kean]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |6R, 2D
+|- style="height:2em"
+!1900
+|{{Party shading/Republican}} |43R, 17D
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley]]/<br>[[Theodore Roosevelt]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Republican}} |17R, 4D
+|{{Party shading/Republican}} |38R, 22D
+|rowspan=6 {{Party shading/Republican}} |[[John F. Dryden]] {{small|(R)}}
+|- style="height:2em"
+!1902
+|rowspan=3 {{Party shading/Republican}} |[[Franklin Murphy (governor)|Franklin Murphy]] {{small|(R)}}
+|{{Party shading/Republican}} |46R, 14D
+|- style="height:2em"
+!1903
+|rowspan=3 {{Party shading/Republican}} |14R, 7D
+|rowspan=2 {{Party shading/Republican}} |38R, 22D
+|rowspan=2 {{Party shading/Republican}} |7R, 3D
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt]]/<br>[[Charles W. Fairbanks]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1905
+|rowspan=3 {{Party shading/Republican}} |[[Edward C. Stokes]] {{small|(R)}}
+|{{Party shading/Republican}} |46R, 14D
+|rowspan=2 {{Party shading/Republican}} |9R, 1D
+|- style="height:2em"
+!1906
+|{{Party shading/Republican}} |17R, 4D
+|{{Party shading/Republican}} |57R, 3D
+|- style="height:2em"
+!1907
+|{{Party shading/Republican}} |15R, 6D
+|{{Party shading/Democratic}} |31D, 29R
+|rowspan=6 {{Party shading/Republican}} |[[Frank O. Briggs]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |6R, 4D
+|- style="height:2em"
+!1908
+|rowspan=3 {{Party shading/Republican}} |[[John Franklin Fort]] {{small|(R)}}
+|{{Party shading/Republican}} |14R, 7D
+|{{Party shading/Republican}} |40R, 20D
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft]]/<br>[[James S. Sherman]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1909
+|{{Party shading/Republican}} |13R, 8D
+|{{Party shading/Republican}} |45R, 15D
+|rowspan=2 {{Party shading/Republican}} |7R, 3D
+|- style="height:2em"
+!1910
+|{{Party shading/Republican}} |15R, 6D
+|{{Party shading/Republican}} |41R, 19D
+|- style="height:2em"
+!1911
+|rowspan=2 {{Party shading/Democratic}} |[[Woodrow Wilson]] {{small|(D)}}{{efn |Resigned in order to become [[President of the United States]].}}
+|{{Party shading/Republican}} |12R, 9D
+|{{Party shading/Democratic}} |42D, 18R
+|rowspan=7 {{Party shading/Democratic}} |[[James E. Martine]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |7D, 3R
+|- style="height:2em"
+!1912
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Republican}} |37R, 23D
+|rowspan=5 {{Party shading/Democratic}} |[[Woodrow Wilson]]/<br>[[Thomas R. Marshall]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1913
+|{{Party shading/Democratic}} |[[James Fairman Fielder]] {{small|(D)}}{{efn |name=acting}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 9R
+|rowspan=2 {{Party shading/Democratic}} |52D, 8R
+|rowspan=5 {{Party shading/Democratic}} |[[William Hughes (senator)|William Hughes]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |11D, 1R
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Leon Rutherford Taylor]] {{small|(D)}}{{efn |name=acting}}
+|- style="height:2em"
+!1914
+|rowspan=3 {{Party shading/Democratic}} |[[James Fairman Fielder]] {{small|(D)}}
+|{{Party shading/Democratic}} |11D, 10R
+|{{Party shading/Democratic}} |37D, 23R
+|- style="height:2em"
+!1915
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Republican}} |38R, 22D
+|rowspan=2 {{Party shading/Republican}} |8R, 4D
+|- style="height:2em"
+!1916
+|{{Party shading/Republican}} |13R, 8D
+|{{Party shading/Republican}} |40R, 20D
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes]]/<br>[[Charles W. Fairbanks]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1917
+|rowspan=2 {{Party shading/Republican}} |[[Walter E. Edge]]{{efn |name=ressenate|Resigned in order to become a [[United States Senate|United States senator]].}}
+|rowspan=6 {{Party shading/Republican}} |15R, 6D
+|{{Party shading/Republican}} |44R, 16D
+|rowspan=7 {{Party shading/Republican}} |[[Joseph S. Frelinghuysen Sr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[David Baird Sr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 3D
+|- style="height:2em"
+!1918
+|{{Party shading/Republican}} |46R, 17D
+|- style="height:2em"
+!1919
+|{{Party shading/Republican}} |[[William Nelson Runyon]] {{small|(R)}}{{efn |name=acting}}
+|{{Party shading/Tie}} |30R, 30D{{efn |With the split chamber between the parties, a Republican, [[Arthur N. Pierson]], was selected as Speaker after his name was drawn from a hat.<ref>{{cite news |title=ARTHUR PIERSON, EX-LEGISLATOR, 89; Former Jersey State Senator and Assemblyman Dies-- an Expert on Finance |url=https://www.nytimes.com/1957/03/09/archives/arthur-pierson-exlegislator-89-former-jersey-state-senator-and.html |work=The New York Times |date=1957-03-09}}</ref>}}
+|rowspan=11 {{Party shading/Republican}} |[[Walter E. Edge]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |8R, 4D
+|- style="height:2em"
+!rowspan=2 |1920
+|{{Party shading/Republican}} |[[Clarence E. Case]] {{small|(R)}}{{efn |name=acting}}
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|rowspan=5 {{Party shading/Republican}} |[[Warren G. Harding]]/<br>[[Calvin Coolidge]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Edward I. Edwards]] {{small|(D)}}
+|- style="height:2em"
+!1921
+|{{Party shading/Republican}} |59R, 1D
+|rowspan=2 {{Party shading/Republican}} |11R, 1D
+|- style="height:2em"
+!1922
+|{{Party shading/Republican}} |16R, 5D
+|{{Party shading/Republican}} |45R, 15D
+|- style="height:2em"
+!1923
+|rowspan=3 {{Party shading/Democratic}} |[[George Sebastian Silzer]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 4D
+|{{Party shading/Republican}} |44R, 16D
+|rowspan=6 {{Party shading/Democratic}} |[[Edward I. Edwards]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |6R, 6D
+|- style="height:2em"
+!1924
+|{{Party shading/Republican}} |42R, 18D
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge]]/<br>[[Charles G. Dawes]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Republican}} |18R, 3D
+|{{Party shading/Republican}} |47R, 13D
+|rowspan=2 {{Party shading/Republican}} |10R, 2D
+|- style="height:2em"
+!1926
+|rowspan=3 {{Party shading/Democratic}} |[[A. Harry Moore]] {{small|(D)}}
+|{{Party shading/Republican}} |46R, 14D
+|- style="height:2em"
+!1927
+|{{Party shading/Republican}} |17R, 4D
+|{{Party shading/Republican}} |47R, 13D
+|rowspan=2 {{Party shading/Republican}} |9R, 3D
+|- style="height:2em"
+!1928
+|rowspan=2 {{Party shading/Republican}} |18R, 3D
+|{{Party shading/Republican}} |46R, 14D
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover]]/<br>[[Charles Curtis]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1929
+|rowspan=3 {{Party shading/Republican}} |[[Morgan Foster Larson]] {{small|(R)}}
+|{{Party shading/Republican}} |48R, 12D
+|rowspan=6 {{Party shading/Republican}} |[[Hamilton F. Kean]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[David Baird Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 2D
+|- style="height:2em"
+!1930
+|rowspan=2 {{Party shading/Republican}} |17R, 4D
+|rowspan=2 {{Party shading/Republican}} |46R, 14D
+|- style="height:2em"
+!1931
+|rowspan=2 {{Party shading/Republican}} |[[Dwight Morrow]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 4D
+|- style="height:2em"
+!1932
+|rowspan=3 {{Party shading/Democratic}} |[[A. Harry Moore]] {{small|(D)}}{{efn |name=ressenate}}
+|rowspan=6 {{Party shading/Republican}} |15R, 6D
+|{{Party shading/Democratic}} |34D, 26R
+|rowspan=10 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[John Nance Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1933
+|{{Party shading/Republican}} |38R, 22D
+|rowspan=6 {{Party shading/Republican}} |[[W. Warren Barbour]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |10R, 4D
+|- style="height:2em"
+!1934
+|{{Party shading/Republican}} |33R, 27D
+|- style="height:2em"
+!rowspan=3 |1935
+|{{Party shading/Republican}} |[[Clifford Ross Powell]] {{small|(R)}}{{efn |name=acting}}
+|rowspan=3 {{Party shading/Republican}} |34R, 26D
+|rowspan=4 {{Party shading/Democratic}} |[[A. Harry Moore]] {{small|(D)}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Horace Griggs Prall]] {{small|(R)}}{{efn |name=acting}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Republican}} |[[Harold G. Hoffman]] {{small|(R)}}
+|- style="height:2em"
+!1936
+|{{Party shading/Republican}} |13R, 8D
+|{{Party shading/Republican}} |42R, 18D
+|- style="height:2em"
+!1937
+|{{Party shading/Republican}} |11R, 10D
+|{{Party shading/Democratic}} |39D, 21R
+|rowspan=2 {{Party shading/Democratic}} |[[John Milton (New Jersey politician)|John Milton]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[William H. Smathers]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |7R, 7D
+|- style="height:2em"
+!1938
+|rowspan=3 {{Party shading/Democratic}} |[[A. Harry Moore]] {{small|(D)}}
+|{{Party shading/Republican}} |13R, 8D
+|{{Party shading/Republican}} |41R, 19D
+|- style="height:2em"
+!1939
+|rowspan=2 {{Party shading/Republican}} |15R, 6D
+|rowspan=2 {{Party shading/Republican}} |45R, 15D
+|rowspan=4 {{Party shading/Republican}} |[[W. Warren Barbour]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 3D
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[Henry A. Wallace]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1941
+|rowspan=3 {{Party shading/Democratic}} |[[Charles Edison]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 4D
+|rowspan=4 {{Party shading/Republican}} |44R, 16D
+|rowspan=2 {{Party shading/Republican}} |10R, 4D
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=2 {{Party shading/Republican}} |18R, 3D
+|rowspan=2 {{Party shading/Democratic}} |[[Arthur Walsh (U.S. senator)|Arthur Walsh]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |[[Albert W. Hawkes]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 3D
+|- style="height:2em"
+!1944
+|rowspan=3 {{Party shading/Republican}} |[[Walter E. Edge]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[Harry S. Truman]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1945
+|rowspan=2 {{Party shading/Republican}} |17R, 4D
+|{{Party shading/Republican}} |42R, 18D
+|rowspan=14 {{Party shading/Republican}} |[[H. Alexander Smith]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |12R, 2D
+|- style="height:2em"
+!1946
+|{{Party shading/Republican}} |41R, 19D
+|- style="height:2em"
+!1947
+|rowspan=7 {{Party shading/Republican}} |[[Alfred E. Driscoll]] {{small|(R)}}
+|{{Party shading/Republican}} |15R, 6D
+|{{Party shading/Republican}} |48R, 12D
+|- style="height:2em"
+!1948
+|{{Party shading/Republican}} |17R, 4D
+|{{Party shading/Republican}} |45R, 15D
+|rowspan=4 {{Party shading/Republican}} |[[Thomas E. Dewey]]/<br>[[Earl Warren]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1949
+|{{Party shading/Republican}} |15R, 6D
+|{{Party shading/Republican}} |44R, 16D
+|rowspan=6 {{Party shading/Republican}} |[[Robert C. Hendrickson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |9R, 5D
+|- style="height:2em"
+!1950
+|rowspan=2 {{Party shading/Republican}} |14R, 7D
+|rowspan=2 {{Party shading/Republican}} |38R, 22D
+|- style="height:2em"
+!1951
+|- style="height:2em"
+!1952
+|rowspan=2 {{Party shading/Republican}} |16R, 5D
+|rowspan=2 {{Party shading/Republican}} |43R, 17D
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower]]/<br>[[Richard Nixon]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1953
+|rowspan=4 {{Party shading/Republican}} |8R, 6D
+|- style="height:2em"
+!1954
+|rowspan=8 {{Party shading/Democratic}} |[[Robert B. Meyner]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 4D
+|rowspan=4 {{Party shading/Republican}} |40R, 20D
+|- style="height:2em"
+!1955
+|rowspan=24 {{Party shading/Republican}} |[[Clifford P. Case]] {{small|(R)}}
+|- style="height:2em"
+!1956
+|rowspan=2 {{Party shading/Republican}} |14R, 7D
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Republican}} |10R, 4D
+|- style="height:2em"
+!1958
+|rowspan=2 {{Party shading/Republican}} |13R, 8D
+|rowspan=2 {{Party shading/Democratic}} |42D, 18R
+|- style="height:2em"
+!1959
+|rowspan=24 {{Party shading/Democratic}} |[[Harrison A. Williams]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 5D
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Republican}} |11R, 10D
+|rowspan=2 {{Party shading/Democratic}} |34D, 26R
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy]]/<br>[[Lyndon B. Johnson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1961
+|rowspan=2 {{Party shading/Republican}} |8R, 6D
+|- style="height:2em"
+!1962
+|rowspan=8 {{Party shading/Democratic}} |[[Richard J. Hughes]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |38D, 22R
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Republican}} |8R, 7D
+|- style="height:2em"
+!1964
+|rowspan=2 {{Party shading/Republican}} |15R, 6D
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson]]/<br>[[Hubert Humphrey]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Democratic}} |11D, 4R
+|- style="height:2em"
+!1966
+|rowspan=2 {{Party shading/Democratic}} |19D, 10R
+|rowspan=2 {{Party shading/Democratic}} |41D, 19R
+|- style="height:2em"
+!1967
+|rowspan=6 {{Party shading/Democratic}} |9D, 6R
+|- style="height:2em"
+!1968
+|rowspan=4 {{Party shading/Republican}} |31R, 9D
+|rowspan=2 {{Party shading/Republican}} |58R, 22D
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon]]/<br>[[Spiro Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1969
+|- style="height:2em"
+!1970
+|rowspan=4 {{Party shading/Republican}} |[[William T. Cahill]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |59R, 21D
+|- style="height:2em"
+!1971
+|- style="height:2em"
+!1972
+|rowspan=2 {{Party shading/Republican}} |24R, 16D
+|rowspan=2 {{Party shading/Republican}} |40D, 39R, 1I{{efn |Although the Democrats were the largest party, four Democrats led by [[David Friedland]] cut a deal to elect Republican [[Thomas Kean]] Speaker in exchange for leading various House committees and becoming a part of their caucus.<ref>{{cite web |title=The amazing story of David Friedland |url=https://observer.com/2009/02/the-amazing-story-of-david-friedland/ |website=Observer |date=2009-02-26}}</ref>}}
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Democratic}} |8D, 7R
+|- style="height:2em"
+!1974
+|rowspan=8 {{Party shading/Democratic}} |[[Brendan Byrne]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |29D, 10R, 1I
+|rowspan=2 {{Party shading/Democratic}} |66D, 14R
+|- style="height:2em"
+!1975
+|rowspan=2 {{Party shading/Democratic}} |12D, 3R
+|- style="height:2em"
+!1976
+|rowspan=2 {{Party shading/Democratic}} |49D, 31R
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford]]/<br>[[Bob Dole]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Democratic}} |11D, 4R
+|- style="height:2em"
+!1978
+|rowspan=2 {{Party shading/Democratic}} |27D, 13R
+|rowspan=2 {{Party shading/Democratic}} |54D, 26R
+|- style="height:2em"
+!1979
+|rowspan=19 {{Party shading/Democratic}} |[[Bill Bradley]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |10D, 5R
+|- style="height:2em"
+!1980
+|rowspan=2 {{Party shading/Democratic}} |26D, 14R
+|rowspan=2 {{Party shading/Democratic}} |44D, 36R
+|rowspan=9 {{Party shading/Republican}} |[[Ronald Reagan]]/<br>[[George H. W. Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1981
+|rowspan=3 {{Party shading/Democratic}} |8D, 7R
+|- style="height:2em"
+!rowspan=2 |1982
+|rowspan=9 {{Party shading/Republican}} |[[Thomas Kean]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |22D, 18R
+|rowspan=3 {{Party shading/Democratic}} |43D, 37R
+|- style="height:2em"
+|rowspan=1 {{Party shading/Republican}} |[[Nicholas F. Brady]] {{small|(R)}}
+|- style="height:2em"
+!1983
+|rowspan=18 {{Party shading/Democratic}} |[[Frank Lautenberg]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |9D, 5R
+|- style="height:2em"
+!1984
+|rowspan=4 {{Party shading/Democratic}} |23D, 17R
+|rowspan=2 {{Party shading/Democratic}} |44D, 36R
+|- style="height:2em"
+!1985
+|rowspan=8 {{Party shading/Democratic}} |8D, 6R
+|- style="height:2em"
+!1986
+|rowspan=2 {{Party shading/Republican}} |50R, 30D
+|- style="height:2em"
+!1987
+|- style="height:2em"
+!1988
+|rowspan=2 {{Party shading/Democratic}} |24D, 16R
+|rowspan=2 {{Party shading/Republican}} |42R, 38D
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush]]/<br>[[Dan Quayle]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1989
+|- style="height:2em"
+!1990
+|rowspan=4 {{Party shading/Democratic}} |[[James Florio]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 17R
+|rowspan=2 {{Party shading/Democratic}} |42D, 38R
+|- style="height:2em"
+!1991
+|- style="height:2em"
+!1992
+|rowspan=2 {{Party shading/Republican}} |27R, 13D
+|rowspan=2 {{Party shading/Republican}} |58R, 22D
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton]]/<br>[[Al Gore]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Democratic}} |7D, 6R
+|- style="height:2em"
+!1994
+|rowspan=8 {{Party shading/Republican}} |[[Christine Todd Whitman]] {{small|(R)}}{{efn |Resigned to become [[Administrator of the Environmental Protection Agency]].}}
+|rowspan=9 {{Party shading/Republican}} |24R, 16D
+|rowspan=2 {{Party shading/Republican}} |53R, 27D
+|- style="height:2em"
+!1995
+|rowspan=2 {{Party shading/Republican}} |8R, 5D
+|- style="height:2em"
+!1996
+|rowspan=2 {{Party shading/Republican}} |50R, 30D
+|- style="height:2em"
+!1997
+|rowspan=8 {{Party shading/Democratic}} |[[Robert Torricelli]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |7R, 6D
+|- style="height:2em"
+!1998
+|rowspan=2 {{Party shading/Republican}} |48R, 32D
+|- style="height:2em"
+!1999
+|rowspan=10 {{Party shading/Democratic}} |7D, 6R
+|- style="height:2em"
+!2000
+|rowspan=3 {{Party shading/Republican}} |45R, 35D
+|rowspan=6 {{Party shading/Democratic}} |[[Al Gore]]/<br>[[Joe Lieberman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!rowspan=2 |2001
+|rowspan=8 {{Party shading/Democratic}} |[[Jon Corzine]] {{small|(D)}}{{efn |Resigned after election as governor.}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Donald DiFrancesco]] {{small|(R)}}{{efn |name=senpres|State Senate president who held the title of acting governor.}}{{efn |name=retro}}
+|- style="height:2em"
+!rowspan=2 |2002
+|{{Party shading/Tie}} |Various{{efn |From January 8 to January 15, 2002, four men served as Acting Governor. Upon the resignation of Acting Gov. [[Donald DiFrancesco]] {{small|(R)}} and before the swearing in of the General Assembly, Attorney General [[John Farmer Jr.]] {{small|(R)}} served as Acting Governor for approximately 90 minutes. Upon the swearing of the General Assembly, [[Robert E. Littell]] {{small|(R)}}, the longest-serving member of the State Senate, assumed the title of President of the Senate (and therefore Acting Governor) for just a few minutes before swearing in the Co-Presidents of the New Jersey Senate, [[John O. Bennett]] {{small|(R)}} and [[Richard Codey]] {{small|(D)}}, who agreed to split the remaining time in Todd Whitman's term evenly, each serving as Acting Governor for three and a half days.}}
+|rowspan=3 {{Party shading/Tie}} |20D, 20R{{efn |A power-sharing agreement was negotiated, with [[John O. Bennett]] and [[Richard Codey]] running the chamber as co-Presidents. Each committee also had split party control.}}
+|rowspan=3 {{Party shading/Democratic}} |44D, 36R
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Jim McGreevey]] {{small|(D)}}{{efn |Resigned in August 2004, effective November 15, 2004.}}
+|- style="height:2em"
+!2003
+|rowspan=9 {{Party shading/Democratic}} |[[Frank Lautenberg]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |2004
+|rowspan=6 {{Party shading/Democratic}} |22D, 18R
+|rowspan=3 {{Party shading/Democratic}} |47D, 33R
+|rowspan=6 {{Party shading/Democratic}} |[[John Kerry]]/<br>[[John Edwards]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Richard Codey]] {{small|(D)}}{{efn |Became acting governor on November 15, 2004, following resignation of McGreevey.}}{{efn |name=retro|Per legislation signed by Codey on January 10, 2006, any acting Governor who serves for at least 6 months would officially have the title "governor." This law applied retroactively to DiFrancesco as well.}}
+|- style="height:2em"
+!2005
+|- style="height:2em"
+!rowspan=2 |2006
+|rowspan=5 {{Party shading/Democratic}} |[[Jon Corzine]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |49D, 31R
+|rowspan=5 {{Party shading/Democratic}} |[[Bob Menendez]] {{small|(D)}}{{efn |name=app|Appointed to fill a vacancy.}}
+|{{Party shading/Tie}} |6D, 6R
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |7D, 6R
+|- style="height:2em"
+!2007
+|- style="height:2em"
+!2008
+|rowspan=2 {{Party shading/Democratic}} |23D, 17R
+|rowspan=2 {{Party shading/Democratic}} |48D, 32R
+|rowspan=2 {{Party shading/Democratic}} |[[Barack Obama]]/<br>[[Joe Biden]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2009
+|{{Party shading/Democratic}} |8D, 5R
+|}
+
+==2010–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=2 |Executive offices
+!colspan=2 |[[New Jersey Legislature|State Legislature]]
+!colspan=3 |[[New Jersey's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of New Jersey|Governor]]
+!class=unsortable |[[Lieutenant Governor of New Jersey|Lt. Governor]]{{efn |Article V, Section I, paragraph 10 as amended requires the Lieutenant Governor to be appointed as head of a cabinet-level department or administrative agency (not [[Attorney General of New Jersey|Attorney General]]).}}
+!class=unsortable |[[New Jersey Senate|Senate]]
+!class=unsortable |[[New Jersey General Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from New Jersey|Senator (Class I)]]
+!class=unsortable |[[List of United States senators from New Jersey|Senator (Class II)]]
+!class=unsortable |[[List of United States representatives from New Jersey|House]]
+|- style="height:2em"
+!2010
+|rowspan=10 {{Party shading/Republican}} |[[Chris Christie]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Kim Guadagno]] {{small|(R)}}{{efn |name=LGsos|Also appointed as [[Secretary of State of New Jersey]].}}
+|{{Party shading/Democratic}} |23D, 17R
+|rowspan=2 {{Party shading/Democratic}} |47D, 33R
+|rowspan=19 {{Party shading/Democratic}} |[[Bob Menendez]] {{small|(D)}}{{efn |Resigned following his conviction in a federal corruption trial.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Frank Lautenberg]] {{small|(D)}}{{efn |name=died}}
+|{{Party shading/Democratic}} |8D, 5R
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama]]/<br>[[Joe Biden]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2011
+|rowspan=9 {{Party shading/Democratic}} |24D, 16R{{efn |Appointed State Senator [[Tom Goodwin (New Jersey politician)|Tom Goodwin]] {{small|(R)}} was defeated by Assemblywoman [[Linda R. Greenstein]] {{small|(D)}} in a special election.}}
+|rowspan=2 {{Party shading/Democratic}} |7D, 6R
+|- style="height:2em"
+!2012
+|rowspan=6 {{Party shading/Democratic}} |48D, 32R
+|- style="height:2em"
+!rowspan=3 |2013
+|rowspan=3 {{Party shading/Tie}} |6D, 6R
+|- style="height:2em"
+|{{party shading/Republican}} |[[Jeffrey Chiesa]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+|rowspan=18 {{Party shading/Democratic/current}} |[[Cory Booker]] {{small|(D)}}
+|- style="height:2em"
+!2014
+|{{party shading/Republican}} |6R, 5D{{efn |Representative [[Rob Andrews]], Democrat of [[New Jersey's 1st congressional district]], resigned.}}
+|- style="height:2em"
+!2015
+|rowspan=2 {{Party shading/Tie}} |6D, 6R
+|- style="height:2em"
+!2016
+|rowspan=2 {{party shading/Democratic}} |52D, 28R
+|rowspan=5 {{Party shading/Democratic}} |[[Hillary Clinton]]/<br>[[Tim Kaine]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2017
+|rowspan=2 {{Party shading/Democratic}} |7D, 5R
+|- style="height:2em"
+!2018
+|rowspan=11 {{Party shading/Democratic}} |[[Phil Murphy]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Sheila Oliver]] {{small|(D)}}{{efn |Also appointed as Commissioner of [[New Jersey Department of Community Affairs]].}}{{efn |name=died|Died in office}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 15R
+|rowspan=3 {{Party shading/Democratic}} |54D, 26R
+|- style="height:2em"
+!rowspan=2 |2019
+|rowspan=2 {{Party shading/Democratic}} |11D, 1R
+|- style="height:2em"
+|{{Party shading/Democratic}} |26D, 14R{{efn |Republican Senator [[Dawn Addiego]] switched to the Democratic Party.}}
+|- style="height:2em"
+!2020
+|rowspan=2 {{Party shading/Democratic}} |25D, 15R
+|rowspan=2 {{Party shading/Democratic}} |52D, 28R
+|rowspan=3 {{Party shading/Democratic}} |10D, 2R{{efn |Democratic Representative [[Jeff Van Drew]] switched to the Republican Party.}}
+|rowspan=5 {{Party shading/Democratic}} |[[Joe Biden]]/<br>[[Kamala Harris]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2021
+|- style="height:2em"
+!2022
+|{{Party shading/Democratic}} |24D, 16R
+|rowspan=3 {{Party shading/Democratic}} |46D, 34R
+|-
+!rowspan=2 |2023
+|rowspan=7 {{Party shading/Democratic/current}} |25D, 15R{{efn |Republican Senator [[Samuel D. Thompson]] switched to the Democratic Party.}}
+|rowspan=7 {{Party shading/Democratic/current}} |9D, 3R
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[Tahesha Way]] {{small|(D)}}{{efn |name=app}}{{efn |name=LGsos}}
+|- style="height:2em"
+!rowspan=2 |2024
+|rowspan=3 {{Party shading/Democratic}} |52D, 28R
+|rowspan=5 {{Party shading/Democratic}} |[[Kamala Harris]]/<br>[[Tim Walz]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[George Helmy]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!2025
+|rowspan=3 {{Party shading/Democratic/current}} |[[Andy Kim]] {{small|(D)}}
+|-
+! rowspan="2" |2026
+! rowspan="2" {{Party shading/Democratic/current}} |[[Mikie Sherrill]] {{small|(D)}}
+|{{Party shading/Democratic/current}} |[[Dale Caldwell]] {{small|(D)}}{{efn |name=LGsos}}{{efn| Resigned.}}
+|! rowspan="2" {{Party shading/Democratic/current}} |57D, 23R
+|-
+|''Vacant''
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[New Jersey#Politics|Politics in New Jersey]]
+*[[Politics of New Jersey]]
+*[[Elections in New Jersey]]
+*[[Law of New Jersey]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.njelections.org/index.html State of New Jersey Department of State, Division of Elections]
+**[https://web.archive.org/web/20090421124734/http://njelections.org/njresults.html Year-by-Year Election Results]
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In New Jersey}}
+[[Category:Politics of New Jersey]]
+[[Category:Government of New Jersey]]
+[[Category:Political party strength in the United States by state|New Jersey]]

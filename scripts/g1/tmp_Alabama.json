@@ -1,0 +1,2451 @@
+[
+ {
+  "table": 1,
+  "name": "William W. Bibb",
+  "term_raw": "September 25, 1817 – November 9, 1819 {{small|(776 days; elected state governor)}}",
+  "dates": [
+   [
+    "1817-09-25",
+    "day"
+   ],
+   [
+    "1819-11-09",
+    "day"
+   ]
+  ],
+  "party_raw": "James Monroe",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "William W. Bibb {{Small|(1781–1820)}}"
+ },
+ {
+  "table": 2,
+  "name": "William W. Bibb",
+  "term_raw": "November 9, 1819 – July 10, 1820 {{small|(245 days; died in office)}}",
+  "dates": [
+   [
+    "1819-11-09",
+    "day"
+   ],
+   [
+    "1820-07-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "1819",
+  "name_cell": "William W. Bibb {{Small|(1781–1820)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas Bibb",
+  "term_raw": "July 10, 1820 – November 9, 1821 {{small|(488 days; retired)}}",
+  "dates": [
+   [
+    "1820-07-10",
+    "day"
+   ],
+   [
+    "1821-11-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from president of the Senate}}",
+  "name_cell": "Thomas Bibb {{Small|(1783–1839)}}"
+ },
+ {
+  "table": 2,
+  "name": "Israel Pickens",
+  "term_raw": "November 9, 1821 – November 25, 1825 {{small|(1478 days; term-limited)}}",
+  "dates": [
+   [
+    "1821-11-09",
+    "day"
+   ],
+   [
+    "1825-11-25",
+    "day"
+   ],
+   [
+    "1478-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "1821",
+  "name_cell": "Israel Pickens {{Small|(1780–1827)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Murphy",
+  "term_raw": "November 25, 1825 – November 21, 1829 {{small|(1458 days; term-limited)}}",
+  "dates": [
+   [
+    "1825-11-25",
+    "day"
+   ],
+   [
+    "1829-11-21",
+    "day"
+   ],
+   [
+    "1458-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Jackson Democrat",
+  "acting_hint": false,
+  "succ_raw": "1825",
+  "name_cell": "John Murphy {{Small|({{Abbr|d.|died in}} 1841)}}"
+ },
+ {
+  "table": 2,
+  "name": "Gabriel Moore",
+  "term_raw": "November 21, 1829 – March 3, 1831 {{small|(468 days; resigned)}}",
+  "dates": [
+   [
+    "1829-11-21",
+    "day"
+   ],
+   [
+    "1831-03-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Jackson Democrat",
+  "acting_hint": false,
+  "succ_raw": "1829",
+  "name_cell": "Gabriel Moore {{Small|(1785–1844)}}"
+ },
+ {
+  "table": 2,
+  "name": "Samuel B. Moore",
+  "term_raw": "March 3, 1831 – November 26, 1831 {{small|(269 days; lost election)}}",
+  "dates": [
+   [
+    "1831-03-03",
+    "day"
+   ],
+   [
+    "1831-11-26",
+    "day"
+   ]
+  ],
+  "party_raw": "Jackson Democrat",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from president of the Senate}}",
+  "name_cell": "Samuel B. Moore {{Small|(1789–1846)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Gayle",
+  "term_raw": "November 26, 1831 – November 21, 1835 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1831-11-26",
+    "day"
+   ],
+   [
+    "1835-11-21",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Jackson Democrat",
+  "acting_hint": false,
+  "succ_raw": "1831",
+  "name_cell": "John Gayle {{Small|(1792–1859)}}"
+ },
+ {
+  "table": 2,
+  "name": "Clement Comer Clay",
+  "term_raw": "November 21, 1835 – July 17, 1837 {{small|(605 days; resigned)}}",
+  "dates": [
+   [
+    "1835-11-21",
+    "day"
+   ],
+   [
+    "1837-07-17",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1835",
+  "name_cell": "Clement Comer Clay {{Small|(1789–1866)}}"
+ },
+ {
+  "table": 2,
+  "name": "Hugh McVay",
+  "term_raw": "July 17, 1837 – November 21, 1837 {{small|(128 days; retired)}}",
+  "dates": [
+   [
+    "1837-07-17",
+    "day"
+   ],
+   [
+    "1837-11-21",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from president of the Senate}}",
+  "name_cell": "Hugh McVay {{Small|(1766–1851)}}"
+ },
+ {
+  "table": 2,
+  "name": "Arthur P. Bagby",
+  "term_raw": "November 21, 1837 – November 22, 1841 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1837-11-21",
+    "day"
+   ],
+   [
+    "1841-11-22",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1837",
+  "name_cell": "Arthur P. Bagby {{Small|(1794–1858)}}"
+ },
+ {
+  "table": 2,
+  "name": "Benjamin Fitzpatrick",
+  "term_raw": "November 22, 1841 – December 9, 1845 {{small|(1479 days; term-limited)}}",
+  "dates": [
+   [
+    "1841-11-22",
+    "day"
+   ],
+   [
+    "1845-12-09",
+    "day"
+   ],
+   [
+    "1479-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1841",
+  "name_cell": "Benjamin Fitzpatrick {{Small|(1802–1869)}}"
+ },
+ {
+  "table": 2,
+  "name": "Joshua L. Martin",
+  "term_raw": "December 9, 1845 – December 16, 1847 {{small|(738 days; retired)}}",
+  "dates": [
+   [
+    "1845-12-09",
+    "day"
+   ],
+   [
+    "1847-12-16",
+    "day"
+   ]
+  ],
+  "party_raw": "Independent",
+  "acting_hint": false,
+  "succ_raw": "1845",
+  "name_cell": "Joshua L. Martin {{Small|(1799–1856)}}"
+ },
+ {
+  "table": 2,
+  "name": "Reuben Chapman",
+  "term_raw": "December 16, 1847 – December 17, 1849 {{small|(733 days; lost nomination)}}",
+  "dates": [
+   [
+    "1847-12-16",
+    "day"
+   ],
+   [
+    "1849-12-17",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1847",
+  "name_cell": "Reuben Chapman {{Small|(1799–1882)}}"
+ },
+ {
+  "table": 2,
+  "name": "Henry W. Collier",
+  "term_raw": "December 17, 1849 – December 20, 1853 {{small|(1465 days; term-limited)}}",
+  "dates": [
+   [
+    "1849-12-17",
+    "day"
+   ],
+   [
+    "1853-12-20",
+    "day"
+   ],
+   [
+    "1465-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1849",
+  "name_cell": "Henry W. Collier {{Small|(1801–1855)}}"
+ },
+ {
+  "table": 2,
+  "name": "John A. Winston",
+  "term_raw": "December 20, 1853 – December 1, 1857 {{small|(1443 days; term-limited)}}",
+  "dates": [
+   [
+    "1853-12-20",
+    "day"
+   ],
+   [
+    "1857-12-01",
+    "day"
+   ],
+   [
+    "1443-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1853",
+  "name_cell": "John A. Winston {{Small|(1812–1871)}}"
+ },
+ {
+  "table": 2,
+  "name": "Andrew B. Moore",
+  "term_raw": "December 1, 1857 – December 2, 1861 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1857-12-01",
+    "day"
+   ],
+   [
+    "1861-12-02",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1857",
+  "name_cell": "Andrew B. Moore {{Small|(1807–1873)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Gill Shorter",
+  "term_raw": "December 2, 1861 – December 1, 1863 {{small|(730 days; lost election)}}",
+  "dates": [
+   [
+    "1861-12-02",
+    "day"
+   ],
+   [
+    "1863-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1861",
+  "name_cell": "John Gill Shorter {{Small|(1818–1872)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas H. Watts",
+  "term_raw": "December 1, 1863 – May 3, 1865 {{small|(520 days; arrested and removed)}}",
+  "dates": [
+   [
+    "1863-12-01",
+    "day"
+   ],
+   [
+    "1865-05-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1863",
+  "name_cell": "Thomas H. Watts {{Small|(1819–1892)}}"
+ },
+ {
+  "table": 2,
+  "name": "(vacant)",
+  "raw": "— Vacant May 3, 1865 – June 21, 1865 {{small|(50 days)}} {{small|Office vacated after civil war}}"
+ },
+ {
+  "table": 2,
+  "name": "Lewis E. Parsons",
+  "term_raw": "June 21, 1865 – December 13, 1865 {{small|(176 days; retired)}}",
+  "dates": [
+   [
+    "1865-06-21",
+    "day"
+   ],
+   [
+    "1865-12-13",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|Provisional governor appointed by President}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Lewis E. Parsons {{Small|(1817–1895)}}"
+ },
+ {
+  "table": 2,
+  "name": "Robert M. Patton",
+  "term_raw": "December 13, 1865 – July 14, 1868 {{small|(945 days; retired)}}",
+  "dates": [
+   [
+    "1865-12-13",
+    "day"
+   ],
+   [
+    "1868-07-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Non-partisan",
+  "acting_hint": false,
+  "succ_raw": "1865",
+  "name_cell": "Robert M. Patton {{Small|(1809–1885)}}"
+ },
+ {
+  "table": 2,
+  "name": "Wager Swayne",
+  "term_raw": "March 2, 1867 – January 11, 1868 {{small|(316 days; removed)}}",
+  "dates": [
+   [
+    "1867-03-02",
+    "day"
+   ],
+   [
+    "1868-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|Military occupation}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Wager Swayne {{Small|(1834–1902)}}"
+ },
+ {
+  "table": 2,
+  "name": "William Hugh Smith",
+  "term_raw": "July 14, 1868 – November 26, 1870 {{small|(866 days; lost election)}}",
+  "dates": [
+   [
+    "1868-07-14",
+    "day"
+   ],
+   [
+    "1870-11-26",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1868",
+  "name_cell": "William Hugh Smith {{Small|(1826–1899)}}"
+ },
+ {
+  "table": 2,
+  "name": "Robert B. Lindsay",
+  "term_raw": "November 26, 1870 – November 25, 1872 {{small|(731 days; retired)}}",
+  "dates": [
+   [
+    "1870-11-26",
+    "day"
+   ],
+   [
+    "1872-11-25",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1870",
+  "name_cell": "Robert B. Lindsay {{Small|(1824–1902)}}"
+ },
+ {
+  "table": 2,
+  "name": "David P. Lewis",
+  "term_raw": "November 25, 1872 – November 24, 1874 {{small|(730 days; lost election)}}",
+  "dates": [
+   [
+    "1872-11-25",
+    "day"
+   ],
+   [
+    "1874-11-24",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1872",
+  "name_cell": "David P. Lewis {{Small|(1820–1884)}}"
+ },
+ {
+  "table": 2,
+  "name": "George S. Houston",
+  "term_raw": "November 24, 1874 – November 27, 1878 {{small|(1465 days; retired)}}",
+  "dates": [
+   [
+    "1874-11-24",
+    "day"
+   ],
+   [
+    "1878-11-27",
+    "day"
+   ],
+   [
+    "1465-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1874",
+  "name_cell": "George S. Houston {{Small|(1811–1879)}}"
+ },
+ {
+  "table": 2,
+  "name": "Rufus W. Cobb",
+  "term_raw": "November 27, 1878 – December 1, 1882 {{small|(1466 days; retired)}}",
+  "dates": [
+   [
+    "1878-11-27",
+    "day"
+   ],
+   [
+    "1882-12-01",
+    "day"
+   ],
+   [
+    "1466-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1878",
+  "name_cell": "Rufus W. Cobb {{Small|(1829–1913)}}"
+ },
+ {
+  "table": 2,
+  "name": "Edward A. O'Neal",
+  "term_raw": "December 1, 1882 – December 1, 1886 {{small|(1462 days; retired)}}",
+  "dates": [
+   [
+    "1882-12-01",
+    "day"
+   ],
+   [
+    "1886-12-01",
+    "day"
+   ],
+   [
+    "1462-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1882",
+  "name_cell": "Edward A. O'Neal {{Small|(1818–1890)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas Seay",
+  "term_raw": "December 1, 1886 – December 1, 1890 {{small|(1462 days; retired)}}",
+  "dates": [
+   [
+    "1886-12-01",
+    "day"
+   ],
+   [
+    "1890-12-01",
+    "day"
+   ],
+   [
+    "1462-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1886",
+  "name_cell": "Thomas Seay {{Small|(1846–1896)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas G. Jones",
+  "term_raw": "December 1, 1890 – December 1, 1894 {{small|(1462 days; retired)}}",
+  "dates": [
+   [
+    "1890-12-01",
+    "day"
+   ],
+   [
+    "1894-12-01",
+    "day"
+   ],
+   [
+    "1462-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1890",
+  "name_cell": "Thomas G. Jones {{Small|(1844–1914)}}"
+ },
+ {
+  "table": 2,
+  "name": "William C. Oates",
+  "term_raw": "December 1, 1894 – December 1, 1896 {{small|(732 days; retired)}}",
+  "dates": [
+   [
+    "1894-12-01",
+    "day"
+   ],
+   [
+    "1896-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1894",
+  "name_cell": "William C. Oates {{Small|(1835–1910)}}"
+ },
+ {
+  "table": 2,
+  "name": "Joseph F. Johnston",
+  "term_raw": "December 1, 1896 – December 1, 1900 {{small|(1461 days; retired)}}",
+  "dates": [
+   [
+    "1896-12-01",
+    "day"
+   ],
+   [
+    "1900-12-01",
+    "day"
+   ],
+   [
+    "1461-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1896",
+  "name_cell": "Joseph F. Johnston {{Small|(1843–1913)}}"
+ },
+ {
+  "table": 2,
+  "name": "William D. Jelks",
+  "term_raw": "December 1, 1900 – December 26, 1900 {{small|(26 days; acting)}}",
+  "dates": [
+   [
+    "1900-12-01",
+    "day"
+   ],
+   [
+    "1900-12-26",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "William D. Jelks {{Small|(1855–1931)}}"
+ },
+ {
+  "table": 2,
+  "name": "William J. Samford",
+  "term_raw": "December 1, 1900 – June 11, 1901 {{small|(193 days; died in office)}}",
+  "dates": [
+   [
+    "1900-12-01",
+    "day"
+   ],
+   [
+    "1901-06-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1900",
+  "name_cell": "William J. Samford {{Small|(1844–1901)}}"
+ },
+ {
+  "table": 2,
+  "name": "William D. Jelks",
+  "term_raw": "June 11, 1901 – January 14, 1907 {{small|(2044 days; term-limited)}}",
+  "dates": [
+   [
+    "1901-06-11",
+    "day"
+   ],
+   [
+    "1907-01-14",
+    "day"
+   ],
+   [
+    "2044-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from president of the Senate}}",
+  "name_cell": "William D. Jelks {{Small|(1855–1931)}}"
+ },
+ {
+  "table": 2,
+  "name": "B. B. Comer",
+  "term_raw": "January 14, 1907 – January 16, 1911 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1907-01-14",
+    "day"
+   ],
+   [
+    "1911-01-16",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1906",
+  "name_cell": "B. B. Comer {{Small|(1848–1927)}}"
+ },
+ {
+  "table": 2,
+  "name": "Emmet O'Neal",
+  "term_raw": "January 17, 1911 – January 18, 1915 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1911-01-17",
+    "day"
+   ],
+   [
+    "1915-01-18",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1910",
+  "name_cell": "Emmet O'Neal {{Small|(1853–1922)}}"
+ },
+ {
+  "table": 2,
+  "name": "Charles Henderson",
+  "term_raw": "January 19, 1915 – January 20, 1919 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1915-01-19",
+    "day"
+   ],
+   [
+    "1919-01-20",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1914",
+  "name_cell": "Charles Henderson {{Small|(1860–1937)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas Kilby",
+  "term_raw": "January 21, 1919 – January 15, 1923 {{small|(1456 days; term-limited)}}",
+  "dates": [
+   [
+    "1919-01-21",
+    "day"
+   ],
+   [
+    "1923-01-15",
+    "day"
+   ],
+   [
+    "1456-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1918",
+  "name_cell": "Thomas Kilby {{Small|(1865–1943)}}"
+ },
+ {
+  "table": 2,
+  "name": "William W. Brandon",
+  "term_raw": "January 16, 1923 – January 17, 1927 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1923-01-16",
+    "day"
+   ],
+   [
+    "1927-01-17",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1922",
+  "name_cell": "William W. Brandon {{Small|(1868–1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bibb Graves",
+  "term_raw": "January 18, 1927 – January 19, 1931 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1927-01-18",
+    "day"
+   ],
+   [
+    "1931-01-19",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1926",
+  "name_cell": "Bibb Graves {{Small|(1873–1942)}}"
+ },
+ {
+  "table": 2,
+  "name": "Benjamin M. Miller",
+  "term_raw": "January 20, 1931 – January 14, 1935 {{small|(1456 days; term-limited)}}",
+  "dates": [
+   [
+    "1931-01-20",
+    "day"
+   ],
+   [
+    "1935-01-14",
+    "day"
+   ],
+   [
+    "1456-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1930",
+  "name_cell": "Benjamin M. Miller {{Small|(1864–1944)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bibb Graves",
+  "term_raw": "January 15, 1935 – January 16, 1939 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1935-01-15",
+    "day"
+   ],
+   [
+    "1939-01-16",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1934",
+  "name_cell": "Bibb Graves {{Small|(1873–1942)}}"
+ },
+ {
+  "table": 2,
+  "name": "Frank M. Dixon",
+  "term_raw": "January 17, 1939 – January 18, 1943 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1939-01-17",
+    "day"
+   ],
+   [
+    "1943-01-18",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1938",
+  "name_cell": "Frank M. Dixon {{Small|(1892–1965)}}"
+ },
+ {
+  "table": 2,
+  "name": "Chauncey Sparks",
+  "term_raw": "January 19, 1943 – January 20, 1947 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1943-01-19",
+    "day"
+   ],
+   [
+    "1947-01-20",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1942",
+  "name_cell": "Chauncey Sparks {{Small|(1884–1968)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jim Folsom",
+  "term_raw": "January 21, 1947 – January 15, 1951 {{small|(1456 days; term-limited)}}",
+  "dates": [
+   [
+    "1947-01-21",
+    "day"
+   ],
+   [
+    "1951-01-15",
+    "day"
+   ],
+   [
+    "1456-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1946",
+  "name_cell": "Jim Folsom {{Small|(1908–1987)}}"
+ },
+ {
+  "table": 2,
+  "name": "Gordon Persons",
+  "term_raw": "January 16, 1951 – January 17, 1955 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1951-01-16",
+    "day"
+   ],
+   [
+    "1955-01-17",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1950",
+  "name_cell": "Gordon Persons {{Small|(1902–1965)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jim Folsom",
+  "term_raw": "January 18, 1955 – January 19, 1959 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1955-01-18",
+    "day"
+   ],
+   [
+    "1959-01-19",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1954",
+  "name_cell": "Jim Folsom {{Small|(1908–1987)}}"
+ },
+ {
+  "table": 2,
+  "name": "John M. Patterson",
+  "term_raw": "January 20, 1959 – January 14, 1963 {{small|(1456 days; term-limited)}}",
+  "dates": [
+   [
+    "1959-01-20",
+    "day"
+   ],
+   [
+    "1963-01-14",
+    "day"
+   ],
+   [
+    "1456-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1958",
+  "name_cell": "John M. Patterson {{Small|(1921–2021)}}"
+ },
+ {
+  "table": 2,
+  "name": "George Wallace",
+  "term_raw": "January 15, 1963 – January 16, 1967 {{small|(1463 days; term-limited)}}",
+  "dates": [
+   [
+    "1963-01-15",
+    "day"
+   ],
+   [
+    "1967-01-16",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1962",
+  "name_cell": "George Wallace {{Small|(1919–1998)}}"
+ },
+ {
+  "table": 2,
+  "name": "Lurleen Wallace",
+  "term_raw": "January 17, 1967 – May 7, 1968 {{small|(477 days; died in office)}}",
+  "dates": [
+   [
+    "1967-01-17",
+    "day"
+   ],
+   [
+    "1968-05-07",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1966",
+  "name_cell": "Lurleen Wallace {{Small|(1926–1968)}}"
+ },
+ {
+  "table": 2,
+  "name": "Albert Brewer",
+  "term_raw": "May 7, 1968 – January 18, 1971 {{small|(987 days; lost nomination)}}",
+  "dates": [
+   [
+    "1968-05-07",
+    "day"
+   ],
+   [
+    "1971-01-18",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Albert Brewer {{Small|(1928–2017)}}"
+ },
+ {
+  "table": 2,
+  "name": "George Wallace",
+  "term_raw": "January 19, 1971 – January 15, 1979 {{small|(2919 days; term-limited)}}",
+  "dates": [
+   [
+    "1971-01-19",
+    "day"
+   ],
+   [
+    "1979-01-15",
+    "day"
+   ],
+   [
+    "2919-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1970",
+  "name_cell": "George Wallace {{Small|(1919–1998)}}"
+ },
+ {
+  "table": 2,
+  "name": "Fob James",
+  "term_raw": "January 16, 1979 – January 17, 1983 {{small|(1463 days; retired)}}",
+  "dates": [
+   [
+    "1979-01-16",
+    "day"
+   ],
+   [
+    "1983-01-17",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1978",
+  "name_cell": "Fob James {{Small|({{Abbr|b.|born in}} 1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "George Wallace",
+  "term_raw": "January 18, 1983 – January 19, 1987 {{small|(1463 days; retired)}}",
+  "dates": [
+   [
+    "1983-01-18",
+    "day"
+   ],
+   [
+    "1987-01-19",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1982",
+  "name_cell": "George Wallace {{Small|(1919–1998)}}"
+ },
+ {
+  "table": 2,
+  "name": "H. Guy Hunt",
+  "term_raw": "January 20, 1987 – April 22, 1993 {{small|(2285 days; removed)}}",
+  "dates": [
+   [
+    "1987-01-20",
+    "day"
+   ],
+   [
+    "1993-04-22",
+    "day"
+   ],
+   [
+    "2285-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1986",
+  "name_cell": "H. Guy Hunt {{Small|(1933–2009)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jim Folsom Jr.",
+  "term_raw": "April 22, 1993 – January 16, 1995 {{small|(635 days; lost election)}}",
+  "dates": [
+   [
+    "1993-04-22",
+    "day"
+   ],
+   [
+    "1995-01-16",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Jim Folsom Jr. {{Small|({{Abbr|b.|born in}} 1949)}}"
+ },
+ {
+  "table": 2,
+  "name": "Fob James",
+  "term_raw": "January 17, 1995 – January 18, 1999 {{small|(1463 days; lost election)}}",
+  "dates": [
+   [
+    "1995-01-17",
+    "day"
+   ],
+   [
+    "1999-01-18",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1994",
+  "name_cell": "Fob James {{Small|({{Abbr|b.|born in}} 1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "Don Siegelman",
+  "term_raw": "January 19, 1999 – January 20, 2003 {{small|(1463 days; lost election)}}",
+  "dates": [
+   [
+    "1999-01-19",
+    "day"
+   ],
+   [
+    "2003-01-20",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1998",
+  "name_cell": "Don Siegelman {{Small|({{Abbr|b.|born in}} 1946)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bob Riley",
+  "term_raw": "January 21, 2003 – January 17, 2011 {{small|(2919 days; term-limited)}}",
+  "dates": [
+   [
+    "2003-01-21",
+    "day"
+   ],
+   [
+    "2011-01-17",
+    "day"
+   ],
+   [
+    "2919-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2002",
+  "name_cell": "Bob Riley {{Small|({{Abbr|b.|born in}} 1944)}}"
+ },
+ {
+  "table": 2,
+  "name": "Robert J. Bentley",
+  "term_raw": "January 18, 2011 – April 10, 2017 {{small|(2275 days; resigned)}}",
+  "dates": [
+   [
+    "2011-01-18",
+    "day"
+   ],
+   [
+    "2017-04-10",
+    "day"
+   ],
+   [
+    "2275-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2010",
+  "name_cell": "Robert J. Bentley {{Small|({{Abbr|b.|born in}} 1943)}}"
+ },
+ {
+  "table": 2,
+  "name": "Kay Ivey",
+  "term_raw": "2017|4|10|duration=on|format=no}}\"|April 10, 2017 – Incumbent {{small|(in office {{Duration in days nts|2017|4|10|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2017-01-01",
+    "year"
+   ],
+   [
+    "2017-04-10",
+    "day"
+   ],
+   [
+    "2017-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Kay Ivey {{Small|({{Abbr|b.|born in}} 1944)}}"
+ },
+ {
+  "table": 2,
+  "name": "Tommy Tuberville (b. 1954)",
+  "term_raw": "January 16, 2027 - Governor Elect",
+  "dates": [
+   [
+    "2027-01-16",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2026",
+  "name_cell": "Tommy Tuberville (b. 1954)"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 9, 1819",
+  "dates": [
+   [
+    "1819-11-09",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|1819 constitution}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|September 20–21}} 1819"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 9, 1821",
+  "dates": [
+   [
+    "1821-11-09",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 6}} 1821"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 24, 1823",
+  "dates": [
+   [
+    "1823-11-24",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 4}} 1823"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 25, 1825",
+  "dates": [
+   [
+    "1825-11-25",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 1}} 1825"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 26, 1827",
+  "dates": [
+   [
+    "1827-11-26",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 6}} 1827"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 21, 1829",
+  "dates": [
+   [
+    "1829-11-21",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 3}} 1829"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 26, 1831",
+  "dates": [
+   [
+    "1831-11-26",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 1}} 1831"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 28, 1833",
+  "dates": [
+   [
+    "1833-11-28",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 5}} 1833"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 21, 1835",
+  "dates": [
+   [
+    "1835-11-21",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 3}} 1835"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 21, 1837",
+  "dates": [
+   [
+    "1837-11-21",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 7}} 1837"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 18, 1839",
+  "dates": [
+   [
+    "1839-12-18",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 3}} 1839"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 22, 1841",
+  "dates": [
+   [
+    "1841-11-22",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 2}} 1841"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 8, 1843",
+  "dates": [
+   [
+    "1843-12-08",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 7}} 1843"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 9, 1845",
+  "dates": [
+   [
+    "1845-12-09",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 4}} 1845"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 16, 1847",
+  "dates": [
+   [
+    "1847-12-16",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 2}} 1847"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 17, 1849",
+  "dates": [
+   [
+    "1849-12-17",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 6}} 1849"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 17, 1851",
+  "dates": [
+   [
+    "1851-12-17",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 4}} 1851"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 20, 1853",
+  "dates": [
+   [
+    "1853-12-20",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 1}} 1853"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 20, 1855",
+  "dates": [
+   [
+    "1855-12-20",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 6}} 1855"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1857",
+  "dates": [
+   [
+    "1857-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 3}} 1857"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1859",
+  "dates": [
+   [
+    "1859-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 1}} 1859"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 2, 1861",
+  "dates": [
+   [
+    "1861-12-02",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 5}} 1861"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1863",
+  "dates": [
+   [
+    "1863-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 3}} 1863"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 13, 1865",
+  "dates": [
+   [
+    "1865-12-13",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|1865 constitution}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 6}} 1865"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "July 14, 1868",
+  "dates": [
+   [
+    "1868-07-14",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|1868 constitution}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|February 4}} 1868"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 26, 1870",
+  "dates": [
+   [
+    "1870-11-26",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 8}} 1870"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 25, 1872",
+  "dates": [
+   [
+    "1872-11-25",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 5}} 1872"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 24, 1874",
+  "dates": [
+   [
+    "1874-11-24",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 3}} 1874"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 25, 1876",
+  "dates": [
+   [
+    "1876-11-25",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|1875 constitution}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 7}} 1876"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 27, 1878",
+  "dates": [
+   [
+    "1878-11-27",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 5}} 1878"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "November 30, 1880",
+  "dates": [
+   [
+    "1880-11-30",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 2}} 1880"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1882",
+  "dates": [
+   [
+    "1882-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 7}} 1882"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1884",
+  "dates": [
+   [
+    "1884-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 4}} 1884"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1886",
+  "dates": [
+   [
+    "1886-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 2}} 1886"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1888",
+  "dates": [
+   [
+    "1888-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 6}} 1888"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1890",
+  "dates": [
+   [
+    "1890-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 4}} 1890"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1892",
+  "dates": [
+   [
+    "1892-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 1}} 1892"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1894",
+  "dates": [
+   [
+    "1894-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 6}} 1894"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1896",
+  "dates": [
+   [
+    "1896-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 3}} 1896"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1898",
+  "dates": [
+   [
+    "1898-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 1}} 1898"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "December 1, 1900",
+  "dates": [
+   [
+    "1900-12-01",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|August 6}} 1900"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 19, 1903",
+  "dates": [
+   [
+    "1903-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|1901 constitution}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 2}} 1902"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 14, 1907",
+  "dates": [
+   [
+    "1907-01-14",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 6}} 1906"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 17, 1911",
+  "dates": [
+   [
+    "1911-01-17",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 8}} 1910"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 19, 1915",
+  "dates": [
+   [
+    "1915-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 3}} 1914"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 21, 1919",
+  "dates": [
+   [
+    "1919-01-21",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 2}} 1918"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 16, 1923",
+  "dates": [
+   [
+    "1923-01-16",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 7}} 1922"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 18, 1927",
+  "dates": [
+   [
+    "1927-01-18",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 2}} 1926"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 20, 1931",
+  "dates": [
+   [
+    "1931-01-20",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 4}} 1930"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 15, 1935",
+  "dates": [
+   [
+    "1935-01-15",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 2}} 1934"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 17, 1939",
+  "dates": [
+   [
+    "1939-01-17",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 8}} 1938"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 19, 1943",
+  "dates": [
+   [
+    "1943-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 3}} 1942"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 21, 1947",
+  "dates": [
+   [
+    "1947-01-21",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 5}} 1946"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 16, 1951",
+  "dates": [
+   [
+    "1951-01-16",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 7}} 1950"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 18, 1955",
+  "dates": [
+   [
+    "1955-01-18",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 2}} 1954"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 20, 1959",
+  "dates": [
+   [
+    "1959-01-20",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 4}} 1958"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 15, 1963",
+  "dates": [
+   [
+    "1963-01-15",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 6}} 1962"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 17, 1967",
+  "dates": [
+   [
+    "1967-01-17",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 8}} 1966"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 19, 1971",
+  "dates": [
+   [
+    "1971-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|1968 amendment}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 3}} 1970"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 21, 1975",
+  "dates": [
+   [
+    "1975-01-21",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 5}} 1974"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 16, 1979",
+  "dates": [
+   [
+    "1979-01-16",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 7}} 1978"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 18, 1983",
+  "dates": [
+   [
+    "1983-01-18",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 2}} 1982"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 20, 1987",
+  "dates": [
+   [
+    "1987-01-20",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 4}} 1986"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 15, 1991",
+  "dates": [
+   [
+    "1991-01-15",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 6}} 1990"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 17, 1995",
+  "dates": [
+   [
+    "1995-01-17",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 8}} 1994"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 19, 1999",
+  "dates": [
+   [
+    "1999-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 3}} 1998"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 21, 2003",
+  "dates": [
+   [
+    "2003-01-21",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 5}} 2002"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 16, 2007",
+  "dates": [
+   [
+    "2007-01-16",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 7}} 2006"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 18, 2011",
+  "dates": [
+   [
+    "2011-01-18",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 2}} 2010"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 20, 2015",
+  "dates": [
+   [
+    "2015-01-20",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 4}} 2014"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 15, 2019",
+  "dates": [
+   [
+    "2019-01-15",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 6}} 2018"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 17, 2023",
+  "dates": [
+   [
+    "2023-01-17",
+    "day"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 8}} 2022"
+ },
+ {
+  "table": 4,
+  "name": "",
+  "term_raw": "January 19, 2027",
+  "dates": [
+   [
+    "2027-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|2022 constitution}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "{{small|November 3}} 2026"
+ }
+]

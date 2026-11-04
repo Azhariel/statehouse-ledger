@@ -1,0 +1,703 @@
+{{Short description|none}}
+{{redirect|Presidents of the United States||President of the United States (disambiguation)}}
+{{featured list}}
+{{pp-extended|small=yes}}
+{{Use American English|date=June 2021}}
+{{Use mdy dates|date=April 2017}}
+[[File:White House north and south sides.jpg|thumb|339x339px|The [[White House]]'s north and south sides, official residence of the president of the United States|alt=Two photos of the White House's north and south sides]]
+The [[president of the United States]] is the [[head of state]] and [[head of government]] of the [[United States]],{{Sfnp|Rossiter|1962|p=86}} [[indirectly elected]] to a four-year [[Term of office|term]] via the [[United States Electoral College|Electoral College]].{{Sfnp|Shugart|2004|pp=633–636}} Under the [[U.S. Constitution]], the officeholder leads the [[Executive (government)|executive branch]] of the [[Federal government of the United States|federal government]] and is the [[commander-in-chief]] of the [[United States Armed Forces]].{{Sfnp|Epstein|2005|p=318}}
+
+The first president, [[George Washington]], won a unanimous vote of the Electoral College.{{Sfnp|Matuz|2001|p=xxii}} The incumbent president is [[Donald Trump]], who [[Second inauguration of Donald Trump|assumed office on January 20, 2025]].{{sfnp|Hajela|2024}}{{sfnp|Freile|2024}} Since the office was established in 1789, 45 men have served in 47 presidencies. The discrepancy is due to the nonconsecutive terms of [[Grover Cleveland]] (counted as the 22nd and 24th president) and Donald Trump (counted as the 45th and 47th president).{{sfnp|AP|2024}}{{Sfnp|Schaller|Williams|2003|p=192}}
+
+The presidency of [[William Henry Harrison]], who died 31 days after taking office in 1841, was the shortest in American history.{{Sfnp|McHugh|Mackowiak|2014|pp=990–995}} [[Franklin D. Roosevelt]] served the longest, over twelve years, before dying early in his fourth term in 1945. He is the only U.S. president to have served more than two terms.{{Sfnp|Skau|1974|pp=246–275}} Since the ratification of the [[Twenty-second Amendment to the United States Constitution]] in 1951, no person may be elected president more than twice, and no one who has served more than two years of a term to which someone else was elected may be elected more than once.{{Sfnp|Peabody|Gant|1999|p=565}}
+
+Four presidents died in office of natural causes (William Henry Harrison, [[Zachary Taylor]], [[Warren G. Harding]], and Franklin D. Roosevelt), four were [[List of United States presidential assassination attempts and plots|assassinated]] ([[Abraham Lincoln]], [[James A. Garfield]], [[William McKinley]], and [[John F. Kennedy]]), and one resigned ([[Richard Nixon]], facing [[Impeachment process against Richard Nixon|impeachment]] and removal from office).{{Sfnp|Abbott|2005|pp=627–644}} [[John Tyler]] was the first [[Vice President of the United States|vice president]] to assume the presidency during a presidential term, setting the precedent that a vice president who does so becomes the fully functioning president with a new, distinct administration.{{Sfnp|Dinnerstein|1962|pp=447–451}}
+
+Throughout most of its history, [[American politics]] has been dominated by [[Political parties in the United States|political parties]]. The Constitution is silent on the issue of political parties, and at the time it came into force in 1789, no organized parties existed. Soon after the [[1st United States Congress|1st Congress]] convened, [[political faction]]s began rallying around dominant members of Washington's cabinet, such as [[Alexander Hamilton]] and [[Thomas Jefferson]].{{Sfnmp|''Guide to U.S. Elections''|2010|1p=197|Nardulli|1992|2p=179}} Concerned about the capacity of political parties to destroy the fragile unity holding the nation together, Washington remained [[Independent politician|unaffiliated]] with any political faction or party throughout his eight-year presidency. He remains the only U.S. president who never affiliated with a political party.{{Sfnmp|1a1=LOC (2)|2a1=Jamison|2y=2014}}
+
+== Presidents ==
+<!-- PLEASE DO NOT CHANGE OR MODIFY ANY PRESIDENTIAL PORTRAITS, INCLUDING CROPPING CURRENT ONES, WITHOUT FIRST PROPOSING ON THE TALK PAGE AND SEEKING CONSENSUS - PER [[Talk:List of presidents of the United States/Archive 11#Presidential images]] -->
+{{sticky header}}
+{|class="wikitable sortable sticky-header" style="text-align:center;margin:0 auto;"
+
+|+ {{sronly|List of all presidents of the United States.}}
+
+!scope=col |{{Abbr|No.|Number}}{{efn|Presidents are numbered according to uninterrupted periods served by the same person. For example, George Washington served two consecutive terms and is counted as the first president, instead of the first and second, but Grover Cleveland and Donald Trump are counted twice because their two terms were not consecutive. A vice president who temporarily becomes [[Acting President of the United States|acting president]] under the [[Twenty-fifth Amendment to the United States Constitution|Twenty-fifth Amendment]] to the Constitution is not counted, because the president remains in office during such a period.<!-- Citation not required; general note about the table. -->}}
+!scope=col class=unsortable |Portrait
+!scope=col |Name<br>(birth–death)
+!scope=col class=unsortable |Term{{Sfnmp|1a1=LOC|2a1=whitehouse.gov}}
+!scope=col colspan=2 |Party{{efn|Reflects the president's political party at the start of their presidency. Changes during their time in office are noted. Also reflects the vice president's political party unless otherwise noted beside the individual's name.<!-- Citation not required; general note about the table. -->}}{{Sfnp |''Guide to U.S. Elections''|2010|pp=257–258}}
+!scope=col class=unsortable |Election
+!scope=col class=unsortable |Vice President{{Sfnp|LOC}}
+
+|-
+!rowspan=2 scope="row" |[[Presidency of George Washington|1]]
+|rowspan=2 |[[File:Gilbert Stuart Williamstown Portrait of George Washington (3x4 cropped).jpg|frameless|upright=0.5|alt=Painting of George Washington]]
+|rowspan=2 |'''{{sortname|George|Washington}}'''<br>(1732–1799)<br>{{Sfnp|McDonald|2000}}
+|rowspan=2 |{{dts|April 30, 1789}}<br>–<br>{{dts|March 4, 1797}}
+|rowspan=2 style="background-color:{{party color|Independent (politician)}}" |
+|rowspan=2 |''Unaffiliated''
+|[[1788–89 United States presidential election|1788–89]]
+|rowspan=2|[[John Adams]]{{efn|Political parties had not been anticipated when the Constitution was drafted, nor did they exist at the time of the first presidential election in 1788–89. When they did develop, during Washington's first term, Adams joined the faction that became the [[Federalist Party]]. The elections of 1792 were the first ones in the United States that were contested on anything resembling a partisan basis.{{Sfnmp |''Guide to U.S. Elections''|2010|1pp=197, 272|Nardulli|1992|2p=179}}}}
+|-
+|[[1792 United States presidential election|1792]]
+
+|-
+!scope=row |[[Presidency of John Adams|2]]
+|[[File:John Adams A18236 (cropped).jpg|frameless|upright=0.5|alt=Painting of John Adams]]
+|'''{{sortname|John|Adams}}'''<br>(1735–1826)<br>{{Sfnp|Pencak|2000}}
+|{{dts|March 4, 1797}}<br>–<br>{{dts|March 4, 1801}}
+|style="background-color:{{party color|Federalist Party}}" |
+|[[Federalist Party|Federalist]]
+|[[1796 United States presidential election|1796]]
+|[[Thomas Jefferson]]{{efn|The 1796 presidential election was the first contested American presidential election and the only one in which a president and vice president were elected from opposing political parties. Federalist John Adams was elected president, and Jefferson of the Democratic-Republicans was elected vice president.{{Sfnp |''Guide to U.S. Elections''|2010|p=274}}}}
+
+|- 
+!rowspan=2 scope=row |[[Presidency of Thomas Jefferson|3]]
+|rowspan=2 |[[File:Official Presidential portrait of Thomas Jefferson (by Rembrandt Peale, 1800) (3x4 cropped).jpg|frameless|upright=0.5|alt=Painting of Thomas Jefferson]]
+|rowspan=2 |'''{{sortname|Thomas|Jefferson}}'''<br>(1743–1826)<br>{{Sfnp|Peterson|2000}}
+|rowspan=2 |{{dts|March 4, 1801}}<br>–<br>{{dts|March 4, 1809}}
+|rowspan=2 style="background-color:{{party color|Democratic-Republican Party}}" |
+|rowspan=2 |[[Democratic-Republican Party|Democratic-<br>Republican]]
+|[[1800 United States presidential election|1800]]
+|[[Aaron Burr]]
+|-
+|[[1804 United States presidential election|1804]]
+|[[George Clinton (vice president)|George Clinton]]
+
+|-
+!rowspan=4 scope=row |[[Presidency of James Madison|4]]
+|rowspan=4 |[[File:James Madison Portrait 1816 (3x4 cropped).jpg|frameless|upright=0.5|alt=Painting of James Madison]]
+|rowspan=4 |'''{{sortname|James|Madison}}'''<br>(1751–1836)<br>{{Sfnp|Banning|2000}}
+|rowspan=4 |{{dts|March 4, 1809}}<br>–<br>{{dts|March 4, 1817}}
+|rowspan=4 style="background-color:{{party color|Democratic-Republican Party}}" |
+|rowspan=4 |[[Democratic-Republican Party|Democratic-<br>Republican]]
+|rowspan=2 |[[1808 United States presidential election|1808]]
+|[[George Clinton (vice president)|George Clinton]]{{efn |name=diedintraterm|Died in office{{Sfnp|Neale|2004|p=22}}}}
+|-
+|''Vacant&nbsp;after<br>April 20, 1812''
+|-
+|rowspan=2 |[[1812 United States presidential election|1812]]
+|[[Elbridge Gerry]]{{efn |name=diedintraterm}}
+|-
+|''Vacant&nbsp;after<br>November 23, 1814''
+
+|-
+!rowspan=2 scope=row |[[Presidency of James Monroe|5]]
+|rowspan=2 |[[File:James Monroe White House portrait 1819 (cropped 3x4 close).jpg|frameless|upright=0.5|alt=Painting of James Monroe]]
+|rowspan=2 |'''{{sortname|James|Monroe}}'''<br>(1758–1831)<br>{{Sfnp|Ammon|2000}}
+|rowspan=2 |{{dts|March 4, 1817}}<br>–<br>{{dts|March 4, 1825}}
+|rowspan=2 style="background-color:{{party color|Democratic-Republican Party}}" |
+|rowspan=2 |[[Democratic-Republican Party|Democratic-<br>Republican]]
+|[[1816 United States presidential election|1816]]
+|rowspan=2 |[[Daniel D. Tompkins]]
+|-
+|[[1820 United States presidential election|1820]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of John Quincy Adams|6]]
+|rowspan=2 |[[File:John Quincy Adams 1858 (3x4 cropped).jpg|frameless|upright=0.5|alt=Painting of John Quincy Adams]]
+|rowspan=2 |'''{{sortname|John Quincy|Adams}}'''<br>(1767–1848)<br>{{Sfnp|Hargreaves|2000}}
+|rowspan=2 |{{dts|March 4, 1825}}<br>–<br>{{dts|March 4, 1829}}
+|style="background: {{party color|Democratic-Republican Party}}" |
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{efn |name="JQAdams" |Early during John Quincy Adams' term, the [[Democratic-Republican Party]] dissolved; his allies in Congress and at the state level were referred to as "Adams' Men" during the Adams presidency. When [[Andrew Jackson]] became president in 1829, this group became the "Anti-Jackson" [[Opposition (politics)|opposition]], and organized themselves as the [[National Republican Party]].{{Sfnmp|1a1=''Guide to U.S. Elections''|1y=2010|1p=228|2a1=Goldman|2y=1951|2p=159}}}}
+|rowspan=2 |[[1824 United States presidential election|1824]]
+|rowspan=2 |[[John C. Calhoun]]{{efn|John Calhoun, formerly a Democratic-Republican, founded the [[Nullifier Party]] in 1828 to oppose the [[Tariff of Abominations|Tariff of 1828]] and advance the cause of [[states' rights]], but was brought on as Andrew Jackson's running mate in the 1828 presidential election in an effort to broaden the democratic coalition led by Jackson.{{Sfnmp|1a1=''Guide to U.S. Elections''|1y=2010|1p=892|2a1=Houpt|2y=2010|2pp=26, 280}}}}
+|-
+|style="background: {{party color|National Republican Party}};" |
+|[[National Republican Party|National Republican]]
+
+|-
+!rowspan=3 scope=row |[[Presidency of Andrew Jackson|7]]
+|rowspan=3 |[[File:Andrew jackson head (3x4 cropped).jpg|frameless|upright=0.5|alt=Painting of Andrew Jackson]]
+|rowspan=3 |'''{{sortname|Andrew|Jackson}}'''<br>(1767–1845)<br>{{Sfnp|Remini|2000}}
+|rowspan=3 |{{dts|March 4, 1829}}<br>–<br>{{dts|March 4, 1837}}
+|rowspan=3 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=3 |[[Democratic Party (United States)|Democratic]]
+|rowspan=2 |[[1828 United States presidential election|1828]]
+|[[John C. Calhoun]]{{efn |name=resignedintraterm|Resigned from office{{Sfnp|Neale|2004|p=22}}}}
+|-
+|''Vacant&nbsp;after<br>December 28, 1832''
+|-
+|[[1832 United States presidential election|1832]]
+|[[Martin Van Buren]]
+
+|-
+!scope=row |[[Presidency of Martin Van Buren|8]]
+|[[File:Martin Van Buren circa 1837 (3x4 cropped).jpg|frameless|upright=0.5]]
+|'''{{sortname|Martin|Van Buren}}'''<br>(1782–1862)<br>{{Sfnp|Cole|2000}}
+|{{dts|March 4, 1837}}<br>–<br>{{dts|March 4, 1841}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[1836 United States presidential election|1836]]
+|[[Richard Mentor Johnson]]
+
+|-
+!scope=row |[[Presidency of William Henry Harrison|9]]
+|[[File:William Henry Harrison Portrait (3x4 cropped).jpg|frameless|upright=0.5]]
+|'''{{sortname|William Henry|Harrison}}'''<br>(1773–1841)<br>{{Sfnp|Gutzman|2000}}
+|{{dts|March 4, 1841}}<br>–<br>{{dts|April 4, 1841}}{{efn |name=diedintraterm}}
+|style="background-color:{{party color|Whig Party (United States)}}" |
+|[[Whig Party (United States)|Whig]]
+|[[1840 United States presidential election|1840]]
+|[[John Tyler]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of John Tyler|10]]
+|rowspan=2 |[[File:John Tyler (cropped 3x4) (cropped)(2).png|frameless|upright=0.5]]
+|rowspan=2 |'''{{sortname|John|Tyler}}'''<br>(1790–1862)<br>{{Sfnp|Shade|2000}}
+|rowspan=2 |{{dts|April 4, 1841}}{{efn|John Tyler succeeded to the presidency upon the death of William Henry Harrison.{{Sfnp|Abbott|2013|p=23}}}}<br>–<br>{{dts|March 4, 1845}}
+|style="background: {{party color|Whig Party (United States)}};" |
+|[[Whig Party (United States)|Whig]]{{efn |name="JTyler" |John Tyler was elected vice president on the Whig Party ticket in 1840. His policy priorities as president soon proved to be opposed to most of the Whig agenda, and he was expelled from the party five months after assuming office.{{sfnp|Cash|2018|pp=34–36}}}} 
+|rowspan=2 |{{gray|{{endash}}}}
+|rowspan=2 |''Vacant&nbsp;throughout<br>presidency''
+|-
+|style="background: {{party color|Independent (politician)}}"; |
+|''Unaffiliated''
+
+|-
+!scope=row |[[Presidency of James K. Polk|11]]
+|[[File:James K Polk (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of James K. Polk]]
+|'''{{sortname|James K.|Polk}}'''<br>(1795–1849)<br>{{Sfnp|Rawley|2000}}
+|{{dts|March 4, 1845}}<br>–<br>{{dts|March 4, 1849}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[1844 United States presidential election|1844]]
+|[[George M. Dallas]]
+
+|-
+!scope=row |[[Presidency of Zachary Taylor|12]]
+|[[File:Zachary Taylor restored (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Zachary Taylor]]
+|'''{{sortname|Zachary|Taylor}}'''<br>(1784–1850)<br>{{Sfnp|Smith|2000}}
+|{{dts|March 4, 1849}}<br>–<br>{{dts|July 9, 1850}}{{efn |name=diedintraterm}}
+|style="background-color:{{party color|Whig Party (United States)}}" |
+|[[Whig Party (United States)|Whig]]
+|[[1848 United States presidential election|1848]]
+|[[Millard Fillmore]]
+
+|-
+!scope=row |[[Presidency of Millard Fillmore|13]]
+|[[File:Fillmore (cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Millard Fillmore]]
+|'''{{sortname|Millard|Fillmore}}'''<br>(1800–1874)<br>{{Sfnp|Anbinder|2000}}
+|{{dts|July 9, 1850}}{{efn|Millard Fillmore succeeded to the presidency upon the death of Zachary Taylor.{{Sfnp|Abbott|2005|p=639}}}}<br>–<br>{{dts|March 4, 1853}}
+|style="background-color:{{party color|Whig Party (United States)}}" |
+|[[Whig Party (United States)|Whig]]
+|{{gray|{{endash}}}}
+|''Vacant&nbsp;throughout<br>presidency''
+
+|-
+!rowspan=2 scope=row |[[Presidency of Franklin Pierce|14]]
+|rowspan=2 |[[File:Mathew Brady - Franklin Pierce - alternate crop (cropped)(2).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Franklin Pierce]]
+|rowspan=2 |'''{{sortname|Franklin|Pierce}}'''<br>(1804–1869)<br>{{Sfnp|Gara|2000}}
+|rowspan=2 |{{dts|March 4, 1853}}<br>–<br>{{dts|March 4, 1857}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|rowspan=2 |[[1852 United States presidential election|1852]]
+|[[William R. King]]{{efn |name=diedintraterm}}
+|-
+|''Vacant&nbsp;after<br>April 18, 1853''
+
+|-
+!scope=row |[[Presidency of James Buchanan|15]]
+|[[File:James Buchanan (cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of James Buchanan]]
+|'''{{sortname|James|Buchanan}}'''<br>(1791–1868)<br>{{Sfnp|Gienapp|2000}}
+|{{dts|March 4, 1857}}<br>–<br>{{dts|March 4, 1861}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[1856 United States presidential election|1856]]
+|[[John C. Breckinridge]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Abraham Lincoln|16]]
+|rowspan=2 |[[File:Abraham Lincoln 1863 Portrait (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Abraham Lincoln]]
+|rowspan=2 |'''{{sortname|Abraham|Lincoln}}'''<br>(1809–1865)<br>{{Sfnp|McPherson (b)|2000}}
+|rowspan=2 |{{dts|March 4, 1861}}<br>–<br>{{dts|April 15, 1865}}{{efn |name=diedintraterm}}
+|style="background: {{party color|Republican Party (United States)}}"; |
+|[[Republican Party (United States)|Republican]]
+|[[1860 United States presidential election|1860]]
+|[[Hannibal Hamlin]]
+|- 
+|style="background: {{party color|National Union Party (United States)}};" |
+|[[National Union Party (United States)|National Union]]{{efn |name="ALincoln" |When he ran for reelection in 1864, Republican Abraham Lincoln formed a bipartisan [[electoral alliance]] with [[War Democrat]]s by selecting Democrat Andrew Johnson as his running mate, and running on the [[National Union Party (United States)|National Union Party]] ticket.{{Sfnp|McSeveney|1986|p=139}}}}
+|[[1864 United States presidential election|1864]]
+|[[Andrew Johnson]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Andrew Johnson|17]]
+|rowspan=2 |[[File:Andrew Johnson photo portrait head and shoulders (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Andrew Johnson]]
+|rowspan=2 |'''{{sortname|Andrew|Johnson}}'''<br>(1808–1875)<br>{{Sfnp|Trefousse|2000}}
+|rowspan=2 |{{dts|April 15, 1865}}{{efn|Andrew Johnson succeeded to the presidency upon the death of Abraham Lincoln.{{Sfnp|Trefousse|2000}}}}<br>–<br>{{dts|March 4, 1869}}
+|style="background: {{party color|National Union Party (United States)}};" |
+|[[National Union Party (United States)|National Union]]{{efn |name="AJohnson" |While president, Andrew Johnson tried and failed to build a coalition of loyalists under the National Union banner. Near the end of his presidency, Johnson began reassociating with the Democratic Party.{{Sfnp|Trefousse|2000}}}}
+|rowspan=2 |{{gray|{{endash}}}}
+|rowspan=2 |''Vacant&nbsp;throughout<br>presidency''
+|-
+|style="background: {{party color|Democratic Party (United States)}};" |
+|[[Democratic Party (United States)|Democratic]]
+
+|-
+!rowspan=3 scope=row |[[Presidency of Ulysses S. Grant|18]]
+|rowspan=3 |[[File:Ulysses S Grant by Brady c1870-restored (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Ulysses S. Grant]]
+|rowspan=3 |'''{{sortname|Ulysses S.|Grant}}'''<br>(1822–1885)<br>{{Sfnp|McPherson (a)|2000}}
+|rowspan=3 |{{dts|March 4, 1869}}<br>–<br>{{dts|March 4, 1877}}
+|rowspan=3 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=3 |[[Republican Party (United States)|Republican]]
+|[[1868 United States presidential election|1868]]
+|[[Schuyler Colfax]]
+|-
+|rowspan=2 |[[1872 United States presidential election|1872]]
+|[[Henry Wilson]]{{efn |name=diedintraterm}}
+|- 
+|''Vacant&nbsp;after<br>November 22, 1875''
+
+|-
+!scope=row |[[Presidency of Rutherford B. Hayes|19]]
+|[[File:President Rutherford Hayes 1870 - 1880 (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Rutherford B. Hayes]]
+|'''{{sortname|Rutherford B.|Hayes}}'''<br>(1822–1893)<br>{{Sfnp|Hoogenboom|2000}}
+|{{dts|March 4, 1877}}<br>–<br>{{dts|March 4, 1881}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[1876 United States presidential election|1876]]
+|[[William A. Wheeler]]
+
+|-
+!scope=row |[[Presidency of James A. Garfield|20]]
+|[[File:James Abram Garfield, photo portrait seated (3x4 cropped b).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of James A. Garfield]]
+|'''{{sortname|James A.|Garfield}}'''<br>(1831–1881)<br>{{Sfnp|Peskin|2000}}
+|{{dts|March 4, 1881}}<br>–<br>{{dts|September 19, 1881}}{{efn |name=diedintraterm}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[1880 United States presidential election|1880]]
+|[[Chester A. Arthur]]
+
+|-
+!scope=row |[[Presidency of Chester A. Arthur|21]]
+|[[File:Chester A. Arthur by Abraham Bogardus (cropped) (2).jpg|frameless|upright=0.5|alt=Sepia photographic portrait of Chester A. Arthur]]
+|'''{{sortname|Chester A.|Arthur}}'''<br>(1829–1886)<br>{{Sfnp|Reeves|2000}}
+|{{dts|September 19, 1881}}{{efn|Chester A. Arthur succeeded to the presidency upon the death of James A. Garfield.{{Sfnp|Greenberger|2017|pp=174–175}}}}<br>–<br>{{dts|March 4, 1885}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|{{gray|{{endash}}}}
+|''Vacant&nbsp;throughout<br>presidency''
+
+|-
+!rowspan=2 scope=row |[[First presidency of Grover Cleveland|22]]
+|rowspan=2 |[[File:Grover Cleveland by Charles Milton Bell color change (3x4 cropped b).jpg|frameless|upright=0.5]]
+|rowspan=2 |'''{{sortname|Grover|Cleveland}}'''<br>(1837–1908)<br>''1st term''<br>{{Sfnp|Campbell|2000}}
+|rowspan=2 |{{dts|March 4, 1885}}<br>–<br>{{dts|March 4, 1889}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|rowspan=2 |[[1884 United States presidential election|1884]]
+|[[Thomas A. Hendricks]]{{efn |name=diedintraterm}}
+|-
+|''Vacant&nbsp;after<br>November 25, 1885''
+
+|-
+!scope=row |[[Presidency of Benjamin Harrison|23]]
+|[[File:Benjamin Harrison, head and shoulders bw photo, 1896 (4x5 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Benjamin Harrison]]
+|'''{{sortname|Benjamin|Harrison}}'''<br>(1833–1901)<br>{{Sfnp|Spetter|2000}}
+|{{dts|March 4, 1889}}<br>–<br>{{dts|March 4, 1893}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[1888 United States presidential election|1888]]
+|[[Levi P. Morton]]
+
+|-
+!scope=row |[[Second presidency of Grover Cleveland|24]]
+|[[File:StephenGroverCleveland.jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Grover Cleveland]]
+|'''{{sortname|Grover|Cleveland}}'''<br>(1837–1908)<br>''2nd term''<br>{{Sfnp|Campbell|2000}}
+|{{dts|March 4, 1893}}<br>–<br>{{dts|March 4, 1897}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[1892 United States presidential election|1892]]
+|[[Adlai Stevenson&nbsp;I]]
+
+|-
+!rowspan=3 scope=row |[[Presidency of William McKinley|25]]
+|rowspan=3 |[[File:William McKinley Portrait (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of William McKinley|]]
+|rowspan=3 |'''{{sortname|William|McKinley}}'''<br>(1843–1901)<br>{{Sfnp|Gould (a)|2000}}
+|rowspan=3 |{{dts|March 4, 1897}}<br>–<br>{{dts|September 14, 1901}}{{efn |name=diedintraterm}}
+|rowspan=3 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=3 |[[Republican Party (United States)|Republican]]
+|rowspan=2 |[[1896 United States presidential election|1896]]
+|[[Garret Hobart]]{{efn |name=diedintraterm}}
+|- 
+|''Vacant&nbsp;after<br>November 21, 1899''
+|- 
+|[[1900 United States presidential election|1900]]
+|[[Theodore Roosevelt]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Theodore Roosevelt|26]]
+|rowspan=2 |[[File:Theodore Roosevelt by the Pach Bros (4x5 cropped).jpg|frameless|upright=0.5|alt=Photographic portrait of Theodore Roosevelt]]
+|rowspan=2 |'''{{sortname|Theodore|Roosevelt}}'''<br>(1858–1919)<br>{{Sfnp|Harbaugh|2000}}
+|rowspan=2 |{{dts|September 14, 1901}}{{efn|Theodore Roosevelt succeeded to the presidency upon the death of William McKinley.{{Sfnp|Abbott|2005|pp=639–640}}}}<br>–<br>{{dts|March 4, 1909}}
+|rowspan=2 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=2 |[[Republican Party (United States)|Republican]]
+|{{gray|{{endash}}}}
+|''Vacant&nbsp;through<br>March 4, 1905''
+|-
+|[[1904 United States presidential election|1904]]
+|[[Charles W. Fairbanks]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of William Howard Taft|27]]
+|rowspan=2 |[[File:William Howard Taft by Pach Brothers (3x4 ropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of William Howard Taft]]
+|rowspan=2 |'''{{sortname|William Howard|Taft}}'''<br>(1857–1930)<br>{{Sfnp|Gould (b)|2000}}
+|rowspan=2 |{{dts|March 4, 1909}}<br>–<br>{{dts|March 4, 1913}}
+|rowspan=2 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=2 |[[Republican Party (United States)|Republican]]
+|rowspan=2 |[[1908 United States presidential election|1908]]
+|[[James S. Sherman]]{{efn |name=diedintraterm}}
+|-
+|''Vacant&nbsp;after<br>October 30, 1912''
+
+|-
+!rowspan=2 scope=row |[[Presidency of Woodrow Wilson|28]]
+|rowspan=2 |[[File:President Woodrow Wilson Harris & Ewing (3x4 cropped c).jpg|frameless|upright=0.5]]
+|rowspan=2 |'''{{sortname|Woodrow|Wilson}}'''<br>(1856–1924)<br>{{Sfnp|Ambrosius|2000}}
+|rowspan=2 |{{dts|March 4, 1913}}<br>–<br>{{dts|March 4, 1921}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|[[1912 United States presidential election|1912]]
+|rowspan=2 |[[Thomas R. Marshall]]
+|-
+|[[1916 United States presidential election|1916]]
+
+|-
+!scope=row |[[Presidency of Warren G. Harding|29]]
+|[[File:Warren G Harding-Harris & Ewing (3x4 cropped).jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Warren G. Harding]]
+|'''{{sortname|Warren G.|Harding}}'''<br>(1865–1923)<br>{{Sfnp|Hawley|2000}}
+|{{dts|March 4, 1921}}<br>–<br>{{dts|August 2, 1923}}{{efn |name=diedintraterm}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[1920 United States presidential election|1920]]
+|[[Calvin Coolidge]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Calvin Coolidge|30]]
+|rowspan=2 |[[File:President Calvin Coolidge, 1924 head-and-shoulders portrait, facing slightly right (2).jpeg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Calvin Coolidge]]
+|rowspan=2 |'''{{sortname|Calvin|Coolidge}}'''<br>(1872–1933)<br>{{Sfnp|McCoy|2000}}
+|rowspan=2 |{{dts|August 2, 1923}}{{efn|Calvin Coolidge succeeded to the presidency upon the death of Warren G. Harding.{{Sfnp|Senate}}}}<br>–<br>{{dts|March 4, 1929}}
+|rowspan=2 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=2 |[[Republican Party (United States)|Republican]]
+|{{gray|{{endash}}}}
+|''Vacant&nbsp;through<br>March 4, 1925''
+|-
+|[[1924 United States presidential election|1924]]
+|[[Charles G. Dawes]]
+
+|-
+!scope=row |[[Presidency of Herbert Hoover|31]]
+|[[File:Unsuccessful 1932.jpg|frameless|upright=0.5|alt=Black-and-white photographic portrait of Herbert Hoover]]
+|'''{{sortname|Herbert|Hoover}}'''<br>(1874–1964)<br>{{Sfnp|Hoff (a)|2000}}
+|{{dts|March 4, 1929}}<br>–<br>{{dts|March 4, 1933}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[1928 United States presidential election|1928]]
+|[[Charles Curtis]]
+
+|-
+!rowspan=4 scope=row |[[Presidency of Franklin D. Roosevelt|32]]
+|rowspan=4|[[File:FDR-1944-Campaign-Portrait (cropped).jpg|frameless|upright=0.5|alt=Photographic portrait of Franklin D. Roosevelt]]
+|rowspan=4 |'''{{sortname|Franklin D.|Roosevelt}}'''<br>(1882–1945)<br>{{Sfnp|Brinkley|2000}}
+|rowspan=4|{{dts|March 4, 1933}}<br>–<br>{{dts|April 12, 1945}}{{efn |name=diedintraterm}}
+|rowspan=4 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=4|[[Democratic Party (United States)|Democratic]]
+|[[1932 United States presidential election|1932]]
+|rowspan=2|[[John Nance Garner]]
+|-
+|[[1936 United States presidential election|1936]]
+|-
+|[[1940 United States presidential election|1940]]
+|[[Henry A. Wallace]]
+|-
+|[[1944 United States presidential election|1944]]
+|[[Harry S. Truman]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Harry S. Truman|33]]
+|rowspan=2 |[[File:TRUMAN 58-766-06 (cropped).jpg|frameless|upright=0.5|alt=Photographic portrait of Harry S. Truman]]
+|rowspan=2 |'''{{sortname|Harry S.|Truman}}'''<br>(1884–1972)<br>{{Sfnp|Hamby|2000}}
+|rowspan=2 |{{dts|April 12, 1945}}{{efn|Harry S. Truman succeeded to the presidency upon the death of Franklin D. Roosevelt.{{Sfnp|Abbott|2005|p=636}}}}<br>–<br>{{dts|January 20, 1953}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|{{gray|{{endash}}}}
+|''Vacant&nbsp;through<br>January 20, 1949''
+|-
+|[[1948 United States presidential election|1948]]
+|[[Alben W. Barkley]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Dwight D. Eisenhower|34]]
+|rowspan=2 |[[File:Dwight D. Eisenhower, official photo portrait, May 29, 1959 (cropped)(3).jpg|frameless|upright=0.5|alt=Photographic portrait of Dwight D. Eisenhower]]
+|rowspan=2 |'''{{sortname|Dwight D.|Eisenhower}}'''<br>(1890–1969)<br>{{Sfnp|Ambrose|2000}}
+|rowspan=2 |{{dts|January 20, 1953}}<br>–<br>{{dts|January 20, 1961}}
+|rowspan=2 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=2 |[[Republican Party (United States)|Republican]]
+|[[1952 United States presidential election|1952]]
+|rowspan=2 |[[Richard Nixon]]
+|-
+|[[1956 United States presidential election|1956]]
+
+|-
+!scope=row |[[Presidency of John F. Kennedy|35]]
+|[[File:John F. Kennedy, White House color photo portrait.jpg|frameless|upright=0.5|alt=Photographic portrait of John F. Kennedy]]
+|'''{{sortname|John F.|Kennedy}}'''<br>(1917–1963)<br>{{Sfnp|Parmet|2000}}
+|{{dts|January 20, 1961}}<br>–<br>{{dts|November 22, 1963}}{{efn |name=diedintraterm}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[1960 United States presidential election|1960]]
+|[[Lyndon B. Johnson]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Lyndon B. Johnson|36]]
+|rowspan=2 |[[File:37 Lyndon Johnson 3x4.jpg|frameless|upright=0.5|alt=Photographic portrait of Lyndon B. Johnson|]]
+|rowspan=2 |'''{{sortname|Lyndon B.|Johnson}}'''<br>(1908–1973)<br>{{Sfnp|Gardner|2000}}
+|rowspan=2 |{{dts|November 22, 1963}}{{efn|Lyndon B. Johnson succeeded to the presidency upon the death of John F. Kennedy.{{Sfnp|Abbott|2005|p=633}}}}<br>–<br>{{dts|January 20, 1969}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|{{gray|{{endash}}}}
+|''Vacant&nbsp;through<br>January 20, 1965''
+|- 
+|[[1964 United States presidential election|1964]]
+|[[Hubert Humphrey]]
+
+|-
+!rowspan=4 scope=row |[[Presidency of Richard Nixon|37]]
+|rowspan=4 |[[File:Richard Nixon presidential portrait (1).jpg|frameless|upright=0.5|alt=Photographic portrait of Richard Nixon|]]
+|rowspan=4 |'''{{sortname|Richard|Nixon}}'''<br>(1913–1994)<br>{{Sfnp|Hoff (b)|2000}}
+|rowspan=4 |{{dts|January 20, 1969}}<br>–<br>{{dts|August 9, 1974}}{{efn |name=resignedintraterm}}
+|rowspan=4 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=4 |[[Republican Party (United States)|Republican]]
+|[[1968 United States presidential election|1968]]
+|rowspan=2 |[[Spiro Agnew]]{{efn |name=resignedintraterm}}
+|- 
+|rowspan=3 |[[1972 United States presidential election|1972]]
+|- 
+|''Vacant:<br>October 10 – December 6, 1973''
+|-
+|[[Gerald Ford]]{{efn |name=VP25th|Appointed as vice president under terms of the [[Twenty-fifth Amendment to the United States Constitution|Twenty-fifth Amendment]], Section 2{{Sfnp|Neale|2004|p=22}}}}
+
+|-
+!rowspan=2 scope=row |[[Presidency of Gerald Ford|38]]
+|rowspan=2 |[[File:Gerald Ford presidential portrait (cropped 3).jpg|frameless|upright=0.5|alt=Photographic portrait of Gerald Ford]]
+|rowspan=2 |'''{{sortname|Gerald|Ford}}'''<br>(1913–2006)<br>{{Sfnp|Greene|2013}}
+|rowspan=2 |{{dts|August 9, 1974}}{{efn|Gerald Ford succeeded to the presidency upon the resignation of Richard Nixon. Even though Ford served out the remainder of Nixon's second term, he was never elected to the presidency or vice presidency.{{Sfnp|Greene|2013}}}}<br>–<br>{{dts|January 20, 1977}}
+|rowspan=2 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=2 |[[Republican Party (United States)|Republican]]
+|rowspan=2 |{{gray|{{endash}}}}
+|''Vacant&nbsp;through<br>December 19, 1974''
+|- 
+|[[Nelson Rockefeller]]{{efn |name=VP25th}}
+
+|-
+!scope=row |[[Presidency of Jimmy Carter|39]]
+|[[File:Jimmy Carter presidential portrait (cropped 1).jpg|frameless|upright=0.5|alt=Photographic portrait of Jimmy Carter]]
+|'''{{sortname|Jimmy|Carter}}'''<br>(1924–2024)<br>{{Sfnp|whitehouse.gov (a)}}
+|{{dts|January 20, 1977}}<br>–<br>{{dts|January 20, 1981}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[1976 United States presidential election|1976]]
+|[[Walter Mondale]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Ronald Reagan|40]]
+|rowspan=2 |[[File:Official Portrait of President Reagan 1981-cropped.jpg|frameless|upright=0.5|alt=Photographic portrait of Ronald Reagan]]
+|rowspan=2 |'''{{sortname|Ronald|Reagan}}'''<br>(1911–2004)<br>{{Sfnp|Schaller|2004}}
+|rowspan=2 |{{dts|January 20, 1981}}<br>–<br>{{dts|January 20, 1989}}
+|rowspan=2 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=2 |[[Republican Party (United States)|Republican]]
+|[[1980 United States presidential election|1980]]
+|rowspan=2 |[[George H. W. Bush]]
+|-
+|[[1984 United States presidential election|1984]]
+
+|-
+!scope=row |[[Presidency of George H. W. Bush|41]]
+|[[File:George H. W. Bush presidential portrait (cropped 2).jpg|frameless|upright=0.5|alt=Photographic portrait of George H. W. Bush]]
+|'''{{sortname|George H. W.|Bush}}'''<br>(1924–2018)<br>{{Sfnp|whitehouse.gov (b)}}
+|{{dts|January 20, 1989}}<br>–<br>{{dts|January 20, 1993}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[1988 United States presidential election|1988]]
+|[[Dan Quayle]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Bill Clinton|42]]
+|rowspan=2 |[[File:Bill Clinton.jpg|frameless|upright=0.5|alt=Photographic portrait of Bill Clinton]]
+|rowspan=2 |'''{{sortname|Bill|Clinton}}'''<br>({{Born in|1946}})<br>{{Sfnp|whitehouse.gov (c)}}
+|rowspan=2 |{{dts|January 20, 1993}}<br>–<br>{{dts|January 20, 2001}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|[[1992 United States presidential election|1992]]
+|rowspan=2 |[[Al Gore]]
+|- 
+|[[1996 United States presidential election|1996]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of George W. Bush|43]]
+|rowspan=2 |[[File:George-W-Bush.jpeg|frameless|upright=0.5|alt=Photographic portrait of George W. Bush]]
+|rowspan=2 |'''{{sortname|George W.|Bush}}'''<br>({{Born in|1946}})<br>{{Sfnp|whitehouse.gov (d)}}
+|rowspan=2 |{{dts|January 20, 2001}}<br>–<br>{{dts|January 20, 2009}}
+|rowspan=2 style="background-color:{{party color|Republican Party (United States)}}" |
+|rowspan=2 |[[Republican Party (United States)|Republican]]
+|[[2000 United States presidential election|2000]]
+|rowspan=2 |[[Dick Cheney]]
+|-
+|[[2004 United States presidential election|2004]]
+
+|-
+!rowspan=2 scope=row |[[Presidency of Barack Obama|44]]
+|rowspan=2 |[[File:President Barack Obama, 2012 portrait crop.jpg|frameless|upright=0.5|alt=Photographic portrait of Barack Obama]]
+|rowspan=2 |'''{{sortname|Barack|Obama}}'''<br>({{Born in|1961}})<br>{{Sfnp|whitehouse.gov (e)}}
+|rowspan=2 |{{dts|January 20, 2009}}<br>–<br>{{dts|January 20, 2017}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|[[2008 United States presidential election|2008]]
+|rowspan=2 |[[Joe Biden]]
+|- 
+|[[2012 United States presidential election|2012]]
+
+|-
+!scope=row |[[First presidency of Donald Trump|45]]
+|[[File:Donald Trump official portrait (3x4a).jpg|frameless|upright=0.5|alt=Photographic portrait of Donald Trump]]
+|'''{{sortname|Donald|Trump}}'''<br>({{Born in|1946}})<br>''1st term''<br>{{Sfnp|whitehouse.gov (f)}}
+|{{dts|January 20, 2017}}<br>–<br>{{dts|January 20, 2021}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[2016 United States presidential election|2016]]
+|[[Mike Pence]]
+
+|-
+!scope=row |[[Presidency of Joe Biden|46]]
+|[[File:Joe Biden presidential portrait (cropped).jpg|frameless|upright=0.5|alt=Photographic portrait of Joe Biden]]
+|'''{{sortname|Joe|Biden}}'''<br>({{Born in|1942}})<br>{{Sfnp|whitehouse.gov (g)}}
+|{{dts|January 20, 2021}}<br>–<br>{{dts|January 20, 2025}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[2020 United States presidential election|2020]]
+|[[Kamala Harris]]
+
+|-
+!scope=row |[[Second presidency of Donald Trump|47]]
+|[[File:Official Presidential Portrait of President Donald J. Trump (2025).jpg|frameless|upright=0.5|alt=Photographic portrait of Donald Trump]]
+|'''{{sortname|Donald|Trump}}'''<br>({{Born in|1946}})<br>''2nd term''<br>{{Sfnp|whitehouse.gov (f)}}
+|{{dts|January 20, 2025}}<br>–<br>''Incumbent''
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[2024 United States presidential election|2024]]
+|[[JD Vance]]
+|}
+
+=== Timeline ===
+{{Timeline of presidents of the United States}}
+
+== See also ==
+* [[Acting President of the United States]]
+* [[Founding Fathers of the United States]]
+* [[Historical rankings of presidents of the United States]]
+* [[List of vice presidents of the United States]]
+* [[President of the Continental Congress]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist|20em}}
+
+== Works cited ==
+{{Refbegin|30em}}
+'''General'''
+*{{cite book |title=Guide to U.S. Elections |publisher=[[SAGE Publications]] |year=2010 |isbn=978-1-60426-536-1 |ref={{sfnRef|''Guide to U.S. Elections''|2010}}}}
+*{{cite web |title=Chronological List of Presidents, First Ladies, and Vice Presidents of the United States |url=https://www.loc.gov/rr/print/list/057_chron.html |access-date=February 20, 2020 |publisher=[[Library of Congress]] |ref={{sfnRef|LOC}}}}
+*{{cite web |title=Presidents |url=https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/ |access-date=May 14, 2022 |publisher=[[whitehouse.gov]] |ref={{sfnRef|whitehouse.gov}}}}
+
+'''Expert studies'''
+*{{cite journal |last=Abbott |first=Philip |author-link=Philip Abbott (academic) |date=2005 |title=Accidental Presidents: Death, Assassination, Resignation, and Democratic Succession. |journal=[[Presidential Studies Quarterly]] |publisher=[[Wiley (publisher)|Wiley]] |volume=35 |issue=4 |pages=627–645 |doi=10.1111/j.1741-5705.2005.00269.x |issn=0360-4918 |jstor=27552721}}
+*{{cite book |last=Abbott |first=Philip |title=Bad Presidents. The Evolving American Presidency Series |publisher=[[Palgrave Macmillan]] |year=2013 |isbn=978-1-349-45513-3 |chapter=The First Bad President?: John Tyler |pages=23–42 |doi=10.1057/9781137306593_2}}
+*{{cite journal |last=Cash |first=Jordan T. |date=2018 |title=The Isolated Presidency: John Tyler and Unilateral Presidential Power |url=https://www.researchgate.net/publication/322606308 |journal=[[American Political Thought]] |volume=7 |pages=26–56 |doi=10.1086/695644 |s2cid=158133180 |via=[[ResearchGate]] |issn=2161-1580}}
+*{{cite journal |last=Dinnerstein |first=Leonard |date=1962 |title=The Accession of John Tyler to the Presidency. |journal=Virginia Magazine of History and Biography |publisher=[[Virginia Historical Society]] |volume=70 |issue=4 |pages=447–458 |jstor=4246893}}
+*{{cite journal |last=Epstein |first=Richard A. |date=2005 |title=Executive Power, the Commander in Chief, and the Militia Clause |url=https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?article=2384&context=hlr |journal=[[Hofstra Law Review]] |volume=34 |issue=2 |issn=0091-4029}}
+*{{cite book |last=Goldman |first=Ralph Morris |year=1951 |title=Party Chairmen and Party Faction, 1789–1900: A Theory of Executive Responsibility and Conflict Resolution |publisher=[[University of Chicago Press]] |oclc=1243718246}}
+*{{cite magazine |last=Houpt |first=David W. |date=2010 |title=Securing a Legacy |magazine=[[The Virginia Magazine of History and Biography]] |publisher=[[Virginia Historical Society]] |volume=118 |issue=1 |id={{ProQuest|195929787}}}}
+*{{cite book |last=Matuz |first=Roger |title=Complete American Presidents Sourcebook |publisher=UXL |year=2001 |isbn=978-0-7876-4842-8 |lccn=00056794 |ol=24722725M}}
+*{{cite journal |last1=McHugh |first1=Jane |last2=Mackowiak |first2=Philip A. |date=2014 |title=Death in the White House: President William Henry Harrison's Atypical Pneumonia |journal=[[Clinical Infectious Diseases]] |publisher=[[Oxford University Press]] |volume=59 |issue=7 |pages=990–995 |doi=10.1093/cid/ciu470 |jstor=24032403 |pmid=24962997 |doi-access=free}}
+*{{cite journal |last=McSeveney |first=Samuel T. |date=1986 |title=Re-electing Lincoln: The Union Party Campaign and the Military Vote in Connecticut |journal=[[Civil War History]] |publisher=[[Kent State University Press]] |volume=32 |issue=2 |pages=139–158 |doi=10.1353/cwh.1986.0032 |s2cid=144623179}}
+*{{cite book |title=The Constitution and American Political Development: An Institutional Perspective |publisher=[[University of Illinois Press]] |year=1992 |isbn=978-0-252-01787-2 |editor-last=Nardulli |editor-first=Peter F.}}
+*{{cite web |last=Neale |first=Thomas H. |date=2004 |title=Presidential and Vice Presidential Succession: Overview and Current Legislation |publisher=[[Congressional Research Service]] |url=https://fas.org/sgp/crs/misc/RL31761.pdf |access-date=November 14, 2023}}
+*{{cite journal |last1=Peabody |first1=Bruce G. |last2=Gant |first2=Scott E. |date=1999 |title=The Twice and Future President: Constitutional Interstices and the Twenty-Second Amendment |url=https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1908&context=mlr |journal=[[Minnesota Law Review]] |volume=83 |issue=565 |issn=0026-5535}}
+*{{cite journal |last=Rossiter |first=Clinton |date=1962 |title=Powers of the United States President and Congress |journal=Pakistan Horizon |volume=15 |publisher=[[Pakistan Institute of International Affairs]] |issue=2 |pages=85–92 |jstor=41392704}}
+*{{cite journal |last1=Schaller |first1=Thomas F. |author-link1=Thomas Schaller |last2=Williams |first2=Thomas W. |date=2003 |title='The Contemporary Presidency': Postpresidential Influence in the Postmodern Era |journal=[[Presidential Studies Quarterly]] |publisher=[[Center for Congressional and Presidential Studies]] |volume=33 |issue=1 |pages=188–200 |jstor=27552468}}
+*{{cite journal |last=Shugart |first=Matthew S. |date=2004 |title=Elections': The American Process of Selecting a President: A Comparative Perspective |journal=[[Presidential Studies Quarterly]] |publisher=[[Center for Congressional and Presidential Studies]] |volume=34 |issue=3 |pages=632–655 |doi=10.1111/j.1741-5705.2004.00216.x |jstor=27552617}}
+*{{cite journal |last=Skau |first=George H. |date=1974 |title=Franklin D. Roosevelt and the Expansion of Presidential Power |journal=[[Current History]] |publisher=[[University of California Press]] |volume=66 |issue=394 |pages=246–275 |doi=10.1525/curh.1974.66.394.246 |jstor=45313079 |s2cid=248394036}}
+
+'''Presidential biographies'''
+*{{cite web |last=Ambrose |first=Stephen E. |date=2000 |orig-date=1999 |title=Eisenhower, Dwight David |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0700094 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0700094 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Ambrosius |first=Lloyd E. |date=2000 |orig-date=1999 |title=Wilson, Woodrow |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0600726 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0600726 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Ammon |first=Harry |date=2000 |orig-date=1999 |title=Monroe, James |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0300338 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0300338 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Anbinder |first=Tyler |date=2000 |orig-date=1999 |title=Fillmore, Millard |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0400374 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0400374 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Banning |first=Lance |date=2000 |orig-date=1999 |title=Madison, James |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0300303 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0300303 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Brinkley |first=Alan |date=2000 |orig-date=1999 |title=Roosevelt, Franklin Delano |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0600567 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0600567 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Campbell |first=Ballard C. |date=2000 |orig-date=1999 |title=Cleveland, Grover |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0500144 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0500144 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Cole |first=Donald B. |date=2000 |orig-date=1999 |title=Van Buren, Martin |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0300507 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0300507 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Gara |first=Larry |date=2000 |orig-date=1999 |title=Pierce, Franklin |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0400788 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0400788 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Gardner |first=Lloyd |date=2000 |orig-date=1999 |title=Johnson, Lyndon Baines |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0700147 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0700147 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Gienapp |first=William E. |date=2000 |orig-date=1999 |title=Buchanan, James |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0400170 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0400170 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Gould |first=Lewis L. |date=2000 |orig-date=1999 |title=McKinley, William |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0500507 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0500507 |isbn=978-0-19-860669-7 |ref={{sfnRef|Gould (a)|2000}}}}
+*{{cite web |last=Gould |first=Lewis L. |date=2000 |orig-date=1999 |title=Taft, William Howard |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0600642 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0600642 |isbn=978-0-19-860669-7 |ref={{sfnRef|Gould (b)|2000}}}}
+*{{cite book |last=Greenberger |first=Scott S. |title=The Unexpected President: The Life and Times of Chester A. Arthur |date=2017 |publisher=Da Capo Press |isbn=978-0-306-82390-9}}
+*{{cite web |last=Greene |first=John Robert |date=2013 |title=Ford, Gerald R., Jr. |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1501345 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.1501345 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Gutzman |first=K. R. Constantine |date=2000 |orig-date=1999 |title=Harrison, William Henry |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0300211 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0300211 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Hamby |first=Alonzo L. |date=2000 |orig-date=1999 |title=Truman, Harry S. |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0700307 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0700307 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Harbaugh |first=William H. |date=2000 |orig-date=1999 |title=Roosevelt, Theodore |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0600569 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0600569 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Hargreaves |first=Mary W. M. |date=2000 |orig-date=1999 |title=Adams, John Quincy |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0300002 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0300002 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Hawley |first=Ellis W. |date=2000 |orig-date=1999 |title=Harding, Warren Gamaliel |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0600253 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0600253 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Hoff |first=Joan |date=2000 |orig-date=1999 |title=Hoover, Herbert Clark |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0600287 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0600287 |isbn=978-0-19-860669-7 |ref={{sfnRef|Hoff (a)|2000}}}}
+*{{cite web |last=Hoff |first=Joan |date=2000 |orig-date=1999 |title=Nixon, Richard Milhous |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0700684 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0700684 |isbn=978-0-19-860669-7 |ref={{sfnRef|Hoff (b)|2000}}}}
+*{{cite web |last=Hoogenboom |first=Ari |date=2000 |orig-date=1999 |title=Hayes, Rutherford Birchard |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0500331 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0500331 |isbn=978-0-19-860669-7}}
+*{{cite web |last=McCoy |first=Donald R. |date=2000 |orig-date=1999 |title=Coolidge, Calvin |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0600109 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0600109 |isbn=978-0-19-860669-7}}
+*{{cite web |last=McDonald |first=Forrest |date=2000 |orig-date=1999 |title=Washington, George |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0200332 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0200332 |isbn=978-0-19-860669-7}}
+*{{cite web |last=McPherson |first=James M. |date=2000 |orig-date=1999 |title=Grant, Ulysses S. |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0500291 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0500291 |isbn=978-0-19-860669-7 |ref={{sfnRef|McPherson (a)|2000}}}}
+*{{cite web |last=McPherson |first=James M. |date=2000 |orig-date=1999 |title=Lincoln, Abraham |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0400631 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0400631 |isbn=978-0-19-860669-7 |ref={{sfnRef|McPherson (b)|2000}}}}
+*{{cite web |last=Parmet |first=Herbert S. |date=2000 |orig-date=1999 |title=Kennedy, John Fitzgerald |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0700152 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0700152 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Pencak |first=William |date=2000 |orig-date=1999 |title=Adams, John |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0100007 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0100007 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Peskin |first=Allan |date=2000 |orig-date=1999 |title=Garfield, James Abram |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0500264 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0500264 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Peterson |first=Merrill D. |date=2000 |title=Jefferson, Thomas |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0200196 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0200196 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Rawley |first=James A. |date=2000 |orig-date=1999 |title=Polk, James Knox |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0400795 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0400795 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Reeves |first=Thomas C. |date=2000 |orig-date=1999 |title=Arthur, Chester Alan |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0500033 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0500033 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Remini |first=Robert V. |date=2000 |orig-date=1999 |title=Jackson, Andrew |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0300238 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0300238 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Schaller |first=Michael |date=2004 |title=Reagan, Ronald Wilson |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0700791 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0700791 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Shade |first=William G. |date=2000 |orig-date=1999 |title=Tyler, John |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0401004 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0401004 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Smith |first=Elbert B. |date=2000 |orig-date=1999 |title=Taylor, Zachary |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0400978 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0400978 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Spetter |first=Allan Burton |date=2000 |orig-date=1999 |title=Harrison, Benjamin |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0500320 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0500320 |isbn=978-0-19-860669-7}}
+*{{cite web |last=Trefousse |first=Hans L. |date=2000 |orig-date=1999 |title=Johnson, Andrew |url=https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-0400566 |access-date=May 14, 2022 |website=[[American National Biography]] |publisher=[[Oxford University Press]] |doi=10.1093/anb/9780198606697.article.0400566 |isbn=978-0-19-860669-7}}
+*{{cite web |title=James Carter |url=https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/james-carter/ |access-date=May 14, 2022 |publisher=[[whitehouse.gov]] ([[National Archives and Records Administration|NARA]] Archive) |ref={{sfnRef|whitehouse.gov (a)}}}}
+*{{cite web |title=George H. W. Bush |url=https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/george-h-w-bush/ |access-date=May 14, 2022 |publisher=[[whitehouse.gov]] ([[National Archives and Records Administration|NARA]] Archive) |ref={{sfnRef|whitehouse.gov (b)}}}}
+*{{cite web |title=William J. Clinton |url=https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/william-j-clinton/ |access-date=May 14, 2022 |publisher=[[whitehouse.gov]] ([[National Archives and Records Administration|NARA]] Archive) |ref={{sfnRef|whitehouse.gov (c)}}}}
+*{{cite web |title=George W. Bush |url=https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/george-w-bush/ |access-date=May 14, 2022 |publisher=[[whitehouse.gov]] ([[National Archives and Records Administration|NARA]] Archive) |ref={{sfnRef|whitehouse.gov (d)}}}}
+*{{cite web |title=Barack Obama |url=https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/barack-obama/ |access-date=May 14, 2022 |publisher=[[whitehouse.gov]] ([[National Archives and Records Administration|NARA]] Archive) |ref={{sfnRef|whitehouse.gov (e)}}}}
+*{{cite web |title=Donald Trump |url=https://www.whitehouse.gov/administration/donald-j-trump/ |access-date=September 15, 2026 |publisher=[[whitehouse.gov]] ([[National Archives and Records Administration|NARA]] Archive) |ref={{sfnRef|whitehouse.gov (f)}}}}
+*{{cite web |title=Joe Biden |url=https://bidenwhitehouse.archives.gov/administration/president-biden/ |access-date=May 14, 2022 |publisher=[[whitehouse.gov]] ([[National Archives and Records Administration|NARA]] Archive) |ref={{sfnRef|whitehouse.gov (g)}}}}
+
+'''Online sources'''
+*{{cite web |last=Jamison |first=Dennis |date=December 31, 2014 |title=George Washington's Views on Political Parties in America |newspaper=[[The Washington Times]] |url=https://www.washingtontimes.com/news/2014/dec/31/george-washingtons-views-political-parties-america/ |access-date=February 20, 2020}}
+*{{cite web |title=Creating the United States: Formation of Political Parties |publisher=[[Library of Congress]] |url=https://www.loc.gov/exhibits/creating-the-united-states/formation-of-political-parties.html |access-date=July 31, 2022 |ref={{sfnRef|LOC (2)}}}}
+*{{cite web |title=President's Swearing-in Ceremony |publisher=[[United States Senate]] |url=https://www.inaugural.senate.gov/presidents-swearing-in-ceremony/ |access-date=July 31, 2022 |ref={{sfnRef|Senate}}}}
+*{{cite web |last=Freile |first=Victoria E. |date=November 6, 2024 |title=When does Trump take office? What to know about Inauguration Day 2025 |url=https://www.democratandchronicle.com/story/news/2024/11/06/when-does-trump-take-office-inauguration-day-2025/76087488007/ |access-date=November 6, 2024 |work=[[Democrat and Chronicle]] |language=en-US}}
+*{{cite web |last=Hajela |first=Deepti |date=November 6, 2024 |title=Trump isn't first to be second: Grover Cleveland set precedent of non-consecutive presidential terms |url=https://apnews.com/article/grover-cleveland-president-nonconsecutive-terms-7ea2c92c72911462ccb1bc2e7352fa23 |access-date=November 6, 2024 |work=[[Associated Press]] |language=en}}
+*{{cite web |date=November 15, 2024 |title=Live election updates: Donald Trump wins US presidency |url=https://apnews.com/live/trump-harris-election-updates-11-5-2024 |access-date=November 30, 2024 |work=[[Associated Press]] |language=en |ref={{sfnRef|AP|2024}}}}
+{{Refend}}
+
+== External links ==
+* {{Commons-inline|Category:Presidents of the United States|President of the United States}}
+* {{Wikiquote-inline|List of presidents of the United States}}
+
+{{US presidents}}
+{{Lists of US presidents and vice presidents}}
+{{US Chief Executives}}
+
+[[Category:Lists of national presidents|United States]]
+[[Category:Lists relating to the United States presidency|*]]
+[[Category:Presidents of the United States|*]]
+[[Category:Lists of heads of government]]

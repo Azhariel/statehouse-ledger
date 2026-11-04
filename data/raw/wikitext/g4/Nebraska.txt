@@ -1,0 +1,732 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox Political post
+| post = Governor
+| body = Nebraska
+| insignia = Nebraska-StateSeal.svg
+| insignia_size = 100px
+| insignia_caption = Seal of [[Nebraska]]
+| image = Governor Pillen of Nebraska.jpg
+| incumbent = [[Jim Pillen]]
+| incumbent_since = January 5, 2023
+| style = The Honorable
+| term_length = 4 years, renewable once consecutively
+| residence = [[Nebraska Governor's Mansion]]
+| formation = [[Constitution of Nebraska]]
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Nebraska|Line of succession]]
+| deputy = [[Lieutenant Governor of Nebraska]]
+| inaugural = [[David Butler (politician)|David Butler]]
+| salary = $105,000 [[United States dollar|USD]] (2022)<ref>{{Cite web |title=Governor of Nebraska |url=https://ballotpedia.org/Governor_of_Nebraska |access-date=April 2, 2022 |publisher=Ballotpedia}}</ref>
+| website = {{URL|governor.nebraska.gov}}
+}}
+The '''governor of Nebraska''' is the [[head of government]] of the [[U.S. state]] of [[Nebraska]] as provided by the fourth article of the [[Constitution of Nebraska]]. The officeholder is elected to a four-year term, with elections held two years after presidential elections. The governor may be elected any number of times, but not more than twice in a row. The current officeholder is [[Jim Pillen]], a [[Nebraska Republican Party|Republican]], who was sworn in on January 5, 2023.
+
+Governors of Nebraska must be at least 30 years old and have been citizens and residents of the state for five years before being elected. Before 1966, the governor was elected to a two-year term. In 1962, a constitutional amendment extended the gubernatorial term to four years, effective with the [[1966 Nebraska gubernatorial election|1966 election]]. In 1966, another amendment imposed a [[term limit]] of two consecutive terms. The lieutenant governor is subject to the same limitations and runs on a combined ticket with the governor. [[Charles W. Bryan]] is the only Governor of Nebraska to serve non-consecutive terms. [[Dave Heineman]] holds the record as Nebraska's longest-serving governor with 10 years.
+
+The governor's term, along with all other elected statewide officers, begins on the first Thursday after the first Tuesday in the month of January after an election.<ref name="term">{{Cite web |title=Nebraska State Constitution Article XVII-5 |url=https://nebraskalegislature.gov/laws/articles.php?article=XVII-5 |website=Nebraska Legislature}}</ref> If the governor becomes incapacitated or is out of the state, the lieutenant governor acts as governor; if there is a vacancy or permanent incapacitation, the lieutenant governor becomes governor and serves the balance of the term. However, if both offices become vacant, the next person in the line of succession is the [[List of speakers of the Nebraska Legislature|Speaker of the Nebraska Legislature]], who is then followed by the [[Gubernatorial lines of succession in the United States#Nebraska|chairs of various committees]] in the legislature.
+
+==List of governors==
+===Nebraska Territory===
+[[Nebraska Territory]] was organized on May 30, 1854.<ref>{{usstat|10|277}}</ref> It had five governors appointed by the [[president of the United States]].
+
+On July 26, 1853, [[William Walker (Wyandot leader)|William Walker]] was elected provisional governor of Nebraska Territory; this spurred the federal government into action to organize the territory.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Nebraska
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor left office.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Burt, Francis"|[[File:Francis Burt.jpg|75px]]
+|'''[[Francis Burt (Nebraska governor)|Francis Burt]]'''<br>{{small|(1807–1854)}}<br>{{sfn|McMullin|1984|pp=223–224}}
+|data-sort-value="78"|August 2, 1854{{efn|[[William Orlando Butler]] was nominated on June 22, 1854,<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., 1st sess., [https://books.google.com/books?id=R82GAAAAMAAJ&pg=PA339 339], accessed March 27, 2023.</ref> and confirmed by the Senate on June 29,<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., 1st sess., [https://books.google.com/books?id=R82GAAAAMAAJ&pg=PA345 345], accessed March 27, 2023.</ref> but declined the nomination.<ref name="burt-nomination" /> Burt was then nominated<ref name="burt-nomination">U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., 1st sess., [https://books.google.com/books?id=R82GAAAAMAAJ&pg=PA375 375], accessed March 27, 2023.</ref> and confirmed by the Senate on August 2,<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., 1st sess., [https://books.google.com/books?id=R82GAAAAMAAJ&pg=PA380 380], accessed March 27, 2023.</ref> and was sworn in on October 16.{{sfn|McMullin|1984|pp=223–224}}}}<br />&ndash;<br />October 18, 1854<br>{{small|(78 days; died in office)}}{{efn|Burt died two days after being sworn in; Territorial Secretary [[Thomas B. Cuming]] acted as governor until Burt's successor arrived in the territory.{{sfn|McMullin|1984|pp=223–224}}}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Izard, Mark"|[[File:Mark Whitaker Izard.jpg|75px]]
+|'''[[Mark W. Izard]]'''<br>{{small|(1799–1866)}}<br>{{sfn|McMullin|1984|pp=224–225}}
+|data-sort-value="1041"|December 20, 1854{{efn|Izard was nominated, and confirmed by the Senate, on December 20, 1854,<ref>U.S. Congress. ''Senate Exec. Journal''. 33rd Cong., 2nd sess., [https://books.google.com/books?id=R82GAAAAMAAJ&pg=PA393 393], accessed March 27, 2023.</ref> and arrived in the territory on February 20, 1855.{{sfn|McMullin|1984|pp=224–225}}}}<br />&ndash;<br />October 25, 1857<br>{{small|(1041 days; resigned)}}{{efn|Izard resigned due to political pressure from the president; Territorial Secretary [[Thomas B. Cuming]] acted as governor until Izard's successor arrived in the territory.{{sfn|McMullin|1984|pp=224–225}}}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Richardson, William"|[[File:William Alexander Richardson - Brady-Handy.jpg|75px]]
+|'''[[William Alexander Richardson]]'''<br>{{small|(1811–1875)}}<br>{{sfn|McMullin|1984|pp=225–227}}
+|data-sort-value="361"|December 10, 1857{{efn|Richardson was nominated, and confirmed by the Senate, on December 10, 1857,<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., 1st sess., [https://books.google.com/books?id=AC3jtBfAEa0C&pg=PA262 262], accessed March 27, 2023.</ref> and arrived in the territory on January 12, 1858.{{sfn|McMullin|1984|pp=225–227}}}}<br />&ndash;<br />December 5, 1858<br>{{small|(361 days; resigned)}}{{efn|Richardson resigned due to political issues between him and President [[James Buchanan]]; Territorial Secretary [[Julius Sterling Morton]] acted as governor until Richardson's successor arrived in the territory.{{sfn|McMullin|1984|pp=225–227}}}}
+|{{sortname|James|Buchanan}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Black, Samuel"|[[File:SamuelWBlack.jpg|75px]]
+|'''[[Samuel W. Black]]'''<br>{{small|(1816–1862)}}<br>{{sfn|McMullin|1984|pp=227–228}}
+|data-sort-value="748"|February 8, 1859{{efn|Black was nominated on February 3, 1859,<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., 2nd sess., [https://books.google.com/books?id=5i8tAQAAMAAJ&pg=PA50 50], accessed March 27, 2023.</ref> and confirmed by the Senate on February 8;<ref>U.S. Congress. ''Senate Exec. Journal''. 35th Cong., 2nd sess., [https://books.google.com/books?id=5i8tAQAAMAAJ&pg=PA53 53], accessed March 27, 2023.</ref> he was already residing in the territory when appointed.{{sfn|McMullin|1984|pp=227–228}}}}<br />&ndash;<br />February 24, 1861<br>{{small|(748 days; resigned)}}{{efn|Black resigned, anticipating removal by the newly-elected president [[Abraham Lincoln]];{{sfn|McMullin|1984|pp=227–228}} Lincoln's nomination of his successor specifies "vice Samuel L. Black, removed".<ref name="saunders-nomination" /> Territorial Secretary [[Julius Sterling Morton]] and later Territorial Secretary [[Algernon S. Paddock]] acted as governor until Black's successor arrived in the territory.{{sfn|McMullin|1984|pp=227–228}}}}
+|{{sortname|James|Buchanan}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Saunders, Alvin"|[[File:Alvin Saunders - Brady-Handy.jpg|75px]]
+|rowspan="2"|'''[[Alvin Saunders]]'''<br>{{small|(1817–1899)}}<br>{{sfn|McMullin|1984|pp=228–230}}
+|rowspan="2" data-sort-value="2192"|March 27, 1861{{efn|Saunders was nominated on March 26, 1861;<ref name="saunders-nomination">U.S. Congress. ''Senate Exec. Journal''. 37th Cong., special sess., [https://books.google.com/books?id=2dOGAAAAMAAJ&pg=PA343 343], accessed March 27, 2023.</ref> confirmed by the Senate on March 27;<ref>U.S. Congress. ''Senate Exec. Journal''. 37th Cong., special sess., [https://books.google.com/books?id=2dOGAAAAMAAJ&pg=PA352 352], accessed March 27, 2023.</ref> and arrived in the territory on May 18.{{sfn|McMullin|1984|pp=228–230}} He was reconfirmed by the Senate on January 9, 1866.<ref>U.S. Congress. ''Senate Exec. Journal''. 39th Cong., 1st sess., [https://books.google.com/books?id=VS8tAQAAMAAJ&pg=PA317 317], accessed March 27, 2023.</ref>}}<br />&ndash;<br />March 27, 1867<br>{{small|(2192 days; statehood)}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+|{{sortname|Andrew|Johnson}}
+|}
+
+===State of Nebraska===
+
+Nebraska was [[admission to the Union|admitted to the Union]] on March 1, 1867.<ref>{{usstat|14|820}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Nebraska
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Nebraska|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1875.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|1
+|rowspan="3" data-sort-value="Butler, David"|[[File:Hon. David Butler. Governor Nebraska - NARA - 528665.jpg|75px]]
+|rowspan="14" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|rowspan="3"|'''[[David Butler (politician)|David Butler]]'''<br>{{small|(1829–1891)}}<br>{{sfn|Sobel|1978|p=889}}<ref name="nga-butler">{{Cite web |title=David Butler |url=https://www.nga.org/governor/david-butler/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1529"|March 27, 1867<ref>{{Cite book |last=Morton |first=Julius Sterling |url=https://books.google.com/books?id=IkfWAAAAMAAJ&pg=PA1 |title=Illustrated History of Nebraska: A History of Nebraska from the Earliest Explorations of the Trans-Mississippi Region, with Steel Engravings, Photogravures, Copper Plates, Maps, and Tables |date=1913 |publisher=J. North |page=1 |language=en}}</ref><br />&ndash;<br />June 2, 1871<br>{{small|(1529 days;<br>impeached and removed)}}{{efn|Butler was impeached and removed for misappropriating state funds; the impeachment was expunged six years later.{{sfn|Sobel|1978|p=889}}}}
+|rowspan="3"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1866 Nebraska gubernatorial election|1866]]
+|colspan="2" rowspan="6" style="background:#EEEEEE;"|''Office did not exist''
+|- style="height:2em;"
+|[[1868 Nebraska gubernatorial election|1868]]
+|- style="height:2em;"
+|[[1870 Nebraska gubernatorial election|1870]]
+|- style="height:2em;"
+!scope="row"|–
+|data-sort-value="James, William"|[[File:William H. James.gif|75px]]
+|'''[[William H. James]]'''<br>{{small|(1831–1920)}}<br>{{sfn|Sobel|1978|p=890}}<ref name="nga-james">{{Cite web |title=William Hartford James |url=https://www.nga.org/governor/william-hartford-james/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="592"|June 2, 1871<ref>{{Cite book |url=https://books.google.com/books?id=WHoUAAAAYAAJ&pg=RA4-PA54 |title=Impeachment Trial of David Butler, Governor of Nebraska, at Lincoln |date=1871 |publisher=Tribune Steam Book and Job Printing House |page=54 |language=en}}</ref><br />&ndash;<br />January 13, 1873<br>{{small|(592 days; retired)}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|style="background:#EEEEEE;"|{{small|Secretary<br>of state<br>acting}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Furnas, Robert"|[[File:Robert Wilkinson Furnace.jpg|75px]]
+|'''[[Robert Wilkinson Furnas]]'''<br>{{small|(1824–1905)}}<br>{{sfn|Sobel|1978|pp=890–891}}<ref name="nga-furnas">{{Cite web |title=Robert Wilkinson Furnas |url=https://www.nga.org/governor/robert-wilkinson-furnas/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="730"|January 13, 1873<ref>Nebraska General Assembly. ''Journal of the House of Representatives''. 9th Regular Session, 1873, [https://books.google.com/books?id=a3MtAQAAMAAJ&pg=PA62 62], accessed March 27, 2023.</ref><br />&ndash;<br />January 12, 1875<br>{{small|(730 days; retired)}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1872 Nebraska gubernatorial election|1872]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Garber, Silas"|[[File:Silas Garber published 1913.jpg|75px]]
+|rowspan="2"|'''[[Silas Garber]]'''<br>{{small|(1833–1905)}}<br>{{sfn|Sobel|1978|pp=891–892}}<ref name="nga-garber">{{Cite web |title=Silas Garber |url=https://www.nga.org/governor/silas-garber/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1459"|January 12, 1875<ref>Nebraska General Assembly. ''Journal of the Senate''. 11th Regular Session, 1875, [https://books.google.com/books?id=9ZYtAQAAMAAJ&pg=PA131 131], accessed March 27, 2023.</ref><br />&ndash;<br />January 9, 1879<br>{{small|(1459 days; retired)}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1874 Nebraska gubernatorial election|1874]]
+|- style="height:2em;"
+|[[1876 Nebraska gubernatorial election|1876]]
+|rowspan="13" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|Othman A.|Abbott}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Nance, Albinus"|[[File:Albinus Nance.jpg|75px]]
+|rowspan="2"|'''[[Albinus Nance]]'''<br>{{small|(1848–1911)}}<br>{{sfn|Sobel|1978|pp=892–893}}<ref name="nga-nance">{{Cite web |title=Albinus Nance |url=https://www.nga.org/governor/albinus-nance/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 9, 1879<ref>Nebraska General Assembly. ''Journal of the House of Representatives''. 15th Regular Session, 1879, [https://books.google.com/books?id=tuNKAQAAMAAJ&pg=PA90 90], accessed March 27, 2023.</ref><br />&ndash;<br />January 4, 1883<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1878 Nebraska gubernatorial election|1878]]
+|rowspan="2"|{{sortname|Edmund C.|Carns}}
+|- style="height:2em;"
+|[[1880 Nebraska gubernatorial election|1880]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Dawes, James"|[[File:James William Dawes.jpg|75px]]
+|rowspan="2"|'''[[James W. Dawes]]'''<br>{{small|(1845–1918)}}<br>{{sfn|Sobel|1978|pp=893–894}}<ref name="nga-dawes">{{Cite web |title=James William Dawes |url=https://www.nga.org/governor/james-william-dawes/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1883<ref>Nebraska General Assembly. ''Journal of the House of Representatives''. 18th Regular Session, 1883, [https://books.google.com/books?id=yi8bAQAAIAAJ&pg=PA108 108], accessed March 27, 2023.</ref><br />&ndash;<br />January 6, 1887<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1882 Nebraska gubernatorial election|1882]]
+|{{sortname|Alfred W.|Agee}}
+|- style="height:2em;"
+|[[1884 Nebraska gubernatorial election|1884]]
+|rowspan="2"|{{sortname|Hibbard H.|Shedd}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|6
+|rowspan="3" data-sort-value="Thayer, John"|[[File:John Milton Thayer - Brady-Handy.jpg|75px]]
+|rowspan="3"|'''[[John Milton Thayer]]'''<br>{{small|(1820–1906)}}<br>{{sfn|Sobel|1978|pp=894–895}}<ref name="nga-thayer">{{Cite web |title=John Milton Thayer |url=https://www.nga.org/governor/john-milton-thayer/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1471"|January 6, 1887<ref>{{Cite news |date=1887-01-07 |title=The Oath of Office |page=4 |work=The Nebraska State Journal |url=https://www.newspapers.com/article/121793412/thayer-inaugurated-january-6/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 15, 1891<br>{{small|(1471 days; retired)}}{{efn|Thayer was not a candidate in the 1890 election, which Boyd won, and was due to be sworn in on January 8, 1891. However, Thayer challenged Boyd's citizenship, and thus eligibility to be governor, which delayed his inauguration until January 15. The [[Supreme Court of Nebraska]] then ruled that Boyd was ineligible, and Thayer took office again on May 5; however, the [[Supreme Court of the United States]] later ruled that Boyd was eligible, and he took office on February 8, 1892.{{sfn|Sobel|1978|pp=894–895}}{{sfn|Sobel|1978|pp=895–896}}|name=thayer-boyd}}
+|rowspan="3"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1886 Nebraska gubernatorial election|1886]]
+|- style="height:2em;"
+|rowspan="2"|[[1888 Nebraska gubernatorial election|1888]]
+|{{sortname|George|de Rue Meiklejohn}}
+|- style="height:2em;"
+|rowspan="5"|{{sortname|Thomas Jefferson|Majors}}{{efn|Represented the [[Nebraska Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Boyd, James"|[[File:James E Boyd Nebraska Governor.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James E. Boyd (politician)|James E. Boyd]]'''<br>{{small|(1834–1906)}}<br>{{sfn|Sobel|1978|pp=895–896}}<ref name="nga-boyd">{{Cite web |title=James E. Boyd |url=https://www.nga.org/governor/james-e-boyd/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="111"|January 15, 1891<ref>{{Cite news |date=1891-01-16 |title=Mr. Boyd Rules the Roost |page=8 |work=The Nebraska State Journal |url=https://www.newspapers.com/article/121793708/mr-boyd-rules-the-roost/ |access-date=2023-03-28}}</ref><br />&ndash;<br />May 5, 1891<br>{{small|(111 days; removed)}}{{efn|name=thayer-boyd}}
+|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|rowspan="3"|[[1890 Nebraska gubernatorial election|1890]]
+|- style="height:2em;"
+!scope="row"|''6''
+|data-sort-value="Thayer, John"|[[File:John Milton Thayer - Brady-Handy.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John Milton Thayer]]'''<br>{{small|(1820–1906)}}<br>{{sfn|Sobel|1978|pp=894–895}}<ref name="nga-thayer">{{Cite web |title=John Milton Thayer |url=https://www.nga.org/governor/john-milton-thayer/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="280"|May 5, 1891<ref>{{Cite news |date=1891-05-06 |title=The Decree - Thayer Sworn In May 5 |page=1 |work=Evening World-Herald |url=https://www.newspapers.com/article/121793745/the-decree-thayer-sworn-in-may-5/ |access-date=2023-03-28}}</ref><br />&ndash;<br />February 8, 1892<br>{{small|(280 days; removed)}}{{efn|name=thayer-boyd}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|- style="height:2em;"
+!scope="row"|''7''
+|data-sort-value="Boyd, James"|[[File:James E Boyd Nebraska Governor.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James E. Boyd (politician)|James E. Boyd]]'''<br>{{small|(1834–1906)}}<br>{{sfn|Sobel|1978|pp=895–896}}<ref name="nga-boyd">{{Cite web |title=James E. Boyd |url=https://www.nga.org/governor/james-e-boyd/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="341"|February 8, 1892<ref>{{Cite news |date=1892-02-09 |title=Boyd Did Not Forget |page=1 |work=Omaha Daily Bee |url=https://www.newspapers.com/article/121793824/boyd-did-not-forget-boyd-sworn-in/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 13, 1893<br>{{small|(341 days; retired)}}
+|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Crounse, Lorenzo"|[[File:Lorenzo Crounse - Brady-Handy.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Lorenzo Crounse]]'''<br>{{small|(1834–1909)}}<br>{{sfn|Sobel|1978|pp=896–897}}<ref name="nga-crounse">{{Cite web |title=Lorenzo Crounse |url=https://www.nga.org/governor/lorenzo-crounse/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="721"|January 13, 1893<ref>Nebraska General Assembly. ''Journal of the Senate''. 23rd Regular Session, 1893, [https://books.google.com/books?id=6lwbAQAAIAAJ&pg=PA74 74], accessed March 27, 2023.</ref><br />&ndash;<br />January 3, 1895<br>{{small|(721 days; retired)}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1892 Nebraska gubernatorial election|1892]]
+|- style="height:2em;" 
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Holcomb, Silas"|[[File:Silas A. Holcomb.jpg|75px]]
+|rowspan="3" style="background: #79CDCD;" title="Represented a Democratic-Populist Fusion ticket"|
+|rowspan="2"|'''[[Silas A. Holcomb]]'''<br>{{small|(1858–1920)}}<br>{{sfn|Sobel|1978|pp=897–898}}<ref name="nga-holcomb">{{Cite web |title=Silas Alexander Holcomb |url=https://www.nga.org/governor/silas-alexander-holcomb/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1895<ref>{{Cite news |date=1895-01-05 |title=Twenty-Fourth Assembly |page=1 |work=Lincoln Newspaper Union |url=https://www.newspapers.com/article/121811711/holcomb-inaugurated-january-3/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 5, 1899<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=897–898}}
+|rowspan="2"|[[Electoral fusion#United States|Fusion]]{{efn|Holcomb represented a fusion of the Democratic and [[Populist Party (United States)|Populist]] parties.{{sfn|Sobel|1978|pp=897–898}}}}
+|[[1894 Nebraska gubernatorial election|1894]]
+|{{sortname|Robert E.|Moore}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1896 Nebraska gubernatorial election|1896]]
+|rowspan="2" style="background: #79CDCD;" title="Represented a Democratic-Populist Fusion ticket"|
+|{{sortname|James E.|Harris}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Poynter, William"|[[File:William.A.Poynter.gif|75px]]
+|'''[[William A. Poynter]]'''<br>{{small|(1848–1909)}}<br>{{sfn|Sobel|1978|pp=898–899}}<ref name="nga-poynter">{{Cite web |title=William Amos Poynter |url=https://www.nga.org/governor/william-amos-poynter/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1899<ref>Nebraska General Assembly. ''Journal of the House of Representatives''. 26th Regular Session, 1899, [https://books.google.com/books?id=3pAtAQAAMAAJ&pg=PA194 194], accessed March 27, 2023.</ref><br />&ndash;<br />January 3, 1901<br>{{small|(729 days; lost election)}}
+|[[Electoral fusion#United States|Fusion]]{{efn|Poynter represented a fusion of the Democratic, [[Populist Party (United States)|Populist]], and [[Silver Republican Party|Silver Republican]] parties.{{sfn|Sobel|1978|pp=898–899}}}}
+|[[1898 Nebraska gubernatorial election|1898]]
+|{{sortname|Edward A.|Gilbert}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Dietrich, Charles"|[[File:Charles Henry Dietrich.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Charles Henry Dietrich]]'''<br>{{small|(1853–1924)}}<br>{{sfn|Sobel|1978|p=899}}<ref name="nga-dietrich">{{Cite web |title=Charles Henry Dietrich |url=https://www.nga.org/governor/charles-henry-dietrich/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="119"|January 3, 1901<ref>Nebraska General Assembly. ''Journal of the House of Representatives''. 28th Regular Session, 1901, [https://books.google.com/books?id=8owtAQAAMAAJ&pg=PA130 130], accessed March 27, 2023.</ref><br />&ndash;<br />May 1, 1901<br>{{small|(119 days; resigned)}}{{efn|Dietrich resigned, having been [[1900–01 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=899}}}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1900 Nebraska gubernatorial election|1900]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Ezra P.|Savage}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Savage, Ezra"|[[File:Ezra P. Savage Nebraska Governor.jpg|75px]]
+|'''[[Ezra P. Savage]]'''<br>{{small|(1842–1920)}}<br>{{sfn|Sobel|1978|p=900}}<ref name="nga-savage">{{Cite web |title=Ezra Perin Savage |url=https://www.nga.org/governor/ezra-perin-savage/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="618"|May 1, 1901<ref>{{Cite news |date=1901-05-01 |title=Dietrich Steps Out, Savage Takes Hold |page=1 |work=Lincoln Journal Star |url=https://www.newspapers.com/article/121813002/dietrich-steps-out-savage-takes-hold/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 8, 1903<br>{{small|(618 days; retired)}}{{sfn|Sobel|1978|p=900}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Calvin F.|Steele}}<br>{{small|(acting)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Mickey, John"|[[File:John H. Mickey2.jpg|75px]]
+|rowspan="2"|'''[[John H. Mickey]]'''<br>{{small|(1845–1910)}}<br>{{sfn|Sobel|1978|pp=900–901}}<ref name="nga-mickey">{{Cite web |title=John Hopwood Mickey |url=https://www.nga.org/governor/john-hopwood-mickey/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1903<ref>Nebraska General Assembly. ''Journal of the Senate''. 28th Regular Session, 1903,[https://books.google.com/books?id=KmEbAQAAIAAJ&pg=PA98 98], accessed March 27, 2023.</ref><br />&ndash;<br />January 3, 1907<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1902 Nebraska gubernatorial election|1902]]
+|rowspan="2"|{{sortname|Edmund G.|McGilton}}
+|- style="height:2em;"
+|[[1904 Nebraska gubernatorial election|1904]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Sheldon, George"|[[File:GeorgeLSheldon.jpg|75px]]
+|'''[[George L. Sheldon]]'''<br>{{small|(1870–1960)}}<br>{{sfn|Sobel|1978|pp=901–902}}<ref name="nga-sheldon">{{Cite web |title=George Lawson Sheldon |url=https://www.nga.org/governor/george-lawson-sheldon/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1907<ref>{{Cite news |date=1907-01-04 |title=Administer Oaths |page=1 |work=The Nebraska State Journal |url=https://www.newspapers.com/article/121814296/sheldon-inaugurated-january-3/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 7, 1909<br>{{small|(736 days; lost election)}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1906 Nebraska gubernatorial election|1906]]
+|rowspan="3"|{{sortname|Melville R.|Hopewell}}{{efn|name=lt-rep}}<br>{{small|(died May 2, 1911)}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Shallenberger, Ashton"|[[File:AshtonShallenberger.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Ashton C. Shallenberger]]'''<br>{{small|(1862–1938)}}<br>{{sfn|Sobel|1978|pp=902–903}}<ref name="nga-shallenberger">{{Cite web |title=Ashton Cockayne Shallenberger |url=https://www.nga.org/governor/ashton-cockayne-shallenberger/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1909<ref>{{Cite news |date=1909-01-08 |title=New Officials In |page=1 |work=Omaha Daily Bee |url=https://www.newspapers.com/article/121814415/new-officials-in/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 5, 1911<br>{{small|(729 days;<br>lost nomination)}}{{efn|Shallenberger lost the Democratic nomination to [[James Dahlman]].{{sfn|Sobel|1978|pp=902–903}}}}
+|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1908 Nebraska gubernatorial election|1908]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Aldrich, Chester"|[[File:Chester Aldrich cph.3b35048.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Chester Hardy Aldrich]]'''<br>{{small|(1863–1924)}}<br>{{sfn|Sobel|1978|pp=903–904}}<ref name="nga-aldrich">{{Cite web |title=Chester Hardy Aldrich |url=https://www.nga.org/governor/chester-hardy-aldrich/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|January 5, 1911<ref>{{Cite news |date=1911-01-06 |title=Aldrich Is Governor |page=4 |work=Cambridge Clarion |url=https://www.newspapers.com/article/121814530/aldrich-is-governor/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 9, 1913<br>{{small|(736 days; lost election)}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|rowspan="2"|[[1910 Nebraska gubernatorial election|1910]]
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John H.|Morehead}}{{efn|Represented the [[Democratic Party (United States)|Democratic Party]]|name=lt-dem}}<br>{{small|(acting)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Morehead, John"|[[File:JohnHMorehead.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John H. Morehead]]'''<br>{{small|(1861–1942)}}<br>{{sfn|Sobel|1978|pp=904–905}}<ref name="nga-morehead">{{Cite web |title=John Henry Morehead |url=https://www.nga.org/governor/john-henry-morehead/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 9, 1913<ref>{{Cite news |date=1913-01-10 |title=Inauguration of John H. Morehead, Chief Executive |page=1 |work=Omaha World-Herald |url=https://www.newspapers.com/article/121814588/inauguration-of-john-h-morehead-chief/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 4, 1917<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1912 Nebraska gubernatorial election|1912]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Samuel Roy|McKelvie}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1914 Nebraska gubernatorial election|1914]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|James|Pearson|James Pearson (Nebraska politician)}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Neville, Keith"|[[File:KeithNeville.jpg|75px]]
+|'''[[Keith Neville]]'''<br>{{small|(1884–1959)}}<br>{{sfn|Sobel|1978|p=905}}<ref name="nga-neville">{{Cite web |title=Keith M. Neville |url=https://www.nga.org/governor/keith-m-neville/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 4, 1917<ref>{{Cite news |date=1917-01-05 |title=Governor Neville First Native Son in Executive Chair |page=1 |work=Omaha World-Herald |url=https://www.newspapers.com/article/121839907/governor-neville-first-native-son-in/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 9, 1919<br>{{small|(736 days; lost election)}}
+|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1916 Nebraska gubernatorial election|1916]]
+|{{sortname|Edgar|Howard}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="McKelvie, Samuel"|[[File:SamuelMcKelvie.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Samuel Roy McKelvie]]'''<br>{{small|(1881–1956)}}<br>{{sfn|Sobel|1978|p=906}}<ref name="nga-mckelvie">{{Cite web |title=Samuel Roy McKelvie |url=https://www.nga.org/governor/samuel-roy-mckelvie/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 9, 1919<ref>{{Cite news |date=1919-01-16 |title=State Officials Installed |page=2 |work=Danbury News |url=https://www.newspapers.com/article/121840090/state-officials-installed/ |access-date=2023-03-28}}</ref><br />&ndash;<br />January 4, 1923<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|p=906}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1918 Nebraska gubernatorial election|1918]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Pelham A.|Barrows}}
+|- style="height:2em;"
+|[[1920 Nebraska gubernatorial election|1920]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Bryan, Charles"|[[File:CharlesBryan.png|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Charles W. Bryan]]'''<br>{{small|(1867–1945)}}<br>{{sfn|Sobel|1978|pp=906–907}}<ref name="nga-bryan">{{Cite web |title=Charles Wayland Bryan |url=https://www.nga.org/governor/charles-wayland-bryan/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 4, 1923<ref>{{Cite news |date=1923-01-05 |title=Bryan Takes His Oath of Office at Joint Session |page=1 |work=Norfolk Daily News |url=https://www.newspapers.com/article/121857696/bryan-takes-his-oath-of-office-at-joint/ |access-date=2023-03-29}}</ref><br />&ndash;<br />January 8, 1925<br>{{small|(736 days; withdrew)}}{{efn|Bryan was renominated for governor, but withdrew to [[1924 United States presidential election|run unsuccessfully]] for [[Vice President of the United States]].{{sfn|Sobel|1978|pp=906–907}}}}
+|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1922 Nebraska gubernatorial election|1922]]
+|{{sortname|Fred Gustus|Johnson}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="McMullen, Adam"|[[File:Adam McMullen 1928.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Adam McMullen]]'''<br>{{small|(1872–1959)}}<br>{{sfn|Sobel|1978|pp=907–908}}<ref name="nga-mcmullen">{{Cite web |title=Adam McMullen |url=https://www.nga.org/governor/adam-mcmullen/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1925<ref>{{Cite news |date=1925-01-08 |title=M'Mullen Is Inaugurated - New Governor and Officers Are Sworn In |page=1 |work=The Lincoln Star |url=https://www.newspapers.com/article/121857786/mmullen-is-inaugurated-new-governor/ |access-date=2023-03-29}}</ref><br />&ndash;<br />January 3, 1929<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1924 Nebraska gubernatorial election|1924]]
+|rowspan="3"|{{sortname|George A.|Williams|George A. Williams (Nebraska politician)}}
+|- style="height:2em;"
+|[[1926 Nebraska gubernatorial election|1926]]
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Weaver, Arthur"|[[File:Arthur J. Weaver.jpg|75px]]
+|'''[[Arthur J. Weaver]]'''<br>{{small|(1873–1945)}}<br>{{sfn|Sobel|1978|pp=908–909}}<ref name="nga-weaver">{{Cite web |title=Arthur J. Weaver |url=https://www.nga.org/governor/arthur-j-weaver/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1929<ref>{{Cite news |date=1929-01-04 |title=First Inaugural in New Capitol Goes Over Big |page=1 |work=The Nebraska State Journal |url=https://www.newspapers.com/article/121857926/first-inaugural-in-new-capitol-goes/ |access-date=2023-03-29}}</ref><br />&ndash;<br />January 8, 1931<br>{{small|(736 days; lost election)}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1928 Nebraska gubernatorial election|1928]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Bryan, Charles"|[[File:CharlesBryan.png|75px]]
+|rowspan="7" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Charles W. Bryan]]'''<br>{{small|(1867–1945)}}<br>{{sfn|Sobel|1978|pp=906–907}}<ref name="nga-bryan" />
+|rowspan="2" data-sort-value="1457"|January 8, 1931<ref>{{Cite news |date=1931-01-09 |title=Hundreds Crowd Assembly While Bryan, Weaver Exchange Places |page=1 |work=Scottsbluff Daily Star-Herald |agency=Associated Press |url=https://www.newspapers.com/article/121858340/hundreds-crowd-assembly-while-bryan/ |access-date=2023-03-29}}</ref><br />&ndash;<br />January 3, 1935<br>{{small|(1457 days; retired)}}{{efn|Bryan instead [[1934 United States Senate election in Nebraska|ran unsuccessfully]] for the Democratic nomination for the [[United States Senate]].{{sfn|Sobel|1978|pp=906–907}}}}
+|rowspan="2"|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1930 Nebraska gubernatorial election|1930]]
+|{{sortname|Theodore W.|Metcalfe}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1932 Nebraska gubernatorial election|1932]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Walter H.|Jurgensen}}<br>{{small|(removed June 26, 1938)}}
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|24
+|rowspan="5" data-sort-value="Cochran, Robert"|[[File:Gov. Roy L. Cochran.jpg|75px]]
+|rowspan="5"|'''[[Robert Leroy Cochran]]'''<br>{{small|(1886–1963)}}<br>{{sfn|Sobel|1978|pp=909–910}}<ref name="nga-cochran">{{Cite web |title=Robert Leroy (Roy) Cochran |url=https://www.nga.org/governor/robert-leroy-roy-cochran/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="5" data-sort-value="2199"|January 3, 1935<ref>{{Cite news |date=1935-01-04 |title=Inaugural Rites Held Formally |page=1 |work=The Nebraska State Journal |url=https://www.newspapers.com/article/121859197/inaugural-rites-held-formally/ |access-date=2023-03-29}}</ref><br />&ndash;<br />January 9, 1941<br>{{small|(2199 days; retired)}}{{efn|Cochran instead [[1940 United States Senate election in Nebraska|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|pp=909–910}}}}
+|rowspan="5"|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1934 Nebraska gubernatorial election|1934]]
+|- style="height:2em;"
+|rowspan="3"|[[1936 Nebraska gubernatorial election|1936]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Nate M.|Parsons}}<br>{{small|(elected November 8, 1938)}}
+|- style="height:2em;"
+|[[1938 Nebraska gubernatorial election|1938]]
+|rowspan="9" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|William E.|Johnson|William E. Johnson (Nebraska politician)}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|25
+|rowspan="3" data-sort-value="Griswold, Dwight"|[[File:Dwight P. Griswold (1893–1954).jpg|75px]]
+|rowspan="10" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Dwight Griswold]]'''<br>{{small|(1893–1954)}}<br>{{sfn|Sobel|1978|pp=910–911}}<ref name="nga-griswold">{{Cite web |title=Dwight Palmer Griswold |url=https://www.nga.org/governor/dwight-palmer-griswold/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 9, 1941<ref>Nebraska Legislature. ''Legislative Journal''. 55th Session, 1941, [https://nebraskalegislature.gov/FloorDocs/55/PDF/Journal/r1journal.pdf 53], accessed March 28, 2023.</ref><br />&ndash;<br />January 9, 1947<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1940 Nebraska gubernatorial election|1940]]
+|- style="height:2em;"
+|[[1942 Nebraska gubernatorial election|1942]]
+|rowspan="2"|{{sortname|Roy W.|Johnson|Roy W. Johnson (politician)}}
+|- style="height:2em;"
+|[[1944 Nebraska gubernatorial election|1944]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Peterson, Val"|[[File:Val Peterson.jpg|75px]]
+|rowspan="3"|'''[[Val Peterson]]'''<br>{{small|(1903–1983)}}<br>{{sfn|Sobel|1978|pp=911–912}}<ref name="nga-peterson">{{Cite web |title=Frederick Valdemar Erastus (Val) Peterson |url=https://www.nga.org/governor/frederick-valdemar-erastus-val-peterson/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 9, 1947<ref>Nebraska Legislature. ''Legislative Journal''. 60th Session, 1947, [https://nebraskalegislature.gov/FloorDocs/60/PDF/Journal/r1journal.pdf 58], accessed March 28, 2023.</ref><br />&ndash;<br />January 8, 1953<br>{{small|(2192 days; retired)}}{{efn|Peterson instead [[1952 United States Senate election in Nebraska|ran unsuccessfully]] for the Republican nomination for the [[United States Senate]].{{sfn|Sobel|1978|pp=911–912}}}}
+|rowspan="3"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1946 Nebraska gubernatorial election|1946]]
+|{{sortname|Robert B.|Crosby}}
+|- style="height:2em;"
+|[[1948 Nebraska gubernatorial election|1948]]
+|rowspan="4"|{{sortname|Charles J.|Warner}}<br>{{small|(died September 24, 1955)}}
+|- style="height:2em;"
+|[[1950 Nebraska gubernatorial election|1950]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Crosby, Robert"|[[File:Robert Crosby (Governor of Nebraska).jpg|75px]]
+|'''[[Robert B. Crosby]]'''<br>{{small|(1911–2000)}}<br>{{sfn|Sobel|1978|pp=912–913}}<ref name="nga-crosby">{{Cite web |title=Robert Berkey Crosby |url=https://www.nga.org/governor/robert-berkey-crosby/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 8, 1953<ref>Nebraska Legislature. ''Legislative Journal''. 65th Session, 1953, [https://nebraskalegislature.gov/FloorDocs/65/PDF/Journal/r1journal.pdf 81], accessed March 28, 2023.</ref><br />&ndash;<br />January 6, 1955<br>{{small|(729 days; retired)}}{{efn|Crosby instead [[1954 United States Senate election in Nebraska|ran unsuccessfully]] for the Republican nomination for the [[United States Senate]].{{sfn|Sobel|1978|pp=912–913}}}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1952 Nebraska gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|28
+|rowspan="3" data-sort-value="Anderson, Victor"|[[File:Gov. Victor Andeson (cropped).jpg|75px]]
+|rowspan="3"|'''[[Victor Anderson (Nebraska politician)|Victor Anderson]]'''<br>{{small|(1902–1962)}}<br>{{sfn|Sobel|1978|pp=913–914}}<ref name="nga-anderson">{{Cite web |title=Victor Emanuel Anderson |url=https://www.nga.org/governor/victor-emanuel-anderson/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1464"|January 6, 1955<ref>Nebraska Legislature. ''Legislative Journal''. 67th Session, 1955, [https://nebraskalegislature.gov/FloorDocs/67/PDF/Journal/r1journal.pdf 73], accessed March 28, 2023.</ref><br />&ndash;<br />January 8, 1959<br>{{small|(1464 days; lost election)}}
+|rowspan="3"|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|rowspan="2"|[[1954 Nebraska gubernatorial election|1954]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1956 Nebraska gubernatorial election|1956]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Dwight|Burney}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Brooks, Ralph"|[[File:Ralph G. Brooks.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Ralph G. Brooks]]'''<br>{{small|(1898–1960)}}<br>{{sfn|Sobel|1978|pp=914–915}}<ref name="nga-brooks">{{Cite web |title=Ralph Gilmour Brooks |url=https://www.nga.org/governor/ralph-gilmour-brooks/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="611"|January 8, 1959<ref>Nebraska Legislature. ''Legislative Journal''. 69th Session, 1959, [https://nebraskalegislature.gov/FloorDocs/69/PDF/Journal/r1journal.pdf 56], accessed March 28, 2023.</ref><br />&ndash;<br />September 9, 1960<br>{{small|(611 days; died in office)}}{{efn|Brooks was [[1960 United States Senate election in Nebraska|running]] for the [[United States Senate]] at the time of his death, having already received the Democratic nomination.{{sfn|Sobel|1978|pp=914–915}}}}
+|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1958 Nebraska gubernatorial election|1958]]
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Burney, Dwight"|[[File:Dwight W. Burney.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Dwight Burney]]'''<br>{{small|(1892–1987)}}<br>{{sfn|Sobel|1978|p=915}}<ref name="nga-burney">{{Cite web |title=Dwight Willard Burney |url=https://www.nga.org/governor/dwight-willard-burney/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="119"|September 9, 1960<ref>{{Cite news |date=1960-09-10 |title=Brooks Rites Likely to Be Monday - Rotunda May Be Setting |page=1 |work=Lincoln Journal Star |url=https://www.newspapers.com/article/121859728/brooks-rites-likely-to-be-monday/ |access-date=2023-03-29}}</ref><br />&ndash;<br />January 5, 1961<br>{{small|(119 days; retired)}}{{efn|Burney was instead [[1960 Nebraska lieutenant gubernatorial election|reelected]] as lieutenant governor.}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|31
+|rowspan="3" data-sort-value="Morrison, Frank"|[[File:Gov. Frank Morrison (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Frank B. Morrison]]'''<br>{{small|(1905–2004)}}<br>{{sfn|Sobel|1978|pp=915–916}}<ref name="nga-morrison">{{Cite web |title=Frank Brenner Morrison |url=https://www.nga.org/governor/frank-brenner-morrison/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 5, 1961<ref>Nebraska Legislature. ''Legislative Journal''. 72nd Session, 1961, [https://nebraskalegislature.gov/FloorDocs/72/PDF/Journal/r1journal.pdf 55], accessed March 28, 2023.</ref><br />&ndash;<br />January 5, 1967<br>{{small|(2192 days; retired)}}{{efn|Morrison instead [[1966 United States Senate election in Nebraska|ran unsuccessfully]] for the [[United States Senate]];{{sfn|Sobel|1978|pp=915–916}} it is not known if the new gubernatorial term limit would have applied to him.}}
+|rowspan="3"|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1960 Nebraska gubernatorial election|1960]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Dwight|Burney}}
+|- style="height:2em;"
+|[[1962 Nebraska gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1964 Nebraska gubernatorial election|1964]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Philip|Sorensen}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Tiemann, Norbert"|[[File:Norbert Tiemann Nebraska Blue Book.png|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Norbert Tiemann]]'''<br>{{small|(1924–2012)}}<br>{{sfn|Sobel|1978|pp=916–917}}<ref name="nga-tiemann">{{Cite web |title=Norbert T. Tiemann |url=https://www.nga.org/governor/norbert-t-tiemann/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 5, 1967<ref>Nebraska Legislature. ''Legislative Journal''. 77th Session, 1967, [https://nebraskalegislature.gov/FloorDocs/77/PDF/Journal/r1journal.pdf 70], accessed March 28, 2023.</ref><br />&ndash;<br />January 7, 1971<br>{{small|(1464 days; lost election)}}
+|[[Nebraska Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1966 Nebraska gubernatorial election|1966]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John|Everroad}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Exon, J."|[[File:1979 p80 J James Exon.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[J. James Exon]]'''<br>{{small|(1921–2005)}}<br>{{sfn|Sobel|1978|pp=917–918}}<ref name="nga-exon">{{Cite web |title=John James Exon |url=https://www.nga.org/governor/john-james-exon/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 7, 1971<ref>Nebraska Legislature. ''Legislative Journal''. 82nd Legislature, First Session, 1971, [https://nebraskalegislature.gov/FloorDocs/82/PDF/Journal/r1journal.pdf 64], accessed March 28, 2023.</ref><br />&ndash;<br />January 4, 1979<br>{{small|(2920 days; term-limited)}}{{efn|Under a 1966 amendment to the constitution, governors are ineligible for four years after the expiration of two consecutive elected terms.<ref>{{Cite web |title=Neb. Const. art. IV, § 1 |url=https://nebraskalegislature.gov/laws/articles.php?article=IV-1 |access-date=2023-12-19}}</ref>|name=limits}}
+|rowspan="2"|[[Nebraska Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=356–357}}
+|[[1970 Nebraska gubernatorial election|1970]]
+|{{sortname|Frank|Marsh|Frank Marsh (politician)}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1974 Nebraska gubernatorial election|1974]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Gerald|Whelan}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Thone, Charles"|[[File:Charles Thone (NE).png|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Charles Thone]]'''<br>{{small|(1924–2018)}}<br><ref name="nga-thone">{{Cite web |title=Charles Thone |url=https://www.nga.org/governor/charles-thone/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 4, 1979<ref>Nebraska Legislature. ''Legislative Journal''. 86th Legislature, First Session, 1979, [https://nebraskalegislature.gov/FloorDocs/86/PDF/Journal/r1journal.pdf 87], accessed March 29, 2023.</ref><br />&ndash;<br />January 6, 1983<br>{{small|(1464 days; lost election)}}
+|[[Nebraska Republican Party|Republican]]<ref name="nga-thone" />
+|[[1978 Nebraska gubernatorial election|1978]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Roland|Luedtke}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Kerrey, Bob"|[[File:Bob Kerrey portrait.gif |75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Bob Kerrey]]'''<br>{{small|({{Abbr|b.|born in}} 1943)}}<br><ref name="nga-kerrey">{{Cite web |title=Joseph Robert (Bob) Kerrey |url=https://www.nga.org/governor/joseph-robert-bob-kerrey/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 6, 1983<ref>Nebraska Legislature. ''Legislative Journal''. 88th Legislature, First Session, 1983, [https://nebraskalegislature.gov/FloorDocs/88/PDF/Journal/r1journal.pdf 80], accessed March 29, 2023.</ref><br />&ndash;<br />January 8, 1987<br>{{small|(1464 days; retired)}}
+|[[Nebraska Democratic Party|Democratic]]<ref name="nga-kerrey" />
+|[[1982 Nebraska gubernatorial election|1982]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Donald|McGinley}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Orr, Kay"|[[File:Kay A. Orr.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Kay Orr]]'''<br>{{small|({{Abbr|b.|born in}} 1939)}}<br><ref name="nga-orr">{{Cite web |title=Kay A. Orr |url=https://www.nga.org/governor/kay-a-orr/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 8, 1987<ref>Nebraska Legislature. ''Legislative Journal''. 90th Legislature, First Session, 1987, [https://nebraskalegislature.gov/FloorDocs/90/PDF/Journal/r1journal.pdf 72], accessed March 29, 2023.</ref><br />&ndash;<br />January 10, 1991<br>{{small|(1464 days; lost election)}}
+|[[Nebraska Republican Party|Republican]]<ref name="nga-orr" />
+|[[1986 Nebraska gubernatorial election|1986]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William E.|Nichol}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|37
+|rowspan="3" data-sort-value="Nelson, Ben"|[[File:Ben Nelson official photo.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Ben Nelson]]'''<br>{{small|({{Abbr|b.|born in}} 1941)}}<br><ref name="nga-nelson">{{Cite web |title=E. Benjamin Nelson |url=https://www.nga.org/governor/e-benjamin-nelson/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2920"|January 10, 1991<ref>Nebraska Legislature. ''Legislative Journal''. 92nd Legislature, First Session, 1991, [https://nebraskalegislature.gov/FloorDocs/92/PDF/Journal/r1journal.pdf 90], accessed March 29, 2023.</ref><br />&ndash;<br />January 7, 1999<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="3"|[[Nebraska Democratic Party|Democratic]]<ref name="nga-nelson" />
+|rowspan="2"|[[1990 Nebraska gubernatorial election|1990]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Maxine|Moul}}<br>{{small|(resigned October 6, 1993)}}
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Kim|Robak}}<br>{{small|(appointed October 6, 1993)}}
+|- style="height:2em;"
+|[[1994 Nebraska gubernatorial election|1994]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|38
+|rowspan="3" data-sort-value="Johanns, Mike"|[[File:Mike Johanns.jpg|75px]]
+|rowspan="14" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Mike Johanns]]'''<br>{{small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-johanns">{{Cite web |title=Mike Johanns |url=https://www.nga.org/governor/mike-johanns/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2206"|January 7, 1999<ref>Nebraska Legislature. ''Legislative Journal''. 96th Legislature, First Session, 1999, [https://nebraskalegislature.gov/FloorDocs/96/PDF/Journal/r1journal.pdf 73], accessed March 29, 2023.</ref><br />&ndash;<br />January 20, 2005<br>{{small|(2206 days; resigned)}}{{efn|Johanns resigned, having been confirmed as [[United States Secretary of Agriculture]].<ref name="nga-johanns" />}}
+|rowspan="3"|[[Nebraska Republican Party|Republican]]<ref name="nga-johanns" />
+|rowspan="2"|[[1998 Nebraska gubernatorial election|1998]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|David|Maurstad}}<br>{{small|(resigned October 1, 2001)}}
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Dave|Heineman}}<br>{{small|(appointed October 1, 2001)}}
+|- style="height:2em;"
+|[[2002 Nebraska gubernatorial election|2002]]
+|- style="height:2em;"
+!rowspan="8" scope="rowgroup"|39
+|rowspan="8" data-sort-value="Heineman, Dave"|[[File:Dave Heineman official photo (cropped).jpg|75px]]
+|rowspan="8"|'''[[Dave Heineman]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-heineman">{{Cite web |title=Dave Heineman |url=https://www.nga.org/governor/dave-heineman/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="8" data-sort-value="3641"|January 20, 2005<ref>{{Cite news |date=2005-01-21 |title=Heineman Set for 'Greatest Challenge' |page=1A |work=Omaha World-Herald |url=https://www.newspapers.com/article/121872652/heineman-set-for-greatest-challenge/ |access-date=2023-03-29}}</ref><br />&ndash;<br />January 8, 2015<br>{{small|(3641 days; term-limited)}}{{efn|name=limits}}
+|rowspan="8"|[[Nebraska Republican Party|Republican]]<ref name="nga-heineman" />
+|rowspan="2" style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Rick|Sheehy}}<br>{{small|(appointed January 24, 2005)}}<br>{{small|(resigned February 2, 2013)}}
+|- style="height:2em;"
+|[[2006 Nebraska gubernatorial election|2006]]
+|- style="height:2em;"
+|rowspan="5"|[[2010 Nebraska gubernatorial election|2010]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Lavon|Heidemann}}<br>{{small|(appointed February 13, 2013)}}<br>{{small|(resigned September 9, 2014)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John E.|Nelson|John E. Nelson (Nebraska politician)}}<br>{{small|(appointed September 29, 2014)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Ricketts, Pete"|[[File:Nebraska WWII veteran honored by France (5) (cropped).jpg|75px]]
+|rowspan="2"|'''[[Pete Ricketts]]'''<br>{{small|({{Abbr|b.|born in}} 1964)}}<br><ref name="nga-ricketts">{{Cite web |title=Pete Ricketts |url=https://www.nga.org/governor/pete-ricketts/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 8, 2015<ref>Nebraska Legislature. ''Legislative Journal''. 104th Legislature, First Session, 2015, [https://nebraskalegislature.gov/FloorDocs/104/PDF/Journal/r1journal.pdf 71], accessed March 29, 2023.</ref><br />&ndash;<br />January 5, 2023<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Nebraska Republican Party|Republican]]<ref name="nga-ricketts" />
+|[[2014 Nebraska gubernatorial election|2014]]
+|rowspan="2"|{{sortname|Mike|Foley|Mike Foley (Nebraska politician)}}
+|- style="height:2em;"
+|[[2018 Nebraska gubernatorial election|2018]]
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Pillen, Jim"|[[File:Jim Pillen 2023 (cropped).jpg|75px]]
+|'''[[Jim Pillen]]'''<br>{{small|({{Abbr|b.|born in}} 1955)}}<br><ref name="nga-pillen">{{Cite web |title=Jim Pillen |url=https://www.nga.org/governor/jim-pillen/ |access-date=March 27, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2023|1|5|duration=on|format=no}}"|January 5, 2023<ref>Nebraska Legislature. ''Legislative Journal''. 108th Legislature, First Session, 2023, [https://nebraskalegislature.gov/FloorDocs/108/PDF/Journal/r1journal.pdf 101], accessed March 29, 2023.</ref><br />&ndash;<br />Incumbent{{efn|Pillen's term [[2026 Nebraska gubernatorial election|will expire]] on January 7, 2027.}}<br>{{small|(in office {{Duration in days nts|2023|1|5|duration=on|format=no}} days)}}
+|[[Nebraska Republican Party|Republican]]<ref name="nga-pillen" />
+|[[2022 Nebraska gubernatorial election|2022]]
+|{{sortname|Joe|Kelly|Joe Kelly (attorney)}}
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Nebraska governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1853.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1860
+ScaleMinor = unit:year increment:1 start:1854
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:fusion  value:rgb(0.47, 0.8, 0.8)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1869 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1854.59 till:1854.8 color:noparty text:"Francis Burt"
+ from:1854.97 till:1857.82 color:noparty text:"Mark W. Izard"
+ from:1857.94 till:1858.93 color:noparty text:"William Alexander Richardson"
+ from:1859.11 till:1861.15 color:noparty text:"Samuel W. Black"
+ from:1861.24 till:1867.24 color:noparty text:"Alvin Saunders"
+ from:1867.24 till:1871.42 color:rep text:"David Butler"
+ from:1871.42 till:1873.04 color:rep text:"William H. James"
+ from:1873.04 till:1875.03 color:rep text:"Robert Wilkinson Furnas"
+ from:1875.03 till:1879.02 color:rep text:"Silas Garber"
+ from:1879.02 till:1883.01 color:rep text:"Albinus Nance"
+ from:1883.01 till:1887.02 color:rep text:"James W. Dawes"
+ from:1891.34 till:1892.11 color:rep text:"John Milton Thayer"
+ from:1892.11 till:1893.04 color:dem text:"James E. Boyd"
+ from:1893.04 till:1895.01 color:rep text:"Lorenzo Crounse"
+ from:1895.01 till:1899.01 color:fusion text:"Silas A. Holcomb"
+ from:1899.01 till:1901.01 color:fusion text:"William A. Poynter"
+ from:1901.01 till:1901.33 color:rep text:"Charles H. Dietrich"
+ from:1901.33 till:1903.02 color:rep text:"Ezra P. Savage"
+ from:1903.02 till:1907.01 color:rep text:"John H. Mickey"
+ from:1907.01 till:1909.02 color:rep text:"George L. Sheldon"
+ from:1909.02 till:1911.01 color:dem text:"Ashton C. Shallenberger"
+ from:1911.01 till:1913.02 color:rep text:"Chester Hardy Aldrich"
+ from:1913.02 till:1917.01 color:dem text:"John H. Morehead"
+ from:1917.01 till:1919.02 color:dem text:"Keith Neville"
+ from:1919.02 till:1923.01 color:rep text:"Samuel Roy McKelvie"
+ from:1931.02 till:1935.01 color:dem text:"Charles W. Bryan"
+ from:1925.02 till:1929.01 color:rep text:"Adam McMullen"
+ from:1929.01 till:1931.02 color:rep text:"Arthur J. Weaver"
+ from:1935.01 till:1941.02 color:dem text:"Robert Leroy Cochran"
+ from:1941.02 till:1947.02 color:rep text:"Dwight Griswold"
+ from:1947.02 till:1953.02 color:rep text:"Val Peterson"
+ from:1953.02 till:1955.02 color:rep text:"Robert B. Crosby"
+ from:1955.02 till:1959.02 color:rep text:"Victor Anderson"
+ from:1959.02 till:1960.69 color:dem text:"Ralph G. Brooks"
+ from:1960.69 till:1961.01 color:rep text:"Dwight Burney"
+ from:1961.01 till:1967.01 color:dem text:"Frank B. Morrison"
+ from:1967.01 till:1971.02 color:rep text:"Norbert Tiemann"
+ from:1971.02 till:1979.01 color:dem text:"J. James Exon"
+ from:1979.01 till:1983.02 color:rep text:"Charles Thone"
+ from:1983.02 till:1987.02 color:dem text:"Bob Kerrey"
+ from:1987.02 till:1991.03 color:rep text:"Kay Orr"
+ from:1991.03 till:1999.02 color:dem text:"Ben Nelson"
+ from:1999.02 till:2005.05 color:rep text:"Mike Johanns"
+ from:2005.05 till:2015.02 color:rep text:"Dave Heineman"
+ from:2015.02 till:2023.01 color:rep text:"Pete Ricketts"
+ from:2023.01 till:$now color:rep text:"Jim Pillen"
+
+LineData=
+ from:1887.02 till:1891.04 atpos:633 color:rep width:6 # JMT 1st term
+ from:1891.04 till:1891.34 atpos:615 color:dem width:6 # JEB 1st term
+ from:1923.01 till:1925.02 atpos:386 color:dem width:6 # CWB 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#Nebraska|Gubernatorial line of succession in Nebraska]]
+*[[List of Nebraska state legislatures]]
+*[[Nebraska's congressional delegations]]
+*[[Political party strength in Nebraska]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former Nebraska Governors |url=https://www.nga.org/former-governors/nebraska/ |access-date=March 26, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Nebraska - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=250 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+*[https://governor.nebraska.gov/ Office of the Governor of Nebraska]
+
+{{Governors of Nebraska}}
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Nebraska}}
+{{Nebraska statewide elected officials}}
+
+{{DEFAULTSORT:Nebraska, List of Governors of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Nebraska| ]]
+[[Category:Lists of Nebraska politicians|Governors]]
+[[Category:Nebraska history-related lists|Governors]]

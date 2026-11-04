@@ -1,0 +1,1180 @@
+{{Short description|Politics in the US state of Wisconsin}}
+The following tables indicate the historic party affiliation of elected officials in the [[U.S. state]] of [[Wisconsin]], including: [[Governor of Wisconsin|Governor]], [[Lieutenant Governor of Wisconsin|Lieutenant Governor]], [[Secretary of State of Wisconsin|Secretary of State]], [[Attorney General of Wisconsin|Attorney General]], [[State Treasurer of Wisconsin|State Treasurer]], [[Superintendent of Public Instruction of Wisconsin|Superintendent of Public Instruction]]. The tables also indicate the historical party composition in the [[Wisconsin State Senate|State Senate]],<ref name=2005bb>Wisconsin Legislative Reference Bureau (comp.). ''[https://docs.legis.wisconsin.gov/misc/lrb/blue_book/2005_2006/500_legislative.pdf State of Wisconsin 2005-2006 Blue Book]''. Madison: Wisconsin Legislature Joint Committee on Legislative Organization, 2005, p. 271.</ref> [[Wisconsin State Assembly|State Assembly]],<ref name=2005bb/> the [[List of United States senators from Wisconsin|State delegation to the United States Senate]], and the [[List of United States representatives from Wisconsin|State delegation to the United States House of Representatives]]. For years in which a [[United States presidential election]] was held, the tables indicate which party's nominees received the state's electoral votes.
+
+==By year==
+===Wisconsin Territory: 1836–1848===
+{|class="wikitable" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=3 |Executive offices
+!colspan=2 |[[Wisconsin Legislature|Territorial Assemb.]]
+![[Wisconsin's congressional delegations|U.S. Congress]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Wisconsin|Governor]]
+!class=unsortable |[[Secretary of State of Wisconsin|Secretary of State]]
+!class=unsortable |[[Attorney General of Wisconsin|Attorney General]]
+!class=unsortable |[[Wisconsin Senate|Council]]
+!class=unsortable |[[Wisconsin State Assembly|House]]
+!class=unsortable |[[List of United States representatives from Wisconsin|Delegate]]
+|- style="height:2em"
+!1836
+|rowspan=2 {{Party shading/Jacksonian}} |[[Henry Dodge]] (J)
+|[[John S. Horner]]
+|rowspan=4 {{Party shading/Whig}} |[[Henry S. Baird]] (W)
+|{{Party shading/Democratic}} |[[1st Wisconsin Territorial Assembly|1]]
+|{{Party shading/Democratic}} |[[1st Wisconsin Territorial Assembly|1]]
+|''none''
+|- style="height:2em"
+!1837
+|rowspan=4 |[[William B. Slaughter (politician)|William B. Slaughter]]
+|{{Party shading/Whig}} |[[1st Wisconsin Territorial Assembly|1]]
+|{{Party shading/Whig}} |[[1st Wisconsin Territorial Assembly|1]]
+|{{Party shading/Jacksonian}} |[[George Wallace Jones]] (J)
+|- style="height:2em"
+!1838
+|rowspan=4 {{Party shading/Democratic}} |[[Henry Dodge]] (D)
+|{{Party shading/Democratic}} |[[1st Wisconsin Territorial Assembly|1]]
+|{{Party shading/Democratic}} |[[1st Wisconsin Territorial Assembly|1]]
+|{{Party shading/Democratic}} |[[George Wallace Jones]] (D)
+|- style="height:2em"
+!1839
+|[[2nd Wisconsin Territorial Assembly|2]]
+|[[2nd Wisconsin Territorial Assembly|2]]
+|rowspan=2 {{Party shading/Democratic}} |[[James D. Doty]] (D)
+|- style="height:2em"
+!1840
+|rowspan=2 {{Party shading/Democratic}} |[[Horatio Wells]] (D)
+|{{Party shading/Democratic}} |[[2nd Wisconsin Territorial Assembly|2]]
+|{{Party shading/Democratic}} |[[2nd Wisconsin Territorial Assembly|2]]
+|- style="height:2em"
+!1841
+|[[Francis J. Dunn]]
+|[[3rd Wisconsin Territorial Assembly|3]]
+|[[3rd Wisconsin Territorial Assembly|3]]
+|rowspan=4 {{Party shading/Democratic}} |[[Henry Dodge]] (D)
+|- style="height:2em"
+!1842
+|rowspan=2 {{Party shading/Democratic}} |[[James Duane Doty]] (D)
+|rowspan=2 {{Party shading/Whig}} |[[Alexander Pope Field]] (W)
+|rowspan=2 {{Party shading/Whig}} |[[Mortimer M. Jackson]] (W)
+|{{Party shading/Whig}} |[[3rd Wisconsin Territorial Assembly|3]]
+|{{Party shading/Whig}} |[[3rd Wisconsin Territorial Assembly|3]]
+|- style="height:2em"
+!1843
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|- style="height:2em"
+!1844
+|{{Party shading/Whig}} |[[Nathaniel P. Tallmadge]] (W)
+|rowspan=2 |[[George Rogers Clark Floyd|George R. C. Floyd]]
+|{{Party shading/Democratic}} |[[William Pitt Lynde]] (D)
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|- style="height:2em"
+!1845
+|rowspan=4 {{Party shading/Democratic}} |[[Henry Dodge]] (D)
+|{{Party shading/Whig}} |[[Mortimer M. Jackson]] (W)
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|rowspan=2 {{Party shading/Democratic}} |[[Morgan L. Martin]] (D)
+|- style="height:2em"
+!1846
+|rowspan=3 {{Party shading/Democratic}} |[[John Catlin (politician)|John Catlin]] (D)
+|rowspan=3 {{Party shading/Democratic}} |[[A. Hyatt Smith]] (D)
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|{{Party shading/Democratic}} |[[4th Wisconsin Territorial Assembly|4]]
+|- style="height:2em"
+!1847
+|{{Party shading/Democratic}} |[[5th Wisconsin Territorial Assembly|5]]
+|{{Party shading/Democratic}} |[[5th Wisconsin Territorial Assembly|5]]
+|{{Party shading/Whig}} |[[John H. Tweedy]] (W)
+|- style="height:2em"
+!1848
+|{{Party shading/Democratic}} |[[5th Wisconsin Territorial Assembly|5]]
+|{{Party shading/Democratic}} |[[5th Wisconsin Territorial Assembly|5]]
+|{{Party shading/Democratic}} |[[Henry Hastings Sibley]] (D)
+|}
+
+===1848–1899===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Wisconsin Legislature|State Legislature]]
+!colspan=3 |[[Wisconsin's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br/>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Wisconsin|Governor]]
+!class=unsortable |[[List of lieutenant governors of Wisconsin|Lieutenant Governor]]
+!class=unsortable |[[Secretary of State of Wisconsin|Secretary of State]]
+!class=unsortable |[[Attorney General of Wisconsin|Attorney General]]
+!class=unsortable |[[State Treasurer of Wisconsin|Treasurer]]
+!class=unsortable |[[Superintendent of Public Instruction of Wisconsin|Supt. of Pub. Inst.]]
+!class=unsortable |[[Wisconsin Senate|Senate]]
+!class=unsortable |[[Wisconsin State Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Wisconsin|U.S.<br>House]]
+|- style="height:2em"
+!1848
+|rowspan=4 {{Party shading/Democratic}} |[[Nelson Dewey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[John Edwin Holmes]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas McHugh (politician)|Thomas McHugh]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[James S. Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jairus C. Fairchild]] {{small|(D)}}
+|rowspan=4 {{Party shading/Whig}} |[[Eleazer Root]] {{small|(W)}}
+|{{Party shading/Democratic}} |[[1st Wisconsin Legislature|16D, 3W]]
+|{{Party shading/Democratic}} |[[1st Wisconsin Legislature|49D, 17W]]
+|rowspan=11 {{Party shading/Democratic}} |[[Henry Dodge]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Isaac P. Walker]] {{small|(D)}}
+|{{Party shading/Democratic}} |2D
+|rowspan=4 {{Party shading/Democratic}} |[[Lewis Cass|Cass]]/<br>[[William Orlando Butler|Butler]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1849
+|{{Party shading/Democratic}} |[[2nd Wisconsin Legislature|14D, 4FS, 1W]]
+|{{Party shading/Democratic}} |[[2nd Wisconsin Legislature|36D, 16FS, 14W]]
+|rowspan=2 {{Party shading/Tie}} |1FS, 1W, 1D
+|- style="height:2em"
+!1850
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel Beall]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William A. Barstow]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[S. Park Coon]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[3rd Wisconsin Legislature|13D, 4W, 2FS]]
+|{{Party shading/Democratic}} |[[3rd Wisconsin Legislature|41D, 17W, 8FS]]
+|- style="height:2em"
+!1851
+|{{Party shading/Democratic}} |[[4th Wisconsin Legislature|14D, 3W, 2FS]]
+|{{Party shading/Democratic}} |[[4th Wisconsin Legislature|46D, 11W, 9FS]]
+|rowspan=2 {{Party shading/Democratic}} |2D, 1FS
+|- style="height:2em"
+!1852
+|rowspan=2 {{Party shading/Whig}} |[[Leonard J. Farwell]] {{small|(W)}}
+|{{Party shading/Democratic}} |[[Timothy Burns (Wisconsin politician)|Timothy Burns]] {{small|(D)}}{{efn |name=died|Died in office.}}
+|rowspan=2 {{Party shading/Democratic}} |[[Charles D. Robinson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Experience Estabrook]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Edward H. Janssen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Azel P. Ladd]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[5th Wisconsin Legislature|13D, 5W, 1FS]]
+|{{Party shading/Coalition}} |[[5th Wisconsin Legislature|31W, 28D, 6FS, 1&nbsp;vac.]]
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce|Pierce]]/<br>[[William R. King|King]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1853
+|''vacant''
+|{{Party shading/Democratic}} |[[6th Wisconsin Legislature|18D, 7W]]
+|{{Party shading/Democratic}} |[[6th Wisconsin Legislature|51D, 22W, 7FS, 2I]]
+|rowspan=2 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1854
+|rowspan=3 {{Party shading/Democratic}} |[[William A. Barstow]] {{small|(D)}}{{efn |name=bashford|Initially, Barstow was declared the winner of the 1855 election, but soon resigned amid claims that he had won through fraudulent means. MacArthur, as lieutenant governor, acted as governor for five days, until the [[Wisconsin Supreme Court]] declared Barstow's opponent, Bashford, the legitimate governor. Bashford completed the term, with MacArthur continuing to serve as lieutenant governor.}}
+|rowspan=2 {{Party shading/Democratic}} |[[James T. Lewis]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Alexander T. Gray]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[George Baldwin Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Hiram A. Wright]] {{small|(D)}}{{efn |name=died}}
+|{{Party shading/Democratic}} |[[7th Wisconsin Legislature|20D, 5W]]
+|{{Party shading/Democratic}} |[[7th Wisconsin Legislature|50D, 25W, 8FS]]
+|- style="height:2em"
+!1855
+|{{Party shading/Democratic}} |[[8th Wisconsin Legislature|13D, 12R]]
+|{{Party shading/Republican}} |[[8th Wisconsin Legislature|44R, 34D, 4I]]
+|rowspan=8 {{Party shading/Republican}} |[[Charles Durkee]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!rowspan=3 |1856
+|{{Party shading/Democratic}} |[[Arthur MacArthur Sr.]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[David W. Jones]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Rudolph Smith|William R. Smith]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Charles Kuehn]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Alfred Constantine Barry|A. Constantine Barry]] {{small|(D)}}{{efn |name=vacancy|Appointed to fill a vacancy.}}
+|rowspan=3 {{Party shading/Republican}} |[[9th Wisconsin Legislature|13R, 12D]]
+|rowspan=3 {{Party shading/Democratic}} |[[9th Wisconsin Legislature|45D, 36R, 1I]]
+|rowspan=6 {{Party shading/Republican}} |[[John C. Frémont|Fremont]]/<br>[[William L. Dayton|Dayton]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Arthur MacArthur Sr.]] {{small|(D)}}{{efn |name=bashford}}
+|''vacant''
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Coles Bashford]] {{small|(R)}}{{efn |name=bashford}}
+|rowspan=2 {{Party shading/Democratic}} |Arthur MacArthur Sr. {{small|(D)}}
+|- style="height:2em"
+!1857
+|{{Party shading/Republican}} |[[10th Wisconsin Legislature|19R, 11D]]
+|{{Party shading/Republican}} |[[10th Wisconsin Legislature|62R, 33D, 2I]]
+|rowspan=13 {{Party shading/Republican}} |[[James R. Doolittle]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1858
+|rowspan=4 {{Party shading/Republican}} |[[Alexander Randall (Wisconsin politician)|Alexander Randall]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Erasmus D. Campbell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Gabriel Bouck]] {{small|(D)}}
+|rowspan=9 {{Party shading/Republican}} |[[Samuel D. Hastings]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Lyman Draper]] {{small|(D)}}
+|{{Party shading/Republican}} |[[11th Wisconsin Legislature|18R, 12D]]
+|{{Party shading/Republican}} |[[11th Wisconsin Legislature|49R, 48D]]
+|- style="height:2em"
+!1859
+|{{Party shading/Republican}} |[[12th Wisconsin Legislature|16R, 14D]]
+|{{Party shading/Republican}} |[[12th Wisconsin Legislature|55R, 42D]]
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1860
+|rowspan=2 {{Party shading/Republican}} |[[Butler Noble]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Louis P. Harvey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[James Henry Howe]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Josiah Little Pickard]] {{small|(R)}}{{efn |Resigned to become Chicago [[Superintendent (education)|superintendent]] of schools.}}
+|{{Party shading/Republican}} |[[13th Wisconsin Legislature|17R, 13D]]
+|{{Party shading/Republican}} |[[13th Wisconsin Legislature|58R, 39D]]
+|rowspan=5 {{Party shading/Republican}} |[[Abraham Lincoln|Lincoln]]/<br>[[Hannibal Hamlin|Hamlin]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1861
+|{{Party shading/Republican}} |[[14th Wisconsin Legislature|22R, 8D]]
+|{{Party shading/Republican}} |[[14th Wisconsin Legislature|70R, 27D]]
+|rowspan=19 {{Party shading/Republican}} |[[Timothy O. Howe]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!rowspan=2 |1862
+|{{Party shading/Unionist}} |[[Louis P. Harvey]] {{small|(U)}}{{efn |name=died}}
+|{{Party shading/Unionist}} |[[Edward Salomon]] {{small|(U)}}
+|rowspan=3 {{Party shading/Unionist}} |[[James T. Lewis]] {{small|(U)}}
+|rowspan=5 {{Party shading/Republican}} |[[Winfield Smith]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[15th Wisconsin Legislature|20R, 11D, 3U]]
+|rowspan=2 {{Party shading/Coalition}} |[[15th Wisconsin Legislature|44R, 33D, 23U]]{{efn |Elected a Unionist, James W. Beardsley, as Speaker.<ref name=bb649>{{Cite book|url=https://books.google.com/books?id=5R9WAAAAMAAJ&q=john%2520cassoday%2520wisconsin%2520assembly%2520speaker%2520democrat&pg=PA649|title=The State of Wisconsin Blue Book|date=1973|publisher=Wisconsin Legislative Reference Bureau, distributed by Document Sales|language=en|page=649}}</ref>}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Unionist}} |[[Edward Salomon]] {{small|(U)}}{{efn |name=act|As lieutenant governor, acted as governor for remainder of unexpired term.}}
+|rowspan=2 |''vacant''
+|- style="height:2em"
+!1863
+|{{Party shading/Republican}} |[[16th Wisconsin Legislature|18R, 16D, 1U]]
+|{{Party shading/Republican}} |[[16th Wisconsin Legislature|53R, 45D, 2U]]
+|rowspan=2 {{Party shading/Tie}} |3D, 3R
+|- style="height:2em"
+!1864
+|rowspan=2 {{Party shading/National Union}} |[[James T. Lewis]] {{small|(NU)}}
+|rowspan=6 {{Party shading/National Union}} |[[Wyman Spooner]] {{small|(NU)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Lucius Fairchild]] {{small|(D)}}
+|rowspan=4 {{Party shading/National Union}} |[[John G. McMynn]] {{small|(NU)}}
+|{{Party shading/National Union}} |[[17th Wisconsin Legislature|22NU, 11D]]
+|{{Party shading/National Union}} |[[17th Wisconsin Legislature|75NU, 25D]]
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{Aye}}
+|- style="height:2em"
+!1865
+|{{Party shading/National Union}} |[[18th Wisconsin Legislature|25NU, 8D]]
+|{{Party shading/National Union}} |[[18th Wisconsin Legislature|67NU, 33D]]
+|rowspan=6 {{Party shading/Republican}} |5R, 1D
+|- style="height:2em"
+!1866
+|rowspan=6 {{Party shading/National Union}} |[[Lucius Fairchild]] {{small|(NU)}}
+|rowspan=4 {{Party shading/National Union}} |[[Thomas Allen (Wisconsin politician)|Thomas Allen]] {{small|(NU)}}
+|rowspan=4 {{Party shading/National Union}} |[[Charles R. Gill]] {{small|(NU)}}
+|rowspan=4 {{Party shading/National Union}} |[[William E. Smith (politician)|William E. Smith]] {{small|(NU)}}
+|{{Party shading/National Union}} |[[19th Wisconsin Legislature|23NU, 10D]]
+|{{Party shading/National Union}} |[[19th Wisconsin Legislature|67NU, 33D]]
+|- style="height:2em"
+!1867
+|{{Party shading/National Union}} |[[20th Wisconsin Legislature|22NU, 11D]]
+|{{Party shading/National Union}} |[[20th Wisconsin Legislature|74NU, 25D, 1WD]]
+|- style="height:2em"
+!1868
+|rowspan=2 {{Party shading/Republican}} |[[Alexander J. Craig]] {{small|(R)}}
+|{{Party shading/Republican}} |[[21st Wisconsin Legislature|18R, 15D]]
+|{{Party shading/Republican}} |[[21st Wisconsin Legislature|59R, 41D]]
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Schuyler Colfax|Colfax]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1869
+|{{Party shading/Republican}} |[[22nd Wisconsin Legislature|19R, 14D]]
+|{{Party shading/Republican}} |[[22nd Wisconsin Legislature|68R, 32D]]
+|rowspan=6 {{Party shading/Republican}} |[[Matthew H. Carpenter]] {{small|(R)}}
+|- style="height:2em"
+!1870
+|rowspan=2 {{Party shading/Republican}} |[[Thaddeus C. Pound]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Llywelyn Breese]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Stephen Steele Barlow]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry Baetz]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Samuel Fallows]] {{small|(R)}}
+|{{Party shading/Republican}} |[[23rd Wisconsin Legislature|19R, 11D, 3I]]
+|{{Party shading/Republican}} |[[23rd Wisconsin Legislature|55R, 38D, 7I]]
+|- style="height:2em"
+!1871
+|{{Party shading/Republican}} |[[24th Wisconsin Legislature|19R, 14D]]
+|{{Party shading/Republican}} |[[24th Wisconsin Legislature|57R, 41D, 2I]]
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+!1872
+|rowspan=2 {{Party shading/Republican}} |[[Cadwallader C. Washburn]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Milton Pettit]] {{small|(R)}}{{efn |name=died}}
+|{{Party shading/Republican}} |[[25th Wisconsin Legislature|23R, 9D, 1I]]
+|{{Party shading/Republican}} |[[25th Wisconsin Legislature|58R, 38D, 4I]]
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1873
+|''vacant''
+|{{Party shading/Republican}} |[[26th Wisconsin Legislature|17R, 16D]]
+|{{Party shading/Democratic}} |[[26th Wisconsin Legislature|60D, 40R]]
+|rowspan=2 {{Party shading/Republican}} |6R, 2D
+|- style="height:2em"
+!1874
+|rowspan=2 {{Party shading/Democratic}} |[[William Robert Taylor]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Charles D. Parker]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Peter Doyle (politician)|Peter Doyle]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[A. Scott Sloan]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Ferdinand Kuehn]] {{small|(D)}}
+|rowspan=4 {{Party shading/Liberal Republican}} |[[Edward Searing]] {{small|(LR)}}
+|rowspan=2 {{Party shading/Republican}} |[[27th Wisconsin Legislature|17R, 15D, 1I]]
+|{{Party shading/Republican}} |[[27th Wisconsin Legislature|64R, 35D, 4I]]
+|- style="height:2em"
+!1875
+|{{Party shading/Democratic}} |[[28th Wisconsin Legislature|60D, 40R]]
+|rowspan=6 {{Party shading/Republican}} |[[Angus Cameron (American politician)|Angus Cameron]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |5R, 3D
+|- style="height:2em"
+!1876
+|rowspan=2 {{Party shading/Republican}} |[[Harrison Ludington]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[29th Wisconsin Legislature|21R, 12D]]
+|{{Party shading/Coalition}} |[[29th Wisconsin Legislature|49D, 47R, 4I]]{{efn |Elected a Republican, [[Sam Fifield]], as Speaker.<ref name=bb649/>}}
+|rowspan=4 {{Party shading/Republican}} |[[Rutherford B. Hayes|Hayes]]/<br>[[William A. Wheeler|Wheeler]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1877
+|{{Party shading/Coalition}} |[[30th Wisconsin Legislature|48R, 40D, 7GB, 4I, 1S]]{{efn |Elected an independent, [[John B. Cassoday]], as Speaker. He ran on a Unionist ticket.<ref name=bb649/>}}
+|- style="height:2em"
+!1878
+|rowspan=4 {{Party shading/Republican}} |[[William E. Smith (politician)|William E. Smith]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James M. Bingham]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Hans Warner]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Alexander Wilson (Wisconsin politician)|Alexander Wilson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Richard W. Guenther]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William Clarke Whitford]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[31st Wisconsin Legislature|24R, 9D]]
+|{{Party shading/Coalition}} |[[31st Wisconsin Legislature|45R, 41D, 13GB, 1S]]{{efn |Elected a Greenback, [[Augustus Barrows]], as Speaker.<ref name=bb649/>}}
+|- style="height:2em"
+!1879
+|{{Party shading/Republican}} |[[32nd Wisconsin Legislature|66R, 25D, 9GB]]
+|rowspan=2 {{Party shading/Republican}} |[[Matthew H. Carpenter]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+!1880
+|{{Party shading/Republican}} |[[33rd Wisconsin Legislature|25R, 8D]]
+|{{Party shading/Republican}} |[[33rd Wisconsin Legislature|70R, 29D, 1GB]]
+|rowspan=4 {{Party shading/Republican}} |[[James A. Garfield|Garfield]]/<br>[[Chester A. Arthur|Arthur]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1881
+|{{Party shading/Republican}} |[[34th Wisconsin Legislature|24R, 9D]]
+|{{Party shading/Republican}} |[[34th Wisconsin Legislature|78R, 22D]]
+|rowspan=12 {{Party shading/Republican}} |[[Philetus Sawyer]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Angus Cameron (American politician)|Angus Cameron]] {{small|(R)}}
+|- style="height:2em"
+!1882
+|rowspan=7 {{Party shading/Republican}} |[[Jeremiah M. Rusk]] {{small|(R)}}{{efn |During Rusk's first term, the [[Wisconsin Constitution]] was amended to provide that all elections of state and county officers would henceforth take place in even-numbered years. By the provisions of the amendment, the terms of all officials who would have left office in 1884, including Rusk, were extended by one year.}}
+|rowspan=5 {{Party shading/Republican}} |[[Sam Fifield]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Ernst Timme]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Leander F. Frisby]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Edward C. McFetridge]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Robert Graham (Wisconsin politician)|Robert Graham]] {{small|(R)}}{{efn |Also nominated by the Democratic Party and the Prohibition Party.}}
+|{{Party shading/Republican}} |[[35th Wisconsin Legislature|23R, 10D]]
+|{{Party shading/Republican}} |[[35th Wisconsin Legislature|64R, 34D, 2I]]
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Republican}} |[[36th Wisconsin Legislature|18R, 15D]]
+|rowspan=2 {{Party shading/Republican}} |[[36th Wisconsin Legislature|63R, 37D]]
+|rowspan=2 {{Party shading/Democratic}} |6D, 3R
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Republican}} |[[James G. Blaine|Blaine]]/<br>[[John A. Logan|Logan]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1885
+|rowspan=2 {{Party shading/Republican}} |[[37th Wisconsin Legislature|20R, 13D]]
+|rowspan=2 {{Party shading/Republican}} |[[37th Wisconsin Legislature|61R, 39D]]
+|rowspan=6 {{Party shading/Republican}} |[[John Coit Spooner]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |7R, 2D
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=4 {{Party shading/Republican}} |[[George Washington Ryland]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles E. Estabrook]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry B. Harshaw]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jesse B. Thayer]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[38th Wisconsin Legislature|25R, 6D, 1Pop, 1I]]
+|rowspan=2 {{Party shading/Republican}} |[[38th Wisconsin Legislature|57R, 30D, 6Pop, 4ID, 3I]]
+|rowspan=2 {{Party shading/Republican}} |7R, 1D, 1Lab
+|- style="height:2em"
+!1888
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Levi P. Morton|Morton]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Republican}} |[[William D. Hoard]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[39th Wisconsin Legislature|24R, 6D, 2{{abbr|UL|Union Labor}}, 1I]]
+|rowspan=2 {{Party shading/Republican}} |[[39th Wisconsin Legislature|71R, 29D]]
+|rowspan=2 {{Party shading/Republican}} |7R, 2D
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=4 {{Party shading/Democratic}} |[[George Wilbur Peck]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Charles Jonas (Wisconsin politician)|Charles Jonas]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Cunningham (Wisconsin politician)|Thomas Cunningham]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James L. O'Connor]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John Hunner]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Oliver Elwin Wells]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[40th Wisconsin Legislature|19D, 14R]]
+|rowspan=2 {{Party shading/Democratic}} |[[40th Wisconsin Legislature|66D, 33R, 1UL]]
+|rowspan=6 {{Party shading/Democratic}} |[[William F. Vilas]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |8D, 1R
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{Party shading/Democratic}} |[[41st Wisconsin Legislature|26D, 7R]]
+|rowspan=2 {{Party shading/Democratic}} |[[41st Wisconsin Legislature|56D, 44R]]
+|rowspan=6 {{Party shading/Democratic}} |[[John L. Mitchell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |6D, 4R
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=2 {{Party shading/Republican}} |[[William H. Upham]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Emil Baensch]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry Casson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William H. Mylrea]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Sewell A. Peterson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John Q. Emery]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[42nd Wisconsin Legislature|20R, 13D]]
+|rowspan=2 {{Party shading/Republican}} |[[42nd Wisconsin Legislature|81R, 19D]]
+|rowspan=5 {{Party shading/Republican}} |10R
+|- style="height:2em"
+!1896
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Garret Hobart|Hobart]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1897
+|rowspan=3 {{Party shading/Republican}} |[[Edward Scofield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[43rd Wisconsin Legislature|29R, 4D]]
+|rowspan=2 {{Party shading/Republican}} |[[43rd Wisconsin Legislature|90R, 9D, 1Fus]]
+|rowspan=3 {{Party shading/Republican}} |[[John Coit Spooner]] {{small|(R)}}{{efn |name=resigned|Resigned.}}
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|{{Party shading/Republican}} |[[Jesse Stone (Wisconsin politician)|Jesse Stone]] {{small|(R)}}{{efn |name=died}}
+|{{Party shading/Republican}} |[[William Froehlich]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Emmett R. Hicks]] {{small|(R)}}
+|{{Party shading/Republican}} |[[James O. Davidson]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Lorenzo D. Harvey]] {{small|(R)}}
+|{{Party shading/Republican}} |[[44th Wisconsin Legislature|31R, 2D]]
+|{{Party shading/Republican}} |[[44th Wisconsin Legislature|81R, 19D]]
+|{{Party shading/Republican}} |[[Joseph V. Quarles]] {{small|(R)}}
+|}
+
+===1900–1949===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Wisconsin Legislature|State Legislature]]
+!colspan=3 |[[Wisconsin's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Wisconsin|Governor]]
+!class=unsortable |[[List of lieutenant governors of Wisconsin|Lieutenant<br>Governor]]
+!class=unsortable |[[Secretary of State of Wisconsin|Secretary of State]]
+!class=unsortable |[[Attorney General of Wisconsin|Attorney General]]
+!class=unsortable |[[State Treasurer of Wisconsin|Treasurer]]
+!class=unsortable |[[Superintendent of Public Instruction of Wisconsin|Supt. of Pub. Inst.]]
+!class=unsortable |[[Wisconsin State Senate|Senate]]
+!class=unsortable |[[Wisconsin State Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Wisconsin|U.S.<br>House]]
+|- style="height:2em"
+!1900
+|{{Party shading/Republican}} |[[Edward Scofield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Jesse Stone (Wisconsin politician)|Jesse Stone]] {{small|(R)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Republican}} |[[William Froehlich]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Emmett R. Hicks]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[James O. Davidson]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Lorenzo D. Harvey]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |31R, 2D
+|{{Party shading/Republican}} |81R, 19D
+|rowspan=6 {{Party shading/Republican}} |[[Joseph V. Quarles]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[John Coit Spooner]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=3 {{Party shading/Republican}} |10R
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1901
+|rowspan=5 {{Party shading/Republican}} |[[Robert M. La&nbsp;Follette]] {{small|(R)}}{{efn |name=lafollette|La Follette nominated himself to Wisconsin's vacant U.S. Senate seat in 1905 and was confirmed by the state Senate; he held both offices, leaving the senate seat unfilled, until he resigned from the office of governor to take his seat in the Senate.}}
+|rowspan=2 {{Party shading/Republican}} |82R, 18D
+|- style="height:2em"
+!1902
+|rowspan=4 {{Party shading/Republican}} |[[James O. Davidson]] {{small|(R)}}
+|- style="height:2em"
+!1903
+|rowspan=4 {{Party shading/Republican}} |[[Walter Houser]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lafayette M. Sturdevant|Lafayette M.<br>Sturdevant]] {{small|(R)}}
+|{{Party shading/Republican}} |[[John J. Kempf]] {{small|(R)}}{{efn |name=bond|Failed to give required bond.}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles P. Cary]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |30R, 3D
+|rowspan=2 {{Party shading/Republican}} |75R, 25D
+|rowspan=2 {{Party shading/Republican}} |10R, 1D
+|- style="height:2em"
+!1904
+|{{Party shading/Republican}} |[[Thomas M. Purtell]] {{small|(R)}}{{efn |name=vacancy}}
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1905
+|rowspan=2 {{Party shading/Republican}} |[[John J. Kempf]] {{small|(R)}}{{efn |name=bond}}
+|rowspan=16 {{Party shading/Nonpartisan}} |[[Charles P. Cary]] {{small|(NP/R)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 4D, 1SD
+|rowspan=2 {{Party shading/Republican}} |85R, 11D, 4SD
+|rowspan=2 {{Party shading/Republican}} |10R, 1D
+|- style="height:2em"
+!1906
+|rowspan=5 {{Party shading/Republican}} |[[James O. Davidson]] {{small|(R)}}{{efn |name=act}}
+|''vacant''
+|rowspan=19 {{Party shading/Republican}} |[[Robert M. La&nbsp;Follette]] {{small|(R)}}
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Republican}} |[[William D. Connor]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[James A. Frear]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Frank L. Gilbert]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Andrew H. Dahl]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 5D, 1SD
+|rowspan=2 {{Party shading/Republican}} |76R, 19D, 5SD
+|rowspan=8 {{Party shading/Republican}} |[[Isaac Stephenson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |9R, 2D
+|- style="height:2em"
+!1908
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{Party shading/Republican}} |[[John Strange (Wisconsin politician)|John Strange]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 4D, 1SD
+|rowspan=2 {{Party shading/Republican}} |80R, 17D, 3SD
+|rowspan=2 {{Party shading/Republican}} |10R, 1D
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=4 {{Party shading/Republican}} |[[Francis E. McGovern]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Thomas Morris (Wisconsin politician)|Thomas Morris]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Levi H. Bancroft]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 4D, 2SD
+|rowspan=2 {{Party shading/Republican}} |59R, 29D, 12SD
+|rowspan=2 {{Party shading/Republican}} |8R, 2D, 1Soc
+|- style="height:2em"
+!1912
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Republican}} |[[John Donald (Wisconsin politician)|John Donald]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Walter C. Owen]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=10 {{Party shading/Republican}} |[[Henry Johnson (Wisconsin Treasurer)|Henry Johnson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 9D, 1SD
+|rowspan=2 {{Party shading/Republican}} |57R, 37D, 6SD
+|rowspan=4 {{Party shading/Republican}} |8R, 3D
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=6 {{Party shading/Republican}} |[[Emanuel L. Philipp]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Edward Dithmar]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 11D, 1SD
+|rowspan=2 {{Party shading/Republican}} |63R, 29D, 8SD
+|rowspan=3 {{Party shading/Democratic}} |[[Paul O. Husting]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1916
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes|Hughes]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Republican}} |[[Merlin Hull]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |24R, 6D, 3Soc
+|rowspan=2 {{Party shading/Republican}} |79R, 14D, 7Soc
+|rowspan=2 {{Party shading/Republican}} |11R
+|- style="height:2em"
+!1918
+|{{Party shading/Republican}} |[[Spencer Haven]] {{small|(R)}}{{efn |name=vacancy}}
+|rowspan=9 {{Party shading/Republican}} |[[Irvine Lenroot]] {{small|(R)}}
+|- style="height:2em"
+!1919
+|rowspan=2 {{Party shading/Republican}} |[[John J. Blaine]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |27R, 4Soc, 2D
+|rowspan=2 {{Party shading/Republican}} |79R, 16Soc, 5D
+|rowspan=2 {{Party shading/Republican}} |10R, 1Soc
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1921
+|rowspan=6 {{Party shading/Republican}} |[[John J. Blaine]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[George Comings]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Elmer Hall]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[William J. Morgan (Wisconsin politician)|William J. Morgan]] {{small|(R)}}
+|rowspan=30 {{Party shading/Nonpartisan}} |[[John Callahan (Wisconsin politician)|John Callahan]] {{small|(NP)}}
+|rowspan=2 {{Party shading/Republican}} |92R, 6Soc, 2D
+|rowspan=2 {{Party shading/Republican}} |11R
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=4 {{Party shading/Republican}} |[[Fred R. Zimmerman]] {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |[[Herman Ekern]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Solomon Levitan]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |30R, 3Soc
+|rowspan=2 {{Party shading/Republican}} |89R, 10Soc, 1D
+|rowspan=6 {{Party shading/Republican}} |10R, 1Soc
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Progressive (Wisconsin)}} |[[Robert M. La Follette|La&nbsp;Follette]]/<br>[[Burton K. Wheeler|Wheeler]] {{small|(Prog)}} {{Nay}}
+|- style="height:2em"
+!1925
+|rowspan=8 {{Party shading/Republican}} |[[Henry Huber]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 4Soc
+|rowspan=2 {{Party shading/Republican}} |91R, 8Soc, 1D
+|rowspan=10 {{Party shading/Republican}} |[[Robert M. La&nbsp;Follette Jr.]] {{small|(R)}}
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=2 {{Party shading/Republican}} |[[Fred R. Zimmerman]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Theodore Dammann]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[John W. Reynolds Sr.]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |31R, 2Soc
+|rowspan=2 {{Party shading/Republican}} |89R, 8Soc, 3D
+|rowspan=6 {{Party shading/Republican}} |[[John J. Blaine]] {{small|(R)}}
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1929
+|rowspan=2 {{Party shading/Republican}} |[[Walter J. Kohler Sr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[59th Wisconsin Legislature|91R, 5D, 3Soc, 1I]]
+|rowspan=2 {{Party shading/Republican}} |11R
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=2 {{Party shading/Republican}} |[[Philip La&nbsp;Follette]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[60th Wisconsin Legislature|30R, 2Soc, 1D]]
+|rowspan=2 {{Party shading/Republican}} |[[60th Wisconsin Legislature|88R, 9Soc, 3D]]
+|rowspan=2 {{Party shading/Republican}} |10R, 1D
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1933
+|rowspan=2 {{Party shading/Democratic}} |[[Albert G. Schmedeman]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Thomas J. O'Malley]] {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Democratic}} |[[James E. Finnegan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Robert Kirkland Henry]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[61st Wisconsin Legislature|23R, 9D, 1Soc]]
+|rowspan=2 {{Party shading/Democratic}} |[[61st Wisconsin Legislature|59D, 38R, 3Soc]]
+|rowspan=6 {{Party shading/Democratic}} |[[F. Ryan Duffy]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |5D, 5R
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=4 {{Party shading/Progressive (Wisconsin)}} |[[Philip La&nbsp;Follette]] {{small|({{abbr|WP|Wisconsin Progressive}})}}
+|rowspan=4 {{Party shading/Progressive (Wisconsin)}} |[[Theodore Dammann]] {{small|(WP)}}
+|rowspan=2 {{Party shading/Coalition}} |[[62nd Wisconsin Legislature|14D, 13WP, 6R]]{{efn |Elected a Democrat, [[Harry W. Bolens]], as President Pro Tempore.<ref>{{Cite book|url=https://books.google.com/books?id=5R9WAAAAMAAJ&q=john%2520cassoday%2520wisconsin%2520assembly%2520speaker%2520democrat&pg=PA649|title=The State of Wisconsin Blue Book|date=1973|publisher=Wisconsin Legislative Reference Bureau, distributed by Document Sales|language=en|page=648}}</ref>}}
+|rowspan=2 {{Party shading/Progressive (Wisconsin)}} |[[62nd Wisconsin Legislature|45WP, 35D, 17R, 3Soc]]{{efn |Elected a Progressive, [[Jorge W. Carow]], as Speaker.<ref>{{Cite book|last1=Sharp|first1=Nancy Weatherly|url=https://books.google.com/books?id=uAYnZlEk-iEC&q=jorge%2520w.%2520carow%2520wisconsin%2520republican&pg=PA83|title=American Legislative Leaders in the Midwest, 1911-1994|last2=Sharp|first2=James Roger|last3=Ritter|first3=Charles F.|last4=Wakelyn|first4=Jon L.|date=1997|publisher=Greenwood Publishing Group|isbn=978-0-313-30214-5|language=en|page=83}}</ref>}}
+|rowspan=13 {{Party shading/Progressive (Wisconsin)}} |[[Robert M. La&nbsp;Follette Jr.]] {{small|(WP)}}
+|rowspan=4 {{Party shading/Progressive (Wisconsin)}} |7WP, 3D
+|- style="height:2em"
+!1936
+|{{Party shading/Progressive (Wisconsin)}} |[[Henry Gunderson]] {{small|(WP)}}{{efn |Resigned to take an appointment to the state tax commission.}}
+|- style="height:2em"
+!1937
+|rowspan=2 {{Party shading/Progressive (Wisconsin)}} |[[Herman Ekern]] {{small|(WP)}}
+|rowspan=2 {{Party shading/Progressive (Wisconsin)}} |[[Orland Steen Loomis]] {{small|(WP)}}
+|rowspan=2 {{Party shading/Progressive (Wisconsin)}} |[[Solomon Levitan]] {{small|(WP)}}
+|rowspan=2 {{Party shading/Progressive (Wisconsin)}} |16WP, 9D, 8R{{efn |Elected a Progressive, [[Walter J. Rush]], as President Pro Tempore.<ref>https://news.google.com/newspapers?id=YQUtAAAAIBAJ&sjid=6tMFAAAAIBAJ&pg=4362,5129113&hl=en {{Dead link|date=February 2022}}</ref>}}
+|rowspan=2 {{Party shading/Progressive (Wisconsin)}} |46WP, 31D, 21R, 2Soc{{efn |Elected a Progressive, [[Paul Alfonsi]], as Speaker.<ref>{{Cite book|url=https://books.google.com/books?id=5R9WAAAAMAAJ&q=john%2520cassoday%2520wisconsin%2520assembly%2520speaker%2520democrat&pg=PA649|title=The State of Wisconsin Blue Book|date=1973|publisher=Wisconsin Legislative Reference Bureau, distributed by Document Sales|language=en}}</ref>}}
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Republican}} |[[Julius P. Heil]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Walter Samuel Goodland]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Fred R. Zimmerman]] {{small|(R)}}
+|rowspan=11 {{Party shading/Republican}} |[[John E. Martin]] {{small|(R)}}{{efn |name=died}}
+|rowspan=9 {{Party shading/Republican}} |[[John M. Smith (politician, born 1872)|John M. Smith]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Coalition}} |16R, 11WP, 6D
+|rowspan=2 {{Party shading/Republican}} |53R, 32WP, 15D
+|rowspan=13 {{Party shading/Republican}} |[[Alexander Wiley]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 2WP
+|- style="height:2em"
+!1940
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1941
+|rowspan=5 {{Party shading/Republican}} |23R, 6WP, 4D
+|rowspan=2 {{Party shading/Republican}} |60R, 25WP, 15D
+|rowspan=2 {{Party shading/Republican}} |6R, 3WP, 1D
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!rowspan=2 |1943
+|{{Party shading/Progressive (Wisconsin)}} |[[Orland Steen Loomis]] {{small|(WP)}}{{efn |name=loomis|Loomis was elected in 1942 but died before taking office. Per a ruling of the [[Wisconsin Supreme Court]], Goodland, who had been re-elected lieutenant governor in the same election, acted as governor for the term.}}
+|rowspan=3 {{Party shading/Republican}} |73R, 14D, 13WP
+|rowspan=3 {{Party shading/Republican}} |5R, 3D, 2WP
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Walter Samuel Goodland|Walter Samuel<br>Goodland]] {{small|(R)}}{{efn |name=died}}{{efn |name=loomis}}
+|rowspan=2 |''vacant''
+|- style="height:2em"
+!1944
+|rowspan=5 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[John W. Bricker|Bricker]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1945
+|rowspan=2 {{Party shading/Republican}} |[[Oscar Rennebohm]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |22R, 6D, 5WP
+|rowspan=2 {{Party shading/Republican}} |75R, 19D, 5WP
+|rowspan=2 {{Party shading/Republican}} |7R, 2D, 1WP
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=4 {{Party shading/Republican}} |[[Oscar Rennebohm]] {{small|(R)}}{{efn |name=act}}
+|rowspan=3 |''vacant''
+|rowspan=2 {{Party shading/Republican}} |[[John L. Sonderegger]] {{small|(R)}}{{efn |name=vacancy}}{{efn |Resigned to become State Insurance Commissioner.}}
+|rowspan=3 {{Party shading/Republican}} |27R, 5D, 1WP
+|rowspan=3 {{Party shading/Republican}} |88R, 12D
+|rowspan=4 {{Party shading/Republican}} |[[Joseph McCarthy]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |10R
+|- style="height:2em"
+!rowspan=2 |1948
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Grover L. Broadfoot]] {{small|(R)}}{{efn |name=vacancy}}
+|{{Party shading/Nonpartisan}} |[[Clyde M. Johnston]] {{small|(NP)}}{{efn |name=vacancy}}
+|rowspan=2 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1949
+|{{Party shading/Republican}} |[[George M. Smith]] {{small|(R)}}
+|{{Party shading/Democratic}} |[[Thomas E. Fairchild]] {{small|(D)}}
+|{{Party shading/Republican}} |[[Warren R. Smith]] {{small|(R)}}
+|{{Party shading/Nonpartisan}} |[[George Earl Watson]] {{small|(NP)}}
+|{{Party shading/Republican}} |28R, 5D
+|{{Party shading/Republican}} |74R, 26D
+|{{Party shading/Republican}} |8R, 2D
+|}
+
+===1950–1999===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[Wisconsin State Legislature|State Legislature]]
+!colspan=3 |[[Wisconsin's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br/>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Wisconsin|Governor]]
+!class=unsortable |[[List of lieutenant governors of Wisconsin|Lieutenant Governor]]
+!class=unsortable |[[Secretary of State of Wisconsin|Secretary of State]]
+!class=unsortable |[[Attorney General of Wisconsin|Attorney General]]
+!class=unsortable |[[State Treasurer of Wisconsin|Treasurer]]
+!class=unsortable |[[Wisconsin State Senate|Senate]]
+!class=unsortable |[[Wisconsin State Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from Wisconsin|U.S. House]]
+|- style="height:2em"
+!1950
+|{{Party shading/Republican}} |[[Oscar Rennebohm]] {{small|(R)}}{{efn |name=act}}
+|rowspan=5 {{Party shading/Republican}} |[[George M. Smith]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Fred R. Zimmerman]] {{small|(R)}}
+|{{Party shading/Democratic}} |[[Thomas E. Fairchild]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |[[Warren R. Smith]] {{small|(R)}}{{efn |name=died}}
+|{{Party shading/Republican}} |28R, 5D
+|{{Party shading/Republican}} |74R, 26D
+|rowspan=7 {{Party shading/Republican}} |[[Joseph McCarthy]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Alexander Wiley]] {{small|(R)}}
+|{{Party shading/Republican}} |8R, 2D
+|rowspan=2 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}}
+|- style="height:2em"
+!1951
+|rowspan=6 {{Party shading/Republican}} |[[Walter J. Kohler Jr.]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Vernon W. Thomson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |26R, 7D
+|rowspan=2 {{Party shading/Republican}} |76R, 24D
+|rowspan=4 {{Party shading/Republican}} |9R, 1D
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1953
+|rowspan=2 {{Party shading/Republican}} |75R, 25D
+|- style="height:2em"
+!1954
+|{{Party shading/Republican}} |[[Louis Allis]] {{small|(R)}}{{efn |name=vacancy}}
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Republican}} |[[Warren P. Knowles]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Glenn Wise]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |25R, 8D
+|rowspan=2 {{Party shading/Republican}} |64R, 36D
+|rowspan=4 {{Party shading/Republican}} |7R, 3D
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Republican}} |[[Vernon W. Thomson]] {{small|(R)}}
+|rowspan=18 {{Party shading/Republican}} |[[Robert C. Zimmerman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Stewart G. Honeck]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 10D
+|rowspan=2 {{Party shading/Republican}} |67R, 33D
+|rowspan=32 {{Party shading/Democratic}} |[[William Proxmire]] {{small|(D)}}
+|- style="height:2em"
+!1958
+|{{Party shading/Republican}} |[[Dena A. Smith]] {{small|(R)}}{{efn |name=vacancy}}
+|- style="height:2em"
+!1959
+|rowspan=4 {{Party shading/Democratic}} |[[Gaylord Nelson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Philleo Nash]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Reynolds Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Eugene M. Lamb]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |20R, 13D
+|rowspan=2 {{Party shading/Democratic}} |55D, 45R
+|rowspan=2 {{Party shading/Tie}} |5D, 5R
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1961
+|rowspan=2 {{Party shading/Republican}} |[[Warren P. Knowles]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Dena A. Smith]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |55R, 45D
+|rowspan=4 {{Party shading/Republican}} |6R, 4D
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Democratic}} |[[John W. Reynolds Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Jack B. Olson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[George Thompson (Wisconsin politician)|George Thompson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |22R, 11D
+|rowspan=2 {{Party shading/Republican}} |53R, 47D
+|rowspan=18 {{Party shading/Democratic}} |[[Gaylord Nelson]] {{small|(D)}}
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1965
+|rowspan=6 {{Party shading/Republican}} |[[Warren P. Knowles]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Patrick Lucey]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Bronson La Follette|Bronson La&nbsp;Follette]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 13D
+|rowspan=2 {{Party shading/Democratic}} |52D, 48R
+|rowspan=2 {{Party shading/Tie}} |5D, 5R
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=2 {{Party shading/Republican}} |21R, 12D
+|rowspan=2 {{Party shading/Republican}} |52R, 48D
+|rowspan=2 {{Party shading/Republican}} |7R, 3D
+|- style="height:2em"
+!1968
+|rowspan=3 {{Party shading/Republican}} |[[Jack B. Olson]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Harold W. Clemens]] {{small|(R)}}{{efn |name=vacancy}}
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1969
+|rowspan=4 {{Party shading/Republican}} |[[Robert W. Warren]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |23R, 10D
+|rowspan=2 {{Party shading/Republican}} |52R, 48D
+|rowspan=2 {{Party shading/Republican}} |6R, 4D
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=6 {{Party shading/Democratic}} |[[Patrick Lucey]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Martin J. Schreiber]] {{small|(D)}}
+|rowspan=20 {{Party shading/Democratic}} |[[Charles P. Smith (politician)|Charles P. Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 13D
+|rowspan=2 {{Party shading/Democratic}} |67D, 33R
+|rowspan=2 {{Party shading/Tie}} |5D, 5R
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|{{Party shading/Democratic}} |[[Victor A. Miller]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 15D
+|rowspan=2 {{Party shading/Democratic}} |62D, 37R
+|rowspan=2 {{Party shading/Democratic}} |5D, 4R
+|- style="height:2em"
+!1974
+|rowspan=13 {{Party shading/Democratic}} |[[Bronson La Follette|Bronson La&nbsp;Follette]] {{small|(D)}}
+|- style="height:2em"
+!1975
+|rowspan=4 {{Party shading/Democratic}} |[[Doug La Follette|Doug La&nbsp;Follette]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 14R
+|rowspan=2 {{Party shading/Democratic}} |63D, 36R
+|rowspan=4 {{Party shading/Democratic}} |7D, 2R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Democratic}} |[[Martin J. Schreiber]] {{small|(D)}}
+|rowspan=2 |''vacant''
+|rowspan=2 {{Party shading/Democratic}} |23D, 10R
+|rowspan=2 {{Party shading/Democratic}} |66D, 33R
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Republican}} |[[Lee S. Dreyfus]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Russell Olson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Vel Phillips]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 12R
+|rowspan=2 {{Party shading/Democratic}} |60D, 39R
+|rowspan=2 {{Party shading/Democratic}} |6D, 3R
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Democratic}} |19D, 14R
+|rowspan=2 {{Party shading/Democratic}} |58D, 40R, 1&nbsp;vac.{{efn |name=1981vacant|The 47th Assembly district was vacant for most of this term due to a resignation followed by a disputed special election.}}
+|rowspan=12 {{Party shading/Republican}} |[[Bob Kasten]] {{small|(R)}}
+|rowspan=10 {{Party shading/Democratic}} |5D, 4R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=4 {{Party shading/Democratic}} |[[Tony Earl]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James Flynn (politician)|James Flynn]] {{small|(D)}}
+|rowspan=20 {{Party shading/Democratic}} |[[Doug La Follette|Doug La&nbsp;Follette]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 14R
+|rowspan=2 {{Party shading/Democratic}} |59D, 40R
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=4 {{Party shading/Democratic}} |19D, 14R
+|rowspan=2 {{Party shading/Democratic}} |52D, 47R
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=16 {{Party shading/Republican}} |[[Tommy Thompson]] {{small|(R)}}
+|rowspan=16 {{Party shading/Republican}} |[[Scott McCallum]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Don Hanaway]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |54D, 45R
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Democratic}} |[[Michael Dukakis|Dukakis]]/<br>[[Lloyd Bentsen|Bentsen]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1989
+|rowspan=2 {{Party shading/Democratic}} |20D, 13R
+|rowspan=2 {{Party shading/Democratic}} |56D, 43R
+|rowspan=14 {{Party shading/Democratic}} |[[Herb Kohl]] {{small|(D)}}
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=12 {{Party shading/Democratic}} |[[Jim Doyle]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican}} |[[Cathy Zeuske]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 14R
+|rowspan=2 {{Party shading/Democratic}} |58D, 41R
+|rowspan=5 {{Party shading/Republican}} |5R, 4D
+|- style="height:2em"
+!1992
+|rowspan=11 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1993
+|{{Party shading/Democratic}} |18D, 15R
+|rowspan=3 {{Party shading/Democratic}} |52D, 47R
+|rowspan=10 {{Party shading/Democratic}} |[[Russ Feingold]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |17R, 16D{{efn |On April 6, 1993, three special elections were held, and in two of them, Republicans flipped the seats to their control, and thus took control of the chamber on April 20.<ref>[https://docs.legis.wisconsin.gov/1993/related/journals/senate/19930420.pdf Journal of the Senate]</ref><ref name=rude>{{cite web |url=http://www.dairynet.com/who_we_are/brianrude.php |title=President of the Senate Brian Rude |access-date=2015-10-16 |archive-date=2008-08-20 |archive-url=https://web.archive.org/web/20080820233103/http://www.dairynet.com/who_we_are/brianrude.php |url-status=dead}}</ref>}}
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=7 {{Party shading/Republican}} |[[Jack Voight]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |51R, 48D
+|rowspan=3 {{Party shading/Republican}} |6R, 3D
+|- style="height:2em"
+!rowspan=2 |1996
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |17D, 16R{{efn |On June 4, 1996, a special election was held, and Democrats flipped the seat to their control, and thus took control of the chamber on June 19.<ref>{{cite web|title=Wisconsin Legislature: SJ96171|url=https://docs.legis.wisconsin.gov/1995/related/journals/senate/sj96171|access-date=2021-06-30|website=docs.legis.wisconsin.gov}}</ref>}}
+|- style="height:2em"
+!1997
+|rowspan=3 {{Party shading/Republican}} |52R, 47D
+|rowspan=4 {{Party shading/Democratic}} |5D, 4R
+|- style="height:2em"
+!rowspan=2 |1998
+|- style="height:2em"
+|{{Party shading/Republican}} |17R, 16D{{efn |On April 7, 1998, a special election was held, and Republicans flipped the seat to their control, and thus took control of the chamber on April 20.<ref>{{cite web|title=Wisconsin Legislature: sj042198e|url=https://docs.legis.wisconsin.gov/1997/related/journals/senate/sj042198e|access-date=2021-06-30|website=docs.legis.wisconsin.gov}}</ref><ref name=rude/>}}
+|- style="height:2em"
+!1999
+|{{Party shading/Democratic}} |17D, 16R
+|{{Party shading/Republican}} |54R, 45D
+|}
+
+===2000–present===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Wisconsin State Legislature|State Legislature]]
+!colspan=3 |[[Wisconsin's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br/>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Wisconsin|Governor]]
+!class=unsortable |[[List of lieutenant governors of Wisconsin|Lieutenant Governor]]
+!class=unsortable |[[Secretary of State of Wisconsin|Secretary<br>of State]]
+!class=unsortable |[[Attorney General of Wisconsin|Attorney General]]
+!class=unsortable |[[State Treasurer of Wisconsin|Treasurer]]
+!class=unsortable |[[Superintendent of Public Instruction of Wisconsin|Sup. of Pub. Inst.]]
+!class=unsortable |[[Wisconsin State Senate|Senate]]
+!class=unsortable |[[Wisconsin State Assembly|Assembly]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Wisconsin|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Wisconsin|U.S.<br>House]]
+|- style="height:2em"
+!2000
+|{{Party shading/Republican}} |[[Tommy Thompson]] {{small|(R)}}{{efn |Resigned to become [[United States Secretary of Health and Human Services]].}}
+|{{Party shading/Republican}} |[[Scott McCallum]] {{small|(R)}}
+|rowspan=24 {{Party shading/Democratic}} |[[Doug La Follette|Doug La&nbsp;Follette]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=3 {{Party shading/Democratic}} |[[Jim Doyle]] {{small|(D)}}
+|rowspan=7 {{Party shading/Republican}} |[[Jack Voight]] {{small|(R)}}
+|{{Party shading/Nonpartisan}} |[[John T. Benson]] {{small|(NP/D)}}
+|{{Party shading/Democratic}} |17D, 16R
+|{{Party shading/Republican}} |54R, 45D
+|rowspan=14 {{Party shading/Democratic}} |[[Herb Kohl]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |[[Russ Feingold]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |5D, 4R
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Republican}} |[[Scott McCallum]] {{small|(R)}}{{efn |Ascended to the governorship upon Gov. Thompson's resignation.}}
+|rowspan=2 {{Party shading/Republican}} |[[Margaret Farrow]] {{small|(R)}}
+|rowspan=8 {{Party shading/Nonpartisan}} |[[Elizabeth Burmaster]] {{small|(NP/D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 15R
+|rowspan=2 {{Party shading/Republican}} |56R, 43D
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=8 {{Party shading/Democratic}} |[[Jim Doyle]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Barbara Lawton]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Peg Lautenschlager]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 15D
+|rowspan=2 {{Party shading/Republican}} |58R, 41D
+|rowspan=4 {{Party shading/Tie}} |4R, 4D
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry|Kerry]]/<br>[[John Edwards|Edwards]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |19R, 14D
+|rowspan=2 {{Party shading/Republican}} |60R, 39D
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=9 {{Party shading/Republican}} |[[J. B. Van Hollen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Dawn Marie Sass]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |18D, 15R
+|rowspan=2 {{Party shading/Republican}} |52R, 47D
+|rowspan=4 {{Party shading/Democratic}} |5D, 3R
+|- style="height:2em"
+!2008
+|rowspan=9 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2009
+|rowspan=11 {{Party shading/Nonpartisan}} |[[Tony Evers]] {{small|(NP/D)}}
+|rowspan=2 {{Party shading/Democratic}} |52D, 46R, 1I
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!rowspan=2 |2011
+|rowspan=9 {{Party shading/Republican}} |[[Scott Walker (politician)|Scott Walker]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Rebecca Kleefisch]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Kurt W. Schuller]] {{small|(R)}}
+|{{Party shading/Republican}} |19R, 14D
+|rowspan=3 {{Party shading/Republican}} |59R, 39D, 1I
+|rowspan=17 {{Party shading/Republican/current}} |[[Ron Johnson]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |5R, 3D
+|- style="height:2em"
+|{{Party shading/Republican}} |17R, 16D{{efn |See [[2011 Wisconsin Senate recall elections]].}}
+|- style="height:2em"
+!2012
+|{{Party shading/Democratic}} |17D, 16R{{efn |See [[2012 Wisconsin Senate recall elections]].}}
+|- style="height:2em"
+!2013
+|rowspan=2 {{party shading/Republican}} |18R, 15D
+|rowspan=2 {{party shading/Republican}} |60R, 39D
+|rowspan=14 {{party shading/Democratic/current}} |[[Tammy Baldwin]] {{small|(D)}}
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=4 {{party shading/Republican}} |[[Brad Schimel]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Matt Adamczyk]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |19R, 14D
+|rowspan=2 {{party shading/Republican}} |63R, 36D
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!2017
+|{{party shading/Republican}} |20R, 13D
+|rowspan=2 {{party shading/Republican}} |64R, 35D
+|- style="height:2em"
+!2018
+|{{party shading/Republican}} |18R, 15D
+|- style="height:2em"
+!2019
+|rowspan=8 {{party shading/Democratic/current}} |[[Tony Evers]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Mandela Barnes]] {{small|(D)}}
+|rowspan=8 {{party shading/Democratic/current}} |[[Josh Kaul]] {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |[[Sarah Godlewski]] {{small|(D)}}
+|rowspan=2 {{Party shading/Nonpartisan}} |[[Carolyn Stanford Taylor|Carolyn Stanford<br>Taylor]] {{small|(NP/D)}}{{efn |name=vacancy}}
+|rowspan=2 {{party shading/Republican}} |19R, 14D
+|rowspan=2 {{party shading/Republican}} |63R, 36D
+|- style="height:2em"
+!2020
+|rowspan=4 {{party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2021
+|rowspan=9 {{Party shading/Nonpartisan/current}} |[[Jill Underly]] {{small|(NP/D)}}
+|rowspan=2 {{party shading/Republican}} |21R, 12D
+|rowspan=2 {{party shading/Republican}} |61R, 38D
+|- style="height:2em"
+!2022
+|- style="height:2em"
+!2023
+|rowspan=4 {{party shading/Democratic/current}} |[[Sara Rodriguez]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Sarah Godlewski]] {{small|(D)}}{{efn |name=vacancy}}
+|rowspan=4 {{party shading/Republican/current}} |[[John Leiber]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |22R, 11D
+|rowspan=2 {{party shading/Republican}} |64R, 35D
+|rowspan=4 {{Party shading/Republican/current}} |6R, 2D
+|- style="height:2em"
+!2024
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R){{Aye}}}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{party shading/Republican/current}} |18R, 15D
+|rowspan=2 {{party shading/Republican/current}} |54R, 45D
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+
+==See also==
+*[[List of superintendents of public instruction of Wisconsin]]
+*[[Wisconsin#Politics|Politics in Wisconsin]]
+*[[Elections in Wisconsin]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web|title=Wisconsin Blue Books|url=https://digicoll.library.wisc.edu/cgi-bin/WI/WI-idx?type=browse&scope=WI.WIBlueBks|access-date=2021-07-19|website=The State of Wisconsin Collection}}
+
+{{Political party strength in U.S. states}}
+
+[[Category:Politics of Wisconsin]]
+[[Category:Government of Wisconsin]]
+[[Category:Political party strength in the United States by state|Wisconsin]]

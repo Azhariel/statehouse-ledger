@@ -1,0 +1,816 @@
+{{Short description|none}}
+{{Use American English|date=April 2026}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+| post = Governor
+| body = the<br>Commonwealth of Pennsylvania
+| insignia = Seal of the Governor of Pennsylvania.svg
+| insignia_size = 110px
+| insignia_caption = Seal of the governor
+| flag = Flag of the Governor of Pennsylvania.svg
+| flag_border = yes
+| flag_caption = Flag of the governor
+| style = {{ublist|[[Governor]] (informal)|[[The Honorable#United States of America|The Honorable]] (formal)}}
+| department = [[Government of Pennsylvania]]
+| status = {{ublist|[[Head of state]]|[[Head of government]]}}
+| image = File:Gov. Shapiro (cropped).jpg
+| image_size = 225
+| incumbent = [[Josh Shapiro]]
+| incumbent_since = January 17, 2023
+| residence = [[Pennsylvania Governor's Residence|Governor's Residence]]
+| term_length = Four years, renewable once consecutively
+| inaugural = [[Thomas Mifflin]]
+| formation = December 21, 1790
+| succession = [[Gubernatorial lines of succession in the United States#Pennsylvania|Line of succession]]
+| deputy = [[Lieutenant Governor of Pennsylvania]]
+| salary = $201,729 (2020)<ref>{{Cite web |date=June 25, 2013 |title=CSG Releases 2013 Governor Salaries |url=http://knowledgecenter.csg.org/kc/content/csg-releases-2013-governor-salaries |access-date=November 23, 2014 |publisher=The Council of State Governments}}</ref>
+| website = {{URL|www.pa.gov/governor|Official website}}
+}}
+The [[governor of Pennsylvania]] is the [[head of government]] of the [[Commonwealth (U.S. state)|Commonwealth]] of [[Pennsylvania]], as well as [[commander-in-chief]] of the state's [[Pennsylvania National Guard|national guard]].<ref>PA Constitution article IV, § 7</ref>
+
+The [[Governor (United States)|governor]] has a duty to enforce state laws and the power to approve or [[veto]] [[Bill (law)|bills]] passed by the [[Pennsylvania General Assembly]],<ref>PA Constitution article IV, § 15</ref> as well as to convene the legislature.<ref>PA Constitution article IV, § 12</ref> The governor may grant pardons except in cases of [[Impeachment in the United States|impeachment]], but only when recommended by the Board of Pardons.<ref>PA Constitution article IV, § 9</ref> 
+
+There have been seven presidents and 48 governors of Pennsylvania, with two governors ([[Robert E. Pattison]] and [[Gifford Pinchot]]) serving non-consecutive terms, totaling 55 terms in both offices. The longest term was that of the first governor, [[Thomas Mifflin]], who served three full terms as governor in addition to two years as [[President of the Continental Congress]]. The shortest term belonged to [[John C. Bell Jr.]], who served only 19 days as acting governor after his predecessor, [[Edward Martin (Pennsylvania politician)|Edward Martin]], resigned.
+
+The current governor is Democrat [[Josh Shapiro]], who took office on January 17, 2023.
+
+==Governors==
+{{For|the period before independence|List of colonial governors of Pennsylvania}}
+Pennsylvania was one of the original [[Thirteen Colonies]] and was admitted as a state on December 12, 1787.<ref>{{Cite web |title=Ratification of the Constitution by the State of Pennsylvania; December 12, 1787 |url=http://avalon.law.yale.edu/18th_century/ratpa.asp |url-status=live |archive-url=https://web.archive.org/web/20151105061228/http://avalon.law.yale.edu/18th_century/ratpa.asp |archive-date=November 5, 2015 |access-date=October 31, 2015 |publisher=The Avalon Project at Yale Law School}}</ref> Before it declared its independence, Pennsylvania was a [[Province of Pennsylvania|colony]] of the [[Kingdom of Great Britain]].
+
+===Presidents of the Supreme Executive Council===
+The [[Pennsylvania Constitution of 1776]] created the [[Supreme Executive Council of the Commonwealth of Pennsylvania|Supreme Executive Council]] as the state's executive branch, with a president as its head.<ref>1776 Constitution § 3</ref> The president was chosen annually by the council, though with no specific term dates.<ref>1776 Constitution § 19</ref>
+
+The constitution created the position of "vice-president", though no provision was made if the office of the president became vacant, which occurred four times later. Contemporary sources continue to label the chief executive in such times as the vice-president, without any notion of succeeding in the presidency. One acting president, [[George Bryan]], was subsequently recognized later as a full-fledged governor, due to his acting as president for over six months.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Presidents of the Supreme Executive Council of Pennsylvania
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|President
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Vice-president
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Wharton, Thomas"|[[File:Thomas Wharton (1735 - 1778), by Charles Willson Peale (1741 - 1827).jpg|75px]]
+|'''[[Thomas Wharton Jr.]]'''<br>{{Small|(1735–1778)}}<br><ref name="nga-wharton">{{Cite web |title=Thomas Wharton |url=https://www.nga.org/governor/thomas-wharton/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="445"|March 5, 1777<ref name="smull">{{Cite book |last=Smull |first=William P. |url=https://books.google.com/books?id=APdWAAAAYAAJ&pg=PA360 |title=Smull's Legislative Hand Book and Manual of the State of Pennsylvania |date=1885 |page=360 |language=en}}</ref><br />–<br />May 23, 1778<br />{{small|(445 days; died in office)}}
+|{{sortname|George|Bryan}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Bryan, George"|[[File:GeorgeBryan.jpg|75px]]
+|'''[[George Bryan]]'''<br>{{Small|(1731–1791)}}<br><ref name="nga-bryan">{{Cite web |title=George Bryan |url=https://www.nga.org/governor/george-bryan/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="214"|May 23, 1778<ref name="smull" /><br />–<br />December 22, 1778<br>{{small|(214 days; retired)}}
+|style="background:#EEEEEE;"|''acting as<br>president''{{efn|Four vice-presidents acted as president at various times; however, Bryan's lengthy term has caused his term to since be recognized as being equivalent to president. Contemporary sources listed him only as vice president, acting out the duties of president.}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|3
+|rowspan="3" data-sort-value="Reed, Joseph"|[[File:Joseph Reed.webp|75px]]
+|rowspan="3"|'''[[Joseph Reed (politician)|Joseph Reed]]'''<br>{{Small|(1741–1785)}}<br><ref name="nga-reed">{{Cite web |title=Joseph Reed |url=https://www.nga.org/governor/joseph-reed/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1060"|December 22, 1778<ref name="smull" /><br />–<br />November 15, 1781<br>{{small|(1060 days; term-limited)}}{{efn|Members of the executive council who served three successive years were ineligible to hold the office for four years afterward.{{sfn|Kallenbach|1977|p=490}}<ref>{{Cite web |title=1776 Pa. Const. § 19 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27PA%27&CID=252&art=&sec=19&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1776}}
+|{{sortname|George|Bryan}}<br />{{small|(resigned October 11, 1779)}}
+|- style="height:2em;"
+|{{sortname|Matthew|Smith|Matthew Smith (Pennsylvania statesman)}}<br />{{Small|(resigned November 15, 1779)}}
+|- style="height:2em;"
+|{{sortname|William|Moore|William Moore (Pennsylvania politician, died 1793)}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Moore, William"|[[File:William Moore (Pennsylvania).jpg|75px]]
+|'''[[William Moore (Pennsylvania politician, died 1793)|William Moore]]'''<br>{{Small|(1735–1793)}}<br><ref name="nga-moore">{{Cite web |title=William Moore |url=https://www.nga.org/governor/william-moore/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="358"|November 15, 1781<ref name="smull" /><br />–<br />November 7, 1782<br>{{small|(358 days; retired)}}
+|{{sortname|James|Potter|James Potter (Pennsylvania politician)}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|5
+|rowspan="3" data-sort-value="Dickinson, John"|[[File:JohnDickinson4.gif|75px]]
+|rowspan="3"|'''[[John Dickinson]]'''<br>{{Small|(1732–1808)}}<br><ref name="nga-dickinson">{{Cite web |title=John Dickinson |url=https://www.nga.org/governor/john-dickinson/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1077"|November 7, 1782<ref name="smull" /><br />–<br />October 18, 1785<br>{{small|(1077 days; term-limited)}}{{efn|name=limits-1776}}
+|{{sortname|James|Ewing|James Ewing (Pennsylvania politician)}}
+|- style="height:2em;"
+|{{sortname|James|Irvine|James Irvine (Pennsylvania politician)}}<br>{{small|(resigned October 10, 1785)}}
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Charles|Biddle}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|6
+|rowspan="3" data-sort-value="Franklin, Benjamin"|[[File:Benjamin Franklin by Joseph Duplessis 1778.jpg|75px]]
+|rowspan="3"|'''[[Benjamin Franklin]]'''<br>{{Small|(1706–1790)}}<br><ref name="nga-franklin">{{Cite web |title=Benjamin Franklin |url=https://www.nga.org/governor/benjamin-franklin/ |access-date=June 8, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1115"|October 18, 1785<ref name="smull" /><br />–<br />November 5, 1788<br>{{small|(1115 days; term-limited)}}{{efn|name=limits-1776}}
+|- style="height:2em;"
+|{{sortname|Peter|Muhlenberg}}<br>{{small|(resigned October 14, 1788)}}
+|- style="height:2em;"
+|{{sortname|David|Redick}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Mifflin, Thomas"|[[File:Thomas Mifflin.jpg|75px]]
+|'''[[Thomas Mifflin]]'''<br>{{Small|(1744–1800)}}<br>{{sfn|Sobel|1978|pp=1293–1294}}<ref name="nga-mifflin">{{Cite web |title=Thomas Mifflin |url=https://www.nga.org/governor/thomas-mifflin/ |access-date=June 11, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="777"|November 5, 1788<ref name="smull" /><br />–<br />December 21, 1790<br>{{small|(777 days;<br>elected state governor)}}
+|{{sortname|George|Ross|George Ross (Pennsylvania statesman)}}
+|}
+
+===Governors of the Commonwealth of Pennsylvania===
+[[File:Five PA-Governors.jpg|thumb|right|Five governors of the Commonwealth of Pennsylvania who  have served since 1995, (left to right): [[Mark Schweiker]], [[Tom Ridge]], [[Tom Wolf]], [[Tom Corbett]] and [[Ed Rendell]], pose in front of the east facade of the [[Pennsylvania State Capitol]] in [[Harrisburg, Pennsylvania|Harrisburg]] at Wolf's January 2015 gubernatorial inauguration]]
+
+The 1790 constitution abolished the council and replaced the president with a governor,<ref>1790 Constitution article II, § 1</ref> and established a three-year term for governor commencing on the third Tuesday of the December following the election, with governors not allowed to serve more than nine out of any twelve years.<ref>1790 Constitution article IV, § 3</ref> The 1838 constitution moved the start of the term to the third Tuesday of the January following the election, and allowed governors to only serve six out of any nine years.<ref>1838 Constitution article II, § 3</ref> The 1874 constitution lengthened the term to four years, and prohibited governors from succeeding themselves.<ref>1874 Constitution article IV, § 3</ref> The current constitution of 1968 changed this to allow governors to serve two consecutive terms, with no lifetime limit.<ref>PA Constitution article IV, § 3</ref>
+
+Under the 1968 constitution, [[Milton Shapp]] was the first governor to serve two terms, and [[Tom Corbett]] was the first incumbent governor to lose a reelection bid.
+
+If the office of governor becomes vacant through death, resignation, or conviction on impeachment, the [[Lieutenant Governor of Pennsylvania|lieutenant governor]] becomes governor for the remainder of the term; if the office is only temporarily vacant due to disability of the governor, the lieutenant governor only acts out the duties of governor.<ref>PA Constitution article IV, § 13</ref> Should both offices be vacant, the [[president pro tempore|president ''pro tempore'']] of the state senate becomes governor.<ref>PA Constitution article IV, § 14</ref> The position of a lieutenant  governor was created in the 1874 constitution; prior to then, the speaker of the senate would act as governor in cases of vacancy. Originally, the lieutenant governor could only act as governor; it was not until the [[Pennsylvania Constitution|1968 constitution]] that the lieutenant governor could actually become the sitting governor in that fashion. The office of governor has been vacant for an extended period once before, a 17-day gap in 1848 between the resignation of the previous governor and the swearing in of his acting successor. Governors and lieutenant governors are elected on the same [[political party]] [[ticket (election)|ticket]].<ref>{{Cite web |title=Executive Branch of the Several States |url=http://www.thegreenpapers.com/slg/executive.phtml |access-date=April 30, 2008 |publisher=The Green Papers}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Commonwealth of Pennsylvania
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Pennsylvania|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1873, first being filled in 1875.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|1
+|rowspan="3" data-sort-value="Mifflin, Thomas"|[[File:Thomas Mifflin.jpg|75px]]
+|style="background:{{party color|Nonpartisan politician}};" title="Represented no party"|&nbsp;
+|rowspan="3"|'''[[Thomas Mifflin]]'''<br>{{Small|(1744–1800)}}<br>{{sfn|Sobel|1978|pp=1293–1294}}<ref name="nga-mifflin" />
+|rowspan="3" data-sort-value="3284"|December 21, 1790<ref>{{Cite news |date=1790-12-24 |title=A Proclamation |page=3 |work=Dunlap and Claypoole's American Daily Advertiser |url=https://www.newspapers.com/article/dunlap-and-claypooles-american-daily-ad/126298910/ |access-date=2023-06-12}}</ref><br />–<br />December 17, 1799<br>{{small|(3284 days; term-limited)}}{{efn|Under the 1790 constitution, governors were ineligible to hold the office longer than nine in any term of twelve years.<ref>{{Cite web |title=1790 Pa. Const. art. II, § 3 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27PA%27&CID=253&art=2&sec=3&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1790}}
+|None{{efn|The [[Federalist Party (United States)|Federalist]] and [[Democratic-Republican Party|Democratic-Republican]] parties jointly nominated Mifflin, but he himself carried no party label.<ref>{{Cite web |last=Lampi |first=Philip |title=Pennsylvania 1790 Governor |url=https://elections.lib.tufts.edu/catalog/k930bz14c |access-date=February 22, 2023 |website=A New Nation Votes |publisher=Tufts University}}</ref>}}
+|[[1790 Pennsylvania gubernatorial election|1790]]
+|rowspan="30" colspan="2" style="background:#EEEEEE;"|''Office did not exist''
+|- style="height:2em;"
+|rowspan="4" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=260}}
+|[[1793 Pennsylvania gubernatorial election|1793]]
+|- style="height:2em;"
+|[[1796 Pennsylvania gubernatorial election|1796]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|2
+|rowspan="3" data-sort-value="McKean, Thomas"|[[File:Charles Willson Peale - Thomas McKean - NPG.66.63 - National Portrait Gallery.jpg|75px]]
+|rowspan="3"|'''[[Thomas McKean]]'''<br>{{Small|(1734–1817)}}<br>{{sfn|Sobel|1978|pp=1294–1296}}<ref name="nga-mckean">{{Cite web |title=Thomas McKean |url=https://www.nga.org/governor/thomas-mckean-2/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="3291"|December 17, 1799<ref>{{Cite news |date=1799-12-31 |title=A Proclamation |page=1 |work=The Gleaner |url=https://www.newspapers.com/article/the-gleaner-thomas-mckean-inaugurated-de/126317785/ |access-date=2023-06-13}}</ref><br />–<br />December 20, 1808<br>{{small|(3291 days; term-limited)}}{{efn|name=limits-1790}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Dubin{{sfn|Dubin|2003|p=216}} and Kallenbach{{sfn|Kallenbach|1977|pp=493–494}} label McKean a Democratic-Republican for 1799 and 1802, and an Independent Democratic-Republican for 1805.}}
+|[[1799 Pennsylvania gubernatorial election|1799]]
+|- style="height:2em;"
+|[[1802 Pennsylvania gubernatorial election|1802]]
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Tertium quids}};" title="Represented the Constitutionalist faction of the Democratic-Republican Party"|
+|[[Tertium quids|Constitutionalist]]
+|[[1805 Pennsylvania gubernatorial election|1805]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|3
+|rowspan="3" data-sort-value="Snyder, Simon"|[[File:Portrait of Pennsylvania Governor Simon Snyder.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="3"|'''[[Simon Snyder]]'''<br>{{Small|(1759–1819)}}<br>{{sfn|Sobel|1978|pp=1296–1297}}<ref name="nga-snyder">{{Cite web |title=Simon Snyder |url=https://www.nga.org/governor/simon-snyder/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="3284"|December 20, 1808<ref>{{Cite news |date=1808-12-27 |title=A Proclamation |page=3 |work=Lancaster Intelligencer |url=https://www.newspapers.com/article/lancaster-intelligencer-snyder-inaugurat/126317900/ |access-date=2023-06-13}}</ref><br />–<br />December 16, 1817<br>{{small|(3284 days; term-limited)}}{{efn|name=limits-1790}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1808 Pennsylvania gubernatorial election|1808]]
+|- style="height:2em;"
+|[[1811 Pennsylvania gubernatorial election|1811]]
+|- style="height:2em;"
+|[[1814 Pennsylvania gubernatorial election|1814]]
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Findlay, William"|[[File:WFindley.jpg|75px]]
+|'''[[William Findlay (governor)|William Findlay]]'''<br>{{Small|(1768–1846)}}<br>{{sfn|Sobel|1978|pp=1297–1298}}<ref name="nga-findlay">{{Cite web |title=William Findlay |url=https://www.nga.org/governor/william-findlay/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1100"|December 16, 1817<ref>{{Cite news |date=1817-12-20 |title=A Proclamation |page=3 |work=Lancaster Intelligencer |url=https://www.newspapers.com/article/lancaster-intelligencer-findlay-inaugura/126317964/ |access-date=2023-06-13}}</ref><br />–<br />December 19, 1820<br>{{small|(1100 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1817 Pennsylvania gubernatorial election|1817]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Hiester, Joseph"|[[File:Joseph Hiester.jpg|75px]]
+|style="color:inherit;background: {{party color|Federalist Party}};" title="Represented the Federalist Party"|
+|'''[[Joseph Hiester]]'''<br>{{Small|(1752–1832)}}<br>{{sfn|Sobel|1978|pp=1298–1299}}<ref name="nga-hiester">{{Cite web |title=Joseph Hiester |url=https://www.nga.org/governor/joseph-hiester/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1093"|December 19, 1820<ref>{{Cite news |date=1820-12-21 |title=Inauguration of the Governor |page=2 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-hiester-inaugu/126318083/ |access-date=2023-06-13}}</ref><br />–<br />December 16, 1823<br>{{small|(1093 days; retired)}}
+|[[Federalist Party|Federalist]]{{efn|Hiester is labeled an Independent Republican by Dubin,{{sfn|Dubin|2003|p=219}} and an Independent Democratic-Republican and Federalist by Glashan.{{sfn|Glashan|1979|p=260}}}}
+|[[1820 Pennsylvania gubernatorial election|1820]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Shulze, John"|[[File:Shulze.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[John Andrew Shulze]]'''<br>{{Small|(1775–1852)}}<br>{{sfn|Sobel|1978|pp=1299–1301}}<ref name="nga-shulze">{{Cite web |title=John Andrew Shulze |url=https://www.nga.org/governor/john-andrew-shulze/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2192"|December 16, 1823<ref>{{Cite news |date=1823-12-23 |title=Pennsylvania Legislature |page=2 |work=York Gazette |url=https://www.newspapers.com/article/york-gazette-shulze-inaugurated-december/126318144/ |access-date=2023-06-13}}</ref><br />–<br />December 15, 1829<br>{{small|(2192 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1823 Pennsylvania gubernatorial election|1823]]
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Jacksonian Party (United States)}};" title="Represented the Jacksonian Party"|
+|[[Jacksonian Party (United States)|Jacksonian]]
+|[[1826 Pennsylvania gubernatorial election|1826]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Wolf, George"|[[File:George Wolf.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[George Wolf]]'''<br>{{Small|(1777–1840)}}<br>{{sfn|Sobel|1978|pp=1301–1302}}<ref name="nga-wolf-george">{{Cite web |title=George Wolf |url=https://www.nga.org/governor/george-wolf/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2192"|December 15, 1829<ref>{{Cite news |date=1829-12-22 |title=Proceedings of the Pennsylvania Legislature |page=2 |work=Pennsylvania Republican |url=https://www.newspapers.com/article/pennsylvania-republican-wolf-inaugurated/126318292/ |access-date=2023-06-13}}</ref><br />–<br />December 15, 1835<br>{{small|(2192 days; lost election)}}
+|rowspan="2"|[[Democratic Party (United States)|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1829 Pennsylvania gubernatorial election|1829]]
+|- style="height:2em;"
+|[[1832 Pennsylvania gubernatorial election|1832]]
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Ritner, Joseph"|[[File:Joseph Ritner-Governor of Pennsylvania.JPG|75px]]
+|style="color:inherit;background: {{party color|Anti-Masonic Party (United States)}};" title="Represented the Anti-Masonic Party"|
+|'''[[Joseph Ritner]]'''<br>{{Small|(1780–1869)}}<br>{{sfn|Sobel|1978|pp=1302–1303}}<ref name="nga-ritner">{{Cite web |title=Joseph Ritner |url=https://www.nga.org/governor/joseph-ritner/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1128"|December 15, 1835<ref>{{Cite news |date=1835-12-17 |title=none | quote=Mr. Ritner, being then proclaimed by the Speaker to be the Governor of the Commonwealth... |page=3 |work=The Lancaster Examiner |url=https://www.newspapers.com/article/the-lancaster-examiner-ritner-inaugurate/126318353/ |access-date=2023-06-13}}</ref><br />–<br />January 15, 1839<br>{{small|(1128 days; lost election)}}
+|[[Anti-Masonic Party|Anti-Masonic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1835 Pennsylvania gubernatorial election|1835]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Porter, David"|[[File:DavidRittenhousePorter.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[David R. Porter]]'''<br>{{Small|(1788–1867)}}<br>{{sfn|Sobel|1978|pp=1303–1304}}<ref name="nga-porter">{{Cite web |title=David Rittenhouse Porter |url=https://www.nga.org/governor/david-rittenhouse-porter/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2199"|January 15, 1839<ref>{{Cite news |date=1839-01-17 |title=Correspondence of the National Gazette |page=2 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-porter-inaugur/126318450/ |access-date=2023-06-13}}</ref><br />–<br />January 21, 1845<br>{{small|(2199 days; term-limited)}}{{efn|Under the 1838 constitution, governors were ineligible to hold the office longer than six in any term of nine years.<ref>{{Cite web |title=1838 Pa. Const. art. II, § 3 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27PA%27&CID=254&art=2&sec=3&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1838}}
+|rowspan="2"|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1838 Pennsylvania gubernatorial election|1838]]
+|- style="height:2em;"
+|[[1841 Pennsylvania gubernatorial election|1841]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Shunk, Francis"|[[File:Francis R. Shunk Governor of Pennsylvania.tif|75px]]
+|rowspan="2"|'''[[Francis R. Shunk]]'''<br>{{Small|(1788–1848)}}<br>{{sfn|Sobel|1978|p=1305}}<ref name="nga-shunk">{{Cite web |title=Francis Rawn Shunk |url=https://www.nga.org/governor/francis-rawn-shunk/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1266"|January 21, 1845<ref>{{Cite news |date=1845-01-27 |title=The Inauguration of Gov. Shunk |page=2 |work=The Chambersburg Times |url=https://www.newspapers.com/article/the-chambersburg-times-the-inauguration/126318690/ |access-date=2023-06-13}}</ref><br />–<br />July 9, 1848<br>{{small|(1266 days; resigned)}}{{efn|Shunk resigned due to illness; he died of [[tuberculosis]] 11 days later.{{sfn|Sobel|1978|p=1305}}}}
+|rowspan="2"|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1844 Pennsylvania gubernatorial election|1844]]
+|- style="height:2em;"
+|[[1847 Pennsylvania gubernatorial election|1847]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Johnston, William"|[[File:W F Johnston (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[William F. Johnston]]'''<br>{{Small|(1808–1872)}}<br>{{sfn|Sobel|1978|p=1306}}<ref name="nga-johnston">{{Cite web |title=William Freame Johnston |url=https://www.nga.org/governor/william-freame-johnston/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1291"|July 9, 1848{{efn|Shunk resigned on July 9, and as Speaker of the Senate, Johnston became acting governor.<ref>{{Cite news |date=1848-07-12 |title=none | quote=By the resignation of Gov. Shunk, the Hon. Wm. F. Johnston, of Armstrong, Speaker of the Senate, will officiate as Governor until the inauguration of a new governor on the third Tuesday in January next. |language=en |page=2 |work=The Lancaster Examiner |url=https://www.newspapers.com/article/the-lancaster-examiner-johnston-succeeds/126319423/ |access-date=2023-10-01}}</ref> He arrived in Harrisburg to be formally sworn in on July 26.<ref>{{Cite news |date=1848-07-19 |title=From Harrisburg |page=1 |work=Public Ledger |url=https://www.newspapers.com/article/public-ledger-shunk-dies-johnston-still/126319215/ |access-date=2023-06-13}}</ref><ref>{{Cite news |date=1848-07-27 |title=Governor Johnston Sworn into Office |page=2 |work=Public Ledger |url=https://www.newspapers.com/article/public-ledger-governor-johnston-sworn-in/126319457/ |access-date=2023-06-13}}</ref>}}<br />–<br />January 20, 1852<br>{{small|(1291 days; lost election)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=491–493}}
+|style="background:#EEEEEE;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+|[[1848 Pennsylvania gubernatorial election|1848]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Bigler, William"|[[File:William Bigler (cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William Bigler]]'''<br>{{Small|(1814–1880)}}<br>{{sfn|Sobel|1978|pp=1307–1308}}<ref name="nga-bigler">{{Cite web |title=William Bigler |url=https://www.nga.org/governor/william-bigler/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1093"|January 20, 1852<ref>{{Cite news |date=1852-01-24 |title=Inauguration of Gov. Bigler |page=2 |work=Sunbury American |url=https://www.newspapers.com/article/sunbury-american-inauguration-of-gov-bi/126322656/ |access-date=2023-06-13}}</ref><br />–<br />January 16, 1855<br>{{small|(1093 days; lost election)}}
+|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1851 Pennsylvania gubernatorial election|1851]]
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Pollock, James"|[[File:James Pollock Pennsylvania Governor.jpg|75px]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[James Pollock (American politician)|James Pollock]]'''<br>{{Small|(1810–1890)}}<br>{{sfn|Sobel|1978|p=1308}}<ref name="nga-pollock">{{Cite web |title=James Pollock |url=https://www.nga.org/governor/james-pollock/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1100"|January 16, 1855<ref>{{Cite news |date=1855-01-17 |title=The Inauguration of Hon. James Pollock |page=1 |work=Carlisle Weekly Herald |url=https://www.newspapers.com/article/carlisle-weekly-herald-the-inauguration/126322852/ |access-date=2023-06-13}}</ref><br />–<br />January 19, 1858<br>{{small|(1100 days; retired)}}{{sfn|Sobel|1978|p=1308}}
+|[[Whig Party (United States)|Whig]]{{efn|Pollock also represented the [[Know Nothing|American Party]].{{sfn|Kallenbach|1977|pp=491–493}}}}
+|[[1854 Pennsylvania gubernatorial election|1854]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Packer, William"|[[File:WilliamPacker.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William F. Packer]]'''<br>{{Small|(1807–1870)}}<br>{{sfn|Sobel|1978|p=1309}}<ref name="nga-packer">{{Cite web |title=William Fisher Packer |url=https://www.nga.org/governor/william-fisher-packer/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1093"|January 19, 1858<ref>{{Cite news |date=1858-01-22 |title=Packer inaugurated January 19 |page=2 |work=Pittsburgh Daily Post |url=https://www.newspapers.com/article/pittsburgh-daily-post-packer-inaugurated/126322898/ |access-date=2023-06-13}}</ref><br />–<br />January 15, 1861<br>{{small|(1093 days; retired)}}
+|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1857 Pennsylvania gubernatorial election|1857]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Curtin, Andrew"|[[File:Andrew Curtin2 (cropped).jpg|75px]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Andrew Gregg Curtin]]'''<br>{{Small|(1815–1894)}}<br>{{sfn|Sobel|1978|pp=1310–1311}}<ref name="nga-curtin">{{Cite web |title=Andrew Gregg Curtin |url=https://www.nga.org/governor/andrew-gregg-curtin/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2192"|January 15, 1861<ref>{{Cite news |date=1861-01-16 |title=Inauguration of Gov. Curtin |page=2 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-inauguration-o/126322937/ |access-date=2023-06-13}}</ref><br />–<br />January 15, 1867<br>{{small|(2192 days; term-limited)}}{{efn|name=limits-1838}}
+|rowspan="2"|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1860 Pennsylvania gubernatorial election|1860]]
+|- style="height:2em;"
+|[[1863 Pennsylvania gubernatorial election|1863]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Geary, John"|[[File:Gen. J.W. Geary Crop.jpg|75px]]
+|rowspan="2"|'''[[John W. Geary]]'''<br>{{Small|(1819–1873)}}<br>{{sfn|Sobel|1978|p=1311}}<ref name="nga-geary">{{Cite web |title=John White Geary |url=https://www.nga.org/governor/john-white-geary/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2199"|January 15, 1867<ref>{{Cite news |date=1867-01-16 |title=The Inauguration of General Geary as Governor |page=1 |work=Pittsburgh Weekly Gazette |url=https://www.newspapers.com/article/pittsburgh-weekly-gazette-the-inaugurati/126322995/ |access-date=2023-06-13}}</ref><br />–<br />January 21, 1873<br>{{small|(2199 days; term-limited)}}{{efn|name=limits-1838}}
+|rowspan="2"|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1866 Pennsylvania gubernatorial election|1866]]
+|- style="height:2em;"
+|[[1869 Pennsylvania gubernatorial election|1869]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Hartranft, John"|[[File:JohnFHartranft.jpg|75px]]
+|rowspan="2"|'''[[John F. Hartranft]]'''<br>{{Small|(1830–1889)}}<br>{{sfn|Sobel|1978|p=1312}}<ref name="nga-hartranft">{{Cite web |title=John Frederick Hartranft |url=https://www.nga.org/governor/john-frederick-hartranft/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2192"|January 21, 1873<ref>{{Cite news |date=1873-01-22 |title=Inauguration of Gen. Hartranft |page=1 |work=Reading Times |url=https://www.newspapers.com/article/reading-times-inauguration-of-gen-hartr/126323060/ |access-date=2023-06-13}}</ref><br />–<br />January 21, 1879<br>{{small|(2192 days; term-limited)}}{{efn|Under the 1874 constitution, governors were ineligible to the office for the next succeeding term.<ref>{{Cite web |title=1874 Pa. Const. art. IV, § 3 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27PA%27&CID=255&art=4&sec=3&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1874}}
+|rowspan="2"|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1872 Pennsylvania gubernatorial election|1872]]
+|- style="height:2em;"
+|[[1875 Pennsylvania gubernatorial election|1875]]
+|rowspan="2" style="background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|John|Latta|dab=politician}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Hoyt, Henry"|[[File:Henry M. Hoyt - Brady-Handy.jpg|75px]]
+|'''[[Henry M. Hoyt]]'''<br>{{Small|(1830–1892)}}<br>{{sfn|Sobel|1978|pp=1312–1313}}<ref name="nga-hoyt">{{Cite web |title=Henry Martyn Hoyt |url=https://www.nga.org/governor/henry-martyn-hoyt/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 21, 1879<ref>{{Cite news |date=1879-01-22 |title=Governor Hoyt |page=1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-governor-hoyt/126323136/ |access-date=2023-06-13}}</ref><br />–<br />January 16, 1883<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1878 Pennsylvania gubernatorial election|1878]]
+|{{sortname|Charles Warren|Stone}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Pattison, Robert"|[[File:RobertEPattison.png|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Robert E. Pattison]]'''<br>{{Small|(1850–1904)}}<br>{{sfn|Sobel|1978|pp=1313–1314}}<ref name="nga-pattison">{{Cite web |title=Robert Emory Pattison |url=https://www.nga.org/governor/robert-emory-pattison/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 16, 1883<ref>{{Cite news |date=1883-01-17 |title=The Inauguration |page=2 |work=Intelligencer Journal |url=https://www.newspapers.com/article/intelligencer-journal-pattison-inaugurat/126323275/ |access-date=2023-06-13}}</ref><br />–<br />January 18, 1887<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1882 Pennsylvania gubernatorial election|1882]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Chauncey Forward|Black}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Beaver, James"|[[File:J A Beaver.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James A. Beaver]]'''<br>{{Small|(1837–1914)}}<br>{{sfn|Sobel|1978|pp=1314–1315}}<ref name="nga-beaver">{{Cite web |title=James Addams Beaver |url=https://www.nga.org/governor/james-addams-beaver/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 18, 1887<ref>{{Cite news |date=1887-01-18 |title=Inauguration Day |page=1 |work=Lancaster New Era |url=https://www.newspapers.com/article/lancaster-new-era-beaver-inaugurated-jan/126323305/ |access-date=2023-06-13}}</ref><br />–<br />January 20, 1891<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1886 Pennsylvania gubernatorial election|1886]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William T.|Davies}}
+|- style="height:2em;"
+!scope="row"|''19''
+|data-sort-value="Pattison, Robert"|[[File:RobertEPattison.png|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Robert E. Pattison]]'''<br>{{Small|(1850–1904)}}<br>{{sfn|Sobel|1978|pp=1313–1314}}<ref name="nga-pattison" />
+|data-sort-value="1457"|January 20, 1891<ref>{{Cite news |date=1891-01-20 |title=Governor Pattison |page=1 |work=The York Dispatch |url=https://www.newspapers.com/article/the-york-dispatch-pattison-inaugurated-j/126323389/ |access-date=2023-06-13}}</ref><br />–<br />January 15, 1895<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1890 Pennsylvania gubernatorial election|1890]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Louis Arthur|Watres}}
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Hastings, Daniel"|[[File:Old time notes of Pennsylvania; a connected and chronological record of the commercial, industrial and educational advancement of Pennsylvania, and the inner history of all political movements since (14579858397).jpg|75px]]
+|rowspan="10" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Daniel H. Hastings]]'''<br>{{Small|(1849–1903)}}<br>{{sfn|Sobel|1978|p=1315}}<ref name="nga-hastings">{{Cite web |title=Daniel Hartman Hastings |url=https://www.nga.org/governor/daniel-hartman-hastings/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1895<ref>{{Cite news |date=1895-01-15 |title=Is Now Governor Hastings |page=1 |work=Lebanon Daily News |url=https://www.newspapers.com/article/lebanon-daily-news-hastings-inaugurated/126323419/ |access-date=2023-06-13}}</ref><br />–<br />January 17, 1899<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1894 Pennsylvania gubernatorial election|1894]]
+|rowspan="10" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Walter|Lyon|dab=politician}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Stone, William"|[[File:William Alexis Stone.jpg|75px]]
+|'''[[William A. Stone]]'''<br>{{Small|(1846–1920)}}<br>{{sfn|Sobel|1978|p=1316}}<ref name="nga-stone">{{Cite web |title=William Alexis Stone |url=https://www.nga.org/governor/william-alexis-stone/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 17, 1899<ref>{{Cite news |date=1899-01-17 |title=Inauguration of Governor Stone |page=1 |work=Wilkes-Barre Times Leader |url=https://www.newspapers.com/article/wilkes-barre-times-leader-stone-inaugura/126323450/ |access-date=2023-06-13}}</ref><br />–<br />January 20, 1903<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1898 Pennsylvania gubernatorial election|1898]]
+|{{sortname|John P. S.|Gobin}}
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Pennybacker, Samuel"|[[File:Portrait of Samuel W. Pennypacker.jpg|75px]]
+|'''[[Samuel W. Pennypacker]]'''<br>{{Small|(1843–1916)}}<br>{{sfn|Sobel|1978|pp=1316–1317}}<ref name="nga-pennypacker">{{Cite web |title=Samuel Whitaker Pennypacker |url=https://www.nga.org/governor/samuel-whitaker-pennypacker/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 20, 1903<ref>{{Cite news |date=1903-01-20 |title=Pennypacker Takes Oath As Governor |page=1 |work=Wilkes-Barre Times Leader |url=https://www.newspapers.com/article/wilkes-barre-times-leader-pennypacker-in/126333543/ |access-date=2023-06-13}}</ref><br />–<br />January 15, 1907<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1902 Pennsylvania gubernatorial election|1902]]
+|{{sortname|William M.|Brown|dab=Pennsylvania politician}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Stuart, Edwin"|[[File:Edwin S Stuart 1909.jpg|75px]]
+|'''[[Edwin Sydney Stuart]]'''<br>{{Small|(1853–1937)}}<br>{{sfn|Sobel|1978|pp=1317–1318}}<ref name="nga-stuart">{{Cite web |title=Edwin Sydney Stuart |url=https://www.nga.org/governor/edwin-sydney-stuart/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1907<ref>{{Cite news |date=1907-01-15 |title=Edwin S. Stuart Inaugurated Governor To-Day at Harrisburg |page=1 |work=Wilkes-Barre Times |url=https://www.newspapers.com/article/wilkes-barre-times-stuart-inaugurated-ja/126333733/ |access-date=2023-06-13}}</ref><br />–<br />January 17, 1911<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1906 Pennsylvania gubernatorial election|1906]]
+|{{sortname|Robert S.|Murphy}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Tener, John"|[[File:JohnKTener.jpg|75px]]
+|'''[[John K. Tener]]'''<br>{{Small|(1863–1946)}}<br>{{sfn|Sobel|1978|p=1318}}<ref name="nga-tener">{{Cite web |title=John Kinley Tener |url=https://www.nga.org/governor/john-kinley-tener/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 17, 1911<ref>{{Cite news |date=1911-01-17 |title=John K. Tener Now Governor |page=1 |work=Warren Times Mirror |url=https://www.newspapers.com/article/warren-times-mirror-tener-inaugurated-ja/126333851/ |access-date=2023-06-13}}</ref><br />–<br />January 19, 1915<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1910 Pennsylvania gubernatorial election|1910]]
+|{{sortname|John Merriman|Reynolds}}
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Brumbaugh, Martin"|[[File:MartinGBrumbaugh.jpg|75px]]
+|'''[[Martin Grove Brumbaugh]]'''<br>{{Small|(1862–1930)}}<br>{{sfn|Sobel|1978|p=1319}}<ref name="nga-brumbaugh">{{Cite web |title=Martin Grove Brumbaugh |url=https://www.nga.org/governor/martin-grove-brumbaugh/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 19, 1915<ref>{{Cite news |date=1915-01-19 |title=Governor Brumbaugh Takes Oath Amid Great Throngs |page=1 |work=Harrisburg Telegraph |url=https://www.newspapers.com/article/harrisburg-telegraph-brumbaugh-inaugurat/126333895/ |access-date=2023-06-13}}</ref><br />–<br />January 21, 1919<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1914 Pennsylvania gubernatorial election|1914]]
+|{{sortname|Frank B.|McClain}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Sproul, William"|[[File:William Cameron Sproul.jpg|75px]]
+|'''[[William Cameron Sproul]]'''<br>{{Small|(1870–1928)}}<br>{{sfn|Sobel|1978|pp=1319–1320}}<ref name="nga-sproul">{{Cite web |title=William Cameron Sproul |url=https://www.nga.org/governor/william-cameron-sproul/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 21, 1919<ref>{{Cite news |date=1919-01-21 |title=William C. Sproul Took Oath as Governor of State at Noon Today |page=1 |work=Republican and Herald |agency=United Press |url=https://www.newspapers.com/article/republican-and-herald-sproul-inaugurated/126334151/ |access-date=2023-06-13}}</ref><br />–<br />January 16, 1923<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1918 Pennsylvania gubernatorial election|1918]]
+|{{sortname|Edward E.|Beidleman}}
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Pinchot, Gifford"|[[File:Gifford Pinchot 3c03915u.jpg|75px]]
+|'''[[Gifford Pinchot]]'''<br>{{Small|(1865–1946)}}<br>{{sfn|Sobel|1978|pp=1320–1321}}<ref name="nga-pinchot">{{Cite web |title=Gifford Pinchot |url=https://www.nga.org/governor/gifford-pinchot/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 16, 1923<ref>{{Cite news |date=1923-01-16 |title=Pinchot Is Sworn In As Governor of Pennsylvania; Will Do His Utmost to Enforce Prohibition in State |page=1 |work=Wilkes-Barre Times Leader |url=https://www.newspapers.com/article/wilkes-barre-times-leader-pinchot-inaugu/126334210/ |access-date=2023-06-13}}</ref><br />–<br />January 18, 1927<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1922 Pennsylvania gubernatorial election|1922]]
+|{{sortname|David J.|Davis}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Fisher, John"|[[File:John Stuchell Fisher.jpg|75px]]
+|'''[[John Stuchell Fisher]]'''<br>{{Small|(1867–1940)}}<br>{{sfn|Sobel|1978|pp=1321–1322}}<ref name="nga-fisher">{{Cite web |title=John Stuchell Fisher |url=https://www.nga.org/governor/john-stuchell-fisher/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 18, 1927<ref>{{Cite news |last=Williams |first=Thomas E. |date=1927-01-18 |title=Fisher Assumes Office As Governor of State; Urges Separate Bureau for Anthracite Mines |page=1 |work=Wilkes-Barre Times Leader |url=https://www.newspapers.com/article/wilkes-barre-times-leader-fisher-inaugur/126334350/ |access-date=2023-06-13}}</ref><br />–<br />January 20, 1931<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1926 Pennsylvania gubernatorial election|1926]]
+|{{sortname|Arthur|James|dab=politician}}
+|- style="height:2em;"
+!scope="row"|''28''
+|data-sort-value="Pinchot, Gifford"|[[File:Gifford Pinchot 3c03915u.jpg|75px]]
+|'''[[Gifford Pinchot]]'''<br>{{Small|(1865–1946)}}<br>{{sfn|Sobel|1978|pp=1320–1321}}<ref name="nga-pinchot" />
+|data-sort-value="1457"|January 20, 1931<ref>{{Cite news |date=1931-01-20 |title=Pinchot Hits Utilities |page=1 |work=Harrisburg Telegraph |url=https://www.newspapers.com/article/harrisburg-telegraph-pinchot-inaugurated/126334591/ |access-date=2023-06-13}}</ref><br />–<br />January 15, 1935<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1930 Pennsylvania gubernatorial election|1930]]
+|{{sortname|Edward C.|Shannon}}
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Earle, George"|[[File:GeorgeHEarle.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[George Howard Earle III]]'''<br>{{Small|(1890–1974)}}<br>{{sfn|Sobel|1978|pp=1322–1323}}<ref name="nga-earle">{{Cite web |title=George Howard Earle |url=https://www.nga.org/governor/george-howard-earle/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1935<ref>{{Cite news |date=1935-01-16 |title=Earle, Taking Oath As Governor, Flays Lobbyists and Wall Street |page=1 |work=The Times Leader |agency=Associated Press |url=https://www.newspapers.com/article/the-times-leader-earle-inaugurated-janua/126335369/ |access-date=2023-06-13}}</ref><br />–<br />January 17, 1939<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1934 Pennsylvania gubernatorial election|1934]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Thomas|Kennedy|dab=unionist}}
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="James, Arthur"|[[File:Arthur H. James (Pennsylvania governor).jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Arthur James (politician)|Arthur James]]'''<br>{{Small|(1883–1973)}}<br>{{sfn|Sobel|1978|p=1323}}<ref name="nga-james">{{Cite web |title=Arthur Horace James |url=https://www.nga.org/governor/arthur-horace-james/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 17, 1939<ref>{{Cite news |date=1939-01-17 |title=James Sworn In As Governor |page=1 |work=Shamokin News-Dispatch |agency=United Press |url=https://www.newspapers.com/article/shamokin-news-dispatch-james-inaugurated/126335430/ |access-date=2023-06-13}}</ref><br />–<br />January 19, 1943<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1938 Pennsylvania gubernatorial election|1938]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Samuel S.|Lewis}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Martin, Edward"|[[File:MARTIN, EDWARD. SENATOR LCCN2016862812 (cropped).jpg|75px]]
+|'''[[Edward Martin (Pennsylvania politician)|Edward Martin]]'''<br>{{Small|(1879–1967)}}<br>{{sfn|Sobel|1978|p=1324}}<ref name="nga-martin">{{Cite web |title=Edward Martin |url=https://www.nga.org/governor/edward-martin/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1445"|January 19, 1943<ref>{{Cite news |date=1943-01-19 |title=Indoor Ceremonial Marks Inaugural of Martin as Governor |page=1 |work=Wilkes-Barre Times Leader, the Evening News |agency=Associated Press |url=https://www.newspapers.com/article/wilkes-barre-times-leader-the-evening-n/126335505/ |access-date=2023-06-13}}</ref><br />–<br />January 2, 1947<br>{{small|(1445 days; resigned)}}{{efn|Martin resigned, having been [[1946 United States Senate election in Pennsylvania|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1324}}}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1942 Pennsylvania gubernatorial election|1942]]
+|{{sortname|John C.|Bell Jr.}}
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Bell, John"|[[File:John C. Bell Jr. (Pennsylvania governor).jpg|75px]]
+|'''[[John C. Bell Jr.]]'''<br>{{Small|(1892–1974)}}<br>{{sfn|Sobel|1978|p=1325}}<ref name="nga-bell">{{Cite web |title=John Cromwell Bell |url=https://www.nga.org/governor/john-cromwell-bell/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="20"|January 2, 1947<ref>{{Cite news |last=Matthews |first=Frank M. |date=1947-01-03 |title=Bell Sworn, Martin Goes to Capital |page=1 |work=Pittsburgh Post-Gazette |url=https://www.newspapers.com/article/pittsburgh-post-gazette-bell-succeeds-ma/126335638/ |access-date=2023-06-13}}</ref><br />–<br />January 21, 1947<br>{{small|(20 days; retired)}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Duff, James"|[[File:James Henderson Duff.jpg|75px]]
+|'''[[James H. Duff]]'''<br>{{Small|(1883–1969)}}<br>{{sfn|Sobel|1978|pp=1325–1326}}<ref name="nga-duff">{{Cite web |title=James Henderson Duff |url=https://www.nga.org/governor/james-henderson-duff/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 21, 1947<ref>{{Cite news |date=1947-01-21 |title=Duff Pledges Full Support for Industrial Peace Plan |page=1 |work=Centre Daily Times |agency=Associated Press |url=https://www.newspapers.com/article/centre-daily-times-duff-inaugurated-janu/126344507/ |access-date=2023-06-13}}</ref><br />–<br />January 16, 1951<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1946 Pennsylvania gubernatorial election|1946]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Daniel|Strickler}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Fine, Jonh"|[[File:John S. Fine (PA).jpg|75px]]
+|'''[[John S. Fine]]'''<br>{{Small|(1893–1978)}}<br>{{sfn|Sobel|1978|pp=1326–1327}}<ref name="nga-fine">{{Cite web |title=John Sydney Fine |url=https://www.nga.org/governor/john-sydney-fine/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 16, 1951<ref>{{Cite news |last=Miller |first=Joseph H. |date=1951-01-17 |title=Fine Takes Oath; Pledges Policy of Pay-As-You-Go |page=1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-fine-inaugurat/126344574/ |access-date=2023-06-13}}</ref><br />–<br />January 18, 1955<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1950 Pennsylvania gubernatorial election|1950]]
+|{{sortname|Lloyd H.|Wood}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Leader, George"|[[File:George M. Leader (Pennsylvania governor) (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[George M. Leader]]'''<br>{{Small|(1918–2013)}}<br>{{sfn|Sobel|1978|p=1327}}<ref name="nga-leader">{{Cite web |title=George Michael Leader |url=https://www.nga.org/governor/george-michael-leader/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 18, 1955<ref>{{Cite news |date=1955-01-19 |title=30,000 watch new governor assume office |page=1 |work=The Times Leader |agency=Associated Press |url=https://www.newspapers.com/article/the-times-leader-leader-inaugurated-janu/126344651/ |access-date=2023-06-13}}</ref><br />–<br />January 20, 1959<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1954 Pennsylvania gubernatorial election|1954]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Roy E.|Furman}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Lawrence, David"|[[File:David L. Lawrence (Pennsylvania governor).jpg|75px]]
+|'''[[David L. Lawrence]]'''<br>{{Small|(1889–1966)}}<br>{{sfn|Sobel|1978|p=1328}}<ref name="nga-lawrence">{{Cite web |title=David Leo Lawrence |url=https://www.nga.org/governor/david-leo-lawrence/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 20, 1959<ref>{{Cite news |last=Holton |first=Bob |date=1959-01-21 |title=Governor Asks Unity on Taxes |page=1 |work=The Tribune |agency=Associated Press |url=https://www.newspapers.com/article/the-tribune-lawrence-inaugurated-january/126344739/ |access-date=2023-06-13}}</ref><br />–<br />January 15, 1963<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1958 Pennsylvania gubernatorial election|1958]]
+|{{sortname|John Morgan|Davis}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Scranton, William"|[[File:William Scranton (PA).png|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[William Scranton]]'''<br>{{Small|(1917–2013)}}<br>{{sfn|Sobel|1978|pp=1328–1329}}<ref name="nga-scranton">{{Cite web |title=William W. Scranton |url=https://www.nga.org/governor/william-w-scranton/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1963<ref>{{Cite news |last=Miller |first=Joseph H. |date=1963-01-16 |title=Scranton Takes Oath with Unity Plea; 250,000 Roar Tribute to Governor |page=1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-scranton-inaug/126344818/ |access-date=2023-06-13}}</ref><br />–<br />January 17, 1967<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1962 Pennsylvania gubernatorial election|1962]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Raymond P.|Shafer}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Shafer, Raymond"|[[File:GovShaferMay67 N2.tif|75px]]
+|'''[[Raymond P. Shafer]]'''<br>{{Small|(1917–2006)}}<br>{{sfn|Sobel|1978|pp=1329–1330}}<ref name="nga-shafer">{{Cite web |title=Raymond Philip Shafer |url=https://www.nga.org/governor/raymond-philip-shafer/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 17, 1967<ref>{{Cite news |last=Miller |first=Joseph H. |date=1967-01-18 |title=Shafer Pledges 'Regime of Vision;' Noise and Color Mark Inauguration |page=1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-shafer-inaugur/126344997/ |access-date=2023-06-13}}</ref><br />–<br />January 19, 1971<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1874}}
+|[[Pennsylvania Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1966 Pennsylvania gubernatorial election|1966]]
+|{{sortname|Raymond J.|Broderick}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Shapp, Milton"|[[File:Milton Shapp (1976).png |75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Milton Shapp]]'''<br>{{Small|(1912–1994)}}<br>{{sfn|Sobel|1978|p=1330}}<ref name="nga-shapp">{{Cite web |title=Milton Jerrold Shapp |url=https://www.nga.org/governor/milton-jerrold-shapp/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 19, 1971<ref>{{Cite news |last=Harris |first=Gene |date=1971-01-20 |title=Shapp Takes Oath As Governor, Vows End to State Crisis |page=1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-shapp-inaugura/126345053/ |access-date=2023-06-13}}</ref><br />–<br />January 16, 1979<br>{{small|(2920 days; term-limited)}}{{efn|Under a 1967 amendment to the constitution, governors may succeed themselves for one additional term.<ref>{{Cite web |title=Pa. Const. art. IV, § 3 |work=Justia Law |url=https://law.justia.com/constitution/pennsylvania/ |access-date=2023-12-20}}</ref>|name=limits-1967}}
+|rowspan="2"|[[Pennsylvania Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=491–493}}
+|[[1970 Pennsylvania gubernatorial election|1970]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Ernest|Kline}}
+|- style="height:2em;"
+|[[1974 Pennsylvania gubernatorial election|1974]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Thornburgh, Dick"|[[File:Dick Thornburgh (PA).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Dick Thornburgh]]'''<br>{{Small|(1932–2020)}}<br><ref name="nga-thornburgh">{{Cite web |title=Dick Thornburgh |url=https://www.nga.org/governor/dick-thornburgh/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 16, 1979<ref>{{Cite news |last=Dvorchak |first=Bob |date=1979-01-17 |title=Thornburgh Pledges to Fulfill 'The Spirit of Pennsylvania' |page=1A |work=The Times Leader |agency=Associated Press |url=https://www.newspapers.com/article/the-times-leader-thornburgh-inaugurated/126346680/ |access-date=2023-06-13}}</ref><br />–<br />January 20, 1987<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1967}}
+|rowspan="2"|[[Pennsylvania Republican Party|Republican]]<ref name="nga-thornburgh" />
+|[[1978 Pennsylvania gubernatorial election|1978]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|William|Scranton III}}
+|- style="height:2em;"
+|[[1982 Pennsylvania gubernatorial election|1982]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|42
+|rowspan="2" data-sort-value="Casey, Bob"| [[File:Bob Casey 1986 Color Correction.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Bob Casey Sr.]]'''<br>{{Small|(1932–2000)}}<br><ref name="nga-casey">{{Cite web |title=Robert P. Casey |url=https://www.nga.org/governor/robert-p-casey/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 20, 1987<ref>{{Cite news |last=Stoffer |first=Harry |date=1987-01-21 |title=Casey Pleads for Unity |page=1 |work=Pittsburgh Post-Gazette |url=https://www.newspapers.com/article/pittsburgh-post-gazette-casey-inaugurate/126346732/ |access-date=2023-06-13}}</ref><br />–<br />January 17, 1995<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1967}}
+|rowspan="2"|[[Pennsylvania Democratic Party|Democratic]]<ref name="nga-casey" />
+|[[1986 Pennsylvania gubernatorial election|1986]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Mark|Singel}}{{efn|Singel acted as governor from June 14 to December 21, 1993, while Casey recovered from a heart-liver transplant.<ref>{{Cite news |last=Reeves |first=Tim |date=1993-12-22 |title=Governor Returns to Office with Moving Speech, Plans for '94 |page=A1 |work=Pittsburgh Post-Gazette |url=https://www.newspapers.com/article/pittsburgh-post-gazette-casey-resumes-du/126347790/ |access-date=2023-06-13}}</ref>}}
+|- style="height:2em;"
+|[[1990 Pennsylvania gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|43
+|rowspan="2" data-sort-value="Ridge, Tom"|[[File:Tom Ridge (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Tom Ridge]]'''<br>{{small|({{Abbr|b.|born in}} 1945)}}<br><ref name="nga-ridge">{{Cite web |title=Tom Ridge |url=https://www.nga.org/governor/tom-ridge/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2454"|January 17, 1995<ref>{{Cite news |last1=Eshleman Jr. |first1=Russell E. |last2=Moran |first2=Robert |date=1995-01-18 |title=Ridge Sworn In As 43d Governor |page=A1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-ridge-inaugura/126346790/ |access-date=2023-06-13}}</ref><br />–<br />October 5, 2001<br>{{small|(2454 days; resigned)}}{{efn|Ridge resigned, having been appointed [[United States Secretary of Homeland Security|Director of the Office of Homeland Security]].<ref name="nga-ridge" />}}
+|rowspan="2"|[[Pennsylvania Republican Party|Republican]]<ref name="nga-ridge" />
+|[[1994 Pennsylvania gubernatorial election|1994]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Mark|Schweiker}}
+|- style="height:2em;"
+|[[1998 Pennsylvania gubernatorial election|1998]]
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Schweiker, Mark"|[[File:Mark S Schweiker 2001.jpg|75px]]
+|'''[[Mark Schweiker]]'''<br>{{small|({{Abbr|b.|born in}} 1953)}}<br><ref name="nga-schweiker">{{Cite web |title=Mark Schweiker |url=https://www.nga.org/governor/mark-schweiker/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="474"|October 5, 2001<ref>{{Cite news |last1=Fitzgerald |first1=Thomas |last2=Worden |first2=Amy |date=2001-10-06 |title=Schweiker Sworn In As Pa. Governor |page=A1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-schweiker-succ/126346992/ |access-date=2023-06-13}}</ref><br />–<br />January 21, 2003<br>{{small|(474 days; retired)}}
+|[[Pennsylvania Republican Party|Republican]]<ref name="nga-schweiker" />
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Robert|Jubelirer}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|45
+|rowspan="3" data-sort-value="Rendell, Ed"|[[File:Governor Rendell (169339909) (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Ed Rendell]]'''<br>{{small|({{Abbr|b.|born in}} 1944)}}<br><ref name="nga-rendell">{{Cite web |title=Edward G. Rendell |url=https://www.nga.org/governor/edward-g-rendell/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2920"|January 21, 2003<ref>{{Cite news |last=Worden |first=Amy |date=2003-01-22 |title=New Governor Asks Pa. To Face 'Short-Term Pain' |page=A1 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-rendell-inaugu/126347273/ |access-date=2023-06-13}}</ref><br />–<br />January 18, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1967}}
+|rowspan="3"|[[Pennsylvania Democratic Party|Democratic]]<ref name="nga-rendell" />
+|[[2002 Pennsylvania gubernatorial election|2002]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Catherine Baker|Knoll}}<br />{{small|(died November 12, 2008)}}
+|- style="height:2em;"
+|rowspan="2"|[[2006 Pennsylvania gubernatorial election|2006]]
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Joe|Scarnati}}{{efn|Represented the [[Pennsylvania Republican Party|Republican Party]]|name=lt-rep}}<br />{{small|(acting)}}
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Corbett, Tom"|[[File:Governor Corbett cropped portrait May 2014.jpg |75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Tom Corbett]]'''<br>{{small|({{Abbr|b.|born in}} 1949)}}<br><ref name="nga-corbett">{{Cite web |title=Tom Corbett |url=https://www.nga.org/governor/tom-corbett/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 18, 2011<ref>{{Cite news |last=Jackson |first=Peter |date=2011-01-19 |title=Corbett Takes Oath As New Pa. Governor |page=A1 |work=Intelligencer Journal/Lancaster New Era |agency=Associated Press |url=https://www.newspapers.com/article/intelligencer-journallancaster-new-era/126347360/ |access-date=2023-06-13}}</ref><br />–<br />January 20, 2015<br>{{small|(1464 days; lost election)}}
+|[[Pennsylvania Republican Party|Republican]]<ref name="nga-corbett" />
+|[[2010 Pennsylvania gubernatorial election|2010]]
+|{{sortname|Jim|Cawley}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|47
+|rowspan="3" data-sort-value="Wolf, Tom"|[[File:Tom Wolf governor portrait 2019 (cropped).jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Tom Wolf]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-wolf-tom">{{Cite web |title=Tom Wolf |url=https://www.nga.org/governor/tom-wolf/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2920"|January 20, 2015<ref>{{Cite news |last1=Esack |first1=Steve |last2=Opilo |first2=Emily |date=2015-01-21 |title=All Together: Wolf Takes Oath As Governor with Calls for Unity |page=A1 |work=The Morning Call |url=https://www.newspapers.com/article/the-morning-call-wolf-inaugurated-januar/126347403/ |access-date=2023-06-13}}</ref><br />–<br />January 17, 2023<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1967}}
+|rowspan="3"|[[Pennsylvania Democratic Party|Democratic]]<ref name="nga-wolf-tom" />
+|[[2014 Pennsylvania gubernatorial election|2014]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Mike|Stack}}
+|- style="height:2em;"
+|rowspan="2"|[[2018 Pennsylvania gubernatorial election|2018]]
+|{{sortname|John|Fetterman}}<br>{{small|(resigned January 3, 2023)}}
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Kim|Ward}}{{efn|name=lt-rep}}<br>{{small|(acting)}}
+|- style="height:2em;"
+!rowspan="2" scope="row"|48
+|rowspan="2" data-sort-value="Shapiro, Josh"|[[File:Josh Shapiro December 2025.jpg|75px]]
+|rowspan="2"|'''[[Josh Shapiro]]'''<br>{{small|({{Abbr|b.|born in}} 1973)}}<br><ref name="nga-shapiro">{{Cite web |title=Josh Shapiro |url=https://www.nga.org/governor/josh-shapiro/ |access-date=June 12, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2023|1|17|duration=on|format=no}}"|January 17, 2023<ref>{{Cite news |last1=Levy |first1=Marc |last2=Schultz |first2=Brooke |last3=Scolforo |first3=Mark |date=2023-01-18 |title=Shapiro Takes Oath of Office to Become Governor |page=A1 |work=Citizens' Voice |agency=Associated Press |url=https://www.newspapers.com/article/citizens-voice-shapiro-inaugurated-janu/126347466/ |access-date=2023-06-13}}</ref><br />–<br />Incumbent{{efn|Shapiro's term [[2026 Pennsylvania gubernatorial election|will expire]] on January 19, 2027; he won election to a second term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2023|1|17|duration=on|format=no}} days)}}
+|rowspan="2"|[[Pennsylvania Democratic Party|Democratic]]<ref name="nga-shapiro" />
+|[[2022 Pennsylvania gubernatorial election|2022]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Austin|Davis|dab=politician}}
+|- style="height:2em;"
+|[[2026 Pennsylvania gubernatorial election|2026]]
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Pennsylvania governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1776.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1780
+ScaleMinor = unit:year increment:1 start:1777
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:demrep  value:rgb(0, 0.5, 0)
+  id:quid    value:rgb(1, 0.6, 0.33)
+  id:jackson value:rgb(0.87, 0.93, 1)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:antimas value:rgb(1, 1, 0.6)
+  id:whig    value:rgb(0.88, 0.67, 0.46)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:seat1   value:rgb(0.60,0.10,0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1792 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1777.18 till:1778.39 color:noparty text:"Thomas Wharton Jr."
+ from:1778.39 till:1778.98 color:noparty text:"George Bryan"
+ from:1778.98 till:1781.87 color:noparty text:"Joseph Reed"
+ from:1781.87 till:1782.85 color:noparty text:"William Moore"
+ from:1782.85 till:1785.8 color:noparty text:"John Dickinson"
+ from:1785.8 till:1788.85 color:noparty text:"Benjamin Franklin"
+ from:1792.37 till:1799.96 color:demrep text:"Thomas Mifflin"
+ from:1805 till:1808.97 color:quid text:"Thomas McKean"
+ from:1808.97 till:1817.96 color:demrep text:"Simon Snyder"
+ from:1817.96 till:1820.97 color:demrep text:"William Findlay"
+ from:1820.97 till:1823.96 color:demrep text:"Joseph Hiester"
+ from:1825 till:1829.96 color:jackson text:"John Andrew Shulze"
+ from:1829.96 till:1835.96 color:dem text:"George Wolf"
+ from:1835.96 till:1839.04 color:antimas text:"Joseph Ritner"
+ from:1839.04 till:1845.06 color:dem text:"David R. Porter"
+ from:1845.06 till:1848.52 color:dem text:"Francis R. Shunk"
+ from:1848.52 till:1852.05 color:whig text:"William F. Johnston"
+ from:1852.05 till:1855.04 color:dem text:"William Bigler"
+ from:1855.04 till:1858.05 color:whig text:"James Pollock"
+ from:1858.05 till:1861.04 color:dem text:"William F. Packer"
+ from:1861.04 till:1867.04 color:rep text:"Andrew Gregg Curtin"
+ from:1867.04 till:1873.06 color:rep text:"John W. Geary"
+ from:1873.06 till:1879.06 color:rep text:"John F. Hartranft"
+ from:1879.06 till:1883.04 color:rep text:"Henry M. Hoyt"
+ from:1891.05 till:1895.04 color:dem text:"Robert E. Pattison"
+ from:1887.05 till:1891.05 color:rep text:"James A. Beaver"
+ from:1895.04 till:1899.05 color:rep text:"Daniel H. Hastings"
+ from:1899.05 till:1903.05 color:rep text:"William A. Stone"
+ from:1903.05 till:1907.04 color:rep text:"Samuel W. Pennypacker"
+ from:1907.04 till:1911.05 color:rep text:"Edwin Sydney Stuart"
+ from:1911.05 till:1915.05 color:rep text:"John K. Tener"
+ from:1915.05 till:1919.06 color:rep text:"Martin Grove Brumbaugh"
+ from:1919.06 till:1923.04 color:rep text:"William Cameron Sproul"
+ from:1931.05 till:1935.04 color:rep text:"Gifford Pinchot"
+ from:1927.05 till:1931.05 color:rep text:"John Stuchell Fisher"
+ from:1935.04 till:1939.05 color:dem text:"George Howard Earle III"
+ from:1939.05 till:1943.05 color:rep text:"Arthur James"
+ from:1943.05 till:1947.01 color:rep text:"Edward Martin"
+ from:1947.01 till:1947.06 color:rep text:"John C. Bell Jr."
+ from:1947.06 till:1951.04 color:rep text:"James H. Duff"
+ from:1951.04 till:1955.05 color:rep text:"John S. Fine"
+ from:1955.05 till:1959.05 color:dem text:"George M. Leader"
+ from:1959.05 till:1963.04 color:dem text:"David L. Lawrence"
+ from:1963.04 till:1967.05 color:rep text:"William Scranton"
+ from:1967.05 till:1971.05 color:rep text:"Raymond P. Shafer"
+ from:1971.05 till:1979.04 color:dem text:"Milton Shapp"
+ from:1979.04 till:1987.05 color:rep text:"Dick Thornburgh"
+ from:1987.05 till:1995.05 color:dem text:"Bob Casey Sr."
+ from:1995.05 till:2001.76 color:rep text:"Tom Ridge"
+ from:2001.76 till:2003.06 color:rep text:"Mark Schweiker"
+ from:2003.06 till:2011.05 color:dem text:"Ed Rendell"
+ from:2011.05 till:2015.05 color:rep text:"Tom Corbett"
+ from:2015.05 till:2023.05 color:dem text:"Tom Wolf"
+ from:2023.05 till:$now color:dem text:"Josh Shapiro"
+
+LineData=
+ from:1788.85 till:1792.37 atpos:865 color:noparty width:6 # TMi noparty
+ from:1799.96 till:1805 atpos:847 color:demrep width:6 # TMc demrep
+ from:1823.96 till:1825 atpos:776 color:demrep width:6 # JAS demrep
+ from:1883.04 till:1887.05 atpos:547 color:dem width:6 # REP 1st term
+ from:1923.04 till:1927.05 atpos:388 color:rep width:6 # GP 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1780.00 width:0.1 color:0year
+ at:1785.00 width:0.1 color:5year
+ at:1790.00 width:0.1 color:0year
+ at:1795.00 width:0.1 color:5year
+ at:1800.00 width:0.1 color:0year
+ at:1805.00 width:0.1 color:5year
+ at:1810.00 width:0.1 color:0year
+ at:1815.00 width:0.1 color:5year
+ at:1820.00 width:0.1 color:0year
+ at:1825.00 width:0.1 color:5year
+ at:1830.00 width:0.1 color:0year
+ at:1835.00 width:0.1 color:5year
+ at:1840.00 width:0.1 color:0year
+ at:1845.00 width:0.1 color:5year
+ at:1850.00 width:0.1 color:0year
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#Pennsylvania]]
+*[[List of Pennsylvania gubernatorial elections]]
+*[[List of Pennsylvania state legislatures]]
+*[[List of colonial governors of Pennsylvania]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former Pennsylvania Governors |url=https://www.nga.org/former-governors/pennsylvania/ |access-date=June 11, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Pennsylvania - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=270 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+{{commons category | Governors of Pennsylvania}}
+* [http://www.governor.pa.gov/ Office of the Governor of Pennsylvania]
+* [https://web.archive.org/web/20151118122349/http://www.pennsylvaniapoliticals.com/ Pennsylvania Politicals]
+
+{{Governors and Presidents of Pennsylvania}}
+{{Lists of US Governors}}
+{{Pennsylvania}}
+{{John Dickinson}}
+{{Benjamin Franklin}}
+{{Pennsylvania statewide elected officials}}
+{{featured list}}
+
+{{DEFAULTSORT:Pennsylvania, List Of Governors Of}}
+[[Category:Governors of Pennsylvania| ]]
+[[Category:Lists of Pennsylvania politicians|Governors]]
+[[Category:Lists of state governors of the United States]]
+[[Category:Offices of state governors of the United States by state]]
+[[Category:Pennsylvania history-related lists|Governors]]

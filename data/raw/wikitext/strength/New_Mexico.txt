@@ -1,0 +1,1024 @@
+{{Short description|Politics in the US state of New Mexico}}
+{{More citations needed|date=September 2020}}
+{{align|right|{{Switcher |[[File:2025 New Mexico voter registration map by county.svg|300px]]|Voter registration by county |[[File:2025 New Mexico voter registration map by congressional district.svg|300px]]|Voter registration by congressional district<br>{{collapsible list|title = Legend:|
+{{legend|#BDD3FF|30–40%}} |
+{{legend|#A5B0FF|40–50%}} |
+{{legend|#7996E2|50–60%}} |
+{{legend|#6674DE|60–70%}} |
+{{legend|#FFC8CD|30–40%}} |
+{{legend|#FFB2B2|40–50%}} |
+{{legend|#E27F7F|50–60%}} |
+{{legend|#D75D5D|60–70%}} |}}}}}}
+
+'''Political party strength in New Mexico''' has been divided between the [[Democratic Party (United States)|Democratic Party]] and the [[Republican Party (United States)|Republican Party]].
+
+Since the [[2008 United States presidential election|2008 presidential election]] the state has been considered a safe [[blue state]].<ref>{{Cite web |date=2023-07-23 |title=Urbanization, Latinos and a far-right GOP. How New Mexico went from battleground to blue |url=https://www.latimes.com/politics/story/2023-07-23/how-democrats-won-the-west-and-reshaped-presidential-politics-new-mexico |access-date=2024-11-03 |website=Los Angeles Times |language=en-US}}</ref>
+
+==Partisan identification in the electorate==
+{{table alignment}}
+{|class="wikitable floatright col2left defaultright"
+|+ Party registration as of April 30, 2026<ref>{{cite web |title=Voter Registration Statistics |url=https://sos.state.nm.us/voting-and-elections/data-and-maps/voter-registration-statistics/ |access-date=May 30, 2026 |publisher=[[New Mexico Secretary of State]]}}</ref>
+|-
+!colspan=2 |Party
+!Number<br>of voters
+!Fraction
+|-
+|{{party color cell|Democratic Party (United States)}}
+|[[Democratic Party of New Mexico|Democratic]]
+|573,297
+|40.3%
+|-
+|{{party color cell|Republican Party (United States)}}
+|[[Republican Party of New Mexico|Republican]]
+|443,220
+|31.2%
+|-
+|{{party color cell|Independent politician}}
+|[[Independent voter|Independent]] / [[List of political parties in the United States|other]]
+|406,027
+|28.6%
+|-
+|style="border-right:none" |
+|style="border-left:none" |Total
+|1,422,544
+|100.0%
+|}
+
+As of July 2025, New Mexico's registered voters include 570,873 Democrats (42.1%), 436,647 Republicans (32.2%), 26,864 "Other" (2%), and 320,988 Unaffiliated (23.7%).<ref>{{Cite web |title=New Mexico Voter Registration Statistics Statewide by County |url=https://klvg4oyd4j.execute-api.us-west-2.amazonaws.com/prod/PublicFiles/ee3072ab0d43456cb15a51f7d82c77a2/2a0e687b-69cf-4b17-a7de-939a55b1f51b/Statewide_07-31-2025.pdf |access-date=2025-08-24 |website=sos.nm.gov}}</ref>
+
+== Contents ==
+The following table indicates the party of elected officials in the [[U.S. state]] of [[New Mexico]].
+*[[Governor of New Mexico|Governor]]
+*[[Lieutenant Governor of New Mexico|Lieutenant Governor]]
+*[[Secretary of State of New Mexico|Secretary of state]]
+*[[Attorney General of New Mexico|Attorney general]]
+*[[New Mexico State Auditor|State auditor]]
+*[[New Mexico State Treasurer|State treasurer]]
+*[[New Mexico Commissioner of Public Lands|Commissioner of public lands]]
+
+The table also indicates the historical party composition in the:
+*[[New Mexico Senate|State Senate]]
+*[[New Mexico House of Representatives|State House of Representatives]]
+*[[List of United States senators from New Mexico|State delegation to the U.S. Senate]]
+*[[List of United States representatives from New Mexico|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+== Pre-statehood (1846–1911) ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[New Mexico Legislature|Territorial Legislature]]
+![[New Mexico's congressional delegations|United States Congress]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of New Mexico|Governor]]
+!class=unsortable |[[Secretary of State of New Mexico|Secretary of Terr.]]
+!class=unsortable |[[New Mexico State Auditor|Auditor]]
+!class=unsortable |[[New Mexico State Treasurer|Treasurer]]
+!class=unsortable |[[New Mexico Commissioner of Public Lands|Comm. of Pub. Lands]]
+!class=unsortable |[[New Mexico Senate|Senate]]
+!class=unsortable |[[New Mexico House of Representatives|House]]
+!class=unsortable |[[List of United States representatives from New Mexico|Delegate]]
+|- style="height:2em"
+!1846
+|[[Charles Bent]]{{efn |name=terrgov|Governor of [[New Mexico Territory]].}}
+|- style="height:2em"
+!1847
+|rowspan=3 |''none''{{efn |[[Stephen W. Kearny]] declared New Mexico a territory in 1846 and installed Charles Bent as governor. Congress revoked Kearny's declaration in 1847, and thus New Mexico had no governor from 1847 until 1851.}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1850
+|- style="height:2em"
+!1851
+|{{Party shading/Whig}} |[[James Calhoun (politician, born 1802)|James Calhoun]] {{small|(W)}}{{efn |name=terrgov}}{{efn |Resigned in 1852 to return to his native state of [[Georgia (U.S. state)|Georgia]]}}
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Democratic}} |[[Richard Hanson Weightman]] {{small|(D)}}{{efn |name=delegate |[[Non-voting members of the United States House of Representatives|Delegate]] from [[New Mexico Territory]].}}
+|- style="height:2em"
+!1852
+|{{Party shading/Whig}} |[[William Carr Lane]] {{small|(W)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!1853
+|rowspan=4 {{Party shading/Democratic}} |[[David Meriwether (Kentucky politician)|David Meriwether]] {{small|(D)}}{{efn |name=terrgov}}
+|
+|
+|
+|
+|
+|
+|rowspan=3 {{Party shading/Democratic}} |[[José Manuel Gallegos]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1854
+|- style="height:2em"
+!1855
+|- style="height:2em"
+!1856
+|
+|
+|
+|
+|
+|
+|rowspan=4 {{Party shading/Democratic}} |[[Miguel Antonio Otero (born 1829)|Miguel Antonio Otero]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1857
+|rowspan=3 {{Party shading/Democratic}} |[[Abraham Rencher]] {{small|(D)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1860
+|- style="height:2em"
+!1861
+|rowspan=5 {{Party shading/Republican}} |[[Henry Connelly]] {{small|(R)}}{{efn |name=terrgov}}{{efn |The territory broke into two and then three during Connelly's tenure due to the [[American Civil War]] and administrative problems.}}
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[John Sebrie Watts]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1862
+|- style="height:2em"
+!1863
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[Francisco Perea]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1864
+|- style="height:2em"
+!1865
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[José Francisco Chaves]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1866
+|rowspan=3 {{Party shading/Democratic}} |[[Robert Byington Mitchell]] {{small|(D)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!1867
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Democratic}} |[[Charles P. Clever]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1868
+|- style="height:2em"
+!1869
+|rowspan=2 {{Party shading/Republican}} |[[William A. Pile]] {{small|(R)}}{{efn |name=terrgov}}
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[José Francisco Chaves]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1870
+|- style="height:2em"
+!1871
+|rowspan=4 {{Party shading/Republican}} |[[Marsh Giddings]] {{small|(R)}}{{efn |name=terrgov}}
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Democratic}} |[[José Manuel Gallegos]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1872
+|- style="height:2em"
+!1873
+|
+|
+|
+|
+|
+|
+|rowspan=4 {{Party shading/Republican}} |[[Stephen B. Elkins]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1874
+|- style="height:2em"
+!1875
+|rowspan=3 {{Party shading/Republican}} |[[Samuel Beach Axtell]] {{small|(R)}}{{efn |name=terrgov}}{{efn |Suspended by the [[United States Secretary of the Interior]] for misconduct in 1878.}}
+|- style="height:2em"
+!1876
+|- style="height:2em"
+!1877
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[Trinidad Romero]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1878
+|rowspan=3 {{Party shading/Republican}} |[[Lew Wallace]] {{small|(R)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!1879
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[Mariano S. Otero]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1880
+|- style="height:2em"
+!1881
+|rowspan=4 {{Party shading/Republican}} |[[Lionel Allen Sheldon]] {{small|(R)}}{{efn |name=terrgov}}
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[Tranquilino Luna]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|
+|
+|
+|
+|
+|
+|rowspan=2 {{Party shading/Democratic}} |[[Francisco Antonio Manzanares]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1884
+|- style="height:2em"
+!1885
+|rowspan=3 {{Party shading/Democratic}} |[[Edmund G. Ross]] {{small|(D)}}{{efn |name=terrgov}}
+|
+|
+|
+|
+|
+|
+|rowspan=8 {{Party shading/Democratic}} |[[Antonio Joseph (politician)|Antonio Joseph]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1888
+|- style="height:2em"
+!1889
+|rowspan=3 {{Party shading/Republican}} |[[L. Bradford Prince]] {{small|(R)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1892
+|- style="height:2em"
+!1893
+|rowspan=4 {{Party shading/Democratic}} |[[William Taylor Thornton]] {{small|(D)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|
+|rowspan=4 |Marcelino Garcia
+|rowspan=6 |Samuel Eldodt
+|
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[Thomas B. Catron]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1896
+|- style="height:2em"
+!1897
+|rowspan=8 {{Party shading/Republican}} |[[Miguel Antonio Otero (born 1859)|Miguel Antonio Otero]] {{small|(R)}}{{efn |name=terrgov}}
+|rowspan=4 |George H. Wallace
+|
+|
+|
+|rowspan=2 {{Party shading/Democratic}} |[[Harvey Butler Fergusson]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=2 |Luis M. Ortiz
+|rowspan=8 |Alpheus Keen
+|
+|
+|rowspan=2 {{Party shading/Republican}} |[[Pedro Perea]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1900
+|- style="height:2em"
+!1901
+|rowspan=5 |James W. Raynolds
+|William G. Sargent
+|rowspan=5 |John H. Vaughan
+|
+|
+|rowspan=3 {{Party shading/Republican}} |[[Bernard Shandon Rodey]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1904
+|- style="height:2em"
+!1905
+|
+|
+|
+|rowspan=7 {{Party shading/Republican}} |[[William Henry Andrews]] {{small|(R)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1906
+|{{Party shading/Republican}} |[[Herbert James Hagerman]] {{small|(R)}}{{efn |name=terrgov}}
+|
+|- style="height:2em"
+!1907
+|rowspan=3 {{Party shading/Republican}} |[[George Curry (politician)|George Curry]] {{small|(R)}}{{efn |name=terrgov}}{{efn |Resigned in 1910 to become a framer in the New Mexico Constitutional Convention.}}
+|
+|
+|
+|
+|
+|- style="height:2em"
+!1908
+|- style="height:2em"
+!1909
+|- style="height:2em"
+!1910
+|rowspan=2 {{Party shading/Republican}} |[[William J. Mills]] {{small|(R)}}{{efn |name=terrgov}}
+|- style="height:2em"
+!1911
+|}
+
+== Statehood (1911–present) ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=7 |Executive offices
+!colspan=2 |[[New Mexico Legislature|State Legislature]]
+!colspan=3 |[[New Mexico's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of New Mexico|Governor]]
+!class=unsortable |[[Lieutenant Governor of New Mexico|Lieutenant<br>Governor]]
+!class=unsortable |[[Secretary of State of New Mexico|Secretary<br>of State]]
+!class=unsortable |[[Attorney General of New Mexico|Attorney<br>General]]
+!class=unsortable |[[New Mexico State Auditor|Auditor]]
+!class=unsortable |[[New Mexico State Treasurer|Treasurer]]
+!class=unsortable |[[New Mexico Commissioner of Public Lands|Comm. of<br>Pub. Lands]]
+!class=unsortable |[[New Mexico Senate|Senate]]
+!class=unsortable |[[New Mexico House of Representatives|House]]
+!class=unsortable |[[List of United States senators from New Mexico|Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from New Mexico|Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from New Mexico|House]]
+|- style="height:2em"
+!1912
+|rowspan=5 {{Party shading/Democratic}} |[[William C. McDonald (governor)|William C. McDonald]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Ezequiel Cabeza De Baca|Ezequiel C. De Baca]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Antonio J. Lucero {{small|(D)}}
+|rowspan=5 {{Party shading/Republican}} |Frank C. Clancy {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |William G. Sargent {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic}} |Owen N. Marron {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |Robert P. Ervien {{small|(R)}}{{efn |name=died|Died in office.}}
+|rowspan=5 {{Party shading/Republican}} |16R, 7D, 1Prog
+|rowspan=3 {{Party shading/Republican}} |30R, 16D, 3Prog
+|rowspan=6 {{Party shading/Republican}} |[[Thomas B. Catron]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Albert B. Fall]] {{small|(R)}}{{efn |Resigned on March 4, 1921 to take office as [[United States Secretary of the Interior|U.S. Secretary of the Interior]].}}
+|{{Party shading/Tie}} |1R, 1D
+|rowspan=9 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|rowspan=2 {{Party shading/Democratic}} |[[Harvey Butler Fergusson|Harvey Butler<br>Fergusson]] {{small|(D)}}
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Republican}} |33R, 14D, 2Prog
+|rowspan=2 {{Party shading/Republican}} |[[Benigno C. Hernández|Benigno C.<br>Hernández]] {{small|(R)}}
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!rowspan=2 |1917
+|{{Party shading/Democratic}} |[[Ezequiel Cabeza De Baca|Ezequiel C. De Baca]] {{small|(D)}}{{efn |name=died}}
+|{{Party shading/Republican}} |[[Washington Ellsworth Lindsey|Washington E. Lindsey]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Manuel Martínez (politician)|Manuel Martínez]] {{small|(R)}}
+|rowspan=3 {{Party shading/Democratic}} |Harry L. Patton {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |H. L. Hall {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |14R, 10D
+|rowspan=3 {{Party shading/Republican}} |30R, 19D
+|rowspan=3 {{Party shading/Democratic}} |[[William B. Walton]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Washington Ellsworth Lindsey|Washington E. Lindsey]] {{small|(R)}}{{efn |name=ltfilled|As lieutenant governor, filled unexpired term.}}
+|rowspan=2 |''vacant''
+|rowspan=2 {{Party shading/Republican}} |Fred Muller {{small|(R)}}{{efn |name=appointed|Initially appointed to fill vacancy.}}
+|rowspan=12 {{Party shading/Democratic}} |[[Andrieus A. Jones]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=2 {{Party shading/Republican}} |[[Octaviano Ambrosio Larrazolo|Octavio Larrazolo]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Benjamin F. Pankey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |Oscar O. Askren {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |Edward G. Sargent {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |Charles U. Strong {{small|(R)}}{{efn |name=resign|Resigned.}}
+|rowspan=4 {{Party shading/Republican}} |Nelson A. Field {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |14R, 10D
+|rowspan=4 {{Party shading/Republican}} |30R, 19D
+|rowspan=2 {{Party shading/Republican}} |[[Benigno C. Hernández|Benigno C.<br>Hernández]] {{small|(R)}}
+|- style="height:2em"
+!1920
+|rowspan=5 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Republican}} |[[Merritt C. Mechem]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |William H. Duckworth {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |Harry S. Bowman {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |Edward L. Safford {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Holm O. Bursum]] {{small|(R)}}{{efn |name=appointed}}
+|rowspan=2 {{Party shading/Republican}} |[[Néstor Montoya]] {{small|(R)}}
+|- style="height:2em"
+!1922
+|{{Party shading/Republican}} |O. A. Matson {{small|(R)}}{{efn |name=appointed}}
+|- style="height:2em"
+!rowspan=2 |1923
+|rowspan=3 {{Party shading/Democratic}} |[[James F. Hinkle]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |José A. Baca {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Soledad Chacón]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Milton J. Helmick]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Juan N. Vigil {{small|(D)}}
+|{{Party shading/Democratic}} |John W. Corbin {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Justiniano Baca {{small|(D)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Democratic}} |33D, 16R
+|rowspan=9 {{Party shading/Democratic}} |[[John Morrow (New Mexico politician)|John Morrow]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=8 {{Party shading/Democratic}} |Warren R. Graham Sr. {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1924
+|rowspan=6 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Democratic}} |[[Arthur T. Hannett]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |Edward G. Sargent {{small|(R)}}
+|{{Party shading/Democratic}} |John W. Armstrong {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |[[Edwin B. Swope]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=6 {{Party shading/Republican}} |13R, 11D
+|rowspan=2 {{Party shading/Democratic}} |28D, 21R
+|rowspan=12 {{Party shading/Democratic}} |[[Sam G. Bratton]] {{small|(D)}}{{efn |Resigned on June 24, 1933 to take seat as judge on the [[United States Court of Appeals for the Tenth Circuit|U.S. Court of Appeals for the Tenth Circuit]].}}
+|- style="height:2em"
+!1926
+|{{Party shading/Democratic}} |Fred E. Wilson {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!rowspan=2 |1927
+|rowspan=7 {{Party shading/Republican}} |[[Richard C. Dillon]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jennie Fortune]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Robert C. Dow {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |Miguel A. Otero III {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |Benjamin F. Pankey {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |28D, 21R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Bronson M. Cutting]] {{small|(R)}}{{efn |name=appointed}}
+|- style="height:2em"
+!rowspan=2 |1928
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Octaviano Ambrosio Larrazolo|Octavio Larrazolo]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1929
+|{{Party shading/Republican}} |Hugh B. Woodward {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |E. A. Perrault {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |Miguel A. Otero III {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |Victoriano Ulibarrí {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |Emerson Watts {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |18R, 6D
+|rowspan=3 {{Party shading/Republican}} |37R, 12D
+|rowspan=3 {{Party shading/Republican}} |[[Albert G. Simms]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=2 |''vacant''
+|rowspan=2 {{Party shading/Republican}} |Austin D. Crile {{small|(R)}}{{efn |name=appointed}}
+|rowspan=8 {{Party shading/Republican}} |[[Bronson M. Cutting]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=3 {{Party shading/Democratic}} |[[Arthur Seligman]] {{small|(D)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Democratic}} |[[Andrew W. Hockenhull]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Marguerite P. Baca {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Ernest K. Neumann {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Arsenio Velarde {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Warren R. Graham Sr. {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |James F. Hinkle {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 8D
+|rowspan=2 {{Party shading/Democratic}} |28D, 21R
+|rowspan=5 {{Party shading/Democratic}} |[[Dennis Chávez]] {{small|(D)}}
+|- style="height:2em"
+!1932
+|rowspan=10 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1933
+|rowspan=3 {{Party shading/Democratic}} |[[Clinton Anderson (New Mexico politician)|Clinton Anderson]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=6 {{Party shading/Democratic}} |Frank Vesely {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |20D, 4R
+|rowspan=2 {{Party shading/Democratic}} |41D, 8R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Andrew W. Hockenhull]] {{small|(D)}}{{efn |name=ltfilled}}
+|rowspan=2 |''vacant''
+|rowspan=17 {{Party shading/Democratic}} |[[Carl Hatch]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1934
+|{{Party shading/Democratic}} |42D, 7R
+|- style="height:2em"
+!rowspan=2 |1935
+|rowspan=5 {{Party shading/Democratic}} |[[Clyde Tingley]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Louis Cabeza de Baca {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Elizabeth F. Gonzales {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Frank H. Patton {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |José O. García {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |James J. Connelly {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |18D, 6R
+|rowspan=3 {{Party shading/Democratic}} |37D, 12R
+|rowspan=7 {{Party shading/Democratic}} |[[John J. Dempsey]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=28 {{Party shading/Democratic}} |[[Dennis Chávez]] {{small|(D)}}{{efn |name=appointed}}{{efn |name=died}}
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!1937
+|rowspan=2 {{Party shading/Democratic}} |Hiram M. Dow {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Frank Worden {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |23D, 1R
+|rowspan=2 {{Party shading/Democratic}} |47D, 2R
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Democratic}} |[[John E. Miles]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |James Murray Sr. {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Jessie M. Gonzales {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Filo Sedillo {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |E. D. Trujillo {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Rex French {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |42D, 7R
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=2 {{Party shading/Democratic}} |[[Ceferino Quintana]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Edward P. Chase {{small|(D)}}{{efn |name=resign}}
+|rowspan=4 {{Party shading/Democratic}} |H. R. Rodgers {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |21D, 3R
+|rowspan=2 {{Party shading/Democratic}} |40D, 9R
+|rowspan=2 {{Party shading/Democratic}} |[[Clinton Anderson (New Mexico politician)|Clinton Anderson]] {{small|(D)}}
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=4 {{Party shading/Democratic}} |[[John J. Dempsey]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |James B. Jones {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Cecilia T. Cleveland {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |J. D. Hannah {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Guy Shepard {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |33D, 16R
+|rowspan=27 {{party shading/Democratic}} |2D
+|- style="height:2em"
+!1944
+|rowspan=5 {{Party shading/Democratic}} |Clyde P. McCulloh {{small|(D)}}{{efn |name=appointed}}
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=4 {{Party shading/Democratic}} |[[John E. Miles]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |18D, 6R
+|rowspan=4 {{Party shading/Democratic}} |30D, 19R
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas J. Mabry]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joseph Montoya]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Alicia Valdéz Romero {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |E. D. Trujillo {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |H. R. Rodgers {{small|(D)}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Democratic}} |Joe L. Martinez {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Guy Shepard {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 5R
+|rowspan=2 {{Party shading/Democratic}} |36D, 13R
+|rowspan=25 {{Party shading/Democratic}} |[[Clinton Anderson (New Mexico politician)|Clinton Anderson]] {{small|(D)}}
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=4 {{Party shading/Republican}} |[[Edwin L. Mechem]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Tibo J. Chávez]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Beatrice Roach Gottlieb]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Robert D. Castner {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |R. H. Grissom {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 6R
+|rowspan=2 {{Party shading/Democratic}} |46D, 9R
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=4 {{Party shading/Democratic}} |Richard H. Robinson {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[E. S. Johnny Walker]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 9R
+|rowspan=2 {{Party shading/Republican}} |28R, 27D
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=2 {{Party shading/Democratic}} |[[John F. Simms]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Joseph Montoya]] {{small|(D)}}{{efn |Resigned in April 1957, after being elected to the [[U.S. House of Representatives]].}}
+|rowspan=4 {{Party shading/Democratic}} |Natalie Smith Buck {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |J. D. Hannah {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Democratic}} |Joseph B. Grant {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 9R
+|rowspan=2 {{Party shading/Democratic}} |51D, 4R
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Republican}} |[[Edwin L. Mechem]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |Fred M. Standley {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |Ben Chavez {{small|(R)}}{{efn |name=appointed}}
+|rowspan=4 {{Party shading/Democratic}} |Murray E. Morgan {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |24D, 8R
+|rowspan=2 {{Party shading/Democratic}} |43D, 23R
+|- style="height:2em"
+!1958
+|''vacant''
+|- style="height:2em"
+!1959
+|rowspan=2 {{Party shading/Democratic}} |[[John Burroughs (governor)|John Burroughs]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Ed V. Mead]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Betty Fiorina]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Frank B. Zinn]] {{small|(D)}}{{efn |name=resign}}
+|rowspan=5 {{Party shading/Democratic}} |Robert D. Castner {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Joe Callaway {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |60D, 6R
+|- style="height:2em"
+!1960
+|{{Party shading/Democratic}} |Hilton A. Dickson Jr. {{small|(D)}}{{efn |name=appointed}}
+|rowspan=5 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1961
+|rowspan=2 {{Party shading/Republican}} |[[Edwin L. Mechem]] {{small|(R)}}{{efn |Resigned in order to be appointed to the [[United States Senate]] by his successor.}}
+|rowspan=2 {{Party shading/Republican}} |[[Tom Bolack]] {{small|(R)}}
+|rowspan=5 {{Party shading/Democratic}} |Earl E. Hartley {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[E. S. Johnny Walker]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |28D, 4R
+|rowspan=3 {{Party shading/Democratic}} |59D, 7R
+|- style="height:2em"
+!rowspan=2 |1962
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Tom Bolack]] {{small|(R)}}{{efn |name=ltfilled}}
+|''vacant''
+|rowspan=3 {{Party shading/Republican}} |[[Edwin L. Mechem]] {{small|(R)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1963
+|rowspan=4 {{Party shading/Democratic}} |[[Jack M. Campbell]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Mack Easley]] {{small|(D)}}{{efn |The Governor and Lt. Governor of a given political party have been elected on the same ticket since November 1964.}}
+|rowspan=4 {{Party shading/Democratic}} |Alberta Miller {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Alex J. Armijo {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Joseph B. Grant {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |55D, 11R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=4 {{Party shading/Democratic}} |Boston E. Witt {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Guyton B. Hays {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |59D, 18R
+|rowspan=12 {{Party shading/Democratic}} |[[Joseph Montoya]] {{small|(D)}}
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Republican}} |[[David Cargo]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lee Francis]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Ernestine D. Evans]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |Harold G. Thompson {{small|(R)}}
+|{{Party shading/Republican}} |H. E. Thomas Jr. {{small|(R)}}{{efn |name=resign}}
+|rowspan=4 {{Party shading/Democratic}} |25D, 17R
+|rowspan=2 {{Party shading/Democratic}} |45D, 25R
+|- style="height:2em"
+!1968
+|{{Party shading/Republican}} |Merrill B. Johns {{small|(R)}}{{efn |name=appointed}}
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Democratic}} |James A. Maloney {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |Jesse D. Kornegay {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |Alex J. Armijo {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |44D, 26R
+|rowspan=2 {{party shading/Republican}} |2R
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=4 {{Party shading/Democratic}} |[[Bruce King]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Roberto Mondragón]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Betty Fiorina]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[David L. Norvell]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Frank Olmstead]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |28D, 14R
+|rowspan=2 {{Party shading/Democratic}} |48D, 22R
+|rowspan=10 {{Party shading/Tie}} |1R, 1D
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Democratic}} |30D, 12R
+|{{Party shading/Democratic}} |51D, 19R
+|rowspan=38 {{Party shading/Republican}} |[[Pete Domenici]] {{small|(R)}}
+|- style="height:2em"
+!1974
+|{{Party shading/Democratic}} |50D, 20R
+|- style="height:2em"
+!1975
+|rowspan=4 {{Party shading/Democratic}} |[[Jerry Apodaca]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Robert E. Ferguson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Ernestine D. Evans]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Toney Anaya]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Max R. Sanchez {{small|(D)}}{{efn |name=resign}}
+|rowspan=4 {{Party shading/Democratic}} |Edward M. Murphy {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Phil R. Lucero {{small|(D)}}
+|{{Party shading/Democratic}} |29D, 13R
+|rowspan=2 {{Party shading/Democratic}} |51D, 19R
+|- style="height:2em"
+!1976
+|{{Party shading/Democratic}} |30D, 12R
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1977
+|rowspan=3 {{Party shading/Democratic}} |33D, 9R
+|rowspan=2 {{Party shading/Democratic}} |48D, 22R
+|rowspan=6 {{Party shading/Republican}} |[[Harrison Schmitt]] {{small|(R)}}
+|- style="height:2em"
+!1978
+|rowspan=5 {{Party shading/Democratic}} |Alvino E. Castillo {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Democratic}} |[[Bruce King]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Roberto Mondragón]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Shirley Hooper]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jeff Bingaman]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Jan Alan Hartkey {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Alex J. Armijo {{small|(D)}}
+|rowspan=2 {{Party shading/Coalition}} |41D, 29R{{efn |A coalition of 11 Democrats and 26 Republicans controlled the House Majority and elected a Democratic Speaker.}}
+|- style="height:2em"
+!1980
+|{{Party shading/Democratic}} |32D, 10R
+|rowspan=9 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|{{Party shading/Democratic}} |22D, 20R
+|rowspan=2 {{Party shading/Coalition}} |41D, 29R{{efn |A coalition of 10 Democrats and 27 Republicans controlled the House Majority and elected a Democratic Speaker.}}
+|rowspan=2 {{party shading/Republican}} |2R
+|- style="height:2em"
+!1982
+|rowspan=3 {{Party shading/Democratic}} |23D, 19R
+|- style="height:2em"
+!1983
+|rowspan=5 {{Party shading/Democratic}} |[[Toney Anaya]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Mike Runnels]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Clara Padilla Jones]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Paul Bardacke]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |Albert Romero {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Earl E. Hartley {{small|(D)}}{{efn |name=resign}}
+|rowspan=5 {{Party shading/Democratic}} |[[Jim Baca]] {{small|(D)}}
+|{{Party shading/Democratic}} |46D, 24R
+|rowspan=32 {{Party shading/Democratic}} |[[Jeff Bingaman]] {{small|(D)}}
+|rowspan=16 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1984
+|{{Party shading/Democratic}} |47D, 23R
+|- style="height:2em"
+!1985
+|{{Party shading/Coalition}} |21D, 21R{{efn |A coalition of 3 Democrats and 21 Republicans controlled the Senate Majority.<ref name="1985Coalitions">{{cite news |last1=Hillinger |first1=Charles |title=1st Latino Governor of New Mexico on the Go Controversial Policies Have Created Friends, Enemies Among Electorate |url=https://www.latimes.com/archives/la-xpm-1985-05-09-vw-6957-story.html |access-date=23 February 2023 |work=Los Angeles Times |date=9 May 1985}}</ref>}}
+|rowspan=3 {{Party shading/Coalition}} |43D, 27R{{efn |A coalition of 10 Democrats and 26 Republicans controlled the House Majority and elected a Democratic Speaker.<ref name="1985Coalitions"></ref>}}
+|- style="height:2em"
+!rowspan=2 |1986
+|rowspan=6 {{Party shading/Democratic}} |[[James B. Lewis]] {{small|(D)}}{{efn |name=appointed}}
+|{{Party shading/Republican}} |22R, 20D{{efn |A Democrat switched parties to become a Republican.}}
+|- style="height:2em"
+|{{Party shading/Coalition}} |22R, 20D{{efn |A coalition of 19 Democrats and 4 Republicans controlled the Senate Majority during a special session in September 1986.}}
+|- style="height:2em"
+!1987
+|rowspan=4 {{Party shading/Republican}} |[[Garrey Carruthers]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jack L. Stahl]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Rebecca Vigil-Giron]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Hal Stratton]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Harroll H. Adams {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[W. R. Humphries]] {{small|(R)}}
+|{{Party shading/Coalition}} |21D, 21R{{efn |A coalition of 21 Democrats and 3 Republicans controlled the Senate Majority.}}
+|{{Party shading/Democratic}} |47D, 23R
+|- style="height:2em"
+!1988
+|{{Party shading/Coalition}} |21D, 21R{{efn |A coalition of 5 Democrats and 18 Republicans controlled the Senate Majority.}}
+|{{Party shading/Democratic}} |46D, 24R
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|{{Party shading/Democratic}} |26D, 16R
+|rowspan=2 {{Party shading/Democratic}} |45D, 25R
+|- style="height:2em"
+!1990
+|{{Party shading/Democratic}} |25D, 17R
+|- style="height:2em"
+!1991
+|rowspan=4 {{Party shading/Democratic}} |[[Bruce King]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Casey Luna]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Stephanie Gonzales]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Tom Udall]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Robert E. Vigil]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[David W. King]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Jim Baca]] {{small|(D)}}{{efn |Resigned May 19, 1993 to become director of the [[Bureau of Land Management|U.S. Bureau of Land Management]].}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 16R
+|rowspan=2 {{Party shading/Democratic}} |49D, 21R
+|- style="height:2em"
+!1992
+|rowspan=9 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=11 {{Party shading/Democratic}} |[[Ray Powell (New Mexico politician)|Ray Powell]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=4 {{Party shading/Democratic}} |27D, 15R
+|rowspan=2 {{Party shading/Democratic}} |53D, 17R
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=9 {{Party shading/Republican}} |[[Gary Johnson]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Walter Dwight Bradley]] {{small|(R)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Michael A. Montoya]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |46D, 24R
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!rowspan=2 |1997
+|rowspan=5 {{Party shading/Democratic}} |25D, 17R
+|rowspan=3 {{Party shading/Democratic}} |42D, 28R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |3R{{efn |Democrat [[Bill Richardson]] resigned on February 13, 1997. Republican [[Bill Redmond]] elected to replace him on May 13, 1997.}}
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=8 {{Party shading/Democratic}} |[[Rebecca Vigil-Giron]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Patricia A. Madrid]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Domingo Martinez (politician)|Domingo Martinez]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |40D, 30R
+|rowspan=10 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!2000
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Coalition}} |24D, 18R{{efn |A coalition of 3 Democrats and 18 Republicans controlled the Senate Majority. The Lieutenant Governor broke the tie.}}
+|rowspan=2 {{Party shading/Democratic}} |42D, 28R
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Richardson]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Diane Denish]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Robert E. Vigil]] {{small|(D)}}{{efn |name=resign}}
+|rowspan=8 {{Party shading/Republican}} |[[Patrick H. Lyons]] {{small|(R)}}
+|rowspan=6 {{Party shading/Democratic}} |24D, 18R
+|rowspan=2 {{Party shading/Democratic}} |43D, 27R
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |[[Douglas M. Brown]] {{small|(R)}}{{efn |name=appointed}}
+|rowspan=4 {{Party shading/Democratic}} |42D, 28R
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=4 {{Party shading/Democratic}} |[[Mary Herrera]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Gary King (politician)|Gary King]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Hector Balderas]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[James B. Lewis]] {{small|(D)}}
+|- style="height:2em"
+!2008
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2009
+|rowspan=4 {{Party shading/Democratic}} |27D, 15R
+|rowspan=2 {{Party shading/Democratic}} |45D, 25R
+|rowspan=12 {{Party shading/Democratic}} |[[Tom Udall]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=8 {{Party shading/Republican}} |[[Susana Martinez]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[John Sanchez]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Dianna Duran]] {{small|(R)}}{{efn |name=resign}}
+|rowspan=4 {{Party shading/Democratic}} |[[Ray Powell (New Mexico politician)|Ray Powell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |36D, 34R
+|rowspan=8 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|rowspan=2 {{party shading/Democratic}} |25D, 17R
+|{{party shading/Democratic}} |38D, 32R
+|rowspan=14 {{party shading/Democratic/current}} |[[Martin Heinrich]] {{small|(D)}}
+|- style="height:2em"
+!2014
+|{{party shading/Democratic}} |37D, 33R
+|- style="height:2em"
+!2015
+|rowspan=8 {{Party shading/Democratic}} |[[Hector Balderas]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Tim Keller (politician)|Tim Keller]] {{small|(D)}}{{efn |name=resign}}
+|rowspan=8 {{Party shading/Democratic}} |[[Tim Eichenberg]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |[[Aubrey Dunn Jr.]] {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |24D, 18R{{efn |Sen. Phil Griego (D-39) resigned on March 14 over a scandal involving state building sale. A Republican, Ted Barela, was appointed to replace him on April 3.<ref>{{Cite web|last=Boyd|first=Dan|title=Governor picks Republican Barela for Griego's senate seat|url=https://www.abqjournal.com/564651/gov-picks-republican-barela-for-griegos-senate-seat.html|access-date=2021-06-17|website=www.abqjournal.com|language=en-US}}</ref>}}
+|rowspan=2 {{party shading/Republican}} |37R, 33D
+|- style="height:2em"
+!2016
+|{{Party shading/Republican}} |[[Brad Winter]] {{small|(R)}}{{efn |name=appointed}}
+|rowspan=4 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|rowspan=10 {{Party shading/Democratic/current}} |[[Maggie Toulouse Oliver]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |26D, 16R
+|rowspan=2 {{Party shading/Democratic}} |38D, 32R
+|- style="height:2em"
+!2018
+|{{Party shading/Republican}} |[[Wayne Johnson (New Mexico politician)|Wayne Johnson]] {{small|(R)}}{{efn |name=appointed}}
+|{{Party shading/Libertarian}} |[[Aubrey Dunn Jr.]] {{small|(L)}}
+|- style="height:2em"
+!2019
+|rowspan=8 {{Party shading/Democratic/current}} |[[Michelle Lujan Grisham]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic/current}} |[[Howie Morales]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Brian Colón]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic/current}} |[[Stephanie Garcia Richard|Stephanie Garcia<br>Richard]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |46D, 24R
+|rowspan=2 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=4 {{Party shading/Democratic}} |27D, 15R
+|rowspan=2 {{Party shading/Democratic}} |45D, 24R, 1I{{efn |Elected independent [[Brittney Barreras]] switched to the Democratic party before the legislative session began. Republican [[Phelps Anderson]] became an independent in February 2021.}}
+|rowspan=6 {{Party shading/Democratic/current}} |[[Ben Ray Luján]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=4 {{Party shading/Democratic/current}} |[[Raúl Torrez]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Joseph Maestas]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Laura Montoya (politician)|Laura Montoya]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |45D, 25R
+|rowspan=4 {{Party shading/Democratic/current}} |3D
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Democratic}} |[[Kamala Harris|Harris]]/<br>[[Tim Walz|Walz]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |26D, 16R
+|rowspan=2 {{Party shading/Democratic/current}} |44D, 26R
+|- style="height:2em"
+!2026
+|}
+
+{{United States political party shading key}}
+
+{{notelist}}
+
+==See also==
+*[[New Mexico#Politics|Politics in New Mexico]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In New Mexico}}
+[[Category:Government of New Mexico]]
+[[Category:Political party strength in the United States by state|New Mexico]]
+[[Category:Politics of New Mexico]]

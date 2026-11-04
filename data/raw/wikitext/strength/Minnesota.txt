@@ -1,0 +1,1028 @@
+{{Short description|Politics in the US state of Minnesota}}
+
+{{More citations needed|date=September 2020}}
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Minnesota]]:
+*[[List of governors of Minnesota|Governor]]
+*[[List of lieutenant governors of Minnesota|Lieutenant Governor]]
+*[[Minnesota Secretary of State|Secretary of State]]
+*[[Attorney General of Minnesota|Attorney General]]
+*[[Minnesota State Auditor|State Auditor]]
+*[[Minnesota State Treasurer|State Treasurer]] (before 2003)
+
+The table also indicates the historical party composition in the:
+*[[Minnesota Senate|State Senate]]
+*[[Minnesota House of Representatives|State House of Representatives]]
+*[[List of United States senators from Minnesota|Delegation to the United States Senate]]
+*[[List of United States representatives from Minnesota|Delegation to the United States House of Representatives]]
+
+For years in which a [[United States presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+Not all legislative vacancies are depicted on this table.{{efn |Many vacancies are brief, don't occur during the legislative year, do not change party balance, or are otherwise non-notable. These have been omitted for the sake of brevity.}} For additional detail, find the appropriate legislative session at [[List of Minnesota state legislatures]].
+
+==Pre-statehood (1849–1857)==
+{|class="wikitable" style="text-align:center"
+!rowspan=2 |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[Minnesota Legislature|Territorial Legislature]]
+![[Minnesota's congressional delegations|United States Congress]]
+|- style="height:2em"
+![[List of governors of Minnesota|Governor]]
+![[Minnesota Secretary of State|Territorial Secretary]]
+![[Attorney General of Minnesota|Attorney General]]
+![[Minnesota State Auditor|Auditor]]
+![[Minnesota State Treasurer|Treasurer]]
+![[Minnesota Senate|Terr. Senate]]
+![[Minnesota House of Representatives|Terr. House]]
+![[Minnesota Territory's at-large congressional district|Delegate]]
+|- style="height:2em"
+!1849
+|rowspan=5 {{Party shading/Whig}} |[[Alexander Ramsey]] {{small|(W)}}{{efn |Territorial governor appointed by [[President of the United States|President]] [[Zachary Taylor]].}}
+|rowspan=2 {{Party shading/Whig}} |[[Charles K. Smith]] {{small|(W)}}
+|rowspan=5 {{Party shading/Whig}} |[[Lorenzo A. Babcock]] {{small|(W)}}
+|rowspan=4 {{Party shading/Whig}} |[[Jonathan E. McKusick]] {{small|(W)}}
+|rowspan=5 {{Party shading/Whig}} |[[Calvin A. Tuttle]] {{small|(W)}}
+|rowspan=4 {{Party shading/Democratic}} |6D, 2W, 1?
+|rowspan=2 {{Party shading/Democratic}} |12D, 4W, 2?
+|rowspan=5 {{Party shading/Democratic}} |[[Henry Hastings Sibley]] {{small|(D)}}{{efn |name=delegate |[[Non-voting members of the United States House of Representatives|Delegate]] to the [[United States House of Representatives|U.S. House of Representatives]] from [[Minnesota Territory]].}}
+|- style="height:2em"
+!1850
+|- style="height:2em"
+!rowspan=2 |1851
+|rowspan=3 {{Party shading/Whig}} |[[Alexander C. Wilkin]] {{small|(W)}}
+|{{Party shading/Democratic}} |8D, 7?, 3W
+|- style="height:2em"
+|{{Party shading/Democratic}} |5D, 4?, 2W
+|- style="height:2em"
+!1852
+|{{Party shading/Whig}} |[[Abraham Van Vorhes]] {{small|(W)}}
+|rowspan=2 {{Party shading/Democratic}} |7D, 2W
+|{{Party shading/Democratic}} |10D, 5?, 3W
+|- style="height:2em"
+!1853
+|rowspan=6 {{Party shading/Democratic}} |[[Willis A. Gorman]] {{small|(D)}}{{efn |Territorial governor appointed by President [[Franklin Pierce]].}}
+|rowspan=6 {{Party shading/Democratic}} |[[Joseph Rosser]] {{small|(D)}}
+|rowspan=11 {{Party shading/Democratic}} |[[LaFayette Emmett]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[Socrates Nelson]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[George W. Prescott]] {{small|(D)}}
+|{{Party shading/Democratic}} |13D, 3W, 2?
+|rowspan=6 {{Party shading/Democratic}} |[[Henry M. Rice]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+!1854
+|rowspan=10 {{Party shading/Democratic}} |[[Julius Georgii]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Charles E. Leonard]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |9D
+|{{Party shading/Democratic}} |13D, 5W
+|- style="height:2em"
+!1855
+|{{Party shading/Democratic}} |13D, 4?, 1R
+|- style="height:2em"
+!rowspan=3 |1856
+|{{Party shading/Democratic}} |9D, 4?, 2R
+|{{Party shading/Democratic}} |18D, 12R, 9?
+|- style="height:2em"
+|{{Party shading/Democratic}} |8D, 4?, 2R
+|rowspan=2 {{Party shading/Democratic}} |19D, 11R, 9?
+|- style="height:2em"
+|{{Party shading/Democratic}} |6D, 4?, 2R
+|- style="height:2em"
+!rowspan=5 |1857
+|rowspan=5 {{Party shading/Democratic}} |[[Samuel Medary]] {{small|(D)}}{{efn |Territorial governor appointed by President [[James Buchanan]].}}
+|rowspan=5 {{Party shading/Democratic}} |[[Charles L. Chase]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[George W. Armstrong]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |6D, 5R, 4?
+|{{Party shading/Republican}} |20R, 18D
+|rowspan=5 {{Party shading/Democratic}} |[[William W. Kingsbury]] {{small|(D)}}{{efn |name=delegate}}
+|- style="height:2em"
+|{{Party shading/Republican}} |20R, 19D
+|- style="height:2em"
+|{{Party shading/Republican}} |19R, 19D
+|- style="height:2em"
+|{{Party shading/Republican}} |20R, 19D
+|- style="height:2em"
+|{{Party shading/Democratic}} |20D, 17R
+|{{Party shading/Democratic}} |43D, 37R
+|}
+
+==1858–2002==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Minnesota Legislature|State Legislature]]
+![[Minnesota Supreme Court|Judicial]]
+!colspan=3 |[[Minnesota's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Minnesota|Governor]]
+!class=unsortable |[[Lieutenant Governor of Minnesota|Lt. Governor]]
+!class=unsortable |[[Minnesota Secretary of State|Secretary<br>of State]]
+!class=unsortable |[[Attorney General of Minnesota|Attorney<br>General]]
+!class=unsortable |[[Minnesota State Auditor|Auditor]]
+!class=unsortable |[[Minnesota State Treasurer|Treasurer]]
+!class=unsortable |[[Minnesota Senate|State Senate]]
+!class=unsortable |[[Minnesota House of Representatives|State House]]
+!class=unsortable |Clerk of the<br>Supreme Court
+!class=unsortable |[[List of United States senators from Minnesota|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Minnesota|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from Minnesota|U.S.<br>House]]
+|- style="height:2em"
+!1858
+|rowspan=2 {{Party shading/Democratic}} |[[Henry Hastings Sibley]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William Holcombe]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Francis Baasen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Charles H. Berry]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[William F. Dunbar]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[George W. Armstrong]] {{small|(D)}}
+|{{Party shading/Democratic}} |20D, 17R
+|{{Party shading/Democratic}} |43D, 37R
+|rowspan=3 {{Party shading/Democratic}} |[[Jacob J. Noah]] {{small|(D)}}
+|rowspan="6" {{Party shading/Democratic}} |[[Henry M. Rice]] {{small|(D)}}
+|{{Party shading/Democratic}} |[[James Shields (politician, born 1806)|James Shields]] {{small|(D)}}
+|{{Party shading/Democratic}} |2D
+|rowspan=2 |
+|- style="height:2em"
+!1859
+|{{Party shading/Democratic}} |19D, 18R{{efn |name=fiftynine|Although legislators were elected, it was determined that an 1858-59 session was unnecessary due to the protracted length of the 1857-58 session; hence, these legislators never convened and were never sworn in.}}
+|{{Party shading/Republican}} |49R, 31D{{efn |name=fiftynine}}
+|rowspan=7 {{Party shading/Republican}} |[[Morton S. Wilkinson]] {{small|(R)}}
+|rowspan=11 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1860
+|rowspan=4 {{Party shading/Republican}} |[[Alexander Ramsey]] {{small|(R)}}{{efn |name=rsen|Resigned to become U.S. Senator.}}
+|rowspan=3 {{Party shading/Republican}} |[[Ignatius L. Donnelly]] {{small|(R)}}{{efn |name=r|Resigned.}}
+|rowspan=2 {{Party shading/Republican}} |[[James H. Baker (politician)|James H. Baker]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Gordon E. Cole]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Charles Scheffer]] {{small|(R)}}
+|{{Party shading/Republican}} |23R, 13D, 1I
+|{{Party shading/Republican}} |58R, 22D
+|rowspan=5 {{Party shading/Republican}} |[[Abraham Lincoln|Lincoln]]/<br>[[Hannibal Hamlin|Hamlin]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1861
+|rowspan=14 {{Party shading/Republican}} |[[Charles McIlrath]] {{small|(R)}}
+|{{Party shading/Republican}} |19R, 2D
+|{{Party shading/Republican}} |40R, 2D
+|rowspan=4 {{Party shading/Republican}} |[[Andrew J. Van Vorhes]] {{small|(R)}}
+|- style="height:2em"
+!1862
+|rowspan=7 {{party shading/Republican}} |[[David Blakeley]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |16R, 5D
+|{{Party shading/Republican}} |30R, 10D, 2UD
+|- style="height:2em"
+!rowspan=2 |1863
+|{{Party shading/Republican}} |[[Henry Adoniram Swift|Henry A. Swift]] {{small|(R)}}{{efn |name=s|Succeeded to office following death or resignation of previous officeholder.}}
+|rowspan=2 {{Party shading/Republican}} |29R, 12D, 1UD
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Henry Adoniram Swift|Henry A. Swift]] {{small|(R)}}{{efn |name=s}}
+|''vacant''
+|rowspan=13 {{Party shading/Republican}} |[[Alexander Ramsey]] {{small|(R)}}
+|- style="height:2em"
+!1864
+|rowspan=2 {{Party shading/Republican}} |[[Stephen Miller (Minnesota governor)|Stephen Miller]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles D. Sherwood]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 4D
+|{{Party shading/Republican}} |27R, 11D, 4UD
+|rowspan=3 {{Party shading/Republican}} |[[George F. Potter]] {{small|(R)}}{{efn |Lost renomination.}}
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{aye}}
+|- style="height:2em"
+!1865
+|{{Party shading/Republican}} |32R, 10D
+|rowspan=5 {{Party shading/Republican}} |[[Daniel Sheldon Norton]] {{small|(R)}}{{efn |name=d|Died in office.}}
+|- style="height:2em"
+!1866
+|rowspan=4 {{Party shading/Republican}} |[[William Rainey Marshall]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Thomas H. Armstrong]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[William J. Colvill]] {{small|(R)}}
+|{{Party shading/Republican}} |16R, 5D
+|{{Party shading/Republican}} |29R, 13D
+|- style="height:2em"
+!1867
+|{{Party shading/Republican}} |17R, 5D
+|{{Party shading/Republican}} |37R, 9D, 1?
+|rowspan="10" {{Party shading/Republican}} |[[Sherwood Hough]] {{small|(R)}}{{efn |Lost renomination.}}
+|- style="height:2em"
+!1868
+|rowspan=2 {{party shading/Republican}} |[[Henry C. Rogers]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Francis R. E. Cornell]] {{small|(R)}}
+|rowspan=5 {{party shading/Republican}} |[[Emil D. Munch]] {{small|(R)}}
+|{{Party shading/Republican}} |15R, 7D
+|{{Party shading/Republican}} |34R, 13D
+|rowspan=5 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Schuyler Colfax|Colfax]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1869
+|rowspan=2 {{Party shading/Republican}} |16R, 6D
+|rowspan=2 {{Party shading/Republican}} |38R, 9D
+|rowspan=2 {{Party shading/Tie}} |1R, 1D
+|- style="height:2em"
+!1870
+|rowspan=5 {{Party shading/Republican}} |[[Horace Austin]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[William H. Yale]] {{small|(R)}}
+|rowspan=3 {{party shading/Republican}} |[[Hans Mattson]] {{small|(R)}}
+|{{Party shading/Republican}} |[[William Windom (politician)|William Windom]] {{small|(R)}}{{efn |name=app|Appointed by governor to fill vacancy.}}
+|- style="height:2em"
+!rowspan=2 |1871
+|rowspan=2 {{Party shading/Republican}} |14R, 8D
+|rowspan=2 {{Party shading/Republican}} |27R, 20D
+|{{Party shading/Republican}} |[[Ozora P. Stearns]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |2R
+|- style="height:2em"
+|rowspan=10 {{Party shading/Republican}} |[[William Windom (politician)|William Windom]] {{small|(R)}}{{efn |Resigned to become [[U.S. Secretary of the Treasury]].}}
+|- style="height:2em"
+!1872
+|rowspan=4 {{party shading/Republican}} |[[Samuel P. Jennison]] {{small|(R)}}
+|{{party shading/Republican}} |[[William Seeger]] {{small|(R)}}{{efn |Resigned following impeachment but before trial by Minnesota Senate.<ref>{{cite book|last1=Nordby|first1=Mary Jane Morrison. Foreword by Jack|title=The Minnesota state constitution : a reference guide|date=2002|publisher=Greenwood Press|location=Westport, Conn. [u.a.]|isbn=0-313-28411-3|pages=10}}</ref>}}
+|{{Party shading/Republican}} |29R, 12D
+|{{Party shading/Republican}} |73R, 33D
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1873
+|rowspan=9 {{Party shading/Republican}} |[[Orlan P. Whitcomb]] {{small|(R)}}
+|rowspan=1 {{Party shading/Republican}} |[[Edwin W. Dyke]] {{small|(R)}}{{efn |Appointed by governor to fill vacancy in early 1873. Later elected to office in his own right as a Democrat.}}
+|{{Party shading/Republican}} |31R, 10D
+|{{Party shading/Republican}} |79R, 27D
+|rowspan=6 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1874
+|rowspan=2 {{Party shading/Republican}} |[[Cushman K. Davis]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Alphonso Barto]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[George P. Wilson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Anti-Monopoly}} |[[Edwin W. Dyke]] {{small|(A-M)}}{{efn |Dyke did not win the endorsement of the Republican Party in 1873, but sought the Democratic endorsement and won with it. Dyke himself did not join the Democratic party, but was an [[Anti-Monopoly Party|Anti-Monopolist]]}}
+|{{Party shading/Republican}} |28R, 13D
+|{{Party shading/Republican}} |58R, 48D
+|- style="height:2em"
+!1875
+|{{Party shading/Republican}} |21R, 18D, 2I
+|{{Party shading/Republican}} |54R, 48D, 4I
+|rowspan=12 {{Party shading/Republican}} |[[Samuel J. R. McMillan]] {{small|(R)}}
+|- style="height:2em"
+!1876
+|rowspan=6 {{Party shading/Republican}} |[[John S. Pillsbury]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James Wakefield]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[John S. Irgens]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[William Pfaender]] {{small|(R)}}
+|{{Party shading/Republican}} |27R, 14D
+|{{Party shading/Republican}} |74R, 32D
+|rowspan="11" {{Party shading/Republican}} |[[Sam Nichols]] {{small|(R)}}{{efn |Lost renomination.}}
+|rowspan=4 {{Party shading/Republican}} |[[Rutherford B. Hayes|Hayes]]/<br>[[William A. Wheeler|Wheeler]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1877
+|{{Party shading/Republican}} |26R, 15D
+|{{Party shading/Republican}} |77R, 29D
+|- style="height:2em"
+!1878
+|{{Party shading/Republican}} |29R, 12D
+|{{Party shading/Republican}} |66R, 40D
+|- style="height:2em"
+!1879
+|rowspan=2 {{Party shading/Republican}} |23R, 16D, 2GB{{efn |name=amd|Due to a constitutional amendment, effective with the election of 1878, terms for senators became four years and terms for representatives became two years.}}
+|rowspan=2 {{Party shading/Republican}} |73R, 30D, 3GB{{efn |name=amd}}
+|rowspan=2 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1880
+|rowspan=7 {{party shading/Republican}} |[[Charles A. Gilman]] {{small|(R)}}
+|rowspan=7 {{party shading/Republican}} |[[Frederick Von Baumbach]] {{small|(R)}}
+|{{party shading/Republican}} |[[Charles M. Start]] {{small|(R)}}{{efn |name=r}}
+|rowspan=7 {{Party shading/Republican}} |[[Charles Kittelson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James A. Garfield|Garfield]]/<br>[[Chester A. Arthur|Arthur]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1881
+|rowspan=6 {{Party shading/Republican}} |[[William John Hahn]] {{small|(R)}}{{efn |name=appelec|Appointed to fill the remainder of the previous officeholder's term. Later elected in their own right.}}
+|rowspan=2 {{Party shading/Republican}} |29R, 11D, 1?
+|rowspan=2 {{Party shading/Republican}} |87R, 15D, 1?
+|{{Party shading/Republican}} |[[Alonzo J. Edgerton]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1882
+|rowspan=5 {{Party shading/Republican}} |[[Lucius Frederick Hubbard]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[William W. Braden]] {{small|(R)}}
+|{{Party shading/Republican}} |[[William Windom (politician)|William Windom]] {{small|(R)}}
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Republican}} |36R, 10D, 1I
+|rowspan=2 {{Party shading/Republican}} |72R, 28D, 2I, 1?
+|rowspan=6 {{Party shading/Republican}} |[[Dwight M. Sabin]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |5R
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Republican}} |[[James G. Blaine|Blaine]]/<br>[[John A. Logan|Logan]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1885
+|rowspan=2 {{Party shading/Republican}} |30R, 17D
+|rowspan=2 {{Party shading/Republican}} |70R, 33D
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=2 {{Party shading/Republican}} |[[Andrew Ryan McGill]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Albert E. Rice]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Hans Mattson]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Moses E. Clapp]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Joseph Bobleter]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |30R, 16D, 1FA
+|rowspan=2 {{Party shading/Republican}} |66R, 34D, 3FA
+|rowspan=4 {{Party shading/Republican}} |[[John David Jones]] {{small|(R)}}{{efn |Lost renomination.}}
+|rowspan="14" {{Party shading/Republican}} |[[Cushman K. Davis]] {{small|(R)}}{{efn |name=d}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 2R
+|- style="height:2em"
+!1888
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Levi P. Morton|Morton]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1889
+|rowspan=4 {{Party shading/Republican}} |[[William Rush Merriam]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |89R, 9D, 3I, 2FA
+|rowspan=6 {{Party shading/Republican}} |[[William D. Washburn]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |5R
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Republican}} |[[Gideon S. Ives]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Frederick P. Brown]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Adolph Biermann]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |25R, 16D, 13P{{efn |Elected a Republican President Pro Tempore, John B. Sanborn, and organized the chamber.}}
+|rowspan=2 {{Party shading/Fusion}} |52D, 43R, 19FA{{efn |A coalition of Democrats and members of the Farmers' Alliance organized the chamber and elected an Alliance Speaker, [[Ezra T. Champlin]].<ref>{{Cite web|title=Speakers of the Minnesota House of Representatives, 1849-present - Minnesota Legislative Reference Library|url=https://www.lrl.mn.gov/history/speakers|access-date=2021-06-22|website=www.lrl.mn.gov}}</ref>}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles P. Holcomb]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |3D, 1R, 1P
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Whitelaw Reid|Reid]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{Party shading/Republican}} |[[Knute Nelson]] {{small|(R)}}{{efn |name=rsen}}
+|rowspan=2 {{Party shading/Republican}} |[[David Marston Clough]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Henry W. Childs]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |71R, 41D, 2Pop
+|rowspan=2 {{Party shading/Republican}} |4R, 2D, 1Pop
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=4 {{Party shading/Republican}} |[[David Marston Clough]] {{small|(R)}}{{efn |name=selec|Succeeded to office following death or resignation of previous officeholder. Later elected to office in his or her own right.}}
+|rowspan=2 {{Party shading/Republican}} |[[Frank A. Day]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Albert Berg]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Robert C. Dunn]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[August Theodor Koerner|August T. Koerner]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |46R, 5Pop, 3D
+|rowspan=2 {{Party shading/Republican}} |95R, 10D, 9Pop
+|rowspan="9" {{Party shading/Republican}} |[[Darius F. Reese]] {{small|(R)}}{{efn |Lost renomination.}}
+|rowspan="29" {{Party shading/Republican}} |[[Knute Nelson]] {{small|(R)}}{{efn |name=d}}
+|rowspan=9 {{Party shading/Republican}} |7R
+|- style="height:2em"
+!1896
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Garret Hobart|Hobart]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Republican}} |[[John L. Gibbs]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |90R, 13Pop, 11D
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=3 {{Party shading/Democratic}} |[[John Lind (politician)|John Lind]] {{small|(D)}}{{efn |Had also been endorsed by the [[People's Party (United States)|Populists]]/<br>[[Silver Republican Party|Silver Republicans]].}}
+|rowspan=5 {{Party shading/Republican}} |[[Lyndon A. Smith]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Wallace B. Douglas]] {{small|(R)}}{{efn |name=rsc|Resigned following appointment to [[Minnesota Supreme Court]].}}
+|rowspan=5 {{Party shading/Republican}} |44R, 18D, 1I
+|rowspan=3 {{Party shading/Republican}} |93R, 25D, 1I
+|- style="height:2em"
+!rowspan=2 |1900
+|rowspan=5 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Charles A. Towne]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!1901
+|rowspan=4 {{Party shading/Republican}} |[[Samuel Rinnah Van Sant]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Peter E. Hanson]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Julius H. Block]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |96R, 17D, 6Pop
+|rowspan=16 {{Party shading/Republican}} |[[Moses E. Clapp]] {{small|(R)}}
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=4 {{Party shading/Republican}} |[[Ray W. Jones]] {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |[[Samuel G. Iverson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |52R, 11D
+|rowspan=2 {{Party shading/Republican}} |104R, 15D
+|rowspan="7" {{Party shading/Republican}} |[[C. A. Pidgeon]] {{small|(R)}}{{efn |name=r}}
+|rowspan=2 {{Party shading/Republican}} |8R, 1D
+|- style="height:2em"
+!1904
+|{{Party shading/Republican}} |[[William J. Donahower]] {{small|(R)}}{{efn |name=app}}
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=4 {{Party shading/Democratic}} |[[John Albert Johnson]] {{small|(D)}}{{efn |name=d}}
+|rowspan=4 {{Party shading/Republican}} |[[Edward T. Young]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |109R, 10D
+|rowspan=2 {{Party shading/Republican}} |9R
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Republican}} |[[Adolph Olson Eberhart]] {{small|(R)}}
+|rowspan=14 {{Party shading/Republican}} |[[Julius A. Schmahl]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Clarence C. Dinehart]] {{small|(R)}}{{efn |name=d}}
+|rowspan=4 {{Party shading/Republican}} |43R, 19D, 1Pop
+|rowspan=2 {{Party shading/Republican}} |102R, 14D, 3Proh
+|rowspan=8 {{Party shading/Republican}} |8R, 1D
+|- style="height:2em"
+!1908
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=6 {{Party shading/Republican}} |[[Adolph Olson Eberhart]] {{small|(R)}}{{efn |name=selec}}
+|rowspan=2 {{Party shading/Republican}} |[[Edward Everett Smith]]{{efn |name=s}}
+|rowspan=3 {{Party shading/Republican}} |[[George T. Simpson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |94R, 22D, 3Proh
+|- style="height:2em"
+!1910
+|{{Party shading/Republican}} |[[Elias S. Pettijohn]] {{small|(R)}}{{efn |name=app}}
+|rowspan="9" {{Party shading/Republican}} |[[Irving A. Caswell]] {{small|(R)}}{{efn |name=appelec}}{{efn |Lost renomination.}}
+|- style="height:2em"
+!1911
+|rowspan=2 {{Party shading/Republican}} |[[Samuel Y. Gordon]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Walter J. Smith]] {{small|(R)}}{{efn |name=r}}
+|rowspan=4 {{Party shading/Republican}} |42R, 19D, 2I
+|rowspan=2 {{Party shading/Republican}} |88R, 26D, 4Proh, 1IR, 1[[Socialist Party of Minnesota|Soc]]
+|- style="height:2em"
+!1912
+|rowspan=6 {{Party shading/Republican}} |[[Lyndon A. Smith]] {{small|(R)}}{{efn |name=d}}
+|rowspan=4 {{Party shading/Bull Moose}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Hiram Johnson|Johnson]] {{small|(Prog)}} {{nay}}
+|- style="height:2em"
+!1913
+|rowspan=3 {{Party shading/Republican}} |[[Joseph A. A. Burnquist]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |98R, 20D, 1 Proh, 1Soc
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|{{Party shading/Democratic}} |[[Winfield Scott Hammond]] {{small|(D)}}{{efn |name=d}}
+|rowspan=6 {{Party shading/Republican}} |[[J. A. O. Preus]] {{small|(R)}}
+|rowspan=37 {{Party shading/Minnesota Nonpartisan Conservative}} |Conservative<br>majority{{efn |name=nonpartisan|After a constitutional amendment in 1912, the Minnesota Legislature was nonpartisan until 1973. It went into effect in 1915 Legislators caucused as "conservatives" and "liberals," roughly equivalent to Republicans and Democrats/Farmer Laborites.}}
+|rowspan=18 {{Party shading/Minnesota Nonpartisan Conservative}} |Conservative<br>majority{{efn |name=nonpartisan}}
+|rowspan=4 {{Party shading/Republican}} |9R, 1D
+|- style="height:2em"
+!1916
+|rowspan=5 {{Party shading/Republican}} |[[Joseph A. A. Burnquist]] {{small|(R)}}{{efn |name=selec}}
+|{{Party shading/Republican}} |[[George H. Sullivan]]{{efn |name=s}}
+|{{Party shading/Republican}} |[[Arthur C. Gooding]] {{small|(R)}}{{efn |name=app}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes|Hughes]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Republican}} |[[Thomas Frankson]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Henry Rines]] {{small|(R)}}{{efn |name=r}}
+|rowspan=6 {{Party shading/Republican}} |[[Frank B. Kellogg]] {{small|(R)}}
+|- style="height:2em"
+!1918
+|rowspan=9 {{Party shading/Republican}} |[[Clifford L. Hilton]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=rsc}}
+|- style="height:2em"
+!1919
+|rowspan=4 {{Party shading/Republican}} |[[Herman J. Mueller]] {{small|(R)}}{{efn |Lost renomination.}}
+|rowspan=2 {{Party shading/Republican}} |9R, 1FL
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Republican}} |[[J. A. O. Preus]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Louis L. Collins]] {{small|(R)}}
+|rowspan=32 {{Party shading/Republican}} |[[Mike Holm]] {{small|(R)}}{{efn |name=d}}
+|rowspan=10 {{Party shading/Republican}} |[[Ray P. Chase]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |10R
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan="12" {{Party shading/Republican}} |[[Grace F. Kaercher]] {{small|(R)}}
+|rowspan="18" {{Party shading/Farmer-Labor}} |[[Henrik Shipstead]] {{small|(FL)}}
+|rowspan=2 {{Party shading/Farmer-Labor}} |[[Magnus Johnson]] {{small|(FL)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 2FL
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=6 {{Party shading/Republican}} |[[Theodore Christianson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William I. Nolan]] {{small|(R)}}{{efn |name=r}}
+|rowspan=2 {{Party shading/Republican}} |[[Edward W. Stark]] {{small|(R)}}{{efn |name=app}}
+|rowspan=10 {{Party shading/Republican}} |[[Thomas D. Schall]] {{small|(R)}}{{efn |name=d}}
+|rowspan=2 {{Party shading/Republican}} |7R, 3FL
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|{{Party shading/Republican}} |[[Albert F. Pratt]] {{small|(R)}}{{efn |name=app}}{{efn |name=d}}
+|rowspan=10 {{Party shading/Republican}} |[[Julius A. Schmahl]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 2FL
+|- style="height:2em"
+!1928
+|{{Party shading/Republican}} |[[G. Aaron Youngquist]] {{small|(R)}}{{efn |name=appelec}}{{efn |name=r}}
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=2 {{Party shading/Republican}} |[[Charles Edward Adams (politician)|Charles Edward Adams]] {{small|(R)}}{{efn |name=s}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry N. Benson]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=4 {{Party shading/Republican}} |9R, 1FL
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=5 {{Party shading/Farmer-Labor}} |[[Floyd B. Olson]] {{small|(FL)}}{{efn |name=d}}
+|rowspan=2 {{Party shading/Farmer-Labor}} |[[Henry M. Arens]] {{small|(FL)}}
+|rowspan=41 {{Party shading/Republican}} |[[Stafford King]] {{small|(R)}}{{efn |name=r}}
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=2 {{Party shading/Farmer-Labor}} |[[Konrad K. Solberg]] {{small|(FL)}}
+|rowspan=3 {{Party shading/Farmer-Labor}} |[[Harry H. Peterson]] {{small|(FL)}}{{efn |name=rsc}}
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Liberal}} |Liberal<br>majority
+|rowspan=2 {{Party shading/Farmer-Labor}} |5FL, 3R, 1D
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|{{Party shading/Farmer-Labor}} |[[Hjalmar Petersen]] {{small|(FL)}}
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |Conservative<br>majority
+|rowspan=4 {{Party shading/Farmer-Labor}} |[[Russell O. Gunderson]] {{small|(FL)}}{{efn |Lost renomination.}}
+|{{Party shading/Farmer-Labor}} |[[Elmer A. Benson]] {{small|(FL)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |5R, 3FL, 1D
+|- style="height:2em"
+!1936
+|{{Party shading/Farmer-Labor}} |[[Hjalmar Petersen]] {{small|(FL)}}{{efn |name=s}}
+|{{Party shading/Republican}} |[[William B. Richardson]] {{small|(R)}}{{efn |name=a|Served as acting lieutenant governor; never took the oath of office.}}
+|rowspan=3 {{Party shading/Farmer-Labor}} |[[William S. Ervin]] {{small|(FL)}}{{efn |name=app}}
+|{{Party shading/Republican}} |[[Guy V. Howard]] {{small|(R)}}
+|- style="height:2em"
+!1937
+|rowspan=2 {{Party shading/Farmer-Labor}} |[[Elmer A. Benson]] {{small|(FL)}}
+|rowspan=2 {{Party shading/Farmer-Labor}} |[[Gottfrid Lindsten]] {{small|(FL)}}
+|rowspan=2 {{Party shading/Farmer-Labor}} |[[C. A. Halverson]] {{small|(FL)}}
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Liberal}} |Liberal<br>majority
+|rowspan=4 {{Party shading/Farmer-Labor}} |[[Ernest Lundeen]] {{small|(FL)}}{{efn |name=d}}
+|rowspan=2 {{Party shading/Farmer-Labor}} |5FL, 3R, 1D
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=5 {{Party shading/Republican}} |[[Harold Stassen]] {{small|(R)}}{{efn |name=r}}
+|rowspan=4 {{Party shading/Republican}} |[[C. Elmer Anderson]] {{small|(R)}}
+|rowspan=18 {{Party shading/Republican}} |[[Joseph A. A. Burnquist]] {{small|(R)}}
+|rowspan=13 {{Party shading/Republican}} |[[Julius A. Schmahl]] {{small|(R)}}
+|rowspan=13 {{Party shading/Minnesota Nonpartisan Conservative}} |Conservative<br>majority
+|rowspan="18" {{Party shading/Republican}} |[[Grace F. Kaercher]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |7R, 1D, 1FL
+|- style="height:2em"
+!1940
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=7 {{Party shading/Republican}} |[[Henrik Shipstead]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Joseph H. Ball]] {{small|(R)}}{{efn |name=app}}
+|rowspan=5 {{Party shading/Republican}} |8R, 1FL
+|- style="height:2em"
+!1942
+|rowspan=2 {{Party shading/Republican}} |[[Arthur E. Nelson]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1943
+|{{Party shading/Republican}} |[[Edward J. Thye]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Edward J. Thye]] {{small|(R)}}{{efn |name=selec}}
+|rowspan=2 {{Party shading/Republican}} |[[Archie H. Miller]] {{small|(R)}}{{efn |name=s}}
+|rowspan=6 {{Party shading/Republican}} |[[Joseph H. Ball]] {{small|(R)}}
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=6 {{Party shading/Republican}} |[[C. Elmer Anderson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |7R, 2DFL{{efn |The [[Minnesota Farmer–Labor Party]] merged into the [[Minnesota Democratic Party]] in 1944.}}
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=4 {{Party shading/Republican}} |[[Luther Youngdahl]] {{small|(R)}}{{efn |name=r}}
+|rowspan=13 {{Party shading/Republican}} |[[Edward J. Thye]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 1DFL
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=17 {{Party shading/DFL}} |[[Hubert Humphrey]] {{small|(DFL)}}{{efn |name=vp|Resigned to become [[Vice President of the United States]].}}
+|rowspan=7 {{Party shading/Republican}} |5R, 4DFL
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=5 {{Party shading/Republican}} |[[C. Elmer Anderson]] {{small|(R)}}{{efn |name=selec}}
+|rowspan=3 |''vacant''
+|rowspan=5 {{Party shading/Republican}} |[[Val Bjornson]] {{small|(R)}}
+|rowspan=3 {{Party shading/Minnesota Nonpartisan Conservative}} |51C, 16L
+|rowspan=3 {{Party shading/Minnesota Nonpartisan Conservative}} |87C, 44L
+|- style="height:2em"
+!rowspan=2 |1952
+|{{Party shading/Independent}} |[[H. H. Chesterman]]{{efn |name=app}}
+|rowspan=9 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Republican}} |[[Virginia Paul Holm]] {{small|(R)}}{{efn |name=appelec}}
+|- style="height:2em"
+!1953
+|{{Party shading/Republican}} |[[Ancher Nelsen]] {{small|(R)}}{{efn |Resigned to become administrator of the [[Rural Utilities Service|Rural Electrification Administration]].}}
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |52C, 15L
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |85C, 46L
+|- style="height:2em"
+!1954
+|{{Party shading/Republican}} |[[Donald O. Wright]] {{small|(R)}}{{efn |name=s}}
+|- style="height:2em"
+!1955
+|rowspan=6 {{Party shading/DFL}} |[[Orville Freeman]] {{small|(DFL)}}
+|rowspan=8 {{Party shading/DFL}} |[[Karl Rolvaag]] {{small|(DFL)}}
+|rowspan=17 {{Party shading/DFL}} |[[Joseph L. Donovan]] {{small|(DFL)}}
+|rowspan=5 {{Party shading/DFL}} |[[Miles Lord]] {{small|(DFL)}}{{efn |name=r}}
+|rowspan=2 {{Party shading/DFL}} |[[Arthur Hansen (politician)|Arthur Hansen]] {{small|(DFL)}}
+|rowspan=4 {{Party shading/Minnesota Nonpartisan Conservative}} |48C, 19L
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Liberal}} |66L, 65C
+|rowspan=2 {{Party shading/DFL}} |[[Frank Larkin (politician)|Frank Larkin]] {{small|(DFL)}}
+|rowspan=4 {{Party shading/DFL}} |5DFL, 4R
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=19 {{Party shading/Republican}} |[[Val Bjornson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Liberal}} |70L, 61C
+|rowspan="49" |{{efn |Constitutional amendment passed in 1956 making the clerk an appointed, nonpartisan position.}}
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=7 {{Party shading/Minnesota Nonpartisan Conservative}} |43C, 24L
+|rowspan=4 {{Party shading/Minnesota Nonpartisan Liberal}} |72L, 59C
+|rowspan=13 {{Party shading/DFL}} |[[Eugene McCarthy]] {{small|(DFL)}}
+|rowspan=2 {{Party shading/Republican}} |5R, 4DFL
+|- style="height:2em"
+!1960
+|rowspan=5 {{Party shading/DFL}} |[[Walter Mondale]] {{small|(DFL)}}{{efn |name=appelec}}{{efn |name=rsen}}
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1961
+|rowspan=2 {{Party shading/Republican}} |[[Elmer L. Andersen]] {{small|(R)}}{{efn |name=recount|A recount and subsequent litigation lasting 139 days delayed Karl Rolvaag's inauguration as governor.}}
+|rowspan=2 {{Party shading/Republican}} |6R, 3DFL
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=5 {{Party shading/DFL}} |[[Karl Rolvaag]] {{small|(DFL)}}{{efn |name=recount}}
+|rowspan=5 {{Party shading/DFL}} |[[Sandy Keith]] {{small|(DFL)}}
+|rowspan=3 {{Party shading/Minnesota Nonpartisan Conservative}} |80C, 54L, 1I
+|rowspan=5 {{Party shading/Tie}} |4R, 4DFL
+|- style="height:2em"
+!rowspan=2 |1964
+|rowspan=5 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/DFL}} |[[Robert W. Mattson Sr.]] {{small|(DFL)}}{{efn |name=app}}
+|rowspan=13 {{Party shading/DFL}} |[[Walter Mondale]] {{small|(DFL)}}{{efn |name=appelec}}{{efn |name=vp}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |44C, 23L
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |78C, 56L, 1I
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Republican}} |[[Harold LeVander]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James B. Goetz]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Douglas M. Head]] {{small|(R)}}
+|rowspan=4 {{Party shading/Minnesota Nonpartisan Conservative}} |45C, 22L
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |93C, 42L
+|rowspan=4 {{Party shading/Republican}} |5R, 3DFL
+|- style="height:2em"
+!1968
+|rowspan=4 {{Party shading/Democratic}} |[[Hubert Humphrey|Humphrey]]/<br>[[Edmund Muskie|Muskie]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Republican}} |[[William O'Brien (Minnesota politician)|William J. O'Brien]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |85C, 50L
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=6 {{Party shading/DFL}} |[[Wendell R. Anderson|Wendell Anderson]] {{small|(DFL)}}{{efn |name=rsen}}
+|rowspan=6 {{Party shading/DFL}} |[[Rudy Perpich]] {{small|(DFL)}}
+|rowspan=4 {{Party shading/Republican}} |[[Arlen Erdahl]] {{small|(R)}}
+|rowspan=13 {{Party shading/DFL}} |[[Warren Spannaus]] {{small|(DFL)}}
+|rowspan=4 {{Party shading/Republican}} |[[Rolland Hatfield]] {{small|(R)}}
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |34C, 33L
+|rowspan=2 {{Party shading/Minnesota Nonpartisan Conservative}} |70C, 65L
+|rowspan=8 {{Party shading/DFL}} |[[Hubert Humphrey]] {{small|(DFL)}}{{efn |name=d}}
+|rowspan=4 {{Party shading/Tie}} |4R, 4DFL
+|- style="height:2em"
+!1972
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1973
+|{{Party shading/DFL}} |37DFL, 30R
+|rowspan=2 {{Party shading/DFL}} |77DFL, 57R
+|- style="height:2em"
+!1974
+|{{Party shading/DFL}} |36DFL, 31R<ref name="leg.state.mn.us">{{Cite web|url=https://www.leg.mn.gov/lrl/history/caucus?body=s|title=Party Control of the Minnesota Senate - Minnesota Legislative Reference Library|website=www.leg.mn.gov}}</ref>
+|- style="height:2em"
+!1975
+|rowspan=25 {{Party shading/DFL}} |[[Joan Growe]] {{small|(DFL)}}
+|rowspan=5 {{Party shading/DFL}} |[[Robert W. Mattson Jr.|Bob Mattson]] {{small|(DFL)}}
+|rowspan=9 {{Party shading/DFL}} |[[Jim Lord]] {{small|(DFL)}}
+|rowspan=3 {{Party shading/DFL}} |38DFL, 28IR,{{efn |From 1975 until 1995, the Republican Party of Minnesota was called the Independent–Republican Party of Minnesota.}} 1I
+|{{Party shading/DFL}} |104DFL, 30IR
+|rowspan=3 {{Party shading/DFL}} |5DFL, 3R
+|- style="height:2em"
+!rowspan=2 |1976
+|rowspan=2 {{Party shading/DFL}} |103DFL, 31IR<ref name="auto">{{Cite web|url=https://www.leg.mn.gov/lrl/history/caucus?body=h|title=Party Control of the Minnesota House of Representatives - Minnesota Legislative Reference Library|website=www.leg.mn.gov}}</ref>
+|rowspan=5 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/DFL}} |[[Rudy Perpich]] {{small|(DFL)}}{{efn |name=s}}
+|rowspan=3 {{Party shading/DFL}} |[[Alec G. Olson]] {{small|(DFL)}}{{efn |name=s}}
+|rowspan=3 {{Party shading/DFL}} |[[Wendell R. Anderson|Wendell Anderson]] {{small|(DFL)}}{{efn |name=app}}{{efn |name=r}}
+|- style="height:2em"
+!1977
+|{{Party shading/DFL}} |49DFL, 18IR
+|{{Party shading/DFL}} |104DFL, 30IR
+|rowspan=4 {{Party shading/Tie}} |4DFL, 4R
+|- style="height:2em"
+!1978
+|{{Party shading/DFL}} |48DFL, 19IR<ref name="leg.state.mn.us"/>
+|{{Party shading/DFL}} |99DFL, 35IR{{efn |A series of special elections and party switches led to the composition in the 1978 session.<ref name="auto" />}}
+|{{Party shading/DFL}} |[[Muriel Humphrey]] {{small|(DFL)}}{{efn |name=app}}
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Republican}} |[[Al Quie]] {{small|(IR)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lou Wangberg]] {{small|(IR)}}
+|rowspan=12 {{Party shading/Republican}} |[[Arne Carlson]] {{small|(IR)}}
+|{{Party shading/DFL}} |47DFL, 20IR
+|{{Party shading/DFL}} |67DFL, 67IR{{efn |With the split chamber, a power-sharing agreement was negotiated. A Republican Speaker, [[Rod Searle]], was elected, but Democrats received control of most committees. The tie was broken when a Republican, Robert Pavlak, was expelled from the chamber on May 19, 1979 on a party-line vote due to a legal and ethical violations. The agreement of shared-power held through the end of the year's session two days later, despite the Democrats' 67-66 majority.<ref name="michigan-house-book">{{cite book |last1=Loepp |first1=Daniel |title=Sharing the balance of power : an examination of shared power in the Michigan House of Representatives, 1993-94 |date=1999 |publisher=University of Michigan Press |location=Ann Arbor |isbn=0472097024 |page=24 |url=https://catalog.hathitrust.org/Record/003501404 |access-date=7 November 2020}}</ref><ref name="housejournal">{{cite web |title=Journal of the House |url=http://www.leg.mn.gov/archive/LegDB/Articles/10510HseJournalContestedElection.pdf |website=Minnesota Legislature |publisher=Minnesota State Legislature |access-date=7 November 2020 |date=14 May 2020}}</ref>}}
+|rowspan=16 {{Party shading/Republican}} |[[David Durenberger]] {{small|(IR)}}
+|rowspan=12 {{Party shading/Republican}} |[[Rudy Boschwitz]] {{small|(IR)}}{{efn |Appointed by governor to fill vacancy, having already been elected to next full term.}}
+|- style="height:2em"
+!1980
+|rowspan=2 {{Party shading/DFL}} |45DFL, 22IR<ref name="leg.state.mn.us"/>
+|{{Party shading/DFL}} |68DFL, 66IR{{efn |A special election was held for Pavlak's seat in District 67A. A Democrat, Frank J. Rodriguez, Jr., was elected, giving the Democrats a constitutional majority. With that, they reorganized the chamber under their control in the 1980 session.<ref name="michigan-house-book" /><ref name="auto" />}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/DFL}} |70DFL, 64IR
+|rowspan=2 {{Party shading/Republican}} |5R, 3DFL
+|- style="height:2em"
+!1982
+|{{Party shading/DFL}} |44DFL, 23IR<ref name="leg.state.mn.us"/>
+|- style="height:2em"
+!1983
+|rowspan=8 {{Party shading/DFL}} |[[Rudy Perpich]] {{small|(DFL)}}
+|rowspan=8 {{Party shading/DFL}} |[[Marlene Johnson]] {{small|(DFL)}}
+|rowspan=16 {{Party shading/DFL}} |[[Skip Humphrey]] {{small|(DFL)}}
+|rowspan=4 {{Party shading/DFL}} |[[Robert W. Mattson Jr.]] {{small|(DFL)}}
+|rowspan=2 {{Party shading/DFL}} |42DFL, 25IR
+|{{Party shading/DFL}} |77DFL, 57IR
+|rowspan=8 {{Party shading/DFL}} |5DFL, 3R
+|- style="height:2em"
+!1984
+|{{Party shading/DFL}} |76DFL, 58IR<ref name="auto"/>
+|rowspan=4 {{Party shading/Democratic}} |[[Walter Mondale|Mondale]]/<br>[[Geraldine Ferraro|Ferraro]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1985
+|{{Party shading/DFL}} |42DFL, 24IR, 1I{{efn |A party switch from Republican to Independent by [[Charles A. Berg|Charles Berg]] led to the composition in the 1985 session.<ref name="leg.state.mn.us" />}}
+|rowspan=2 {{Party shading/Republican}} |69IR, 65DFL
+|- style="height:2em"
+!1986
+|{{Party shading/DFL}} |43DFL, 24IR{{efn |A party switch from Independent to DFL by Charles Berg led to the composition in the 1986 session.<ref name="leg.state.mn.us" />}}
+|- style="height:2em"
+!1987
+|rowspan=12 {{Party shading/DFL}} |[[Michael McGrath (American politician)|Michael McGrath]] {{small|(DFL)}}
+|{{Party shading/DFL}} |47DFL, 20IR
+|{{Party shading/DFL}} |83DFL, 51IR
+|- style="height:2em"
+!1988
+|{{Party shading/DFL}} |46DFL, 21IR<ref name="leg.state.mn.us"/>
+|{{Party shading/DFL}} |82DFL, 52IR<ref name="auto"/>
+|rowspan=4 {{Party shading/Democratic}} |[[Michael Dukakis|Dukakis]]/<br>[[Lloyd Bentsen|Bentsen]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1989
+|rowspan=2 {{Party shading/DFL}} |44DFL, 23IR<ref name="leg.state.mn.us"/>
+|{{Party shading/DFL}} |81DFL, 53IR
+|- style="height:2em"
+!1990
+|rowspan=2 {{Party shading/DFL}} |80DFL, 54IR<ref name="auto"/>
+|- style="height:2em"
+!1991
+|rowspan=8 {{Party shading/Republican}} |[[Arne Carlson]] {{small|(IR)}}
+|rowspan=4 {{Party shading/Republican}} |[[Joanell Dyrstad]] {{small|(IR)}}
+|rowspan=4 {{Party shading/DFL}} |[[Mark Dayton]] {{small|(DFL)}}
+|rowspan=2 {{Party shading/DFL}} |46DFL, 21IR
+|rowspan=12 {{Party shading/DFL}} |[[Paul Wellstone]] {{small|(DFL)}}{{efn |name=d}}
+|rowspan=10 {{Party shading/DFL}} |6DFL, 2R
+|- style="height:2em"
+!1992
+|{{Party shading/DFL}} |78DFL, 56IR<ref name="auto"/>
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/DFL}} |45DFL, 22IR
+|{{Party shading/DFL}} |87DFL, 47IR
+|- style="height:2em"
+!1994
+|{{Party shading/DFL}} |84DFL, 50IR
+|- style="height:2em"
+!1995
+|rowspan=4 {{Party shading/Republican}} |[[Joanne Benson]] {{small|(IR)}}
+|rowspan=5 {{Party shading/Republican}} |[[Judi Dutcher]] {{small|(IR)}}
+|{{Party shading/DFL}} |43DFL, 24IR
+|{{Party shading/DFL}} |71DFL, 63IR
+|rowspan=6 {{Party shading/Republican}} |[[Rod Grams]] {{small|(R)}}
+|- style="height:2em"
+!1996
+|{{Party shading/DFL}} |42DFL, 25R
+|{{Party shading/DFL}} |69DFL, 65R<ref name="auto"/>
+|- style="height:2em"
+!1997
+|rowspan=2 {{Party shading/DFL}} |42DFL, 24R, 1I
+|rowspan=2 {{Party shading/DFL}} |70DFL, 64R
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|{{Party shading/Reform}} |[[Jesse Ventura]] {{small|(Ref)}}
+|{{Party shading/Reform}} |[[Mae Schunk]] {{small|(Ref)}}
+|rowspan=5 {{Party shading/Republican}} |[[Mary Kiffmeyer]] {{small|(R)}}
+|rowspan=5 {{Party shading/DFL}} |[[Mike Hatch]] {{small|(DFL)}}
+|rowspan=5 {{Party shading/DFL}} |[[Carol C. Johnson]] {{small|(DFL)}}
+|{{Party shading/DFL}} |40DFL, 26R, 1I
+|{{Party shading/Republican}} |71R, 63DFL
+|- style="height:2em"
+!2000
+|rowspan=4 {{Party shading/Independence}} |[[Jesse Ventura]] {{small|(IPM)}}<ref>{{Cite web|title=Ventura Leaving Reform Party|url=https://www.washingtonpost.com/wp-srv/pmextra/feb00/11/aponline143732_000.htm|access-date=2021-06-05|website=www.washingtonpost.com}}</ref>
+|rowspan=4 {{Party shading/Independence}} |[[Mae Schunk]] {{small|(IPM)}}
+|rowspan=4 {{Party shading/DFL}} |[[Judi Dutcher]] {{small|(DFL)}}{{efn |Dutcher switched parties in 2000.}}
+|{{Party shading/DFL}} |41DFL, 25R, 1I{{efn |A series of special elections and party switches led to the composition in the 2000 session.<ref name="auto" />}}
+|{{Party shading/Republican}} |70R, 63DFL, 1I{{efn |A party switch from Republican to Independent by Doug Reuter led to the composition in the 2000 session.<ref name="auto" />}}
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2001
+|rowspan=3 {{Party shading/DFL}} |39DFL, 27R, 1IPM
+|{{Party shading/Republican}} |69R, 65DFL
+|rowspan=3 {{Party shading/DFL}} |[[Mark Dayton]] {{small|(DFL)}}
+|rowspan=3 {{Party shading/DFL}} |5DFL, 3R
+|- style="height:2em"
+!rowspan=2 |2002
+|rowspan=2 {{Party shading/Republican}} |70R, 64DFL<ref name="auto"/>
+|- style="height:2em"
+|{{Party shading/Independence}} |[[Dean Barkley]] {{small|(IPM)}}{{efn |name=app}}
+|}
+
+==2003–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[Minnesota Legislature|State Legislature]]
+!colspan=3 |[[Minnesota's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Minnesota|Governor]]
+!class=unsortable |[[Lieutenant Governor of Minnesota|Lt. Governor]]
+!class=unsortable |[[Minnesota Secretary of State|Secretary<br>of State]]
+!class=unsortable |[[Attorney General of Minnesota|Attorney<br>General]]
+!class=unsortable |[[Minnesota State Auditor|Auditor]]
+!class=unsortable |[[Minnesota Senate|State Senate]]
+!class=unsortable |[[Minnesota House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Minnesota|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Minnesota|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from Minnesota|U.S.<br>House]]
+|- style="height:2em"
+!2003
+|rowspan=10 {{Party shading/Republican}} |[[Tim Pawlenty]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Carol Molnau]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Mary Kiffmeyer]] {{small|(R)}}
+|rowspan=4 {{Party shading/DFL}} |[[Mike Hatch]] {{small|(DFL)}}
+|rowspan=4 {{Party shading/Republican}} |[[Patricia Anderson]] {{small|(R)}}
+|rowspan=3 {{Party shading/DFL}} |35DFL, 31R, 1IPM
+|rowspan=2 {{Party shading/Republican}} |81R, 53DFL
+|rowspan=4 {{Party shading/DFL}} |[[Mark Dayton]] {{small|(DFL)}}
+|rowspan=8 {{Party shading/Republican}} |[[Norm Coleman]] {{small|(R)}}
+|rowspan=4 {{Party shading/Tie}} |4DFL, 4R
+|
+|- style="height:2em"
+![[2004 Minnesota elections|2004]]
+|rowspan=5 {{Party shading/Democratic}} |[[John Kerry|Kerry]]/<br>[[John Edwards|Edwards]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |68R, 66DFL
+|- style="height:2em"
+![[2006 Minnesota elections|2006]]
+|{{Party shading/DFL}} |37DFL, 29R, 1IPM<ref name="leg.state.mn.us"/>
+|- style="height:2em"
+!rowspan=2 |2007
+|rowspan=10 {{Party shading/DFL}} |[[Mark Ritchie (politician)|Mark Ritchie]] {{small|(DFL)}}
+|rowspan=14 {{Party shading/DFL}} |[[Lori Swanson]] {{small|(DFL)}}
+|rowspan=14 {{Party shading/DFL}} |[[Rebecca Otto]] {{small|(DFL)}}
+|{{Party shading/DFL}} |44DFL, 23R
+|rowspan=3 {{Party shading/DFL}} |85DFL, 49R
+|rowspan=26 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |[[Amy Klobuchar]] {{small|(DFL)}}
+|rowspan=6 {{Party shading/DFL}} |5DFL, 3R
+|- style="height:2em"
+|rowspan=2 {{Party shading/DFL}} |44DFL, 22R{{efn |In December 2007, Republican Tom Neuville resigned to accept a District Court appointment.}}
+|- style="height:2em"
+!rowspan=2 |[[2008 Minnesota elections|2008]]
+|rowspan=9 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+|{{Party shading/DFL}} |45DFL, 22R{{efn |In January 2008, Democrat Kevin Dahle was elected in a special election to succeed Republican Tom Neuville.}}
+|{{Party shading/DFL}} |85DFL, 48R, 1IR{{efn |In July 2008, Republican incumbent [[Ron Erhardt (politician)|Ron Erhardt]] became an independent.}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/DFL}} |46DFL, 21R<ref name="leg.state.mn.us"/>
+|rowspan=2 {{Party shading/DFL}} |87DFL, 47R
+|rowspan=9 {{Party shading/DFL}} |[[Al Franken]] {{small|(DFL)}}{{efn |name=r}}
+|- style="height:2em"
+![[2010 Minnesota elections|2010]]
+|- style="height:2em"
+!2011
+|rowspan=8 {{Party shading/DFL}} |[[Mark Dayton]] {{small|(DFL)}}
+|rowspan=4 {{Party shading/DFL}} |[[Yvonne Prettner Solon]] {{small|(DFL)}}
+|rowspan=2 {{Party shading/Republican}} |37R, 30DFL
+|rowspan=2 {{Party shading/Republican}} |72R, 62DFL
+|rowspan=2 {{Party shading/Tie}} |4DFL, 4R
+|- style="height:2em"
+![[2012 Minnesota elections|2012]]
+|- style="height:2em"
+!2013
+|rowspan=4 {{Party shading/DFL}} |39DFL, 28R
+|rowspan=2 {{Party shading/DFL}} |73DFL, 61R
+|rowspan=8 {{Party shading/DFL}} |5DFL, 3R
+|- style="height:2em"
+![[2014 Minnesota elections|2014]]
+|- style="height:2em"
+!2015
+|rowspan=3 {{Party shading/DFL}} |[[Tina Smith]] {{small|(DFL)}}{{efn |name=rsen}}
+|rowspan=12 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |[[Steve Simon]] {{small|(DFL)}}
+|{{Party shading/Republican}} |72R, 62DFL
+|- style="height:2em"
+![[2016 Minnesota elections|2016]]
+|{{Party shading/Republican}} |73R, 61DFL<ref name="auto"/>
+|rowspan=4 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2017
+|{{Party shading/Republican}} |34R, 33DFL
+|{{Party shading/Republican}} rowspan=2 |77R, 57DFL
+|- style="height:2em"
+![[2018 Minnesota elections|2018]]
+|{{Party shading/Republican}} |[[Michelle Fischbach]] {{small|(R)}}{{efn |name=s}}
+|{{Party shading/Tie}} |33R, 33DFL
+|rowspan=9 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |[[Tina Smith]] {{small|(DFL)}}{{efn |name=appelec}}
+|- style="height:2em"
+!2019
+|rowspan=8 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |[[Tim Walz]] {{small|(DFL)}}
+|rowspan=8 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |[[Peggy Flanagan]] {{small|(DFL)}}
+|rowspan=8 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |[[Keith Ellison]] {{small|(DFL)}}
+|rowspan=8 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |[[Julie Blaha]] {{small|(DFL)}}
+|rowspan=2 {{Party shading/Republican}} |35R, 32DFL{{efn |A seat flipped from Democratic to Republican in February through a special election.<ref>{{cite web |last1=Van Oot |first1=Torey |title=Republican Jason Rarick wins Minnesota Senate seat vacated by Democrat |url=http://www.startribune.com/jason-rarick-and-stu-lourey-locked-in-tight-race-for-minnesota-senate-seat/505394902/ |website=Star Tribune |access-date=7 November 2020}}</ref>}}
+|rowspan=2 {{Party shading/DFL}} |75DFL, 59R{{efn |Four Republicans announced on December 8, 2018, they would not join the Republican caucus in the 91st Legislature and would instead form their own caucus, the "New House Republican Caucus."<ref>{{cite news |last1=Bakst |first1=Brian |title=Renegade House members split from GOP caucus |url=https://blogs.mprnews.org/capitol-view/2018/12/renegade-house-members-split-from-gop-caucus/ |access-date=September 8, 2019 |publisher=[[Minnesota Public Radio]] |date=December 8, 2018}}</ref>}}
+|- style="height:2em"
+![[2020 Minnesota elections|2020]]
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=2 {{Party shading/Republican}} |34R, 31DFL, 2I{{efn |[[Tom Bakk]] and [[David Tomassoni]] were re-elected as Democrats in the [[2020 Minnesota Senate election|2020 election]], but switched to Independent immediately after.|name=|group=}}
+|{{Party shading/DFL}} |70DFL, 64R{{efn |name=2021 caucus|Five Republicans do not caucus with the Republican minority, see note [an]}}
+|rowspan=6 {{Party shading/Tie/current}} |4DFL, 4R
+|- style="height:2em"
+![[2022 Minnesota elections|2022]]
+|{{Party shading/Minnesota Democratic–Farmer–Labor}} |69DFL, 64R, 1I{{efn |name=2022 caucus|In addition to the five Republicans that do not caucus with the Republic Minority, representative [[John Thompson (Minnesota politician)|John Thompson]] was expelled from the Democratic-Farmer-Labor caucus}}
+|- style="height:2em"
+!2023
+|rowspan=4 {{Party shading/Minnesota Democratic–Farmer–Labor/current}} |34DFL, 33R
+|rowspan=2 {{Party shading/Minnesota Democratic–Farmer–Labor}} |70DFL, 64R
+|- style="height:2em"
+![[2024 Minnesota elections|2024]]
+|rowspan=3 {{Party shading/Democratic}} |[[Kamala Harris|Harris]]/<br>[[Tim Walz|Walz]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2025
+!rowspan=2 {{Party shading/Tie}} |67R, 67DFL{{efn |Elected a Republican speaker.}}
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[Minnesota#Politics|Politics in Minnesota]]
+*[[Politics of Minnesota]]
+*[[List of political parties in Minnesota]]
+
+==References==
+{{reflist}}
+
+{{MinnesotaPoliticalParties}}
+{{Political party strength in U.S. states|state=expanded}}
+
+{{DEFAULTSORT:Political Party Strength In Minnesota}}
+[[Category:Politics of Minnesota]]
+[[Category:Government of Minnesota]]
+[[Category:Political party strength in the United States by state|Minnesota]]
+[[Category:Political parties in Minnesota|*Strength]]

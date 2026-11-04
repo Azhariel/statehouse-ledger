@@ -1,0 +1,734 @@
+{{Short description|Politics in the US state of Wyoming}}
+The following tables indicate the historic party affiliation of elected officials in the [[U.S. state]] of [[Wyoming]] including: 
+*[[List of governors of Wyoming|Governor]]
+*[[Secretary of State of Wyoming|Secretary of State]]
+*State Auditor
+*State Treasurer
+*Superintendent of Public Instruction
+The tables also indicate the historical party composition in the:
+*[[Wyoming Senate|State Senate]]
+*[[Wyoming House of Representatives|State House of Representatives]]
+*[[List of United States senators from Wyoming|State delegation to the United States Senate]]
+*[[List of United States representatives from Wyoming|State delegation to the United States House of Representatives]]
+For years in which a [[United States presidential election]] was held, the tables indicate which party's nominees received the State's electoral votes. Prior to statehood in 1889, there were fewer elected offices, as indicated.
+
+==Wyoming Territory==
+{|class="wikitable" style="text-align:center"
+!rowspan=2 |Year
+!colspan=2 |Executive offices
+![[Wyoming's congressional delegations|U.S. Congress]]
+|- style="height:2em"
+![[List of governors of Wyoming|Governor]]
+![[Secretary of State of Wyoming|Secretary of State]]
+![[List of United States representatives from Wyoming|U.S. House (non-voting member)]]
+|- style="height:2em"
+!1869
+|rowspan=6 {{Party shading/Republican}} |[[John Allen Campbell]] {{small|(R)}}{{efn |name=terr|Of [[Wyoming Territory]].}}
+|{{Party shading/Republican}} |[[Edward Merwin Lee]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Stephen Friel Nuckolls]] {{small|(D)}}
+|- style="height:2em"
+!1870
+|rowspan=3 {{Party shading/Republican}} |[[Herman Glafcke]] {{small|(R)}}
+|- style="height:2em"
+!1871
+|rowspan=2 {{Party shading/Republican}} | [[William Theopilus Jones]] {{small|(R)}}
+|- style="height:2em"
+!1872
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Democratic}} |[[Jason B. Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William Randolph Steele]] {{small|(D)}}
+|- style="height:2em"
+!1874
+|- style="height:2em"
+!1875
+|rowspan=3 {{Party shading/Republican}} |[[John Milton Thayer]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[George W. French]] {{small|(R)}}
+|- style="height:2em"
+!1876
+|- style="height:2em"
+!1877
+|rowspan=2 {{Party shading/Republican}} |[[William Wellington Corlett]] {{small|(R)}}
+|- style="height:2em"
+!1878
+|rowspan=4 {{Party shading/Republican}} |[[John Wesley Hoyt]] {{small|(R)}}
+|- style="height:2em"
+!1879
+|{{Party shading/Republican}} |[[Albertis Worth Spates]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Stephen Wheeler Downey]] {{small|(R)}}
+|- style="height:2em"
+!1880
+|rowspan=9 {{Party shading/Republican}} |[[Elliot S. N. Morgan]] {{small|(R)}}
+|- style="height:2em"
+!1881
+|rowspan=4 {{Party shading/Democratic}} |[[Morton Everel Post]] {{small|(D)}}
+|- style="height:2em"
+!1882
+|rowspan=3 {{Party shading/Republican}} |[[William Hale (Wyoming politician)|William Hale]] {{small|(R)}}
+|- style="height:2em"
+!1883
+|- style="height:2em"
+!1884
+|- style="height:2em"
+!rowspan=2 |1885
+|{{Party shading/Republican}} |[[Elliot S. N. Morgan]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Joseph M. Carey]] {{small|(R)}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Francis E. Warren]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1886
+|{{Party shading/Democratic}} |[[George W. Baxter]] {{small|(D)}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Elliot S. N. Morgan]] {{small|(R)}}
+|- style="height:2em"
+!1887
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas Moonlight]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel D. Shannon]] {{small|(D)}}
+|- style="height:2em"
+!1888
+|- style="height:2em"
+!1889
+|{{Party shading/Republican}} |[[Francis E. Warren]] {{small|(R)}}
+|{{Party shading/Republican}} |[[John W. Meldrum]] {{small|(R)}}
+|- style="height:2em"
+|}
+
+==State of Wyoming==
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=5 |Executive offices
+!colspan=2 |[[Wyoming Legislature|State Legislature]]
+!colspan=3 |[[Wyoming's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Wyoming|Governor]]
+!class=unsortable |[[Secretary of State of Wyoming|Secretary<br>of State]]
+!class=unsortable |Auditor
+!class=unsortable |Treasurer
+!class=unsortable |Supt. of Pub. Inst.
+!class=unsortable |[[Wyoming Senate|State Senate]]
+!class=unsortable |[[Wyoming House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Wyoming|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Wyoming|U.S. Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from Wyoming|U.S. House]]
+|- style="height:2em"
+!rowspan=2 |1890
+|{{Party shading/Republican}} |[[Francis E. Warren]] {{small|(R)}}{{efn |name=res-senate|Resigned to take an elected seat in the [[United States Senate]].}}
+|rowspan=6 {{Party shading/Republican}} |[[Amos W. Barber]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Charles W. Burdick|Charles W.<br>Burdick]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Otto Gramm]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Stephen H. Farwell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |13R, 3D
+|rowspan=4 {{Party shading/Republican}} |26R, 7D
+|rowspan=5 {{party shading/Republican}} |[[Francis E. Warren]] {{small|(R)}}
+|rowspan=6 {{party shading/Republican}} |[[Joseph M. Carey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Clarence D. Clark|Clarence D.<br>Clark]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Republican}} |[[Amos W. Barber]] {{small|(R)}}{{efn |name=ssacted|As state secretary of state, acted as governor.}}
+|- style="height:2em"
+!1891
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Whitelaw Reid|Reid]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{Party shading/Democratic}} |[[John Eugene Osborne|John Eugene<br>Osborne]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |11R, 5D
+|rowspan=2 {{Party shading/Fusion}} |16D, 12R, 5Pop{{efn |A coalition of Democrats and Populists elected a Populist, L.C. Tidball, as Speaker, and organized the chamber.}}
+|rowspan=2 {{Party shading/Democratic}} |[[Henry A. Coffeen|Henry A.<br>Coffeen]] {{small|(D)}}
+|- style="height:2em"
+!1894
+|''vacant''
+|- style="height:2em"
+!1895
+|rowspan=4 {{Party shading/Republican}} |[[William A. Richards]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Charles W.<br>Burdick {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William O. Owen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Henry G. Hay]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Estelle Reel]] {{small|(R)}}{{efn |name=res|Resigned.}}
+|rowspan=2 {{Party shading/Republican}} |14R, 4D
+|rowspan=2 {{Party shading/Republican}} |34R, 2D, 1Pop
+|rowspan=22 {{party shading/Republican}} |[[Clarence D. Clark]] {{small|(R)}}
+|rowspan=34 {{party shading/Republican}} |[[Francis E. Warren]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Frank W. Mondell|Frank W.<br>Mondell]] {{small|(R)}}
+|- style="height:2em"
+!1896
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Republican}} |14R, 4D, 1SvD
+|rowspan=2 {{Party shading/Republican}} |23R, 11D, 3Fus, 1Pop
+|rowspan=2 {{Party shading/Democratic}} |[[John Eugene Osborne|John Eugene<br>Osborne]] {{small|(D)}}
+|- style="height:2em"
+!1898
+|{{Party shading/Democratic}} |[[Charles Henry Parmelee (politician)|Charles Parmelee]] {{small|(D)}}{{efn |name=app|Appointed to fill vacancy.}}
+|- style="height:2em"
+!1899
+|rowspan=4 {{Party shading/Republican}} |[[DeForest Richards]] {{small|(R)}}{{efn |name=died|Died in office.}}
+|rowspan=8 {{Party shading/Republican}} |[[Fenimore Chatterton|Fenimore<br>Chatterton]] {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |[[LeRoy Grant]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[George E. Abbott]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Thomas T. Tynan]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |13R, 6D
+|rowspan=2 {{Party shading/Republican}} |35R, 3D
+|rowspan=24 {{Party shading/Republican}} |[[Frank W. Mondell|Frank W.<br>Mondell]] {{small|(R)}}
+|- style="height:2em"
+!1900
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Republican}} |16R, 2D, 1Pop
+|rowspan=2 {{Party shading/Republican}} |36R, 2D
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=2 {{Party shading/Republican}} |[[Fenimore Chatterton|Fenimore<br>Chatterton]] {{small|(R)}}{{efn |name=ssacted}}
+|rowspan=4 {{Party shading/Republican}} |[[William C. Irvine (politician)|William C.<br>Irvine]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 2D
+|rowspan=2 {{Party shading/Republican}} |46R, 4D
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1905
+|rowspan=6 {{Party shading/Republican}} |[[Bryant Butler Brooks|Bryant Butler<br>Brooks]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 3D
+|rowspan=2 {{Party shading/Republican}} |47R, 3D
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=4 {{Party shading/Republican}} |[[William Schnitger]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Edward H. Gillette]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Archibald D. Cook]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 2D
+|rowspan=2 {{Party shading/Republican}} |45R, 5D
+|- style="height:2em"
+!1908
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{Party shading/Republican}} |24R, 3D
+|rowspan=2 {{Party shading/Republican}} |49R, 7D
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=1 {{Party shading/Democratic}} |[[Joseph M. Carey]] {{small|(D)}}{{efn |Helped to organize the national [[Progressive Party (United States, 1912)|Progressive Party]] in 1912.}}
+|rowspan=8 {{Party shading/Democratic}} |[[Frank L. Houx]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |[[Robert B. Forsyth]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |John L. Baird {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Rose A. Bird Maley|Rose A.<br>Bird Maley]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 6D
+|rowspan=2 {{Party shading/Republican}} |31R, 25D
+|- style="height:2em"
+!1912
+|rowspan=3 {{Party shading/Bull Moose}} |[[Joseph M. Carey]] {{small|(Prog)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1913
+|rowspan=2 {{Party shading/Republican}} |19R, 8D
+|rowspan=2 {{Party shading/Republican}} |29R, 28D
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Democratic}} |[[John B. Kendrick]] {{small|(D)}}{{efn |name=res-senate}}
+|rowspan=4 {{Party shading/Republican}} |[[Herman B. Gates]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Edith K. O. Clark]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 9D
+|rowspan=2 {{Party shading/Republican}} |42R, 15D
+|- style="height:2em"
+!1916
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1917
+|rowspan=2 {{Party shading/Democratic}} |[[Frank L. Houx]] {{small|(D)}}{{efn |name=ssacted}}
+|rowspan=2 {{Party shading/Republican}} |16R, 11D
+|rowspan=2 {{Party shading/Republican}} |32R, 25D
+|rowspan=17 {{party shading/Democratic}} |[[John B. Kendrick]] {{small|(D)}}
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=4 {{Party shading/Republican}} |[[Robert D. Carey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William E. Chaplin]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[I. C. Jefferis]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[A. D. Hoskins]] {{small|(R)}}
+|rowspan=16 {{Party shading/Republican}} |[[Katherine A. Morton|Katherine A.<br>Morton]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 10D
+|rowspan=2 {{Party shading/Republican}} |43R, 11D
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Republican}} |22R, 3D
+|rowspan=2 {{Party shading/Republican}} |53R, 1D
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|{{Party shading/Democratic}} |[[William B. Ross]] {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Republican}} |[[Frank Lucas (Wyoming politician)|Frank Lucas]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Vincent Carter]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John M. Snyder]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 5D
+|rowspan=2 {{Party shading/Republican}} |37R, 23D
+|rowspan=6 {{Party shading/Republican}} |[[Charles E. Winter]] {{small|(R)}}
+|- style="height:2em"
+!1924
+|{{Party shading/Republican}} |[[Frank Lucas (Wyoming politician)|Frank Lucas]] {{small|(R)}}{{efn |name=ssacted}}
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Democratic}} |[[Nellie Tayloe Ross]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 11D
+|rowspan=2 {{Party shading/Republican}} |39R, 23D
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=4 {{Party shading/Republican}} |[[Frank Emerson]] {{small|(R)}}{{efn |name=died}}
+|rowspan=8 {{Party shading/Republican}} |[[Alonzo M. Clark]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William H. Edelman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 12D
+|rowspan=2 {{Party shading/Republican}} |45R, 17D
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1929
+|rowspan=6 {{Party shading/Republican}} |[[Roscoe Alcorn]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 10D
+|rowspan=2 {{Party shading/Republican}} |51R, 11D
+|{{party shading/Republican}} |[[Patrick Joseph Sullivan|Patrick J. Sullivan]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Vincent Carter]] {{small|(R)}}
+|- style="height:2em"
+!1930
+|rowspan=7 {{party shading/Republican}} |[[Robert D. Carey]] {{small|(R)}}
+|- style="height:2em"
+!1931
+|rowspan=2 {{Party shading/Republican}} |[[Alonzo M. Clark]] {{small|(R)}}{{efn |name=ssacted}}
+|rowspan=4 {{Party shading/Republican}} |[[Harry R. Weston]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 6D
+|rowspan=2 {{Party shading/Republican}} |36R, 26D
+|- style="height:2em"
+!1932
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1933
+|rowspan=6 {{Party shading/Democratic}} |[[Leslie A. Miller]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |15R, 12D
+|rowspan=2 {{Party shading/Democratic}} |42D, 20R
+|- style="height:2em"
+!1934
+|rowspan=20 {{party shading/Democratic}} |[[Joseph C. O'Mahoney|Joseph C.<br>O'Mahoney]] {{small|(D)}}
+|- style="height:2em"
+!1935
+|rowspan=8 {{Party shading/Democratic}} |[[Lester C. Hunt]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[William M. Jack]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[J. Kirk Baldwin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jack R. Gage]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |14D, 13R
+|rowspan=4 {{Party shading/Democratic}} |38D, 18R
+|rowspan=4 {{Party shading/Democratic}} |[[Paul Ranous Greever|Paul Ranous<br>Greever]] {{small|(D)}}
+|- style="height:2em"
+!1936
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1937
+|rowspan=2 {{Party shading/Democratic}} |16D, 11R
+|rowspan=6 {{party shading/Democratic}} |[[Harry Schwartz (U.S. senator)|Harry Schwartz]] {{small|(D)}}
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Republican}} |[[Nels H. Smith]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Mart T. Christensen]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Esther L. Anderson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |16R, 11D
+|rowspan=2 {{Party shading/Republican}} |37R, 19D
+|rowspan=2 {{Party shading/Republican}} |[[Frank O. Horton]] {{small|(R)}}
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1941
+|rowspan=2 {{Party shading/Coalition}} |28R, 28D{{efn |Elected a Democrat, Carl Robinson, as Speaker.}}
+|rowspan=2 {{Party shading/Democratic}} |[[John J. McIntyre (politician)|John J. McIntyre]] {{small|(D)}}
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=7 {{Party shading/Democratic}} |[[Lester C. Hunt]] {{small|(D)}}{{efn |name=res-senate}}
+|{{Party shading/Republican}} |Mart T. Christensen {{small|(R)}}{{efn |name=died}}
+|rowspan=5 {{Party shading/Republican}} |Earl Wright {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |17R, 10D
+|rowspan=3 {{Party shading/Republican}} |39R, 17D
+|rowspan=7 {{party shading/Republican}} |[[Edward V. Robertson|Edward V.<br>Robertson]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Frank A. Barrett]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1944
+|rowspan=4 {{Party shading/Democratic}} |[[William M. Jack]] {{small|(D)}}{{efn |name=app}}
+|{{Party shading/Democratic}} |[[Carl Robinson (politician)| Carl Robinson]] {{small|(D)}}{{efn |name=app}}
+|rowspan=5 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[John W. Bricker|Bricker]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[John J. McIntyre (politician)|John J.<br>McIntyre]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!1945
+|rowspan=2 {{Party shading/Republican}} |21R, 6D
+|rowspan=2 {{Party shading/Republican}} |35R, 20D
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=4 {{Party shading/Republican}} |[[Arthur G. Crane]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Everett T. Copenhaver|Everett T.<br>Copenhaver]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Clifford Joy Rogers|Clifford Joy<br>Rogers]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Edna B. Stolt]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 8D
+|rowspan=2 {{Party shading/Republican}} |44R, 12D
+|- style="height:2em"
+!1948
+|rowspan=4 {{party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1949
+|rowspan=2 {{Party shading/Republican}} |[[Arthur G. Crane]] {{small|(R)}}{{efn |name=ssacted}}
+|rowspan=2 {{Party shading/Republican}} |18R, 9D
+|rowspan=2 {{Party shading/Coalition}} |28R, 28D{{efn |Elected a Republican, Herman D. Mayland, as Speaker.}}
+|rowspan=5 {{party shading/Democratic}} |[[Lester C. Hunt]] {{small|(D)}}
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Republican}} |[[Frank A. Barrett]] {{small|(R)}}{{efn |name=res-senate}}
+|rowspan=5 {{Party shading/Republican}} |[[Clifford Joy Rogers|Clifford Joy<br>Rogers]] {{small|(R)}}
+|{{Party shading/Republican}} |J. R. Mitchell {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |17R, 10D
+|rowspan=2 {{Party shading/Republican}} |39R, 17D
+|rowspan=5 {{Party shading/Republican}} |[[William Henry Harrison III|William Henry<br>Harrison III]] {{small|(R)}}
+|- style="height:2em"
+!1952
+|rowspan=4 {{Party shading/Republican}} |[[Minnie A. Mitchell]] {{small|(R)}}{{efn |name=app-elec|Initially appointed to fill vacancy; later elected in his or her own right.}}
+|rowspan=5 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1953
+|rowspan=3 {{Party shading/Republican}} |[[Clifford Joy Rogers|Clifford Joy<br>Rogers]] {{small|(R)}}{{efn |name=ssacted}}
+|rowspan=3 {{Party shading/Republican}} |21R, 6D
+|rowspan=3 {{Party shading/Republican}} |45R, 11D
+|rowspan=7 {{party shading/Republican}} |[[Frank A. Barrett]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1954
+|{{party shading/Republican}} |[[Edward D. Crippa]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=7 {{party shading/Democratic}} |[[Joseph C. O'Mahoney|Joseph C.<br>O'Mahoney]] {{small|(D)}}
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Republican}} |[[Milward Simpson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Everett T.<br>Copenhaver {{small|(R)}}
+|rowspan=12 {{Party shading/Republican}} |Minnie A. Mitchell {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles B. Morgan]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Velma Linford]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 8D
+|rowspan=2 {{Party shading/Republican}} |32R, 24D
+|rowspan=6 {{Party shading/Republican}} |[[Keith Thomson (politician)|Keith Thomson]] {{small|(R)}}
+|- style="height:2em"
+!1956
+|rowspan=4 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1957
+|rowspan=4 {{Party shading/Republican}} |16R, 11D
+|rowspan=2 {{Party shading/Republican}} |30R, 26D
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=2 {{Party shading/Democratic}} |[[Joe Hickey (politician)|Joe Hickey]] {{small|(D)}}{{efn |Resigned to take an appointed seat in the United States Senate.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Jack R. Gage]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |Clifford Joy<br>Rogers {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |30D, 26R
+|rowspan=18 {{party shading/Democratic}} |[[Gale W. McGee]] {{small|(D)}}
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1961
+|rowspan=2 {{Party shading/Democratic}} |[[Jack R. Gage]] {{small|(D)}}{{efn |name=ssacted}}
+|rowspan=2 {{Party shading/Republican}} |17R, 10D
+|rowspan=2 {{Party shading/Republican}} |35R, 21D
+|{{party shading/Democratic}} |[[Joe Hickey (politician)|Joe Hickey]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[William Henry Harrison III|William Henry<br>Harrison III]] {{small|(R)}}
+|- style="height:2em"
+!1962
+|{{Party shading/Republican}} |[[Richard J. Luman]] {{small|(R)}}{{efn |As deputy state treasurer, assumed the duties of treasurer.}}
+|rowspan=5 {{party shading/Republican}} |[[Milward Simpson]] {{small|(R)}}
+|- style="height:2em"
+!1963
+|rowspan=4 {{Party shading/Republican}} |[[Clifford Hansen]] {{small|(R)}}
+|rowspan=24 {{Party shading/Republican}} |[[Thyra Thomson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Everett T.<br>Copenhaver {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Cecil M. Shaw]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 11D
+|rowspan=2 {{Party shading/Republican}} |37R, 19D
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Republican}} |13R, 12D
+|rowspan=2 {{Party shading/Democratic}} |34D, 27R
+|rowspan=2 {{Party shading/Democratic}} |[[Teno Roncalio]] {{small|(D)}}
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=8 {{Party shading/Republican}} |[[Stanley K. Hathaway|Stanley K.<br>Hathaway]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |Everett T.<br>Copenhaver {{small|(R)}}{{efn |name=res}}
+|rowspan=4 {{Party shading/Republican}} |Minnie A. Mitchell {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Harry Roberts {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |18R, 12D
+|rowspan=2 {{Party shading/Republican}} |34R, 27D
+|rowspan=12 {{party shading/Republican}} |[[Clifford Hansen]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[William Henry Harrison III|William Henry<br>Harrison III]] {{small|(R)}}
+|- style="height:2em"
+!1968
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Republican}} |45R, 16D
+|rowspan=2 {{Party shading/Republican}} |[[John S. Wold]] {{small|(R)}}
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=4 {{Party shading/Republican}} |[[James B. Griffith (auditor)|James B.<br>Griffith]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Robert G. Schrader|Robert G.<br>Schrader]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |19R, 11D
+|rowspan=2 {{Party shading/Republican}} |40R, 20D, 1I
+|rowspan=8 {{Party shading/Democratic}} |[[Teno Roncalio]] {{small|(D)}}
+|- style="height:2em"
+!1972
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Republican}} |[[Edwin J. Witzenburger|Edwin J.<br>Witzenburger]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=2 {{Party shading/Republican}} |44R, 17D, 1I
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=12 {{Party shading/Democratic}} |[[Edgar Herschler]] {{small|(D)}}
+|rowspan=12 {{Party shading/Republican}} |James B. Griffith {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Edwin J.<br>Witzenburger {{small|(R)}}
+|rowspan=2 {{Party shading/Coalition}} |15R, 15D{{efn |With a coin flip, the Democrats received the Senate Presidency under J.W. Myers, and control of committees alternated between each party also with a coin flip for the first committee.<ref>{{Cite book|last=Loepp|first=Daniel|url=https://books.google.com/books?id=tv4iztWcOnkC&dq=wyoming%2520tied%2520senate%25201975&pg=PA24|title=Sharing the Balance of Power: An Examination of Shared Power in the Michigan House of Representatives, 1993-94|date=1999|publisher=University of Michigan Press|isbn=978-0-472-09702-9|language=en|page=24}}</ref>}}
+|rowspan=4 {{Party shading/Republican}} |32R, 29D, 1I
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{Nay}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Republican}} |18R, 12D
+|rowspan=18 {{party shading/Republican}} |[[Malcolm Wallop]] {{small|(R)}}
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Republican}} |[[Shirley Wittler]] {{small|(R)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Lynn Simons]] {{small|(D)}}
+|rowspan=12 {{Party shading/Republican}} |19R, 11D
+|rowspan=2 {{Party shading/Republican}} |42R, 20D
+|rowspan=18 {{party shading/Republican}} |[[Alan Simpson (American politician)|Alan Simpson]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Dick Cheney]] {{small|(R)}}{{efn |name=res}}
+|- style="height:2em"
+!1980
+|rowspan=4 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Republican}} |39R, 23D
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=16 {{Party shading/Republican}} |[[Stan Smith (politician)|Stan Smith]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |38R, 25D, 1I
+|- style="height:2em"
+!1984
+|rowspan=4 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1985
+|rowspan=2 {{Party shading/Republican}} |46R, 18D
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=8 {{Party shading/Democratic}} |[[Mike Sullivan (Wyoming politician)|Mike Sullivan]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Kathy Karpan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jack Sidi]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |44R, 20D
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1989
+|rowspan=2 {{Party shading/Republican}} |43R, 21D
+|rowspan=6 {{Party shading/Republican}} |[[Craig L. Thomas]] {{small|(R)}}
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=8 {{Party shading/Republican}} |[[Dave Ferrari]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Diana Ohman]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |20R, 10D
+|rowspan=2 {{Party shading/Republican}} |42R, 22D
+|- style="height:2em"
+!1992
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Republican}} |41R, 19D
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=8 {{Party shading/Republican}} |[[Jim Geringer]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Diana Ohman]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Judy Catchpole]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |47R, 13D
+|rowspan=13 {{Party shading/Republican}} |[[Craig L. Thomas]] {{small|(R)}}{{efn |name=died}}
+|rowspan=15 {{Party shading/Republican}} |[[Barbara Cubin]] {{small|(R)}}
+|- style="height:2em"
+!1996
+|rowspan=4 {{Party shading/Republican}} |[[Bob Dole|Dole]]/<br>[[Jack Kemp|Kemp]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1997
+|rowspan=4 {{Party shading/Republican}} |21R, 9D
+|rowspan=4 {{Party shading/Republican}} |43R, 17D
+|rowspan=25 {{Party shading/Republican}} |[[Mike Enzi]] {{small|(R)}}
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=8 {{Party shading/Republican}} |[[Joseph Meyer (Wyoming politician)|Joseph Meyer]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Max Maxfield]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Cynthia Lummis]] {{small|(R)}}
+|- style="height:2em"
+!2000
+|rowspan=4 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!2001
+|rowspan=4 {{Party shading/Republican}} |20R, 10D
+|rowspan=2 {{Party shading/Republican}} |46R, 14D
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=9 {{Party shading/Democratic}} |[[Dave Freudenthal]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Trent Blankenship]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |45R, 15D
+|- style="height:2em"
+!2004
+|rowspan=5 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!2005
+|rowspan=7 {{Party shading/Republican}} |23R, 7D
+|rowspan=2 {{Party shading/Republican}} |46R, 14D
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!rowspan=2 |2007
+|rowspan=9 {{Party shading/Republican}} |[[Max Maxfield]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Rita Meyer]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Joseph Meyer (Wyoming politician)|Joseph Meyer]] {{small|(R)}}{{efn |name=died}}
+|rowspan=5 {{Party shading/Republican}} |[[Jim McBride (Wyoming politician)|Jim McBride]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |43R, 17D
+|- style="height:2em"
+|rowspan=20 {{Party shading/Republican/current}} |[[John Barrasso]] {{small|(R)}}{{efn |name=app-elec}}
+|- style="height:2em"
+!2008
+|rowspan=4 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/Republican}} |41R, 19D
+|rowspan=8 {{Party shading/Republican}} |[[Cynthia Lummis]] {{small|(R)}}
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=8 {{Party shading/Republican}} |[[Matt Mead]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Cynthia Cloud]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Cindy Hill {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |26R, 4D
+|rowspan=2 {{Party shading/Republican}} |50R, 10D
+|- style="height:2em"
+!2012
+|rowspan=4 {{Party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!2013
+|rowspan=6 {{Party shading/Republican}} |[[Mark Gordon]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |52R, 8D
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=3 {{party shading/Republican}} |[[Ed Murray (Wyoming politician)|Ed Murray]] {{small|(R)}}{{efn |name=res}}
+|rowspan=8 {{party shading/Republican}} |[[Jillian Balow]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |51R, 9D
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!2017
+|rowspan=4 {{party shading/Republican}} |27R, 3D
+|rowspan=6 {{party shading/Republican}} |[[Liz Cheney]] {{small|(R)}}
+|- style="height:2em"
+!2018
+|rowspan=5 {{Party shading/Republican}} |[[Edward Buchanan|Edward<br>Buchanan]] {{small|(R)}}{{efn |name=app}}{{efn |[[Karen Wheeler (Wyoming politician)|Karen Wheeler]] (R) served as Acting Secretary of State from February 9–March 1, 2018 between Murray's resignation and Buchanan's appointment.}}
+|- style="height:2em"
+!2019
+|rowspan=8 {{Party shading/Republican/current}} |[[Mark Gordon]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican/current}} |[[Kristi Racines]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican/current}} |[[Curt Meier]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |50R, 9D, 1I
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!2021
+|rowspan=6 {{Party shading/Republican/current}} |28R, 2D
+|rowspan=2 {{Party shading/Republican}} |51R, 7D, 1L, 1I
+|rowspan=6 {{Party shading/Republican/current}} |[[Cynthia Lummis]] {{small|(R)}}
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=4 {{Party shading/Republican/current}} |[[Chuck Gray (Wyoming politician)|Chuck Gray]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |[[Megan Degenfelder]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |57R, 5D
+|rowspan=4 {{Party shading/Republican/current}} |[[Harriet Hageman]] {{small|(R)}}
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |56R, 6D
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==Notes==
+{{reflist}}
+
+==See also==
+*[[Wyoming#Government and politics|Politics in Wyoming]]
+
+{{political party strength in U.S. states|state=expanded}}
+
+[[Category:government of Wyoming]]
+[[Category:political party strength in the United States by state|Wyoming]]
+[[Category:politics of Wyoming]]

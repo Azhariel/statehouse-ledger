@@ -1,0 +1,731 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+[[File:Seal of the Governor of Maine.svg|thumb|right|200px|[[Seals of governors of the U.S. states and territories|Seal]] of the [[governor of Maine]]]]
+[[File:BlaineHouse1.JPG|thumb|200px|[[Blaine House]] is the official residence of the governor of Maine. The Executive Mansion was officially declared the residence of the governor in 1919 with the name "The Blaine House". It is located in Augusta, Maine, across the street from the Maine State House.]]
+{{History of Maine}}
+
+The [[governor of Maine]] is the [[head of government]] of [[Maine]]. There have been 71 governors since statehood, serving 75 distinct terms. Four governors served multiple non-consecutive terms ([[Edward Kent]], [[John Fairfield]], [[John W. Dana]], and [[Burton M. Cross]]). The longest-serving governor was [[Joseph E. Brennan]], who served two terms from 1979 to 1987. The shortest-serving governors were [[Nathaniel M. Haskell]] and [[Richard H. Vose]], who each served only one day. [[John W. Dana]] also served for one day in 1844, after the incumbent governor resigned, but was later elected to the governorship. The current governor is Democrat [[Janet Mills]], who took office on January 2, 2019.
+
+==Governors==
+The [[District of Maine]] of [[Massachusetts]] was [[Admission to the Union|admitted to the Union]] on March 15, 1820, as the State of Maine.<ref>{{usstat|3|544}}</ref>
+The [[Constitution of Maine|Maine Constitution]] of 1820 originally established a gubernatorial term of one year,{{sfn|Thorpe|1909|p=1656|loc=1820 art. V, pt. 1, § 2}} to begin on the first Wednesday of January; constitutional amendments expanded this to two years in 1879{{sfn|Thorpe|1909|p=1665|loc=1820 art. XXIII}} and to four years in 1957. The 1957 amendment also prohibited governors from succeeding themselves after serving two terms.<ref name="amends">{{cite web |url=https://www.maine.gov/legis/lawlib/lldl/constitutionalamendments/ |title=Maine Constitutional Amendments |access-date=October 28, 2026 |archive-url=https://web.archive.org/web/20260907151615/https://www.maine.gov/legis/lawlib/lldl/constitutionalamendments/ |archive-date=September 7, 2026 |url-status=live |website=[[Maine Legislature]]}}</ref> The constitution does not establish an office of [[lieutenant governor (United States)|lieutenant governor]]; a vacancy in the office of governor is filled by the president of the [[Maine Senate]], who, prior to an amendment in 1964,<ref name="amends" /> only acted as governor.{{sfn|Thorpe|1909|p=1657|loc=1820 art. V, pt. 1, § 14}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Maine
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|name=count}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="King, William"|[[File:Governor William King in 1806.png|75px]]
+|rowspan="14" style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[William King (Maine governor)|William King]]'''<br>{{small|(1768–1852)}}<br>{{sfn|Sobel|1978|p=595}}<ref name="nga-king-william">{{cite web |title=William King |url=https://www.nga.org/governor/william-king/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710225236/https://www.nga.org/governor/william-king/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="363"|May 31, 1820<ref>{{Cite news |publication-date=June 6, 1820 |date=June 3, 1820 |title=General Election |page=1 |newspaper=Portland Gazette |url=https://www.newspapers.com/article/the-portland-gazette-king-inaugurated-ma/131070855/ |archive-url=https://web.archive.org/web/20230902045320/https://www.newspapers.com/article/the-portland-gazette-king-inaugurated-ma/131070855/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 28, 1821<br>{{small|(363 days; resigned)}}{{efn|King resigned to be a commissioner for the adjustment of [[Spain|Spanish]] claims in [[Spanish Florida|Florida]].{{sfn|Sobel|1978|p=595}}}}
+|[[Democratic-Republican Party|Democratic–<br>Republican]]{{sfn|Dubin|2003|p=87}}
+|[[1820 Maine gubernatorial election|1820]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Williamson, William"|[[File:William Durkee Williamson.jpg|75px]]
+|'''[[William D. Williamson]]'''<br>{{small|(1779–1846)}}<br>{{sfn|Sobel|1978|p=596}}<ref name="nga-williamson">{{cite web |title=William Durkee Williamson |url=https://www.nga.org/governor/william-durkee-williamson/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517080401/https://www.nga.org/governor/william-durkee-williamson/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|data-sort-value="212"|May 28, 1821<ref>{{Cite news |date=May 29, 1821 |title=none |quote=The Hon. William D. Williamson President of the Senate upon whom the duties of Governour devolve by the constitution... |page=2 |newspaper=Portland Gazette |url=https://www.newspapers.com/article/the-portland-gazette-williamson-succeeds/131070896/ |archive-url=https://web.archive.org/web/20230902045320/https://www.newspapers.com/article/the-portland-gazette-king-inaugurated-ma/131070855/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 25, 1821<br>{{small|(212 days; resigned)}}{{efn|Williamson resigned, having been [[1820–1821 United States House of Representatives elections in Maine|elected]] to the [[United States House of Representatives]].{{sfn|Sobel|1978|p=596}}}}
+|[[Democratic-Republican Party|Democratic–<br>Republican]]{{sfn|Kallenbach|1977|p=233}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Ames, Benjamin"|[[File:No image.svg|75px]]
+|'''[[Benjamin Ames]]'''<br>{{small|(1778–1835)}}<br>{{sfn|Sobel|1978|p=596}}<ref name="nga-ames">{{cite web |title=Benjamin Ames |url=https://www.nga.org/governor/benjamin-ames/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510105117/https://www.nga.org/governor/benjamin-ames/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|data-sort-value="9"|December 25, 1821{{sfn|Kallenbach|1977|p=233}}<br/>–<br/>January 2, 1822<br>{{small|(9 days; resigned)}}{{efn|Ames felt that, with a new [[Maine Senate]], the new president of the Senate should take office, and resigned upon Daniel Rose being elected.<ref name="ames-rose">{{Cite news |date=January 4, 1822 |title=Legislature of Maine |page=2 |newspaper=Portland Gazette |url=https://www.newspapers.com/article/the-portland-gazette-benjamin-ames-resig/120092702/ |archive-url=https://web.archive.org/web/20230927193252/https://www.newspapers.com/article/120092702/benjamin-ames-resigns/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|[[Democratic-Republican Party|Democratic–<br>Republican]]{{sfn|Kallenbach|1977|p=233}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the House<br>acting}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Rose, Daniel"|[[File:No image.svg|75px]]
+|'''[[Daniel Rose (politician)|Daniel Rose]]'''<br>{{small|(1772–1833)}}<br>{{sfn|Sobel|1978|p=597}}<ref name="nga-rose">{{cite web |title=Daniel Rose |url=https://www.nga.org/governor/daniel-rose/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606080146/https://www.nga.org/governor/daniel-rose/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="3"|January 2, 1822<ref name="ames-rose" /><br/>–<br/>January 4, 1822<br>{{small|(3 days; retired)}}
+|[[Democratic-Republican Party|Democratic–<br>Republican]]{{sfn|Kallenbach|1977|p=233}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|5
+|rowspan="5" data-sort-value="Parris, Albion"|[[File:Albion K. Parris.jpg|75px]]
+|rowspan="5"|'''[[Albion Parris]]'''<br>{{small|(1788–1857)}}<br>{{sfn|Sobel|1978|p=597}}<ref name="nga-parris">{{cite web |title=Albion Keith Parris |url=https://www.nga.org/governor/albion-keith-parris/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613182207/https://www.nga.org/governor/albion-keith-parris/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="1826"|January 4, 1822<ref>{{Cite news |date=January 8, 1822 |title=Legislature of Maine |page=2 |newspaper=Portland Gazette |url=https://www.newspapers.com/article/the-portland-gazette-parris-inaugurated/120105578/ |archive-url=https://web.archive.org/web/20230927193230/https://www.newspapers.com/article/120105578/parris-inaugurated/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1827<br>{{small|(1826 days; retired)}}{{efn|Parris was instead [[1826–27 United States Senate elections|elected]] to the [[United States Senate]]; Sobel says he resigned upon being elected,{{sfn|Sobel|1978|p=597}} but the election was not until January 31.<ref>{{Cite news |date=February 2, 1827 |title=Senator to Congress Elected |page=2 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/eastern-argus-parris-elected-senator/120106908/ |archive-url=https://web.archive.org/web/20230927190815/https://www.newspapers.com/article/120106908/parris-elected-senator/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|rowspan="5"|[[Democratic-Republican Party|Democratic–<br>Republican]]{{sfn|Dubin|2003|pp=87–88}}
+|[[1821 Maine gubernatorial election|1821]]
+|- style="height:2em;"
+|[[1822 Maine gubernatorial election|1822]]
+|- style="height:2em;"
+|[[1823 Maine gubernatorial election|1823]]
+|- style="height:2em;"
+|[[1824 Maine gubernatorial election|1824]]
+|- style="height:2em;"
+|[[1825 Maine gubernatorial election|1825]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|6
+|rowspan="3" data-sort-value="Lincoln, Enoch"|[[File:EnochLincoln.png|75px]]
+|rowspan="3"|'''[[Enoch Lincoln]]'''<br>{{small|(1788–1829)}}<br>{{sfn|Sobel|1978|p=598}}<ref name="nga-lincoln">{{cite web |title=Enoch Lincoln |url=https://www.nga.org/governor/enoch-lincoln/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710081246/https://www.nga.org/governor/enoch-lincoln/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1010"|January 3, 1827<ref>{{Cite news |date=January 5, 1827 |title=State Legislature |page=3 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/eastern-argus-lincoln-inaugurated-januar/131071221/ |archive-url=https://web.archive.org/web/20230902045321/https://www.newspapers.com/article/eastern-argus-lincoln-inaugurated-januar/131071221/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>October 8, 1829<br>{{small|(1010 days; died in office)}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic–<br>Republican]]{{sfn|Dubin|2003|p=88}}
+|[[1826 Maine gubernatorial election|1826]]
+|- style="height:2em;"
+|[[1827 Maine gubernatorial election|1827]]
+|- style="height:2em;"
+|[[1828 Maine gubernatorial election|1828]]
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Cutler, Nathan"|[[File:Nathan Cutler c1850.png|75px]]
+|'''[[Nathan Cutler]]'''<br>{{small|(1775–1861)}}<br>{{sfn|Sobel|1978|pp=598–599}}<ref name="nga-cutler">{{cite web |title=Nathan Cutler |url=https://www.nga.org/governor/nathan-cutler/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260714031620/https://www.nga.org/governor/nathan-cutler/ |archive-date=July 14, 2026 |url-status=live}}</ref>
+|data-sort-value="121"|October 8, 1829<ref>{{Cite news |date=October 10, 1829 |publication-date=October 27, 1829 |location=Hallowell, Maine |publication-place=Montpelier, Vermont |title=Death of Gov. Lincoln |page=1 |newspaper=Vermont Watchman and State Gazette |url=https://www.newspapers.com/article/vermont-watchman-and-state-journal-cutle/131071276/ |archive-url=https://web.archive.org/web/20230902045324/https://www.newspapers.com/article/vermont-watchman-and-state-journal-cutle/131071276/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>February 5, 1830<br>{{small|(121 days;<br>new senate seated)}}{{efn|The Senate that Cutler was president of had ended, and there was controversy over if he could remain governor; the [[Maine Supreme Judicial Court]] ruled against him. Sobel says that he resigned at this point, but no source corroborates this.{{sfn|Sobel|1978|p=599}}}}
+|[[Democratic-Republican Party|Democratic–<br>Republican]]{{efn|Sobel describes Cutler as a Democrat,{{sfn|Sobel|1978|p=599}} but Kallenbach{{sfn|Kallenbach|1977|p=233}} and Glashan{{sfn|Glashan|1979|p=120}} label him a Democratic-Republican.}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Hall, Joshua"|[[File:JoshuaHall.jpg|75px]]
+|'''[[Joshua Hall]]'''<br>{{small|(1768–1862)}}<br>{{sfn|Sobel|1978|p=599}}<ref name="nga-hall">{{cite web |title=Joshua Hall |url=https://www.nga.org/governor/joshua-hall/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513062633/https://www.nga.org/governor/joshua-hall/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="6"|February 5, 1830{{sfn|Kallenbach|1977|p=233}}<br/>–<br/>February 10, 1830<br>{{small|(6 days; retired)}}
+|[[Democratic-Republican Party|Democratic–<br>Republican]]{{sfn|Glashan|1979|p=120}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the House<br>acting}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Hunton, Jonathan"|[[File:Jonathan G. Hunton (Maine Governor).jpg|75px]]
+|style="color:inherit;background:{{party color|National Republican Party (United States)}};" title="Represented the National Republican Party"|
+|'''[[Jonathan G. Hunton]]'''<br>{{small|(1781–1851)}}<br>{{sfn|Sobel|1978|p=599}}<ref name="nga-hunton">{{cite web |title=Jonathan Glidden Hunton |url=https://www.nga.org/governor/jonathan-glidden-hunton/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260916011804/https://www.nga.org/governor/jonathan-glidden-hunton/ |archive-date=September 16, 2026 |url-status=live}}</ref>
+|data-sort-value="333"|February 10, 1830<ref>{{Cite news |date=February 12, 1830 |title=Legislature of Maine |page=2 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/eastern-argus-hunton-inaugurated-februar/131071631/ |archive-url=https://web.archive.org/web/20230902045320/https://www.newspapers.com/article/eastern-argus-hunton-inaugurated-februar/131071631/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1831<br>{{small|(333 days; lost election)}}
+|[[National Republican Party|National<br>Republican]]{{sfn|Dubin|2003|p=88}}
+|[[1829 Maine gubernatorial election|1829]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|10
+|rowspan="3" data-sort-value="Smith, Samuel"|[[File:Samuel Emerson Smith, Maine Governor.jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Samuel E. Smith]]'''<br>{{small|(1788–1860)}}<br>{{sfn|Sobel|1978|p=600}}<ref name="nga-smith">{{cite web |title=Samuel Emerson Smith |url=https://www.nga.org/governor/samuel-emerson-smith/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260712081918/https://www.nga.org/governor/samuel-emerson-smith/ |archive-date=July 12, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1091"|January 8, 1831<ref>{{Cite news |date=January 11, 1831 |title=Maine Legislature |page=2 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/eastern-argus-smith-inaugurated-january/131071704/ |archive-url=https://web.archive.org/web/20230902045326/https://www.newspapers.com/article/eastern-argus-smith-inaugurated-january/131071704/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 2, 1834<br>{{small|(1091 days;<br>lost nomination)}}<ref>{{cite news |title=Maine |url=https://www.newspapers.com/article/alexandria-gazette-samuel-smith-loses-no/209213752/ |newspaper=[[Alexandria Gazette|Phenix Gazette]] |date=July 3, 1833 |page=2 |via=Newspapers.com}}</ref>
+|rowspan="3"|[[Maine Democratic Party|Democratic]]{{efn|Sources label Smith either a Jacksonian Democrat{{sfn|Dubin|2003|p=89}}{{sfn|Kallenbach|1977|p=233}} or a Democratic-Republican.{{sfn|Sobel|1978|p=600}}{{sfn|Glashan|1979|p=124}}}}
+|[[1830 Maine gubernatorial election|1830]]
+|- style="height:2em;"
+|[[1831 Maine gubernatorial election|1831]]
+|- style="height:2em;"
+|[[1832 Maine gubernatorial election|1832]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|11
+|rowspan="4" data-sort-value="Dunlap, Robert"|[[File:Robert Pinckney Dunlap c1831.jpg|75px]]
+|rowspan="4"|'''[[Robert P. Dunlap]]'''<br>{{small|(1794–1859)}}<br>{{sfn|Sobel|1978|pp=600–601}}<ref name="nga-dunlap">{{cite web |title=Robert Pinckney Dunlap |url=https://www.nga.org/governor/robert-pinckney-dunlap/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260713230124/https://www.nga.org/governor/robert-pinckney-dunlap/ |archive-date=July 13, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1463"|January 2, 1834<ref>{{Cite news |date=January 6, 1834 |title=Maine Legislature |page=3 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/eastern-argus-dunlap-inaugurated-january/131071747/ |archive-url=https://web.archive.org/web/20230902045322/https://www.newspapers.com/article/eastern-argus-dunlap-inaugurated-january/131071747/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1838<br>{{small|(1463 days; retired)}}
+|rowspan="4"|[[Maine Democratic Party|Democratic]]{{sfn|Dubin|2003|pp=89–90}}
+|[[1833 Maine gubernatorial election|1833]]
+|- style="height:2em;"
+|[[1834 Maine gubernatorial election|1834]]
+|- style="height:2em;"
+|[[1835 Maine gubernatorial election|1835]]
+|- style="height:2em;"
+|[[1836 Maine gubernatorial election|1836]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Kent, Edward"|[[File:Governor Edward Kent.jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[Edward Kent]]'''<br>{{small|(1802–1877)}}<br>{{sfn|Sobel|1978|pp=601–602}}<ref name="nga-kent">{{cite web |title=Edward Kent |url=https://www.nga.org/governor/edward-kent/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260714182718/https://www.nga.org/governor/edward-kent/ |archive-date=July 14, 2026 |url-status=live}}</ref>
+|data-sort-value="349"|January 19, 1838{{efn|Kent won a close election, but Democrats challenged the election. He was finally declared winner by the [[Maine Supreme Judicial Court]] and sworn in on January 19, 1838.<ref>{{Cite news |date=January 22, 1838 |title=Maine Legislature |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-kent-inaug/131071787/ |archive-url=https://web.archive.org/web/20230902045322/https://www.newspapers.com/article/bangor-daily-whig-and-courier-kent-inaug/131071787/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref> Dunlap left office on January 3,{{sfn|Sobel|1978|p=601}} but no source mentions if the president of the Senate acted as governor in the interim.}}<br/>–<br/>January 2, 1839<br>{{small|(349 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=90}}
+|[[1837 Maine gubernatorial election|1837]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Fairfield, John"|[[File:BWJohnFairfield.png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John Fairfield]]'''<br>{{small|(1797–1847)}}<br>{{sfn|Sobel|1978|p=602}}<ref name="nga-fairfield">{{cite web |title=John Fairfield |url=https://www.nga.org/governor/john-fairfield/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260716001434/https://www.nga.org/governor/john-fairfield/ |archive-date=July 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="742"|January 2, 1839{{sfn|Kallenbach|1977|p=233}}<br/>–<br/>January 12, 1841<br>{{small|(742 days; lost election)}}{{efn|The 1840 election was very close, and the legislature had to decide a winner. Due to the delay, President of the Senate Vose declared himself acting governor on January 12, 1841,<ref>{{Cite news |date=January 14, 1841 |title=Maine Legislature |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-vose-named/120124450/ |archive-url=https://web.archive.org/web/20230927193255/https://www.newspapers.com/article/120124450/vose-named-acting-governor/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref> under the principle that the office was vacant, so it fell to him.<ref>{{Cite news |date=January 15, 1841 |title=Courtesy vs. the Constitution |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-courtesy-v/120124556/ |archive-url=https://web.archive.org/web/20230927193229/https://www.newspapers.com/article/120124556/courtesy-vs-the-constitution/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref> Sobel writes that Vose took over after Fairfield resigned, but this appears to be a mistake, mixing it up with Fairfield's resignation in 1843.|name=elect1842}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]{{sfn|Dubin|2003|p=90}}
+|[[1838 Maine gubernatorial election|1838]]
+|- style="height:2em;"
+|[[1839 Maine gubernatorial election|1839]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Vose, Richard"|[[File:Richard H. Vose (Maine governor).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[Richard H. Vose]]'''<br>{{small|(1803–1864)}}<br>{{sfn|Sobel|1978|pp=602–603}}<ref name="nga-vose">{{cite web |title=Richard H. Vose |url=https://www.nga.org/governor/richard-h-vose/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519101303/https://www.nga.org/governor/richard-h-vose/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|data-sort-value="2"|January 12, 1841{{efn|name=elect1842}}<br/>–<br/>January 13, 1841<br>{{small|(2 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Glashan|1979|p=120}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Kent, Edward"|[[File:Governor Edward Kent.jpg|75px]]
+|'''[[Edward Kent]]'''<br>{{small|(1802–1877)}}<br>{{sfn|Sobel|1978|pp=601–602}}<ref name="nga-kent" />
+|data-sort-value="358"|January 13, 1841<ref>{{Cite news |date=January 13, 1841 |publication-date=January 14, 1841 |location=Augusta, Maine |publication-place=Portland, Maine |title=Latest From Augusta |page=3 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/portland-press-herald-kent-inaugurated-j/131071929/ |archive-url=https://web.archive.org/web/20230902045324/https://www.newspapers.com/article/portland-press-herald-kent-inaugurated-j/131071929/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1842<br>{{small|(358 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=91}}
+|[[1840 Maine gubernatorial election|1840]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Fairfield, John"|[[File:BWJohnFairfield.png|75px]]
+|rowspan="13" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John Fairfield]]'''<br>{{small|(1797–1847)}}<br>{{sfn|Sobel|1978|p=602}}<ref name="nga-fairfield" />
+|rowspan="2" data-sort-value="427"|January 5, 1842<ref>{{Cite news |date=January 13, 1842 |title=Legislature of Maine |page=2 |newspaper=Lincoln Telegraph |url=https://www.newspapers.com/article/lincoln-telegraph-fairfield-inaugurated/131071963/ |archive-url=https://web.archive.org/web/20230902045321/https://www.newspapers.com/article/lincoln-telegraph-fairfield-inaugurated/131071963/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>March 7, 1843<br>{{small|(427 days; resigned)}}{{efn|Fairfield resigned, having been [[1842–43 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=602}}}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]{{sfn|Dubin|2003|p=91}}
+|[[1841 Maine gubernatorial election|1841]]
+|- style="height:2em;"
+|[[1842 Maine gubernatorial election|1842]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Kavanagh, Edward"|[[File:Edward Kavanagh (Maine Governor).jpg|75px]]
+|'''[[Edward Kavanagh]]'''<br>{{small|(1795–1844)}}<br>{{sfn|Sobel|1978|pp=603–604}}<ref name="nga-kavanagh">{{cite web |title=Edward Kavanagh |url=https://www.nga.org/governor/edward-kavanagh/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422114512/https://www.nga.org/governor/edward-kavanagh/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="301"|March 7, 1843<ref>{{Cite news |date=March 8, 1843 |title=Maine Legislature |page=2 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/eastern-argus-kavanagh-succeeds-fairfiel/131071983/ |archive-url=https://web.archive.org/web/20230902045322/https://www.newspapers.com/article/eastern-argus-kavanagh-succeeds-fairfiel/131071983/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 1, 1844<br>{{small|(301 days; resigned)}}{{efn|Kavanagh resigned due to ill health;<ref>{{Cite book |last=Lucey |first=William Leo |title=Edward Kavanagh: Catholic, Statesman, Diplomat, from Maine 1795–1844 |publisher=Kessinger Publishing |year=2006 |isbn=978-1-4286-5468-6 |page=22}}</ref> he died 19 days later.}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Glashan|1979|p=120}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Dunn, David"|[[File:Governor David Dunn 1846.jpg|75px]]
+|'''[[David Dunn (Maine politician)|David Dunn]]'''<br>{{small|(1811–1894)}}<br>{{sfn|Sobel|1978|p=604}}<ref name="nga-dunn">{{cite web |title=David Dunn |url=https://www.nga.org/governor/david-dunn/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414061110/https://www.nga.org/governor/david-dunn/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|data-sort-value="3"|January 1, 1844<ref>{{Cite news |date=January 5, 1844 |title=Legislature of Maine |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-dunn-succe/131072051/ |archive-url=https://web.archive.org/web/20230902045325/https://www.newspapers.com/article/bangor-daily-whig-and-courier-dunn-succe/131072051/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1844<br>{{small|(3 days; resigned)}}{{efn|Dunn resigned once the new [[Maine Legislature]] was sworn in and a president of the Senate chosen.{{sfn|Sobel|1978|p=604}}<ref>{{cite news | url=https://www.newspapers.com/article/the-pittsfield-sun-dunn-resigns-january/209236784/ | title=none | newspaper=Pittsfield Sun | date=January 11, 1844 | via=Newspapers.com | page=2}}</ref>}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Glashan|1979|p=120}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the House<br>acting}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Dana, John"|[[File:John Winchester Dana (Maine Governor).jpg|75px]]
+|'''[[John W. Dana]]'''<br>{{small|(1808–1867)}}<br>{{sfn|Sobel|1978|pp=604–605}}<ref name="nga-dana">{{cite web |title=John Winchester Dana |url=https://www.nga.org/governor/john-winchester-dana/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260721171207/https://www.nga.org/governor/john-winchester-dana/ |archive-date=July 21, 2026 |url-status=live}}</ref>
+|data-sort-value="3"|January 3, 1844{{sfn|Kallenbach|1977|p=233}}<br/>–<br/>January 5, 1844<br>{{small|(3 days; retired)}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Glashan|1979|p=120}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|20
+|rowspan="3" data-sort-value="Anderson, Hugh"|[[File:Hugh J. Anderson (Maine Governor).jpg|75px]]
+|rowspan="3"|'''[[Hugh J. Anderson]]'''<br>{{small|(1801–1881)}}<br>{{sfn|Sobel|1978|p=605}}<ref name="nga-anderson">{{cite web |title=Hugh Johnson Anderson |url=https://www.nga.org/governor/hugh-johnson-anderson/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260721171831/https://www.nga.org/governor/hugh-johnson-anderson/ |archive-date=July 21, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1230"|January 5, 1844<ref>{{Cite news |date=January 8, 1844 |title=Legislature of Maine |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-anderson-i/131072115/ |archive-url=https://web.archive.org/web/20230902045321/https://www.newspapers.com/article/bangor-daily-whig-and-courier-anderson-i/131072115/ |archive-date=September 2, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 18, 1847<br>{{small|(1230 days; retired)}}
+|rowspan="3"|[[Maine Democratic Party|Democratic]]{{sfn|Dubin|2003|pp=91–92}}
+|[[1843 Maine gubernatorial election|1843]]
+|- style="height:2em;"
+|[[1844 Maine gubernatorial election|1844]]
+|- style="height:2em;"
+|[[1845 Maine gubernatorial election|1845]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|21
+|rowspan="3" data-sort-value="Dana, John"|[[File:John Winchester Dana (Maine Governor).jpg|75px]]
+|rowspan="3"|'''[[John W. Dana]]'''<br>{{small|(1808–1867)}}<br>{{sfn|Sobel|1978|pp=604–605}}<ref name="nga-dana" />
+|rowspan="3" data-sort-value="1092"|May 18, 1847<ref>{{Cite news |date=May 22, 1847 |title=Legislature of Maine |page=3 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-dana-inaug/131712133/ |archive-url=https://web.archive.org/web/20230918052324/https://www.newspapers.com/article/bangor-daily-whig-and-courier-dana-inaug/131712133/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>May 13, 1850<br>{{small|(1092 days; retired)}}
+|rowspan="3"|[[Maine Democratic Party|Democratic]]{{sfn|Dubin|2003|p=92}}
+|[[1846 Maine gubernatorial election|1846]]
+|- style="height:2em;"
+|[[1847 Maine gubernatorial election|1847]]
+|- style="height:2em;"
+|[[1848 Maine gubernatorial election|1848]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Hubbard, John"|[[File:Governor John Hubbard of Maine, c1850.jpg|75px]]
+|rowspan="2"|'''[[John Hubbard (Maine politician)|John Hubbard]]'''<br>{{small|(1794–1869)}}<br>{{sfn|Sobel|1978|p=606}}<ref name="nga-hubbard">{{cite web |title=John Hubbard |url=https://www.nga.org/governor/john-hubbard/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509163938/https://www.nga.org/governor/john-hubbard/ |archive-date=May 9, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="982"|May 13, 1850<ref>{{Cite news |date=May 13, 1850 |publication-date=May 15, 1850 |title=Augusta Correspondence |location=Augusta, Maine |publication-place=Bangor, Maine |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-hubbard-in/131712242/ |archive-url=https://web.archive.org/web/20230918050813/https://www.newspapers.com/article/bangor-daily-whig-and-courier-hubbard-in/131712242/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 18, 1853<br>{{small|(982 days; lost election)}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]{{sfn|Dubin|2003|p=92}}
+|[[1849 Maine gubernatorial election|1849]]
+|- style="height:2em;"
+|[[1850 Maine gubernatorial election|1850]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Crosby, William"|[[File:William G. Crosby (Maine Governor).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[William G. Crosby]]'''<br>{{small|(1805–1881)}}<br>{{sfn|Sobel|1978|p=607}}<ref name="nga-crosby">{{cite web |title=William George Crosby |url=https://www.nga.org/governor/william-george-crosby/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616123715/https://www.nga.org/governor/william-george-crosby/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="719"|January 18, 1853<ref>{{Cite news |date=January 20, 1853 |title=Thirty-Second Legislature |page=2 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/portland-press-herald-crosby-inaugurated/131712366/ |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1855<br>{{small|(719 days; retired)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=93}}
+|[[1852 Maine gubernatorial election|1852]]
+|- style="height:2em;"
+|[[1853 Maine gubernatorial election|1853]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Morrill, Anson"|[[File:Anson P. Morrill - Brady-Handy (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Anson Morrill]]'''<br>{{small|(1803–1887)}}<br>{{sfn|Sobel|1978|pp=607–608}}<ref name="nga-morrill-anson">{{cite web |title=Anson Peaslee Morrill |url=https://www.nga.org/governor/anson-peaslee-morrill/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608202958/https://www.nga.org/governor/anson-peaslee-morrill/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|data-sort-value="364"|January 6, 1855<ref>{{Cite news |date=January 6, 1855 |publication-date=January 12, 1855 |location=Augusta, Maine |publication-place=Biddeford, Maine |title=Editorial Correspondence |page=2 |newspaper=Union and Eastern Journal |url=https://www.newspapers.com/article/the-union-and-journal-morrill-inaugurate/131712509/ |archive-url=https://web.archive.org/web/20230918060832/https://www.newspapers.com/article/the-union-and-journal-morrill-inaugurate/131712509/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 4, 1856<br>{{small|(364 days; lost election)}}
+|[[Maine Republican Party|Republican]]{{efn|Dubin{{sfn|Dubin|2003|p=93}} and Kallenbach{{sfn|Kallenbach|1977|p=233}} label Morrill an "Anti Maine-Law" and [[Know Nothing|American]], Glashan labels him an "Anti-Nebraska Fusion (Republican)"{{sfn|Glashan|1979|p=124}} and Sobel simply labels him Republican.{{sfn|Sobel|1978|p=608}}}}
+|[[1854 Maine gubernatorial election|1854]]
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Wells, Samuel"|[[File:Samuel Wells (Maine Governor).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Samuel Wells]]'''<br>{{small|(1801–1868)}}<br>{{sfn|Sobel|1978|pp=608–609}}<ref name="nga-wells">{{cite web |title=Samuel Wells |url=https://www.nga.org/governor/samuel-wells/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260208092533/https://www.nga.org/governor/samuel-wells/ |archive-date=February 8, 2026 |url-status=live}}</ref>
+|data-sort-value="371"|January 4, 1856<ref>{{Cite news |date=January 7, 1856 |title=Legislative Proceedings |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-wells-inau/131712573/ |archive-url=https://web.archive.org/web/20230918052327/https://www.newspapers.com/article/bangor-daily-whig-and-courier-wells-inau/131712573/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1857<br>{{small|(371 days; lost election)}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Dubin|2003|p=94}}
+|[[1855 Maine gubernatorial election|1855]]
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Hamlin, Hannibal"|[[File:Hannibal Hamlin, photo portrait seated, c1860-65.jpg|75px]]
+|rowspan="23" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Hannibal Hamlin]]'''<br>{{small|(1809–1891)}}<br>{{sfn|Sobel|1978|pp=609–610}}<ref name="nga-hamlin">{{cite web |title=Hannibal Hamlin |url=https://www.nga.org/governor/hannibal-hamlin/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517082501/https://www.nga.org/governor/hannibal-hamlin/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|data-sort-value="50"|January 8, 1857<ref>{{Cite news |date=January 9, 1857 |title=Progress at Augusta |page=2 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-hamlin-ina/131712643/ |archive-url=https://web.archive.org/web/20230918052326/https://www.newspapers.com/article/bangor-daily-whig-and-courier-hamlin-ina/131712643/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>February 26, 1857<br>{{small|(50 days; resigned)}}{{efn|Hamlin resigned, having been [[1856–57 United States Senate elections|elected]] to the [[United States Senate]].<ref>{{Cite news |date=February 27, 1857 |title=Maine Legislature |page=2 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/portland-press-herald-hamlin-resigns-feb/131712674/ |archive-url=https://web.archive.org/web/20230918050811/https://www.newspapers.com/article/portland-press-herald-hamlin-resigns-feb/131712674/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|[[Maine Republican Party|Republican]]{{sfn|Dubin|2003|p=94}}
+|[[1856 Maine gubernatorial election|1856]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Williams, Joseph"|[[File:Joseph Hartwell Williams (Maine Governor).jpg|75px]]
+|'''[[Joseph H. Williams]]'''<br>{{small|(1814–1896)}}<br>{{sfn|Sobel|1978|p=610}}<ref name="nga-williams">{{cite web |title=Joseph Hartwell Williams |url=https://www.nga.org/governor/joseph-hartwell-williams/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612143745/https://www.nga.org/governor/joseph-hartwell-williams/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|data-sort-value="317"|February 26, 1857<ref>{{Cite news |date=February 28, 1857 |title=Maine Legislature |page=2 |newspaper=[[Eastern Argus]] |url=https://www.newspapers.com/article/portland-press-herald-williams-succeeds/131712781/ |archive-url=https://web.archive.org/web/20230918052323/https://www.newspapers.com/article/portland-press-herald-williams-succeeds/131712781/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1858<br>{{small|(317 days; retired)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|28
+|rowspan="3" data-sort-value="Morrill, Lot"|[[File:Lot Morrill, Brady-Handy photo portrait, ca1865-1880.jpg|75px]]
+|rowspan="3"|'''[[Lot M. Morrill]]'''<br>{{small|(1813–1883)}}<br>{{sfn|Sobel|1978|pp=610–611}}<ref name="nga-morrill-lot">{{cite web |title=Lot Myrick Morrill |url=https://www.nga.org/governor/myrick-lot-morrill/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417175519/https://www.nga.org/governor/myrick-lot-morrill/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1092"|January 8, 1858<ref>{{Cite news |date=January 15, 1858 |title=Maine Legislature |page=2 |newspaper=Union and Eastern Journal |url=https://www.newspapers.com/article/the-union-and-journal-morrill-inaugurate/131712862/ |archive-url=https://web.archive.org/web/20230918050813/https://www.newspapers.com/article/the-union-and-journal-morrill-inaugurate/131712862/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1861<br>{{small|(1092 days; retired)}}
+|rowspan="3"|[[Maine Republican Party|Republican]]{{sfn|Dubin|2003|p=95}}
+|[[1857 Maine gubernatorial election|1857]]
+|- style="height:2em;"
+|[[1858 Maine gubernatorial election|1858]]
+|- style="height:2em;"
+|[[1859 Maine gubernatorial election|1859]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Washburn, Israel"|[[File:Israel Washburn, Jr. - Brady-Handy.jpg|75px]]
+|rowspan="2"|'''[[Israel Washburn Jr.]]'''<br>{{small|(1813–1883)}}<br>{{sfn|Sobel|1978|pp=611–612}}<ref name="nga-washburn">{{cite web |title=Israel Washburn, Jr. |url=https://www.nga.org/governor/israel-washburn/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710170544/https://www.nga.org/governor/israel-washburn/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="736"|January 3, 1861<ref>{{Cite news |date=January 4, 1861 |title=Organization of the Legislature |page=2 |newspaper=[[Kennebec Journal]] |url=https://www.newspapers.com/article/kennebec-journal-washburn-inaugurated-ja/131712952/ |archive-url=https://web.archive.org/web/20230918050817/https://www.newspapers.com/article/kennebec-journal-washburn-inaugurated-ja/131712952/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1863<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Dubin|2003|p=95}}
+|[[1860 Maine gubernatorial election|1860]]
+|- style="height:2em;"
+|[[1861 Maine gubernatorial election|1861]]
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Coburn, Abner"|[[File:Abner Coburn.png|75px]]
+|'''[[Abner Coburn]]'''<br>{{small|(1803–1885)}}<br>{{sfn|Sobel|1978|pp=612–613}}<ref name="nga-coburn">{{cite web |title=Abner Coburn |url=https://www.nga.org/governor/abner-coburn/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710082429/https://www.nga.org/governor/abner-coburn/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="365"|January 8, 1863<ref>{{Cite news |date=January 12, 1863 |title=Legislature of Maine |page=3 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-coburn-ina/131713023/ |archive-url=https://web.archive.org/web/20230918053822/https://www.newspapers.com/article/bangor-daily-whig-and-courier-coburn-ina/131713023/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 7, 1864<br>{{small|(365 days; retired)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1862 Maine gubernatorial election|1862]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|31
+|rowspan="3" data-sort-value="Cony, Samuel"|[[File:Samuel Cony.jpg|75px]]
+|rowspan="3"|'''[[Samuel Cony]]'''<br>{{small|(1811–1870)}}<br>{{sfn|Sobel|1978|pp=613–614}}<ref name="nga-cony">{{cite web |title=Samuel Cony |url=https://www.nga.org/governor/samuel-cony/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613155029/https://www.nga.org/governor/samuel-cony/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|January 7, 1864<ref>{{Cite news |date=January 15, 1864 |title=Maine Legislature |page=1 |newspaper=[[Kennebec Journal]] |url=https://www.newspapers.com/article/kennebec-journal-cony-inaugurated-januar/131713081/ |archive-url=https://web.archive.org/web/20230918050813/https://www.newspapers.com/article/kennebec-journal-cony-inaugurated-januar/131713081/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1867<br>{{small|(1093 days; retired)}}
+|rowspan="3"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1863 Maine gubernatorial election|1863]]
+|- style="height:2em;"
+|[[1864 Maine gubernatorial election|1864]]
+|- style="height:2em;"
+|[[1865 Maine gubernatorial election|1865]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|32
+|rowspan="4" data-sort-value="Chamberlain, Joshua"|[[File:Joshua Chamberlain - Brady-Handy.jpg|75px]]
+|rowspan="4"|'''[[Joshua Chamberlain]]'''<br>{{small|(1828–1914)}}<br>{{sfn|Sobel|1978|pp=614–615}}<ref name="nga-chamberlain">{{cite web |title=Joshua Lawrence Chamberlain |url=https://www.nga.org/governor/joshua-lawrence-chamberlain/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613155319/https://www.nga.org/governor/joshua-lawrence-chamberlain/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1464"|January 3, 1867<ref>{{Cite news |date=January 3, 1867 |location=Augusta, Maine |publication-place=Lewiston, Maine |title=Inauguration of Gov. Chamberlain |page=1 |newspaper=[[Sun Journal (Maine)|Lewiston Evening Journal]] |url=https://www.newspapers.com/article/sun-journal-chamberlain-inaugurated-janu/131713427/ |archive-url=https://web.archive.org/web/20230918050815/https://www.newspapers.com/article/sun-journal-chamberlain-inaugurated-janu/131713427/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1871<br>{{small|(1464 days; retired)}}
+|rowspan="4"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1866 Maine gubernatorial election|1866]]
+|- style="height:2em;"
+|[[1867 Maine gubernatorial election|1867]]
+|- style="height:2em;"
+|[[1868 Maine gubernatorial election|1868]]
+|- style="height:2em;"
+|[[1869 Maine gubernatorial election|1869]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|33
+|rowspan="3" data-sort-value="Perham, Sidney"|[[File:SPerham.jpg|75px]]
+|rowspan="3"|'''[[Sidney Perham]]'''<br>{{small|(1819–1907)}}<br>{{sfn|Sobel|1978|p=615}}<ref name="nga-perham">{{cite web |title=Sidney Perham |url=https://www.nga.org/governor/sidney-perham/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260704044836/https://www.nga.org/governor/sidney-perham/ |archive-date=July 4, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1100"|January 5, 1871<ref>{{Cite news |date=January 6, 1871 |title=Maine Legislature |page=3 |newspaper=[[Bangor Daily News|Bangor Daily Whig and Courier]] |url=https://www.newspapers.com/article/bangor-daily-whig-and-courier-perham-ina/131713696/ |archive-url=https://web.archive.org/web/20230918045309/https://www.newspapers.com/article/bangor-daily-whig-and-courier-perham-ina/131713696/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1874<br>{{small|(1100 days; retired)}}
+|rowspan="3"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1870 Maine gubernatorial election|1870]]
+|- style="height:2em;"
+|[[1871 Maine gubernatorial election|1871]]
+|- style="height:2em;"
+|[[1872 Maine gubernatorial election|1872]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="Dingley, Nelson"|[[File:Dingley, Hon. N. (2016688238) (cropped).jpg|75px]]
+|rowspan="2"|'''[[Nelson Dingley Jr.]]'''<br>{{small|(1832–1899)}}<br>{{sfn|Sobel|1978|p=616}}<ref name="nga-dingley">{{cite web |title=Nelson Dingley |url=https://www.nga.org/governor/nelson-dingley/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260808160354/https://www.nga.org/governor/nelson-dingley/ |archive-date=August 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="729"|January 8, 1874<ref>{{Cite news |publication-date=January 9, 1874 |date=January 8, 1874 |location=Augusta, Maine |publication-place=Portland, Maine |title=Fifty-Third Legislature |page=3 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-dingley-inaugur/131714213/ |archive-url=https://web.archive.org/web/20230918055328/https://www.newspapers.com/article/the-portland-daily-press-dingley-inaugur/131714213/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1876<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1873 Maine gubernatorial election|1873]]
+|- style="height:2em;"
+|[[1874 Maine gubernatorial election|1874]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Connor, Selden"|[[File:Selden Connor (Maine Governor).jpg|75px]]
+|rowspan="3"|'''[[Seldon Connor]]'''<br>{{small|(1839–1917)}}<br>{{sfn|Sobel|1978|pp=616–617}}<ref name="nga-connor">{{cite web |title=Seldon Connor |url=https://www.nga.org/governor/seldon-connor/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260729111021/https://www.nga.org/governor/seldon-connor/ |archive-date=July 29, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1099"|January 6, 1876<ref>{{Cite news |publication-date=January 7, 1876 |date=January 6, 1876 |location=Augusta, Maine |publication-place=Portland, Maine |title=The Inauguration |page=2 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-connor-inaugura/131723367/ |archive-url=https://web.archive.org/web/20230918060829/https://www.newspapers.com/article/the-portland-daily-press-connor-inaugura/131723367/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1879<br>{{small|(1099 days; lost election)}}
+|rowspan="3"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1875 Maine gubernatorial election|1875]]
+|- style="height:2em;"
+|[[1876 Maine gubernatorial election|1876]]
+|- style="height:2em;"
+|[[1877 Maine gubernatorial election|1877]]
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Garcelon, Alonzo"|[[File:AlonzoGarcelon.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Alonzo Garcelon]]'''<br>{{small|(1813–1906)}}<br>{{sfn|Sobel|1978|pp=617–618}}<ref name="nga-garcelon">{{cite web |title=Alonzo Garcelon |url=https://www.nga.org/governor/alonzo-garcelon/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260722052958/https://www.nga.org/governor/alonzo-garcelon/ |archive-date=July 22, 2026 |url-status=live}}</ref>
+|data-sort-value="375"|January 8, 1879<ref>{{Cite news |date=January 8, 1879 |location=Augusta, Maine |publication-place=Lewiston, Maine |title=The Governor's Inauguration |page=3 |newspaper=[[Sun Journal (Maine)|Lewiston Evening Journal]] |url=https://www.newspapers.com/article/sun-journal-garcelon-inaugurated-january/131723715/ |archive-url=https://web.archive.org/web/20230918053820/https://www.newspapers.com/article/sun-journal-garcelon-inaugurated-january/131723715/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 17, 1880<br>{{small|(375 days; lost election)}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=233}}
+|[[1878 Maine gubernatorial election|1878]]
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Davis, Daniel"|[[File:Daniel F. Davis (Maine Governor).jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Daniel F. Davis]]'''<br>{{small|(1843–1897)}}<br>{{sfn|Sobel|1978|pp=618–619}}<ref name="nga-davis">{{cite web |title=Daniel Franklin Davis |url=https://www.nga.org/governor/daniel-franklin-davis/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260731185646/https://www.nga.org/governor/daniel-franklin-davis/ |archive-date=July 31, 2026 |url-status=live}}</ref>
+|data-sort-value="363"|January 17, 1880{{efn|The 1879 election was not close, but at the time a governor had to receive a majority of votes cast, and Davis fell slightly short. Governor Garcelon refused to certify new Republican members of the legislature, instead seating Democrats, which led to the State Supreme Court ruling against him.{{sfn|Sobel|1978|p=618}}  A Fusionist legislature declared Joseph L. Smith the winner, and inaugurated him on January 17;<ref>{{Cite news |date=January 17, 1880 |location=Augusta, Maine |publication-place=Portland, Maine |title=Still Firm |page=2 |newspaper=[[Eastern Argus|Daily Eastern Argus]] |url=https://www.newspapers.com/article/portland-press-herald-smith-inaugurated/131724198/ |archive-url=https://web.archive.org/web/20230918055332/https://www.newspapers.com/article/portland-press-herald-smith-inaugurated/131724198/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref> however, this was not considered legitimate, and Davis was inaugurated later that day when the Republican legislature met.<ref>{{Cite news |publication-date=January 19, 1880 |date=January 18, 1880 |location=Augusta, Maine |publication-place=Portland, Maine |title=Governor Davis |page=2 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-davis-inaugurat/131724431/ |archive-url=https://web.archive.org/web/20230918050815/https://www.newspapers.com/article/the-portland-daily-press-davis-inaugurat/131724431/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br/>–<br/>January 13, 1881<br>{{small|(363 days; lost election)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1879 Maine gubernatorial election|1879]]
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Plaisted, Harris"|[[File:HMPlaisted.jpg|75px]]
+|style="color:inherit;background:{{party color|Greenback Party}};" title="Represented the Greenback Party"|
+|'''[[Harris M. Plaisted]]'''<br>{{small|(1828–1898)}}<br>{{sfn|Sobel|1978|p=619}}<ref name="nga-plaisted-harris">{{cite web |title=Harris Merrill Plaisted |url=https://www.nga.org/governor/harris-merrill-plaisted/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260802031840/https://www.nga.org/governor/harris-merrill-plaisted/ |archive-date=August 2, 2026 |url-status=live}}</ref>
+|data-sort-value="722"|January 13, 1881<ref>{{Cite news |publication-date=January 14, 1881 |date=January 13, 1881 |location=Augusta, Maine |publication-place=Portland, Maine |title=A Dreary Day |page=2 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-plaisted-inaugu/131809790/ |archive-url=https://web.archive.org/web/20230918053821/https://www.newspapers.com/article/the-portland-daily-press-plaisted-inaugu/131809790/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 4, 1883<br>{{small|(722 days; lost election)}}
+|[[Greenback Party|Greenback]]{{efn|Kallenbach{{sfn|Kallenbach|1977|p=242}} and Sobel{{sfn|Sobel|1978|p=619}} label Plaisted as a Democrat and Greenback, while Glashan describes him as "National (or Greenback Labor)".{{sfn|Glashan|1979|p=129}}}}
+|[[1880 Maine gubernatorial election|1880]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|39
+|rowspan="2" data-sort-value="Robie, Frederick"|[[File:Frederick Robie (Maine Governor).jpg|75px]]
+|rowspan="15" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Frederick Robie]]'''<br>{{small|(1822–1912)}}<br>{{sfn|Sobel|1978|p=620}}<ref name="nga-robie">{{cite web |title=Frederick Robie |url=https://www.nga.org/governor/frederick-robie/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260804151625/https://www.nga.org/governor/frederick-robie/ |archive-date=August 4, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1883<ref>{{Cite news |date=January 5, 1883 |title=Maine Legislature |page=1 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-robie-inaugurat/131821754/ |archive-url=https://web.archive.org/web/20230918050814/https://www.newspapers.com/article/the-portland-daily-press-robie-inaugurat/131821754/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1887<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1882 Maine gubernatorial election|1882]]
+|- style="height:2em;"
+|[[1884 Maine gubernatorial election|1884]]
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Bodwell, Joseph"|[[File:Joseph R. Bodwell.jpg|75px]]
+|'''[[Joseph R. Bodwell]]'''<br>{{small|(1818–1887)}}<br>{{sfn|Sobel|1978|pp=620–621}}<ref name="nga-bodwell">{{cite web |title=Joseph Robinson Bodwell |url=https://www.nga.org/governor/joseph-robinson-bodwell/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260820001319/https://www.nga.org/governor/joseph-robinson-bodwell/ |archive-date=August 20, 2026 |url-status=live}}</ref>
+|data-sort-value="344"|January 6, 1887<ref>{{Cite news |date=January 6, 1887 |publication-date=January 7, 1887 |location=Augusta, Maine |publication-place=Portland, Maine |title=From Augusta |page=1 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-bodwell-inaugur/131822281/ |archive-url=https://web.archive.org/web/20230918055326/https://www.newspapers.com/article/the-portland-daily-press-bodwell-inaugur/131822281/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 15, 1887<br>{{small|(344 days; died in office)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1886 Maine gubernatorial election|1886]]
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Marble, Sebastian"|[[File:Sebastian Streeter Marble (Maine Governor).jpg|75px]]
+|'''[[Sebastian Streeter Marble]]'''<br>{{small|(1817–1902)}}<br>{{sfn|Sobel|1978|pp=621–622}}<ref name="nga-marble">{{cite web |title=Sebastian Streeter Marble |url=https://www.nga.org/governor/sebastian-streeter-marble/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260921194100/https://www.nga.org/governor/sebastian-streeter-marble/ |archive-date=September 21, 2026 |url-status=live}}</ref>
+|data-sort-value="386"|December 15, 1887<ref>{{Cite news |publication-date=December 16, 1887 |date=December 15, 1887 |location=Augusta, Maine |publication-place=Portland, Maine |title=Mr. Marble in Augusta |page=1 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-marble-succeeds/131823192/ |archive-url=https://web.archive.org/web/20230918050812/https://www.newspapers.com/article/the-portland-daily-press-marble-succeeds/131823192/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1889<br>{{small|(386 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=621}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|42
+|rowspan="2" data-sort-value="Burleigh, Edwin"|[[File:Edwin Chick Burleigh.jpg|75px]]
+|rowspan="2"|'''[[Edwin C. Burleigh]]'''<br>{{small|(1843–1916)}}<br>{{sfn|Sobel|1978|p=622}}<ref name="nga-burleigh">{{cite web |title=Edwin Chick Burleigh |url=https://www.nga.org/governor/edwin-chick-burleigh/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513075526/https://www.nga.org/governor/edwin-chick-burleigh/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1889<ref>{{Cite news |date=January 4, 1889 |title=Maine Legislature |page=1 |newspaper=[[Kennebec Journal|Daily Kennebec Journal]] |url=https://www.newspapers.com/article/kennebec-journal-burleigh-inaugurated-ja/131823925/ |archive-url=https://web.archive.org/web/20230918052320/https://www.newspapers.com/article/kennebec-journal-burleigh-inaugurated-ja/131823925/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1893<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1888 Maine gubernatorial election|1888]]
+|- style="height:2em;"
+|[[1890 Maine gubernatorial election|1890]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|43
+|rowspan="2" data-sort-value="Cleaves, Henry"|[[File:Henry B. Cleaves (Maine Governor).jpg|75px]]
+|rowspan="2"|'''[[Henry B. Cleaves]]'''<br>{{small|(1840–1912)}}<br>{{sfn|Sobel|1978|pp=622–623}}<ref name="nga-cleaves">{{cite web |title=Henry B. Cleaves |url=https://www.nga.org/governor/henry-b-cleaves/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260807155742/https://www.nga.org/governor/henry-b-cleaves/ |archive-date=August 7, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1893<ref>{{Cite news |date=January 5, 1893 |location=Augusta, Maine |publication-place=Portland, Maine |title=Legislative Doings |page=8 |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |url=https://www.newspapers.com/article/evening-express-cleaves-inaugurated-janu/131824598/ |archive-url=https://web.archive.org/web/20230918052323/https://www.newspapers.com/article/evening-express-cleaves-inaugurated-janu/131824598/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 7, 1897<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=233}}
+|[[1892 Maine gubernatorial election|1892]]
+|- style="height:2em;"
+|[[1894 Maine gubernatorial election|1894]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Powers, Llewellyn"|[[File:Lewellyn Powers.jpg|75px]]
+|rowspan="2"|'''[[Llewellyn Powers]]'''<br>{{small|(1836–1908)}}<br>{{sfn|Sobel|1978|pp=623–624}}<ref name="nga-powers">{{cite web |title=Llewellyn Powers |url=https://www.nga.org/governor/llewellyn-powers/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260808223324/https://www.nga.org/governor/llewellyn-powers/ |archive-date=August 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 7, 1897<ref>{{Cite news |publication-date=January 8, 1897 |date=January 7, 1897 |location=Augusta, Maine |publication-place=Portland, Maine |title=His Excellency |page=1 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-governor-powers/120127289/ |archive-url=https://web.archive.org/web/20230927190814/https://www.newspapers.com/article/120127289/governor-powers-inaugurated/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1901<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1896 Maine gubernatorial election|1896]]
+|- style="height:2em;"
+|[[1898 Maine gubernatorial election|1898]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|45
+|rowspan="2" data-sort-value="Hill, John"|[[File:John Fremont Hill, 1855-1912, head and shoulders, c1900.jpg|75px]]
+|rowspan="2"|'''[[John Fremont Hill]]'''<br>{{small|(1855–1912)}}<br>{{sfn|Sobel|1978|p=624}}<ref name="nga-hill">{{cite web |title=John Fremont Hill |url=https://www.nga.org/governor/john-fremont-hill/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606073245/https://www.nga.org/governor/john-fremont-hill/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1901<ref>{{Cite news |date=January 3, 1901 |location=Augusta, Maine |publication-place=Biddeford, Maine |title=Governor Hill |page=1 |newspaper=[[Journal Tribune|Biddeford Daily Journal]] |url=https://www.newspapers.com/article/biddeford-saco-journal-hill-inaugurated/131899536/ |archive-url=https://web.archive.org/web/20230918050818/https://www.newspapers.com/article/biddeford-saco-journal-hill-inaugurated/131899536/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1905<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1900 Maine gubernatorial election|1900]]
+|- style="height:2em;"
+|[[1902 Maine gubernatorial election|1902]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="Cobb, William"|[[File:William T. Cobb (Maine Governor).jpg|75px]]
+|rowspan="2"|'''[[William T. Cobb]]'''<br>{{small|(1857–1937)}}<br>{{sfn|Sobel|1978|p=625}}<ref name="nga-cobb">{{cite web |title=William Titcomb Cobb |url=https://www.nga.org/governor/william-titcomb-cobb/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612144431/https://www.nga.org/governor/william-titcomb-cobb/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1905<ref>{{Cite news |date=January 5, 1905 |title=Hon. William T. Cobb Governor of Maine |page=1 |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |location=Augusta, Maine |publication-place=Portland, Maine |url=https://www.newspapers.com/article/evening-express-cobb-inaugurated-january/131921983/ |archive-url=https://web.archive.org/web/20230918060830/https://www.newspapers.com/article/evening-express-cobb-inaugurated-january/131921983/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 7, 1909<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1904 Maine gubernatorial election|1904]]
+|- style="height:2em;"
+|[[1906 Maine gubernatorial election|1906]]
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Fernald, Bert"|[[File:Bert Manfred Fernald.jpg|75px]]
+|'''[[Bert M. Fernald]]'''<br>{{small|(1858–1926)}}<br>{{sfn|Sobel|1978|pp=625–626}}<ref name="nga-fernald">{{cite web |title=Bert Manfred Fernald |url=https://www.nga.org/governor/5581-2/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519100513/https://www.nga.org/governor/5581-2/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 7, 1909<ref>{{Cite news |date=January 7, 1909 |title=Inauguration Ceremonies |location=Augusta, Maine |publication-place=Biddeford, Maine |page=1 |newspaper=[[Journal Tribune|Biddeford Daily Journal]] |url=https://www.newspapers.com/article/biddeford-saco-journal-fernald-inaugurat/131929961/ |archive-url=https://web.archive.org/web/20230918052325/https://www.newspapers.com/article/biddeford-saco-journal-fernald-inaugurat/131929961/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1911<br>{{small|(729 days; lost election)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1908 Maine gubernatorial election|1908]]
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Plaisted, Frederick"|[[File:Frederick William Plaisted, 1910.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Frederick W. Plaisted]]'''<br>{{small|(1865–1943)}}<br>{{sfn|Sobel|1978|pp=626–627}}<ref name="nga-plaisted-frederick">{{cite web |title=Frederick William Plaisted |url=https://www.nga.org/governor/frederick-william-plaisted/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616121151/https://www.nga.org/governor/frederick-william-plaisted/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 5, 1911<ref>{{Cite news |publication-date=January 6, 1911 |date=January 5, 1911 |title=Hon. Frederick W. Plaisted of Augusta Sworn In As the Governor of the State of Maine |page=1 |location=Augusta, Maine |publication-place=Portland, Maine |newspaper=[[Morning Sentinel|Waterville Morning Sentinel]] |url=https://www.newspapers.com/article/morning-sentinel-plaisted-inaugurated-ja/131930512/ |archive-url=https://web.archive.org/web/20230918052322/https://www.newspapers.com/article/morning-sentinel-plaisted-inaugurated-ja/131930512/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 2, 1913<br>{{small|(729 days; lost election)}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=234}}
+|[[1910 Maine gubernatorial election|1910]]
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Haines, William"|[[File:William T. Haines.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[William T. Haines]]'''<br>{{small|(1854–1919)}}<br>{{sfn|Sobel|1978|p=627}}<ref name="nga-haines">{{cite web |title=William Thomas Haines |url=https://www.nga.org/governor/william-thomas-haines/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260823192102/https://www.nga.org/governor/william-thomas-haines/ |archive-date=August 23, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 2, 1913<ref>{{Cite news |date=January 2, 1913 |title=Legislature Organized on New Years Day |location=Augusta, Maine |publication-place=Biddeford, Maine |page=5 |newspaper=[[Journal Tribune|Biddeford Daily Journal]] |url=https://www.newspapers.com/article/biddeford-saco-journal-haines-inaugurate/131930731/ |archive-url=https://web.archive.org/web/20230918053819/https://www.newspapers.com/article/biddeford-saco-journal-haines-inaugurate/131930731/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 7, 1915<br>{{small|(736 days; lost election)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1912 Maine gubernatorial election|1912]]
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Curtis, Oakley"|[[File:Oakley curtis.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Oakley C. Curtis]]'''<br>{{small|(1865–1924)}}<br>{{sfn|Sobel|1978|p=628}}<ref name="nga-curtis-oakley">{{cite web |title=Oakley Chester Curtis |url=https://www.nga.org/governor/oakley-chester-curtis/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509173506/https://www.nga.org/governor/oakley-chester-curtis/ |archive-date=May 9, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 7, 1915<ref>{{Cite news |publication-date=January 8, 1915 |date=January 7, 1915 |location=Augusta, Maine |publication-place=Portland, Maine |title=Oakley C. Curtis Inaugurated As Governor With Great Ceremony |page=1 |newspaper=[[Morning Sentinel|Waterville Morning Sentinel]] |url=https://www.newspapers.com/article/morning-sentinel-curtis-inaugurated-janu/131931145/ |archive-url=https://web.archive.org/web/20230918052322/https://www.newspapers.com/article/morning-sentinel-curtis-inaugurated-janu/131931145/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 4, 1917<br>{{small|(729 days; lost election)}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=234}}
+|[[1914 Maine gubernatorial election|1914]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|51
+|rowspan="2" data-sort-value="Milliken, Carl"|[[File:Carl Milliken.jpg|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Carl Milliken]]'''<br>{{small|(1877–1961)}}<br>{{sfn|Sobel|1978|pp=628–629}}<ref name="nga-milliken">{{cite web |title=Carl Elias Milliken |url=https://www.nga.org/governor/carl-elias-milliken/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260926212721/https://www.nga.org/governor/carl-elias-milliken/ |archive-date=September 26, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1917<ref>{{Cite news |date=January 4, 1917 |location=Augusta, Maine |publication-place=Portland, Maine |title=Milliken Is Governor, Addresses Legislature |page=1 |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express and Advertiser]] |url=https://www.newspapers.com/article/evening-express-milliken-inaugurated-jan/131970611/ |archive-url=https://web.archive.org/web/20230918203321/https://www.newspapers.com/article/evening-express-milliken-inaugurated-jan/131970611/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1921<br>{{small|(1464 days;<br>lost nomination)}}<ref>{{Cite news |date=June 22, 1920 |title=Milliken "Contented" With the Result |page=8 |location=Augusta, Maine |publication-place=Biddeford, Maine |newspaper=[[Journal Tribune|Biddeford Daily Journal]] |url=https://www.newspapers.com/article/biddeford-saco-journal-milliken-content/120127666/ |archive-url=https://web.archive.org/web/20230927190814/https://www.newspapers.com/article/120127666/milliken-contented-with-the-result/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref>
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1916 Maine gubernatorial election|1916]]
+|- style="height:2em;"
+|[[1918 Maine gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Parkhurst, Frederic"|[[File:FredericParkhurst.jpg|75px]]
+|'''[[Frederic Hale Parkhurst]]'''<br>{{small|(1864–1921)}}<br>{{sfn|Sobel|1978|pp=629–630}}<ref name="nga-parkhurst">{{cite web |title=Frederic Hale Parkhurst |url=https://www.nga.org/governor/frederick-hale-parkhurst/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517084548/https://www.nga.org/governor/frederick-hale-parkhurst/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|data-sort-value="26"|January 6, 1921<ref>{{Cite news |date=January 6, 1921 |title=Parkhurst Inaugurated, Addresses Legislature |page=1 |location=Augusta, Maine |publication-place=Portland, Maine |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |url=https://www.newspapers.com/article/evening-express-parkhurst-inaugurated-ja/131971079/ |archive-url=https://web.archive.org/web/20230918203321/https://www.newspapers.com/article/evening-express-parkhurst-inaugurated-ja/131971079/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 31, 1921<br>{{small|(26 days; died in office)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1920 Maine gubernatorial election|1920]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|53
+|rowspan="2" data-sort-value="Baxter, Percival"|[[File:Gov. Baxter, (12-1-23) LCCN2016848421 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Percival P. Baxter]]'''<br>{{small|(1876–1969)}}<br>{{sfn|Sobel|1978|p=630}}<ref name="nga-baxter">{{cite web |title=Percival Proctor Baxter |url=https://www.nga.org/governor/percival-proctor-baxter/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260805050748/https://www.nga.org/governor/percival-proctor-baxter/ |archive-date=August 5, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1439"|January 31, 1921<ref>{{Cite news |date=January 31, 1921 |title=Baxter Is Now Chief Executive |location=Augusta, Maine |publication-place=Portland, Maine |page=1 |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |url=https://www.newspapers.com/article/evening-express-baxter-succeeds-parkhurs/131972492/ |archive-url=https://web.archive.org/web/20230918203319/https://www.newspapers.com/article/evening-express-baxter-succeeds-parkhurs/131972492/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1925<br>{{small|(1439 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+|[[1922 Maine gubernatorial election|1922]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|54
+|rowspan="2" data-sort-value="Brewster, Ralph"|[[File:Owenbrewster.jpg|75px]]
+|rowspan="2"|'''[[Owen Brewster]]'''<br>{{small|(1888–1961)}}<br>{{sfn|Sobel|1978|p=631}}<ref name="nga-brewster">{{cite web |title=Ralph Owen Brewster |url=https://www.nga.org/governor/ralph-owen-brewster/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608210043/https://www.nga.org/governor/ralph-owen-brewster/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 8, 1925<ref>{{Cite news |date=January 8, 1925 |title=Capitol Is Crowded for Inaugural |page=1 |location=Augusta, Maine |publication-place=Lewiston, Maine |newspaper=[[Sun Journal (Maine)|Lewiston Evening Journal]] |url=https://www.newspapers.com/article/sun-journal-brewster-inaugurated-january/131988705/ |archive-url=https://web.archive.org/web/20230918204131/https://www.newspapers.com/article/sun-journal-brewster-inaugurated-january/131988705/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1929<br>{{small|(1457 days; retired)}}{{efn|Brewster instead [[1928 United States Senate election in Maine|ran unsuccessfully]] for the Republican nomination for the [[United States Senate]].}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1924 Maine gubernatorial election|1924]]
+|- style="height:2em;"
+|[[1926 Maine gubernatorial election|1926]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|55
+|rowspan="2" data-sort-value="Gardiner, William"|[[File:WilliamTudorGardiner.jpg|75px]]
+|rowspan="2"|'''[[William Tudor Gardiner]]'''<br>{{small|(1892–1953)}}<br>{{sfn|Sobel|1978|pp=631–632}}<ref name="nga-gardiner">{{cite web |title=William Tudor Gardiner |url=https://www.nga.org/governor/william-tudor-gardiner/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260826090018/https://www.nga.org/governor/william-tudor-gardiner/ |archive-date=August 26, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1929<ref>{{Cite news |date=January 3, 1929 |title=New Governor Outlines Policies |page=1 |location=Augusta, Maine |publication-place=Portland, Maine |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |url=https://www.newspapers.com/article/evening-express-gardiner-inaugurated-jan/131989321/ |archive-url=https://web.archive.org/web/20230918203320/https://www.newspapers.com/article/evening-express-gardiner-inaugurated-jan/131989321/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1933<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1928 Maine gubernatorial election|1928]]
+|- style="height:2em;"
+|[[1930 Maine gubernatorial election|1930]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|56
+|rowspan="2" data-sort-value="Brann, Louis"|[[File:Louis J. Brann (Maine Governor) 2.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Louis J. Brann]]'''<br>{{small|(1876–1948)}}<br>{{sfn|Sobel|1978|pp=632–633}}<ref name="nga-brann">{{cite web |title=Louis Jefferson Brann |url=https://www.nga.org/governor/louis-jefferson-brann/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260825184402/https://www.nga.org/governor/louis-jefferson-brann/ |archive-date=August 25, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 5, 1933<ref>{{Cite news |last=Somerville |first=Cliff |date=January 5, 1933 |title=Brann Pleads for Economy at Inaugural |page=1 |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |url=https://www.newspapers.com/article/evening-express-brann-inaugurated-januar/132000231/ |archive-url=https://web.archive.org/web/20230918203322/https://www.newspapers.com/article/evening-express-brann-inaugurated-januar/132000231/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 7, 1937<br>{{small|(1464 days; retired)}}{{efn|Brann instead [[1936 United States Senate elections|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=63}}}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=234}}
+|[[1932 Maine gubernatorial election|1932]]
+|- style="height:2em;"
+|[[1934 Maine gubernatorial election|1934]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|57
+|rowspan="2" data-sort-value="Barrows, Lewis"|[[File:Lewis O. Barrows (Maine Governor).jpg|75px]]
+|rowspan="11" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Lewis O. Barrows]]'''<br>{{small|(1893–1967)}}<br>{{sfn|Sobel|1978|pp=633–634}}<ref name="nga-barrows">{{cite web |title=Lewis Orin Barrows |url=https://www.nga.org/governor/lewis-orin-barrows/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616124033/https://www.nga.org/governor/lewis-orin-barrows/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 7, 1937<ref>{{Cite news |publication-date=January 8, 1937 |date=January 7, 1937 |location=Augusta, Maine |publication-place=Portland, Maine |title=Notables Congratulate Barrows at Luncheon in Blaine Mansion |page=1 |newspaper=[[Portland Press Herald]] |agency=Associated Press |url=https://www.newspapers.com/article/portland-press-herald-barrows-inaugurate/132000646/ |archive-url=https://web.archive.org/web/20230918203318/https://www.newspapers.com/article/portland-press-herald-barrows-inaugurate/132000646/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 2, 1941<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1936 Maine gubernatorial election|1936]]
+|- style="height:2em;"
+|[[1938 Maine gubernatorial election|1938]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|58
+|rowspan="2" data-sort-value="Sewall, Sumner"|[[File:SumnerSewall.jpg|75px]]
+|rowspan="2"|'''[[Sumner Sewall]]'''<br>{{small|(1897–1965)}}<br>{{sfn|Sobel|1978|p=634}}<ref name="nga-sewall">{{cite web |title=Sumner Sewall |url=https://www.nga.org/governor/sumner-sewall/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260218204339/https://www.nga.org/governor/sumner-sewall/ |archive-date=February 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1941<ref>{{Cite news |publication-date=January 3, 1941 |date=January 2, 1941 |location=Augusta, Maine |publication-place=Waterville, Maine |title=Governor Sewall Assumes Office |page=1 |newspaper=[[Morning Sentinel|Waterville Morning Sentinel]] |agency=Associated Press |url=https://www.newspapers.com/article/morning-sentinel-sewall-inaugurated-janu/132003500/ |archive-url=https://web.archive.org/web/20230918204826/https://www.newspapers.com/article/morning-sentinel-sewall-inaugurated-janu/132003500/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 4, 1945<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1940 Maine gubernatorial election|1940]]
+|- style="height:2em;"
+|[[1942 Maine gubernatorial election|1942]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|59
+|rowspan="2" data-sort-value="Hildreth, Horace"|[[File:HoraceHildreth.jpg|75px]]
+|rowspan="2"|'''[[Horace Hildreth]]'''<br>{{small|(1902–1988)}}<br>{{sfn|Sobel|1978|p=635}}<ref name="nga-hildreth">{{cite web |title=Horace Augustus Hildreth |url=https://www.nga.org/governor/horace-augustus-hildreth/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260827102938/https://www.nga.org/governor/horace-augustus-hildreth/ |archive-date=August 27, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1945<ref>{{Cite news |publication-date=January 5, 1945 |date=January 4, 1945 |location=Augusta, Maine |publication-place=Portland, Maine |title=Protect Surplus or Face New Taxes, Hildreth Warns |page=20 |newspaper=[[Portland Press Herald]] |agency=Associated Press |url=https://www.newspapers.com/article/portland-press-herald-hildreth-inaugurat/132003602/ |archive-url=https://web.archive.org/web/20230918203317/https://www.newspapers.com/article/portland-press-herald-hildreth-inaugurat/132003602/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1949<br>{{small|(1464 days; retired)}}{{efn|Hildreth instead [[1948 United States Senate election in Maine|ran unsuccessfully]] for the Republican nomination for the [[United States Senate]].{{sfn|Sobel|1978|p=635}}}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1944 Maine gubernatorial election|1944]]
+|- style="height:2em;"
+|[[1946 Maine gubernatorial election|1946]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|60
+|rowspan="2" data-sort-value="Payne, Frederick"|[[File:FrederickGPayne.jpg|75px]]
+|rowspan="2"|'''[[Frederick G. Payne]]'''<br>{{small|(1904–1978)}}<br>{{sfn|Sobel|1978|pp=635–636}}<ref name="nga-payne">{{cite web |title=Frederick George Payne |url=https://www.nga.org/governor/frederick-george-payne/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521022648/https://www.nga.org/governor/frederick-george-payne/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1450"|January 6, 1949<ref>{{Cite news |publication-date=January 7, 1949 |date=January 6, 1949 |location=Augusta, Maine |publication-place=Bangor, Maine |title=800 Persons at Colorful Inaugural; Hildreth Gets Big Ovation As He Leaves |page=1 |newspaper=[[Bangor Daily News]] |url=https://www.newspapers.com/article/the-bangor-daily-news-payne-inaugurated/132003673/ |archive-url=https://web.archive.org/web/20230918204129/https://www.newspapers.com/article/the-bangor-daily-news-payne-inaugurated/132003673/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 25, 1952<br>{{small|(1450 days; resigned)}}{{efn|Payne resigned, having been [[1952 United States Senate election in Maine|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=637}}}}
+|rowspan="2"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1948 Maine gubernatorial election|1948]]
+|- style="height:2em;"
+|[[1950 Maine gubernatorial election|1950]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Cross, Burton"|[[File:BurtonMCross.jpg|75px]]
+|'''[[Burton M. Cross]]'''<br>{{small|(1902–1998)}}<br>{{sfn|Sobel|1978|p=637}}<ref name="nga-cross">{{cite web |title=Burton Melvin Cross |url=https://www.nga.org/governor/burton-melvin-cross/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260909224857/https://www.nga.org/governor/burton-melvin-cross/ |archive-date=September 9, 2026 |url-status=live}}</ref>
+|data-sort-value="13"|December 26, 1952{{efn|name=cross-haskell}}<br/>–<br/>January 7, 1953<br>{{small|(13 days; new senate<br>president elected)}}{{efn|Frederick G. Payne resigned at midnight, and President of the Senate Burton M. Cross became acting governor at 12:01am, on December 26.<ref>{{Cite news |date=December 26, 1952 |location=Augusta, Maine |publication-place=Portland, Maine |title=Burton M. Cross Takes Oath As Acting Maine Governor |page=1 |newspaper=[[Portland Press Herald]] |url=https://www.newspapers.com/article/portland-press-herald-cross-succeeds-pay/132004322/ |archive-url=https://web.archive.org/web/20230918204825/https://www.newspapers.com/article/portland-press-herald-cross-succeeds-pay/132004322/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref> Cross had already been elected to the post, and would take office on January 8, 1953. However, the new Senate elected Nathaniel M. Haskell as president on January 7, so he took over as acting governor for less than a day.<ref>{{Cite news |date=January 7, 1953 |title=Maine To Have No Governor for Eleven Hours |page=2 |location=Augusta, Maine |publication-place=Portland, Maine |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |url=https://www.newspapers.com/article/evening-express-maine-to-have-no-governo/120139950/ |archive-url=https://web.archive.org/web/20230927191744/https://www.newspapers.com/article/120139950/maine-to-have-no-governor-for-eleven/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref>|name=cross-haskell}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Haskell, Nathaniel"|[[File:Nathaniel M. Haskell (Maine governor).jpg|75px]]
+|'''[[Nathaniel M. Haskell]]'''<br>{{small|(1912–1983)}}
+|data-sort-value="2"|January 7, 1953{{efn|name=cross-haskell}}<br/>–<br/>January 8, 1953<br>{{small|(2 days; retired)}}{{efn|name=cross-haskell}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|61
+|data-sort-value="Cross, Burton"|[[File:BurtonMCross.jpg|75px]]
+|'''[[Burton M. Cross]]'''<br>{{small|(1902–1998)}}<br>{{sfn|Sobel|1978|p=637}}<ref name="nga-cross" />
+|data-sort-value="729"|January 8, 1953<ref>{{Cite news |last=St. Germain |first=Wayne |publication-date=January 9, 1953 |date=January 8, 1953 |location=Augusta, Maine |publication-place=Bangor, Maine |title=Protect Liquor and Highway Boards From Political Pressure, Urges Cross |page=1 |newspaper=[[Bangor Daily News]] |url=https://www.newspapers.com/article/the-bangor-daily-news-cross-inaugurated/132004698/ |archive-url=https://web.archive.org/web/20230918203319/https://www.newspapers.com/article/the-bangor-daily-news-cross-inaugurated/132004698/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 6, 1955<br>{{small|(729 days; lost election)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|[[1952 Maine gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|62
+|rowspan="2" data-sort-value="Muskie, Edmund"|[[File:Muskie for Maine (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Edmund Muskie]]'''<br>{{small|(1914–1996)}}<br>{{sfn|Sobel|1978|pp=637–638}}<ref name="nga-muskie">{{cite web |title=Edmund Sixtus Muskie |url=https://www.nga.org/governor/edmund-sixtus-muskie/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613150527/https://www.nga.org/governor/edmund-sixtus-muskie/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1458"|January 6, 1955<ref>{{Cite news |last=Langzettel |first=Bill |publication-date=January 7, 1955 |date=January 6, 1955 |location=Augusta, Maine |publication-place=Portland, Maine |title=Muskie Offers Far-Reaching State Program |page=1 |newspaper=[[Portland Press Herald]] |agency=Associated Press |url=https://www.newspapers.com/article/portland-press-herald-muskie-inaugurated/132012602/ |archive-url=https://web.archive.org/web/20230918204134/https://www.newspapers.com/article/portland-press-herald-muskie-inaugurated/132012602/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 2, 1959<br>{{small|(1458 days; resigned)}}{{efn|Muskie resigned, having been [[1958 United States Senate election in Maine|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=638}}}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=234}}
+|[[1954 Maine gubernatorial election|1954]]
+|- style="height:2em;"
+|[[1956 Maine gubernatorial election|1956]]
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Haskell, Robert"|[[File:HaskellNR.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Robert Haskell]]'''<br>{{small|(1903–1987)}}<br>{{sfn|Sobel|1978|pp=638–639}}<ref name="nga-haskell-robert">{{cite web |title=Robert N. Haskell |url=https://www.nga.org/governor/robert-n-haskell/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260828174139/https://www.nga.org/governor/robert-n-haskell/ |archive-date=August 28, 2026 |url-status=live}}</ref>
+|data-sort-value="7"|January 3, 1959<ref>{{Cite news |date=January 2, 1959 |title=Sen. Pres. Haskell To Become Maine's 49th Governor – For 5 1/2 Days in Office |page=1 |newspaper=[[Portland Press Herald]] |location=Augusta, Maine |publication-place=Portland, Maine |agency=Associated Press |url=https://www.newspapers.com/article/portland-press-herald-haskell-succeeds-m/132012893/ |archive-url=https://web.archive.org/web/20230918204825/https://www.newspapers.com/article/portland-press-herald-haskell-succeeds-m/132012893/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1959<br>{{small|(7 days; retired)}}
+|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|64
+|data-sort-value="Clauson, Clinton"|[[File:ClintonClauson.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Clinton Clauson]]'''<br>{{small|(1895–1959)}}<br>{{sfn|Sobel|1978|pp=639–640}}<ref name="nga-clauson">{{cite web |title=Clinton Amos Clauson |url=https://www.nga.org/governor/clinton-amos-clauson/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260828214211/https://www.nga.org/governor/clinton-amos-clauson/ |archive-date=August 28, 2026 |url-status=live}}</ref>
+|data-sort-value="357"|January 8, 1959<ref>{{Cite news |last=Crocker |first=Robert M. |date=January 8, 1959 |title=Clauson Opens 4-Year Term |page=1 |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |location=Augusta, Maine |publication-place=Portland, Maine |agency=Associated Press |url=https://www.newspapers.com/article/evening-express-clauson-inaugurated-janu/132012952/ |archive-url=https://web.archive.org/web/20230918203321/https://www.newspapers.com/article/evening-express-clauson-inaugurated-janu/132012952/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>December 30, 1959<br>{{small|(357 days; died in office)}}
+|[[Maine Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=234}}
+|[[1958 Maine gubernatorial election|1958]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|65
+|rowspan="3" data-sort-value="Reed, John"|[[File:JohnReed-Maine.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[John H. Reed]]'''<br>{{small|(1921–2012)}}<br>{{sfn|Sobel|1978|pp=640–641}}<ref name="nga-reed">{{cite web |title=John Hathaway Reed |url=https://www.nga.org/governor/john-hathaway-reed/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260829034449/https://www.nga.org/governor/john-hathaway-reed/ |archive-date=August 29, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2564"|December 30, 1959<ref>{{Cite news |date=December 30, 1959 |title=Gov. Clauson Dies; Senate Pres. Reed Succeeds to Governorship |page=1 |newspaper=[[Evening Express (Portland, Maine)|Portland Evening Express]] |location=Augusta, Maine |publication-place=Portland, Maine |agency=Associated Press |url=https://www.newspapers.com/article/evening-express-reed-succeeds-clauson-de/132013041/ |archive-url=https://web.archive.org/web/20230918204824/https://www.newspapers.com/article/evening-express-reed-succeeds-clauson-de/132013041/ |archive-date=September 18, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1967<br>{{small|(2564 days; lost election)}}
+|rowspan="3"|[[Maine Republican Party|Republican]]{{sfn|Kallenbach|1977|p=234}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+|[[1960 Maine gubernatorial special election|1960]]<br>{{small|(special)}}
+|- style="height:2em;"
+|[[1962 Maine gubernatorial election|1962]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|66
+|rowspan="2" data-sort-value="Curtis, Kenneth"|[[File:Photo DED 1967 1975 Curtis Kenneth M. Leeds 193390 (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Kenneth M. Curtis]]'''<br>{{Small|({{Abbr|b.|born in}} 1931)}}<br>{{sfn|Sobel|1978|pp=641–642}}<ref name="nga-curtis-kenneth">{{cite web |title=Kenneth Merwin Curtis |url=https://www.nga.org/governor/kenneth-merwin-curtis/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260910184308/https://www.nga.org/governor/kenneth-merwin-curtis/ |archive-date=September 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 5, 1967<ref>{{Cite news |date=January 5, 1967 |title=Curtis Takes Oath As Governor; Plans Major Govt. Reorganization |page=1 |location=Augusta, Maine |publication-place=Lewiston, Maine |newspaper=[[Sun Journal (Maine)|Lewiston Evening Journal]] |agency=Associated Press |url=https://www.newspapers.com/article/sun-journal-curtis-inaugurated-january-5/132014840/ |archive-url=https://web.archive.org/web/20231101035213/https://www.newspapers.com/article/sun-journal-curtis-inaugurated-january-5/132014840/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 2, 1975<br>{{small|(2920 days; term-limited)}}{{efn|Under a 1957 amendment to the constitution, governors are ineligible to succeed themselves after serving two consecutive elected terms.<ref name="amends" />|name=limits}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=234}}
+|[[1966 Maine gubernatorial election|1966]]
+|- style="height:2em;"
+|[[1970 Maine gubernatorial election|1970]]
+|- style="height:2em;"
+!scope="row"|67
+|data-sort-value="Longley, James"|[[File:James B. Longley (Maine governor) (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Independent (United States)}};" title="Represented no party"|
+|'''[[James B. Longley]]'''<br>{{small|(1924–1980)}}<br>{{sfn|Sobel|1978|p=642}}<ref name="nga-longley">{{cite web |title=James Bernard Longley |url=https://www.nga.org/governor/james-bernard-longley/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260311160606/https://www.nga.org/governor/james-bernard-longley/ |archive-date=March 11, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|January 2, 1975<ref>{{Cite news |last=Day |first=John S. |date=January 3, 1975 |title=Longley Sworn In As Governor |page=1 |location=Augusta, Maine |publication-place=Bangor, Maine |newspaper=[[Bangor Daily News]] |url=https://www.newspapers.com/article/the-bangor-daily-news-longley-inaugurate/132014941/ |archive-url=https://web.archive.org/web/20231101035217/https://www.newspapers.com/article/the-bangor-daily-news-longley-inaugurate/132014941/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 3, 1979<br>{{small|(1463 days; retired)}}
+|[[Independent politician|Independent]]{{sfn|Kallenbach|1977|p=234}}
+|[[1974 Maine gubernatorial election|1974]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|68
+|rowspan="2" data-sort-value="Brennan, Joseph"|[[File:Joseph E. Brennan (ME).png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Joseph E. Brennan]]'''<br>{{small|(1934–2024)}}<br><ref name="nga-brennan">{{cite web |title=Joseph Edward Brennan |url=https://www.nga.org/governor/joseph-edward-brennan/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260416232258/https://www.nga.org/governor/joseph-edward-brennan/ |archive-date=April 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2928"|January 4, 1979<ref>{{Cite news |date=January 4, 1979 |title=Inauguration Tonight |page=4 |newspaper=[[The Lewiston Daily Sun]] |url=https://www.newspapers.com/article/the-lewiston-daily-sun-brennan-inaugurat/132015151/ |archive-url=https://web.archive.org/web/20231101035215/https://www.newspapers.com/article/the-lewiston-daily-sun-brennan-inaugurat/132015151/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 1987<br>{{small|(2928 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]<ref name="nga-brennan" />
+|[[1978 Maine gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1982 Maine gubernatorial election|1982]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|70{{efn|The numbering from the Maine State Law and Legislative Reference Library notes that, in the past, [[Burton M. Cross]] and [[Nathaniel M. Haskell]]'s short terms in 1952–1953 were not counted, and they corrected the count by one prior to [[John R. McKernan Jr.]]'s inauguration.<ref>{{Cite web |title=Governors of Maine |url=http://legislature.maine.gov/lawlibrary/governors-of-maine-1820/9197/ |access-date=October 28, 2026 |website=Maine State Law and Legislative Reference Library |archive-url=https://web.archive.org/web/20250309165227/http://legislature.maine.gov/lawlibrary/governors-of-maine-1820/9197/ |archive-date=March 9, 2025 |url-status=live}}</ref>|name=count}}
+|rowspan="2" data-sort-value="McKernan, John"|[[File:Governor John McKernan official portrait (cropped 2).jpg |75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[John R. McKernan Jr.]]'''<br>{{Small|({{Abbr|b.|born in}} 1948)}}<br>{{sfn|Mullaney|1994|pp=164–167}}<ref name="nga-mckernan">{{cite web |title=John Rettie McKernan |url=https://www.nga.org/governor/john-rettie-mckernan/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260725150601/https://www.nga.org/governor/john-rettie-mckernan/ |archive-date=July 25, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 8, 1987<ref>{{Cite news |last=Jackson |first=Peter |date=January 9, 1987 |title=McKernan: Maine 'Opportunity State' |page=1 |location=Augusta, Maine |publication-place=Lewiston, Maine |newspaper=[[The Lewiston Daily Sun]] |agency=Associated Press |url=https://www.newspapers.com/article/the-lewiston-daily-sun-mckernan-inaugura/132015376/ |archive-url=https://web.archive.org/web/20231101035220/https://www.newspapers.com/article/the-lewiston-daily-sun-mckernan-inaugura/132015376/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 1995<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Maine Republican Party|Republican]]<ref name="nga-mckernan" />
+|[[1986 Maine gubernatorial election|1986]]
+|- style="height:2em;"
+|[[1990 Maine gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|71
+|rowspan="2" data-sort-value="King, Angus"|[[File:Angus King official portrait.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Independent (United States)}};" title="Represented no party"|
+|rowspan="2"|'''[[Angus King]]'''<br>{{Small|({{Abbr|b.|born in}} 1944)}}<br><ref name="nga-king-angus">{{cite web |title=Angus S. King |url=https://www.nga.org/governor/angus-s-king/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511230133/https://www.nga.org/governor/angus-s-king/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2926"|January 5, 1995<ref>{{Cite news |last=Remal |first=Gary J. |date=January 6, 1995 |title=It's Official: King Is 71st Governor |page=1 |newspaper=[[Kennebec Journal]] |url=https://www.newspapers.com/article/kennebec-journal-king-inaugurated-januar/132015580/ |archive-url=https://web.archive.org/web/20231101035215/https://www.newspapers.com/article/kennebec-journal-king-inaugurated-januar/132015580/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 8, 2003<br>{{small|(2926 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Independent politician|Independent]]<ref name="nga-king-angus" />
+|[[1994 Maine gubernatorial election|1994]]
+|- style="height:2em;"
+|[[1998 Maine gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|72
+|rowspan="2" data-sort-value="Baldacci, John"|[[File:John Baldacci - 107th United States Congress.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John Baldacci]]'''<br>{{Small|({{Abbr|b.|born in}} 1955)}}<br><ref name="nga-baldacci">{{cite web |title=John E. Baldacci |url=https://www.nga.org/governor/john-e-baldacci/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417183850/https://www.nga.org/governor/john-e-baldacci/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 8, 2003<ref>{{Cite news |last=Carrier |first=Paul |date=January 9, 2003 |title=Baldacci Sees 'Greatness' in State's Future |page=1A |newspaper=[[Portland Press Herald]] |location=Augusta, Maine |publication-place=Portland, Maine |url=https://www.newspapers.com/article/portland-press-herald-baldacci-inaugurat/132020812/ |archive-url=https://web.archive.org/web/20231101035214/https://www.newspapers.com/article/portland-press-herald-baldacci-inaugurat/132020812/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 5, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]<ref name="nga-baldacci" />
+|[[2002 Maine gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Maine gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|73
+|rowspan="2" data-sort-value="LePage, Paul"|[[File:LePagesmiling cropped.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Paul LePage]]'''<br>{{Small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-lepage">{{cite web |title=Paul LePage |url=https://www.nga.org/governor/paul-lepage/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517094415/https://www.nga.org/governor/paul-lepage/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 5, 2011<ref>{{Cite news |last=Cover |first=Susan M. |date=January 6, 2011 |location=Augusta, Maine |publication-place=Portland, Maine |title=New Chief, New Vision |page=A1 |newspaper=[[Portland Press Herald]] |url=https://www.newspapers.com/article/portland-press-herald-lepage-inaugurated/132020905/ |archive-url=https://web.archive.org/web/20231101035216/https://www.newspapers.com/article/portland-press-herald-lepage-inaugurated/132020905/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 2, 2019<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Maine Republican Party|Republican]]<ref name="nga-lepage" />
+|[[2010 Maine gubernatorial election|2010]]
+|- style="height:2em;"
+|[[2014 Maine gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|74
+|rowspan="2" data-sort-value="Mills, Janet"|[[File:Janet Mills in 2019.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Janet Mills]]'''<br>{{Small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-mills">{{cite web |title=Janet Mills |url=https://www.nga.org/governor/janet-mills/ |access-date=October 27, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260925085835/https://www.nga.org/governor/janet-mills/ |archive-date=September 25, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|2|duration=on|format=no}}"|January 2, 2019<ref>{{Cite news |last=Miller |first=Kevin |last2=Thistle |first2=Scott |date=January 3, 2019 |title='We Are All in This Together' |page=A1 |location=Augusta, Maine |publication-place=Portland, Maine |newspaper=[[Portland Press Herald]] |url=https://www.newspapers.com/article/portland-press-herald-mills-inaugurated/132020970/ |archive-url=https://web.archive.org/web/20231101035222/https://www.newspapers.com/article/portland-press-herald-mills-inaugurated/132020970/ |archive-date=November 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>Incumbent{{efn|Mills' second term began on January 4, 2023,<ref>{{Cite news |last=Hirschkorn |first=Phil |date=January 4, 2023 |title=Maine Gov. Janet Mills inaugurated for second term after easy November reelection win |url=https://www.wmtw.com/article/gov-mills-inaugurated-second-term-leading-maine/42393888 |access-date=October 28, 2026 |website=[[WMTW (TV)|WMTW]] |archive-url=https://web.archive.org/web/20230111225205/https://www.wmtw.com/article/gov-mills-inaugurated-second-term-leading-maine/42393888 |archive-date=January 11, 2023 |url-status=live}}</ref> and [[2026 Maine gubernatorial election|will expire]] on January 6, 2027; she will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|2|duration=on|format=no}} days)}}
+|rowspan="2"|[[Maine Democratic Party|Democratic]]<ref name="nga-mills" />
+|[[2018 Maine gubernatorial election|2018]]
+|- style="height:2em;"
+|[[2022 Maine gubernatorial election|2022]]
+|}
+
+== See also ==
+* {{section link|Gubernatorial lines of succession in the United States|Maine}}
+* [[List of Maine state legislatures]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+{{refbegin}}
+* {{Cite web |title=Former Maine Governors |url=https://www.nga.org/former-governors/maine/ |access-date=October 28, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Maine Constitution |url=https://50constitutions.org/me/constitution |ref={{sfnref|Me. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 25, 2026}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=February 27, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Governors of Maine |url=http://legislature.maine.gov/lawlibrary/governors-of-maine-1820/9197/ |access-date=January 12, 2018 |publisher=Maine State Law and Legislative Reference Library}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons03thor/ |volume=3 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{commons category | Governors of Maine}}
+*[http://www.maine.gov/governor Office of the Governor of Maine]
+
+{{Governors of Maine}}
+{{Lists of US Governors}}
+{{Maine}}
+{{Current Maine statewide political officials}}
+
+[[Category:Governors of Maine|*]]
+[[Category:Lists of state governors of the United States|Maine]]
+[[Category:Lists of Maine politicians|Governors]]
+[[Category:Maine history-related lists|Governors]]

@@ -1,0 +1,784 @@
+{{Short description|None}}
+{{Use mdy dates|date=June 2018}}
+{{Infobox official post
+| post = Governor
+| body = Kansas
+| insignia = Great Seal of the State of Kansas Colored.svg
+| insignia_size = 110
+| insignia_caption = [[Seal of Kansas|State seal]]
+| flag = Flag of the Governor of Kansas.svg
+| flag_border = yes
+| flag_caption = Standard of the governor
+| image = Laura Kelly official photo (cropped).jpg
+| incumbent = [[Laura Kelly]]
+| incumbent_since = January 14, 2019
+| department = [[Government of Kansas]]
+| residence = [[Cedar Crest (mansion)|Cedar Crest]]
+| term_length = Four years, renewable once consecutively
+| formation = February 9, 1861
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Kansas|Line of succession]]
+| deputy = [[Lieutenant Governor of Kansas]]
+| inaugural = [[Charles L. Robinson]]
+| salary = $110,707 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 5, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+| website = {{url|governor.kansas.gov}} <!-- as this is a LIST wikidata has a conflict with Property:P856 (Official website) when the Kansas Governor article is no longer relegated to a list--this should be on the talk page. website = {{official website}}  |  -->
+}}
+The '''governor of Kansas''' is the [[head of state]] of [[Kansas]]{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64239 art. I, § 3]}} and the commander-in-chief of the state's [[Kansas National Guard|military forces]].{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64431 art. VIII, § 4]}} The governor has a duty to enforce state laws,{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64239 art. I, § 3]}} and the power to either approve or veto bills passed by the [[Kansas Legislature]],{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64296 art. II, § 14]}} to convene the legislature at any time,{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64243 art. I, § 5]}} and to grant [[pardon]]s.{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64247 art. I, § 7]}}
+
+Since becoming a state, Kansas has had 48 governors. The state's longest-serving governors were [[Robert Docking]], [[John W. Carlin]], and [[Bill Graves]], each of whom served 8 years (Docking served four two-year terms; Carlin and Graves each served 2 4-year terms). The shortest-serving governor was [[John McCuish]], who served only 11 days after the resignation of [[Fred Hall]].
+
+The current governor is [[Kansas Democratic Party|Democrat]] [[Laura Kelly]], who took office on January 14, 2019.
+
+== List of governors ==
+
+=== Kansas Territory ===
+[[Kansas Territory]] was organized on May 30, 1854, from land that had previously been part of [[Missouri Territory]].<ref>{{usstat|10|277}}</ref> Despite existing only for six years, it had six governors appointed by the [[president of the United States]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Kansas
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Reeder, Andrew"|[[File:AReeder.jpg|75px]]
+|'''[[Andrew Horatio Reeder]]'''<br>{{Small|(1807–1864)}}<br>{{sfn|McMullin|1984|pp=161–162}}
+|data-sort-value="398"|June 29, 1854{{efn|Reeder was nominated on June 22, 1854,<ref>{{cite book |title=Senate Executive Journal, 33rd Cong., 1st sess. |author=United States Senate |page=340 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527005&seq=346 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on June 29,<ref>{{cite book |title=Senate Executive Journal, 33rd Cong., 1st sess. |author=United States Senate |page=345 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527005&seq=351 |via=[[HathiTrust]]}}</ref> and took office on October 7.{{sfn|McMullin|1984|p=161}}}}<br />–<br />July 31, 1855<br>{{small|(398 days; removed)}}{{efn|Reeder was dismissed by President [[Franklin Pierce]], "on the tenuous grounds of illegal land speculation" when he refused another appointment.{{sfn|McMullin|1984|p=162}}}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Shannon, Wilson"|[[File:WShannon.jpg|75px]]
+|'''[[Wilson Shannon]]'''<br>{{Small|(1802–1877)}}<br>{{sfn|McMullin|1984|pp=163–164}}
+|data-sort-value="357"|August 10, 1855{{efn|Shannon was appointed on August 10, 1855,{{sfn|McMullin|1984|p=163}} during a Senate recess; nominated on December 7, 1855,<ref>{{cite book |title=Senate Executive Journal, 34th Cong., 1st sess. |author=United States Senate |page=1 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527013&seq=7 |via=[[HathiTrust]]}}</ref>
+ and confirmed by the Senate on February 19, 1856.<ref>{{cite book |title=Senate Executive Journal, 34th Cong., 1st sess. |author=United States Senate |page=50 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527013&seq=56 |via=[[HathiTrust]]}}</ref> He took office on September 1, 1855.{{sfn|McMullin|1984|p=163}}}}<br />–<br />July 31, 1856<br>{{small|(357 days; replaced)}}{{efn|Shannon resigned on August 18, frustrated at how ungovernable he found the territory;{{sfn|McMullin|1984|p=164}} however, his replacement had already been confirmed by the Senate.}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Geary, John"|[[File:Portrait of Col. John W. Geary Crop.jpg|75px]]
+|'''[[John W. Geary]]'''<br>{{Small|(1819–1873)}}<br>{{sfn|McMullin|1984|pp=164–166}}
+|data-sort-value="217"|July 31, 1856{{efn|Geary was nominated on July 28, 1856,<ref>{{cite book |title=Senate Executive Journal, 34th Cong., 1st sess. |author=United States Senate |page=130 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527013&seq=136 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on July 31,<ref>{{cite book |title=Senate Executive Journal, 34th Cong., 1st sess. |author=United States Senate |page=131 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527013&seq=137 |via=[[HathiTrust]]}}</ref> and took office on September 9.{{sfn|McMullin|1984|p=165}}}}<br />–<br />March 4, 1857<br>{{small|(217 days; resigned)}}{{efn|Geary resigned, "discouraged and feeling betrayed" due to the violence he had experienced.{{sfn|McMullin|1984|p=165}}}}
+|{{sortname|Franklin|Pierce}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Walker, Robert"|[[File:Hon. Robert J. Walker, Miss - NARA - 528738.jpg|75px]]
+|'''[[Robert J. Walker]]'''<br>{{Small|(1801–1869)}}<br>{{sfn|McMullin|1984|pp=166–168}}
+|data-sort-value="263"|March 30, 1857{{efn|Walker was appointed on March 30, 1857, during a Senate recess; he was never confirmed by the Senate. He gave his inaugural address on May 27.{{sfn|McMullin|1984|p=167}}}}<br />–<br />December 17, 1857<br>{{small|(263 days; resigned)}}{{efn|Walker resigned following constant attack by pro-slavery forces and lack of support from the federal administration.{{sfn|McMullin|1984|p=167}}}}
+|{{sortname|James|Buchanan}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Denver, James"|[[File:James W Denver by Whitehurst Studio c1856.jpg|75px]]
+|'''[[James W. Denver]]'''<br>{{Small|(1817–1892)}}<br>{{sfn|McMullin|1984|pp=168–170}}
+|data-sort-value="258"|February 24, 1858{{efn|Denver was nominated on January 12, 1858,<ref>{{cite book |title=Senate Executive Journal, 35th Cong., 1st sess. |author=United States Senate |page=286 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527013&seq=296 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on February 24.<ref>{{cite book |title=Senate Executive Journal, 35th Cong., 1st sess. |author=United States Senate |page=322 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527013&seq=332 |via=[[HathiTrust]]}}</ref>}}<br />–<br />November 8, 1858<br>{{small|(258 days; resigned)}}{{efn|Denver resigned, tired of the constant strife and lack of support from the federal administration. He submitted his resignation on October 10, 1858, to take effect upon the arrival of his successor, but he left the territory on November 8.{{sfn|McMullin|1984|p=170}}}}
+|{{sortname|James|Buchanan}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Medary, Samuel"|[[File:SamuelMedary.jpg|75px]]
+|'''[[Samuel Medary]]'''<br>{{Small|(1801–1864)}}<br>{{sfn|McMullin|1984|pp=170–172}}
+|data-sort-value="759"|November 23, 1858{{efn|Medary was appointed on November 23, 1858,{{sfn|McMullin|1984|p=171}} during a Senate recess; nominated on December 21;<ref>{{cite book |title=Senate Executive Journal, 35th Cong., 2nd sess. |author=United States Senate |page=24 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527021&seq=34 |via=[[HathiTrust]]}}</ref>
+ and confirmed by the Senate on December 22.<ref>{{cite book |title=Senate Executive Journal, 35th Cong., 2nd sess. |author=United States Senate |page=30 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106527021&seq=44 |via=[[HathiTrust]]}}</ref> He took office on December 18.{{sfn|McMullin|1984|p=171}}}}<br />–<br />December 20, 1860<br>{{small|(759 days; resigned)}}{{efn|Medary resigned following the election of [[Abraham Lincoln]] to president;{{sfn|McMullin|1984|p=172}} he had already lost the election to be the first state governor.{{sfn|Sobel|1978|p=459}}}}
+|{{sortname|James|Buchanan}}
+|}
+
+=== State of Kansas ===
+[[File:Standard of the Governor of Kansas (pre-1961).svg|thumb|right|150px|[[Flags of governors of the U.S. states|Flag of the governor]] prior to 1961. It is unclear when the governor's flag was first created]]
+The eastern bulk of Kansas Territory was [[Admission to the Union|admitted to the Union]] as Kansas on January 29, 1861.<ref>{{usstat|12|126}}</ref> The [[Wyandotte Constitution|Kansas Constitution]] provided that a governor and [[Lieutenant Governor of Kansas|lieutenant governor]] be elected every 2 years, for a term commencing on the second Monday in the January after the election.{{sfn|Thorpe|1909|p=1243|loc=1861 art. I, § 1}} An amendment in 1972 increased terms to four years, with a limit that a governor could not serve more than two terms in a row, and provided that the governor and lieutenant governor are elected on the same [[ticket (election)|ticket]].<ref>{{cite news |url=https://www.newspapers.com/article/the-wichita-eagle-kansans-ok-3-amendment/209049434/ |title=Kansans OK 3 Amendments to Constitution |date=November 8, 1972 |page=13A |last=Gregory |first=Jim |newspaper=[[The Wichita Eagle]] |via=Newspapers.com}}</ref> In the original constitution, should the office of governor be vacant, the powers would devolve upon the lieutenant governor, who nonetheless would remain in that office;{{sfn|Thorpe|1909|p=1244|loc=1861 art. I, § 11}} the 1972 amendment changed it so that, in such an event, the lieutenant governor becomes governor.{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64251 art. I, § 11]}}
+
+Until 2018, there was no age or residency requirement to run for the office; in 2017, three teenagers were doing so.<ref>{{Cite news |last=Woodall |first=Hunter |date=September 28, 2017 |title=As third teen joins Kansas governor race, consider this: No rule says a dog can't run |newspaper=[[The Kansas City Star]] |url=http://www.kansascity.com/news/politics-government/article175956836.html |access-date=October 26, 2026 |archive-url=https://web.archive.org/web/20170928205105/http://www.kansascity.com/news/politics-government/article175956836.html |archive-date=September 28, 2017 |url-status=live}}</ref> In 2018, a law was passed establishing the age to run for governor and lieutenant governor at 25.<ref>{{Cite news |date=May 18, 2018 |title=New law sets minimum age for Kansas governor candidates |website=[[KWCH-DT]] |url=https://www.kwch.com/content/news/New-law-requires-Kansas-governor-candidates-to-be-at-least-25-years-old-483075941.html |archive-url=https://web.archive.org/web/20180522020801/https://www.kwch.com/content/news/New-law-requires-Kansas-governor-candidates-to-be-at-least-25-years-old-483075941.html |archive-date=May 22, 2018 |url-status=live}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Kansas
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Kansas|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Robinson, Charles"|[[File:Charles L. Robinson.jpg|75px]]
+|rowspan="13" style="background: {{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Charles L. Robinson]]'''<br>{{Small|(1818–1894)}}<br>{{sfn|Sobel|1978|pp=459–460}}<ref name="nga-robinson">{{cite web |title=Charles Lawrence Robinson |url=https://www.nga.org/governor/charles-lawrence-robinson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260928131429/https://www.nga.org/governor/charles-lawrence-robinson/ |archive-date=September 28, 2026 |url-status=live}}</ref><ref name="ks-robinson">{{Cite web |title=Charles Robinson |url=https://www.kansashistory.gov/kansapedia/charles-robinson/11739 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260511145323/https://www.kansashistory.gov/kansapedia/charles-robinson/11739 |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="703"|February 9, 1861<ref>{{Cite news |date=February 21, 1861 |title=Proclamation |page=2 |newspaper=White Cloud Kansas Chief |url=https://www.newspapers.com/article/white-cloud-kansas-chief-robinson-inaugu/130435809/ |archive-url=https://web.archive.org/web/20230822045148/https://www.newspapers.com/article/white-cloud-kansas-chief-robinson-inaugu/130435809/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1863<br>{{small|(703 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=460}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1859 Kansas gubernatorial election|1859]]
+|rowspan="4" style="background: {{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Joseph Pomeroy|Root}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Carney, Thomas"|[[File:TCarney.jpg|75px]]
+|'''[[Thomas Carney]]'''<br>{{Small|(1824–1888)}}<br>{{sfn|Sobel|1978|pp=460–461}}<ref name="nga-carney">{{cite web |title=Thomas Carney |url=https://www.nga.org/governor/thomas-carney/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260630194534/https://www.nga.org/governor/thomas-carney/ |archive-date=June 30, 2026 |url-status=live}}</ref><ref name="ks-carney">{{Cite web |title=Thomas Carney |url=https://www.kansashistory.gov/kansapedia/thomas-carney/17101 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260515204033/https://www.kansashistory.gov/kansapedia/thomas-carney/17101 |archive-date=May 15, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 12, 1863<ref>{{Cite news |date=January 14, 1863 |title=Topeka Items |page=3 |newspaper=Evening Bulletin |url=https://www.newspapers.com/article/the-leavenworth-bulletin-carney-inaugura/130435935/ |archive-url=https://web.archive.org/web/20230822053713/https://www.newspapers.com/article/the-leavenworth-bulletin-carney-inaugura/130435935/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1865<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=461}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1862 Kansas gubernatorial election|1862]]
+|{{sortname|Thomas A.|Osborn}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Crawford, Samuel"|[[File:Samuel J. Crawford.jpg|75px]]
+|rowspan="2"|'''[[Samuel J. Crawford]]'''<br>{{Small|(1835–1913)}}<br>{{sfn|Sobel|1978|pp=461–462}}<ref name="nga-crawford">{{cite web |title=Samuel Johnson Crawford |url=https://www.nga.org/governor/samuel-johnson-crawford/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261011125724/https://www.nga.org/governor/samuel-johnson-crawford/ |archive-date=October 11, 2026 |url-status=live}}</ref><ref name="ks-crawford">{{Cite web |title=Samuel J. Crawford |url=https://www.kansashistory.gov/kansapedia/samuel-j-crawford/17102 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260217210358/https://www.kansashistory.gov/kansapedia/samuel-j-crawford/17102 |archive-date=February 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1396"|January 9, 1865<ref>{{Cite news |publication-date=January 13, 1865 |date=January 11, 1865 |title=From the Capital |page=2 |newspaper=Evening Bulletin |location=Topeka, Kansas |publication-place=Leavenworth, Kansas |url=https://www.newspapers.com/article/the-leavenworth-bulletin-crawford-inaugu/130436108/ |archive-url=https://web.archive.org/web/20230822045155/https://www.newspapers.com/article/the-leavenworth-bulletin-crawford-inaugu/130436108/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 4, 1868<br>{{small|(1396 days; resigned)}}{{efn|Crawford resigned to take command of the 19th Kansas Infantry.{{sfn|Sobel|1978|p=462}}}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1864 Kansas gubernatorial election|1864]]
+|{{sortname|James|McGrew|dab=Kansas politician}}
+|- style="height:2em;"
+|[[1866 Kansas gubernatorial election|1866]]
+|{{sortname|Nehemiah|Green}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Green, Nehemiah"|[[File:NehemiahGreen.gif|75px]]
+|'''[[Nehemiah Green]]'''<br>{{Small|(1837–1890)}}<br>{{sfn|Sobel|1978|pp=462–463}}<ref name="nga-green">{{cite web |title=Nehemiah Green |url=https://www.nga.org/governor/nehemiah-green/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260703184937/https://www.nga.org/governor/nehemiah-green/ |archive-date=July 3, 2026 |url-status=live}}</ref><ref name="ks-green">{{Cite web |title=Nehemiah Green |url=https://www.kansashistory.gov/kansapedia/nehemiah-green/17103 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260520075904/https://www.kansashistory.gov/kansapedia/nehemiah-green/17103 |archive-date=May 20, 2026 |url-status=live}}</ref>
+|data-sort-value="69"|November 4, 1868<ref>{{Cite news |date=November 5, 1868 |title=Gov. N. Green |page=3 |newspaper=Topeka Weekly Leader |url=https://www.newspapers.com/article/topeka-weekly-leader-green-succeeds-craw/130436241/ |archive-url=https://web.archive.org/web/20230822045150/https://www.newspapers.com/article/topeka-weekly-leader-green-succeeds-craw/130436241/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1869<br>{{small|(69 days; retired)}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Harvey, James"|[[File:James M. Harvey.gif|75px]]
+|rowspan="2"|'''[[James M. Harvey (politician)|James M. Harvey]]'''<br>{{Small|(1833–1894)}}<br>{{sfn|Sobel|1978|pp=463–464}}<ref name="nga-harvey">{{cite web |title=James Madison Harvey |url=https://www.nga.org/governor/james-madison-harvey/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418112902/https://www.nga.org/governor/james-madison-harvey/ |archive-date=April 18, 2026 |url-status=live}}</ref><ref name="ks-harvey">{{Cite web |title=James Madison Harvey |url=https://www.kansashistory.gov/kansapedia/james-madison-harvey/17032 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260514040307/https://www.kansashistory.gov/kansapedia/james-madison-harvey/17032 |archive-date=May 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1869<ref>{{Cite news |publication-date=January 12, 1869 |date=January 11, 1869 |title=From Topeka: Inauguration of State Officers |page=2 |newspaper=Kansas Daily Tribune |location=Topeka, Kansas |publication-place=Lawrence, Kansas |url=https://www.newspapers.com/article/the-daily-kansas-tribune-harvey-inaugura/130436303/ |archive-url=https://web.archive.org/web/20230822050702/https://www.newspapers.com/article/the-daily-kansas-tribune-harvey-inaugura/130436303/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1873<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1868 Kansas gubernatorial election|1868]]
+|rowspan="13" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Charles Vernon|Eskridge}}
+|- style="height:2em;"
+|[[1870 Kansas gubernatorial election|1870]]
+|{{sortname|Peter Percival|Elder}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Osborn, Thomas"|[[File:ThosAOsborn.gif|75px]]
+|rowspan="2"|'''[[Thomas A. Osborn]]'''<br>{{Small|(1836–1898)}}<br>{{sfn|Sobel|1978|pp=464–465}}<ref name="nga-osborn">{{cite web |title=Thomas Andrew Osborn |url=https://www.nga.org/governor/thomas-andrew-osborn/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260704203110/https://www.nga.org/governor/thomas-andrew-osborn/ |archive-date=July 4, 2026 |url-status=live}}</ref><ref name="ks-osborn">{{Cite web |title=Thomas Andrew Osborn |url=https://www.kansashistory.gov/kansapedia/thomas-andrew-osborn/17104 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260508090155/https://www.kansashistory.gov/kansapedia/thomas-andrew-osborn/17104 |archive-date=May 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 13, 1873<ref>{{Cite news |date=January 16, 1873 |title=The Week |page=2 |newspaper=[[Western Home Journal]] |url=https://www.newspapers.com/article/western-home-journal-osborn-inaugurated/130436514/ |archive-url=https://web.archive.org/web/20230822053715/https://www.newspapers.com/article/western-home-journal-osborn-inaugurated/130436514/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 8, 1877<br>{{small|(1457 days; retired)}}{{efn|Osborn instead [[1876–77 United States Senate elections|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=465}}<ref>{{cite news |url=https://www.newspapers.com/article/the-atchison-weekly-patriot-democratic-l/204832335/ |title=Democratic Legislators |newspaper=Atchison Patriot |date=January 6, 1877 |page=1 |via=Newspapers.com}}</ref>}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1872 Kansas gubernatorial election|1872]]
+|{{sortname|Elias S.|Stover}}
+|- style="height:2em;"
+|[[1874 Kansas gubernatorial election|1874]]
+|rowspan="2"|{{sortname|Melville J.|Salter}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Anthony, George"|[[File:GeoTAnthony.gif|75px]]
+|rowspan="2"|'''[[George T. Anthony]]'''<br>{{Small|(1824–1896)}}<br>{{sfn|Sobel|1978|pp=465–466}}<ref name="nga-anthony">{{cite web |title=George Tobey Anthony |url=https://www.nga.org/governor/george-tobey-anthony/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260820121044/https://www.nga.org/governor/george-tobey-anthony/ |archive-date=August 20, 2026 |url-status=live}}</ref><ref name="ks-anthony">{{Cite web |title=George T. Anthony |url=https://www.kansashistory.gov/kansapedia/george-t-anthony/17105 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20251017071737/https://www.kansashistory.gov/kansapedia/george-t-anthony/17105 |archive-date=October 17, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="736"|January 8, 1877<ref>{{Cite news |date=January 9, 1877 |title=The Inauguration |page=3 |newspaper=The Commonwealth |url=https://www.newspapers.com/article/the-daily-commonwealth-anthony-inaugurat/130436588/ |archive-url=https://web.archive.org/web/20230822043643/https://www.newspapers.com/article/the-daily-commonwealth-anthony-inaugurat/130436588/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1879<br>{{small|(736 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=466}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|rowspan="2"|[[1876 Kansas gubernatorial election|1876]]
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Lyman U.|Humphrey}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="St. John, John"|[[File:John St John 1880.jpg|75px]]
+|rowspan="2"|'''[[John St. John (American politician)|John St. John]]'''<br>{{Small|(1833–1916)}}<br>{{sfn|Sobel|1978|pp=467–468}}<ref name="nga-stjohn">{{cite web |title=John Pierce St. John |url=https://www.nga.org/governor/john-pierce-st-john/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260828214958/https://www.nga.org/governor/john-pierce-st-john/ |archive-date=August 28, 2026 |url-status=live}}</ref><ref name="ks-stjohn">{{Cite web |title=John P. St. John |url=https://www.kansashistory.gov/kansapedia/john-p-st-john/17106 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260901204319/https://www.kansashistory.gov/kansapedia/john-p-st-john/17106 |archive-date=September 1, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 13, 1879<ref>{{Cite news |publication-date=January 14, 1879 |date=January 13, 1879 |title=An Active Day |page=1 |newspaper=[[Leavenworth Times]] |agency=Associated Press |url=https://www.newspapers.com/article/the-leavenworth-times-st-john-inaugurat/130436643/ |location=Topeka, Kansas |publication-place=Leavenworth, Kansas |archive-url=https://web.archive.org/web/20230822045150/https://www.newspapers.com/article/the-leavenworth-times-st-john-inaugurat/130436643/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 8, 1883<br>{{small|(1457 days; lost election)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1878 Kansas gubernatorial election|1878]]
+|- style="height:2em;"
+|[[1880 Kansas gubernatorial election|1880]]
+|rowspan="2"|{{sortname|David Wesley|Finney}}{{efn|name=ltgov-rep|Represented the [[Kansas Republican Party|Republican Party]]}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Glick, George"|[[File:GWGlick.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[George Washington Glick]]'''<br>{{Small|(1827–1911)}}<br>{{sfn|Sobel|1978|pp=468–469}}<ref name="nga-glick">{{cite web |title=George Washington Glick |url=https://www.nga.org/governor/george-washington-glick/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617062721/https://www.nga.org/governor/george-washington-glick/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="ks-glick">{{Cite web |title=George W. Glick |url=https://www.kansashistory.gov/kansapedia/george-w-glick/17107 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260508082609/https://www.kansashistory.gov/kansapedia/george-w-glick/17107 |archive-date=May 8, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 8, 1883<ref>{{Cite news |date=January 8, 1883 |title=Kansas Redeemed |page=1 |newspaper=Leavenworth Evening Standard |url=https://www.newspapers.com/article/the-leavenworth-standard-glick-inaugurat/130436688/ |location=Topeka, Kansas |publication-place=Leavenworth, Kansas |archive-url=https://web.archive.org/web/20230822045146/https://www.newspapers.com/article/the-leavenworth-standard-glick-inaugurat/130436688/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1885<br>{{small|(736 days; lost election)}}
+|[[Kansas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=193}}
+|[[1882 Kansas gubernatorial election|1882]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Martin, John"|[[File:John alexander martin.jpeg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[John Martin (governor of Kansas)|John Martin]]'''<br>{{Small|(1839–1889)}}<br>{{sfn|Sobel|1978|pp=469–470}}<ref name="nga-martin">{{cite web |title=John Alexander Martin |url=https://www.nga.org/governor/john-alexander-martin/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260719090104/https://www.nga.org/governor/john-alexander-martin/ |archive-date=July 19, 2026 |url-status=live}}</ref><ref name="ks-martin">{{Cite web |title=John Alexander Martin |url=https://www.kansashistory.gov/kansapedia/john-alexander-martin/17631 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260421064345/https://www.kansashistory.gov/kansapedia/john-alexander-martin/17631 |archive-date=April 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1885<ref>{{Cite news |date=January 12, 1885 |publication-date=January 13, 1885 |title=Kansas Happenings |page=1 |newspaper=Atchison Daily Champion |location=Topeka, Kansas |publication-place=Atchison, Kansas |url=https://www.newspapers.com/article/the-atchison-daily-champion-martin-inaug/130436828/ |archive-url=https://web.archive.org/web/20230822053717/https://www.newspapers.com/article/the-atchison-daily-champion-martin-inaug/130436828/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1889<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1884 Kansas gubernatorial election|1884]]
+|rowspan="2"|{{sortname|Alexander P.|Riddle}}
+|- style="height:2em;"
+|[[1886 Kansas gubernatorial election|1886]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Humphrey, Lyman"|[[File:LUHumphrey.jpg|75px]]
+|rowspan="2"|'''[[Lyman U. Humphrey]]'''<br>{{Small|(1844–1915)}}<br>{{sfn|Sobel|1978|pp=471–472}}<ref name="nga-humphrey">{{cite web |title=Lyman Underwood Humphrey |url=https://www.nga.org/governor/lyman-underwood-humphrey/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260715033020/https://www.nga.org/governor/lyman-underwood-humphrey/ |archive-date=July 15, 2026 |url-status=live}}</ref><ref name="ks-humphrey">{{Cite web |title=Lyman Underwood Humphrey |url=https://www.kansashistory.gov/kansapedia/lyman-underwood-humphrey/17108 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260520065725/https://www.kansashistory.gov/kansapedia/lyman-underwood-humphrey/17108 |archive-date=May 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 14, 1889<ref>{{Cite news |date=January 14, 1889 |publication-date=January 15, 1889 |title=Four New Governors |page=1 |newspaper=The Evening Reporter |location=Topeka, Kansas |publication-place=Independence, Kansas |url=https://www.newspapers.com/article/independence-daily-reporter-humphrey-ina/130436907/ |archive-url=https://web.archive.org/web/20230822050658/https://www.newspapers.com/article/independence-daily-reporter-humphrey-ina/130436907/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1893<br>{{small|(1457 days; retired)}}{{efn|Humphrey instead [[1892 United States House of Representatives elections in Kansas|ran unsuccessfully]] for the [[United States House of Representatives]].{{sfn|Sobel|1978|p=471}}}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1888 Kansas gubernatorial election|1888]]
+|rowspan="2"|{{sortname|Andrew Jackson|Felt}}
+|- style="height:2em;"
+|[[1890 Kansas gubernatorial election|1890]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Lewelling, Lorenzo"|[[File:LDLewelling.jpg|75px]]
+|style="color:inherit;background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|'''[[Lorenzo D. Lewelling]]'''<br>{{Small|(1846–1900)}}<br>{{sfn|Sobel|1978|pp=472–473}}<ref name="nga-lewelling">{{cite web |title=Lorenzo Dow Lewelling |url=https://www.nga.org/governor/lorenzo-dow-lewelling/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617191909/https://www.nga.org/governor/lorenzo-dow-lewelling/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="ks-lewelling">{{Cite web |title=Lorenzo D. Lewelling |url=https://www.kansashistory.gov/kansapedia/lorenzo-d-lewelling/17109 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260617065728/https://www.kansashistory.gov/kansapedia/lorenzo-d-lewelling/17109 |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 9, 1893<ref>{{Cite news |date=January 9, 1893 |title=Gov. Lewelling Now |page=1 |newspaper=Kansas Democrat |url=https://www.newspapers.com/article/the-topeka-daily-press-lewelling-inaugur/130436974/ |archive-url=https://web.archive.org/web/20230822050659/https://www.newspapers.com/article/the-topeka-daily-press-lewelling-inaugur/130436974/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1895<br>{{small|(736 days; lost election)}}
+|[[Populist Party (United States)|Populist]]{{sfn|Kallenbach|1977|p=193}}
+|[[1892 Kansas gubernatorial election|1892]]
+|style="color:inherit;background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|{{sortname|Percy|Daniels}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Morrill, Edmund"|[[File:ENMorrill.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Edmund Needham Morrill]]'''<br>{{Small|(1834–1909)}}<br>{{sfn|Sobel|1978|pp=473–474}}<ref name="nga-morrill">{{cite web |title=Edmund Needham Morrill |url=https://www.nga.org/governor/edmund-needham-morrill/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260716213157/https://www.nga.org/governor/edmund-needham-morrill/ |archive-date=July 16, 2026 |url-status=live}}</ref><ref name="ks-morrill">{{Cite web |title=Edmund Needham Morrill |url=https://www.kansashistory.gov/kansapedia/edmund-needham-morrill/16930 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260411015035/www.kansashistory.gov/kansapedia/edmund-needham-morrill/16930 |archive-date=April 11, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 14, 1895<ref>{{Cite news |date=January 14, 1895 |title=E. N. Morrill Sworn In As Governor |page=1 |newspaper=[[Atchison Globe|Atchison Daily Globe]] |agency=Associated Press |location=Topeka, Kansas |publication-place=Atchison, Kansas |url=https://www.newspapers.com/article/the-atchison-daily-globe-morrill-inaugur/130437048/ |archive-url=https://web.archive.org/web/20230822052200/https://www.newspapers.com/article/the-atchison-daily-globe-morrill-inaugur/130437048/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1897<br>{{small|(729 days; lost election)}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1894 Kansas gubernatorial election|1894]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|James Armstrong|Troutman}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Leedy, John"|[[File:JWLeedy.gif|75px]]
+|style="color:inherit;background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|'''[[John W. Leedy]]'''<br>{{Small|(1849–1935)}}<br>{{sfn|Sobel|1978|pp=475–476}}<ref name="nga-leedy">{{cite web |title=John Whitnah Leedy |url=https://www.nga.org/governor/john-whitnah-leedy/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260805132855/https://www.nga.org/governor/john-whitnah-leedy/ |archive-date=August 5, 2026 |url-status=live}}</ref><ref name="ks-leedy">{{Cite web |title=John W. Leedy |url=https://www.kansashistory.gov/kansapedia/john-w-leedy/17110 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260609122802/https://www.kansashistory.gov/kansapedia/john-w-leedy/17110 |archive-date=June 9, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 11, 1897<ref>{{Cite news |date=January 11, 1897 |title=Inaugural Exercises |page=1 |newspaper=The Daily Democrat |url=https://www.newspapers.com/article/the-daily-democrat-leedy-inaugurated-jan/130437091/ |archive-url=https://web.archive.org/web/20230822045152/https://www.newspapers.com/article/the-daily-democrat-leedy-inaugurated-jan/130437091/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1899<br>{{small|(729 days; lost election)}}
+|[[Populist Party (United States)|Populist]]{{sfn|Kallenbach|1977|p=193}}
+|[[1896 Kansas gubernatorial election|1896]]
+|style="color:inherit;background: {{party color|Populist Party (United States)}};" title="Represented the Populist Party"|
+|{{sortname|Alexander Miller|Harvey}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Stanley, William"|[[File:WEStanley.jpg|75px]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[William Eugene Stanley]]'''<br>{{Small|(1844–1910)}}<br>{{sfn|Sobel|1978|pp=476–477}}<ref name="nga-stanley">{{cite web |title=William Eugene Stanley |url=https://www.nga.org/governor/william-eugene-stanley/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260731113705/https://www.nga.org/governor/william-eugene-stanley/ |archive-date=July 31, 2026 |url-status=live}}</ref><ref name="ks-stanley">{{Cite web |title=William E. Stanley |url=https://www.kansashistory.gov/kansapedia/william-e-stanley/17111 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260510025511/https://www.kansashistory.gov/kansapedia/william-e-stanley/17111 |archive-date=May 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 9, 1899<ref>{{Cite news |date=January 9, 1899 |title=Stanley Is It |page=1 |location=Topeka, Kansas |publication-place=Atchison, Kansas |newspaper=[[Atchison Globe|Atchison Daily Globe]] |agency=Associated Press |url=https://www.newspapers.com/article/the-atchison-daily-globe-stanley-inaugur/130437134/ |archive-url=https://web.archive.org/web/20230822045150/https://www.newspapers.com/article/the-atchison-daily-globe-stanley-inaugur/130437134/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1903<br>{{small|(1464 days; retired)}}{{efn|Stanley instead [[1902–03 United States Senate elections|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=477}}<ref>{{cite news |url=https://www.newspapers.com/article/olathe-republican-tribune-chester-long-e/204832654/ |title=Chester Long Elected U.S. Senator |newspaper=Olathe Tribune |date=January 30, 1903 |page=1 |via=Newspapers.com}}</ref>}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1898 Kansas gubernatorial election|1898]]
+|rowspan="19" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Harry E.|Richter}}
+|- style="height:2em;"
+|[[1900 Kansas gubernatorial election|1900]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Bailey, Willis"|[[File:WJBailey.gif|75px]]
+|'''[[Willis J. Bailey]]'''<br>{{Small|(1854–1932)}}<br>{{sfn|Sobel|1978|pp=477–478}}<ref name="nga-bailey">{{cite web |title=Willis Joshua Bailey |url=https://www.nga.org/governor/willis-joshua-bailey/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260722202202/https://www.nga.org/governor/willis-joshua-bailey/ |archive-date=July 22, 2026 |url-status=live}}</ref><ref name="ks-bailey">{{Cite web |title=Willis Joshua Bailey |url=https://www.kansashistory.gov/kansapedia/willis-joshua-bailey/16956 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260607202337/https://www.kansashistory.gov/kansapedia/willis-joshua-bailey/16956 |archive-date=June 7, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 12, 1903<ref>{{Cite news |date=January 12, 1903 |title=W. J. Bailey Is Governor of Kansas |page=1 |newspaper=[[The Topeka Capital-Journal|The Topeka State Journal]] |url=https://www.newspapers.com/article/the-topeka-state-journal-bailey-inaugura/130437212/ |archive-url=https://web.archive.org/web/20230822053712/https://www.newspapers.com/article/the-topeka-state-journal-bailey-inaugura/130437212/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1905<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=478}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1902 Kansas gubernatorial election|1902]]
+|rowspan="2"|{{sortname|David John|Hanna}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Hoch, Edward"|[[File:EWHoch (A stand hist of KS & Kansans, v.2, 1918).gif|75px]]
+|rowspan="2"|'''[[Edward W. Hoch]]'''<br>{{Small|(1849–1925)}}<br>{{sfn|Sobel|1978|pp=478–479}}<ref name="nga-hoch">{{cite web |title=Edward Wallis Hoch |url=https://www.nga.org/governor/edward-wallis-hoch/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260725201608/https://www.nga.org/governor/edward-wallis-hoch/ |archive-date=July 25, 2026 |url-status=live}}</ref><ref name="ks-hoch">{{Cite web |title=Edward Wallis Hoch |url=https://www.kansashistory.gov/kansapedia/edward-wallis-hoch/17112 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20251203041816/https://www.kansashistory.gov/kansapedia/edward-wallis-hoch/17112 |archive-date=December 3, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 9, 1905<ref>{{Cite news |date=January 9, 1905 |publication-date=January 12, 1905 |title=Governor E.W. Hoch |page=4 |location=Topeka, Kansas |publication-place=Salina, Kansas |newspaper=Salina Weekly Union |url=https://www.newspapers.com/article/the-national-field-governor-ew-hoch/119905489/ |archive-url=https://web.archive.org/web/20230927051347/https://www.newspapers.com/article/the-national-field-governor-ew-hoch/119905489/ |archive-date=September 27, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1909<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1904 Kansas gubernatorial election|1904]]
+|- style="height:2em;"
+|[[1906 Kansas gubernatorial election|1906]]
+|rowspan="2"|{{sortname|William James|Fitzgerald|dab=Kansas politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Stubbs, Walter"|[[File:WRStubbs.gif|75px]]
+|rowspan="2"|'''[[Walter R. Stubbs]]'''<br>{{Small|(1858–1929)}}<br>{{sfn|Sobel|1978|pp=479–480}}<ref name="nga-stubbs">{{cite web |title=Walter Roscoe Stubbs |url=https://www.nga.org/governor/walter-roscoe-stubbs/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260726203355/https://www.nga.org/governor/walter-roscoe-stubbs/ |archive-date=July 26, 2026 |url-status=live}}</ref><ref name="ks-stubbs">{{Cite web |title=Walter R. Stubbs |url=https://www.kansashistory.gov/kansapedia/walter-r-stubbs/17113 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260614110108/https://www.kansashistory.gov/kansapedia/walter-r-stubbs/17113 |archive-date=June 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1909<ref>{{Cite news |date=January 11, 1909 |title=It Is 'Governor' Stubbs; 'Ed' Hoch Steps Down |page=1 |location=Topeka, Kansas |publication-place=Salina, Kansas |newspaper=[[Salina Journal|Salina Evening Journal]] |url=https://www.newspapers.com/article/the-salina-evening-journal-stubbs-inaugu/130437371/ |archive-url=https://web.archive.org/web/20230822045150/https://www.newspapers.com/article/the-salina-evening-journal-stubbs-inaugu/130437371/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1913<br>{{small|(1464 days; retired)}}{{efn|Stubbs instead [[1913 United States Senate election in Kansas|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=480}}}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1908 Kansas gubernatorial election|1908]]
+|- style="height:2em;"
+|[[1910 Kansas gubernatorial election|1910]]
+|{{sortname|Richard Joseph|Hopkins}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Hodges, George"|[[File:Portrait of George H. Hodges.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[George H. Hodges]]'''<br>{{Small|(1866–1947)}}<br>{{sfn|Sobel|1978|pp=480–481}}<ref name="nga-hodges">{{cite web |title=George Hartshorn Hodges |url=https://www.nga.org/governor/george-hartshorn-hodges/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260808221414/https://www.nga.org/governor/george-hartshorn-hodges/ |archive-date=August 8, 2026 |url-status=live}}</ref><ref name="ks-hodges">{{Cite web |title=George H. Hodges |url=https://www.kansashistory.gov/kansapedia/george-h-hodges/17114 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260808234442/https://www.kansashistory.gov/kansapedia/george-h-hodges/17114 |archive-date=August 8, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 13, 1913<ref>{{Cite news |date=January 13, 1913 |title=Hodges Is Inaugurated 19th Governor of Kansas |page=1 |newspaper=[[The Wichita Eagle|The Wichita Beacon]] |location=Topeka, Kansas |publication-place=Wichita, Kansas |url=https://www.newspapers.com/article/the-wichita-beacon-hodges-inaugurated-ja/130437402/ |archive-url=https://web.archive.org/web/20230822045145/https://www.newspapers.com/article/the-wichita-beacon-hodges-inaugurated-ja/130437402/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1915<br>{{small|(729 days; lost election)}}
+|[[Kansas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=193}}
+|[[1912 Kansas gubernatorial election|1912]]
+|{{sortname|Sheffield|Ingalls}}{{efn|name=ltgov-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Capper, Arthur"|[[File:CAPPER, ARTHUR C. SENATOR LCCN2016860456 (cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Arthur Capper]]'''<br>{{Small|(1865–1951)}}<br>{{sfn|Sobel|1978|pp=481–482}}<ref name="nga-capper">{{cite web |title=Arthur Capper |url=https://www.nga.org/governor/arthur-capper/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260922014224/https://www.nga.org/governor/arthur-capper/ |archive-date=September 22, 2026 |url-status=live}}</ref><ref name="ks-capper">{{Cite web |title=Arthur Capper |url=https://www.kansashistory.gov/kansapedia/arthur-capper/12001 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20261012111726/https://www.kansashistory.gov/kansapedia/arthur-capper/12001 |archive-date=October 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1915<ref>{{Cite news |date=January 11, 1915 |title=Arthur Capper of Topeka, a Native Kansan, Inaugurated As Governor of His State Today With Entire Republican Administration |page=1 |newspaper=[[The Topeka Capital-Journal|The Topeka State Journal]] |url=https://www.newspapers.com/article/the-topeka-state-journal-capper-inaugura/130437483/ |archive-url=https://web.archive.org/web/20230822045151/https://www.newspapers.com/article/the-topeka-state-journal-capper-inaugura/130437483/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1919<br>{{small|(1464 days; retired)}}{{efn|Capper was instead [[1918 United States Senate election in Kansas|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=482}}}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1914 Kansas gubernatorial election|1914]]
+|rowspan="2"|{{sortname|William Yoast|Morgan}}
+|- style="height:2em;"
+|[[1916 Kansas gubernatorial election|1916]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Allen, Henry"|[[File:ALLEN, HENRY J LCCN2016868559 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Henry J. Allen]]'''<br>{{Small|(1868–1950)}}<br>{{sfn|Sobel|1978|pp=482–483}}<ref name="nga-allen">{{cite web |title=Henry Justin Allen |url=https://www.nga.org/governor/henry-justin-allen/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510120245/https://www.nga.org/governor/henry-justin-allen/ |archive-date=May 10, 2026 |url-status=live}}</ref><ref name="ks-allen">{{Cite web |title=Henry J. Allen |url=https://www.kansashistory.gov/kansapedia/henry-j-allen/11965 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260511162644/https://www.kansashistory.gov/kansapedia/henry-j-allen/11965 |archive-date=May 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 13, 1919<ref>{{Cite news |date=January 13, 1919 |title=Allen Receives Oath As Kansas Governor |page=1 |newspaper=[[Ottawa Herald]] |location=Topeka, Kansas |publication-place=Ottawa, Kansas |url=https://www.newspapers.com/article/the-ottawa-herald-allen-inaugurated-janu/130437539/ |archive-url=https://web.archive.org/web/20230822053708/https://www.newspapers.com/article/the-ottawa-herald-allen-inaugurated-janu/130437539/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 8, 1923<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1918 Kansas gubernatorial election|1918]]
+|rowspan="2"|{{sortname|Charles Solomon|Huffman}}
+|- style="height:2em;"
+|[[1920 Kansas gubernatorial election|1920]]
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Davis, Jonathan"|[[File:JonathanMDavis.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Jonathan M. Davis]]'''<br>{{Small|(1871–1943)}}<br>{{sfn|Sobel|1978|p=484}}<ref name="nga-davis">{{cite web |title=Jonathan McMillan Davis |url=https://www.nga.org/governor/jonathan-mcmillan-davis/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260810185654/https://www.nga.org/governor/jonathan-mcmillan-davis/ |archive-date=August 10, 2026 |url-status=live}}</ref><ref name="ks-davis">{{Cite web |title=Jonathan M. Davis |url=https://www.kansashistory.gov/kansapedia/jonathan-m-davis/17115 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260609110955/https://www.kansashistory.gov/kansapedia/jonathan-m-davis/17115 |archive-date=June 9, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 8, 1923<ref>{{Cite news |date=January 8, 1923 |title=Kansas Inaugurates Davis as Chief Executive; Wyandotte Bourbons Out After Beths on Democratic Slate |page=1 |newspaper=[[Kansas City Kansan]] |location=Topeka, Kansas |publication-place=Kansas City, Kansas |url=https://www.newspapers.com/article/the-kansas-city-kansan-davis-inaugurated/130437593/ |archive-url=https://web.archive.org/web/20230822045148/https://www.newspapers.com/article/the-kansas-city-kansan-davis-inaugurated/130437593/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1925<br>{{small|(736 days; lost election)}}
+|[[Kansas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=193}}
+|[[1922 Kansas gubernatorial election|1922]]
+|{{sortname|Benjamin S.|Paulen}}{{efn|name=ltgov-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Paulen, Benjamin"|[[File:BenPaulen.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Benjamin S. Paulen]]'''<br>{{Small|(1869–1961)}}<br>{{sfn|Sobel|1978|pp=484–486}}<ref name="nga-paulen">{{cite web |title=Ben Sanford Paulen |url=https://www.nga.org/governor/ben-sanford-paulen/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260810201010/https://www.nga.org/governor/ben-sanford-paulen/ |archive-date=August 10, 2026 |url-status=live}}</ref><ref name="ks-paulen">{{Cite web |title=Benjamin S. Paulen |url=https://www.kansashistory.gov/kansapedia/benjamin-s-paulen/17116 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260711014148/https://www.kansashistory.gov/kansapedia/benjamin-s-paulen/17116 |archive-date=July 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1925<ref>{{Cite news |date=January 12, 1925 |title=Paulen Is Sworn In As Governor |page=1 |newspaper=[[Emporia Gazette]] |agency=Associated Press |location=Topeka, Kansas |publication-place=Emporia, Kansas |url=https://www.newspapers.com/article/the-emporia-gazette-paulen-inaugurated-j/130437739/ |archive-url=https://web.archive.org/web/20230822060710/https://www.newspapers.com/article/the-emporia-gazette-paulen-inaugurated-j/130437739/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1929<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=193}}
+|[[1924 Kansas gubernatorial election|1924]]
+|rowspan="2"|{{sortname|De Lanson Alson Newton|Chase}}
+|- style="height:2em;"
+|[[1926 Kansas gubernatorial election|1926]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Reed, Clyde"|[[File:1940 Senator Clyde M. Reed (R) of Kansas (cropped).jpg|75px]]
+|'''[[Clyde M. Reed]]'''<br>{{Small|(1871–1949)}}<br>{{sfn|Sobel|1978|pp=486–487}}<ref name="nga-reed">{{cite web |title=Clyde Martin Reed |url=https://www.nga.org/governor/clyde-martin-reed/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260810225302/https://www.nga.org/governor/clyde-martin-reed/ |archive-date=August 10, 2026 |url-status=live}}</ref><ref name="ks-reed">{{Cite web |title=Clyde Martin Reed |url=https://www.kansashistory.gov/kansapedia/clyde-martin-reed/17100 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260606224947/https://www.kansashistory.gov/kansapedia/clyde-martin-reed/17100 |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 14, 1929<ref>{{Cite news |date=January 14, 1929 |title=Clyde Reed Is Inaugurated As 24th Executive |page=6 |newspaper=[[The Hutchinson News]] |agency=Associated Press |location=Topeka, Kansas |publication-place=Hutchinson, Kansas |url=https://www.newspapers.com/article/the-hutchinson-news-reed-inaugurated-jan/130437840/ |archive-url=https://web.archive.org/web/20230822045152/https://www.newspapers.com/article/the-hutchinson-news-reed-inaugurated-jan/130437840/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1931<br>{{small|(729 days;<br>lost nomination)}}{{efn|Reed lost the Republican nomination to Frank Haucke.{{sfn|Sobel|1978|p=486}}}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1928 Kansas gubernatorial election|1928]]
+|rowspan="2"|{{sortname|Jacob W.|Graybill}}{{efn|name=ltgov-rep}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Woodring, Harry"|[[File:Sec. of War Woodring LCCN2016878570 (cropped) (b).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Harry Hines Woodring]]'''<br>{{Small|(1887–1967)}}<br>{{sfn|Sobel|1978|pp=487–488}}<ref name="nga-woodring">{{cite web |title=Harry Hines Woodring |url=https://www.nga.org/governor/harry-hines-woodring/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607083126/https://www.nga.org/governor/harry-hines-woodring/ |archive-date=June 7, 2026 |url-status=live}}</ref><ref name="ks-woodring">{{Cite web |title=Harry H. Woodring |url=https://www.kansashistory.gov/kansapedia/harry-h-woodring/12245 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260520071950/https://www.kansashistory.gov/kansapedia/harry-h-woodring/12245 |archive-date=May 20, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 12, 1931<ref>{{Cite news |date=January 12, 1931 |title=Woodring In As Governor |page=1 |newspaper=[[The Manhattan Mercury]] |agency=Associated Press |location=Topeka, Kansas |publication-place=Manhattan, Kansas |url=https://www.newspapers.com/article/the-manhattan-mercury-woodring-inaugurat/130437957/ |archive-url=https://web.archive.org/web/20230822045153/https://www.newspapers.com/article/the-manhattan-mercury-woodring-inaugurat/130437957/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1933<br>{{small|(729 days; lost election)}}
+|[[Kansas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=194}}
+|[[1930 Kansas gubernatorial election|1930]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Landon, Alf"|[[File:LandonPortr.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Alf Landon]]'''<br>{{Small|(1887–1987)}}<br>{{sfn|Sobel|1978|pp=488–489}}<ref name="nga-landon">{{cite web |title=Alfred Mossman Landon |url=https://www.nga.org/governor/alfred-mossman-landon/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260914212311/https://www.nga.org/governor/alfred-mossman-landon/ |archive-date=September 14, 2026 |url-status=live}}</ref><ref name="ks-landon">{{Cite web |title=Alfred M. Landon |url=https://www.kansashistory.gov/kansapedia/alfred-m-landon/12126 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260708190346/https://www.kansashistory.gov/kansapedia/alfred-m-landon/12126 |archive-date=July 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 9, 1933<ref>{{Cite news |date=January 9, 1933 |title=Alf Landon Installed As Governor |page=1 |newspaper=[[The Hutchinson News]] |location=Topeka, Kansas |publication-place=Hutchinson, Kansas |url=https://www.newspapers.com/article/the-hutchinson-news-landon-inaugurated-j/130438014/ |archive-url=https://web.archive.org/web/20230822050701/https://www.newspapers.com/article/the-hutchinson-news-landon-inaugurated-j/130438014/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1937<br>{{small|(1464 days; retired)}}{{efn|Landon instead [[1936 United States presidential election|ran unsuccessfully]] for [[President of the United States]].{{sfn|Sobel|1978|p=489}}}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1932 Kansas gubernatorial election|1932]]
+|rowspan="2"|{{sortname|Charles W.|Thompson|dab=Kansas politician}}
+|- style="height:2em;"
+|[[1934 Kansas gubernatorial election|1934]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Huxman, Walter"|[[File:Walter A. Huxman (KS).png|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Walter A. Huxman]]'''<br>{{Small|(1887–1972)}}<br>{{sfn|Sobel|1978|pp=489–490}}<ref name="nga-huxman">{{cite web |title=Walter Augustus Huxman |url=https://www.nga.org/governor/walter-augustus-huxman/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260812224354/https://www.nga.org/governor/walter-augustus-huxman/ |archive-date=August 12, 2026 |url-status=live}}</ref><ref name="ks-huxman">{{Cite web |title=Walter A. Huxman |url=https://www.kansashistory.gov/kansapedia/walter-a-huxman/17117 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260214222608/https://www.kansashistory.gov/kansapedia/walter-a-huxman/17117 |archive-date=February 14, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 11, 1937<ref>{{Cite news |date=January 11, 1937 |title=Huxman Asks for G.O.P. Aid |page=1 |newspaper=[[The Wichita Eagle]] |location=Topeka, Kansas |publication-place=Wichita, Kansas |url=https://www.newspapers.com/article/the-wichita-beacon-huxman-inaugurated-ja/130438059/ |archive-url=https://web.archive.org/web/20230822045149/https://www.newspapers.com/article/the-wichita-beacon-huxman-inaugurated-ja/130438059/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1939<br>{{small|(729 days; lost election)}}
+|[[Kansas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=194}}
+|[[1936 Kansas gubernatorial election|1936]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William M.|Lindsay}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Ratner, Payne"|[[File:PayneRatner (cropped).jpg|75px]]
+|rowspan="11" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Payne Ratner]]'''<br>{{Small|(1896–1974)}}<br>{{sfn|Sobel|1978|pp=490–491}}<ref name="nga-ratner">{{cite web |title=Payne Harry Ratner |url=https://www.nga.org/governor/payne-harry-ratner/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260815161119/https://www.nga.org/governor/payne-harry-ratner/ |archive-date=August 15, 2026 |url-status=live}}</ref><ref name="ks-ratner">{{Cite web |title=Payne Harry Ratner |url=https://www.kansashistory.gov/kansapedia/payne-harry-ratner/17118 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260115221245/https://www.kansashistory.gov/kansapedia/payne-harry-ratner/17118 |archive-date=January 15, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 9, 1939<ref>{{Cite news |last=Mayo |first=Gilbert A. |publication-date=January 10, 1939 |date=January 9, 1939 |title=Ratner Is New Head of State |page=1 |newspaper=[[The Wichita Eagle]] |location=Topeka, Kansas |publication-place=Wichita, Kansas |agency=Associated Press |url=https://www.newspapers.com/article/the-wichita-eagle-ratner-inaugurated-jan/130438134/ |archive-url=https://web.archive.org/web/20230822050657/https://www.newspapers.com/article/the-wichita-eagle-ratner-inaugurated-jan/130438134/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1943<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1938 Kansas gubernatorial election|1938]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Carl E.|Friend}}
+|- style="height:2em;"
+|[[1940 Kansas gubernatorial election|1940]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Schoeppel, Andrew"|[[File:Andrew F. Schoeppel (KS).png|75px]]
+|rowspan="2"|'''[[Andrew Frank Schoeppel]]'''<br>{{Small|(1894–1962)}}<br>{{sfn|Sobel|1978|pp=492–493}}<ref name="nga-schoeppel">{{cite web |title=Andrew Frank Schoeppel |url=https://www.nga.org/governor/andrew-frank-schoeppel/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260816061224/https://www.nga.org/governor/andrew-frank-schoeppel/ |archive-date=August 16, 2026 |url-status=live}}</ref><ref name="ks-schoeppel">{{Cite web |title=Andrew Frank Schoeppel |url=https://www.kansashistory.gov/kansapedia/andrew-frank-schoeppel/17042 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20250831142432/https://www.kansashistory.gov/kansapedia/andrew-frank-schoeppel/17042 |archive-date=August 31, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 11, 1943<ref>{{Cite news |date=January 11, 1943 |publication-date=January 12, 1943 |location=Topeka, Kansas |publication-place=Wichita, Kansas |title=Andrew Schoeppel Takes Oath As 29th Governor of Kansas; Pledges Economy in the Office |page=1 |newspaper=[[The Wichita Eagle]] |agency=Associated Press |url=https://www.newspapers.com/article/the-wichita-eagle-schoeppel-inaugurated/130438164/ |archive-url=https://web.archive.org/web/20230822045147/https://www.newspapers.com/article/the-wichita-eagle-schoeppel-inaugurated/130438164/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1947<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1942 Kansas gubernatorial election|1942]]
+|rowspan="2"|{{sortname|Jess C.|Denious}}
+|- style="height:2em;"
+|[[1944 Kansas gubernatorial election|1944]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Carlson, Frank"|[[File:Frank Carlson.png|75px]]
+|rowspan="2"|'''[[Frank Carlson]]'''<br>{{Small|(1893–1987)}}<br>{{sfn|Sobel|1978|pp=493–494}}<ref name="nga-carlson">{{cite web |title=Frank Carlson |url=https://www.nga.org/governor/frank-carlson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260625134807/https://www.nga.org/governor/frank-carlson/ |archive-date=June 25, 2026 |url-status=live}}</ref><ref name="ks-carlson">{{Cite web |title=Frank Carlson |url=https://www.kansashistory.gov/kansapedia/frank-carlson/12002 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260217202516/https://www.kansashistory.gov/kansapedia/frank-carlson/12002 |archive-date=February 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1416"|January 13, 1947<ref>{{Cite news |date=January 13, 1947 |publication-date=January 14, 1947 |title=Carlson Gets Helm; Session Opens Today |page=1 |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |agency=Associated Press |url=https://www.newspapers.com/article/the-wichita-eagle-carlson-inaugurated-ja/130438194/ |archive-url=https://web.archive.org/web/20230822045153/https://www.newspapers.com/article/the-wichita-eagle-carlson-inaugurated-ja/130438194/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 28, 1950<br>{{small|(1416 days; resigned)}}{{efn|Carlson resigned; he had been [[1950 United States Senate elections in Kansas|elected]] to the [[United States Senate]] to replace [[Harry Darby]], and Darby resigned early so that Carlson could be appointed to the seat early by his replacement as governor, Frank L. Hagaman.{{sfn|Sobel|1978|p=494}}}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1946 Kansas gubernatorial election|1946]]
+|rowspan="2"|{{sortname|Frank L.|Hagaman}}
+|- style="height:2em;"
+|[[1948 Kansas gubernatorial election|1948]]
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Hagaman, Frank"|[[File:Frank Hagaman (1949).png|75px]]
+|'''[[Frank L. Hagaman]]'''<br>{{Small|(1894–1966)}}<br>{{sfn|Sobel|1978|pp=494–495}}<ref name="nga-hagaman">{{cite web |title=Frank Lester Hagaman |url=https://www.nga.org/governor/frank-lester-hagaman/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260703192117/https://www.nga.org/governor/frank-lester-hagaman/ |archive-date=July 3, 2026 |url-status=live}}</ref><ref name="ks-hagaman">{{Cite web |title=Frank L. Hagaman |url=https://www.kansashistory.gov/kansapedia/frank-l-hagaman/17119 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260829164905/https://www.kansashistory.gov/kansapedia/frank-l-hagaman/17119 |archive-date=August 29, 2026 |url-status=live}}</ref>
+|data-sort-value="42"|November 28, 1950<ref>{{Cite news |date=November 28, 1950 |publication-date=November 29, 1950 |title=Hagaman Invites Aid From Arn on State Budget |page=1 |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |agency=Associated Press |url=https://www.newspapers.com/article/the-wichita-eagle-hagaman-succeeds-carls/130438236/ |archive-url=https://web.archive.org/web/20230822055208/https://www.newspapers.com/article/the-wichita-eagle-hagaman-succeeds-carls/130438236/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 8, 1951<br>{{small|(42 days;<br>lost nomination)}}{{efn|Hagaman had already lost the Republican nomination to [[Edward F. Arn]] when he succeeded Carlson.{{sfn|Sobel|1978|pp=494–495}}}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Arn, Edward"|[[File:Edward F. Arn.jpg|75px]]
+|rowspan="2"|'''[[Edward F. Arn]]'''<br>{{Small|(1906–1998)}}<br>{{sfn|Sobel|1978|pp=495–496}}<ref name="nga-arn">{{cite web |title=Edward Ferdinand Arn |url=https://www.nga.org/governor/edward-ferdinand-arn/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260818075604/https://www.nga.org/governor/edward-ferdinand-arn/ |archive-date=August 18, 2026 |url-status=live}}</ref><ref name="ks-arn">{{Cite web |title=Edward F. Arn |url=https://www.kansashistory.gov/kansapedia/edward-f-arn/17120 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260821161927/https://www.kansashistory.gov/kansapedia/edward-f-arn/17120 |archive-date=August 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 8, 1951<ref>{{Cite news |publication-date=January 9, 1951 |date=January 8, 1951 |title=Gov. Arn Will Gear Kansas' Affairs to National Crisis |page=1 |newspaper=[[The Wichita Eagle]] |agency=United Press |url=https://www.newspapers.com/article/the-wichita-eagle-arn-inaugurated-januar/130438316/ |archive-url=https://web.archive.org/web/20230822045154/https://www.newspapers.com/article/the-wichita-eagle-arn-inaugurated-januar/130438316/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 10, 1955<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1950 Kansas gubernatorial election|1950]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Fred|Hall}}
+|- style="height:2em;"
+|[[1952 Kansas gubernatorial election|1952]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Hall, Fred"|[[File:Fred Hall (cropped).jpg|75px]]
+|'''[[Fred Hall]]'''<br>{{Small|(1916–1970)}}<br>{{sfn|Sobel|1978|pp=496–497}}<ref name="nga-hall">{{cite web |title=Frederick Lee Hall |url=https://www.nga.org/governor/frederick-lee-hall/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616114815/https://www.nga.org/governor/frederick-lee-hall/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="ks-hall">{{Cite web |title=Fred Hall |url=https://www.kansashistory.gov/kansapedia/fred-hall/17121 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20250613065215/https://www.kansashistory.gov/kansapedia/fred-hall/17121 |archive-date=June 13, 2025 |url-status=live}}</ref>
+|data-sort-value="725"|January 10, 1955<ref>{{Cite news |last=Miller |first=Tom W. |date=January 10, 1955 |title='Do Something' Term Pledged by New Chief |page=1 |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |agency=United Press |url=https://www.newspapers.com/article/the-wichita-beacon-hall-inaugurated-janu/130438339/ |archive-url=https://web.archive.org/web/20230822055206/https://www.newspapers.com/article/the-wichita-beacon-hall-inaugurated-janu/130438339/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 3, 1957<br>{{small|(725 days; resigned)}}{{efn|Hall resigned so that his successor would appoint him to the [[Kansas Supreme Court]]; he had already lost the Republican nomination to [[Warren W. Shaw]].{{sfn|Sobel|1978|p=497}}}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1954 Kansas gubernatorial election|1954]]
+|{{sortname|John|McCuish}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="McCuish, John"|[[File:John McCuish (Kansas governor).jpg|75px]]
+|'''[[John McCuish]]'''<br>{{Small|(1906–1962)}}<br>{{sfn|Sobel|1978|pp=497–498}}<ref name="nga-mccuish">{{cite web |title=John Berridge McCuish |url=https://www.nga.org/governor/john-berridge-mccuish/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260819054640/https://www.nga.org/governor/john-berridge-mccuish/ |archive-date=August 19, 2026 |url-status=live}}</ref><ref name="ks-mccuish">{{Cite web |title=John B. McCuish |url=https://www.kansashistory.gov/kansapedia/john-b-mccuish/12145 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260508091052/https://www.kansashistory.gov/kansapedia/john-b-mccuish/12145 |archive-date=May 8, 2026 |url-status=live}}</ref>
+|data-sort-value="12"|January 3, 1957<ref>{{Cite news |date=January 3, 1957 |publication-date=January 4, 1957 |title=McCuish Takes Helm of State |page=1A |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |url=https://www.newspapers.com/article/the-wichita-eagle-mccuish-succeeds-hall/130438399/ |archive-url=https://web.archive.org/web/20230822055207/https://www.newspapers.com/article/the-wichita-eagle-mccuish-succeeds-hall/130438399/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1957<br>{{small|(12 days; retired)}}{{efn|McCuish had already lost the election for lieutenant governor when he succeeded Hall.<ref>{{cite news |url=https://www.newspapers.com/article/great-bend-tribune-henkle-wins-lt-gover/204833097/ |agency=Associated Press |location=Topeka, Kansas |publication-place=Great Bend, Kansas |title=Henkle Wins Lt. Governor's Race; Breeding Cinches Fifth District Seat |newspaper=Great Bend Daily Tribune |date=November 8, 1956 |page=1 |via=Newspapers.com}}</ref>}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="Docking, George"|[[File:George Docking.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[George Docking]]'''<br>{{Small|(1904–1964)}}<br>{{sfn|Sobel|1978|pp=498–499}}<ref name="nga-docking-george">{{Cite web |title=George Docking |url=https://www.nga.org/governor/george-docking/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418104052/https://www.nga.org/governor/george-docking/ |archive-date=April 18, 2026 |url-status=live}}</ref><ref name="ks-docking-george">{{Cite web |title=George Docking |url=https://www.kansashistory.gov/kansapedia/george-docking/17122 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260823224828/https://www.kansashistory.gov/kansapedia/george-docking/17122 |archive-date=August 23, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 14, 1957<ref>{{Cite news |date=January 14, 1957 |title=Docking Takes Oath, Says 'Let No One Be Disturbed' |page=1 |location=Topeka, Kansas |publication-place=Manhattan, Kansas |newspaper=[[The Manhattan Mercury]] |agency=Associated Press |url=https://www.newspapers.com/article/the-mercury-docking-inaugurated-january/130438456/ |archive-url=https://web.archive.org/web/20230822043644/https://www.newspapers.com/article/the-manhattan-mercury-docking-inaugurate/130438456/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1961<br>{{small|(1457 days; lost election)}}
+|rowspan="2"|[[Kansas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=194}}
+|[[1956 Kansas gubernatorial election|1956]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Joseph W.|Henkle Sr.}}
+|- style="height:2em;"
+|[[1958 Kansas gubernatorial election|1958]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|36
+|rowspan="2" data-sort-value="Anderson, John"|[[File:John Anderson Governor.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[John Anderson Jr.]]'''<br>{{Small|(1917–2014)}}<br>{{sfn|Sobel|1978|pp=499–500}}<ref name="nga-anderson">{{cite web |title=John Anderson |url=https://www.nga.org/governor/john-anderson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260830074311/https://www.nga.org/governor/john-anderson/ |archive-date=August 30, 2026 |url-status=live}}</ref><ref name="ks-anderson">{{Cite web |title=John Anderson, Jr. |url=https://www.kansashistory.gov/kansapedia/john-anderson-jr/17123 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260512033437/https://www.kansashistory.gov/kansapedia/john-anderson-jr/17123 |archive-date=May 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 9, 1961<ref>{{Cite news |date=January 10, 1961 |title=Anderson Sworn-In As 36th Governor |page=1 |newspaper=[[The Olathe News]] |url=https://www.newspapers.com/article/olathe-news-anderson-inaugurated-january/130438477/ |archive-url=https://web.archive.org/web/20230822045149/https://www.newspapers.com/article/olathe-news-anderson-inaugurated-january/130438477/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1965<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1960 Kansas gubernatorial election|1960]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Harold H.|Chase}}
+|- style="height:2em;"
+|[[1962 Kansas gubernatorial election|1962]]
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Avery, William"|[[File:Avery William H.jpg|75px]]
+|'''[[William H. Avery (politician)|William H. Avery]]'''<br>{{Small|(1911–2009)}}<br>{{sfn|Sobel|1978|pp=500–501}}<ref name="nga-avery">{{cite web |title=William Henry Avery |url=https://www.nga.org/governor/william-henry-avery/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260714075606/https://www.nga.org/governor/william-henry-avery/ |archive-date=July 14, 2026 |url-status=live}}</ref><ref name="ks-avery">{{Cite web |title=William Henry Avery |url=https://www.kansashistory.gov/kansapedia/william-henry-avery/17000 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260711203457/https://www.kansashistory.gov/kansapedia/william-henry-avery/17000 |archive-date=July 11, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 11, 1965<ref>{{Cite news |last=McKnight |first=Joe |date=January 12, 1965 |title=Wm. Avery Takes Oath As Governor |page=1A |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |agency=Associated Press |url=https://www.newspapers.com/article/the-wichita-eagle-avery-inaugurated-janu/130438551/ |archive-url=https://web.archive.org/web/20230822060711/https://www.newspapers.com/article/the-wichita-eagle-avery-inaugurated-janu/130438551/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1967<br>{{small|(729 days; lost election)}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1964 Kansas gubernatorial election|1964]]
+|rowspan="2"|{{sortname|John|Crutcher}}{{efn|name=ltgov-rep}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|38
+|rowspan="4" data-sort-value="Docking, Robert"|[[File:Robert Docking (cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[Robert Docking]]'''<br>{{Small|(1925–1983)}}<br>{{sfn|Sobel|1978|pp=501–502}}<ref name="nga-docking-robert">{{Cite web |title=Robert Blackwell Docking |url=https://www.nga.org/governor/robert-blackwell-docking/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260828013910/https://www.nga.org/governor/robert-blackwell-docking/ |archive-date=August 28, 2026 |url-status=live}}</ref><ref name="ks-docking-robert">{{Cite web |title=Robert Blackwell Docking |url=https://www.kansashistory.gov/kansapedia/robert-blackwell-docking/17124 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260514041527/https://www.kansashistory.gov/kansapedia/robert-blackwell-docking/17124 |archive-date=May 14, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="2927"|January 9, 1967<ref>{{Cite news |date=January 9, 1967 |title=Docking Takes Oath, Gives Brief Address |page=1 |newspaper=[[The Manhattan Mercury]] |agency=Associated Press |location=Topeka, Kansas |publication-place=Manhattan, Kansas |url=https://www.newspapers.com/article/the-manhattan-mercury-docking-inaugurate/130438971/ |archive-url=https://web.archive.org/web/20230822045148/https://www.newspapers.com/article/the-manhattan-mercury-docking-inaugurate/130438971/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1975<br>{{small|(2927 days; term-limited)}}{{efn|Under a 1972 amendment to the constitution, governors may not be elected to more than two successive terms.{{sfn|Kan. Const.|loc=[https://50constitutions.org/ks/constitution/section-id-64237 art. I, § 1]}}|name=limits}}
+|rowspan="4"|[[Kansas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=194}}
+|[[1966 Kansas gubernatorial election|1966]]
+|- style="height:2em;"
+|[[1968 Kansas gubernatorial election|1968]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|James H.|DeCoursey Jr.}}
+|- style="height:2em;"
+|[[1970 Kansas gubernatorial election|1970]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Reynolds|Shultz}}{{efn|name=ltgov-rep}}
+|- style="height:2em;"
+|[[1972 Kansas gubernatorial election|1972]]
+|{{sortname|Dave|Owen|dab=Kansas politician}}{{efn|name=ltgov-rep}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Bennett, Robert"|[[File:Robert Bennett (1978) (cropped).png|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Robert Frederick Bennett]]'''<br>{{Small|(1927–2000)}}<br>{{sfn|Sobel|1978|pp=502–503}}<ref name="nga-bennett">{{cite web |title=Robert F. Bennett |url=https://www.nga.org/governor/robert-f-bennett/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260828095554/https://www.nga.org/governor/robert-f-bennett/ |archive-date=August 28, 2026 |url-status=live}}</ref><ref name="ks-bennett">{{Cite web |title=Robert F. Bennett |url=https://www.kansashistory.gov/kansapedia/robert-f-bennett/17125 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260828152259/https://www.kansashistory.gov/kansapedia/robert-f-bennett/17125 |archive-date=August 28, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1975<ref>{{Cite news |last=Schafer |first=Bob |date=January 14, 1975 |title=Bennett, New Governor, 'Will Meet Challenge' |page=1 |newspaper=[[The Olathe News|The Daily News]] |location=Topeka, Kansas |publication-place=Olathe, Kansas |url=https://www.newspapers.com/article/olathe-news-bennett-inaugurated-january/130439043/ |archive-url=https://web.archive.org/web/20230822053710/https://www.newspapers.com/article/olathe-news-bennett-inaugurated-january/130439043/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 8, 1979<br>{{small|(1457 days; lost election)}}
+|[[Kansas Republican Party|Republican]]{{sfn|Kallenbach|1977|p=194}}
+|[[1974 Kansas gubernatorial election|1974]]{{efn|First term under a 1972 constitutional amendment which lengthened terms to four years.}}
+|{{sortname|Shelby|Smith}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Carlin, John"|[[File:John Carlin.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John W. Carlin]]'''<br>{{Small|({{Abbr|b.|born in}} 1940)}}<br><ref name="nga-carlin">{{cite web |title=John Carlin |url=https://www.nga.org/governor/john-carlin/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260828225627/https://www.nga.org/governor/john-carlin/ |archive-date=August 28, 2026 |url-status=live}}</ref><ref name="ks-carlin">{{Cite web |title=John William Carlin |url=https://www.kansashistory.gov/kansapedia/john-william-carlin/17126 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260520075107/https://www.kansashistory.gov/kansapedia/john-william-carlin/17126 |archive-date=May 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 8, 1979<ref>{{Cite news |last=Petterson |first=John |date=January 9, 1979 |title=Carlin Sworn In As 40th Governor |page=1A |newspaper=[[The Wichita Eagle]] |location=Topeka, Kansas |publication-place=Wichita, Kansas |url=https://www.newspapers.com/article/the-wichita-eagle-carlin-inaugurated-jan/130439067/ |archive-url=https://web.archive.org/web/20230822043644/https://www.newspapers.com/article/the-wichita-eagle-carlin-inaugurated-jan/130439067/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1987<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Kansas Democratic Party|Democratic]]<ref name="nga-carlin" />
+|[[1978 Kansas gubernatorial election|1978]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Paul|Dugan}}
+|- style="height:2em;"
+|[[1982 Kansas gubernatorial election|1982]]
+|{{sortname|Thomas|Docking}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Hayden, Mike"|[[File:Mike Hayden.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Mike Hayden]]'''<br>{{Small|({{Abbr|b.|born in}} 1944)}}<br>{{sfn|Mullaney|1994|pp=134–136}}<ref name="nga-hayden">{{cite web |title=John Michael Hayden |url=https://www.nga.org/governor/john-michael-hayden/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521020833/https://www.nga.org/governor/john-michael-hayden/ |archive-date=May 21, 2026 |url-status=live}}</ref><ref name="ks-hayden">{{Cite web |title=John Michael Hayden |url=https://www.kansashistory.gov/kansapedia/john-michael-hayden/17127 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260518025039/https://www.kansashistory.gov/kansapedia/john-michael-hayden/17127 |archive-date=May 18, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1987<ref>{{Cite news |date=January 13, 1987 |title=Hayden Takes Oath As 41st Governor |page=1 |newspaper=[[Salina Journal]] |agency=Associated Press |location=Topeka, Kansas |publication-place=Salina, Kansas |url=https://www.newspapers.com/article/the-salina-journal-hayden-inaugurated-ja/130439091/ |archive-url=https://web.archive.org/web/20230822045150/https://www.newspapers.com/article/the-salina-journal-hayden-inaugurated-ja/130439091/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1991<br>{{small|(1464 days; lost election)}}
+|[[Kansas Republican Party|Republican]]<ref name="nga-hayden" />
+|[[1986 Kansas gubernatorial election|1986]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Jack D.|Walker}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Finney, Joan"|[[File:Joan Finney.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Joan Finney]]'''<br>{{Small|(1925–2001)}}<br>{{sfn|Mullaney|1994|pp=137–139}}<ref name="nga-finney">{{cite web |title=Joan Finney |url=https://www.nga.org/governor/joan-finney/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260714151939/https://www.nga.org/governor/joan-finney/ |archive-date=July 14, 2026 |url-status=live}}</ref><ref name="ks-finney">{{Cite web |title=Joan Finney |url=https://www.kansashistory.gov/kansapedia/joan-finney/12051 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260420063104/https://www.kansashistory.gov/kansapedia/joan-finney/12051 |archive-date=April 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1991<ref>{{Cite news |date=January 15, 1991 |title=New Governor Finney Looks to Future |page=1 |newspaper=[[Salina Journal]] |agency=Associated Press |location=Topeka, Kansas |publication-place=Salina, Kansas |url=https://www.newspapers.com/article/the-salina-journal-finney-inaugurated-ja/130439132/ |archive-url=https://web.archive.org/web/20230822045152/https://www.newspapers.com/article/the-salina-journal-finney-inaugurated-ja/130439132/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1995<br>{{small|(1457 days; retired)}}
+|[[Kansas Democratic Party|Democratic]]<ref name="nga-finney" />
+|[[1990 Kansas gubernatorial election|1990]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Jim|Francisco}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|43
+|rowspan="4" data-sort-value="Graves, Bill"|[[File:Bill Graves.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|'''[[Bill Graves]]'''<br>{{Small|({{Abbr|b.|born in}} 1953)}}<br><ref name="nga-graves">{{cite web |title=Bill Graves |url=https://www.nga.org/governor/bill-graves/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260716151351/https://www.nga.org/governor/bill-graves/ |archive-date=July 16, 2026 |url-status=live}}</ref><ref name="ks-graves">{{Cite web |title=William Preston Graves |url=https://www.kansashistory.gov/kansapedia/william-preston-graves/17128 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260616123957/https://www.kansashistory.gov/kansapedia/william-preston-graves/17128 |archive-date=June 16, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="2927"|January 9, 1995<ref>{{Cite news |last=Wright |first=Julie |date=January 10, 1995 |title=Graves Sets Goal of a Chance for All at a Better Life |page=1A |newspaper=[[The Wichita Eagle]] |url=https://www.newspapers.com/article/the-wichita-eagle-graves-inaugurated-jan/130439161/ |location=Topeka, Kansas |publication-place=Wichita, Kansas |archive-url=https://web.archive.org/web/20230822045147/https://www.newspapers.com/article/the-wichita-eagle-graves-inaugurated-jan/130439161/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 2003<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="4"|[[Kansas Republican Party|Republican]]<ref name="nga-graves" />
+|rowspan="3"|[[1994 Kansas gubernatorial election|1994]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Sheila|Frahm}}<br />{{small|(resigned June 11, 1996)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Gary|Sherrer|dab=Kansas politician}}<br />{{small|(appointed July 18, 1996)}}
+|- style="height:2em;"
+|[[1998 Kansas gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Sebelius, Kathleen"|[[File:Sebeliusofficialphoto.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Kathleen Sebelius]]'''<br>{{Small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-sebelius">{{cite web |title=Kathleen Sebelius |url=https://www.nga.org/governor/kathleen-sebelius/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517090833/https://www.nga.org/governor/kathleen-sebelius/ |archive-date=May 17, 2026 |url-status=live}}</ref><ref name="ks-sebelius">{{Cite web |title=Kathleen Sebelius |url=https://www.kansashistory.gov/kansapedia/kathleen-sebelius/17129 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260712115105/https://www.kansashistory.gov/kansapedia/kathleen-sebelius/17129 |archive-date=July 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2298"|January 13, 2003<ref>{{Cite news |last=Painter |first=Steve |date=January 14, 2003 |title=Topeka Affirms Its New Regime |page=1A |newspaper=[[The Wichita Eagle]] |location=Topeka, Kansas |publication-place=Wichita, Kansas |url=https://www.newspapers.com/article/the-wichita-eagle-sebelius-inaugurated-j/130439184/ |archive-url=https://web.archive.org/web/20230822043643/https://www.newspapers.com/article/the-wichita-eagle-sebelius-inaugurated-j/130439184/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />April 28, 2009<br>{{small|(2298 days; resigned)}}{{efn|Sebelius resigned, having been confirmed as [[United States Secretary of Health and Human Services]].}}
+|rowspan="2"|[[Kansas Democratic Party|Democratic]]<ref name="nga-sebelius" />
+|[[2002 Kansas gubernatorial election|2002]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John E.|Moore|dab=politician}}
+|- style="height:2em;"
+|[[2006 Kansas gubernatorial election|2006]]
+|{{sortname|Mark|Parkinson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|45
+|rowspan="2" data-sort-value="Parkinson, Mark"|[[File:Mark Parkinson (cropped).jpg|75px]]
+|rowspan="2"|'''[[Mark Parkinson]]'''<br>{{Small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-parkinson">{{cite web |title=Mark Parkinson |url=https://www.nga.org/governor/mark-parkinson/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417002032/https://www.nga.org/governor/mark-parkinson/ |archive-date=April 17, 2026 |url-status=live}}</ref><ref name="ks-parkinson">{{Cite web |title=Mark Parkinson |url=https://www.kansashistory.gov/kansapedia/mark-parkinson/17130 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260606142745/https://www.kansashistory.gov/kansapedia/mark-parkinson/17130 |archive-date=June 6, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="623"|April 28, 2009<ref>{{Cite news |last=Koranda |first=Jeannine |date=April 29, 2009 |title=Parkinson Is Kansas' 45th Governor |page=1A |newspaper=[[The Wichita Eagle]] |location=Topeka, Kansas |publication-place=Wichita, Kansas |url=https://www.newspapers.com/article/the-wichita-eagle-parkinson-inaugurated/130439209/ |archive-url=https://web.archive.org/web/20230822052201/https://www.newspapers.com/article/the-wichita-eagle-parkinson-inaugurated/130439209/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 10, 2011<br>{{small|(623 days; retired)}}
+|rowspan="2"|[[Kansas Democratic Party|Democratic]]<ref name="nga-parkinson" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Troy|Findley}}<br />{{small|(appointed May 15, 2009)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="Brownback, Sam"|[[File:Sam Brownback headshot.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Sam Brownback]]'''<br>{{Small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-brownback">{{cite web |title=Sam Brownback |url=https://www.nga.org/governor/sam-brownback/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260908175559/https://www.nga.org/governor/sam-brownback/ |archive-date=September 8, 2026 |url-status=live}}</ref><ref name="ks-brownback">{{Cite web |title=Sam Brownback |url=https://www.kansashistory.gov/kansapedia/sam-brownback/17020 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260518025835/https://www.kansashistory.gov/kansapedia/sam-brownback/17020 |archive-date=May 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2579"|January 10, 2011<ref>{{Cite news |last=Koranda |first=Jeannine |last2=Lefler |first2=Dion |date=January 11, 2011 |title=Brownback: 'I Know Our State Will Rise' |page=1A |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |url=https://www.newspapers.com/article/the-wichita-eagle-brownback-inaugurated/130439230/ |archive-url=https://web.archive.org/web/20230822045151/https://www.newspapers.com/article/the-wichita-eagle-brownback-inaugurated/130439230/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 31, 2018<br>{{small|(2579 days; resigned)}}{{efn|Brownback resigned, having been confirmed as [[United States Ambassador-at-Large for International Religious Freedom]].}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]<ref name="nga-brownback" />
+|[[2010 Kansas gubernatorial election|2010]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Jeff|Colyer}}
+|- style="height:2em;"
+|[[2014 Kansas gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|47
+|rowspan="2" data-sort-value="Colyer, Jeff"|[[File:Jeff Colyer official portrait (cropped).jpg|75px]]
+|rowspan="2"|'''[[Jeff Colyer]]'''<br>{{Small|({{Abbr|b.|born in}} 1960)}}<br><ref name="nga-colyer">{{cite web |title=Jeff Colyer |url=https://www.nga.org/governor/jeff-colyer/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260802212711/https://www.nga.org/governor/jeff-colyer/ |archive-date=August 2, 2026 |url-status=live}}</ref><ref name="ks-colyer">{{Cite web |title=Jeff Colyer |url=https://www.kansashistory.gov/kansapedia/jeff-colyer/20011 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260802213130/https://www.kansashistory.gov/kansapedia/jeff-colyer/20011 |archive-date=August 2, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="349"|January 31, 2018<ref>{{Cite news |last=Shorman |first=Jonathan |last2=Woodall |first2=Hunter |date=February 1, 2018 |title=Colyer Hails New Day in Kansas, Vows Tone of Respect, Openness |page=1A |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |url=https://www.newspapers.com/article/the-wichita-eagle-colyer-succeeds-brownb/130439268/ |archive-url=https://web.archive.org/web/20230822045152/https://www.newspapers.com/article/the-wichita-eagle-colyer-succeeds-brownb/130439268/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 2019<br>{{small|(349 days;<br>lost nomination)}}{{efn|Colyer lost the Republican nomination to [[Kris Kobach]].}}
+|rowspan="2"|[[Kansas Republican Party|Republican]]<ref name="nga-colyer" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Tracey|Mann}}<br />{{small|(appointed February 14, 2018)}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|48
+|rowspan="3" data-sort-value="Kelly, Laura"|[[File:Laura Kelly official photo (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Laura Kelly]]'''<br>{{Small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-kelly">{{cite web |title=Laura Kelly |url=https://www.nga.org/governor/laura-kelly/ |access-date=October 26, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260918051415/https://www.nga.org/governor/laura-kelly/ |archive-date=September 18, 2026 |url-status=live}}</ref><ref name="ks-kelly">{{Cite web |title=Laura Kelly |url=https://www.kansashistory.gov/kansapedia/laura-kelly/20157 |access-date=October 26, 2026 |website=[[Kansas Historical Society]] |archive-url=https://web.archive.org/web/20260917181455/https://www.kansashistory.gov/kansapedia/laura-kelly/20157 |archive-date=September 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="{{Duration in days nts|2019|1|14|duration=on|format=no}}"|January 14, 2019<ref>{{Cite news |last=Shorman |first=Jonathan |date=January 15, 2019 |title=Laura Kelly Sworn In As Kansas Governor |page=1A |location=Topeka, Kansas |publication-place=Wichita, Kansas |newspaper=[[The Wichita Eagle]] |url=https://www.newspapers.com/article/the-wichita-eagle-kelly-inaugurated-janu/130439298/ |archive-url=https://web.archive.org/web/20230822053718/https://www.newspapers.com/article/the-wichita-eagle-kelly-inaugurated-janu/130439298/ |archive-date=August 22, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />Incumbent{{efn|Kelly's second term began on January 9, 2023,<ref>{{Cite news |last=Shorman |first=Jonathan |last2=Bernard |first2=Katie |date=January 9, 2023 |title=Kansas Gov. Laura Kelly begins second term, condemns ‘hostility and anger’ in politics |url=https://www.kansascity.com/news/politics-government/article270865497.html |access-date=October 26, 2026 |website=[[The Kansas City Star]] |archive-url=https://web.archive.org/web/20230109195306/https://www.kansascity.com/news/politics-government/article270865497.html |archive-date=January 9, 2023 |url-status=live}}</ref> and [[2026 Kansas gubernatorial election|will expire]] on January 11, 2027; she will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|14|duration=on|format=no}} days)}}
+|rowspan="3"|[[Kansas Democratic Party|Democratic]]<ref name="nga-kelly" />
+|rowspan="2"|[[2018 Kansas gubernatorial election|2018]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Lynn|Rogers|dab=politician}}<br />{{small|(resigned January 2, 2021)}}
+|- style="height:2em"
+|rowspan="2"|{{sortname|David|Toland}}<br />{{small|(appointed January 2, 2021)}}
+|- style="height:2em;"
+|[[2022 Kansas gubernatorial election|2022]]
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Kansas governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1853.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1860
+ScaleMinor = unit:year increment:1 start:1854
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year    value:rgb(0.8, 0.8, 0.8)
+  id:0year    value:rgb(0.6, 0.6, 0.6)
+  id:noparty  value:rgb(0.7, 0.7, 0.7)
+  id:rep      value:rgb(0.91, 0.11, 0.14)
+  id:dem      value:rgb(0.2, 0.2, 1)
+  id:populist value:rgb(0.67, 0.88, 0.69)
+  id:seat1    value:rgb(0.60, 0.10, 0.10)
+  id:blank    value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1869 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1854.49 till:1855.58 color:noparty text:"Andrew Horatio Reeder"
+ from:1855.61 till:1856.63 color:noparty text:"Wilson Shannon"
+ from:1856.58 till:1857.17 color:noparty text:"John W. Geary"
+ from:1857.24 till:1857.96 color:noparty text:"Robert J. Walker"
+ from:1858.15 till:1858.85 color:noparty text:"James W. Denver"
+ from:1858.9 till:1860.97 color:noparty text:"Samuel Medary"
+ from:1861.11 till:1863.03 color:rep text:"Charles L. Robinson"
+ from:1863.03 till:1865.02 color:rep text:"Thomas Carney"
+ from:1865.02 till:1868.84 color:rep text:"Samuel J. Crawford"
+ from:1868.84 till:1869.03 color:rep text:"Nehemiah Green"
+ from:1869.03 till:1873.04 color:rep text:"James M. Harvey"
+ from:1873.04 till:1877.02 color:rep text:"Thomas A. Osborn"
+ from:1877.02 till:1879.04 color:rep text:"George T. Anthony"
+ from:1879.04 till:1883.02 color:rep text:"John St. John"
+ from:1883.02 till:1885.03 color:dem text:"George Washington Glick"
+ from:1885.03 till:1889.04 color:rep text:"John Martin"
+ from:1889.04 till:1893.02 color:rep text:"Lyman U. Humphrey"
+ from:1893.02 till:1895.04 color:populist text:"Lorenzo D. Lewelling"
+ from:1895.04 till:1897.03 color:rep text:"Edmund N. Morrill"
+ from:1897.03 till:1899.02 color:populist text:"John W. Leedy"
+ from:1899.02 till:1903.03 color:rep text:"William Eugene Stanley"
+ from:1903.03 till:1905.02 color:rep text:"Willis J. Bailey"
+ from:1905.02 till:1909.03 color:rep text:"Edward W. Hoch"
+ from:1909.03 till:1913.04 color:rep text:"Walter R. Stubbs"
+ from:1913.04 till:1915.03 color:dem text:"George H. Hodges"
+ from:1915.03 till:1919.04 color:rep text:"Arthur Capper"
+ from:1919.04 till:1923.02 color:rep text:"Henry J. Allen"
+ from:1923.02 till:1925.03 color:dem text:"Jonathan M. Davis"
+ from:1925.03 till:1929.04 color:rep text:"Benjamin S. Paulen"
+ from:1929.04 till:1931.03 color:rep text:"Clyde M. Reed"
+ from:1931.03 till:1933.02 color:dem text:"Harry Hines Woodring"
+ from:1933.02 till:1937.03 color:rep text:"Alf Landon"
+ from:1937.03 till:1939.02 color:dem text:"Walter A. Huxman"
+ from:1939.02 till:1943.03 color:rep text:"Payne Ratner"
+ from:1943.03 till:1947.04 color:rep text:"Andrew Frank Schoeppel"
+ from:1947.04 till:1950.91 color:rep text:"Frank Carlson"
+ from:1950.91 till:1951.02 color:rep text:"Frank L. Hagaman"
+ from:1951.02 till:1955.03 color:rep text:"Edward F. Arn"
+ from:1955.03 till:1957.01 color:rep text:"Fred Hall"
+ from:1957.01 till:1957.04 color:rep text:"John McCuish"
+ from:1957.04 till:1961.02 color:dem text:"George Docking"
+ from:1961.02 till:1965.03 color:rep text:"John Anderson Jr."
+ from:1965.03 till:1967.02 color:rep text:"William H. Avery"
+ from:1967.02 till:1975.04 color:dem text:"Robert Docking"
+ from:1975.04 till:1979.02 color:rep text:"Robert Frederick Bennett"
+ from:1979.02 till:1987.03 color:dem text:"John W. Carlin"
+ from:1987.03 till:1991.04 color:rep text:"Mike Hayden"
+ from:1991.04 till:1995.02 color:dem text:"Joan Finney"
+ from:1995.02 till:2003.04 color:rep text:"Bill Graves"
+ from:2003.04 till:2009.32 color:dem text:"Kathleen Sebelius"
+ from:2009.32 till:2011.03 color:dem text:"Mark Parkinson"
+ from:2011.03 till:2018.08 color:rep text:"Sam Brownback"
+ from:2018.08 till:2019.04 color:rep text:"Jeff Colyer"
+ from:2019.04 till:$now color:dem text:"Laura Kelly"
+
+LineData=
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+* [[List of Kansas state legislatures]]
+* [[Gubernatorial lines of succession in the United States#Kansas]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Kansas Governors |url=https://www.nga.org/former-governors/kansas/ |access-date=October 26, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Kansas Constitution |url=https://50constitutions.org/ks/constitution |ref={{sfnref|Kan. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 25, 2026}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=February 27, 2023}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons02thor/ |volume=2 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+* {{Cite web |title=Governors |url=https://www.kansashistory.gov/kansapedia/governors/19928 |access-date=October 26, 2026 |website=[[Kansas Historical Society]]}}
+{{refend}}
+
+==External links==
+{{Commons category|Governors of Kansas}}
+*[https://governor.kansas.gov/ Office of the Governor of Kansas]
+
+{{Governors of Kansas}}
+{{Navboxes
+|list =
+{{Kansas}}
+{{Kansas Executive Offices}}
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+}}
+
+{{DEFAULTSORT:Kansas, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Kansas|*]]
+[[Category:Government of Kansas]]
+[[Category:Lists of Kansas politicians|Governors]]
+[[Category:Kansas history-related lists|Governors]]

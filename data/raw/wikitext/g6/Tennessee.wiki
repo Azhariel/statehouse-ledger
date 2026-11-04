@@ -1,0 +1,612 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+The [[governor of Tennessee]] is the [[head of government]] of the [[U.S. state]] of [[Tennessee]].
+
+Tennessee has had 50 governors, including the incumbent, [[Bill Lee (Tennessee politician)|Bill Lee]].<ref>[https://www.tn.gov/governor/about-bill-lee.html Office of the Governor]</ref> Seven governors ([[John Sevier]], [[William Carroll (Tennessee politician)|William Carroll]], [[Andrew Johnson]], [[Robert Love Taylor]], [[Gordon Browning]], [[Frank G. Clement]], and [[Buford Ellington]]) have served non-consecutive terms. This tally does not include [[William Blount]] (the territorial governor) or [[Robert L. Caruthers]] (who never took office), though the ''Blue Book'' includes them in its list of governors.<ref>"[http://www.tn.gov/sos/bluebook/11-12/TS3_PastGovAndOff.pdf Past Governors] {{Webarchive|url=https://web.archive.org/web/20120731101355/http://tn.gov/sos/bluebook/11-12/TS3_PastGovAndOff.pdf |date=July 31, 2012 }}," ''Tennessee Blue Book'' (2011&ndash;2012), pp. 547, 553.</ref>  All governors are counted only once, regardless of number of terms served (e.g., [[John Sevier]] is considered the 1st governor, rather than the 1st and 3rd governor). The ''Blue Book'' does not include [[Edward H. East]] in its list of governors.
+
+==List of governors==
+
+===Southwest Territory===
+The [[Southwest Territory|Territory South of the Ohio River]], commonly known as the Southwest Territory, was organized on May 26, 1790.<ref>{{usstat|1|123}}</ref>
+
+Throughout its 6-year history, Southwest Territory had only one governor appointed by the federal government, [[William Blount]].
+
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|+ Governor of the Territory Southwest of the River Ohio
+!scope="colgroup" colspan="2"|Governor
+!scope="col"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+|[[File:William-blount-wb-cooper.jpg|75px]]
+|'''[[William Blount]]'''<br />{{small|(1749–1800)}}<br>{{sfn|McMullin|1984|pp=287–289}}
+|June 8, 1790{{efn|Blount was nominated on June 7, 1790;<ref name="blount-nomination">U.S. Congress. ''Senate Exec. Journal''. 1st Cong., 2nd sess., [https://memory.loc.gov/cgi-bin/ampage?collId=llej&fileName=001/llej001.db&recNum=56 50], accessed July 5, 2023.</ref> confirmed by the Senate on June 8;<ref name="blount-nomination" /> and took the oath of office on September 20.{{sfn|McMullin|1984|pp=287–289}} He was reconfirmed by the Senate on December 11, 1794.<ref>U.S. Congress. ''Senate Exec. Journal''. 3rd Cong., 1st sess., [https://memory.loc.gov/cgi-bin/ampage?collId=llej&fileName=001/llej001.db&recNum=171 165], accessed July 5, 2023.</ref>}}<br />&ndash;<br />March 28, 1796<br>{{small|(2121 days; statehood)}}
+|[[George Washington]]
+|}
+
+===State of Tennessee===
+Southwest Territory was [[admission to the Union|admitted to the Union]] as [[Tennessee]] on June 1, 1796.<ref>{{usstat|1|491}}</ref>
+
+The first [[constitution of Tennessee]], enacted in 1796, set a term of two years for the governor and provided that no person could serve as governor for more than 6 years in any 8-year period.<ref name="tnenccarroll">Jonathan M. Atkins. [http://tennesseeencyclopedia.net/entry.php?rec=205 "William Carroll"] in ''[[Tennessee Encyclopedia of History and Culture]]'' (online edition). Accessed January 27, 2012.</ref> The term of office was lengthened to four years, without the possibility of consecutive terms, by constitutional amendments adopted in 1953.<ref name="tnencGovt">{{Citation |title=Government |url=http://tennesseeencyclopedia.net/entry.php?rec=563 |work=[[Tennessee Encyclopedia of History and Culture]]}}</ref> Under the current provisions of the state constitution, as amended in 1978, the governor is elected to a four-year term and may serve no more than two terms consecutively.<ref name=tnencGovt/><ref name="LyonsSchebStair">{{Cite book |title=Government and politics in Tennessee |publisher=[[University of Tennessee Press]] |year=2001 |page=[https://books.google.com/books?id=ac0Qtk_c7uoC&pg=PA48 48}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Tennessee
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Tennessee|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|1
+|rowspan="3" data-sort-value="Sevier, John"|[[File:Portrait of Governor John Sevier.jpg|75px]]
+|rowspan="16" style="background: {{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|&nbsp;
+|rowspan="3"|'''[[John Sevier]]'''<br>{{Small|(1745–1815)}}<br>{{sfn|Sobel|1978|pp=1465–1466}}<ref name="nga-sevier">{{Cite web |title=John Sevier |url=https://www.nga.org/governor/john-sevier/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2003"|March 30, 1796<ref>{{Cite news |date=1796-05-11 |title=Knoxville, April 1 |page=3 |work=The Pennsylvania Herald, and York General Advertiser |url=https://www.newspapers.com/article/the-pennsylvania-herald-and-york-genera/127677584/ |access-date=2023-07-05}}</ref><br />&ndash;<br />September 23, 1801<br>{{small|(2003 days; term-limited)}}{{efn|Under the 1796 constitution, governors were ineligible to serve more than six years in any term of eight.<ref>{{Cite web |title=1796 Tenn. Const. art. II, § 4 |url=https://tsla.tnsosfiles.com/digital/teva/transcripts/33633.pdf |access-date=2023-12-20}}</ref>|name=limits-1796}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1796 Tennessee gubernatorial election|1796]]
+|colspan="2" rowspan="83" style="background:#EEEEEE;"|''Office did not exist''
+|- style="height:2em;"
+|[[1797 Tennessee gubernatorial election|1797]]
+|- style="height:2em;"
+|[[1799 Tennessee gubernatorial election|1799]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Roane, Archibald"|[[File:Portrait of Governor Archibald Roane.jpg|75px]]
+|'''[[Archibald Roane]]'''<br>{{small|({{Abbr|d.|died in}} 1819)}}<br>{{sfn|Sobel|1978|p=1466}}<ref name="nga-roane">{{Cite web |title=Archibald Roane |url=https://www.nga.org/governor/archibald-roane/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|September 23, 1801{{sfn|Kallenbach|1977|pp=553–555}}<br />&ndash;<br />September 23, 1803<br>{{small|(731 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1801 Tennessee gubernatorial election|1801]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|''1''
+|rowspan="3" data-sort-value="Sevier, John"|[[File:Portrait of Governor John Sevier.jpg|75px]]
+|rowspan="3"|'''[[John Sevier]]'''<br>{{Small|(1745–1815)}}<br>{{sfn|Sobel|1978|pp=1465–1466}}<ref name="nga-sevier" />
+|rowspan="3" data-sort-value="2190"|September 23, 1803{{sfn|Kallenbach|1977|pp=553–555}}<br />&ndash;<br />September 20, 1809<br>{{small|(2190 days; term-limited)}}{{efn|name=limits-1796}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1803 Tennessee gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1805 Tennessee gubernatorial election|1805]]
+|- style="height:2em;"
+|[[1807 Tennessee gubernatorial election|1807]]
+|- style="height:2em;"
+!rowspan="3" scope"row"|3
+|rowspan="3" data-sort-value="Blount, Willie"|[[File:Portrait of Governor Willie Blount.jpg|75px]]
+|rowspan="3"|'''[[Willie Blount]]'''<br>{{Small|(1768–1835)}}<br>{{sfn|Sobel|1978|p=1467}}<ref name="nga-blount">{{Cite web |title=Willie Blount |url=https://www.nga.org/governor/willie-blount/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2199"|September 20, 1809<ref>{{Cite news |date=1809-09-29 |title=Wednesday, Sept. 20 |page=2 |work=The Democratic Clarion |url=https://www.newspapers.com/article/the-democratic-clarion-blount-inaugurate/127680710/ |access-date=2023-07-05}}</ref><br />&ndash;<br />September 27, 1815<br>{{small|(2199 days; term-limited)}}{{efn|name=limits-1796}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1809 Tennessee gubernatorial election|1809]]
+|- style="height:2em;"
+|[[1811 Tennessee gubernatorial election|1811]]
+|- style="height:2em;"
+|[[1813 Tennessee gubernatorial election|1813]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|4
+|rowspan="3" data-sort-value="McMinn, Joseph"|[[File:Portrait of Governor Joseph McMinn.jpg|75px]]
+|rowspan="3"|'''[[Joseph McMinn]]'''<br>{{Small|(1758–1824)}}<br>{{sfn|Sobel|1978|p=1468}}<ref name="nga-mcmin">{{Cite web |title=Joseph McMinn |url=https://www.nga.org/governor/joseph-mcminn/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2197"|September 27, 1815{{sfn|Kallenbach|1977|pp=553–555}}<br />&ndash;<br />October 1, 1821<br>{{small|(2197 days; term-limited)}}{{efn|name=limits-1796}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1815 Tennessee gubernatorial election|1815]]
+|- style="height:2em;"
+|[[1817 Tennessee gubernatorial election|1817]]
+|- style="height:2em;"
+|[[1819 Tennessee gubernatorial election|1819]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|5
+|rowspan="3" data-sort-value="Carroll, William"|[[File:Portrait of Governor William Carroll.jpg|75px]]
+|rowspan="3"|'''[[William Carroll (Tennessee politician)|William Carroll]]'''<br>{{Small|(1788–1844)}}<br>{{sfn|Sobel|1978|pp=1468–1469}}<ref name="nga-carroll">{{Cite web |title=William Carroll |url=https://www.nga.org/governor/william-carroll/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|October 1, 1821<ref>{{Cite news |date=1821-10-24 |title=State of Tennessee |page=4 |work=The Hillsborough Recorder |url=https://www.newspapers.com/article/the-hillsborough-recorder-carroll-inaugu/127707308/ |access-date=2023-07-06}}</ref><br />&ndash;<br />October 1, 1827<br>{{small|(2192 days; term-limited)}}{{efn|name=limits-1796}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1821 Tennessee gubernatorial election|1821]]
+|- style="height:2em;"
+|[[1823 Tennessee gubernatorial election|1823]]
+|- style="height:2em;"
+|[[1825 Tennessee gubernatorial election|1825]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Houston, Sam"|[[File:Portrait of Governor Sam Houston.jpg|75px]]
+|rowspan="5" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Sam Houston]]'''<br>{{Small|(1793–1863)}}<br>{{sfn|Sobel|1978|pp=1469–1470}}
+|data-sort-value="564"|October 1, 1827<ref>{{Cite news |date=1827-10-06 |title=Legislature of Tennessee |language=en-us |page=4 |work=National Banner and Nashville Whig |url=https://www.newspapers.com/article/national-banner-and-nashville-whig-houst/127707362/ |access-date=2023-10-02}}</ref><br />&ndash;<br />April 16, 1829<br>{{small|(564 days; resigned)}}{{efn|Houston resigned with no specific reasoning, but it was during the collapse of his marriage.{{sfn|Sobel|1978|pp=1469–1470}}}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1827 Tennessee gubernatorial election|1827]]
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Hall, William"|[[File:Portrait of Governor William Hall.jpg|75px]]
+|'''[[William Hall (governor)|William Hall]]'''<br>{{Small|(1775–1856)}}<br>{{sfn|Sobel|1978|p=1471}}<ref name="nga-hall">{{Cite web |title=William Hall |url=https://www.nga.org/governor/william-hall/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="169"|April 16, 1829<ref>{{Cite news |date=1829-04-18 |title=none |page=3 |work=National Banner and Nashville Whig | quote=Governor Houston having resigned the office of Governor of the state, the duties for the remainder of the term devolve upon Gen. Wm. Hall, Speaker of the Senate... | url=https://www.newspapers.com/article/national-banner-and-nashville-whig-hall/127707500/ |access-date=2023-07-06}}</ref><br />&ndash;<br />October 1, 1829<br>{{small|(169 days; retired)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />speaker of<br />the Senate}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|''5''
+|rowspan="3" data-sort-value="Carroll, William"|[[File:Portrait of Governor William Carroll.jpg|75px]]
+|rowspan="3"|'''[[William Carroll (Tennessee politician)|William Carroll]]'''<br>{{Small|(1788–1844)}}<br>{{sfn|Sobel|1978|pp=1468–1469}}<ref name="nga-carroll" />
+|rowspan="3" data-sort-value="2203"|October 1, 1829<ref>{{Cite news |date=1829-10-03 |title=Legislature of Tennessee |page=3 |work=National Banner and Nashville Whig |url=https://www.newspapers.com/article/national-banner-and-nashville-whig-carro/127707546/ |access-date=2023-07-06}}</ref><br />&ndash;<br />October 12, 1835<br>{{small|(2203 days; term-limited)}}{{efn|name=limits-1796}}
+|rowspan="3"|[[Tennessee Democratic Party|Democratic]]{{efn|Carroll is labeled a Jackson Democrat by Kallenbach,{{sfn|Kallenbach|1977|pp=553–555}} and a Democratic-Republican by Glashan.{{sfn|Glashan|1979|p=294}}}}
+|[[1829 Tennessee gubernatorial election|1829]]
+|- style="height:2em;"
+|[[1831 Tennessee gubernatorial election|1831]]
+|- style="height:2em;"
+|[[1833 Tennessee gubernatorial election|1833]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="Cannon, Newton"|[[File:Portrait of Governor Newton Cannon.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Newton Cannon]]'''<br>{{Small|(1781–1841)}}<br>{{sfn|Sobel|1978|pp=1471–1472}}<ref name="nga-cannon">{{Cite web |title=Newton Cannon |url=https://www.nga.org/governor/newton-cannon/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|October 12, 1835<ref>Tennessee General Assembly. ''Journal of the Senate''. 21st general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108189298&seq=30 24], accessed July 6, 2023</ref><br />&ndash;<br />October 14, 1839<br>{{small|(1464 days; lost election)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{efn|Dubin{{sfn|Dubin|2003|p=247}} and Kallenbach{{sfn|Kallenbach|1977|p=557}} label Cannon's party affiliation in 1835 as Anti-Van Buren Democratic.}}
+|[[1835 Tennessee gubernatorial election|1835]]
+|- style="height:2em;"
+|[[1837 Tennessee gubernatorial election|1837]]
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Polk, James"|[[File:JamesKPolk1840.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James K. Polk]]'''<br>{{Small|(1795–1849)}}<br>{{sfn|Sobel|1978|pp=1472–1473}}<ref name="nga-polk">{{Cite web |title=James Knox Polk |url=https://www.nga.org/governor/james-knox-polk/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|October 14, 1839<ref>Tennessee General Assembly. ''Journal of the Senate''. 23rd general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108189314&seq=34 30], accessed July 6, 2023</ref><br />&ndash;<br />October 14, 1841<br>{{small|(732 days; lost election)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1839 Tennessee gubernatorial election|1839]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Jones, James"|[[File:James Chamberlain Jones Governor of Tennessee.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[James C. Jones]]'''<br>{{Small|(1809–1859)}}<br>{{sfn|Sobel|1978|pp=1473–1474}}<ref name="nga-jones">{{Cite web |title=James Chamberlain Jones |url=https://www.nga.org/governor/james-chamberlain-jones/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1463"|October 14, 1841<ref>Tennessee General Assembly. ''Journal of the Senate''. 24th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108189322&seq=104 78], accessed July 6, 2023</ref><br />&ndash;<br />October 15, 1845<br>{{small|(1463 days; retired)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1841 Tennessee gubernatorial election|1841]]
+|- style="height:2em;"
+|[[1843 Tennessee gubernatorial election|1843]]
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Brown, Aaron"|[[File:Portrait of Governor Aaron V. Brown.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Aaron V. Brown]]'''<br>{{Small|(1795–1859)}}<br>{{sfn|Sobel|1978|pp=1474–1475}}<ref name="nga-brown-aaron">{{Cite web |title=Aaron Venable Brown |url=https://www.nga.org/governor/aaron-venable-brown/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="733"|October 15, 1845<ref>Tennessee General Assembly. ''Journal of the Senate''. 26th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108189330&seq=110 102], accessed July 6, 2023</ref><br />&ndash;<br />October 17, 1847<br>{{small|(733 days; lost election)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1845 Tennessee gubernatorial election|1845]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Brown, Neill"|[[File:Portrait of Governor Neill S. Brown.jpg|75px]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[Neill S. Brown]]'''<br>{{Small|(1810–1886)}}<br>{{sfn|Sobel|1978|pp=1475–1476}}<ref name="nga-brown-neill">{{Cite web |title=Neill Smith Brown |url=https://www.nga.org/governor/neill-smith-brown/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|October 17, 1847<ref>Tennessee General Assembly. ''Journal of the Senate''. 27th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108189348&seq=87 77], accessed July 6, 2023</ref><br />&ndash;<br />October 16, 1849<br>{{small|(731 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1847 Tennessee gubernatorial election|1847]]
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Trousdale, William"|[[File:Portrait of Governor William Trousdale.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William Trousdale]]'''<br>{{Small|(1790–1872)}}<br>{{sfn|Sobel|1978|pp=1476–1477}}<ref name="nga-trousdale">{{Cite web |title=William Trousdale |url=https://www.nga.org/governor/william-trousdale/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|October 16, 1849<ref>Tennessee General Assembly. ''Journal of the Senate''. 28th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108189355&seq=130 104], accessed July 6, 2023</ref><br />&ndash;<br />October 16, 1851<br>{{small|(731 days; lost election)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1849 Tennessee gubernatorial election|1849]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Campbell, William"|[[File:Portrait of Governor William Campbell.jpg|75px]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[William B. Campbell]]'''<br>{{Small|(1807–1867)}}<br>{{sfn|Sobel|1978|pp=1477–1478}}<ref name="nga-campbell">{{Cite web |title=William Bowen Campbell |url=https://www.nga.org/governor/william-bowen-campbell/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="733"|October 16, 1851<ref>Tennessee General Assembly. ''Journal of the Senate''. 29th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108189363&seq=79 75], accessed July 6, 2023</ref><br />&ndash;<br />October 17, 1853<br>{{small|(733 days; retired)}}{{sfn|Sobel|1978|pp=1477–1478}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1851 Tennessee gubernatorial election|1851]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Johnson, Andrew"|[[File:Andrew Johnson portrait.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Andrew Johnson]]'''<br>{{Small|(1808–1875)}}<br>{{sfn|Sobel|1978|pp=1478–1480}}<ref name="nga-johnson">{{Cite web |title=Andrew Johnson |url=https://www.nga.org/governor/andrew-johnson/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1479"|October 17, 1853<ref>Tennessee General Assembly. ''Journal of the Senate''. 30th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190155&seq=70 64], accessed July 6, 2023</ref><br />&ndash;<br />November 3, 1857<br>{{small|(1479 days; retired)}}{{efn|Johnson was instead [[1856–57 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1478–1480}}}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1853 Tennessee gubernatorial election|1853]]
+|- style="height:2em;"
+|[[1855 Tennessee gubernatorial election|1855]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|16
+|rowspan="3" data-sort-value="Harris, Isham"|[[File:Portrait of Governor Isham G. Harris.jpg|75px]]
+|rowspan="3"|'''[[Isham G. Harris]]'''<br>{{Small|(1818–1897)}}<br>{{sfn|Sobel|1978|pp=1480–1481}}<ref name="nga-harris">{{Cite web |title=Isham Green Harris |url=https://www.nga.org/governor/isham-green-harris/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1591"|November 3, 1857<ref>Tennessee General Assembly. ''Journal of the Senate''. 32nd general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190130&seq=118 100], accessed July 6, 2023</ref><br />&ndash;<br />March 12, 1862<br>{{small|(1591 days; deposed)}}{{efn|Harris fled [[Nashville, Tennessee|Nashville]] for [[Memphis, Tennessee|Memphis]] after the [[Battle of Fort Donelson]] in February 1862, and was later driven from the state by Union forces as he worked with the Confederate army.{{sfn|Sobel|1978|pp=1480–1481}} Johnson was appointed military governor of Tennessee on March 12, 1862, by the Union forces occupying [[Middle Tennessee|Middle]] and [[East Tennessee|East]] Tennessee.{{sfn|Sobel|1978|pp=1478–1480}} Meanwhile, the Confederate-held portions of [[West Tennessee]] held an [[1863 Tennessee gubernatorial election|election]] in August 1863, in which Harris would have been term-limited, and elected [[Robert L. Caruthers]] governor. However, as the legislature was unable to convene, Caruthers was never able to take office.{{sfn|Kallenbach|1977|pp=553–555}}<ref name="nga-caruthers">{{Cite web |title=Robert Looney Caruthers |url=https://www.nga.org/governor/robert-looney-caruthers/ |access-date=July 6, 2023 |publisher=[[National Governors Association]]}}</ref>}}
+|rowspan="3"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1857 Tennessee gubernatorial election|1857]]
+|- style="height:2em;"
+|[[1859 Tennessee gubernatorial election|1859]]
+|- style="height:2em;"
+|[[1861 Tennessee gubernatorial election|1861]]
+|- style="height:2em;"
+!scope="row"|''15''
+|data-sort-value="Johnson, Andrew"|[[File:Andrew Johnson portrait.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Military"|
+|'''[[Andrew Johnson]]'''<br>{{Small|(1808–1875)}}<br>{{sfn|Sobel|1978|pp=1478–1480}}<ref name="nga-johnson" />
+|data-sort-value="1089"|March 12, 1862{{efn|Johnson was appointed military governor on March 4;<ref>{{Cite news |date=1862-03-14 |title=A Provisional Military Government for Tennessee |page=2 |work=The Memphis Daily Avalanche |url=https://www.newspapers.com/article/the-memphis-daily-avalanche-johnson-appo/127748094/ |access-date=2023-07-06}}</ref> he arrived in Nashville on March 12.<ref>{{Cite news |date=1862-03-21 |title=Gov. Johnson at Nashville |page=2 |work=The Buffalo Commercial |url=https://www.newspapers.com/article/the-buffalo-commercial-johnson-arrives-m/127748165/ |access-date=2023-07-06}}</ref>}}<br />&ndash;<br />March 4, 1865<br>{{small|(1089 days; resigned)}}{{efn|Johnson resigned, having been [[1864 United States presidential election|elected]] [[Vice President of the United States]].{{sfn|Sobel|1978|pp=1478–1480}}{{sfn|Kallenbach|1977|pp=553–555}}}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Military governor<br>appointed by President}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="East, Edward"|[[File:Edward-hazzard-east-by-ritchie.jpg|75px]]
+|'''[[Edward H. East]]'''<br>{{Small|(1830–1904)}}<br><ref name="nga-east">{{Cite web |title=Edward Hazzard East |url=https://www.nga.org/governor/edward-hazzard-east/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="33"|March 4, 1865{{sfn|Kallenbach|1977|pp=553–555}}<br />&ndash;<br />April 5, 1865<br>{{small|(33 days; retired)}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Secretary of state<br />acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Brownlow, William"|[[File:Brownlow-william-by-flavius-fisher.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Parson Brownlow]]'''<br>{{Small|(1805–1877)}}<br>{{sfn|Sobel|1978|pp=1481–1482}}<ref name="nga-brownlow">{{Cite web |title=William Gannaway Brownlow |url=https://www.nga.org/governor/william-gannaway-brownlow/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1423"|April 5, 1865<ref>Tennessee General Assembly. ''Journal of the Senate''. 1865 general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112110908990&seq=25 19], accessed July 6, 2023</ref><br />&ndash;<br />February 25, 1869<br>{{small|(1423 days; resigned)}}{{efn|Brownlow resigned, having been [[1868–69 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1481–1482}}}}
+|rowspan="2"|[[Tennessee Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1865 Tennessee gubernatorial election|1865]]
+|- style="height:2em;"
+|[[1867 Tennessee gubernatorial election|1867]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Senter, Dewitt"|[[File:Portrait of Governor DeWitt C. Senter.jpg|75px]]
+|rowspan="2"|'''[[Dewitt Clinton Senter]]'''<br>{{Small|(1830–1898)}}<br>{{sfn|Sobel|1978|pp=1482–1483}}<ref name="nga-senter">{{Cite web |title=DeWitt Clinton Senter |url=https://www.nga.org/governor/dewitt-clinton-senter/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="958"|February 25, 1869<ref>Tennessee General Assembly. ''Journal of the Senate''. 35th general assembly, [https://babel.hathitrust.org/cgi/pt?id=nyp.33433010021313&seq=315 309], accessed July 7, 2023</ref><br />&ndash;<br />October 10, 1871<br>{{small|(958 days; retired)}}
+|rowspan="2"|[[Tennessee Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />speaker of<br />the Senate}}
+|- style="height:2em;"
+|[[1869 Tennessee gubernatorial election|1869]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Brown, John"|[[File:Portrait of John C. Brown.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John C. Brown]]'''<br>{{Small|(1827–1889)}}<br>{{sfn|Sobel|1978|pp=1483–1484}}<ref name="nga-brown-john">{{Cite web |title=John Calvin Brown |url=https://www.nga.org/governor/john-calvin-brown/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1197"|October 10, 1871<ref>Tennessee General Assembly. ''Journal of the Senate''. 37th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108191088&seq=45 39], accessed July 7, 2023</ref><br />&ndash;<br />January 18, 1875<br>{{small|(1197 days; retired)}}{{efn|Brown instead [[1875 United States Senate election in Tennessee|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|pp=1483–1484}}}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1870 Tennessee gubernatorial election|1870]]
+|- style="height:2em;"
+|[[1872 Tennessee gubernatorial election|1872]]
+|- style="height:2em;"
+!rowspan="2" scope"row"|20
+|rowspan="2" data-sort-value="Porter, James"|[[File:Portrait of Governor James D. Porter.jpg|75px]]
+|rowspan="2"|'''[[James D. Porter]]'''<br>{{Small|(1828–1912)}}<br>{{sfn|Sobel|1978|pp=1484–1485}}<ref name="nga-porter">{{Cite web |title=James Davis Porter |url=https://www.nga.org/governor/james-davis-porter/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1491"|January 18, 1875<ref>Tennessee General Assembly. ''Journal of the Senate''. 39th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108191112&seq=126 120], accessed July 7, 2023</ref><br />&ndash;<br />February 16, 1879<br>{{small|(1491 days; retired)}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1874 Tennessee gubernatorial election|1874]]
+|- style="height:2em;"
+|[[1876 Tennessee gubernatorial election|1876]]
+|- style="height:2em;"
+!scope"row"|21
+|data-sort-value="Marks, Albert"|[[File:Portrait of Governor Albert S. Marks.jpg|75px]]
+|'''[[Albert S. Marks]]'''<br>{{Small|(1836–1891)}}<br>{{sfn|Sobel|1978|p=1486}}<ref name="nga-marks">{{Cite web |title=Albert Smith Marks |url=https://www.nga.org/governor/albert-smith-marks/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="702"|February 16, 1879<ref>Tennessee General Assembly. ''Journal of the Senate''. 41st general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108191146&seq=138 132], accessed July 7, 2023</ref><br />&ndash;<br />January 17, 1881<br>{{small|(702 days; retired)}}{{sfn|Sobel|1978|p=1486}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1878 Tennessee gubernatorial election|1878]]
+|- style="height:2em;"
+!scope"row"|22
+|data-sort-value="Hawkins, Alvin"|[[File:Portrait of Governor Alvin Hawkins.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Alvin Hawkins]]'''<br>{{Small|(1821–1905)}}<br>{{sfn|Sobel|1978|pp=1486–1487}}<ref name="nga-hawkins">{{Cite web |title=Alvin Hawkins |url=https://www.nga.org/governor/alvin-hawkins/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 17, 1881<ref>Tennessee General Assembly. ''Journal of the Senate''. 42nd general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190437&seq=168 162], accessed July 7, 2023</ref><br />&ndash;<br />January 15, 1883<br>{{small|(729 days; lost election)}}
+|[[Tennessee Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1880 Tennessee gubernatorial election|1880]]
+|- style="height:2em;"
+!rowspan="2" scope"row"|23
+|rowspan="2" data-sort-value="Bate, William"|[[File:Portrait of Governor William B. Bate.jpg|75px]]
+|rowspan="15" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[William B. Bate]]'''<br>{{Small|(1826–1905)}}<br>{{sfn|Sobel|1978|pp=1487–1488}}<ref name="nga-bate">{{Cite web |title=William Brimage Bate |url=https://www.nga.org/governor/william-brimage-bate/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 15, 1883<ref>Tennessee General Assembly. ''Journal of the Senate''. 43rd general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190460&seq=190 184], accessed July 7, 2023</ref><br />&ndash;<br />January 17, 1887<br>{{small|(1464 days; retired)}}{{efn|Bate was instead [[1887 United States Senate election in Tennessee|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1487–1488}}}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1882 Tennessee gubernatorial election|1882]]
+|- style="height:2em;"
+|[[1884 Tennessee gubernatorial election|1884]]
+|- style="height:2em;"
+!rowspan="2" scope"row"|24
+|rowspan="2" data-sort-value="Taylor, Robert"|[[File:Portrait of Governor Robert L. Taylor.jpg|75px]]
+|rowspan="2"|'''[[Robert Love Taylor]]'''<br>{{Small|(1850–1912)}}<br>{{sfn|Sobel|1978|pp=1488–1489}}<ref name="nga-taylor-robert">{{Cite web |title=Robert Love Taylor |url=https://www.nga.org/governor/robert-love-taylor/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 17, 1887<ref>Tennessee General Assembly. ''Journal of the Senate''. 45th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190494&seq=191 185], accessed July 7, 2023</ref><br />&ndash;<br />January 19, 1891<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1886 Tennessee gubernatorial election|1886]]
+|- style="height:2em;"
+|[[1888 Tennessee gubernatorial election|1888]]
+|- style="height:2em;"
+!scope"row"|25
+|data-sort-value="Buchanan, John"|[[File:Portrait of Governor John P. Buchanan.jpg|75px]]
+|'''[[John P. Buchanan]]'''<br>{{Small|(1847–1930)}}<br>{{sfn|Sobel|1978|p=1490}}<ref name="nga-buchanan">{{Cite web |title=John Price Buchanan |url=https://www.nga.org/governor/john-price-buchanan/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 19, 1891<ref>Tennessee General Assembly. ''Journal of the Senate''. 47th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190361&seq=62 58], accessed July 7, 2023</ref><br />&ndash;<br />January 16, 1893<br>{{small|(729 days; lost election)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1890 Tennessee gubernatorial election|1890]]
+|- style="height:2em;"
+!rowspan="2" scope"row"|26
+|rowspan="2" data-sort-value="Turney, Peter"|[[File:Portrait of Governor Peter Turney.jpg|75px]]
+|rowspan="2"|'''[[Peter Turney]]'''<br>{{Small|(1827–1903)}}<br>{{sfn|Sobel|1978|pp=1491–1492}}<ref name="nga-turney">{{Cite web |title=Peter Turney |url=https://www.nga.org/governor/peter-turney/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1467"|January 16, 1893<ref>Tennessee General Assembly. ''Journal of the Senate''. 48th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190395&seq=101 95], accessed July 7, 2023</ref><br />&ndash;<br />January 21, 1897<br>{{small|(1467 days; retired)}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1892 Tennessee gubernatorial election|1892]]
+|- style="height:2em;"
+|[[1894 Tennessee gubernatorial election|1894]]
+|- style="height:2em;"
+!scope="row"|''24''
+|data-sort-value="Taylor, Robert"|[[File:Portrait of Governor Robert L. Taylor.jpg|75px]]
+|'''[[Robert Love Taylor]]'''<br>{{Small|(1850–1912)}}<br>{{sfn|Sobel|1978|pp=1488–1489}}<ref name="nga-taylor-robert" />
+|data-sort-value="726"|January 21, 1897<ref>Tennessee General Assembly. ''Journal of the Senate''. 50th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190429&seq=172 170], accessed July 7, 2023</ref><br />&ndash;<br />January 16, 1899<br>{{small|(726 days; retired)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1896 Tennessee gubernatorial election|1896]]
+|- style="height:2em;"
+!rowspan="2" scope"row"|27
+|rowspan="2" data-sort-value="McMillin, Benton"|[[File:Portrait of Governor Benton McMillin.jpg|75px]]
+|rowspan="2"|'''[[Benton McMillin]]'''<br>{{Small|(1845–1933)}}<br>{{sfn|Sobel|1978|pp=1492–1493}}<ref name="nga-mcmillin">{{Cite web |title=Benton McMillin |url=https://www.nga.org/governor/benton-mcmillin/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1465"|January 16, 1899<ref>Tennessee General Assembly. ''Journal of the Senate''. 51st general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112105492836&seq=90 85], accessed July 7, 2023</ref><br />&ndash;<br />January 20, 1903<br>{{small|(1465 days; retired)}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1898 Tennessee gubernatorial election|1898]]
+|- style="height:2em;"
+|[[1900 Tennessee gubernatorial election|1900]]
+|- style="height:2em;"
+!rowspan="2" scope"row"|28
+|rowspan="2" data-sort-value="Frazier, James"|[[File:Portrait of Governor James B. Frazier.jpg|75px]]
+|rowspan="2"|'''[[James B. Frazier]]'''<br>{{Small|(1856–1937)}}<br>{{sfn|Sobel|1978|pp=1493–1494}}<ref name="nga-frazier">{{Cite web |title=James Beriah Frazier |url=https://www.nga.org/governor/james-beriah-frazier/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="798"|January 20, 1903<ref>Tennessee General Assembly. ''Journal of the Senate''. 53rd general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190551&seq=79 71], accessed July 7, 2023</ref><br />&ndash;<br />March 27, 1905<br>{{small|(798 days; resigned)}}{{efn|Frazier resigned, having been [[1904–05 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1493–1494}}}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1902 Tennessee gubernatorial election|1902]]
+|- style="height:2em;"
+|[[1904 Tennessee gubernatorial election|1904]]
+|- style="height:2em;"
+!scope"row"|29
+|data-sort-value="Cox, John"|[[File:Portrait of Governor John I. Cox.jpg|75px]]
+|'''[[John I. Cox]]'''<br>{{Small|(1855–1946)}}<br>{{sfn|Sobel|1978|pp=1494–1495}}<ref name="nga-cox">{{Cite web |title=John Isaac Cox |url=https://www.nga.org/governor/john-isaac-cox/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="662"|March 27, 1905<ref>{{Cite news |date=1905-03-28 |title=John I. Cox Takes Oath |page=1 |work=Chattanooga Daily Times |url=https://www.newspapers.com/article/chattanooga-daily-times/112310604/ |access-date=2023-07-07}}</ref><br />&ndash;<br />January 17, 1907<br>{{small|(662 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1494–1495}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />speaker of<br />the Senate}}
+|- style="height:2em;"
+!rowspan="2" scope"row"|30
+|rowspan="2" data-sort-value="Patterson, Maclolm"|[[File:Portrait of Governor Malcolm Patterson.jpg|75px]]
+|rowspan="2"|'''[[Malcolm R. Patterson]]'''<br>{{Small|(1861–1935)}}<br>{{sfn|Sobel|1978|pp=1495–1496}}<ref name="nga-patterson">{{Cite web |title=Malcolm Rice Patterson |url=https://www.nga.org/governor/malcolm-rice-patterson/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1470"|January 17, 1907<ref>Tennessee General Assembly. ''Journal of the Senate''. 55th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190569&seq=94 86], accessed July 7, 2023</ref><br />&ndash;<br />January 25, 1911<br>{{small|(1470 days; withdrew)}}{{efn|Patterson received the Democratic nomination, but withdrew after a schism in the party.<ref>{{Cite news |date=1910-09-12 |title=No Longer a Candidate |page=1 |work=The Leaf-Chronicle |url=https://www.newspapers.com/article/the-leaf-chronicle-patterson-withdraws/127674684/ |access-date=2023-07-05}}</ref>}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1906 Tennessee gubernatorial election|1906]]
+|- style="height:2em;"
+|[[1908 Tennessee gubernatorial election|1908]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Hooper, Ben"|[[File:Portrait of Governor Ben W. Hooper.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Ben W. Hooper]]'''<br>{{Small|(1870–1957)}}<br>{{sfn|Sobel|1978|pp=1496–1498}}<ref name="nga-hooper">{{Cite web |title=Ben Walter Hooper |url=https://www.nga.org/governor/ben-walter-hooper/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1452"|January 25, 1911<ref>Tennessee General Assembly. ''Journal of the Senate''. 57th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190585&seq=128 118], accessed July 7, 2023</ref><br />&ndash;<br />January 15, 1915<br>{{small|(1452 days; lost election)}}
+|rowspan="2"|[[Tennessee Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1910 Tennessee gubernatorial election|1910]]
+|- style="height:2em;"
+|[[1912 Tennessee gubernatorial election|1912]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Rye, Thomas"|[[File:Portrait of Governor Thomas C. Rye.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Thomas Clarke Rye]]'''<br>{{Small|(1863–1953)}}<br>{{sfn|Sobel|1978|pp=1498–1499}}<ref name="nga-rye">{{Cite web |title=Thomas Clarke Rye |url=https://www.nga.org/governor/thomas-clarke-rye/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 15, 1915<ref>Tennessee General Assembly. ''Journal of the House of Representatives''. 59th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112110909311&seq=141 135], accessed July 7, 2023</ref><br />&ndash;<br />January 15, 1919<br>{{small|(1462 days; retired)}}{{sfn|Sobel|1978|pp=1498–1499}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1914 Tennessee gubernatorial election|1914]]
+|- style="height:2em;"
+|[[1916 Tennessee gubernatorial election|1916]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Roberts, Albert"|[[File:Portrait of Governor Albert H. Roberts.jpg|75px]]
+|'''[[Albert H. Roberts]]'''<br>{{Small|(1868–1946)}}<br>{{sfn|Sobel|1978|p=1499}}<ref name="nga-roberts">{{Cite web |title=Albert Houston Roberts |url=https://www.nga.org/governor/albert-houston-roberts/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|January 15, 1919<ref>Tennessee General Assembly. ''Journal of the Senate''. 61st general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108190114&seq=93 91], accessed July 7, 2023</ref><br />&ndash;<br />January 15, 1921<br>{{small|(732 days; lost election)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1918 Tennessee gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Taylor, Alfred"|[[File:Portrait of Governor Alfred A. Taylor.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Alfred A. Taylor]]'''<br>{{Small|(1848–1931)}}<br>{{sfn|Sobel|1978|p=1500}}<ref name="nga-taylor-alfred">{{Cite web |title=Alfred Alexander Taylor |url=https://www.nga.org/governor/alfred-alexander-taylor/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|January 15, 1921<ref>Tennessee General Assembly. ''Journal of the House of Representatives''. 62nd general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112110909345&seq=143 139], accessed July 7, 2023</ref><br />&ndash;<br />January 16, 1923<br>{{small|(732 days; lost election)}}
+|[[Tennessee Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1920 Tennessee gubernatorial election|1920]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Peay, Austin"|[[File:AustinPeay.jpg|75px]]
+|rowspan="22" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Austin Peay]]'''<br>{{Small|(1876–1927)}}<br>{{sfn|Sobel|1978|p=1501}}<ref name="nga-peay">{{Cite web |title=Austin Peay III |url=https://www.nga.org/governor/austin-peay-iii/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1721"|January 16, 1923<ref>{{Cite news |date=1923-01-16 |title=Peay Becomes Governor Before Vast Audience |page=1 |work=The Leaf-Chronicle |url=https://www.newspapers.com/article/the-leaf-chronicle-peay-inaugurated-janu/127801422/ |access-date=2023-07-07}}</ref><br />&ndash;<br />October 2, 1927<br>{{small|(1721 days; died in office)}}
+|rowspan="3"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1922 Tennessee gubernatorial election|1922]]
+|- style="height:2em;"
+|[[1924 Tennessee gubernatorial election|1924]]
+|- style="height:2em;"
+|[[1926 Tennessee gubernatorial election|1926]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|36
+|rowspan="3" data-sort-value="Horton, Henry"|[[File:Henry Hollis Horton.jpg|75px]]
+|rowspan="3"|'''[[Henry Hollis Horton]]'''<br>{{Small|(1866–1934)}}<br>{{sfn|Sobel|1978|p=1502}}<ref name="nga-horton">{{Cite web |title=Henry Hollis Horton |url=https://www.nga.org/governor/henry-hollis-horton/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1935"|October 2, 1927<ref>{{Cite news |date=1927-10-03 |title=Governor Peay Dies Peacefully |page=1 |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-1927103-governor-peay-d/36567900/ |access-date=2023-07-07}}</ref><br />&ndash;<br />January 17, 1933<br>{{small|(1935 days; retired)}}{{sfn|Sobel|1978|p=1502}}
+|rowspan="3"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />speaker of<br />the Senate}}
+|- style="height:2em;"
+|[[1928 Tennessee gubernatorial election|1928]]
+|- style="height:2em;"
+|[[1930 Tennessee gubernatorial election|1930]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="McAlister, Hill"|[[File:Hill McAlister.jpg|75px]]
+|rowspan="2"|'''[[Hill McAlister]]'''<br>{{Small|(1875–1959)}}<br>{{sfn|Sobel|1978|p=1503}}<ref name="nga-mcalister">{{Cite web |title=Harry Hill McAlister |url=https://www.nga.org/governor/harry-hill-mcalister/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1460"|January 17, 1933<ref>Tennessee General Assembly. ''Journal of the House of Representatives''. 68th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112110909428&seq=179 149], accessed July 7, 2023</ref><br />&ndash;<br />January 15, 1937<br>{{small|(1460 days; retired)}}{{sfn|Sobel|1978|p=1503}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1932 Tennessee gubernatorial election|1932]]
+|- style="height:2em;"
+|[[1934 Tennessee gubernatorial election|1934]]
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Browning, Gordon"|[[File:Gordon Browning (TN).png|75px]]
+|'''[[Gordon Browning]]'''<br>{{Small|(1889–1976)}}<br>{{sfn|Sobel|1978|pp=1504–1505}}<ref name="nga-browning">{{Cite web |title=Gordon Browning |url=https://www.nga.org/governor/gordon-browning/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|January 15, 1937<ref>{{Cite news |date=1937-01-15 |title=Browning Takes Oath of Office Before Huge Throng; Pledges Honest, Efficient Government |page=1 |work=Kingsport Times |agency=Associated Press |url=https://www.newspapers.com/article/kingsport-times-browning-inaugurated-jan/127807612/ |access-date=2023-07-07}}</ref><br />&ndash;<br />January 16, 1939<br>{{small|(732 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1505–1506}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1936 Tennessee gubernatorial election|1936]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"scope="rowgroup"|39
+|rowspan="3" data-sort-value="Cooper, Prentice"|[[File:Prentice Cooper.jpg|75px]]
+|rowspan="3"|'''[[Prentice Cooper]]'''<br>{{Small|(1895–1969)}}<br>{{sfn|Sobel|1978|pp=1505–1506}}<ref name="nga-cooper">{{Cite web |title=William Prentice Cooper |url=https://www.nga.org/governor/william-prentice-cooper/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2193"|January 16, 1939<ref>{{Cite news |last=Barnes |first=O. K. |date=1939-01-17 |title=Cooper Takes State Reins; Posts Filled |page=1 |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-cooper-inaugurated-januar/127807787/ |access-date=2023-07-07}}</ref><br />&ndash;<br />January 16, 1945<br>{{small|(2193 days; term-limited)}}{{efn|Under the 1870 constitution, governors were ineligible to serve more than six years in any term of eight.<ref>{{Cite web |title=1870 Tenn. Const. art. II, § 4 |url=https://www.tngenweb.org/law/constitution1870.html |access-date=2023-12-20}}</ref>|name=limits-1870}}
+|rowspan="3"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1938 Tennessee gubernatorial election|1938]]
+|- style="height:2em;"
+|[[1940 Tennessee gubernatorial election|1940]]
+|- style="height:2em;"
+|[[1942 Tennessee gubernatorial election|1942]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="McCord, Jim"|[[File:Mccord-jim-nance.jpg|75px]]
+|rowspan="2"|'''[[Jim Nance McCord]]'''<br>{{Small|(1879–1968)}}<br>{{sfn|Sobel|1978|pp=1506–1507}}<ref name="nga-mccord">{{Cite web |title=Jim Nance McCord |url=https://www.nga.org/governor/jim-nance-mccord/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1463"|January 16, 1945<ref>Tennessee General Assembly. ''Journal of the Senate''. 74th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108191237&seq=168 164], accessed July 7, 2023</ref><br />&ndash;<br />January 17, 1949<br>{{small|(1463 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1504–1505}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1944 Tennessee gubernatorial election|1944]]
+|- style="height:2em;"
+|[[1946 Tennessee gubernatorial election|1946]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''38''
+|rowspan="2" data-sort-value="Browning, Gordon"|[[File:Gordon Browning (TN).png|75px]]
+|rowspan="2"|'''[[Gordon Browning]]'''<br>{{Small|(1889–1976)}}<br>{{sfn|Sobel|1978|pp=1504–1505}}<ref name="nga-browning" />
+|rowspan="2" data-sort-value="1460"|January 17, 1949<ref>{{Cite news |last=Fontenay |first=Charles L. |date=1949-01-18 |title=Browning Strikes at Dictators, Foes on Taking Office |page=1 |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-browning-inaugurated-janu/127808066/ |access-date=2023-07-07}}</ref><br />&ndash;<br />January 15, 1953<br>{{small|(1460 days;<br>lost nomination)}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1948 Tennessee gubernatorial election|1948]]
+|- style="height:2em;"
+|[[1950 Tennessee gubernatorial election|1950]]
+|rowspan="16" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|{{sortname|Walter M.|Haynes|nolink=1}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Clement, Frank"|[[File:Frank Goad Clement Tennessee Governor.jpg|75px]]
+|rowspan="2"|'''[[Frank G. Clement]]'''<br>{{Small|(1920–1969)}}<br>{{sfn|Sobel|1978|pp=1507–1508}}<ref name="nga-clement">{{Cite web |title=Frank Goad Clement |url=https://www.nga.org/governor/frank-goad-clement/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2196"|January 15, 1953<ref>{{Cite news |last=Fontenay |first=Charles L. |date=1953-01-16 |title=Browning Passes Keys to Clement with Challenge |page=1 |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-clement-inaugurated-janua/127808140/ |access-date=2023-07-07}}</ref><br />&ndash;<br />January 19, 1959<br>{{small|(2196 days; term-limited)}}{{efn|Under a 1953 amendment to the constitution, governors were ineligible to succeed themselves.{{sfn|Kallenbach|1977|p=551}}|name=limits-1953}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1952 Tennessee gubernatorial election|1952]]
+|rowspan="2"|{{sortname|Jared|Maddux}}
+|- style="height:2em;"
+|[[1954 Tennessee gubernatorial election|1954]]
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Ellington, Buford"|[[File:Earl Buford Ellington, Tennessee Governor.jpg|75px]]
+|'''[[Buford Ellington]]'''<br>{{Small|(1907–1972)}}<br>{{sfn|Sobel|1978|pp=1508–1509}}<ref name="nga-ellington">{{Cite web |title=Earl Buford Ellington |url=https://www.nga.org/governor/earl-buford-ellington/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1458"|January 19, 1959<ref>Tennessee General Assembly. ''Journal of the Senate''. 81st general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112109611886&seq=123 119], accessed July 7, 2023</ref><br />&ndash;<br />January 15, 1963<br>{{small|(1458 days; term-limited)}}{{efn|name=limits-1953}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1958 Tennessee gubernatorial election|1958]]
+|{{sortname|William D.|Baird|nolink=1}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''41''
+|rowspan="2" data-sort-value="Clement, Frank"|[[File:Frank Goad Clement Tennessee Governor.jpg|75px]]
+|rowspan="2"|'''[[Frank G. Clement]]'''<br>{{Small|(1920–1969)}}<br>{{sfn|Sobel|1978|pp=1507–1508}}<ref name="nga-clement" />
+|rowspan="2" data-sort-value="1463"|January 15, 1963<ref>Tennessee General Assembly. ''Journal of the Senate''. 83rd general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112109611902&seq=68 64], accessed July 7, 2023</ref><br />&ndash;<br />January 16, 1967<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1953}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|rowspan="2"|[[1962 Tennessee gubernatorial election|1962]]
+|{{sortname|James L.|Bomar Jr.|nolink=1}}
+|- style="height:2em;"
+|{{sortname|Jared|Maddux|nolink=1}}
+|- style="height:2em;"
+!scope="row"|''42''
+|data-sort-value="Ellington, Buford"|[[File:Earl Buford Ellington, Tennessee Governor.jpg|75px]]
+|'''[[Buford Ellington]]'''<br>{{Small|(1907–1972)}}<br>{{sfn|Sobel|1978|pp=1508–1509}}<ref name="nga-ellington" />
+|data-sort-value="1462"|January 16, 1967<ref>Tennessee General Assembly. ''Journal of the Senate''. 85th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112109611928&seq=68 64], accessed July 7, 2023</ref><br />&ndash;<br />January 16, 1971<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1953}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1966 Tennessee gubernatorial election|1966]]
+|{{sortname|Frank|Gorrell}}
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Dunn, Winfield"|[[File:Winfield Dunn 2007.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Winfield Dunn]]'''<br>{{small|(1927–2024)}}<br>{{sfn|Sobel|1978|pp=1509–1510}}<ref name="nga-dunn">{{Cite web |title=Bryant Winfield Culberson Dunn |url=https://www.nga.org/governor/bryant-winfield-culberson-dunn/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 16, 1971<ref>Tennessee General Assembly. ''Journal of the Senate''. 87th general assembly, [https://babel.hathitrust.org/cgi/pt?id=uiug.30112109611951&seq=93 85], accessed July 7, 2023</ref><br />&ndash;<br />January 18, 1975<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1953}}
+|[[Tennessee Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1970 Tennessee gubernatorial election|1970]]
+|rowspan="9"|{{sortname|John Shelton|Wilder}}{{efn|Represented the [[Tennessee Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Blanton, Ray"|[[File:Ray Blanton.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Ray Blanton]]'''<br>{{Small|(1930–1996)}}<br>{{sfn|Sobel|1978|pp=1510–1511}}<ref name="nga-blanton">{{Cite web |title=Ray Blanton |url=https://www.nga.org/governor/ray-blanton/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1461"|January 18, 1975<ref>{{Cite news |last=Daughtrey |first=Larry |date=1975-01-19 |title=Blanton Says Austerity a Must |page=1 |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-blanton-inaugurated-janu/127831860/ |access-date=2023-07-08}}</ref><br />&ndash;<br />January 17, 1979<br>{{small|(1461 days; retired)}}
+|[[Tennessee Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=553–555}}
+|[[1974 Tennessee gubernatorial election|1974]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|45
+|rowspan="2" data-sort-value="Alexander, Lamar"|[[File:Lamar Alexander Tennessee Governor official portrait.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Lamar Alexander]]'''<br>{{small|({{Abbr|b.|born in}} 1940)}}<br><ref name="nga-alexander">{{Cite web |title=Lamar Alexander |url=https://www.nga.org/governor/lamar-alexander/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2923"|January 17, 1979<ref>{{Cite news |last=Daughtrey |first=Larry |last2=Hall |first2=Doug |date=1979-01-18 |title=Alexander Sworn In; Blanton Pushed Out |page=1 |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-alexander-sworn-in-januar/127832090/ |access-date=2023-07-08}}</ref><br />&ndash;<br />January 17, 1987<br>{{small|(2923 days; term-limited)}}{{efn|Under a 1978 amendment to the constitution, governors are ineligible for election to more than two consecutive terms.<ref>{{Cite web |title=Tenn. Const. art. III, § 4 |url=https://law.justia.com/constitution/tennessee/article-iii/section-4/ |access-date=2023-12-20}}</ref>|name=limits-1978}}
+|rowspan="2"|[[Tennessee Republican Party|Republican]]<ref name="nga-alexander" />
+|[[1978 Tennessee gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1982 Tennessee gubernatorial election|1982]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="McWherter, Ned"|[[File:Ned McWherter Tennessee Governor 1987-1995.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Ned McWherter]]'''<br>{{Small|(1930–2011)}}<br><ref name="nga-mcwherter">{{Cite web |title=Ned Ray McWherter |url=https://www.nga.org/governor/ned-ray-mcwherter/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 17, 1987<ref>{{Cite news |last=Daughtrey |first=Larry |date=1987-01-18 |title=McWherter: We Are Family |page=1A |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-mcwherter-inaugurated-jan/127832229/ |access-date=2023-07-08}}</ref><br />&ndash;<br />January 21, 1995<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1978}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]<ref name="nga-mcwherter" />
+|[[1986 Tennessee gubernatorial election|1986]]
+|- style="height:2em;"
+|[[1990 Tennessee gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|47
+|rowspan="2" data-sort-value="Sundquist, Don"|[[File:Donald Sundquist Tennessee Governor official portrait.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Don Sundquist]]'''<br>{{small|(1936–2023)}}<br><ref name="nga-sundquist">{{Cite web |title=Don Sundquist |url=https://www.nga.org/governor/don-sundquist/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 21, 1995<ref>{{Cite news |last=Daughtrey |first=Larry |date=1995-01-22 |title=State Enters Sundquist Years |page=1A |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-sundquist-inaugurated-jan/127832284/ |access-date=2023-07-08}}</ref><br />&ndash;<br />January 18, 2003<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1978}}
+|rowspan="2"|[[Tennessee Republican Party|Republican]]<ref name="nga-sundquist" />
+|[[1994 Tennessee gubernatorial election|1994]]
+|- style="height:2em;"
+|[[1998 Tennessee gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|48
+|rowspan="2" data-sort-value="Bredesen, Phil"|[[File:Governor Bredesen (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Phil Bredesen]]'''<br>{{small|({{Abbr|b.|born in}} 1943)}}<br><ref name="nga-bredesen">{{Cite web |title=Phil Bredesen |url=https://www.nga.org/governor/phil-bredesen/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 18, 2003<ref>{{Cite news |last=de la Cruz |first=Bonna |date=2003-01-19 |title=Bredesen Sworn In to State's Top Office |page=1A |work=The Tennessean |url=https://www.newspapers.com/article/the-tennessean-bredesen-inaugurated-janu/127832327/ |access-date=2023-07-08}}</ref><br />&ndash;<br />January 15, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1978}}
+|rowspan="2"|[[Tennessee Democratic Party|Democratic]]<ref name="nga-bredesen" />
+|[[2002 Tennessee gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Tennessee gubernatorial election|2006]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Ron|Ramsey}}{{efn|Represented the [[Tennessee Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|49
+|rowspan="3" data-sort-value="Haslam, Bill"|[[File:Governor Bill Haslam crop.jpg|97x97px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Bill Haslam]]'''<br>{{small|({{Abbr|b.|born in}} 1958)}}<br><ref name="nga-haslam">{{Cite web |title=Bill Haslam |url=https://www.nga.org/governor/bill-haslam/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2927"|January 15, 2011<ref>{{Cite news |date=2011-01-16 |title=Rise of the House of Haslam |page=A1 |work=The Knoxville News-Sentinel |url=https://www.newspapers.com/article/the-knoxville-news-sentinel-haslam-inaug/127832377/ |access-date=2023-07-08}}</ref><br />&ndash;<br />January 19, 2019<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1978}}
+|rowspan="3"|[[Tennessee Republican Party|Republican]]<ref name="nga-haslam" />
+|[[2010 Tennessee gubernatorial election|2010]]
+|- style="height:2em;"
+|rowspan="2"|[[2014 Tennessee gubernatorial election|2014]]
+|- style="height:2em;"
+|rowspan="3"|{{sortname|Randy|McNally}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|50
+|rowspan="3" data-sort-value="Lee, Bill"|[[File:Hob Nob on the State Line with Tennessee Governor Bill Lee, Bristol (cropped).jpg|99x99px]]
+|rowspan="2"|'''[[Bill Lee (Tennessee politician)|Bill Lee]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br><ref name="nga-lee">{{Cite web |title=Bill Lee |url=https://www.nga.org/governor/bill-lee/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|19|duration=on|format=no}}"|January 19, 2019<ref>{{Cite news |last=Allison |first=Natalie |last2=Ebert |first2=Joel |title=Bill Lee sworn in as Tennessee's 50th governor, nearly 2 years after long-shot bid |language=en-US |work=The Tennessean |url=https://www.tennessean.com/story/news/politics/2019/01/19/bill-lee-tennessee-governor-inauguration/2585557002/ |access-date=2023-10-02}}</ref><br />&ndash;<br />Incumbent{{efn|Lee's second term began on January 21, 2023,<ref>{{Cite news |last=Brown |first=Melissa |last2=Friedman |first2=Adam |title=Tennessee Gov. Bill Lee sworn in for second term: Here's everything he said |url=https://www.tennessean.com/story/news/politics/2023/01/21/bill-lee-inauguration-tennessee-governor-speech/69791361007/ |access-date=2025-01-23 |work=The Tennessean |language=en-US}}</ref> and [[2026 Tennessee gubernatorial election|will expire]] on January 16, 2027; he will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|19|duration=on|format=no}} days)}}
+|rowspan="2"|[[Tennessee Republican Party|Republican]]<ref name="nga-lee" />
+|[[2018 Tennessee gubernatorial election|2018]]
+|- style="height:2em;"
+|[[2022 Tennessee gubernatorial election|2022]]
+|}
+
+==See also==
+*{{section link|Gubernatorial lines of succession in the United States|Tennessee}}
+* [[List of Tennessee General Assemblies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former Tennessee Governors |url=https://www.nga.org/former-governors/tennessee/ |access-date=July 5, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+*{{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Tennessee - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=171 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+* {{Cite web |title=Our Campaigns - Governor of Tennessee (CSA) - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=68433 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[https://www.tn.gov/governor.html Office of the Governor of Tennessee]
+
+{{Lists of US Governors}}
+{{Governors of Tennessee}}
+{{Tennessee}}
+
+{{DEFAULTSORT:Tennessee, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Tennessee|*]]
+[[Category:Lists of Tennessee politicians|Governors]]
+[[Category:Political history of Tennessee|governor]]
+[[Category:Tennessee history-related lists|Governors]]

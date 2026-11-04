@@ -1,0 +1,909 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox Political post
+| post = Governor
+| body = Delaware
+| insignia = Seal of Delaware.svg
+| insignia_size = 110px
+| insignia_caption = [[Seal of Delaware|Great Seal of the State of Delaware]]
+| image = Delmarva Chicken Association Booster BBQ - 55313846273 (cropped).jpg
+| incumbent = [[Matt Meyer]]
+| incumbent_since = January 21, 2025
+| style = The Honorable
+| department = [[Government of Delaware]]
+| residence = [[Delaware Governor's Mansion]]<br/>[[Dover, Delaware]]
+| term_length = Four years, renewable once
+| inaugural = [[John McKinly]]
+| formation = February 12, 1777
+| succession = [[Gubernatorial lines of succession in the United States#Delaware|Line of succession]]
+| deputy = [[Lieutenant Governor of Delaware]]
+| salary = $171,000 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 17, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+| website = {{URL|governor.delaware.gov}}
+}}
+The '''Governor of Delaware''' (known as the '''President of Delaware''' from 1776 to 1792) is the [[head of government]] of [[Delaware]] and the commander-in-chief of the [[U.S. state|state's]] [[Delaware National Guard|military forces]]. The [[Governor (United States)|governor]] has a duty to enforce state laws, and the power to either approve or [[veto]] bills passed by the [[Delaware General Assembly|Delaware Legislature]], to convene the legislature,{{sfn|Del. Const.|loc=art. III}} and to grant [[pardon]]s, except in cases of impeachment, and only with the recommendation of the Board of Pardons.{{sfn|Del. Const.|loc=[https://50constitutions.org/de/constitution/section-id-56444 art. VII, § 1]}}
+
+There have been 71 people who have served as governor, over 74 distinct terms. Three ([[Joseph Haslet]], [[Charles Polk Jr.]] and [[Elbert N. Carvel]]) served non-consecutive terms. Additionally, [[Henry Molleston]] was elected, but died before he could take office. Only four governors have been elected to two consecutive terms, with the longest-serving being [[Ruth Ann Minner]], who was elected twice after succeeding to the office, serving a total of just over eight years. The shortest term is that of [[Bethany Hall-Long]], who served 15 days following her predecessor's resignation; [[Dale E. Wolf]] served 18 days and [[David P. Buckson]] served 19 days under similar circumstances. The current governor is [[Delaware Democratic Party|Democrat]] [[Matt Meyer]], who took office on January 21, 2025.
+
+==Governors==
+Before 1776, Delaware was a [[Delaware Colony|colony]] of the [[Kingdom of Great Britain]], administered by [[List of colonial governors of Pennsylvania|colonial governors]] in [[Pennsylvania]] as the "Lower Counties on Delaware".
+
+In 1776, soon after Delaware and the rest of the [[Thirteen Colonies]] declared independence from Britain, the state adopted its [[Delaware Constitution of 1776|first state constitution]]. It created the office of President of Delaware, a chief executive to be chosen by the legislature to serve a term of three years, who would be ineligible to be president again until three years had passed after leaving office.{{sfn|Thorpe|1909|p=563|loc=1776 art. 7}}
+
+The office of President was renamed Governor by the [[Delaware Constitution of 1792|constitution of 1792]],{{sfn|Thorpe|1909|p=572|loc=1792 art. III, § 1}} which set the commencement date of the term to the third Tuesday in the January following an election, and limited governors to serving only three out of any six years.{{sfn|Thorpe|1909|p=573|loc=1792 art. III, § 3}} The term was lengthened to four years by the [[Delaware Constitution of 1831|1831 constitution]], but governors were limited to a single term.{{sfn|Thorpe|1909|p=587|loc=1831 art. III, § 3}} The [[Constitution of Delaware|current constitution of 1897]] allows governors to serve two terms.{{sfn|Thorpe|1909|p=610|loc=1897 art. III, § 5}}
+
+The 1776 constitution stated that if the presidency were vacant, the speaker of the legislative council would be a vice-president.{{sfn|Thorpe|1909|p=563|loc=1776 art. 7}} The 1792 constitution had the speaker of the senate exercising the office when it is vacant,{{sfn|Thorpe|1909|pp=573–574|loc=1792 art. III, § 14}} and the 1897 constitution created the office of lieutenant governor,{{sfn|Thorpe|1909|p=613|loc=1897 art. III, § 19}} upon whom the office devolves in case of vacancy.{{sfn|Thorpe|1909|p=613|loc=1897 art. III, § 20}} The offices of governor and lieutenant governor are elected at the same time but not on the same [[ticket (election)|ticket]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Delaware
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|The official website labeled John Carney as the 74th governor;<ref>{{Cite web |title=About Governor John Carney |url=https://governor.delaware.gov/about-governor-john-carney/ |archive-url=https://web.archive.org/web/20170123053659/http://governor.delaware.gov/about-governor-john-carney/ |url-status=dead |archive-date=January 23, 2017 |access-date=November 16, 2018 |website=Governor of Delaware}}</ref> this indicates that repeat, non-consecutive terms are numbered.}}
+!scope="colgroup" colspan="3"|Governor{{efn|The office was named president in 1776{{sfn|Thorpe|1909|p=563|loc=1776 art. 7}} and renamed governor in 1792.{{sfn|Thorpe|1909|p=572|loc=1792 art. III, § 1}}}}
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Delaware|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1897,{{sfn|Thorpe|1909|p=613|loc=1897 art. III, § 19}} with the first election taking place in 1900.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="McKinly, John"|[[File:No image.svg|75px]]
+|rowspan="9" style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="No parties"|
+|'''[[John McKinly]]'''<br>{{Small|(1721–1796)}}<br><ref name="nga-mckinly">{{Cite web |title=John McKinly |url=https://www.nga.org/governor/john-mckinly/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171024/https://www.nga.org/governor/john-mckinly/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Conrad|1908|p=820}}
+|data-sort-value="204"|February 21, 1777{{sfn|Biographical and Genealogical History|1899|p=67}}<br />–<br />September 12, 1777{{efn|Most sources do not specify the day McKinly was captured; at least one specifies that McKinly and the city of Wilmington were captured the day after the [[Battle of Brandywine]], which was on September 11, 1777.<ref>{{Cite book |last=Delaware Federal Writers' Project |url=https://books.google.com/books?id=vJ5OeFvqWRAC&lpg=PP1&pg=PA48 |title=Delaware: A Guide to the First State |year=1938 |page=48 |via=[[Google Books]]}}</ref>|name=date-1777}}<br>{{small|(204 days;<br>arrested and removed)}}{{efn|McKinly was captured and taken prisoner by [[Kingdom of Great Britain|British]] forces.<ref>{{Cite book |last=McGuire |first=Thomas J. |title=The Philadelphia Campaign |publisher=Stackpole Books |year=2006 |isbn=0-8117-0206-5 |location=Mechanicsburg, Pennsylvania |page=278}}</ref> He was [[prisoner exchange|exchanged]] for loyalist Governor [[William Franklin]] of New Jersey in August 1778.<ref>{{Cite book |last=Rowe |first=Gail Stuart |title=Thomas McKean: The Shaping of an American Republicanism |year=1978 |isbn=0-87081-100-2 |page=147 |publisher=Colorado Associated University Press}}</ref>|name=war}}
+|rowspan="9" style="background:#EEEEEE; color:inherit;"|''No parties''
+|[[1777 Delaware gubernatorial election|1777]]
+|colspan="2" rowspan="53" style="background:#EEEEEE; color:inherit;"|''Office did not exist''
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="McKean, Thomas"|[[File:Charles Willson Peale - Thomas McKean (1735-1817) - 1943.146 - Fogg Museum.jpg|75px]]
+|'''[[Thomas McKean]]'''<br>{{Small|(1734–1817)}}<br><ref name="nga-mckean">{{Cite web |title=Thomas McKean |url=https://www.nga.org/governor/thomas-mckean-3/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171025/https://www.nga.org/governor/thomas-mckean-3/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Conrad|1908|pp=820–821}}
+|data-sort-value="39"|September 12, 1777{{sfn|Kallenbach|1977|p=112}}<br />–<br />October 20, 1777<br>{{small|(39 days; retired)}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of the<br>Assembly<br>acting as<br>vice-president}}{{efn|Speaker of the Assembly McKean acted as chief executive until the return of speaker of the Legislative Council Read from the [[Continental Congress]] in [[Philadelphia]], who then served as vice-president for the remainder of the term.{{sfn|Conrad|1908|p=821}}|name=after-mckinly}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Read, George"|[[File:GeorgeRead.gif|75px]]
+|'''[[George Read (American politician, born 1733)|George Read]]'''<br>{{Small|(1733–1798)}}<br><ref name="nga-read">{{Cite web |title=George Read |url=https://www.nga.org/governor/george-read/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171025/https://www.nga.org/governor/george-read/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Conrad|1908|pp=821–822}}
+|data-sort-value="163"|October 20, 1777{{sfn|Kallenbach|1977|p=112}}<br />–<br />March 31, 1778<br>{{small|(163 days; retired)}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of the<br>Legislative<br>Council<br>serving as<br>vice-president}}{{efn|name=after-mckinly}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Rodney, Caesar"|[[File:CaesarRodney.jpeg|75px]]
+|'''[[Caesar Rodney]]'''<br>{{Small|(1728–1784)}}<br><ref name="nga-rodney-caesar">{{Cite web |title=Caesar Rodney |url=https://www.nga.org/governor/caesar-rodney/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171029/https://www.nga.org/governor/caesar-rodney/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Conrad|1908|p=822}}
+|data-sort-value="1324"|March 31, 1778{{sfn|Kallenbach|1977|p=112}}<br />–<br />November 13, 1781{{efn|Kallenbach has Rodney leaving office on November 5, with a gap until Dickinson takes office, with no reason given.{{sfn|Kallenbach|1977|p=112}}}}<br>{{small|(1324 days; term-limited)}}{{efn|Under the 1776 constitution, presidents were ineligible to the office until three years had passed after leaving it.{{sfn|Thorpe|1909|p=563|loc=1776 art. 7}}|name=limits-1776}}
+|[[1778 Delaware gubernatorial election|1778]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Dickinson, John"|[[File:JohnDickinson4.gif|75px]]
+|'''[[John Dickinson]]'''<br>{{Small|(1732–1808)}}<br><ref name="nga-dickinson">{{Cite web |title=John Dickinson |url=https://www.nga.org/governor/john-dickinson/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171027/https://www.nga.org/governor/john-dickinson/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Conrad|1908|pp=822–824}}
+|data-sort-value="427"|November 13, 1781{{efn|Sources disagree on when Dickinson took office; the proceedings of the assembly, published in 1988, says his inaugural address was delivered November 13;{{sfn|Proceedings|1988|p=59}} the governor's register, published in 1926, says he was elected on November 13 and inaugurated on November 14.{{sfn|Register|1926|p=27}}}}<br />–<br />January 13, 1783<br>{{small|(427 days; resigned)}}{{efn|Dickinson was elected [[Governor of Pennsylvania|President of Pennsylvania]] and took office November 7, 1782, holding both presidencies simultaneously. Criticism of this caused him to turn administration of the state over to Speaker of the Legislative Council Cook, but Dickinson did not formally resign until January 13, 1783.{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Proceedings|1988|p=108}}}}
+|[[1781 Delaware gubernatorial election|1781]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Cook, John"|[[File:No image.svg|75px]]
+|'''[[John Cook (Delaware politician)|John Cook]]'''<br>{{Small|(1730–1789)}}<br><ref name="nga-cook">{{Cite web |title=John Cook |url=https://www.nga.org/governor/john-cook/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171029/https://www.nga.org/governor/john-cook/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Conrad|1908|p=824}}
+|data-sort-value="27"|January 13, 1783{{sfn|Proceedings|1988|p=108}}<br />–<br />February 8, 1783<br>{{small|(27 days; retired)}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of the<br>Legislative<br>Council<br>serving as<br>vice-president}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Van Dyke, Nicholas"|[[File:No image.svg|75px]]
+|'''[[Nicholas Van Dyke (politician, born 1738)|Nicholas Van Dyke]]'''<br>{{Small|(1738–1789)}}<br><ref name="nga-vandyke">{{Cite web |title=Nicholas Van Dyke |url=https://www.nga.org/governor/nicholas-van-dyke/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171031/https://www.nga.org/governor/nicholas-van-dyke/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=67}}{{sfn|Conrad|1908|pp=824–825}}
+|data-sort-value="1359"|February 8, 1783{{sfn|Proceedings|1988|pp=148–151}}<br />–<br />October 28, 1786<br>{{small|(1359 days; term-limited)}}{{efn|name=limits-1776}}
+|[[1783 Delaware gubernatorial election|1783]]<br>{{small|(special)}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Collins, Thomas"|[[File:ThomasCollins.gif|75px]]
+|'''[[Thomas Collins (Delaware politician)|Thomas Collins]]'''<br>{{Small|(1732–1789)}}<br><ref name="nga-collins-thomas">{{Cite web |title=Thomas Collins |url=https://www.nga.org/governor/thomas-collins/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171027/https://www.nga.org/governor/thomas-collins/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|pp=67–68}}{{sfn|Conrad|1908|p=825}}
+|data-sort-value="884"|October 28, 1786{{sfn|Proceedings|1988|p=392}}<br />–<br />March 29, 1789<br>{{small|(884 days; died in office)}}
+|[[1786 Delaware gubernatorial election|1786]]
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Davis, Jehu"|[[File:No image.svg|75px]]
+|'''[[Jehu Davis]]'''<br>{{Small|(1738–1802)}}<br><ref name="nga-davis">{{Cite web |title=Jehu Davis |url=https://www.nga.org/governor/jehu-davis/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171025/https://www.nga.org/governor/jehu-davis/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=68}}{{sfn|Conrad|1908|p=826}}
+|data-sort-value="66"|March 29, 1789{{sfn|Kallenbach|1977|p=113}}<br />–<br />June 2, 1789<br>{{small|(66 days; retired)}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of the<br>Legislative<br>Council<br>serving as<br>vice-president}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Clayton, Joshua"|[[File:JoshuaClayton.gif|75px]]
+|rowspan="6" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|rowspan="2"|'''[[Joshua Clayton]]'''<br>{{Small|(1744–1798)}}<br>{{sfn|Sobel|1978|p=211}}<ref name="nga-clayton">{{Cite web |title=Joshua Clayton |url=https://www.nga.org/governor/joshua-clayton/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171032/https://www.nga.org/governor/joshua-clayton/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=68}}{{sfn|Conrad|1908|pp=826–827}}
+|rowspan="2" data-sort-value="2417"|June 2, 1789{{sfn|Proceedings|1988|p=633}}<br />–<br />January 13, 1796<br>{{small|(2417 days; term-limited)}}{{efn|Clayton's first term was as president, so he was eligible to run for a term as governor.{{sfn|Kallenbach|1977|p=114}}}}{{efn|Under the 1792 constitution, governors could serve no longer than three in any term of six years.{{sfn|Thorpe|1909|p=573|loc=1792 art. III, § 3}}|name=limits-1792}}
+|rowspan="2"|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|p=113}}
+|[[1789 Delaware gubernatorial election|1789]]
+|- style="height:2em;"
+|[[1792 Delaware gubernatorial election|1792]]
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Bedford, Gunning"|[[File:Gunning Bedford (Senior).jpg|75px]]
+|'''[[Gunning Bedford Sr.]]'''<br>{{Small|(1742–1797)}}<br>{{sfn|Sobel|1978|pp=211–212}}<ref name="nga-bedford">{{Cite web |title=Gunning Bedford |url=https://www.nga.org/governor/gunning-bedford/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171024/https://www.nga.org/governor/gunning-bedford/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=68}}{{sfn|Conrad|1908|pp=827–828}}
+|data-sort-value="625"|January 13, 1796{{sfn|Kallenbach|1977|p=113}}<br />–<br />September 28, 1797<br>{{small|(625 days; died in office)}}{{efn|Sources disagree on if Bedford died on September 28 or September 30, sometimes within the same source.{{sfn|Conrad|1908|p=828}}|name=bedford-death}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=26}}
+|[[1795 Delaware gubernatorial election|1795]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Rogers, Daniel"|[[File:No image.svg|75px]]
+|'''[[Daniel Rogers (politician)|Daniel Rogers]]'''<br>{{Small|(1754–1806)}}<br>{{sfn|Sobel|1978|p=212}}<ref name="nga-rogers">{{Cite web |title=Daniel Rogers |url=https://www.nga.org/governor/daniel-rogers/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171030/https://www.nga.org/governor/daniel-rogers/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=68}}{{sfn|Conrad|1908|p=828}}
+|data-sort-value="469"|September 28, 1797{{efn|name=bedford-death}}<br />–<br />January 9, 1799<br>{{small|(469 days; retired)}}
+|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Bassett, Richard"|[[File:Richard bassett.jpg|75px]]
+|'''[[Richard Bassett (Delaware politician)|Richard Bassett]]'''<br>{{Small|(1745–1815)}}<br>{{sfn|Sobel|1978|pp=212–213}}<ref name="nga-bassett">{{Cite web |title=Richard Bassett |url=https://www.nga.org/governor/richard-bassett/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 8, 2023 |archive-url=https://web.archive.org/web/20230208232128/https://www.nga.org/governor/richard-bassett/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=68}}{{sfn|Conrad|1908|pp=828–829}}
+|data-sort-value="784"|January 9, 1799{{efn|The constitutional start date for the term in 1799 was January 15; multiple sources say Bassett took office January 9, but it is not known why it was off schedule.{{sfn|Kallenbach|1977|p=113}}{{sfn|Conrad|1908|p=829}} A few sources do say he took office January 15.<ref>{{Cite book |last=Wolcott |first=James L. |url=https://books.google.com/books?id=gj9UdRKp4-IC&pg=PA44 |title=Argument in Opposition to Henry A. Du Pont's Claim to the Office of United States Senator for the State of Delaware |year=1896 |pages=44–45 |access-date=October 18, 2026 |via=[[Google Books]]}}</ref>}}<br />–<br />March 3, 1801<br>{{small|(784 days; resigned)}}{{efn|Bassett resigned, having been confirmed to the [[United States circuit court|United States Third Circuit Court]].<ref name="nga-bassett" />}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=26}}
+|[[1798 Delaware gubernatorial election|1798]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Sykes, James"|[[File:No image.svg|75px]]
+|'''[[James Sykes (governor)|James Sykes]]'''<br>{{Small|(1761–1822)}}<br>{{sfn|Sobel|1978|p=213}}<ref name="nga-sykes">{{Cite web |title=James Sykes |url=https://www.nga.org/governor/james-sykes/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171026/https://www.nga.org/governor/james-sykes/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=68}}{{sfn|Conrad|1908|p=829}}
+|data-sort-value="323"|March 3, 1801{{sfn|Kallenbach|1977|p=113}}<br />–<br />January 19, 1802<br>{{small|(323 days; retired)}}
+|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Hall, David"|[[File:David Hall (Delaware Governor).jpg |75px]]
+|style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[David Hall (Delaware politician)|David Hall]]'''<br>{{Small|(1752–1817)}}<br>{{sfn|Sobel|1978|p=214}}<ref name="nga-hall-david">{{Cite web |title=David Hall |url=https://www.nga.org/governor/david-hall/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220313/https://www.nga.org/governor/david-hall/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|pp=68–69}}{{sfn|Conrad|1908|pp=829–830}}
+|data-sort-value="1093"|January 19, 1802<ref>{{Cite news |date=January 22, 1802 |title=none |quote=On Tuesday the 19th inst. colonel David Hall, governor elect, was installed into office... |page=2 |newspaper=[[Philadelphia Aurora|Aurora General Advertiser]] |url=https://www.newspapers.com/article/aurora-general-advertiser-hall-inaugurat/129463532/ |access-date=October 18, 2026 |archive-date=August 5, 2023 |archive-url=https://web.archive.org/web/20230805050949/https://www.newspapers.com/article/aurora-general-advertiser-hall-inaugurat/129463532/ |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 15, 1805<br>{{small|(1093 days; term-limited)}}{{efn|name=limits-1792}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=26}}
+|[[1801 Delaware gubernatorial election|1801]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Mitchell, Nathaniel"|[[File:No image.svg|75px]]
+|rowspan="2" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|'''[[Nathaniel Mitchell]]'''<br>{{Small|(1753–1814)}}<br>{{sfn|Sobel|1978|pp=214–215}}<ref name="nga-mitchell">{{Cite web |title=Nathaniel Mitchell |url=https://www.nga.org/governor/nathaniel-mitchell/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220306/https://www.nga.org/governor/nathaniel-mitchell/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=830}}
+|data-sort-value="1100"|January 15, 1805<ref>{{Cite news |date=January 24, 1805 |title=none |quote=... the following address was delivered on the 15th inst. by Mr. Mitchell, who succeeds him. |page=2 |newspaper=[[Philadelphia Aurora|Aurora General Advertiser]] |url=https://www.newspapers.com/article/aurora-general-advertiser-nathaniel-mitc/64881619/ |via=Newspapers.com |access-date=October 18, 2026 |archive-date=August 5, 2023 |archive-url=https://web.archive.org/web/20230805050951/https://www.newspapers.com/article/aurora-general-advertiser-nathaniel-mitc/64881619/ |url-status=live}}</ref><br />–<br />January 19, 1808<br>{{small|(1100 days; term-limited)}}{{efn|name=limits-1792}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=26}}
+|[[1804 Delaware gubernatorial election|1804]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Truitt, George"|[[File:No image.svg|75px]]
+|'''[[George Truitt]]'''<br>{{Small|(1756–1818)}}<br>{{sfn|Sobel|1978|p=215}}<ref name="nga-truitt">{{Cite web |title=George Truitt |url=https://www.nga.org/governor/george-truitt/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220307/https://www.nga.org/governor/george-truitt/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|pp=830–831}}
+|data-sort-value="1093"|January 19, 1808<ref>{{Cite news |date=January 30, 1808 |title=none |quote=On Tuesday last, the federal governor of the state of Delaware, G. Truitt, was sworn into power and place. |page=2 |newspaper=[[Philadelphia Aurora|Aurora General Advertiser]] |url=https://www.newspapers.com/article/aurora-general-advertiser-truitt-inaugur/129463627/ |via=Newspapers.com |access-date=October 18, 2026 |archive-date=August 5, 2023 |archive-url=https://web.archive.org/web/20230805050740/https://www.newspapers.com/article/aurora-general-advertiser-truitt-inaugur/129463627/ |url-status=live}}</ref><br />–<br />January 15, 1811<br>{{small|(1093 days; term-limited)}}{{efn|name=limits-1792}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=26}}
+|[[1807 Delaware gubernatorial election|1807]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Haslet, Joseph"|[[File:No image.svg|75px]]
+|style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[Joseph Haslet]]'''<br>{{Small|(1769–1823)}}<br>{{sfn|Sobel|1978|pp=215–216}}<ref name="nga-haslet">{{Cite web |title=Joseph Haslet |url=https://www.nga.org/governor/joseph-haslet/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220313/https://www.nga.org/governor/joseph-haslet/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=831}}
+|data-sort-value="1100"|January 15, 1811{{sfn|Register|1926|p=84}}<br />–<br />January 18, 1814<br>{{small|(1100 days; term-limited)}}{{efn|name=limits-1792}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=26}}
+|[[1810 Delaware gubernatorial election|1810]]
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Rodney, Daniel"|[[File:Daniel Rodney.jpg|75px]]
+|rowspan="4" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|'''[[Daniel Rodney]]'''<br>{{Small|(1764–1846)}}<br>{{sfn|Sobel|1978|p=216}}<ref name="nga-rodney-daniel">{{Cite web |title=Daniel Rodney |url=https://www.nga.org/governor/daniel-rodney/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220307/https://www.nga.org/governor/daniel-rodney/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=831}}
+|data-sort-value="1100"|January 18, 1814{{sfn|Register|1926|p=116}}<br />–<br />January 21, 1817<br>{{small|(1100 days; term-limited)}}{{efn|name=limits-1792}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=26}}
+|[[1813 Delaware gubernatorial election|1813]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Clark, John"|[[File:Delaware governor John Clark.png|75px]]
+|'''[[John Clark (Delaware politician)|John Clark]]'''<br>{{Small|(1761–1821)}}<br>{{sfn|Sobel|1978|p=217}}<ref name="nga-clark">{{Cite web |title=John Clark |url=https://www.nga.org/governor/john-clark/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220310/https://www.nga.org/governor/john-clark/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|pp=831–832}}
+|data-sort-value="1090"|January 21, 1817{{sfn|Register|1926|p=141}}<br />–<br />January 15, 1820<br>{{small|(1090 days; resigned)}}{{efn|Due to the death of Governor-elect Molleston, there was some question as to who should take office when Clark's term ended. To minimize any confusion, Clark resigned a few days ahead of schedule, and the newly elected state senate chose a speaker, John Stout, who would act as governor for one year of Molleston's term before a special election was held for the remaining two years.{{sfn|Register|1926|p=167}}<ref name="niles">{{Cite book |last=Niles |first=H. |url=https://books.google.com/books?id=pJM-AAAAYAAJ&pg=PA121 |title=Niles' Weekly Register |year=1824 |volume=I, Third Series |page=121 |access-date=October 18, 2026 |via=[[Google Books]]}}</ref>|name=molleston}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=27}}
+|[[1816 Delaware gubernatorial election|1816]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Molleston, Henry"|[[File:No image.svg|75px]]
+|'''[[Henry Molleston]]'''<br>{{Small|(1762–1819)}}<br>{{sfn|Sobel|1978|p=217}}{{sfn|Biographical and Genealogical History|1899|p=69}}
+|data-sort-value="0"|''Died before<br>taking office''{{efn|name=molleston}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=27}}
+|[[1819 Delaware gubernatorial election|1819]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Stout, Jacob"|[[File:No image.svg|75px]]
+|'''[[Jacob Stout]]'''<br>{{Small|(1764–1855)}}<br>{{sfn|Sobel|1978|pp=217–218}}<ref name="nga-stout">{{Cite web |title=Jacob Stout |url=https://www.nga.org/governor/jacob-stout/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220314/https://www.nga.org/governor/jacob-stout/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=832}}
+|data-sort-value="368"|January 15, 1820{{sfn|Register|1926|p=167}}<br />–<br />January 16, 1821<br>{{small|(368 days; retired)}}
+|[[Federalist Party|Federalist]]{{sfn|Sobel|1978|p=218}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Collins, John"|[[File:No image.svg|75px]]
+|style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[John Collins (Delaware politician)|John Collins]]'''<br>{{Small|(1776–1822)}}<br>{{sfn|Sobel|1978|pp=218–219}}<ref name="nga-collins-john">{{Cite web |title=John Collins |url=https://www.nga.org/governor/john-collins/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220311/https://www.nga.org/governor/john-collins/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=833}}
+|data-sort-value="456"|January 16, 1821{{sfn|Register|1926|p=178}}<br />–<br />April 16, 1822<br>{{small|(456 days; died in office)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=27}}
+|[[1820 Delaware gubernatorial special election|1820]]<br>{{small|(special)}}{{efn|Special election to serve out the last two years of Henry Molleston's term<ref name="niles" />}}
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Rodney, Caleb"|[[File:No image.svg|75px]]
+|style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|'''[[Caleb Rodney]]'''<br>{{Small|(1767–1840)}}<br>{{sfn|Sobel|1978|p=219}}<ref name="nga-rodney-caleb">{{Cite web |title=Caleb Rodney |url=https://www.nga.org/governor/caleb-rodney/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220309/https://www.nga.org/governor/caleb-rodney/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=833}}
+|data-sort-value="281"|April 16, 1822{{efn|Rodney was formally sworn in on April 23.{{sfn|Register|1926|p=185}}}}<br />–<br />January 21, 1823<br>{{small|(218 days; retired)}}
+|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Haslet, Joseph"|[[File:No image.svg|75px]]
+|rowspan="2" style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[Joseph Haslet]]'''<br>{{Small|(1769–1823)}}<br>{{sfn|Sobel|1978|pp=215–216}}<ref name="nga-haslet" />{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=833}}
+|data-sort-value="151"|January 21, 1823{{efn|The governor's register has Haslet being inaugurated on January 22, but it specifies the third Tuesday in January, which in 1823 was the 21st.{{sfn|Register|1926|p=196}}}}<br />–<br />June 20, 1823<br>{{small|(151 days; died in office)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=27}}
+|[[1822 Delaware gubernatorial special election|1822]]
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Thomas, Charles"|[[File:No image.svg|75px]]
+|'''[[Charles Thomas (Delaware politician)|Charles Thomas]]'''<br>{{Small|(1790–1848)}}<br>{{sfn|Sobel|1978|p=220}}<ref name="nga-thomas">{{Cite web |title=Charles Thomas |url=https://www.nga.org/governor/charles-thomas/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217220309/https://www.nga.org/governor/charles-thomas/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|pp=833–834}}
+|data-sort-value="215"|June 20, 1823{{efn|Thomas was formally sworn in on June 24.{{sfn|Register|1926|p=201}}}}<br />–<br />January 20, 1824<br>{{small|(215 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Paynter, Samuel"|[[File:SamuelPaynter.gif|75px]]
+|rowspan="2" style="background:{{party color|Federalist Party (United States)}}; color:inherit;" title="Represented the Federalist Party"|
+|'''[[Samuel Paynter]]'''<br>{{Small|(1768–1845)}}<br>{{sfn|Sobel|1978|p=220}}<ref name="nga-paynter">{{Cite web |title=Samuel Paynter |url=https://www.nga.org/governor/samuel-paynter/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071632/https://www.nga.org/governor/samuel-paynter/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=69}}{{sfn|Conrad|1908|p=834}}
+|data-sort-value="1093"|January 20, 1824{{sfn|Register|1926|p=205}}<br />–<br />January 16, 1827<br>{{small|(1093 days; term-limited)}}{{efn|name=limits-1792}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=27}}
+|[[1823 Delaware gubernatorial special election|1823]]<br>{{small|(special)}}{{efn|Because of the death of Haslet so early in his term, an early election was called. Unlike when Henry Molleston died, where the election was only for the final two years of his term, in this case the new election was for a new three-year term, causing the election schedule to shift.<ref name="niles" />}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Polk, Charles"|[[File:CharlesPolk.png|75px]]
+|'''[[Charles Polk Jr.]]'''<br>{{Small|(1788–1857)}}<br>{{sfn|Sobel|1978|p=221}}<ref name="nga-polk">{{Cite web |title=Charles Polk |url=https://www.nga.org/governor/charles-polk/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071645/https://www.nga.org/governor/charles-polk/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|pp=69–70}}{{sfn|Conrad|1908|p=835}}
+|data-sort-value="1100"|January 16, 1827{{sfn|Register|1926|p=229}}<br />–<br />January 19, 1830<br>{{small|(1100 days; term-limited)}}{{efn|name=limits-1792}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=27}}
+|[[1826 Delaware gubernatorial election|1826]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Hazzard, David"|[[File:DavidHazzard.png|75px]]
+|style="background:{{party color|Anti-Jacksonian}}; color:inherit;" title="Represented the National Republican Party"|
+|'''[[David Hazzard]]'''<br>{{Small|(1781–1864)}}<br>{{sfn|Sobel|1978|pp=221–222}}<ref name="nga-hazzard">{{Cite web |title=David Hazzard |url=https://www.nga.org/governor/david-hazzard/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071639/https://www.nga.org/governor/david-hazzard/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=70}}{{sfn|Conrad|1908|pp=835–836}}
+|data-sort-value="1093"|January 19, 1830{{sfn|Register|1926|p=278}}<br />–<br />January 15, 1833<br>{{small|(1093 days; term-limited)}}{{efn|Under the 1831 constitution, governors were not eligible a second time to the office.{{sfn|Thorpe|1909|p=587|loc=1831 art. III, § 3}}|name=limits-1831}}
+|[[National Republican Party|National<br>Republican]]{{sfn|Dubin|2003|p=27}}
+|[[1829 Delaware gubernatorial election|1829]]
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Bennett, Caleb"|[[File:CalebBennett.png|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Caleb P. Bennett]]'''<br>{{Small|(1758–1836)}}<br>{{sfn|Sobel|1978|pp=222–223}}<ref name="nga-bennett">{{Cite web |title=Caleb Prew Bennett |url=https://www.nga.org/governor/caleb-prew-bennett/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071632/https://www.nga.org/governor/caleb-prew-bennett/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=70}}{{sfn|Conrad|1908|pp=836–837}}
+|data-sort-value="1211"|January 15, 1833{{sfn|Register|1926|p=314}}<br />–<br />May 9, 1836<br>{{small|(1211 days; died in office)}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Dubin|2003|p=27}}
+|[[1832 Delaware gubernatorial election|1832]]{{efn|First term under the 1831 constitution, which lengthened terms to four years.{{sfn|Thorpe|1909|p=587|loc=1831 art. III, § 3}}}}
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Polk, Charles"|[[File:CharlesPolk.png|75px]]
+|rowspan="6" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|'''[[Charles Polk Jr.]]'''<br>{{Small|(1788–1857)}}<br>{{sfn|Sobel|1978|p=221}}<ref name="nga-polk" />{{sfn|Biographical and Genealogical History|1899|p=70}}{{sfn|Conrad|1908|p=837}}
+|data-sort-value="254"|May 9, 1836{{sfn|Register|1926|p=332}}<br />–<br />January 17, 1837<br>{{small|(254 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Comegys, Cornelius"|[[File:CorneliusComegys.png|75px]]
+|'''[[Cornelius P. Comegys]]'''<br>{{Small|(1780–1851)}}<br>{{sfn|Sobel|1978|p=223}}<ref name="nga-comegys">{{Cite web |title=Cornelius Parsons Comegys |url=https://www.nga.org/governor/cornelius-parsons-comegys/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071641/https://www.nga.org/governor/cornelius-parsons-comegys/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=70}}{{sfn|Conrad|1908|pp=837–838}}
+|data-sort-value="1464"|January 17, 1837{{sfn|Register|1926|p=343}}<br />–<br />January 19, 1841<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=27}}
+|[[1836 Delaware gubernatorial election|1836]]
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Cooper, William"|[[File:No image.svg|75px]]
+|'''[[William B. Cooper (Delaware politician)|William B. Cooper]]'''<br>{{Small|(1771–1849)}}<br>{{sfn|Sobel|1978|p=224}}<ref name="nga-cooper">{{Cite web |title=William Barkley Cooper |url=https://www.nga.org/governor/william-barkley-cooper/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071636/https://www.nga.org/governor/william-barkley-cooper/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=70}}{{sfn|Conrad|1908|p=838}}
+|data-sort-value="1464"|January 19, 1841{{sfn|Register|1926|p=382}}<br />–<br />January 21, 1845<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=27}}
+|[[1840 Delaware gubernatorial election|1840]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Stockton, Thomas"|[[File:ThomasStockton.gif|75px]]
+|'''[[Thomas Stockton (politician)|Thomas Stockton]]'''<br>{{Small|(1781–1846)}}<br>{{sfn|Sobel|1978|pp=224–225}}<ref name="nga-stockton">{{Cite web |title=Thomas Stockton |url=https://www.nga.org/governor/thomas-stockton/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071636/https://www.nga.org/governor/thomas-stockton/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|pp=70–71}}{{sfn|Conrad|1908|p=839}}
+|data-sort-value="406"|January 21, 1845{{sfn|Register|1926|p=423}}<br />–<br />March 2, 1846<br>{{small|(406 days; died in office)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=27}}
+|[[1844 Delaware gubernatorial election|1844]]
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Maull, Joseph"|[[File:JosephMaull.gif|75px]]
+|'''[[Joseph Maull]]'''<br>{{Small|(1781–1846)}}<br>{{sfn|Sobel|1978|p=225}}<ref name="nga-maull">{{Cite web |title=Joseph Maull |url=https://www.nga.org/governor/joseph-maull/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 6, 2023 |archive-url=https://web.archive.org/web/20230206191124/https://www.nga.org/governor/joseph-maull/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|pp=839–840}}
+|data-sort-value="63"|March 2, 1846{{sfn|Register|1926|pp=432–433}}<br />–<br />May 3, 1846<br>{{small|(63 days; died in office)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Temple, William"|[[File:WilliamTemple.gif|75px]]
+|'''[[William Temple (politician)|William Temple]]'''<br>{{Small|(1814–1863)}}<br>{{sfn|Sobel|1978|pp=225–226}}<ref name="nga-temple">{{Cite web |title=William Temple |url=https://www.nga.org/governor/william-temple/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071638/https://www.nga.org/governor/william-temple/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|p=840}}
+|data-sort-value="262"|May 3, 1846{{efn|Temple was formally sworn in on May 6.{{sfn|Register|1926|p=436}}}}<br />–<br />January 19, 1847<br>{{small|(262 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Tharp, William"|[[File:WilliamTharp.gif|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[William Tharp]]'''<br>{{Small|(1803–1865)}}<br>{{sfn|Sobel|1978|pp=226–227}}<ref name="nga-tharp">{{Cite web |title=William Tharp |url=https://www.nga.org/governor/william-tharp/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071634/https://www.nga.org/governor/william-tharp/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|pp=840–841}}
+|data-sort-value="1464"|January 19, 1847{{sfn|Register|1926|p=456}}<br />–<br />January 21, 1851<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Dubin|2003|p=28}}
+|[[1846 Delaware gubernatorial special election|1846]]<br>{{small|(special)}}{{efn|Special election called due to the deaths of Stockton and Maull, causing a shift in the election schedule.{{sfn|Dubin|2003|p=28}}}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Ross, William"|[[File:WilliamRoss.gif|75px]]
+|'''[[William H. H. Ross]]'''<br>{{Small|(1814–1887)}}<br>{{sfn|Sobel|1978|p=227}}<ref name="nga-ross">{{Cite web |title=William Henry Harrison Ross |url=https://www.nga.org/governor/william-henry-harrison-ross/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071633/https://www.nga.org/governor/william-henry-harrison-ross/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|p=841}}
+|data-sort-value="1457"|January 21, 1851{{sfn|Register|1926|p=512}}<br />–<br />January 16, 1855<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Dubin|2003|p=28}}
+|[[1850 Delaware gubernatorial election|1850]]
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Causey, Peter"|[[File:PeterCausey.gif|75px]]
+|style="background:{{party color|Know-Nothing}}; color:inherit;" title="Represented the American Party"|
+|'''[[Peter F. Causey]]'''<br>{{Small|(1801–1871)}}<br>{{sfn|Sobel|1978|pp=227–228}}<ref name="nga-causey">{{Cite web |title=Peter Foster Causey |url=https://www.nga.org/governor/peter-foster-causey/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071653/https://www.nga.org/governor/peter-foster-causey/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|pp=841–843}}
+|data-sort-value="1464"|January 16, 1855<ref>{{Cite news |date=January 17, 1855 |title=The Inauguration |page=2 |newspaper=Smyrna Times |url=https://www.newspapers.com/article/smyrna-times-causey-inaugurated-january/129597017/ |via=Newspapers.com |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810225046/https://www.newspapers.com/article/smyrna-times-causey-inaugurated-january/129597017/ |url-status=live}}</ref><br />–<br />January 18, 1859<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Know Nothing|American]]{{sfn|Dubin|2003|p=28}}
+|[[1854 Delaware gubernatorial election|1854]]
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Burton, William"|[[File:William Burton (governor).jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[William Burton (American politician)|William Burton]]'''<br>{{Small|(1789–1866)}}<br>{{sfn|Sobel|1978|p=228}}<ref name="nga-burton">{{Cite web |title=William Burton |url=https://www.nga.org/governor/william-burton/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071636/https://www.nga.org/governor/william-burton/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|p=843}}
+|data-sort-value="1464"|January 18, 1859<ref>{{Cite news |date=January 20, 1859 |title=The Inauguration |page=2 |newspaper=Smyrna Times |via=Newspapers.com |url=https://www.newspapers.com/article/smyrna-times-burton-inaugurated-january/129597153/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811033648/https://www.newspapers.com/article/smyrna-times-burton-inaugurated-january/129597153/ |url-status=live}}</ref><br />–<br />January 20, 1863<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Dubin|2003|p=28}}
+|[[1858 Delaware gubernatorial election|1858]]
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Cannon, William"|[[File:WilliamCannon.gif|75px]]
+|style="background:{{party color|Unionist politician (American Civil War)}}; color:inherit;" title="Represented the Union Party"|
+|'''[[William Cannon]]'''<br>{{Small|(1809–1865)}}<br>{{sfn|Sobel|1978|pp=228–229}}<ref name="nga-cannon">{{Cite web |title=William Cannon |url=https://www.nga.org/governor/william-cannon/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071646/https://www.nga.org/governor/william-cannon/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|pp=843–844}}
+|data-sort-value="772"|January 20, 1863<ref>{{Cite news |date=January 20, 1863 |title=The Inauguration of Governor Cannon |page=2 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=Delaware State Journal and Statesman |via=Newspapers.com |url=https://www.newspapers.com/article/delaware-gazette-and-state-journal-canno/129597213/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811043728/https://www.newspapers.com/article/delaware-gazette-and-state-journal-canno/129597213/ |url-status=live}}</ref><br />–<br />March 1, 1865<br>{{small|(772 days; died in office)}}
+|[[Unionist politician (American Civil War)|Union]]{{sfn|Dubin|2014|p=1}}
+|[[1862 Delaware gubernatorial election|1862]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Saulsbury, Gove"|[[File:GoveSaulsbury.gif|75px]]
+|rowspan="8" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Gove Saulsbury]]'''<br>{{Small|(1815–1881)}}<br>{{sfn|Sobel|1978|pp=229–230}}<ref name="nga-saulsbury">{{Cite web |title=Gove Saulsbury |url=https://www.nga.org/governor/gove-saulsbury/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071637/https://www.nga.org/governor/gove-saulsbury/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=71}}{{sfn|Conrad|1908|pp=844–845}}
+|rowspan="2" data-sort-value="2149"|March 1, 1865<ref>{{Cite news |date=March 7, 1865 |title=Gov. Cannon's Death Announced in the Legislature |page=2 |newspaper=Delaware State Journal and Statesman |via=Newspapers.com |url=https://www.newspapers.com/article/delaware-gazette-and-state-journal-sauls/129597382/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810224318/https://www.newspapers.com/article/delaware-gazette-and-state-journal-sauls/129597382/ |url-status=live}}</ref><br />–<br />January 17, 1871<br>{{small|(2149 days; term-limited)}}{{efn|name=limits-1831}}
+|rowspan="2"|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+|[[1866 Delaware gubernatorial election|1866]]
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Ponder, James"|[[File:JamesPonder.gif|75px]]
+|'''[[James Ponder]]'''<br>{{Small|(1819–1897)}}<br>{{sfn|Sobel|1978|p=230}}<ref name="nga-ponder">{{Cite web |title=James Ponder |url=https://www.nga.org/governor/james-ponder/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071644/https://www.nga.org/governor/james-ponder/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|pp=845–846}}
+|data-sort-value="1464"|January 17, 1871<ref>{{Cite news |date=January 18, 1871 |title=none |quote=Governor Ponder was inaugurated yesterday... |page=2 |newspaper=Smyrna Times |via=Newspapers.com |url=https://www.newspapers.com/article/smyrna-times-ponder-inaugurated-january/129597623/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811023727/https://www.newspapers.com/article/smyrna-times-ponder-inaugurated-january/129597623/ |url-status=live}}</ref><br />–<br />January 19, 1875<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|[[1870 Delaware gubernatorial election|1870]]
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Cochran, John"|[[File:CochranJohn.png|75px]]
+|'''[[John P. Cochran]]'''<br>{{Small|(1809–1898)}}<br>{{sfn|Sobel|1978|pp=230–231}}<ref name="nga-cochran">{{Cite web |title=John Polk Cochran |url=https://www.nga.org/governor/john-polk-cochran/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071643/https://www.nga.org/governor/john-polk-cochran/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|pp=846–847}}
+|data-sort-value="1464"|January 19, 1875<ref>{{Cite news |date=January 19, 1875 |title=Governor Cochran |page=4 |newspaper=[[The News Journal|Every Evening]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-cochran-inaugurated-jan/129598145/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811033646/https://www.newspapers.com/article/the-news-journal-cochran-inaugurated-jan/129598145/ |url-status=live}}</ref><br />–<br />January 21, 1879<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|[[1874 Delaware gubernatorial election|1874]]
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Hall, John"|[[File:HallJohnWood.gif|75px]]
+|'''[[John W. Hall]]'''<br>{{Small|(1817–1892)}}<br>{{sfn|Sobel|1978|p=231}}<ref name="nga-hall-john">{{Cite web |title=John Wood Hall |url=https://www.nga.org/governor/john-wood-hall/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071634/https://www.nga.org/governor/john-wood-hall/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|pp=847–848}}
+|data-sort-value="1457"|January 21, 1879<ref>{{Cite news |date=January 22, 1879 |title=The Inauguration |page=1 |newspaper=[[The News Journal|Every Evening and Commercial]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-hall-inaugurated-januar/129598269/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811023556/https://www.newspapers.com/article/the-news-journal-hall-inaugurated-januar/129598269/ |url-status=live}}</ref><br />–<br />January 16, 1883<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|[[1878 Delaware gubernatorial election|1878]]
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Stockley, Charles"|[[File:StockleyCharles.gif|75px]]
+|'''[[Charles C. Stockley]]'''<br>{{Small|(1819–1901)}}<br>{{sfn|Sobel|1978|pp=231–232}}<ref name="nga-stockley">{{Cite web |title=Charles Clark Stockley |url=https://www.nga.org/governor/charles-clark-stockley/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071650/https://www.nga.org/governor/charles-clark-stockley/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|pp=848–849}}
+|data-sort-value="1464"|January 16, 1883<ref>{{Cite news |date=January 16, 1883 |title=Inaugurated |page=1 |newspaper=Daily Gazette |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-daily-gazette-stockley-inaugurated-j/129598993/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810234901/https://www.newspapers.com/article/the-daily-gazette-stockley-inaugurated-j/129598993/ |url-status=live}}</ref><br />–<br />January 18, 1887<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|[[1882 Delaware gubernatorial election|1882]]
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Biggs, Benjamin"|[[File:BenjaminBiggs.png|75px]]
+|'''[[Benjamin T. Biggs]]'''<br>{{Small|(1821–1893)}}<br>{{sfn|Sobel|1978|p=232}}<ref name="nga-biggs">{{Cite web |title=Benjamin Thomas Biggs |url=https://www.nga.org/governor/benjamin-thomas-biggs/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071637/https://www.nga.org/governor/benjamin-thomas-biggs/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|p=849}}
+|data-sort-value="1464"|January 18, 1887<ref>{{Cite news |publication-date=January 20, 1887 |date=January 18, 1887 |title=Gov. Biggs Inaugurated |page=2 |newspaper=Delaware Gazette and State Journal |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/delaware-gazette-and-state-journal-biggs/129599255/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811023726/https://www.newspapers.com/article/delaware-gazette-and-state-journal-biggs/129599255/ |url-status=live}}</ref><br />–<br />January 20, 1891<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|[[1886 Delaware gubernatorial election|1886]]
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Reynolds, Robert"|[[File:RobertReynolds.gif|75px]]
+|'''[[Robert J. Reynolds]]'''<br>{{Small|(1838–1909)}}<br>{{sfn|Sobel|1978|pp=232–233}}<ref name="nga-reynolds">{{Cite web |title=Robert John Reynolds |url=https://www.nga.org/governor/robert-john-reynolds/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071653/https://www.nga.org/governor/robert-john-reynolds/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|pp=849–850}}
+|data-sort-value="1457"|January 20, 1891<ref>{{Cite news |date=January 20, 1891 |title=Governor Reynolds |page=3 |newspaper=[[The News Journal|Evening Journal]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-evening-journal-reynolds-inaugurated/129599492/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810233357/https://www.newspapers.com/article/the-evening-journal-reynolds-inaugurated/129599492/ |url-status=live}}</ref><br />–<br />January 15, 1895<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1831}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|[[1890 Delaware gubernatorial election|1890]]
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Marvil, Joshua"|[[File:MarvilJoshua.gif|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Joshua H. Marvil]]'''<br>{{Small|(1825–1895)}}<br>{{sfn|Sobel|1978|p=233}}<ref name="nga-marvil">{{Cite web |title=Joshua Hopkins Marvil |url=https://www.nga.org/governor/joshua-hopkins-marvil/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071649/https://www.nga.org/governor/joshua-hopkins-marvil/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|pp=850–851}}
+|data-sort-value="84"|January 15, 1895<ref>{{Cite news |publication-date=January 16, 1895 |date=January 15, 1895 |title=Marvil Inaugurated |page=1 |newspaper=[[The News Journal|The Morning News]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-morning-news-marvil-inaugurated-janu/129599561/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811001907/https://www.newspapers.com/article/the-morning-news-marvil-inaugurated-janu/129599561/ |url-status=live}}</ref><br />–<br />April 8, 1895<br>{{small|(84 days; died in office)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=113}}
+|[[1894 Delaware gubernatorial election|1894]]
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Watson, William"|[[File:WilliamTharpWatson.gif|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[William T. Watson]]'''<br>{{Small|(1849–1917)}}<br>{{sfn|Sobel|1978|pp=233–234}}<ref name="nga-watson">{{Cite web |title=William Tharp Watson |url=https://www.nga.org/governor/william-tharp-watson/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071647/https://www.nga.org/governor/william-tharp-watson/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|p=851}}
+|data-sort-value="653"|April 8, 1895<ref>{{Cite news |date=April 9, 1895 |title=The Succession |page=1 |newspaper=[[The News Journal|Every Evening]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-watson-succeeds-marvil/129599673/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811022217/https://www.newspapers.com/article/the-news-journal-watson-succeeds-marvil/129599673/ |url-status=live}}</ref><br />–<br />January 19, 1897<br>{{small|(653 days; retired)}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Tunnell, Ebe"|[[File:Ebetunnell.png|75px]]
+|'''[[Ebe W. Tunnell]]'''<br>{{Small|(1844–1917)}}<br>{{sfn|Sobel|1978|p=234}}<ref name="nga-tunnell">{{Cite web |title=Ebe Walter Tunnell |url=https://www.nga.org/governor/ebe-walter-tunnell/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071640/https://www.nga.org/governor/ebe-walter-tunnell/ |url-status=live}}</ref>{{sfn|Biographical and Genealogical History|1899|p=72}}{{sfn|Conrad|1908|pp=851–852}}
+|data-sort-value="1457"|January 19, 1897<ref>{{Cite news |date=January 19, 1897 |title=Tunnell Inaugurated |page=4 |newspaper=Wilmington Daily Republican |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/daily-republican-tunnell-inaugurated-jan/129599761/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810225102/https://www.newspapers.com/article/daily-republican-tunnell-inaugurated-jan/129599761/ |url-status=live}}</ref><br />–<br />January 15, 1901<br>{{small|(1457 days; retired)}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=113}}
+|[[1896 Delaware gubernatorial election|1896]]{{efn|Because Marvil died so early in his term, the General Assembly decided to conduct an election for a full term in 1896, changing the election schedule.<ref>{{Cite news |date=April 14, 1895 |title=Delaware's Change in Elections |page=6 |newspaper=[[The New York Times]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-new-york-times-delawares-change-in/132454410/ |access-date=October 18, 2026 |archive-date=September 26, 2023 |archive-url=https://web.archive.org/web/20230926153058/https://www.newspapers.com/article/the-new-york-times-delawares-change-in/132454410/ |url-status=live}}</ref>}}
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Hunn, John"|[[File:Hunn.gif|75px]]
+|rowspan="9" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[John Hunn (politician)|John Hunn]]'''<br>{{Small|(1849–1926)}}<br>{{sfn|Sobel|1978|p=235}}<ref name="nga-hunn">{{Cite web |title=John Hunn |url=https://www.nga.org/governor/john-hunn/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071636/https://www.nga.org/governor/john-hunn/ |url-status=live}}</ref>{{sfn|Conrad|1908|pp=852–853}}
+|data-sort-value="1464"|January 15, 1901<ref>{{Cite news |date=January 15, 1901 |title=Governor Hunn Duly Inaugurated |page=5 |newspaper=[[The News Journal|Every Evening]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-hunn-inaugurated-januar/129599880/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811043726/https://www.newspapers.com/article/the-news-journal-hunn-inaugurated-januar/129599880/ |url-status=live}}</ref><br />–<br />January 17, 1905<br>{{small|(1464 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1900 Delaware gubernatorial election|1900]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Philip L.|Cannon}}
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Lea, Preston"|[[File:Preston Lea.gif|75px]]
+|'''[[Preston Lea]]'''<br>{{Small|(1841–1916)}}<br>{{sfn|Sobel|1978|pp=235–236}}<ref name="nga-lea">{{Cite web |title=Preston Lea |url=https://www.nga.org/governor/preston-lea/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071639/https://www.nga.org/governor/preston-lea/ |url-status=live}}</ref>{{sfn|Conrad|1908|pp=853–854}}
+|data-sort-value="1464"|January 17, 1905<ref>{{Cite news |date=January 17, 1905 |title=Governor Lea Duly Inaugurated |page=5 |newspaper=[[The News Journal|Every Evening]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-lea-inaugurated-january/129599958/ |access-date=October 18, 2026 |location=Dover, Delaware |publication-place=Wilmington Delaware |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811042220/https://www.newspapers.com/article/the-news-journal-lea-inaugurated-january/129599958/ |url-status=live}}</ref><br />–<br />January 19, 1909<br>{{small|(1464 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1904 Delaware gubernatorial election|1904]]
+|{{sortname|Isaac T.|Parker}}
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Pennewill, Simeon"|[[File:PENNEWILL, S.S. GOVERNOR LCCN2016857560 (cropped).jpg|75px]]
+|'''[[Simeon S. Pennewill]]'''<br>{{Small|(1867–1935)}}<br>{{sfn|Sobel|1978|p=236}}<ref name="nga-pennewill">{{Cite web |title=Simeon Selby Pennewill |url=https://www.nga.org/governor/simeon-selby-pennewill/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071636/https://www.nga.org/governor/simeon-selby-pennewill/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 19, 1909<ref>{{Cite news |date=January 19, 1909 |title=New Governor Was Sworn Into Office at Noon |page=1 |newspaper=[[The News Journal|The Evening Journal]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-evening-journal-pennewill-inaugurate/129600051/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811022034/https://www.newspapers.com/article/the-evening-journal-pennewill-inaugurate/129600051/ |url-status=live}}</ref><br />–<br />January 21, 1913<br>{{small|(1464 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1908 Delaware gubernatorial election|1908]]
+|{{sortname|John M.|Mendinhall}}
+|- style="height:2em;"
+!scope="row"|54
+|data-sort-value="Miller, Charles"|[[File:Miller 2989417695 76253e1e15 o.jpg|75px]]
+|'''[[Charles R. Miller (politician)|Charles R. Miller]]'''<br>{{Small|(1857–1927)}}<br>{{sfn|Sobel|1978|p=237}}<ref name="nga-miller">{{Cite web |title=Charles Robert Miller |url=https://www.nga.org/governor/charles-robert-miller/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071651/https://www.nga.org/governor/charles-robert-miller/ |url-status=live}}</ref>
+|data-sort-value="1457"|January 21, 1913<ref>{{Cite news |date=January 21, 1913 |title=The Inauguration of Governor C. R. Miller |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|Every Evening]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-miller-inaugurated-janu/129600122/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811015211/https://www.newspapers.com/article/the-news-journal-miller-inaugurated-janu/129600122/ |url-status=live}}</ref><br />–<br />January 16, 1917<br>{{small|(1457 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Sobel|1978|p=237}}
+|[[1912 Delaware gubernatorial election|1912]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Colen|Ferguson}}{{efn|Represented the [[Delaware Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Townsend, John"|[[File:John G. Townsend, Jr.jpg|75px]]
+|'''[[John G. Townsend Jr.]]'''<br>{{Small|(1871–1964)}}<br>{{sfn|Sobel|1978|pp=237–238}}<ref name="nga-townsend">{{Cite web |title=John Gillis Townsend |url=https://www.nga.org/governor/john-gillis-townsend/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071640/https://www.nga.org/governor/john-gillis-townsend/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 16, 1917<ref>{{Cite news |date=January 16, 1917 |title=John G. Townsend Inaugurated Governor; Declares for Woman's Suffrage, Workmen's Compensation and Praises Du Pont Boulevard |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|The Evening Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-evening-journal-townsend-inaugurated/129603044/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811022036/https://www.newspapers.com/article/the-evening-journal-townsend-inaugurated/129603044/ |url-status=live}}</ref><br />–<br />January 18, 1921<br>{{small|(1464 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1916 Delaware gubernatorial election|1916]]
+|{{sortname|Lewis E.|Eliason}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="Denney, William"|[[File:William duHamel Denney.png|75px]]
+|'''[[William D. Denney]]'''<br>{{Small|(1873–1953)}}<br>{{sfn|Sobel|1978|pp=238–239}}<ref name="nga-denney">{{Cite web |title=William Du Hamel Denney |url=https://www.nga.org/governor/william-du-hamel-denney/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071639/https://www.nga.org/governor/william-du-hamel-denney/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 18, 1921<ref>{{Cite news |date=January 18, 1921 |title=New Executive Sounds Keynote for Adequate School System; Urges Program of Economy |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|The Evening Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-evening-journal-denney-inaugurated-j/129603126/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811023558/https://www.newspapers.com/article/the-evening-journal-denney-inaugurated-j/129603126/ |url-status=live}}</ref><br />–<br />January 20, 1925<br>{{small|(1464 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1920 Delaware gubernatorial election|1920]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|J. Danforth|Bush}}
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Robinson, Robert"|[[File:Robert P. Robinson LCCN2014717858.jpg|75px]]
+|'''[[Robert P. Robinson (Delaware politician)|Robert P. Robinson]]'''<br>{{Small|(1869–1939)}}<br>{{sfn|Sobel|1978|pp=239–240}}<ref name="nga-robinson">{{Cite web |title=Robert Pyle Robinson |url=https://www.nga.org/governor/robert-pyle-robinson/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071637/https://www.nga.org/governor/robert-pyle-robinson/ |url-status=live}}</ref>
+|data-sort-value="1457"|January 20, 1925<ref>{{Cite news |last=McVey |first=William J. |date=January 20, 1925 |location=Dover, Delaware |publication-place=Wilmington, Delaware |title=Robert P. Robinson Becomes Governor |page=1 |newspaper=[[The News Journal|Every Evening]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-robinson-inaugurated-ja/129649012/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810225059/https://www.newspapers.com/article/the-news-journal-robinson-inaugurated-ja/129649012/ |url-status=live}}</ref><br />–<br />January 15, 1929<br>{{small|(1457 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1924 Delaware gubernatorial election|1924]]
+|{{sortname|James H.|Anderson|dab=politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|58
+|rowspan="2" data-sort-value="Buck, C. Douglass"|[[File:C. Douglass Buck.jpg|75px]]
+|rowspan="2"|'''[[C. Douglass Buck]]'''<br>{{Small|(1890–1965)}}<br>{{sfn|Sobel|1978|pp=240–241}}<ref name="nga-buck">{{Cite web |title=Clayton Douglass Buck |url=https://www.nga.org/governor/clayton-douglass-buck/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071642/https://www.nga.org/governor/clayton-douglass-buck/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 15, 1929<ref>{{Cite news |date=January 15, 1929 |title=Governor C. Douglass Buck Takes Office; for Lower Taxes and 'Pay-As-You-Go' Plan |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|The Evening Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-evening-journal-buck-inaugurated-jan/129649098/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811045237/https://www.newspapers.com/article/the-evening-journal-buck-inaugurated-jan/129649098/ |url-status=live}}</ref><br />–<br />January 19, 1937<br>{{small|(2927 days; term-limited)}}{{efn|Under the 1897 constitution, governors are not eligible a third time to the office.{{sfn|Thorpe|1909|p=610|loc=1897 art. III, § 5}}|name=limits-1897}}
+|rowspan="2"|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1928 Delaware gubernatorial election|1928]]
+|{{sortname|James H.|Hazel}}
+|- style="height:2em;"
+|[[1932 Delaware gubernatorial election|1932]]
+|{{sortname|Roy F.|Corley}}
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="McMullen, Richard"|[[File:No image.svg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Richard McMullen]]'''<br>{{Small|(1868–1944)}}<br>{{sfn|Sobel|1978|p=241}}<ref name="nga-mcmullen">{{Cite web |title=Richard Cann McMullen |url=https://www.nga.org/governor/richard-cann-mcmullen/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071648/https://www.nga.org/governor/richard-cann-mcmullen/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 19, 1937<ref>{{Cite news |date=January 19, 1937 |title=McMullen Inaugurated Governor |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|Journal-Every Evening]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-mcmullen-inaugurated-ja/129649150/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811023551/https://www.newspapers.com/article/the-news-journal-mcmullen-inaugurated-ja/129649150/ |url-status=live}}</ref><br />–<br />January 21, 1941<br>{{small|(1464 days; retired)}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=114}}
+|[[1936 Delaware gubernatorial election|1936]]
+|rowspan="4" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Edward W.|Cooch}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|60
+|rowspan="2" data-sort-value="Bacon, Walter"|[[File:No image.svg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Walter W. Bacon]]'''<br>{{Small|(1880–1962)}}<br>{{sfn|Sobel|1978|p=242}}<ref name="nga-bacon">{{Cite web |title=Walter Wolfkiel Bacon |url=https://www.nga.org/governor/walter-wolfkiel-bacon/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071634/https://www.nga.org/governor/walter-wolfkiel-bacon/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 21, 1941<ref>{{Cite news |publication-date=January 22, 1941 |date=January 21, 1941 |location=Dover, Delaware |publication-place=Wilmington, Delaware |title=Bacon Opens Term With Economy Plea |page=1 |newspaper=[[The News Journal|Wilmington Morning News]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-morning-news-bacon-inaugurated-janua/129649330/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811013517/https://www.newspapers.com/article/the-morning-news-bacon-inaugurated-janua/129649330/ |url-status=live}}</ref><br />–<br />January 18, 1949<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1897}}
+|rowspan="2"|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1940 Delaware gubernatorial election|1940]]
+|{{sortname|Isaac J.|MacCollum}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1944 Delaware gubernatorial election|1944]]
+|{{sortname|Elbert N.|Carvel}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|61
+|data-sort-value="Carvel, Elbert"|[[File:Elbert N. Carvel (DE 2).png|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Elbert N. Carvel]]'''<br>{{Small|(1910–2005)}}<br>{{sfn|Sobel|1978|pp=242–243}}<ref name="nga-carvel">{{Cite web |title=Elbert Nortrand Carvel |url=https://www.nga.org/governor/elbert-nortrand-carvel/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071641/https://www.nga.org/governor/elbert-nortrand-carvel/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 18, 1949<ref>{{Cite news |publication-date=January 19, 1949 |date=January 18, 1949 |location=Dover, Delaware |publication-place=Wilmington, Delaware |title=Revamping of State Agencies Highlight of Carvel Program |page=1 |newspaper=[[The News Journal|Wilmington Morning News]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-morning-news-carvel-inaugurated-janu/129649369/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811053805/https://www.newspapers.com/article/the-morning-news-carvel-inaugurated-janu/129649369/ |url-status=live}}</ref><br />–<br />January 20, 1953<br>{{small|(1464 days; lost election)}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=114}}
+|[[1948 Delaware gubernatorial election|1948]]
+|{{sortname|Alexis I. du Pont|Bayard}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|62
+|rowspan="2" data-sort-value="Boggs, J. Caleb"|[[File:J. Caleb Boggs.jpg|75px]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[J. Caleb Boggs]]'''<br>{{Small|(1909–1993)}}<br>{{sfn|Sobel|1978|pp=243–244}}<ref name="nga-boggs">{{Cite web |title=James Caleb Boggs |url=https://www.nga.org/governor/james-caleb-boggs/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 8, 2023 |archive-url=https://web.archive.org/web/20230208061616/https://www.nga.org/governor/james-caleb-boggs/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2902"|January 20, 1953<ref>{{Cite news |last=Sanger |first=Richard P. |date=January 20, 1953 |location=Dover, Delaware |publication-place=Wilmington, Delaware |title=Delaware's 62nd Chief Executive Sworn In at 12:11 |page=1 |newspaper=[[The News Journal|Journal-Every Evening]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-boggs-inaugurated-janua/129649510/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810231839/https://www.newspapers.com/article/the-news-journal-boggs-inaugurated-janua/129649510/ |url-status=live}}</ref><br />–<br />December 30, 1960<br>{{small|(2902 days; resigned)}}{{efn|Boggs resigned, having been [[1960 United States Senate election in Delaware|elected]] to the [[United States Senate]].<ref name="nga-boggs" />}}
+|rowspan="2"|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1952 Delaware gubernatorial election|1952]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|John W.|Rollins}}
+|- style="height:2em;"
+|[[1956 Delaware gubernatorial election|1956]]
+|{{sortname|David P.|Buckson}}
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Buckson, David"|[[File:David Buckson (DE).png|75px]]
+|'''[[David P. Buckson]]'''<br>{{Small|(1920–2017)}}<br>{{sfn|Sobel|1978|pp=244–245}}<ref name="nga-buckson">{{Cite web |title=David Penrose Buckson |url=https://www.nga.org/governor/david-penrose-buckson/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071641/https://www.nga.org/governor/david-penrose-buckson/ |url-status=live}}</ref>
+|data-sort-value="19"|December 30, 1960<ref>{{Cite news |last=Russell |first=Jack K. |date=December 30, 1960 |title=Buckson Assumes Office As Short-Term Governor |page=1 |newspaper=[[The News Journal|Evening Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-buckson-succeeds-boggs/129649553/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811032128/https://www.newspapers.com/article/the-news-journal-buckson-succeeds-boggs/129649553/ |url-status=live}}</ref><br />–<br />January 17, 1961<br>{{small|(19 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|64
+|data-sort-value="Carvel, Elbert"|[[File:Elbert_Carvel_(1963)_(cropped).png|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Elbert N. Carvel]]'''<br>{{Small|(1910–2005)}}<br>{{sfn|Sobel|1978|pp=242–243}}<ref name="nga-carvel" />
+|data-sort-value="1464"|January 17, 1961<ref>{{Cite news |last=Liberman |first=Cy |date=January 18, 1961 |title=Carvel Code for Aides Applauded |location=Dover, Delaware |publication-place=Wilmington, Delaware |page=1 |newspaper=[[The News Journal|Wilmington Morning News]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-morning-news-carvel-inaugurated-janu/129650124/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811025232/https://www.newspapers.com/article/the-morning-news-carvel-inaugurated-janu/129650124/ |url-status=live}}</ref><br />–<br />January 19, 1965<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1897}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=114}}
+|[[1960 Delaware gubernatorial election|1960]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Eugene|Lammot}}
+|- style="height:2em;"
+!scope="row"|65
+|data-sort-value="Terry, Charles"|[[File:Charles Terry (1965).png|75px]]
+|'''[[Charles L. Terry Jr.]]'''<br>{{Small|(1900–1970)}}<br>{{sfn|Sobel|1978|p=245}}<ref name="nga-terry">{{Cite web |title=Charles L. Terry |url=https://www.nga.org/governor/charles-l-terry/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071645/https://www.nga.org/governor/charles-l-terry/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 19, 1965<ref>{{Cite news |last=Perry |first=Christopher |date=January 19, 1965 |title=Gov. Terry Pledges Equality |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|Evening Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-terry-inaugurated-janua/129650203/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811032129/https://www.newspapers.com/article/the-news-journal-terry-inaugurated-janua/129650203/ |url-status=live}}</ref><br />–<br />January 21, 1969<br>{{small|(1464 days; lost election)}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=114}}
+|[[1964 Delaware gubernatorial election|1964]]
+|{{sortname|Sherman W.|Tribbitt}}
+|- style="height:2em;"
+!scope="row"|66
+|data-sort-value="Peterson, Russell"| [[File:Russell W. Peterson, c. 1971–1972.jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Russell W. Peterson]]'''<br>{{Small|(1916–2011)}}<br>{{sfn|Sobel|1978|pp=245–246}}<ref name="nga-peterson">{{Cite web |title=Russell W. Peterson |url=https://www.nga.org/governor/russell-w-peterson/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=April 18, 2024 |archive-url=https://web.archive.org/web/20240418183524/https://www.nga.org/governor/russell-w-peterson/ |url-status=live}}</ref>
+|data-sort-value="1457"|January 21, 1969<ref>{{Cite news |last=Distelheim |first=Joe |date=January 22, 1969 |title=Peterson Seeks Progress via Unity |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|The Morning News]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-morning-news-peterson-inaugurated-ja/129650261/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811050759/https://www.newspapers.com/article/the-morning-news-peterson-inaugurated-ja/129650261/ |url-status=live}}</ref><br />–<br />January 16, 1973<br>{{small|(1457 days; lost election)}}
+|[[Republican State Committee of Delaware|Republican]]{{sfn|Kallenbach|1977|p=114}}
+|[[1968 Delaware gubernatorial election|1968]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Eugene|Bookhammer}}{{efn|Represented the [[Republican State Committee of Delaware|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|67
+|data-sort-value="Tribbitt, Sherman"|[[File:Sherman W. Tribbett (1922–2010), Governor and Lieutenant Governor of Delaware.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Sherman W. Tribbitt]]'''<br>{{Small|(1922–2010)}}<br>{{sfn|Sobel|1978|p=246}}<ref name="nga-tribbitt">{{Cite web |title=Sherman W. Tribbitt |url=https://www.nga.org/governor/sherman-w-tribbitt/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071641/https://www.nga.org/governor/sherman-w-tribbitt/ |url-status=live}}</ref>
+|data-sort-value="1464"|January 16, 1973<ref>{{Cite news |last=Schmadeke |first=John |date=January 17, 1973 |title=Tribbitt Sworn; Pledges Fiscal Study |page=1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|The Morning News]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-morning-news-tribbitt-inaugurated-ja/129650356/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810230616/https://www.newspapers.com/article/the-morning-news-tribbitt-inaugurated-ja/129650356/ |url-status=live}}</ref><br />–<br />January 18, 1977<br>{{small|(1464 days; lost election)}}
+|[[Delaware Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=114}}
+|[[1972 Delaware gubernatorial election|1972]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|68
+|rowspan="2" data-sort-value="du Pont, Pete"|[[File:DupontPETE (cropped).jpg|75px]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Pete du Pont]]'''<br>{{Small|(1935–2021)}}<br>{{sfn|Sobel|1978|p=247}}<ref name="nga-dupont">{{Cite web |title=Pierre Samuel Du Pont |url=https://www.nga.org/governor/pierre-samuel-du-pont/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071634/https://www.nga.org/governor/pierre-samuel-du-pont/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 18, 1977<ref>{{Cite news |last=Moyed |first=Ralph S. |date=January 19, 1977 |title=Severe Tests Face Du Point As He Begins Term As Governor |page=1 |newspaper=[[The News Journal|Evening Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-du-pont-inaugurated-jan/129650407/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811003415/https://www.newspapers.com/article/the-news-journal-du-pont-inaugurated-jan/129650407/ |url-status=live}}</ref><br />–<br />January 15, 1985<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1897}}
+|rowspan="2"|[[Republican State Committee of Delaware|Republican]]<ref name="nga-dupont" />
+|[[1976 Delaware gubernatorial election|1976]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|James D.|McGinnis}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1980 Delaware gubernatorial election|1980]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Mike|Castle}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|69
+|rowspan="2" data-sort-value="Castle, Mike"|[[File:Mike Castle 1982.jpg|75px]]
+|rowspan="2"|'''[[Mike Castle]]'''<br>{{Small|(1939–2025)}}<br>{{sfn|Mullaney|1994|pp=73–76}}<ref name="nga-castle">{{Cite web |title=Michael Newbold Castle |url=https://www.nga.org/governor/michael-newbold-castle/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=January 31, 2023 |archive-url=https://web.archive.org/web/20230131144552/https://www.nga.org/governor/michael-newbold-castle/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2910"|January 15, 1985<ref>{{Cite news |last=Cohen |first=Celia |date=January 16, 1985 |title=Castle Sworn In As Governor |page=A1 |location=Dover, Delaware |publication-place=Wilmington, Delaware |newspaper=[[The News Journal|The Morning News]] |url=https://www.newspapers.com/article/the-morning-news-castle-inaugurated-janu/129650465/ |via=Newspapers.com |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811033749/https://www.newspapers.com/article/the-morning-news-castle-inaugurated-janu/129650465/ |url-status=live}}</ref><br />–<br />January 2, 1993<br>{{small|(2910 days; resigned)}}{{efn|Castle resigned, having been [[1992 United States House of Representatives election in Delaware|elected]] to the [[United States House of Representatives]].<ref name="nga-castle" />}}
+|rowspan="2"|[[Republican State Committee of Delaware|Republican]]<ref name="nga-castle" />
+|[[1984 Delaware gubernatorial election|1984]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|S. B.|Woo}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1988 Delaware gubernatorial election|1988]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Dale E.|Wolf}}
+|- style="height:2em;"
+!scope="row"|70
+|data-sort-value="Wolf, Dale"|[[File:Dale E. Wolf.jpg|75px]]
+|'''[[Dale E. Wolf]]'''<br>{{Small|(1924–2021)}}<br>{{sfn|Mullaney|1994|pp=77–79}}<ref name="nga-wolf">{{Cite web |title=Dale Edward Wolf |url=https://www.nga.org/governor/dale-edward-wolf/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071648/https://www.nga.org/governor/dale-edward-wolf/ |url-status=live}}</ref>
+|data-sort-value="17"|January 3, 1993{{efn|Wolf was sworn in just after midnight.<ref>{{Cite news |last=Kesler |first=Nancy |date=January 4, 1993 |title=Wolf Sworn In As Del. Governor |page=A1 |newspaper=[[The News Journal]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |url=https://www.newspapers.com/article/the-news-journal-wolf-succeeds-castle-ja/129650694/ |via=Newspapers.com |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811025106/https://www.newspapers.com/article/the-news-journal-wolf-succeeds-castle-ja/129650694/ |url-status=live}}</ref>}}<br />–<br />January 19, 1993<br>{{small|(17 days; retired)}}
+|[[Republican State Committee of Delaware|Republican]]<ref name="nga-wolf" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|71
+|rowspan="2" data-sort-value="Carper, Tom"|[[File:Thomas Carper.jpg|75px]]
+|rowspan="12" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Tom Carper]]'''<br>{{Small|({{Abbr|b.|born in}} 1947)}}<br>{{sfn|Mullaney|1994|pp=80–82}}<ref name="nga-carper">{{Cite web |title=Thomas R. Carper |url=https://www.nga.org/governor/thomas-r-carper/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071651/https://www.nga.org/governor/thomas-r-carper/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2907"|January 19, 1993<ref>{{Cite news |last=Kesler |first=Nancy |date=January 20, 1993 |title=Committed to Posterity |page=A1 |newspaper=[[The News Journal]] |location=Dover, Delaware |publication-place=Wilmington, Delaware |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-carper-inaugurated-janu/129650805/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811022223/https://www.newspapers.com/article/the-news-journal-carper-inaugurated-janu/129650805/ |url-status=live}}</ref><br />–<br />January 3, 2001<br>{{small|(2907 days; resigned)}}{{efn|Carper resigned, having been [[2000 United States Senate election in Delaware|elected]] to the [[United States Senate]].}}
+|rowspan="2"|[[Delaware Democratic Party|Democratic]]<ref name="nga-carper" />
+|[[1992 Delaware gubernatorial election|1992]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Ruth Ann|Minner}}
+|- style="height:2em;"
+|[[1996 Delaware gubernatorial election|1996]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|72
+|rowspan="3" data-sort-value="Minner, Ruth Ann"|[[File:Ruth Ann Minner.jpg|75px]]
+|rowspan="3"|'''[[Ruth Ann Minner]]'''<br>{{Small|(1935–2021)}}<br><ref name="nga-minner">{{Cite web |title=Ruth Ann Minner |url=https://www.nga.org/governor/ruth-ann-minner/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071641/https://www.nga.org/governor/ruth-ann-minner/ |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2940"|January 3, 2001<ref>{{Cite news |last=Merriweather |first=James |date=January 4, 2001 |title=Minner Is State's First Female Governor |page=B1 |newspaper=[[The News Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-minner-succeeds-carper/129651013/ |access-date=October 18, 2026 |archive-date=August 11, 2023 |archive-url=https://web.archive.org/web/20230811013519/https://www.newspapers.com/article/the-news-journal-minner-succeeds-carper/129651013/ |url-status=live}}</ref><br />–<br />January 20, 2009<br>{{small|(2940 days; term-limited)}}{{efn|name=limits-1897}}
+|rowspan="3"|[[Delaware Democratic Party|Democratic]]<ref name="nga-minner" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[2000 Delaware gubernatorial election|2000]]
+|rowspan="4" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|John|Carney|dab=Delaware politician}}
+|- style="height:2em;"
+|[[2004 Delaware gubernatorial election|2004]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|73
+|rowspan="3" data-sort-value="Markell, Jack"|[[File:Jack Markell 48-DPA-944 DSC 9158 (cropped).jpg|75px]]
+|rowspan="3"|'''[[Jack Markell]]'''<br>{{Small|({{Abbr|b.|born in}} 1960)}}<br><ref name="nga-markell">{{Cite web |title=Jack Markell |url=https://www.nga.org/governor/jack-markell/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218071635/https://www.nga.org/governor/jack-markell/ |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2920"|January 20, 2009<ref>{{Cite news |last=Miller |first=Beth |date=January 20, 2009 |title=Markell, Denn Take Reins In Delaware |page=A1 |newspaper=[[The News Journal]] |via=Newspapers.com |url=https://www.newspapers.com/article/the-news-journal-markall-inaugurated-jan/129651215/ |location=Newark, Delaware |publication-place=Wilmington, Delaware |access-date=October 18, 2026 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810225058/https://www.newspapers.com/article/the-news-journal-markall-inaugurated-jan/129651215/ |url-status=live}}</ref><br />–<br />January 17, 2017<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1897}}
+|rowspan="3"|[[Delaware Democratic Party|Democratic]]<ref name="nga-markell" />
+|[[2008 Delaware gubernatorial election|2008]]
+|rowspan="2"|{{sortname|Matthew|Denn}}<br />{{small|(resigned January 6, 2015)}}
+|- style="height:2em;"
+|rowspan="2"|[[2012 Delaware gubernatorial election|2012]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|74
+|rowspan="2" data-sort-value="Carney, John"|[[File:John C. Carney Jr. 2017.jpg|75px]]
+|rowspan="2"|'''[[John Carney (Delaware politician)|John Carney]]'''<br>{{Small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-carney">{{Cite web |title=John Carney |url=https://www.nga.org/governor/john-carney/ |access-date=October 18, 2026|website=[[National Governors Association]] |archive-date=January 29, 2023 |archive-url=https://web.archive.org/web/20230129181323/https://www.nga.org/governor/john-carney/ |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2913"|January 17, 2017<ref>{{Cite news |date=January 18, 2017 |title=John Carney Becomes 74th Governor Of Delaware |url=https://firststateupdate.com/2017/01/john-carney-becomes-74th-governor-of-delaware/ |access-date=October 18, 2026 |archive-date=August 10, 2023 |website=First State Update |archive-url=https://web.archive.org/web/20230810225013/https://firststateupdate.com/2017/01/john-carney-becomes-74th-governor-of-delaware/ |url-status=live}}</ref><br />–<br />January 7, 2025<br>{{small|(2913 days; resigned)}}{{efn|Carney resigned, having been [[2024 Wilmington mayoral election|elected]] [[List of mayors of Wilmington, Delaware|mayor of Wilmington]].}}
+|rowspan="2"|[[Delaware Democratic Party|Democratic]]<ref name="nga-carney" />
+|[[2016 Delaware gubernatorial election|2016]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2" |{{Sortname|Bethany|Hall-Long}}
+|- style="height:2em;"
+|[[2020 Delaware gubernatorial election|2020]]
+|- style="height:2em;"
+!scope="row"|75
+|data-sort-value="Hall-Long, Bethany"|[[File:Bethany Hall-Long.jpg|109x109px]]
+|'''[[Bethany Hall-Long]]'''<br>{{small|({{Abbr|b.|born in}} 1963)}}<br><ref name="nga-halllong">{{Cite web |title=Bethany Hall-Long |url=https://www.nga.org/governor/bethany-hall-long/ |access-date=October 18, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261011164032/https://www.nga.org/governor/bethany-hall-long/ |archive-date=October 11, 2026 |url-status=live}}</ref>
+|data-sort-value="15"|January 7, 2025<ref>{{Cite news |date=January 7, 2025 |title=Governor Hall-Long Ceremonially Sworn in as Delaware’s 75th Governor |url=https://news.delaware.gov/2025/01/07/governor-hall-long-ceremonially-sworn-in-as-delawares-75th-governor/ |access-date=October 18, 2026 |website=State of Delaware |archive-date=January 9, 2025 |archive-url=https://web.archive.org/web/20250109200710/https://news.delaware.gov/2025/01/07/governor-hall-long-ceremonially-sworn-in-as-delawares-75th-governor/ |url-status=live}}</ref><br>–<br>January 21, 2025<br>{{small|(15 days; retired)}}
+|[[Democratic Party (United States)|Democratic]]<ref name="nga-halllong" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|76
+|data-sort-value="Meyer, Matt" |[[File: Delmarva Chicken Association Booster BBQ - 55313846273 (cropped).jpg |75px]]
+|'''[[Matt Meyer]]'''<br>{{Small|({{Abbr|b.|born in}} 1971)}}<br><ref name="nga-meyer">{{Cite web |title=Matt Meyer |url=https://www.nga.org/governor/matt-meyer/ |access-date=October 18, 2026 |website=National Governors Association |archive-date=October 12, 2026 |archive-url=https://web.archive.org/web/20261012223800/https://www.nga.org/governor/matt-meyer/ |url-status=live}}</ref>
+|data-sort-value="{{Duration in days nts|2025|1|21|duration=on|format=no}}"|January 21, 2025<ref>{{Cite web |date=January 21, 2025 |title=Matthew S. Meyer Sworn-in as the 76th Governor of the State of Delaware |url=https://news.delaware.gov/2025/01/21/mathew-s-meyer-sworn-in-as-the-76th-governor-of-the-state-of-delaware/ |access-date=October 18, 2026 |website=State of Delaware |archive-date=January 21, 2025 |archive-url=https://web.archive.org/web/20250121215818/https://news.delaware.gov/2025/01/21/mathew-s-meyer-sworn-in-as-the-76th-governor-of-the-state-of-delaware/ |url-status=live}}</ref><br>–<br>Incumbent{{efn|Meyer's term [[2028 Delaware gubernatorial election|will expire]] on January 16, 2029.}}<br>{{small|(in office {{Duration in days nts|2025|1|21|duration=on|format=no}} days)}}
+|[[Delaware Democratic Party|Democratic]]<ref name="nga-meyer" />
+|[[2024 Delaware gubernatorial election|2024]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Kyle Evans|Gay}}
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Delaware governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1776.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1780
+ScaleMinor = unit:year increment:1 start:1777
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:fed     value:rgb(0, 0, 0)
+  id:demrep  value:rgb(0, 0.5, 0)
+  id:natrep  value:rgb(1, 0.9, 0.69)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:whig    value:rgb(0.84, 0.74, 0.34)
+  id:america value:rgb(0.85, 0.62, 0.91)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:seat1   value:rgb(0.60,0.10,0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1792 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1777.14 till:1777.7 color:noparty text:"John McKinly"
+ from:1777.7 till:1777.8 color:noparty text:"Thomas McKean"
+ from:1777.8 till:1778.25 color:noparty text:"George Read"
+ from:1778.25 till:1781.87 color:noparty text:"Caesar Rodney"
+ from:1781.87 till:1783.04 color:noparty text:"John Dickinson"
+ from:1783.04 till:1783.11 color:noparty text:"John Cook"
+ from:1783.11 till:1786.82 color:noparty text:"Nicholas Van Dyke"
+ from:1786.82 till:1789.24 color:noparty text:"Thomas Collins"
+ from:1789.24 till:1789.42 color:noparty text:"Jehu Davis"
+ from:1789.42 till:1796.04 color:fed text:"Joshua Clayton"
+ from:1796.04 till:1797.74 color:fed text:"Gunning Bedford Sr."
+ from:1797.74 till:1799.02 color:fed text:"Daniel Rogers"
+ from:1799.02 till:1801.17 color:fed text:"Richard Bassett"
+ from:1801.17 till:1802.05 color:fed text:"James Sykes"
+ from:1802.05 till:1805.04 color:demrep text:"David Hall"
+ from:1805.04 till:1808.05 color:fed text:"Nathaniel Mitchell"
+ from:1808.05 till:1811.04 color:fed text:"George Truitt"
+ from:1823.06 till:1823.47 color:demrep text:"Joseph Haslet"
+ from:1814.05 till:1817.06 color:fed text:"Daniel Rodney"
+ from:1817.06 till:1820.04 color:fed text:"John Clark"
+ from:1820.04 till:1821.04 color:fed text:"Jacob Stout"
+ from:1821.04 till:1822.29 color:demrep text:"John Collins"
+ from:1822.31 till:1823.06 color:fed text:"Caleb Rodney"
+ from:1823.47 till:1824.05 color:demrep text:"Charles Thomas"
+ from:1824.05 till:1827.04 color:fed text:"Samuel Paynter"
+ from:1836.36 till:1837.05 color:whig text:"Charles Polk Jr."
+ from:1830.05 till:1833.04 color:natrep text:"David Hazzard"
+ from:1833.04 till:1836.36 color:dem text:"Caleb P. Bennett"
+ from:1837.05 till:1841.05 color:whig text:"Cornelius P. Comegys"
+ from:1841.05 till:1845.06 color:whig text:"William B. Cooper"
+ from:1845.06 till:1846.17 color:whig text:"Thomas Stockton"
+ from:1846.17 till:1846.34 color:whig text:"Joseph Maull"
+ from:1846.35 till:1847.05 color:whig text:"William Temple"
+ from:1847.05 till:1851.06 color:dem text:"William Tharp"
+ from:1851.06 till:1855.04 color:dem text:"William H. H. Ross"
+ from:1855.04 till:1859.05 color:america text:"Peter F. Causey"
+ from:1859.05 till:1863.05 color:dem text:"William Burton"
+ from:1863.05 till:1865.16 color:rep text:"William Cannon"
+ from:1865.16 till:1871.05 color:dem text:"Gove Saulsbury"
+ from:1871.05 till:1875.05 color:dem text:"James Ponder"
+ from:1875.05 till:1879.06 color:dem text:"John P. Cochran"
+ from:1879.06 till:1883.04 color:dem text:"John W. Hall"
+ from:1883.04 till:1887.05 color:dem text:"Charles C. Stockley"
+ from:1887.05 till:1891.05 color:dem text:"Benjamin T. Biggs"
+ from:1891.05 till:1895.04 color:dem text:"Robert J. Reynolds"
+ from:1895.04 till:1895.27 color:rep text:"Joshua H. Marvil"
+ from:1895.27 till:1897.05 color:dem text:"William T. Watson"
+ from:1897.05 till:1901.04 color:dem text:"Ebe W. Tunnell"
+ from:1901.04 till:1905.05 color:rep text:"John Hunn"
+ from:1905.05 till:1909.05 color:rep text:"Preston Lea"
+ from:1909.05 till:1913.06 color:rep text:"Simeon S. Pennewill"
+ from:1913.06 till:1917.04 color:rep text:"Charles R. Miller"
+ from:1917.04 till:1921.05 color:rep text:"John G. Townsend Jr."
+ from:1921.05 till:1925.05 color:rep text:"William D. Denney"
+ from:1925.05 till:1929.04 color:rep text:"Robert P. Robinson"
+ from:1929.05 till:1937.05 color:rep text:"C. Douglass Buck"
+ from:1937.05 till:1941.06 color:dem text:"Richard McMullen"
+ from:1941.06 till:1949.05 color:rep text:"Walter W. Bacon"
+ from:1961.05 till:1965.05 color:dem text:"Elbert N. Carvel"
+ from:1953.05 till:1961 color:rep text:"J. Caleb Boggs"
+ from:1961 till:1961.05 color:rep text:"David P. Buckson"
+ from:1965.05 till:1969.06 color:dem text:"Charles L. Terry Jr."
+ from:1969.06 till:1973.04 color:rep text:"Russell W. Peterson"
+ from:1973.04 till:1977.05 color:dem text:"Sherman W. Tribbitt"
+ from:1977.05 till:1985.04 color:rep text:"Pete du Pont"
+ from:1985.05 till:1993.01 color:rep text:"Mike Castle"
+ from:1993.01 till:1993.05 color:rep text:"Dale E. Wolf"
+ from:1993.05 till:2001.01 color:dem text:"Tom Carper"
+ from:2001.01 till:2009.05 color:dem text:"Ruth Ann Minner"
+ from:2009.05 till:2017.05 color:dem text:"Jack Markell"
+ from:2017.05 till:2025.02 color:dem text:"John Carney"
+ from:2025.02 till:2025.06 color:dem text:"Bethany Hall-Long"
+ from:2025.06 till:$now color:dem text:"Matt Meyer"
+
+LineData=
+ from:1811.04 till:1814.05 atpos:1011 color:demrep width:6 # JH 1st term
+ from:1827.04 till:1830.05 atpos:869 color:fed width:6 # CPJr 1st term
+ from:1949.05 till:1953.05 atpos:283 color:dem width:6 # ENC 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1780.00 width:0.1 color:0year
+ at:1785.00 width:0.1 color:5year
+ at:1790.00 width:0.1 color:0year
+ at:1795.00 width:0.1 color:5year
+ at:1800.00 width:0.1 color:0year
+ at:1805.00 width:0.1 color:5year
+ at:1810.00 width:0.1 color:0year
+ at:1815.00 width:0.1 color:5year
+ at:1820.00 width:0.1 color:0year
+ at:1825.00 width:0.1 color:5year
+ at:1830.00 width:0.1 color:0year
+ at:1835.00 width:0.1 color:5year
+ at:1840.00 width:0.1 color:0year
+ at:1845.00 width:0.1 color:5year
+ at:1850.00 width:0.1 color:0year
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+* [[Delaware gubernatorial elections]]
+* [[Gubernatorial lines of succession in the United States#Delaware]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Delaware Governors |url=https://www.nga.org/former-governors/delaware/ |access-date=October 16, 2026 |website=[[National Governors Association]]}}
+* {{Cite web |title=Our Campaigns - Governor of Delaware - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=192 |access-date=October 16, 2023 |website=www.ourcampaigns.com}}
+* {{cite web |title=Delaware Constitution |year=1897 |url=https://50constitutions.org/de/constitution |ref={{sfnref|Del. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 16, 2026}}
+* {{Cite book |last=Conrad |first=Henry Clay |url=https://archive.org/details/historystatedel00conrgoog |title=History of the State of Delaware, Volume 3 |year=1908 |access-date=October 18, 2026}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |via=[[Google Books]]}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=October 18, 2026}}
+* {{Cite book |last=Martin |first=Roger A. |title=A History of Delaware Through its Governors |publisher=McClafferty Press |year=1984 |location=Wilmington, DE}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789–1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=978-0930466015 |access-date=October 18, 2026}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons01thor/ |volume=1 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+* {{Cite book |url=https://books.google.com/books?id=k7UNAQAAMAAJ |title=Biographical and Genealogical History of the State of Delaware |year=1899 |via=[[Google Books]] |ref={{sfnref|Biographical and Genealogical History|1899}} |access-date=October 18, 2026 |archive-date=February 17, 2023 |archive-url=https://web.archive.org/web/20230217171024/https://books.google.com/books?id=k7UNAQAAMAAJ |url-status=live }}
+* {{Cite book |url=https://books.google.com/books?id=--FOAQAAIAAJ |title=Governor's Register, State of Delaware |date=1926 |publisher=Public Archives Commission of Delaware |volume=1 |via=[[Google Books]] |ref={{harvid|Register|1926}} |access-date=October 18, 2026 |archive-date=August 6, 2023 |archive-url=https://web.archive.org/web/20230806044548/https://books.google.com/books?id=--FOAQAAIAAJ |url-status=live }}
+* {{Cite book |url=http://archive.org/details/proceedingsofhou0000unse |title=Proceedings of the House of Assembly of the Delaware state, 1781-1792, and of the Constitutional Convention of 1792 |date=1988 |isbn=978-0-87413-309-7 |ref={{sfnref|Proceedings|1988}}
+|via=[[Internet Archive]]
+}}
+{{refend}}
+
+==External links==
+{{commons category|Governors of Delaware}}
+*[https://governor.delaware.gov/ Office of the Governor of Delaware]
+*[https://regulations.delaware.gov/Tour/information/Governors/index.shtml Delaware Hall of Governors]
+
+{{Governors of Delaware}}
+{{DEGeneral}}
+{{Delaware}}
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Delaware statewide elected officials}}
+
+{{featured list}}
+
+{{DEFAULTSORT:Delaware, List Of Governors Of}}
+[[Category:Lists of state governors of the United States|Delaware]]
+[[Category:Lists of Delaware politicians|Governors]]
+[[Category:Governors of Delaware|*]]
+[[Category:Delaware history-related lists|Governors]]

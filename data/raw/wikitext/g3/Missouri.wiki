@@ -1,0 +1,824 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox official post
+| post = Governor
+| body = Missouri
+| native_name = 
+| insignia = Seal of Missouri.svg
+| insignia_size = 110px
+| insignia_caption = [[Seal of Missouri|State seal]]
+| image = Image:Mike Kehoe 2025 (croppedfurther).jpg
+| image_size = 200px
+| incumbent = [[Mike Kehoe]]
+| incumbent_since = January 13, 2025
+| style = The Honorable
+| residence = [[Missouri Governor's Mansion]]
+| term_length = Four years, renewable once
+| precursor = Governor of [[Missouri Territory]]
+| inaugural = [[Alexander McNair]]
+| formation = {{start date and age|1820|9|18|p=1|br=1}}
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Missouri|Line of succession]]
+| deputy = [[List of lieutenant governors of Missouri|Lieutenant Governor of Missouri]]
+| salary = $137,167 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/selected-state-administrative-officials-annual-salaries/ |title=Selected State Administrative Officials: Annual Salaries |publisher=The Council of State Governments |access-date=August 7, 2024}}</ref>
+| website = {{url|governor.mo.gov}}
+}}
+
+{{ElectionsMO}}
+
+The '''governor of Missouri''' is the [[head of government]] of the [[U.S. state]] of [[Missouri]] and the [[commander-in-chief]] of the  [[Missouri National Guard]]. The [[Governor (United States)|governor]] has a duty to enforce state laws and the power to either approve or [[veto]] bills passed by the [[Missouri General Assembly|Missouri Legislature]], to convene the legislature and grant [[pardon]]s, except in cases of impeachment.
+
+The current governor is [[Missouri Republican Party|Republican]] [[Mike Kehoe]], who took office on January 13, 2025.  
+
+==List of governors==
+[[Louisiana (New France)|Louisiana]] was [[Louisiana Purchase|purchased]] from France in 1803, with it being proclaimed in [[St. Louis]] in [[Illinois Country|Upper Louisiana]] on [[Three Flags Day|March 10, 1804]], by [[Amos Stoddard]], who remained as military commander of the region until October 1, 1804, when [[Orleans Territory]] was split from it. The remainder was designated the [[District of Louisiana]] and placed under the jurisdiction of [[Indiana Territory]] and its governor, [[William Henry Harrison]].<ref>{{usstat|2|283}}</ref>
+
+===Louisiana Territory and Missouri Territory===
+The [[District of Louisiana]] was organized as [[Louisiana Territory]] on July 4, 1805;<ref>{{usstat|2|331}}</ref> it was renamed [[Missouri Territory]] on June 4, 1812, after the admission of the state of [[Louisiana]].<ref>{{usstat|2|743}}</ref> It had four governors appointed by the [[president of the United States]], including both [[Meriwether Lewis]] and [[William Clark]] of the [[Lewis and Clark Expedition]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of Louisiana and Missouri Territory 
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Wilkinson, James"|[[File:James Wilkinson.jpg|75px]]
+|'''[[James Wilkinson]]'''<br>{{Small|(1757–1825)}}<br>{{sfn|McMullin|1984|pp=173–176}}
+|data-sort-value="608"|July 4, 1805{{efn|Wilkinson was appointed on March 11, 1805, during a Senate recess, for a term to begin July 4.<ref>{{cite web |url=https://founders.archives.gov/documents/Madison/02-09-02-0124 |title="Memorandum from Thomas Jefferson, 11 March 1805," The Papers of James Madison, Secretary of State Series, vol. 9, 1 February 1805–30 June 1805, pp. 123–125 |website=[[Founders Online]] |access-date=November 3, 2026 |archive-url=https://web.archive.org/web/20260307225409/https://founders.archives.gov/documents/Madison/02-09-02-0124 |archive-date=March 7, 2026 |url-status=live}}</ref> He was formally nominated on December 20, 1805;<ref>{{cite book |title=Senate Executive Journal, 9th Cong., 1st sess. |author=United States Senate |page=8 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=10 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on January 27, 1806;<ref>{{cite book |title=Senate Executive Journal, 9th Cong., 1st sess. |author=United States Senate |page=18 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=20 |via=[[HathiTrust]]}}</ref> and confirmation was communicated to the president on January 30.<ref>{{cite book |title=Senate Executive Journal, 9th Cong., 1st sess. |author=United States Senate |page=19 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=21 |via=[[HathiTrust]]}}</ref>}}<br />–<br />March 3, 1807<br>{{small|(608 days; replaced)}}{{efn|Wilkinson left the territory August 16, 1806, after which point Secretary of the Territory Joseph Brown acted as governor.{{sfn|McMullin|1984|p=175}}}}
+| rowspan="2" |{{sortname|Thomas|Jefferson}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Lewis, Meriwether"|[[File:Meriwether Lewis-Charles Willson Peale.jpg|75px]]
+|'''[[Meriwether Lewis]]'''<br>{{Small|(1774–1809)}}<br>{{sfn|McMullin|1984|pp=176–180}}
+|data-sort-value="954"|March 3, 1807{{efn|Lewis was nominated on February 28, 1807;<ref>{{cite book |title=Senate Executive Journal, 9th Cong., 2nd sess. |author=United States Senate |page=53 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=55 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on March 2;<ref>{{cite book |title=Senate Executive Journal, 9th Cong., 2nd sess. |author=United States Senate |page=54 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=56 |via=[[HathiTrust]]}}</ref> and confirmation and communicated to the president on March 3.<ref>{{cite book |title=Senate Executive Journal, 9th Cong., 2nd sess. |author=United States Senate |page=55 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=57 |via=[[HathiTrust]]}}</ref> He arrived in the territory on March 8, 1808.{{sfn|McMullin|1984|p=178}}}}<br />–<br />October 11, 1809<br>{{small|(954 days; died in office)}}{{efn|Lewis died in [[Tennessee]] while en route to [[Washington, D.C.|Washington]] to answer complaints about his actions as governor; it is unknown if he was murdered or died by suicide.{{sfn|McMullin|1984|p=179}} Secretary of the Territory [[Frederick Bates (politician)|Frederick Bates]] acted as governor until his successor arrived.{{sfn|McMullin|1984|p=180}}}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Howard, Benjamin"|[[File:Benjamin-howard.jpg|75px]]
+|'''[[Benjamin Howard (Missouri politician)|Benjamin Howard]]'''<br>{{Small|(1760–1814)}}<br>{{sfn|McMullin|1984|pp=180–181}}
+|data-sort-value="928"|April 18, 1810{{efn|Howard was nominated on April 17, 1810,<ref>{{cite book |title=Senate Executive Journal, 11th Cong., 2nd sess. |author=United States Senate |page=145 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=147 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 18,<ref>{{cite book |title=Senate Executive Journal, 11th Cong., 2nd sess. |author=United States Senate |page=146 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=148 |via=[[HathiTrust]]}}</ref> and arrived in the territory on September 17.{{sfn|McMullin|1984|p=180}}}}<br />–<br />October 31, 1812<br>{{small|(928 days; resigned)}}{{efn|Howard resigned to accept a commission as [[brigadier general (United States)|brigadier general]] in the [[United States Army]].{{sfn|McMullin|1984|p=181}}}}
+| rowspan="2" |{{sortname|James|Madison}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Clark, William"|[[File:William Clark-Charles Willson Peale.jpg|75px]]
+|rowspan="2"|'''[[William Clark]]'''<br>{{Small|(1770–1838)}}<br>{{sfn|McMullin|1984|pp=181–185}}
+|rowspan="2" data-sort-value="2637"|July 1, 1813{{efn|Clark was nominated on May 31, 1813;<ref>{{cite book |title=Senate Executive Journal, 13th Cong., 1st sess. |author=United States Senate |page=347 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=349 |via=[[HathiTrust]]}}</ref> though his nomination notes that he had been appointed during a Senate recess, no specifics on that appointment have been found. He was confirmed by the Senate on June 2,
+<ref>{{cite book |title=Senate Executive Journal, 13th Cong., 1st sess. |author=United States Senate |page=349 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=351 |via=[[HathiTrust]]}}</ref> and the confirmation was communicated to the president on June 16.<ref>{{cite book |title=Senate Executive Journal, 13th Cong., 1st sess. |author=United States Senate |page=355 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=357 |via=[[HathiTrust]]}}</ref> He was reconfirmed by the Senate on January 21, 1817,<ref>{{cite book |title=Senate Executive Journal, 14th Cong., 2nd sess. |author=United States Senate |page=72 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=76 |via=[[HathiTrust]]}}</ref> and on January 24, 1820.<ref>{{cite book |title=Senate Executive Journal, 13th Cong., 1st sess. |author=United States Senate |page=196 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=200 |via=[[HathiTrust]]}}</ref>}}<br />–<br />September 18, 1820<br>{{small|(2637 days; lost election)}}
+|- style="height:2em;"
+|{{sortname|James|Monroe}}
+|}
+
+===State of Missouri===
+[[Missouri]] was [[admission to the Union|admitted to the union]] on August 10, 1821.<ref>{{usstat|3|545}}</ref> 
+
+The original constitution of 1820 created the offices of governor and lieutenant governor, to serve terms of four years{{sfn|Thorpe|1909|p=2156|loc=1820 art. IV, § 3}} without being able to succeed themselves.{{sfn|Thorpe|1909|p=2156|loc=1820 art. IV, § 4}} Terms were shortened to 2 years in 1865,{{sfn|Thorpe|1909|p=2204|loc=1865 art. V, § 3}} with a limit of serving no more than four out of every six years.{{sfn|Thorpe|1909|p=2204|loc=1865 art. V, § 4}} They were returned in 1875 to the four-year term and limit on succession of the 1820 constitution,{{sfn|Thorpe|1909|p=2244|loc=1875 art. V, § 2}} and the term limit changed to two terms in 1965.<ref name="amendments">{{cite web |url=http://ipp.missouri.edu/files/ipp/attachments/19-2010_constitutional_amendments.pdf |url-status=dead |archive-url=https://web.archive.org/web/20120522110915/http://ipp.missouri.edu/files/ipp/attachments/19-2010_constitutional_amendments.pdf |archive-date=May 22, 2012 |title=Constitutional Amendments, Statutory Revision and Referenda Submitted to the Voters by the General Assembly or by Initiative Petition, 1910–2010 |last=Valentine |first=David C. |date=December 2010 |publisher=University of Missouri Institute for Public Policy |access-date=March 24, 2023}}</ref> Originally, the lieutenant governor would act as governor in the event of a vacancy;{{sfn|Thorpe|1909|p=2157|loc=1820 art. IV, § 16}} a 1968 amendment made it so that the lieutenant governor becomes governor in that situation.<ref name="amendments" />
+
+A group including the governor, lieutenant governor, and members of the [[Missouri General Assembly]], proclaimed Missouri's secession from the [[Union (American Civil War)|Union]] on October 31, 1861,<ref>{{Cite web |title=Secession Ordinances of 13 Confederate States |url=http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |url-status=live |archive-url=https://web.archive.org/web/20150905091739/http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |archive-date=September 5, 2015 |access-date=May 24, 2015 |publisher=[[University of Houston]]}}</ref> and it was admitted to the [[Confederate States of America]] on November 28, 1861.<ref>{{cite book |url=https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t2t44fh2r&seq=243 |page=221 |title=The Statutes at Large of the Provisional Government of the Confederate States of America |editor-last=Matthews |editor-first=James M. |year=1864 |location=Richmond, Virginia |publisher=R.M. Smith |via=[[HathiTrust]]}}</ref> The Confederate government elected two governors, but only had any control in the south of the state, and was forced into exile in [[Marshall, Texas]], after the [[Battle of Pea Ridge]] in March 1862.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Missouri
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[List of lieutenant governors of Missouri|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="McNair, Alexander"|[[File:Alexander McNair (D-R).jpg|75px]]
+|rowspan="4" style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[Alexander McNair]]'''<br>{{Small|(1775–1826)}}<br>{{sfn|Sobel|1978|p=837}}<ref name="nga-mcnair">{{cite web |title=Alexander McNair |url=https://www.nga.org/governor/alexander-mcnair/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415041242/https://www.nga.org/governor/alexander-mcnair/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|data-sort-value="1522"|September 18, 1820<ref>{{cite book |title=Journal of the Missouri House, 1820 sess. |author=Missouri General Assembly |page=8 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/34969}}</ref><br />–<br />November 17, 1824<br>{{small|(1522 days; term-limited)}}{{efn|Under the 1820 constitution, governors were ineligible for four years after the end of their term.{{sfn|Thorpe|1909|p=2156|loc=1820 art. V, § 4}}|name=limits-1820}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|p=338}}
+|[[1820 Missouri gubernatorial election|1820]]
+|rowspan="2" style="background:{{party color|Democratic-Republican Party (United States)}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|{{sortname|William H.|Ashley}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Bates, Frederick"|[[File:Frederick Bates.jpg|75px]]
+|rowspan="2"|'''[[Frederick Bates (politician)|Frederick Bates]]'''<br>{{Small|(1777–1825)}}<br>{{sfn|Sobel|1978|p=838}}<ref name="nga-bates">{{cite web |title=Frederick Bates |url=https://www.nga.org/governor/frederick-bates/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517091704/https://www.nga.org/governor/frederick-bates/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="261"|November 17, 1824{{efn|Modern sources tend to say Bates took office on November 15; however, while this was the date McNair delivered his farewell address, Bates was not sworn in until November 17.<ref>{{Cite news |date=November 27, 1824 |title=Governor's Message |page=2 |newspaper=Missouri Intelligencer |url=https://www.newspapers.com/article/missouri-intelligencer-bates-inaugurated/121409955/ |archive-url=https://web.archive.org/web/20230928143617/https://www.newspapers.com/article/121409955/bates-inaugurated-november-17/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />August 4, 1825<br>{{small|(261 days; died in office)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|p=338}}
+|rowspan="2"|[[1824 Missouri gubernatorial election|1824]]
+|{{sortname|Benjamin Harrison|Reeves}}<br />{{small|(resigned July 1825)}}
+|- style="height:2em;"
+|rowspan="3" colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Williams, Abraham"|[[File:No image.svg|75px]]
+|'''[[Abraham J. Williams]]'''<br>{{Small|(1781–1839)}}<br>{{sfn|Sobel|1978|pp=838–839}}<ref name="nga-williams">{{cite web |title=Abraham J. Williams |url=https://www.nga.org/governor/abraham-j-williams/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261025034038/https://www.nga.org/governor/abraham-j-williams/ |archive-date=October 25, 2026 |url-status=live}}</ref>
+|data-sort-value="170"|August 4, 1825<ref>{{Cite book |url=https://archive.org/details/in.ernet.dli.2015.90313/page/n110 |title=The Messages and Proclamations of the Governors of the State of Missouri |date=1922 |publisher=State Historical Society of Missouri |page=91 |via=[[Internet Archive]]}}</ref><br />–<br />January 20, 1826<br>{{small|(170 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|p=338}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Miller, John"|[[File:Missouri Governor John Miller.jpg|75px]]
+|rowspan="15" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John Miller (Missouri politician)|John Miller]]'''<br>{{Small|(1781–1846)}}<br>{{sfn|Sobel|1978|pp=839–840}}<ref name="nga-miller">{{cite web |title=John Miller |url=https://www.nga.org/governor/john-miller-2/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511205700/https://www.nga.org/governor/john-miller-2/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2498"|January 20, 1826<ref>{{Cite news |date=January 23, 1826 |title=none |quote=On the next day, General John Miller was declared to be duly elected Governor - and after being qualified, communicated to the Legislature the following... |page=2 |newspaper=Missouri Intelligencer |url=https://www.newspapers.com/article/missouri-intelligencer-miller-inaugurate/121414155/ |archive-url=https://web.archive.org/web/20230928143617/https://www.newspapers.com/article/121414155/miller-inaugurated-january-20/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 21, 1832<br>{{small|(2498 days; term-limited)}}{{efn|name=limits-1820}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1825 Missouri gubernatorial special election|1825]]<br />{{small|(special)}}{{efn|Special election to fill the remainder of [[Frederick Bates (politician)|Frederick Bates]]' term.}}
+|- style="height:2em;"
+|[[1828 Missouri gubernatorial election|1828]]
+|rowspan="9" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Daniel|Dunklin}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Dunklin, Daniel"|[[File:Daniel Dunklin.jpg|75px]]
+|'''[[Daniel Dunklin]]'''<br>{{Small|(1790–1844)}}<br>{{sfn|Sobel|1978|p=840}}<ref name="nga-dunklin">{{cite web |title=Daniel Dunklin |url=https://www.nga.org/governor/daniel-dunklin/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414054933/https://www.nga.org/governor/daniel-dunklin/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|data-sort-value="1410"|November 21, 1832<ref>{{cite book |title=Journal of the Missouri House, 1832 sess. |author=Missouri General Assembly |page=29 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/35545}}</ref><br />–<br />September 30, 1836<br>{{small|(1410 days; resigned)}}{{efn|Dunklin resigned to be [[Surveyor general]] for Missouri and [[Illinois]].{{sfn|Sobel|1978|p=840}}}}
+|[[Missouri Democratic Party|Democratic]]{{efn|Most sources label Dunklin a Democrat,{{sfn|Dubin|2003|p=138}}{{sfn|Kallenbach|1977|p=338}}{{sfn|Sobel|1978|p=840}} but Glashan labels him a Democratic-Republican.{{sfn|Glashan|1979|p=176}}}}
+|[[1832 Missouri gubernatorial election|1832]]
+|{{sortname|Lilburn|Boggs}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Boggs, Lilburn"|[[File:Lilburn_Boggs,_Official_governor_portrait.jpg|75px]]
+|rowspan="2"|'''[[Lilburn Boggs]]'''<br>{{Small|(1796–1860)}}<br>{{sfn|Sobel|1978|p=841}}<ref name="nga-boggs">{{cite web |title=Lilburn W. Boggs |url=https://www.nga.org/governor/lilburn-w-boggs/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617064925/https://www.nga.org/governor/lilburn-w-boggs/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1511"|September 30, 1836<ref>{{Cite book |url=https://archive.org/details/in.ernet.dli.2015.90313/page/n332 |title=The Messages And Proclamations Of The Governors Of The State Of Missouri Volume I |date=1922 |publisher=State Historical Society of Missouri |page=307 |via=[[Internet Archive]]}}</ref><br />–<br />November 18, 1840<br>{{small|(1511 days; term-limited)}}{{efn|name=limits-1820}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+|[[1836 Missouri gubernatorial election|1836]]
+|{{sortname|Franklin|Cannon}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Reynolds, Thomas"|[[File:GovThomasReynolds.JPG|75px]]
+|'''[[Thomas Reynolds (governor)|Thomas Reynolds]]'''<br>{{Small|(1796–1844)}}<br>{{sfn|Sobel|1978|pp=841–842}}<ref name="nga-reynolds">{{cite web |title=Thomas Reynolds |url=https://www.nga.org/governor/thomas-reynolds/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418121748/https://www.nga.org/governor/thomas-reynolds/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|data-sort-value="1179"|November 18, 1840<ref>{{cite book |title=Journal of the Missouri House, 1840 sess. |author=Missouri General Assembly |page=28 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/32737}}</ref><br />–<br />February 9, 1844<br>{{small|(1179 days; died in office)}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1840 Missouri gubernatorial election|1840]]
+|{{sortname|Meredith|Marmaduke}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Marmaduke, Meredith"|[[File:Meredith Miles Marmaduke.jpg|75px]]
+|'''[[Meredith Marmaduke]]'''<br>{{Small|(1791–1864)}}<br>{{sfn|Sobel|1978|p=842}}<ref name="nga-marmaduke-meredith">{{cite web |title=Meredith Miles Marmaduke |url=https://www.nga.org/governor/meredith-miles-marmaduke/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261022022710/https://www.nga.org/governor/meredith-miles-marmaduke/ |archive-date=October 22, 2026 |url-status=live}}</ref>
+|data-sort-value="286"|February 9, 1844<ref>{{Cite news |date=February 22, 1844 |title=Death of Gov. Reynolds |page=2 |newspaper=The Political Beacon |url=https://www.newspapers.com/article/the-political-beacon-death-of-governor-t/114474941/ |archive-url=https://web.archive.org/web/20230928143616/https://www.newspapers.com/article/114474941/death-of-governor-thomas-reynolds/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 20, 1844<br>{{small|(286 days; retired)}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Edwards, John"|[[File:John Cummins Edwards.jpg|75px]]
+|'''[[John C. Edwards]]'''<br>{{Small|(1804–1888)}}<br>{{sfn|Sobel|1978|pp=842–843}}<ref name="nga-edwards">{{cite web |title=John Cummins Edwards |url=https://www.nga.org/governor/john-cummins-edwards/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261024070545/https://www.nga.org/governor/john-cummins-edwards/ |archive-date=October 24, 2026 |url-status=live}}</ref>
+|data-sort-value="1499"|November 20, 1844<ref>{{Cite news |publication-date=November 30, 1844 |date=November 20, 1844 |title=Messrs. Benson & Green |quote=On this morning a joint committee from the two Houses waited upon Gov. Edwards and Lt. Governor Young, and escorted them to the Hall of the House, where the oaths of office were administered... |page=3 |newspaper=Boon's Lick Times |url=https://www.newspapers.com/article/boons-lick-times-edwards-inaugurated-no/121455771/ |archive-url=https://web.archive.org/web/20230928143615/https://www.newspapers.com/article/121455771/edwards-inaugurated-november-20/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />December 27, 1848<br>{{small|(1499 days; term-limited)}}{{efn|name=limits-1820}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1844 Missouri gubernatorial election|1844]]
+|{{sortname|James|Young|dab=Missouri politician}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="King, Austin"|[[File:AustinAugustusKing.jpg|75px]]
+|'''[[Austin A. King]]'''<br>{{Small|(1802–1870)}}<br>{{sfn|Sobel|1978|pp=843–844}}<ref name="nga-king">{{cite web |title=Austin Augustus King |url=https://www.nga.org/governor/austin-augustus-king/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513214738/https://www.nga.org/governor/austin-augustus-king/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="1469"|December 27, 1848<ref>{{cite book |title=Journal of the Missouri House, 1848 sess. |author=Missouri General Assembly |page=35 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/31847}}</ref><br />–<br />January 3, 1853<br>{{small|(1469 days; term-limited)}}{{efn|name=limits-1820}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1848 Missouri gubernatorial election|1848]]
+|{{sortname|Thomas L.|Price}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Price, Sterling"|[[File:Sterling Price.jpg|75px]]
+|rowspan="2"|'''[[Sterling Price]]'''<br>{{Small|(1809–1867)}}<br>{{sfn|Sobel|1978|p=844}}<ref name="nga-price">{{cite web |title=Sterling Price |url=https://www.nga.org/governor/sterling-price/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261021140918/https://www.nga.org/governor/sterling-price/ |archive-date=October 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1853<ref>{{Cite news |date=January 13, 1853 |title=Missouri Legislature |page=1 |newspaper=Glasgow Weekly Times |url=https://www.newspapers.com/article/glasgow-weekly-times-price-inaugurated-j/121456226/ |archive-url=https://web.archive.org/web/20230928143613/https://www.newspapers.com/article/121456226/price-inaugurated-january-3/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 5, 1857<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1820}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|rowspan="2"|[[1852 Missouri gubernatorial election|1852]]
+|{{sortname|Wilson|Brown|dab=politician}}<br />{{small|(died August 27, 1855)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Polk, Trusten"|[[File:Hon. Trusten Polk, Mo - NARA - 528704.jpg|75px]]
+|'''[[Trusten Polk]]'''<br>{{Small|(1811–1876)}}<br>{{sfn|Sobel|1978|p=845}}<ref name="nga-polk">{{cite web |title=Trusten Polk |url=https://www.nga.org/governor/trusten-polk/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261026224859/https://www.nga.org/governor/trusten-polk/ |archive-date=October 26, 2026 |url-status=live}}</ref>
+|data-sort-value="54"|January 5, 1857<ref>{{cite book |title=Journal of the Missouri House, 1857 sess. |author=Missouri General Assembly |page=40 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/2739}}</ref><br />–<br />February 27, 1857<br>{{small|(54 days; resigned)}}{{efn|Polk resigned, having been [[1856–57 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=845}}}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1856 Missouri gubernatorial election|1856]]
+|rowspan="4" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Hancock Lee|Jackson}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Jackson, Hancock"|[[File:Hancock Lee Jackson.jpg|75px]]
+|'''[[Hancock Lee Jackson]]'''<br>{{Small|(1796–1876)}}<br>{{sfn|Sobel|1978|pp=845–846}}<ref name="nga-jackson-hancock">{{cite web |title=Hancock Lee Jackson |url=https://www.nga.org/governor/hancock-lee-jackson/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261026052124/https://www.nga.org/governor/hancock-lee-jackson/ |archive-date=October 26, 2026 |url-status=live}}</ref>
+|data-sort-value="238"|February 27, 1857<ref>{{cite book |title=Journal of the Missouri Senate, 1857 sess. |author=Missouri General Assembly |page=357 |url=https://mdh.contentdm.oclc.org/digital/collection/senatej/id/15666}}</ref><br />–<br />October 22, 1857<br>{{small|(238 days; retired)}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Stewart, Robert"|[[File:Robert M. Stewart, 14th governor of Missouri.jpg|75px]]
+|'''[[Robert Marcellus Stewart]]'''<br>{{Small|(1815–1871)}}<br>{{sfn|Sobel|1978|p=846}}<ref name="nga-stewart">{{cite web |title=Robert Marcellus Stewart |url=https://www.nga.org/governor/robert-marcellus-stewart/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513064517/https://www.nga.org/governor/robert-marcellus-stewart/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="1170"|October 22, 1857<ref>{{cite book |title=Journal of the Missouri House, 1857 adj. sess. |author=Missouri General Assembly |page=23 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/1933}}</ref><br />–<br />January 3, 1861<br>{{small|(1170 days; term-limited)}}{{efn|name=limits-1820}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1857 Missouri gubernatorial special election|1857]]<br />{{small|(special)}}{{efn|Special election to fill the remainder of [[Trusten Polk]]'s term.}}
+|{{sortname|Hancock Lee|Jackson}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Jackson, Claiborne"|[[File:Claiborne fox jackson.jpg|75px]]
+|'''[[Claiborne Fox Jackson]]'''<br>{{Small|(1806–1862)}}<br>{{sfn|Sobel|1978|p=847}}<ref name="nga-jackson-claiborne">{{cite web |title=Claiborne Fox Jackson |url=https://www.nga.org/governor/claiborne-fox-jackson/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513073903/https://www.nga.org/governor/claiborne-fox-jackson/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="210"|January 3, 1861<ref>{{cite book |title=Journal of the Missouri House, 1861 sess. |author=Missouri General Assembly |page=45 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/5724}}</ref><br/>–<br/>July 31, 1861<br>{{small|(210 days; office<br>declared vacant)}}{{efn|Jackson was pro-Confederate, and fled Jefferson City on June 17, 1861, after the [[Battle of Boonville]] in which Union forces gained control of the capital. The pro-Union [[Missouri Constitutional Convention of 1861–1863|constitutional convention]] declared his office vacant, and elected a new provisional governor, on July 31.<ref name="convention">{{Cite book |url=https://archive.org/details/journalofmissour00miss/page/23 |title=Journal of the Missouri State Convention Held at Jefferson City, July, 1861 |publisher=George Knapp & Co., Printers and Binders |year=1861 |location=St. Louis |pages=23–33 |oclc=2650423 |via=[[Internet Archive]]}}</ref> Jackson would soon establish a Confederate-aligned government in [[Neosho, Missouri]].}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1860 Missouri gubernatorial election|1860]]
+|{{sortname|Thomas Caute|Reynolds}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Gamble, Hamilton"|[[File:HamiltonRowanGamble.jpg|75px]]
+|rowspan="2" style="background: {{party color|Unionist Party (US)}}; color:inherit;" title="Represented the Union Party"|
+|'''[[Hamilton Rowan Gamble]]'''<br>{{Small|(1798–1864)}}<br>{{sfn|Sobel|1978|pp=847–848}}<ref name="nga-gamble">{{cite web |title=Hamilton Rowan Gamble |url=https://www.nga.org/governor/hamilton-rowan-gamble/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261022184909/https://www.nga.org/governor/hamilton-rowan-gamble/ |archive-date=October 22, 2026 |url-status=live}}</ref>
+|data-sort-value="915"|July 31, 1861<ref name="convention" /><br/>–<br/>January 31, 1864<br>{{small|(915 days; died in office)}}
+|[[Unionist politician (American Civil War)|Union]]{{sfn|Kallenbach|1977|p=338}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Provisional<br>governor<br>elected by<br>[[Missouri Constitutional Convention of 1861–1863|convention]]}}
+|rowspan="2" style="background: {{party color|Unionist Party (US)}}; color:inherit;" title="Represented the Union Party"|
+|{{sortname|Willard P.|Hall}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Hall, Willard"|[[File:Willard Preble Hall.jpg|75px]]
+|'''[[Willard P. Hall]]'''<br>{{Small|(1820–1882)}}<br>{{sfn|Sobel|1978|pp=848–849}}<ref name="nga-hall">{{cite web |title=Willard Preble Hall |url=https://www.nga.org/governor/willard-preble-hall/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261021070629/https://www.nga.org/governor/willard-preble-hall/ |archive-date=October 21, 2026 |url-status=live}}</ref>
+|data-sort-value="338"|January 31, 1864<ref>{{Cite news |date=February 5, 1864 |title=Governor's Message |page=2 |newspaper=The Morning Herald |url=https://www.newspapers.com/article/the-st-joseph-herald-governors-message/121493717/ |archive-url=https://web.archive.org/web/20230928143614/https://www.newspapers.com/article/121493717/governors-message-hall-becomes/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 2, 1865<br>{{small|(338 days; retired)}}
+|[[Unionist politician (American Civil War)|Union]]{{sfn|Kallenbach|1977|p=338}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Fletcher, Thomas"|[[File:Thomas Clement Fletcher.jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Thomas Clement Fletcher]]'''<br>{{Small|(1827–1899)}}<br>{{sfn|Sobel|1978|p=849}}<ref name="nga-fletcher">{{cite web |title=Thomas Clement Fletcher |url=https://www.nga.org/governor/thomas-clement-fletcher/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261027101503/https://www.nga.org/governor/thomas-clement-fletcher/ |archive-date=October 27, 2026 |url-status=live}}</ref>
+|data-sort-value="1472"|January 2, 1865<ref>{{cite book |title=Journal of the Missouri House, 1865 sess. |author=Missouri General Assembly |page=46 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/26733}}</ref><br/>–<br/>January 12, 1869<br>{{small|(1472 days; term-limited)}}{{efn|Under the 1865 constitution, governors were ineligible to serve more than four years in six.{{sfn|Thorpe|1909|p=2204|loc=1865 art. V, § 4}}}}
+|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=338}}
+|[[1864 Missouri gubernatorial election|1864]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|George|Smith|dab=Missouri politician}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="McClurg, Joseph"|[[File:Joseph W. McClurg - Brady-Handy.jpg|75px]]
+|'''[[Joseph W. McClurg]]'''<br>{{Small|(1818–1900)}}<br>{{sfn|Sobel|1978|pp=849–850}}<ref name="nga-mcclurg">{{cite web |title=Joseph Washington McClurg |url=https://www.nga.org/governor/joseph-washington-mcclurg/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261023131402/https://www.nga.org/governor/joseph-washington-mcclurg/ |archive-date=October 23, 2026 |url-status=live}}</ref>
+|data-sort-value="728"|January 12, 1869<ref>{{cite book |title=Journal of the Missouri House, 1869 sess. |author=Missouri General Assembly |page=112 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/10320}}</ref><br/>–<br/>January 9, 1871<br>{{small|(728 days; lost election)}}
+|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=338}}
+|[[1868 Missouri gubernatorial election|1868]]
+|{{sortname|Edwin O.|Stanard}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Brown, Benjamin"|[[File:BGratzBrown.png|75px]]
+|rowspan="2" style="background:{{party color|Liberal Republican Party (United States)}}; color:inherit;" title="Represented the Liberal Republican Party"|
+|rowspan="2"|'''[[B. Gratz Brown|Benjamin Gratz Brown]]'''<br>{{Small|(1826–1885)}}<br>{{sfn|Sobel|1978|pp=850–851}}<ref name="nga-brown">{{cite web |title=Benjamin Gratz Brown |url=https://www.nga.org/governor/benjamin-gratz-brown/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418093221/https://www.nga.org/governor/benjamin-gratz-brown/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="731"|January 9, 1871<ref>{{cite book |title=Journal of the Missouri House, 1871 sess. |author=Missouri General Assembly |page=26 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/16143}}</ref><br/>–<br/>January 8, 1873<br>{{small|(731 days; retired)}}{{efn|Brown instead [[1872 United States presidential election|ran unsuccessfully]] for [[Vice President of the United States]].{{sfn|Sobel|1978|p=851}}}}
+|rowspan="2"|[[Liberal Republican Party (United States)|Liberal<br>Republican]]{{sfn|Kallenbach|1977|p=338}}
+|rowspan="2"|[[1870 Missouri gubernatorial election|1870]]
+|style="background:{{party color|Liberal Republican Party (United States)}}; color:inherit;" title="Represented the Liberal Republican Party"|
+|{{sortname|Joseph J.|Gravely}}<br />{{small|(died April 28, 1872)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Woodson, Silas"|[[File:Silas Woodson.jpg|75px]]
+|rowspan="12" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Silas Woodson]]'''<br>{{Small|(1819–1896)}}<br>{{sfn|Sobel|1978|p=851}}<ref name="nga-woodson">{{cite web |title=Silas Woodson |url=https://www.nga.org/governor/silas-woodson/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513224445/https://www.nga.org/governor/silas-woodson/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="735"|January 8, 1873<ref>{{cite book |title=Journal of the Missouri House, 1873 sess. |author=Missouri General Assembly |page=89 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/27403}}</ref><br/>–<br/>January 12, 1875<br>{{small|(735 days; retired)}}
+|[[Missouri Democratic Party|Democratic]]{{efn|Woodson also represented the [[Liberal Republican Party (United States)|Liberal Republican Party]].{{sfn|Glashan|1979|p=176}}}}
+|[[1872 Missouri gubernatorial election|1872]]
+|style="background:{{party color|Liberal Republican Party (United States)}}; color:inherit;" title="Represented the Liberal Republican Party"|
+|{{sortname|Charles Phillip|Johnson}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Hardin, Charles"|[[File:Charles Henry Hardin.jpg|75px]]
+|'''[[Charles Henry Hardin]]'''<br>{{Small|(1820–1892)}}<br>{{sfn|Sobel|1978|p=852}}<ref name="nga-hardin">{{cite web |title=Charles Henry Hardin |url=https://www.nga.org/governor/charles-henry-hardin/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261026073037/https://www.nga.org/governor/charles-henry-hardin/ |archive-date=October 26, 2026 |url-status=live}}</ref>
+|data-sort-value="728"|January 12, 1875<ref>{{cite book |title=Journal of the Missouri House, 1875 sess. |author=Missouri General Assembly |page=97 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/30385}}</ref><br/>–<br/>January 8, 1877<br>{{small|(728 days; retired)}}
+|[[Missouri Democratic Party|Democratic]]{{efn|Hardin also represented the [[Liberal Republican Party (United States)|Liberal Republican Party]].{{sfn|Glashan|1979|p=176}}}}
+|[[1874 Missouri gubernatorial election|1874]]
+|rowspan="10" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Norman Jay|Colman}}
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Phelps, John"|[[File:John smith phelps.jpg|75px]]
+|'''[[John S. Phelps]]'''<br>{{Small|(1814–1886)}}<br>{{sfn|Sobel|1978|pp=852–853}}<ref name="nga-phelps">{{cite web |title=John Smith Phelps |url=https://www.nga.org/governor/john-smith-phelps/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261024174730/https://www.nga.org/governor/john-smith-phelps/ |archive-date=October 24, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1877<ref>{{cite book |title=Journal of the Missouri House, 1877 sess. |author=Missouri General Assembly |page=59 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/37309}}</ref><br/>–<br/>January 10, 1881<br>{{small|(1464 days; term-limited)}}{{efn|Under the 1875 constitution, governors were ineligible to be reelected as their own successor.{{sfn|Thorpe|1909|p=2244|loc=1875 art. V, § 2}}|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1876 Missouri gubernatorial election|1876]]
+|{{sortname|Henry Clay|Brockmeyer}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Crittenden, Thomas"|[[File:Thomas Theodore Crittenden - Brady-Handy.jpg|75px]]
+|'''[[Thomas Theodore Crittenden]]'''<br>{{Small|(1832–1909)}}<br>{{sfn|Sobel|1978|pp=853–854}}<ref name="nga-crittenden">{{cite web |title=Thomas Theodore Crittenden |url=https://www.nga.org/governor/thomas-theodore-crittenden/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260715111005/https://www.nga.org/governor/thomas-theodore-crittenden/ |archive-date=July 15, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1881<ref>{{cite book |title=Journal of the Missouri House, 1881 sess. |author=Missouri General Assembly |page=53 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/40255}}</ref><br/>–<br/>January 12, 1885<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1880 Missouri gubernatorial election|1880]]
+|{{sortname|Robert Alexander|Campbell}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Marmaduke, John"|[[File:John S. Marmaduke.jpg|75px]]
+|'''[[John S. Marmaduke]]'''<br>{{Small|(1833–1887)}}<br>{{sfn|Sobel|1978|p=854}}<ref name="nga-marmaduke-john">{{cite web |title=John Sappington Marmaduke |url=https://www.nga.org/governor/john-sappington-marmaduke/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260208132553/https://www.nga.org/governor/john-sappington-marmaduke/ |archive-date=February 8, 2026 |url-status=live}}</ref>
+|data-sort-value="1081"|January 12, 1885<ref>{{cite book |title=Journal of the Missouri House, 1885 sess. |author=Missouri General Assembly |page=93 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/44824}}</ref><br/>–<br/>December 28, 1887<br>{{small|(1081 days; died in office)}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1884 Missouri gubernatorial election|1884]]
+|{{sortname|Albert P.|Morehouse}}
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Morehouse, Albert"|[[File:Albert-p-morehouse.jpg|75px]]
+|'''[[Albert P. Morehouse]]'''<br>{{Small|(1835–1891)}}<br>{{sfn|Sobel|1978|p=855}}<ref name="nga-morehouse">{{cite web |title=Albert Pickett Morehouse |url=https://www.nga.org/governor/albert-pickett-morehouse/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613185623/https://www.nga.org/governor/albert-pickett-morehouse/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="384"|December 28, 1887<ref>{{Cite news |date=December 29, 1887 |location=Jefferson City, Missouri |publication-place=St. Louis |title=Sworn In |page=2 |newspaper=[[St. Louis Post-Dispatch]] |url=https://www.newspapers.com/article/st-louis-post-dispatch/8566802/ |archive-url=https://web.archive.org/web/20230928143619/https://www.newspapers.com/article/8566802/st-louis-post-dispatch/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 14, 1889<br>{{small|(384 days;<br>lost nomination)}}<ref>{{Cite news |date=August 23, 1888 |title=Francis Nominated |page=1 |newspaper=[[Kansas City Times]] |url=https://www.newspapers.com/article/the-kansas-city-times-francis-nominated/121361195/ |archive-url=https://web.archive.org/web/20230928143622/https://www.newspapers.com/article/121361195/francis-nominated-over-morehouse/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Francis, David"|[[File:DRFrancis.jpg|75px]]
+|'''[[David R. Francis]]'''<br>{{Small|(1850–1927)}}<br>{{sfn|Sobel|1978|pp=855–856}}<ref name="nga-francis">{{cite web |title=David Rowland Francis |url=https://www.nga.org/governor/david-rowland-francis/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617200531/https://www.nga.org/governor/david-rowland-francis/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1889<ref>{{cite book |title=Journal of the Missouri House, 1889 sess. |author=Missouri General Assembly |page=74 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/48454}}</ref><br/>–<br/>January 9, 1893<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1888 Missouri gubernatorial election|1888]]
+|{{sortname|Stephen Hugh|Claycomb}}
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Stone, William"|[[File:William Joel Stone in 1917 (cropped).jpg|75px]]
+|'''[[William J. Stone]]'''<br>{{Small|(1848–1918)}}<br>{{sfn|Sobel|1978|pp=856–857}}<ref name="nga-stone">{{cite web |title=William Joel Stone |url=https://www.nga.org/governor/william-joel-stone/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261020230944/https://www.nga.org/governor/william-joel-stone/ |archive-date=October 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1893<ref>{{cite book |title=Journal of the Missouri House, 1893 sess. |author=Missouri General Assembly |page=25 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/51583}}</ref><br/>–<br/>January 11, 1897<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1892 Missouri gubernatorial election|1892]]
+|{{sortname|John Baptiste|O'Meara}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Stephens, Lawrence"|[[File:Lon V. Stephens.jpg|75px]]
+|'''[[Lawrence Vest Stephens]]'''<br>{{Small|(1858–1923)}}<br>{{sfn|Sobel|1978|p=857}}<ref name="nga-stephens">{{cite web |title=Lawrence Vest Stephens |url=https://www.nga.org/governor/lawrence-vest-stephens/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261024100453/https://www.nga.org/governor/lawrence-vest-stephens/ |archive-date=October 24, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1897<ref>{{cite book |title=Journal of the Missouri House, 1897 sess. |author=Missouri General Assembly |page=34 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/53335}}</ref><br/>–<br/>January 14, 1901<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1896 Missouri gubernatorial election|1896]]
+|{{sortname|August Bolte|}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Dockery, Alexander"|[[File:AlexanderDockery.jpg|75px]]
+|rowspan="2"|'''[[Alexander M. Dockery]]'''<br>{{Small|(1845–1926)}}<br>{{sfn|Sobel|1978|pp=857–858}}<ref name="nga-dockery">{{cite web |title=Alexander Monroe Dockery |url=https://www.nga.org/governor/alexander-monroe-dockery/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260723030359/https://www.nga.org/governor/alexander-monroe-dockery/ |archive-date=July 23, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 14, 1901<ref>{{cite book |title=Journal of the Missouri House, 1901 sess. |author=Missouri General Assembly |page=63 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/79416}}</ref><br/>–<br/>January 9, 1905<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1875}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|rowspan="2"|[[1900 Missouri gubernatorial election|1900]]
+|{{sortname|John Adams|Lee}}<br />{{small|(resigned April 25, 1903)}}
+|- style="height:2em;"
+|{{sortname|Thomas L.|Rubey}}<br />{{small|(appointed April 25, 1903)}}
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Folk, Joseph"|[[File:Joseph Wingate Folk cph.3b47532.jpg|75px]]
+|'''[[Joseph W. Folk]]'''<br>{{Small|(1869–1923)}}<br>{{sfn|Sobel|1978|pp=858–859}}<ref name="nga-folk">{{cite web |title=Joseph Wingate Folk |url=https://www.nga.org/governor/joseph-wingate-folk/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261023120601/https://www.nga.org/governor/joseph-wingate-folk/ |archive-date=October 23, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1905<ref>{{cite book |title=Journal of the Missouri House, 1905 sess. |author=Missouri General Assembly |page=24 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/59416}}</ref><br/>–<br/>January 11, 1909<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1904 Missouri gubernatorial election|1904]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|John C.|McKinley}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Hadley, Herbert"|[[File:HerbertSHadley.jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Herbert S. Hadley]]'''<br>{{Small|(1872–1927)}}<br>{{sfn|Sobel|1978|pp=859–860}}<ref name="nga-hadley">{{cite web |title=Herbert Spencer Hadley |url=https://www.nga.org/governor/herbert-spencer-hadley/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261024132557/https://www.nga.org/governor/herbert-spencer-hadley/ |archive-date=October 24, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1909<ref>{{cite book |title=Journal of the Missouri House, 1909 sess. |author=Missouri General Assembly |page=19 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/65771}}</ref><br/>–<br/>January 13, 1913<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=338}}
+|[[1908 Missouri gubernatorial election|1908]]
+|{{sortname|Jacob F.|Gmelich}}
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Major, Elliott"|[[File:MAJOR, ELLIOTT M. GOVERNOR LCCN2016858288.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Elliott Woolfolk Major]]'''<br>{{Small|(1864–1949)}}<br>{{sfn|Sobel|1978|pp=860–861}}<ref name="nga-major">{{cite web |title=Elliot Woolfolk Major |url=https://www.nga.org/governor/elliot-woolfolk-major/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511214929/https://www.nga.org/governor/elliot-woolfolk-major/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1913<ref>{{cite book |title=Journal of the Missouri House, 1913 sess. |author=Missouri General Assembly |page=23 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/57486}}</ref><br/>–<br/>January 8, 1917<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1912 Missouri gubernatorial election|1912]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|William Rock|Painter}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Gardner, Frederick"|[[File:Frederick Dozier Gardner circa 1915.jpg|75px]]
+|'''[[Frederick D. Gardner]]'''<br>{{Small|(1869–1933)}}<br>{{sfn|Sobel|1978|p=861}}<ref name="nga-gardner">{{cite web |title=Frederick Dozier Gardner |url=https://www.nga.org/governor/frederick-dozier-gardner/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314101444/https://www.nga.org/governor/frederick-dozier-gardner/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1917<ref>{{cite book |title=Journal of the Missouri House, 1917 sess. |author=Missouri General Assembly |page=129 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/69647}}</ref><br/>–<br/>January 10, 1921<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1916 Missouri gubernatorial election|1916]]
+|{{sortname|Wallace|Crossley}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Hyde, Arthur"|[[File:Arthur M. Hyde.jpg|75px]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Arthur M. Hyde]]'''<br>{{Small|(1877–1947)}}<br>{{sfn|Sobel|1978|pp=861–862}}<ref name="nga-hyde">{{cite web |title=Arthur Mastick Hyde |url=https://www.nga.org/governor/arthur-mastick-hyde/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606071704/https://www.nga.org/governor/arthur-mastick-hyde/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1921<ref>{{cite book |title=Journal of the Missouri House, 1921 sess. |author=Missouri General Assembly |page=24 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/71101}}</ref><br/>–<br/>January 12, 1925<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=338}}
+|[[1920 Missouri gubernatorial election|1920]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|Hiram|Lloyd}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Baker, Samuel"|[[File:Sam Aaron Baker.jpg|75px]]
+|'''[[Sam Aaron Baker]]'''<br>{{Small|(1874–1933)}}<br>{{sfn|Sobel|1978|pp=862–863}}<ref name="nga-baker">{{cite web |title=Samuel Aaron Baker |url=https://www.nga.org/governor/samuel-aaron-baker/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261022103824/https://www.nga.org/governor/samuel-aaron-baker/ |archive-date=October 22, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1925<ref>{{cite book |title=Journal of the Missouri House, 1925 sess. |author=Missouri General Assembly |page=35 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/64865}}</ref><br/>–<br/>January 14, 1929<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=338}}
+|[[1924 Missouri gubernatorial election|1924]]
+|{{sortname|Philip A.|Bennett}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Caulfield, Henry"|[[File:Henry Stewart Caulfield.jpg|75px]]
+|'''[[Henry S. Caulfield]]'''<br>{{Small|(1873–1966)}}<br>{{sfn|Sobel|1978|p=863}}<ref name="nga-caulfield">{{cite web |title=Henry Stewart Caulfield |url=https://www.nga.org/governor/henry-stewart-caulfield/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511203316/https://www.nga.org/governor/henry-stewart-caulfield/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1929<ref>{{cite book |title=Journal of the Missouri House, 1929 sess. |author=Missouri General Assembly |page=78 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/80427}}</ref><br/>–<br/>January 9, 1933<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=338}}
+|[[1928 Missouri gubernatorial election|1928]]
+|{{sortname|Edward Henry|Winter}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Park, Guy"|[[File:Guy Brasfield Park 1933 (cropped).jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Guy Brasfield Park]]'''<br>{{Small|(1872–1946)}}<br>{{sfn|Sobel|1978|pp=863–864}}<ref name="nga-park">{{cite web |title=Guy Brasfield Park |url=https://www.nga.org/governor/guy-brasfield-park/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261027040253/https://www.nga.org/governor/guy-brasfield-park/ |archive-date=October 27, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1933<ref>{{cite book |title=Journal of the Missouri Senate, 1933 sess. |author=Missouri General Assembly |page=22 |url=https://mdh.contentdm.oclc.org/digital/collection/senatej/id/105967}}</ref><br/>–<br/>January 11, 1937<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1932 Missouri gubernatorial election|1932]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Frank Gaines|Harris}}<br />{{small|(died December 30, 1944)}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Stark, Lloyd"|[[File:Lloyd Stark Restored.png|75px]]
+|'''[[Lloyd C. Stark]]'''<br>{{Small|(1886–1972)}}<br>{{sfn|Sobel|1978|pp=864–865}}<ref name="nga-stark">{{cite web |title=Lloyd Crow Stark |url=https://www.nga.org/governor/lloyd-crow-stark/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513220725/https://www.nga.org/governor/lloyd-crow-stark/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="1508"|January 11, 1937<ref>{{cite book |title=Journal of the Missouri House, 1937 sess. |author=Missouri General Assembly |page=29 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/88070}}</ref><br/>–<br/>February 26, 1941<br>{{small|(1508 days; term-limited)}}{{efn|name=limits-1875}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=338}}
+|[[1936 Missouri gubernatorial election|1936]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Donnell, Forrest"|[[File:Forrest C. Donnell.jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Forrest C. Donnell]]'''<br>{{Small|(1884–1980)}}<br>{{sfn|Sobel|1978|p=865}}<ref name="nga-donnell">{{cite web |title=Forrest C. Donnell |url=https://www.nga.org/governor/forrest-c-donnell/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261022021120/https://www.nga.org/governor/forrest-c-donnell/ |archive-date=October 22, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1413"|February 26, 1941{{efn|The election was very close, and the House of Representatives refused to certify Donnell's election until February 26, 1941, after being ordered to do so by the [[Supreme Court of Missouri]].{{sfn|Sobel|1978|p=865}}<ref>{{cite book |title=Journal of the Missouri House, 1941 sess. |author=Missouri General Assembly |page=356 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/103712}}</ref>}}<br/>–<br/>January 8, 1945<br>{{small|(1413 days; term-limited)}}{{efn|name=limits-1875}}
+|rowspan="2"|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=339}}
+|rowspan="2"|[[1940 Missouri gubernatorial election|1940]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Donnelly, Phil"|[[File:Phil Donnelly.jpg|75px]]
+|rowspan="9" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Phil M. Donnelly]]'''<br>{{Small|(1891–1961)}}<br>{{sfn|Sobel|1978|pp=865–866}}<ref name="nga-donnelly">{{cite web |title=Philip Matthew Donnelly |url=https://www.nga.org/governor/philip-matthew-donnelly/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261021074750/https://www.nga.org/governor/philip-matthew-donnelly/ |archive-date=October 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1945<ref>{{cite book |title=Journal of the Missouri House, 1945 sess. |author=Missouri General Assembly |page=87 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/97940}}</ref><br/>–<br/>January 10, 1949<br>{{small|(1464 days; term-limited)}}{{efn|Under the 1945 constitution, governors were ineligible to be reelected as their own successor.<ref>{{Cite web |title=1945 Mo. Const. art. IV, § 17 |url=https://cdm16795.contentdm.oclc.org/digital/collection/p16795coll1/id/176/rec/5 |access-date=November 3, 2026}}</ref>|name=limits-1945}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=339}}
+|[[1944 Missouri gubernatorial election|1944]]
+|rowspan="4" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Walter Naylor|Davis}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Smith, Forrest"|[[File:Forrest Smith.jpg|75px]]
+|'''[[Forrest Smith]]'''<br>{{Small|(1886–1962)}}<br>{{sfn|Sobel|1978|p=866}}<ref name="nga-smith">{{cite web |title=Forrest Smith |url=https://www.nga.org/governor/forrest-smith/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261023071937/https://www.nga.org/governor/forrest-smith/ |archive-date=October 23, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1949<ref>{{cite book |title=Journal of the Missouri House, 1949 sess. |author=Missouri General Assembly |page=36 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/93558}}</ref><br/>–<br/>January 12, 1953<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=339}}
+|[[1948 Missouri gubernatorial election|1948]]
+|rowspan="2"|{{sortname|James T.|Blair Jr.}}
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Donnelly, Phil"|[[File:Phil Donnelly.jpg|75px]]
+|'''[[Phil M. Donnelly]]'''<br>{{Small|(1891–1961)}}<br>{{sfn|Sobel|1978|pp=865–866}}<ref name="nga-donnelly" />
+|data-sort-value="1464"|January 12, 1953<ref>{{cite book |title=Journal of the Missouri House, 1953 sess. |author=Missouri General Assembly |page=56 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/109582}}</ref><br/>–<br/>January 14, 1957<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=339}}
+|[[1952 Missouri gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Blair, Jame"|[[File:James T. Blair.jpg|75px]]
+|rowspan="2"|'''[[James T. Blair Jr.]]'''<br>{{Small|(1902–1962)}}<br>{{sfn|Sobel|1978|p=867}}<ref name="nga-blair">{{cite web |title=James Thomas Blair |url=https://www.nga.org/governor/james-thomas-blair/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261021000543/https://www.nga.org/governor/james-thomas-blair/ |archive-date=October 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 14, 1957<ref>{{cite book |title=Journal of the Missouri House, 1957 sess. |author=Missouri General Assembly |page=47 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/129272}}</ref><br/>–<br/>January 9, 1961<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1945}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=339}}
+|rowspan="2"|[[1956 Missouri gubernatorial election|1956]]
+|{{sortname|Edward V.|Long}}<br />{{small|(resigned September 23, 1960)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Dalton, John"|[[File:Portrait of John M. Dalton.jpg|75px]]
+|'''[[John M. Dalton]]'''<br>{{Small|(1900–1972)}}<br>{{sfn|Sobel|1978|pp=867–868}}<ref name="nga-dalton">{{cite web |title=John Montgomery Dalton |url=https://www.nga.org/governor/john-montgomery-dalton/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612150657/https://www.nga.org/governor/john-montgomery-dalton/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1961<ref>{{cite book |title=Journal of the Missouri House, 1961 sess. |author=Missouri General Assembly |page=52 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/130378}}</ref><br/>–<br/>January 11, 1965<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=339}}
+|[[1960 Missouri gubernatorial election|1960]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Hilary A.|Bush}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|46
+|rowspan="3" data-sort-value="Hearnes, Warren"|[[File:Warren E. Hearnes.jpg|75px]]
+|rowspan="3"|'''[[Warren E. Hearnes]]'''<br>{{Small|(1923–2009)}}<br>{{sfn|Sobel|1978|p=868}}<ref name="nga-hearnes">{{cite web |title=Warren E. Hearnes |url=https://www.nga.org/governor/warren-e-hearnes/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261022050228/https://www.nga.org/governor/warren-e-hearnes/ |archive-date=October 22, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2920"|January 11, 1965<ref>{{cite book |title=Journal of the Missouri House, 1965 sess. |author=Missouri General Assembly |page=67 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/122687}}</ref><br/>–<br/>January 8, 1973<br>{{small|(2920 days; term-limited)}}{{efn|Under a 1965 amendment to the constitution, governors are ineligible to be elected more than twice.<ref>{{Cite web |title=Mo. Const. art. IV, § 17 |url=https://law.justia.com/constitution/missouri/article-iv/section-17/ |access-date=November 3, 2026}}</ref>|name=limits-1965}}
+|rowspan="3"|[[Missouri Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=339}}
+|rowspan="2"|[[1964 Missouri gubernatorial election|1964]]
+|{{sortname|Thomas|Eagleton}}<br />{{small|(resigned December 27, 1968)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1968 Missouri gubernatorial election|1968]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|William S.|Morris}}
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Bond, Kit"|[[File:MO Governors - 47 Christopher S. Bond (1973-1977) (52976854530).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Kit Bond]]'''<br>{{Small|(1939–2025)}}<br>{{sfn|Sobel|1978|p=869}}<ref name="nga-bond">{{cite web |title=Christopher S. Bond |url=https://www.nga.org/governor/christopher-s-bond/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261021003648/https://www.nga.org/governor/christopher-s-bond/ |archive-date=October 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1973<ref>{{cite book |title=Journal of the Missouri Senate, 1973 sess. |author=Missouri General Assembly |page=47 |url=https://mdh.contentdm.oclc.org/digital/collection/senatej/id/202872}}</ref><br/>–<br/>January 10, 1977<br>{{small|(1464 days; lost election)}}
+|[[Missouri Republican Party|Republican]]{{sfn|Kallenbach|1977|p=339}}
+|[[1972 Missouri gubernatorial election|1972]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Bill|Phelps}}
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Teasdale, Joseph"|[[File:Joseph P. Teasdale (cropped).jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Joseph P. Teasdale]]'''<br>{{Small|(1936–2014)}}<br>{{sfn|Sobel|1978|p=869}}<ref name="nga-teasdale">{{cite web |title=Joseph P. Teasdale |url=https://www.nga.org/governor/joseph-p-teasdale/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512213227/https://www.nga.org/governor/joseph-p-teasdale/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1977<ref>{{cite book |title=Journal of the Missouri House, 1977 sess. |author=Missouri General Assembly |page=215 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/152356}}</ref><br/>–<br/>January 12, 1981<br>{{small|(1464 days; lost election)}}
+|[[Missouri Democratic Party|Democratic]]<ref name="nga-teasdale" />
+|[[1976 Missouri gubernatorial election|1976]]
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Bond, Kit"|[[File:Portrait of Christopher S Bond.jpg|75px]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Kit Bond]]'''<br>{{Small|(1939–2025)}}<br>{{sfn|Sobel|1978|p=869}}<ref name="nga-bond" />
+|data-sort-value="1464"|January 12, 1981<ref>{{cite book |title=Journal of the Missouri House, 1981 sess. |author=Missouri General Assembly |page=135 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/158092}}</ref><br/>–<br/>January 14, 1985<br>{{small|(1464 days; retired)}}
+|[[Missouri Republican Party|Republican]]<ref name="nga-bond" />
+|[[1980 Missouri gubernatorial election|1980]]
+|rowspan="5" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|{{sortname|Ken|Rothman}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|50
+|rowspan="2" data-sort-value="Ashcroft, John"|[[File:John Ashcroft official photo as Governor (cropped).jpg|75px]]
+|rowspan="2"|'''[[John Ashcroft]]'''<br>{{Small|({{Abbr|b.|born in}} 1942)}}<br>{{sfn|Mullaney|1994|pp=215–219}}<ref name="nga-ashcroft">{{cite web |title=John Ashcroft |url=https://www.nga.org/governor/john-ashcroft/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519103038/https://www.nga.org/governor/john-ashcroft/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 14, 1985<ref>{{cite book |title=Journal of the Missouri House, 1985 sess. |author=Missouri General Assembly |page=131 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/166592}}</ref><br/>–<br/>January 11, 1993<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1965}}
+|rowspan="2"|[[Missouri Republican Party|Republican]]<ref name="nga-ashcroft" />
+|[[1984 Missouri gubernatorial election|1984]]
+|{{sortname|Harriett|Woods}}
+|- style="height:2em;"
+|[[1988 Missouri gubernatorial election|1988]]
+|{{sortname|Mel|Carnahan}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|51
+|rowspan="2" data-sort-value="Carnahan, Mel"|[[File:MO Governors - 51 Melvin Carnahan (1993-2000) (52976484531) (cropped).jpg|75px]]
+|rowspan="5" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Mel Carnahan]]'''<br>{{Small|(1934–2000)}}<br>{{sfn|Mullaney|1994|pp=220–222}}<ref name="nga-carnahan">{{cite web |title=Mel Eugene Carnahan |url=https://www.nga.org/governor/mel-eugene-carnahan/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261024022306/https://www.nga.org/governor/mel-eugene-carnahan/ |archive-date=October 24, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2836"|January 11, 1993<ref>{{cite book |title=Journal of the Missouri Senate, 1993 sess. |author=Missouri General Assembly |page=97 |url=https://mdh.contentdm.oclc.org/digital/collection/senatej/id/245728}}</ref><br/>–<br/>October 16, 2000<br>{{small|(2836 days; died in office)}}{{efn|Carnahan died in a plane crash while [[2000 United States Senate election in Missouri|campaigning]] for a seat in the [[United States Senate]].<ref name="nga-carnahan" />}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]<ref name="nga-carnahan" />
+|[[1992 Missouri gubernatorial election|1992]]
+|rowspan="2"|{{sortname|Roger B.|Wilson}}
+|- style="height:2em;"
+|[[1996 Missouri gubernatorial election|1996]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|52
+|rowspan="2" data-sort-value="Wilson, Rogers"|[[File:Roger Wilson (cropped).jpg|75px]]
+|rowspan="2"|'''[[Roger B. Wilson]]'''<br>{{Small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-wilson">{{cite web |title=Roger B. Wilson |url=https://www.nga.org/governor/roger-b-wilson-2/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261024104810/https://www.nga.org/governor/roger-b-wilson-2/ |archive-date=October 24, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="85"|October 16, 2000{{efn|The plane crash that killed Carnahan occurred on October 16; his body was not identified until October 18, and shortly thereafter Wilson was sworn in.<ref>{{Cite news |last=Perez Snyder |first=Carmel |date=October 18, 2000 |title=Missouri Mourns Carnahan As Wilson Takes the Helm |page=1A |location=Jefferson City, Missouri |publication-place=Springfield, Missouri |newspaper=[[Springfield News-Leader]] |url=https://www.newspapers.com/article/the-springfield-news-leader-missouri-mou/121363600/ |archive-url=https://web.archive.org/web/20230928143616/https://www.newspapers.com/article/121363600/missouri-mourns-carnahan-as-wilson/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br/>–<br/>January 8, 2001<br>{{small|(85 days; retired)}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]<ref name="nga-wilson" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Joe|Maxwell}}<br />{{small|(appointed November 15, 2000)}}
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Holden, Bob"|[[File:Gov.Bob Holden portrait (crop).jpg |75px]]
+|'''[[Bob Holden]]'''<br>{{Small|({{Abbr|b.|born in}} 1949)}}<br><ref name="nga-holden">{{cite web |title=Robert L. Holden |url=https://www.nga.org/governor/robert-l-holden/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415040748/https://www.nga.org/governor/robert-l-holden/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 2001<ref>{{cite book |title=Journal of the Missouri House, 2001 sess. |author=Missouri General Assembly |page=95 |url=https://mdh.contentdm.oclc.org/digital/collection/housej/id/197140}}</ref><br/>–<br/>January 10, 2005<br>{{small|(1464 days;<br>lost nomination)}}{{efn|Holden lost the Democratic nomination to [[Claire McCaskill]].}}
+|[[Missouri Democratic Party|Democratic]]<ref name="nga-holden" />
+|[[2000 Missouri gubernatorial election|2000]]
+|- style="height:2em;"
+!scope="row"|54
+|data-sort-value="Blunt, Matt"|[[File:Matt Blunt.jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Matt Blunt]]'''<br>{{Small|({{Abbr|b.|born in}} 1970)}}<br><ref name="nga-blunt">{{cite web |title=Matt Blunt |url=https://www.nga.org/governor/matt-blunt/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261020125838/https://www.nga.org/governor/matt-blunt/ |archive-date=October 20, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 2005<ref>{{Cite news |last=Ganey |first=Terry |date=January 11, 2005 |title=New Governor Looks to Future |page=A1 |location=Jefferson City, Missouri |publication-place=St. Louis |newspaper=[[St. Louis Post-Dispatch]] |url=https://www.newspapers.com/article/st-louis-post-dispatch-new-governor-loo/121543374/ |archive-url=https://web.archive.org/web/20230928143624/https://www.newspapers.com/article/121543374/new-governor-looks-to-future/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 12, 2009<br>{{small|(1464 days; retired)}}
+|[[Missouri Republican Party|Republican]]<ref name="nga-blunt" />
+|[[2004 Missouri gubernatorial election|2004]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Peter|Kinder}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|55
+|rowspan="2" data-sort-value="Nixon, Jay"|[[File:MO Governors - 55 Jeremiah Jay Nixon (2009-2017) (52976934813) (crop).jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jay Nixon]]'''<br>{{Small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-nixon">{{cite web |title=Jeremiah W. (Jay) Nixon |url=https://www.nga.org/governor/jeremiah-w-jay-nixon/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261023124634/https://www.nga.org/governor/jeremiah-w-jay-nixon/ |archive-date=October 23, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 12, 2009<ref>{{Cite news |last=Young |first=Virginia |date=January 13, 2009 |title='A New Day' for Missouri |page=A1 |newspaper=St. Louis Post-Dispatch |location=Jefferson City, Missouri |publication-place=St. Louis |url=https://www.newspapers.com/article/st-louis-post-dispatch-a-new-day-for/121543443/ |archive-url=https://web.archive.org/web/20230928143616/https://www.newspapers.com/article/121543443/a-new-day-for-missouri/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 9, 2017<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1965}}
+|rowspan="2"|[[Missouri Democratic Party|Democratic]]<ref name="nga-nixon" />
+|[[2008 Missouri gubernatorial election|2008]]
+|- style="height:2em;"
+|[[2012 Missouri gubernatorial election|2012]]
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="Greitens, Eric"|[[File:Governor Eric Greitens (cropped) (cropped).jpg|75px]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Eric Greitens]]'''<br>{{Small|({{Abbr|b.|born in}} 1974)}}<br><ref name="nga-greitens">{{cite web |title=Eric Greitens |url=https://www.nga.org/governor/eric-greitens/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513070926/https://www.nga.org/governor/eric-greitens/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="509"|January 9, 2017<ref>{{cite book |title=Journal of the Missouri Senate, 2017 sess. |author=Missouri General Assembly |page=85 |url=https://mdh.contentdm.oclc.org/digital/collection/senatej/id/274993}}</ref><br/>–<br/>June 1, 2018<br>{{small|(509 days; resigned)}}{{efn|Greitens resigned due to allegations of sexual assault and campaign finance impropriety.<ref>{{Cite news |last=Hancock |first=Jason |last2=Lowry |first2=Bryan |date=May 29, 2018 |title=Missouri Gov. Eric Greitens Resigns, Ending Political Career Once Aimed at Presidency |location=Jefferson City, Missouri |publication-place=Kansas City, Missouri |newspaper=[[The Kansas City Star] |url=https://www.kansascity.com/news/politics-government/article212114314.html |access-date=November 3, 2026 |archive-url=https://web.archive.org/web/20180529230727/https://www.kansascity.com/news/politics-government/article212114314.html |archive-date=May 29, 2018 |url-status=live}}</ref>}}
+|[[Missouri Republican Party|Republican]]<ref name="nga-greitens" />
+|[[2016 Missouri gubernatorial election|2016]]
+|{{sortname|Mike|Parson}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|57
+|rowspan="3" data-sort-value="Parson, Mike"|[[File:Mike Parson Governor (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[Mike Parson]]'''<br>{{Small|({{Abbr|b.|born in}} 1955)}}<br><ref name="nga-parson">{{cite web |title=Mike Parson |url=https://www.nga.org/governor/mike-parson/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261023110545/https://www.nga.org/governor/mike-parson/ |archive-date=October 23, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2419"|June 1, 2018<ref>{{Cite news |last=Erickson |first=Kurt |date=June 2, 2018 |title=Parson Pledges Fresh Start as He Is Sworn In As Missouri's New Governor |page=A1 |location=Jefferson City, Missouri |publication-place=St. Louis |newspaper=[[St. Louis Post-Dispatch]] |url=https://www.newspapers.com/article/st-louis-post-dispatch-parson-pledges-f/121543738/ |archive-url=https://web.archive.org/web/20230928143620/https://www.newspapers.com/article/121543738/parson-pledges-fresh-start-as-he-is/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br/>–<br/>January 13, 2025<br>{{small|(2419 days; term-limited)}}{{efn|name=limits-1965}}
+|rowspan="3"|[[Missouri Republican Party|Republican]]<ref name="nga-parson" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Mike|Kehoe}}<br />{{small|(appointed June 18, 2018)}}
+|- style="height:2em;"
+|[[2020 Missouri gubernatorial election|2020]]
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Kehoe, Mike"| [[File:Mike Kehoe 2025 (croppedfurther).jpg|75px]]
+|'''[[Mike Kehoe]]'''<br>{{small|({{Abbr|b.|born in}} 1962)}}<br><ref name="nga-kehoe">{{cite web |title=Mike Kehoe |url=https://www.nga.org/governor/mike-kehoe/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260903135652/https://www.nga.org/governor/mike-kehoe/ |archive-date=September 3, 2026 |url-status=live}}</ref>
+|data-sort-value="{{Duration in days nts|2025|1|13|duration=on|format=no}}"|January 13, 2025<ref>{{Cite web |date=January 13, 2025 |title=Mike Kehoe Sworn In as 58th Governor of Missouri |url=https://governor.mo.gov/press-releases/archive/mike-kehoe-sworn-58th-governor-missouri |access-date=November 3, 2026 |website=Governor of Missouri |archive-url=https://web.archive.org/web/20250114085134/https://governor.mo.gov/press-releases/archive/mike-kehoe-sworn-58th-governor-missouri |archive-date=January 14, 2025 |url-status=live}}</ref><br/>–<br/>Incumbent{{efn|Kehoe's term [[2028 Missouri gubernatorial election|will expire]] on January 8, 2029.}}<br>{{small|(in office {{Duration in days nts|2025|1|13|duration=on|format=no}} days)}}
+|[[Missouri Republican Party|Republican]]<ref name="nga-kehoe" />
+|[[2024 Missouri gubernatorial election|2024]]
+|{{sortname|David|Wasinger}}
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Missouri governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1804.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1810
+ScaleMinor = unit:year increment:1 start:1805
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year    value:rgb(0.8, 0.8, 0.8)
+  id:0year    value:rgb(0.6, 0.6, 0.6)
+  id:noparty  value:rgb(0.7, 0.7, 0.7)
+  id:demrep   value:rgb(0, 0.5, 0)
+  id:dem      value:rgb(0.2, 0.2, 1)
+  id:unionist value:rgb(1, 0.67, 0.8)
+  id:rep      value:rgb(0.91, 0.11, 0.14)
+  id:librep   value:rgb(1, 0.41, 0.71)
+  id:seat1    value:rgb(0.60, 0.10, 0.10)
+  id:blank    value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1820 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1805.51 till:1807.17 color:noparty text:"James Wilkinson"
+ from:1807.17 till:1809.78 color:noparty text:"Meriwether Lewis"
+ from:1810.3 till:1812.83 color:noparty text:"Benjamin Howard"
+ from:1813.5 till:1820.72 color:noparty text:"William Clark"
+ from:1820.72 till:1824.88 color:demrep text:"Alexander McNair"
+ from:1824.88 till:1825.59 color:demrep text:"Frederick Bates"
+ from:1825.59 till:1826.05 color:demrep text:"Abraham J. Williams"
+ from:1826.05 till:1832.89 color:dem text:"John Miller"
+ from:1832.89 till:1836.75 color:dem text:"Daniel Dunklin"
+ from:1836.75 till:1840.88 color:dem text:"Lilburn Boggs"
+ from:1840.88 till:1844.11 color:dem text:"Thomas Reynolds"
+ from:1844.11 till:1844.89 color:dem text:"Meredith Marmaduke"
+ from:1844.89 till:1848.99 color:dem text:"John C. Edwards"
+ from:1848.99 till:1853.01 color:dem text:"Austin A. King"
+ from:1853.01 till:1857.01 color:dem text:"Sterling Price"
+ from:1857.01 till:1857.16 color:dem text:"Trusten Polk"
+ from:1857.16 till:1857.81 color:dem text:"Hancock Lee Jackson"
+ from:1857.81 till:1861.01 color:dem text:"Robert Marcellus Stewart"
+ from:1861.01 till:1861.58 color:dem text:"Claiborne Fox Jackson"
+ from:1861.58 till:1864.08 color:unionist text:"Hamilton Rowan Gamble"
+ from:1864.08 till:1865.01 color:unionist text:"Willard P. Hall"
+ from:1865.01 till:1869.03 color:rep text:"Thomas Clement Fletcher"
+ from:1869.03 till:1871.02 color:rep text:"Joseph W. McClurg"
+ from:1871.02 till:1873.02 color:librep text:"B. Gratz Brown"
+ from:1873.02 till:1875.03 color:dem text:"Silas Woodson"
+ from:1875.03 till:1877.02 color:dem text:"Charles Henry Hardin"
+ from:1877.02 till:1881.03 color:dem text:"John S. Phelps"
+ from:1881.03 till:1885.03 color:dem text:"Thomas Theodore Crittenden"
+ from:1885.03 till:1887.99 color:dem text:"John S. Marmaduke"
+ from:1887.99 till:1889.04 color:dem text:"Albert P. Morehouse"
+ from:1889.04 till:1893.02 color:dem text:"David R. Francis"
+ from:1893.02 till:1897.03 color:dem text:"William J. Stone"
+ from:1897.03 till:1901.04 color:dem text:"Lawrence Vest Stephens"
+ from:1901.04 till:1905.02 color:dem text:"Alexander M. Dockery"
+ from:1905.02 till:1909.03 color:dem text:"Joseph W. Folk"
+ from:1909.03 till:1913.04 color:rep text:"Herbert S. Hadley"
+ from:1913.04 till:1917.02 color:dem text:"Elliott Woolfolk Major"
+ from:1917.02 till:1921.03 color:dem text:"Frederick D. Gardner"
+ from:1921.03 till:1925.03 color:rep text:"Arthur M. Hyde"
+ from:1925.03 till:1929.04 color:rep text:"Sam Aaron Baker"
+ from:1929.04 till:1933.02 color:rep text:"Henry S. Caulfield"
+ from:1933.02 till:1937.03 color:dem text:"Guy Brasfield Park"
+ from:1937.03 till:1941.16 color:dem text:"Lloyd C. Stark"
+ from:1941.16 till:1945.02 color:rep text:"Forrest C. Donnell"
+ from:1953.03 till:1957.04 color:dem text:"Phil M. Donnelly"
+ from:1949.03 till:1953.03 color:dem text:"Forrest Smith"
+ from:1957.04 till:1961.02 color:dem text:"James T. Blair Jr."
+ from:1961.02 till:1965.03 color:dem text:"John M. Dalton"
+ from:1965.03 till:1973.02 color:dem text:"Warren E. Hearnes"
+ from:1981.03 till:1985.04 color:rep text:"Kit Bond"
+ from:1977.03 till:1981.03 color:dem text:"Joseph P. Teasdale"
+ from:1985.04 till:1993.03 color:rep text:"John Ashcroft"
+ from:1993.03 till:2000.79 color:dem text:"Mel Carnahan"
+ from:2000.79 till:2001.02 color:dem text:"Roger B. Wilson"
+ from:2001.02 till:2005.03 color:dem text:"Bob Holden"
+ from:2005.03 till:2009.03 color:rep text:"Matt Blunt"
+ from:2009.03 till:2017.02 color:dem text:"Jay Nixon"
+ from:2017.02 till:2018.42 color:rep text:"Eric Greitens"
+ from:2018.42 till:2025.04 color:rep text:"Mike Parson"
+ from:2025.04 till:$now color:rep text:"Mike Kehoe"
+
+LineData=
+ from:1945.02 till:1949.03 atpos:300 color:dem width:6 # PMD 1st term
+ from:1973.02 till:1977.03 atpos:211 color:rep width:6 # KB 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1805.00 width:0.1 color:5year
+ at:1810.00 width:0.1 color:0year
+ at:1815.00 width:0.1 color:5year
+ at:1820.00 width:0.1 color:0year
+ at:1825.00 width:0.1 color:5year
+ at:1830.00 width:0.1 color:0year
+ at:1835.00 width:0.1 color:5year
+ at:1840.00 width:0.1 color:0year
+ at:1845.00 width:0.1 color:5year
+ at:1850.00 width:0.1 color:0year
+ at:1855.00 width:0.1 color:5year
+ at:1860.00 width:0.1 color:0year
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==Confederate governors==
+
+[[File:Thomas-c-reynolds.jpg|upright|thumb|[[Thomas Caute Reynolds]], 2nd Confederate governor of Missouri]]
+[[Missouri in the American Civil War|During the Civil War]], after the capture of [[Jefferson City, Missouri|Jefferson City]] by the Union, a [[Missouri Constitutional Convention of 1861–1863|constitutional convention]] declared the office then held by Governor [[Claiborne Fox Jackson]] to be vacant.<ref name="convention" /> In October, Jackson, Lieutenant Governor [[Thomas Caute Reynolds]], and some members of the General Assembly, organized at [[Neosho, Missouri|Neosho]] and [[Missouri secession|passed]] an [[Ordinance of Secession]]. This [[Confederate government of Missouri|Confederate government]] never displaced the government in [[Jefferson City, Missouri|Jefferson City]], and Missouri remained in the Union through the entire war. Jackson continued on as governor until his death on December 6, 1862, at which time Reynolds took over, serving until he fled to Mexico in June 1865 after the end of the war.<ref>{{Cite journal |last=Geise |first=William R. |date=1962 |title=Missouri's Confederate Capital in Marshall, Texas |journal=The Southwestern Historical Quarterly |volume=66 |issue=2 |page=206 |issn=0038-478X |jstor=30236239}}</ref>
+
+== See also ==
+*[[Gubernatorial lines of succession in the United States#Missouri]]
+*[[List of Missouri General Assemblies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Missouri Governors |url=https://www.nga.org/former-governors/missouri/ |access-date=March 13, 2023 |publisher=National Governors Association}}
+* {{cite web |title=Missouri Constitution |url=https://50constitutions.org/mo/constitution |ref={{sfnref|Mo. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 30, 2026}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 6, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Missouri History - Governors |url=http://www.sos.mo.gov/archives/history/historicallistings/governors.asp |access-date=2008-09-11 |publisher=Missouri Secretary of State}}
+* {{Cite web |title=Missouri History - Lieutenant Governors |url=http://www.sos.mo.gov/archives/history/historicallistings/ltgov.asp |access-date=2008-09-11 |publisher=Missouri Secretary of State}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons04thor/ |volume=4 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{Commons category|Governors of Missouri}}
+*[https://governor.mo.gov/ Office of the Governor of Missouri]
+
+{{Governors of Missouri}}
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Missouri}}
+{{Missouri statewide elected officials}}
+
+{{DEFAULTSORT:Missouri, List of Governors of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Missouri|*]]
+[[Category:Lists of territorial governors of the United States]]
+[[Category:Lists of Missouri politicians|Governors]]

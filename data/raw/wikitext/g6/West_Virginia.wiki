@@ -1,0 +1,508 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2018}}
+{{Use American English|date=July 2018}}
+{{Infobox official post
+| post = Governor
+| body = West Virginia
+| insignia = Seal of the Governor of West Virginia.svg
+| insignia_size = 110px
+| insignia_caption = Seal of the governor
+| image = File:Patrick Morrisey 2026 (cropped).jpg
+| image_size = 200px
+| incumbent = [[Patrick Morrisey]]
+| incumbent_since = January 13, 2025
+| style = {{ublist|[[Governor]]<br>(informal)|[[The Honourable#United States of America|The Honorable]]<br>(formal)}}
+| status = {{ublist|[[Head of state]]|[[Head of government]]}}
+| residence = [[West Virginia Governor's Mansion]]
+| term_length = Four years, renewable once consecutively
+| formation = June 20, 1863
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#West_Virginia|Line of succession]]
+| inaugural = [[Arthur I. Boreman]]
+| salary = $150,000 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/selected-state-administrative-officials-annual-salaries/ |title=Selected State Administrative Officials: Annual Salaries |publisher=The Council of State Governments |access-date=August 8, 2024}}</ref>
+| website = {{URL|governor.wv.gov}}
+}}
+
+The '''governor of West Virginia''' is the [[head of government]] of [[West Virginia]]<ref name="wvc7-5">WV Constitution article VII, § 5.</ref> and the commander-in-chief of the [[U.S. state|state]]'s [[West Virginia National Guard|military forces]].<ref name="wvc7-12">WV Constitution article VII, § 12.</ref> The governor has a duty to enforce state laws,<ref name="wvc7-5" /> and the power to either approve or veto bills passed by the [[West Virginia Legislature]],<ref>WV Constitution article VII, § 14.</ref> to convene the legislature at any time,<ref>WV Constitution article VI, § 18–19.</ref> and, except when prosecution has been carried out by the [[West Virginia House of Delegates|House of Delegates]], to grant [[pardon]]s and reprieves.<ref>WV Constitution article VII, § 11.</ref>
+
+Since West Virginia was [[Admission to the Union|admitted to the Union]] on June 20, 1863, during the [[American Civil War]], 37 men have served as governor.<ref>{{Cite web| last=Morgan |first=John G. |date=2025-01-13 |title= Governors of West Virginia |url=https://www.wvencyclopedia.org/entries/2076 |website=e-WV: The West Virginia Encyclopedia |access-date=2025-04-07}}</ref> Two, [[Arch A. Moore Jr.]] (West Virginia's 28th and 30th governor) and [[Cecil H. Underwood]] (West Virginia's 25th and 32nd governor), served two nonconsecutive terms in office. The longest-serving governor was Moore, who served for three terms over twelve years. The state's first governor after admission into the Union, [[Arthur I. Boreman]], served the most consecutive terms, resigning a week before the end of his third term. Before the state's admission, [[Francis Harrison Pierpont]], the "Father of West Virginia,"<ref name="theintelligencer.net">{{Cite news |last=Compston-Strough |first=Jennifer |date=2013-06-20 |title=Francis Harrison Pierpont: 'Father of West Virginia' |work=The Intelligencer and Wheeling News-Register |url=http://theintelligencer.net/page/content.detail/id/586708/Francis-Harrison-Pierpont---Father-of-West-Virginia-.html?nav=6322 |url-status=dead |access-date=April 17, 2019 |archive-url=https://web.archive.org/web/20130817060544/http://theintelligencer.net/page/content.detail/id/586708/Francis-Harrison-Pierpont---Father-of-West-Virginia-.html?nav=6322 |archive-date=August 17, 2013}}</ref> was elected governor during the [[Wheeling Convention]] of 1861. [[Daniel D. T. Farnsworth|Daniel D.T. Farnsworth]] was senate president at the time; he filled the last seven days of Boreman's term and remains the shortest-serving governor. Underwood has the unusual distinction of being both the youngest person to be elected as governor (age 34 upon his first term in 1957) and the oldest to both be elected and serve (age 74 upon his second term in 1997; age 78 at the end of his second term in 2001). The current governor is [[West Virginia Republican Party|Republican]] [[Patrick Morrisey]], who assumed office on January 13, 2025.
+
+To serve as governor, a person must be at least 30 years old, and must have been a citizen of West Virginia for at least five years at the time of inauguration.<ref name="wvc7-1">WV Constitution article VII, § 1.</ref> Under the current [[Constitution of West Virginia]], ratified in 1872, the governor serves a four-year term commencing on the Monday after the second Wednesday in January, following an election.<ref name="wvc7-1" /> The original constitution of 1863 only called for a two-year term.<ref>WV 1863 Constitution article V, § 1.</ref> Since 1968, a governor may be reelected any number of times, but not more than twice in a row.<ref name="wvc7-4">WV Constitution, Article VII, section 4.</ref> Any partial term served counts toward the limit of two consecutive terms.<ref name=wvc7-4/>
+
+The constitution makes no mention of a [[Lieutenant governor (United States)|lieutenant governor]]; if the governorship becomes vacant, the [[West Virginia Senate#Senate President|senate president]] stands first in the line of succession. If more than one year remains in the governor's term at the time of vacancy, a new election is held for the balance of the term. If less than a year remains, the senate president acts as governor for the remainder of the term.<ref name="const 7-16">WV Constitution article VII, § 16.</ref> A bill passed in 2000 grants the senate president the honorary title of lieutenant governor,<ref name="legis.state.wv.us">{{Cite web |title=H.B. 4781 (Enrolled March 11, 2009) |url=http://www.legis.state.wv.us/Bill_Text_HTML/2000_SESSIONS/RS/Bills/hb4781%20enr.htm |access-date=August 16, 2009 |publisher=West Virginia Legislature, 2000 Sessions}}</ref> but this title is rarely used in practice and the terms of the senate president do not correspond with governorships. The same bill states that the line of succession after the senate president will be the speaker of the [[West Virginia House of Delegates|House of Delegates]], followed by the state attorney general, the state auditor and former governors, in inverse order of term, that are in residence in the state at the time of the vacancy.<ref name="legis.state.wv.us" />
+
+==Qualifications==
+Anyone who seeks to be elected Governor of West Virginia  must meet the following qualifications:<ref>{{Cite web |title=Governor of West Virginia |url=https://ballotpedia.org/Governor_of_West_Virginia}}</ref>
+*Be a citizen of the United States
+*Be a resident of West Virginia for at least five years preceding the election
+*Be a duly qualified elector of West Virginia
+*Be at least 30 years old
+
+==Governors==
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of West Virginia
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|1
+|rowspan="3" data-sort-value="Boreman, Arthur"|[[File:Arthur I. Boreman - Brady-Handy (cropped).jpg|75px]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|rowspan="3"|'''[[Arthur I. Boreman]]'''<br>{{Small|(1823–1896)}}<br>{{sfn|Sobel|1978|pp=1691–1692}}<ref name="nga-boreman">{{Cite web |date=November 15, 2015 |title=Arthur Ingraham Boreman |url=https://www.nga.org/governor/arthur-ingraham-boreman/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2079"|June 20, 1863<ref>{{Cite news |date=1863-06-22 |title=none |page=1 |work=Alexandria Gazette |url=https://www.newspapers.com/article/alexandria-gazette-boreman-inaugurated-j/128619275/ |access-date=2023-07-21 | quote=Hon. A. J. Boreman was on Saturday inaugurated as the first Governor of West Virginia.}}</ref><br/>&ndash;<br/>February 26, 1869<br>{{small|(2079 days; resigned)}}{{efn|Boreman resigned, having been [[1868–69 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1691–1692}}}}
+|rowspan="3"|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1863 West Virginia gubernatorial election|1863]]
+|- style="height:2em;"
+|[[1864 West Virginia gubernatorial election|1864]]
+|- style="height:2em;"
+|[[1866 West Virginia gubernatorial election|1866]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Farnsworth, Daniel"|[[File:Daniel D.T. Farnsworth.png|75px]]
+|'''[[Daniel D. T. Farnsworth]]'''<br>{{Small|(1819–1892)}}<br>{{sfn|Sobel|1978|p=1692}}<ref name="nga-farnsworth">{{Cite web |date=November 15, 2015 |title=Daniel Duane Tompkins Farnsworth |url=https://www.nga.org/governor/daniel-duane-tompkins-farnsworth/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="7"|February 26, 1869<ref>{{Cite news |date=1869-02-27 |title=Sworn In |page=4 |work=The Wheeling Daily Intelligencer |url=https://www.newspapers.com/article/the-wheeling-daily-intelligencer-darnswo/128619353/ |access-date=2023-07-21}}</ref><br/>&ndash;<br/>March 4, 1869<br>{{small|(7 days; retired)}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|style="background:#EEEEEE;"|{{small|President of<br />the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Stevenson, William"|[[File:William E. Stevenson, unknown date (cropped).jpg|75px]]
+|'''[[William E. Stevenson]]'''<br>{{Small|(1820–1883)}}<br>{{sfn|Sobel|1978|pp=1692–1693}}<ref name="nga-stevenson">{{Cite web |date=November 15, 2015 |title=William Erskine Stevenson |url=https://www.nga.org/governor/william-erskine-stevenson/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|March 4, 1869<ref>{{Cite news |date=1869-03-05 |title=Inauguration of State Officers |page=3 |work=The Wheeling Daily Register |url=https://www.newspapers.com/article/the-wheeling-daily-register-stevenson-in/128619622/ |access-date=2023-07-21}}</ref><br/>&ndash;<br/>March 4, 1871<br>{{small|(731 days; lost election)}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1868 West Virginia gubernatorial election|1868]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Jacob, John"|[[File:Governor J. J. Jacob.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John J. Jacob (West Virginia politician)|John J. Jacob]]'''<br>{{Small|(1829–1893)}}<br>{{sfn|Sobel|1978|pp=1693–1694}}<ref name="nga-jacob">{{Cite web |date=November 15, 2015 |title=John Jeremiah Jacob |url=https://www.nga.org/governor/john-jeremiah-jacob/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2193"|March 4, 1871<ref>{{Cite news |date=1871-03-06 |title=Inauguration of Governor Jacob |page=1 |work=The Wheeling Daily Register |url=https://www.newspapers.com/article/the-wheeling-daily-register-jacob-inaugu/128619714/ |access-date=2023-07-21}}</ref><br/>&ndash;<br/>March 4, 1877<br>{{small|(2193 days; term-limited)}}{{efn|Under the 1872 constitution, governors were ineligible for four years after the end of their term.<ref>{{Cite web |title=1872 W.Va. Const. art. VII, § 4 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27WV%27&CID=230&art=7&sec=4&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Glashan|1979|p=334}}
+|[[1870 West Virginia gubernatorial election|1870]]
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Independent Republican (United States)}};" title="Represented the People's Independent Party"|
+|[[Independent Republican (United States)|People's<br>Independent]]{{sfn|Glashan|1979|p=334}}
+|[[1872 West Virginia gubernatorial election|1872]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Mathews, Henry"|[[File:Henry M. Mathews - Brady-Handy.jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Henry M. Mathews]]'''<br>{{Small|(1834–1884)}}<br>{{sfn|Sobel|1978|p=1694}}<ref name="nga-mathews">{{Cite web |date=November 15, 2015 |title=Henry Mason Mathews |url=https://www.nga.org/governor/henry-mason-mathews/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1877{{efn|The constitutional start date of the gubernatorial term was March 4, with no requirement for an oath; Mathews was not sworn in until March 5, presumably because March 4 was a Sunday.<ref>{{Cite news |date=1877-03-06 |title=Gubernatorial |page=4 |work=The Wheeling Daily Register |url=https://www.newspapers.com/article/the-wheeling-daily-register-mathews-swor/128619975/ |access-date=2023-07-21}}</ref>}}<br/>&ndash;<br/>March 4, 1881<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1876 West Virginia gubernatorial election|1876]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Jackson, Jacob"|[[File:Jacob Beeson Jackson.gif|75px]]
+|'''[[Jacob B. Jackson]]'''<br>{{Small|(1829–1893)}}<br>{{sfn|Sobel|1978|p=1695}}<ref name="nga-jackson">{{Cite web |date=November 15, 2015 |title=Jacob Beeson Jackson |url=https://www.nga.org/governor/jacob-beeson-jackson/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1881<ref>{{Cite news |date=1881-03-05 |title=The New Regime |page=4 |work=The Daily Register |url=https://www.newspapers.com/article/the-daily-register-jackson-inaugurated-m/128632902/ |access-date=2023-07-21}}</ref><br/>&ndash;<br/>March 4, 1885<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1880 West Virginia gubernatorial election|1880]]
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Wilson, Emanuel"|[[File:GovernorWilson.gif|75px]]
+|'''[[Emanuel Willis Wilson]]'''<br>{{Small|(1844–1905)}}<br>{{sfn|Sobel|1978|pp=1695–1696}}<ref name="nga-wilson">{{Cite web |date=November 15, 2015 |title=Emanuel Willis Wilson |url=https://www.nga.org/governor/emanuel-willis-wilson/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1801"|March 4, 1885<ref>{{Cite news |date=1885-03-05 |title=The New Governor |page=4 |work=The Daily Register |url=https://www.newspapers.com/article/the-daily-register-wilson-inaugurated-ma/128634029/ |access-date=2023-07-21}}</ref><br/>&ndash;<br/>February 6, 1890<br>{{small|(1801 days; term-limited)}}{{efn|The 1888 election was disputed, and though term-limited,{{efn|name=limits-1872}} Wilson remained as governor until the investigation was complete.{{sfn|Sobel|1978|pp=1695–1696}}}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1884 West Virginia gubernatorial election|1884]]
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Fleming, Aretas"|[[File:ABFleming.gif|75px]]
+|'''[[Aretas B. Fleming]]'''<br>{{Small|(1839–1923)}}<br>{{sfn|Sobel|1978|pp=1696–1697}}<ref name="nga-fleming">{{Cite web |date=November 15, 2015 |title=Aretas Brooks Fleming |url=https://www.nga.org/governor/aretas-brooks-fleming/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1123"|February 6, 1890<ref>{{Cite news |date=1890-02-07 |title=Inaugurated |page=1 |work=The Daily Register |url=https://www.newspapers.com/article/the-daily-register-fleming-inaugurated-f/128634279/ |access-date=2023-07-21}}</ref><br/>&ndash;<br/>March 4, 1893<br>{{small|(1123 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1888 West Virginia gubernatorial election|1888]]
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="MacCorkle, William"|[[File:GovernorMaccorkle.gif|75px]]
+|'''[[William A. MacCorkle]]'''<br>{{Small|(1857–1930)}}<br>{{sfn|Sobel|1978|p=1697}}<ref name="nga-maccorkle">{{Cite web |date=November 15, 2015 |title=William Alexander MacCorkle |url=https://www.nga.org/governor/william-alexander-maccorkle/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1893<ref>{{Cite news |date=1893-03-05 |title=Governor M'Corkle |page=5 |work=Wheeling Sunday Register |url=https://www.newspapers.com/article/wheeling-sunday-register-maccorkle-inaug/128635407/ |access-date=2023-07-21}}</ref><br/>&ndash;<br/>March 4, 1897<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1892 West Virginia gubernatorial election|1892]]
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Atkinson, George"|[[File:George W. Atkinson.gif|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[George W. Atkinson]]'''<br>{{Small|(1845–1925)}}<br>{{sfn|Sobel|1978|pp=1697–1698}}<ref name="nga-atkinson">{{Cite web |date=November 15, 2015 |title=George Wesley Atkinson |url=https://www.nga.org/governor/george-wesley-atkinson/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1461"|March 4, 1897<ref>{{Cite news |date=1897-03-05 |title=There Are Others |page=1 |work=The Wheeling Daily Intelligencer |url=https://www.newspapers.com/article/the-wheeling-daily-intelligencer-atkinso/128651790/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1901<br>{{small|(1461 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1896 West Virginia gubernatorial election|1896]]
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="White, Albert"|[[File:Albert Blakeslee White wmm.jpg|75px]]
+|'''[[Albert B. White]]'''<br>{{Small|(1856–1941)}}<br>{{sfn|Sobel|1978|pp=1698–1699}}<ref name="nga-white">{{Cite web |date=November 15, 2015 |title=Albert Blakeslee White |url=https://www.nga.org/governor/albert-blakeslee-white/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1901<ref>{{Cite news |date=1901-03-09 |title=Inauguration of Gov. A. B. White |page=2 |work=Martinsburg Herald |url=https://www.newspapers.com/article/martinsburg-herald-white-inaugurated-mar/128651904/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1905<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1900 West Virginia gubernatorial election|1900]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Dawson, William"|[[File:William Dawson.gif|75px]]
+|'''[[William M. O. Dawson]]'''<br>{{Small|(1853–1916)}}<br>{{sfn|Sobel|1978|pp=1699–1700}}<ref name="nga-dawson">{{Cite web |date=November 15, 2015 |title=William M.O. Dawson |url=https://www.nga.org/governor/william-m-o-dawson/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1905<ref>{{Cite news |date=1905-03-04 |title=Governor Dawson |page=1 |work=The Fairmont West Virginian |url=https://www.newspapers.com/article/the-fairmont-west-virginian-dawson-inaug/128652095/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1909<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1904 West Virginia gubernatorial election|1904]]
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Glasscock, William"|[[File:GovernorGlasscock.gif|75px]]
+|'''[[William E. Glasscock]]'''<br>{{Small|(1862–1925)}}<br>{{sfn|Sobel|1978|p=1700}}<ref name="nga-glasscock">{{Cite web |date=November 15, 2015 |title=William E. Glasscock |url=https://www.nga.org/governor/william-e-glasscock/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1909<ref>{{Cite news |date=1909-03-04 |title=State's New Governor |page=4 |work=The Daily Telegram |url=https://www.newspapers.com/article/the-daily-telegram-glasscock-inaugurated/128652128/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1913<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1908 West Virginia gubernatorial election|1908]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Hatfield, Henry"|[[File:Henry Hatfield.jpg|75px]]
+|'''[[Henry D. Hatfield]]'''<br>{{Small|(1875–1962)}}<br>{{sfn|Sobel|1978|pp=1701–1702}}<ref name="nga-hatfield">{{Cite web |date=November 15, 2015 |title=Henry Drury Hatfield |url=https://www.nga.org/governor/henry-drury-hatfield/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1913<ref>{{Cite news |date=1913-03-04 |title=Hon. Henry D. Hatfield Is Inaugurated Governor |page=1 |work=The Fairmont West Virginian |agency=Associated Press |url=https://www.newspapers.com/article/the-fairmont-west-virginian-hatfield-ina/128652209/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1917<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1912 West Virginia gubernatorial election|1912]]
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Cornwell, John"|[[File:John J. Cornwell.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John J. Cornwell]]'''<br>{{Small|(1867–1953)}}<br>{{sfn|Sobel|1978|pp=1702–1703}}<ref name="nga-cornwell">{{Cite web |date=November 15, 2015 |title=John Jacob Cornwell |url=https://www.nga.org/governor/john-jacob-cornwell/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1917<ref>{{Cite news |date=1917-03-05 |title=Cornwell Takes Oath on Sunday |page=7 |work=The Birmingham News |agency=Associated Press |url=https://www.newspapers.com/article/the-birmingham-news-cornwell-inaugurated/128652369/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1921<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1916 West Virginia gubernatorial election|1916]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Morgan, Ephraim"|[[File:Ephraim F. Morgan.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Ephraim F. Morgan]]'''<br>{{Small|(1869–1950)}}<br>{{sfn|Sobel|1978|p=1703}}<ref name="nga-morgan">{{Cite web |date=November 15, 2015 |title=Ephraim Franklin Morgan |url=https://www.nga.org/governor/__trashed-3/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1921<ref>{{Cite news |date=1921-03-11 |title=Judge Morgan Inaugurated |page=1 |work=Greenbrier Independent |url=https://www.newspapers.com/article/greenbrier-independent-morgan-inaugurate/128652408/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1925<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1920 West Virginia gubernatorial election|1920]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Gore, Howard"|[[File:Howard Mason Gore.jpg|75px]]
+|'''[[Howard Mason Gore]]'''<br>{{Small|(1877–1947)}}<br>{{sfn|Sobel|1978|p=1704}}<ref name="nga-gore">{{Cite web |date=November 15, 2015 |title=Howard M. Gore |url=https://www.nga.org/governor/a-p-lutali-2/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1925<ref>{{Cite news |date=1925-03-04 |title=Gore Inaugurated as Governor of West Va. |page=1 |work=The Plain Speaker |agency=United Press |url=https://www.newspapers.com/article/the-plain-speaker-gore-inaugurated-march/128652577/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1929<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1924 West Virginia gubernatorial election|1924]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Conley, William"|[[File:WilliamGConley (cropped).jpg|75px]]
+|'''[[William G. Conley]]'''<br>{{Small|(1866–1940)}}<br>{{sfn|Sobel|1978|p=1705}}<ref name="nga-conley">{{Cite web |date=November 15, 2015 |title=William Gustavus Conley |url=https://www.nga.org/governor/william-gustavus-conley/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|March 4, 1929<ref>{{Cite news |date=1929-03-04 |title=New Governor Seeks Co-operation; Favors Lessening Tax Burdens |page=1 |work=Hinton Daily News |agency=Associated Press |url=https://www.newspapers.com/article/hinton-daily-news-conley-inaugurated-mar/128652616/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>March 4, 1933<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1928 West Virginia gubernatorial election|1928]]
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Kump, Herman"|[[File:H. Guy Kump (West Virginia Governor).jpg|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Herman G. Kump]]'''<br>{{Small|(1877–1962)}}<br>{{sfn|Sobel|1978|p=1706}}<ref name="nga-kump">{{Cite web |date=November 15, 2015 |title=Herman Guy Kump |url=https://www.nga.org/governor/herman-guy-kump/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1417"|March 4, 1933<ref>{{Cite news |date=1933-03-04 |title=Relief Plan Outlines As Kump Takes Office |page=1 |work=The Charleston Daily Mail |url=https://www.newspapers.com/article/the-charleston-daily-mail-kump-inaugurat/128652662/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 18, 1937<br>{{small|(1417 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1932 West Virginia gubernatorial election|1932]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Holt, Homer"|[[File:Homer A. Holt.jpg|75px]]
+|'''[[Homer A. Holt]]'''<br>{{Small|(1898–1975)}}<br>{{sfn|Sobel|1978|pp=1706–1707}}<ref name="nga-holt">{{Cite web |date=November 15, 2015 |title=Homer Adams Holt |url=https://www.nga.org/governor/homer-adams-holt/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 18, 1937<ref>{{Cite news |date=1937-01-18 |title=Crowds Jam the Capitol |page=1 |work=The Charleston Daily Mail |url=https://www.newspapers.com/article/the-charleston-daily-mail-holt-inaugurat/128652743/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 13, 1941<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1936 West Virginia gubernatorial election|1936]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Neely, Matthew"|[[File:Matthewneely.jpg|75px]]
+|'''[[Matthew M. Neely]]'''<br>{{Small|(1874–1958)}}<br>{{sfn|Sobel|1978|pp=1707–1708}}<ref name="nga-neely">{{Cite web |date=November 15, 2015 |title=Matthew Mansfield Neely |url=https://www.nga.org/governor/matthew-mansfield-neely/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 13, 1941<ref>{{Cite news |date=1941-01-15 |title=Thousands Witness Inauguration Celebration |page=1 |work=The Independent-Herald |url=https://www.newspapers.com/article/the-independent-herald-neely-inaugurated/128652816/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 15, 1945<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1940 West Virginia gubernatorial election|1940]]
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Meadows, Clarence"|[[File:Clarence W. Meadows.jpg|75px]]
+|'''[[Clarence W. Meadows]]'''<br>{{Small|(1904–1961)}}<br>{{sfn|Sobel|1978|pp=1708–1709}}<ref name="nga-meadows">{{Cite web |date=November 15, 2015 |title=Clarence W. Meadows |url=https://www.nga.org/governor/clarence-w-meadows/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1945<ref>{{Cite news |date=1945-01-15 |title=New Governor Inaugurated at Ceremony |page=1 |work=Hinton Daily News |agency=United Press |url=https://www.newspapers.com/article/hinton-daily-news-meadows-inaugurated-ja/128652891/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 17, 1949<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1944 West Virginia gubernatorial election|1944]]
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Patteson, Okey"|[[File:Okey Patteson (cropped).jpg|75px]]
+|'''[[Okey Patteson]]'''<br>{{Small|(1898–1989)}}<br>{{sfn|Sobel|1978|p=1709}}<ref name="nga-patteson">{{Cite web |date=November 15, 2015 |title=Okey Leonidas Patteson |url=https://www.nga.org/governor/okey-leonidas-patteson/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 17, 1949<ref>{{Cite news |date=1949-01-17 |title=Patteson Is Installed As New Governor |page=1 |work=Hinton Daily News |agency=United Press |url=https://www.newspapers.com/article/hinton-daily-news-patteson-inaugurated-j/128652961/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 19, 1953<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1948 West Virginia gubernatorial election|1948]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Marland, William"|[[File:William C. Marland.jpg|75px]]
+|'''[[William C. Marland]]'''<br>{{Small|(1918–1965)}}<br>{{sfn|Sobel|1978|p=1710}}<ref name="nga-marland">{{Cite web |date=November 15, 2015 |title=William Casey Marland |url=https://www.nga.org/governor/william-casey-marland/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 19, 1953<ref>{{Cite news |date=1953-01-19 |title=William C. Marland Sworn In As State's 24th Governor |page=1 |work=Hinton Daily News |agency=United Press |url=https://www.newspapers.com/article/hinton-daily-news-marland-sworn-in-janua/128653027/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 14, 1957<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1952 West Virginia gubernatorial election|1952]]
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Underwood, Cecil"|[[File:Cecil Underwood.jpg| 75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Cecil H. Underwood]]'''<br>{{Small|(1922–2008)}}<br>{{sfn|Sobel|1978|pp=1710–1711}}<ref name="nga-underwood">{{Cite web |date=November 15, 2015 |title=Cecil H. Underwood |url=https://www.nga.org/governor/cecil-h-underwood/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 14, 1957<ref>{{Cite news |date=1957-01-14 |title=Inauguration Held Outdoors Despite Weather |page=1 |work=The Weirton Daily Times |agency=United Press |url=https://www.newspapers.com/article/the-weirton-daily-times-underwood-inaugu/128654094/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 16, 1961<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1956 West Virginia gubernatorial election|1956]]
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Barron, Wally"|[[File:William Wallace Barron.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Wally Barron]]'''<br>{{Small|(1911–2002)}}<br>{{sfn|Sobel|1978|pp=1711–1712}}<ref name="nga-barron">{{Cite web |date=November 15, 2015 |title=William W. Barron |url=https://www.nga.org/governor/william-w-barron/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 16, 1961<ref>{{Cite news |date=1961-01-16 |title=Barron Becomes Governor, Signs BIll Increasing Tax |page=1 |work=Hinton Daily News |agency=United Press International |url=https://www.newspapers.com/article/hinton-daily-news-barron-inaugurated-jan/128654113/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 18, 1965<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1960 West Virginia gubernatorial election|1960]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Smith, Hulett"|[[File:Hulett C. Smith.jpg|75px]]
+|'''[[Hulett C. Smith]]'''<br>{{Small|(1918–2012)}}<br>{{sfn|Sobel|1978|pp=1712–1713}}<ref name="nga-smith">{{Cite web |date=November 15, 2015 |title=Hulett Carlson Smith |url=https://www.nga.org/governor/hulett-carlson-smith/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 18, 1965<ref>{{Cite news |last=McKinney |first=John |date=1965-01-19 |title=Smith Promises 'High Standard' |page=1 |work=Beckley Post-Herald |url=https://www.newspapers.com/article/beckley-post-herald-smith-inaugurated-ja/128654351/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 13, 1969<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1872}}
+|[[West Virginia Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1964 West Virginia gubernatorial election|1964]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Moore, Arch"|[[File:Arch Moore 1976.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Arch A. Moore Jr.]]'''<br>{{Small|(1923–2015)}}<br>{{sfn|Sobel|1978|p=1713}}<ref name="nga-moore">{{Cite web |date=November 15, 2015 |title=Arch A. Moore |url=https://www.nga.org/governor/arch-a-moore/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 13, 1969<ref>{{Cite news |last=Mellace |first=Bob |date=1969-01-13 |title=Good, Able State Rule Moore's Inaugural Aim |language=en-us |page=1 |work=The Charleston Daily Mail |url=https://www.newspapers.com/article/the-charleston-daily-mail-moore-inaugura/128654432/ |access-date=2023-10-03}}</ref><br/>&ndash;<br/>January 17, 1977<br>{{small|(2927 days; term-limited)}}{{efn|Under a 1970 amendment to the constitution, governors who have served two consecutive terms are ineligible for the next term.<ref>{{Cite web |title=W.Va. Const. art. VII, § 4 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27WV%27&CID=230&art=7&sec=4&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1970}}
+|rowspan="2"|[[West Virginia Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=629–630}}
+|[[1968 West Virginia gubernatorial election|1968]]
+|- style="height:2em;"
+|[[1972 West Virginia gubernatorial election|1972]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Rockefeller, Jay"|[[File:Jay Rockefeller 1977 crop.png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jay Rockefeller]]'''<br>{{small|({{Abbr|b.|born in}} 1937)}}<br>{{sfn|Sobel|1978|p=1714}}<ref name="nga-rockefeller">{{Cite web |date=November 15, 2015 |title=John Davison Rockefeller |url=https://www.nga.org/governor/john-davison-rockefeller/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 17, 1977<ref>{{Cite news |date=1977-01-17 |title=Rockefeller Sworn In As 29th W. VA. Governor |language=en-us |page=1 |work=The Raleigh Register |agency=United Press International |url=https://www.newspapers.com/article/the-raleigh-register-rockefeller-inaugur/128654473/ |access-date=2023-10-03}}</ref><br/>&ndash;<br/>January 14, 1985<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1970}}
+|rowspan="2"|[[West Virginia Democratic Party|Democratic]]<ref name="nga-rockefeller" />
+|[[1976 West Virginia gubernatorial election|1976]]
+|- style="height:2em;"
+|[[1980 West Virginia gubernatorial election|1980]]
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Moore, Arch"|[[File:Arch Moore.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Arch A. Moore Jr.]]'''<br>{{Small|(1923–2015)}}<br>{{sfn|Sobel|1978|p=1713}}<ref name="nga-moore" />
+|data-sort-value="1464"|January 14, 1985<ref>{{Cite news |last=LeVine |first=Steve |date=1985-01-14 |title=Moore Vows Strong W. Virginia Economy |page=4 |work=The Indianapolis News |agency=Associated Press |url=https://www.newspapers.com/article/the-indianapolis-news-moore-inaugurated/128654521/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 16, 1989<br>{{small|(1464 days; lost election)}}
+|[[West Virginia Republican Party|Republican]]<ref name="nga-moore" />
+|[[1984 West Virginia gubernatorial election|1984]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Caperton, Gaston"|[[File:Gaston Caperton crop.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Gaston Caperton]]'''<br>{{small|({{Abbr|b.|born in}} 1940)}}<br><ref name="nga-caperton">{{Cite web |date=November 15, 2015 |title=Gaston Caperton |url=https://www.nga.org/governor/gaston-caperton/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 16, 1989<ref>{{Cite news |date=1989-01-17 |title=West Virginia Governor Sworn In |page=2 |work=Tulsa World |agency=Associated Press |url=https://www.newspapers.com/article/tulsa-world-caperton-inaugurated-january/128654548/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 13, 1997<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1970}}
+|rowspan="2"|[[West Virginia Democratic Party|Democratic]]<ref name="nga-caperton" />
+|[[1988 West Virginia gubernatorial election|1988]]
+|- style="height:2em;"
+|[[1992 West Virginia gubernatorial election|1992]]
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Underwood, Cecil"|[[File:Cecil Underwood 1998 (cropped).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Cecil H. Underwood]]'''<br>{{Small|(1922–2008)}}<br>{{sfn|Sobel|1978|pp=1710–1711}}<ref name="nga-underwood" />
+|data-sort-value="1464"|January 13, 1997<ref>{{Cite news |date=1997-01-14 |title=Once Youngest Governor, He's Now Oldest |page=5 |work=Tulsa World |agency=Associated Press |url=https://www.newspapers.com/article/tulsa-world-underwood-inaugurated-januar/128654566/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 15, 2001<br>{{small|(1464 days; lost election)}}
+|[[West Virginia Republican Party|Republican]]<ref name="nga-underwood" />
+|[[1996 West Virginia gubernatorial election|1996]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Wise, Bob"|[[File:Bob Wise.jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Bob Wise]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-wise">{{Cite web |date=November 15, 2015 |title=Bob Wise |url=https://www.nga.org/governor/bob-wise/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 2001<ref>{{Cite news |last=Yost |first=Pete |date=2001-01-27 |title=Democrat Blasts Clinton Over Pardon |page=8 |work=The Buffalo News |agency=Associated Press |url=https://www.newspapers.com/article/the-buffalo-news-wise-inaugurated-januar/128654738/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 17, 2005<br>{{small|(1464 days; retired)}}
+|[[West Virginia Democratic Party|Democratic]]<ref name="nga-wise" />
+|[[2000 West Virginia gubernatorial election|2000]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="Manchin, Joe"|[[File:Joe Manchin, Official Senate Portrait.jpg|75px]]
+|rowspan="2"|'''[[Joe Manchin]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-manchin">{{Cite web |date=November 15, 2015 |title=Joe Manchin III |url=https://www.nga.org/governor/joe-manchin-iii-2/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2129"|January 17, 2005<ref>{{Cite news |date=2005-01-19 |title=none |page=2 |work=Portland Press Herald |agency=Associated Press |url=https://www.newspapers.com/article/portland-press-herald-manchin-inaugurate/128654778/ |access-date=2023-07-22 | quote=Chief Justice Joseph Albright, left, swears in West Virginia Gov. Joe Manchin on Monday in Charleston.}}</ref><br/>&ndash;<br/>November 15, 2010<br>{{small|(2129 days; resigned)}}{{efn|Manchin resigned, having been [[2010 United States Senate special election in West Virginia|elected]] to the [[United States Senate]].<ref name="nga-manchin" />}}
+|rowspan="2"|[[West Virginia Democratic Party|Democratic]]<ref name="nga-manchin" />
+|[[2004 West Virginia gubernatorial election|2004]]
+|- style="height:2em;"
+|[[2008 West Virginia gubernatorial election|2008]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Tomblin, Earl"|[[File:Earl Ray Tomblin 2 (cropped).jpg|75px]]
+|rowspan="3"|'''[[Earl Ray Tomblin]]'''<br>{{small|({{Abbr|b.|born in}} 1952)}}<br><ref name="nga-tomblin">{{Cite web |date=November 15, 2015 |title=Earl Ray Tomblin |url=https://www.nga.org/governor/earl-ray-tomblin/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2255"|November 15, 2010<ref>{{Cite news |date=2010-11-16 |title=Tomblin Takes Oath as W. Va. Governor |page=A7 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-tomblin-succeeds/128654799/ |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 16, 2017<br>{{small|(2255 days; term-limited)}}{{efn|name=limits-1970}}
+|rowspan="3"|[[West Virginia Democratic Party|Democratic]]<ref name="nga-tomblin" />
+|style="background:#EEEEEE;"|{{small|President of<br />the Senate<br>acting}}
+|- style="height:2em;"
+|[[2011 West Virginia gubernatorial special election|2011]]<br>{{small|(special)}}
+|- style="height:2em;"
+|[[2012 West Virginia gubernatorial election|2012]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|36
+|rowspan="2" data-sort-value="Justice, Jim"|[[File:Jim Justice West Virginia Chamber Business Summit 2024.jpg|75px]]
+|rowspan="2"|'''[[Jim Justice]]'''<br>{{small|({{Abbr|b.|born in}} 1951)}}<br><ref name="nga-justice">{{Cite web |title=Jim Justice |date=January 18, 2021 |url=https://www.nga.org/governor/jim-justice/ |access-date=July 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 16, 2017<ref>{{Cite news |date=2017-01-16 |title=Jim Justice sworn into office as WV's governor |language=en |work=WTAP |agency=Associated Press |url=https://www.wtap.com/content/news/Jim-Justice-sworn-in-as-WVs-governor-410825625.html |access-date=2023-07-22}}</ref><br/>&ndash;<br/>January 13, 2025<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1970}}
+|[[West Virginia Democratic Party|Democratic]]{{efn|Justice switched to the Republican Party in August 2017.<ref>{{Cite news |last1=Shear |first1=Michael D. |last2=Martin |first2=Jonathan |date=2017-08-03 |title=In West Virginia, Trump Hails Conservatism and a New G.O.P. Governor |language=en-US |work=The New York Times |url=https://www.nytimes.com/2017/08/03/us/politics/west-virginia-governor-to-switch-from-democrat-to-republican-trump.html |access-date=2023-07-21 |issn=0362-4331}}</ref>}}
+|[[2016 West Virginia gubernatorial election|2016]]
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|[[West Virginia Republican Party|Republican]]<ref name="nga-justice" />
+|[[2020 West Virginia gubernatorial election|2020]]
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Morrisey, Patrick"|[[File:Patrick Morrisey 2026 (cropped).jpg|75px]]
+|'''[[Patrick Morrisey]]'''<br>{{small|({{Abbr|b.|born in}} 1967)}}<br><ref name="nga-morrisey">{{Cite web |title=Patrick Morrisey |url=https://www.nga.org/governor/patrick-morrisey/ |access-date=January 23, 2025 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2025|1|13|duration=on|format=no}}"|January 13, 2025<ref>{{Cite news |last1=Taylor |first1=Isaac |last2=Patterson |first2=Jessica |date=2025-01-13 |title=West Virginia's new governor Patrick Morrisey sworn into office |url=https://www.wowktv.com/news/west-virginia/west-virginia-politics/watch-live-west-virginia-governor-elect-patrick-morriseys-swearing-in-ceremony/ |access-date=2025-01-23 |work=WOWK-TV |language=en-US}}</ref><br/>&ndash;<br/>Incumbent{{efn|Morrisey's term [[2028 West Virginia gubernatorial election|will expire]] on January 15, 2029.}}<br>{{small|(in office {{Duration in days nts|2025|1|13|duration=on|format=no}} days)}}
+|[[West Virginia Republican Party|Republican]]<ref name="nga-morrisey" />
+|[[2024 West Virginia gubernatorial election|2024]]
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of West Virginia governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1862.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1870
+ScaleMinor = unit:year increment:1 start:1863
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year    value:rgb(0.8, 0.8, 0.8)
+  id:0year    value:rgb(0.6, 0.6, 0.6)
+  id:rep      value:rgb(0.91, 0.11, 0.14)
+  id:dem      value:rgb(0.2, 0.2, 1)
+  id:indrep   value:rgb(0.8, 0.4, 0.4)
+  id:seat1    value:rgb(0.60, 0.10, 0.10)
+  id:blank    value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1878 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1863.47 till:1869.16 color:rep text:"Arthur I. Boreman"
+ from:1869.16 till:1869.17 color:rep text:"Daniel D. T. Farnsworth"
+ from:1869.17 till:1871.17 color:rep text:"William E. Stevenson"
+ from:1872 till:1877.17 color:indrep text:"John J. Jacob"
+ from:1877.17 till:1881.17 color:dem text:"Henry M. Mathews"
+ from:1881.17 till:1885.17 color:dem text:"Jacob B. Jackson"
+ from:1885.17 till:1890.1 color:dem text:"Emanuel Willis Wilson"
+ from:1890.1 till:1893.17 color:dem text:"Aretas B. Fleming"
+ from:1893.17 till:1897.17 color:dem text:"William A. MacCorkle"
+ from:1897.17 till:1901.17 color:rep text:"George W. Atkinson"
+ from:1901.17 till:1905.17 color:rep text:"Albert B. White"
+ from:1905.17 till:1909.17 color:rep text:"William M. O. Dawson"
+ from:1909.17 till:1913.17 color:rep text:"William E. Glasscock"
+ from:1913.17 till:1917.17 color:rep text:"Henry D. Hatfield"
+ from:1917.17 till:1921.17 color:dem text:"John J. Cornwell"
+ from:1921.17 till:1925.17 color:rep text:"Ephraim F. Morgan"
+ from:1925.17 till:1929.17 color:rep text:"Howard Mason Gore"
+ from:1929.17 till:1933.17 color:rep text:"William G. Conley"
+ from:1933.17 till:1937.05 color:dem text:"Herman G. Kump"
+ from:1937.05 till:1941.04 color:dem text:"Homer A. Holt"
+ from:1941.04 till:1945.04 color:dem text:"Matthew M. Neely"
+ from:1945.04 till:1949.05 color:dem text:"Clarence W. Meadows"
+ from:1949.05 till:1953.05 color:dem text:"Okey Patteson"
+ from:1953.05 till:1957.04 color:dem text:"William C. Marland"
+ from:1997.04 till:2001.04 color:rep text:"Cecil H. Underwood"
+ from:1961.04 till:1965.05 color:dem text:"Wally Barron"
+ from:1965.05 till:1969.04 color:dem text:"Hulett C. Smith"
+ from:1985.04 till:1989.04 color:rep text:"Arch A. Moore Jr."
+ from:1977.05 till:1985.04 color:dem text:"Jay Rockefeller"
+ from:1989.04 till:1997.04 color:dem text:"Gaston Caperton"
+ from:2001.04 till:2005.05 color:dem text:"Bob Wise"
+ from:2005.05 till:2010.87 color:dem text:"Joe Manchin"
+ from:2010.87 till:2017.05 color:dem text:"Earl Ray Tomblin"
+ from:2017.59 till:2025.04 color:rep text:"Jim Justice"
+ from:2025.04 till:$now color:rep text:"Patrick Morrisey"
+
+LineData=
+ from:1871.17 till:1872 atpos:577 color:dem width:6 # JJJ dem
+ from:1957.04 till:1961.04 atpos:209 color:rep width:6 # CHU 1st term
+ from:1969.04 till:1977.05 atpos:157 color:rep width:6 # AAMJr. 1st term
+ from:2017.05 till:2017.59 atpos:52 color:dem width:6 # JJ dem
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+*{{section link|Gubernatorial lines of succession in the United States|West Virginia}}
+*[[List of West Virginia state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* Morgan, John G. ''West Virginia Governors 1863-1980'' (2nd ed. 1980)
+
+*{{Cite web |title=Former West Virginia Governors |url=https://www.nga.org/former-governors/west-virginia/ |access-date=July 20, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of West Virginia - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=294 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+==External links==
+{{commons category |Governors of West Virginia}}
+* [http://www.governor.wv.gov Office of the Governor of West Virginia]
+
+{{Governors of West Virginia}}
+{{West Virginia}}
+{{Lists of US Governors}}
+{{West Virginia statewide elected officials}}
+
+{{featured list}}
+
+{{DEFAULTSORT:West Virginia, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of West Virginia|Governors of West Virginia]]
+[[Category:Lists of West Virginia politicians|Governors of West Virginia, List of]]
+[[Category:West Virginia history-related lists|Governors]]

@@ -1,0 +1,946 @@
+[
+ {
+  "table": 0,
+  "num": "",
+  "name": "William Blount",
+  "range": [
+   "June 8, 1790",
+   "March 28, 1796"
+  ],
+  "party": "George Washington",
+  "title": null,
+  "acting": false,
+  "start": "1790-06-08",
+  "end": "1796-03-28",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "1",
+  "name": "John Sevier",
+  "range": [
+   "March 30, 1796",
+   "September 23, 1801"
+  ],
+  "party": "Democratic- Republican",
+  "title": "Represented the Democratic-Republican Party",
+  "acting": false,
+  "start": "1796-03-30",
+  "end": "1801-09-23",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "2",
+  "name": "Archibald Roane",
+  "range": [
+   "September 23, 1801",
+   "September 23, 1803"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1801-09-23",
+  "end": "1803-09-23",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''1''",
+  "name": "John Sevier",
+  "range": [
+   "September 23, 1803",
+   "September 20, 1809"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1803-09-23",
+  "end": "1809-09-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "3",
+  "name": "Willie Blount",
+  "range": [
+   "September 20, 1809",
+   "September 27, 1815"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1809-09-20",
+  "end": "1815-09-27",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "4",
+  "name": "Joseph McMinn",
+  "range": [
+   "September 27, 1815",
+   "October 1, 1821"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1815-09-27",
+  "end": "1821-10-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "5",
+  "name": "William Carroll",
+  "range": [
+   "October 1, 1821",
+   "October 1, 1827"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1821-10-01",
+  "end": "1827-10-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "6",
+  "name": "Sam Houston",
+  "range": [
+   "October 1, 1827",
+   "April 16, 1829"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1827-10-01",
+  "end": "1829-04-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "7",
+  "name": "William Hall",
+  "range": [
+   "April 16, 1829",
+   "October 1, 1829"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1829-04-16",
+  "end": "1829-10-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''5''",
+  "name": "William Carroll",
+  "range": [
+   "October 1, 1829",
+   "October 12, 1835"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1829-10-01",
+  "end": "1835-10-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "8",
+  "name": "Newton Cannon",
+  "range": [
+   "October 12, 1835",
+   "October 14, 1839"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": false,
+  "start": "1835-10-12",
+  "end": "1839-10-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "9",
+  "name": "James K. Polk",
+  "range": [
+   "October 14, 1839",
+   "October 14, 1841"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1839-10-14",
+  "end": "1841-10-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "10",
+  "name": "James C. Jones",
+  "range": [
+   "October 14, 1841",
+   "October 15, 1845"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": false,
+  "start": "1841-10-14",
+  "end": "1845-10-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "11",
+  "name": "Aaron V. Brown",
+  "range": [
+   "October 15, 1845",
+   "October 17, 1847"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1845-10-15",
+  "end": "1847-10-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "12",
+  "name": "Neill S. Brown",
+  "range": [
+   "October 17, 1847",
+   "October 16, 1849"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": false,
+  "start": "1847-10-17",
+  "end": "1849-10-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "13",
+  "name": "William Trousdale",
+  "range": [
+   "October 16, 1849",
+   "October 16, 1851"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1849-10-16",
+  "end": "1851-10-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "14",
+  "name": "William B. Campbell",
+  "range": [
+   "October 16, 1851",
+   "October 17, 1853"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": false,
+  "start": "1851-10-16",
+  "end": "1853-10-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "15",
+  "name": "Andrew Johnson",
+  "range": [
+   "October 17, 1853",
+   "November 3, 1857"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1853-10-17",
+  "end": "1857-11-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "16",
+  "name": "Isham G. Harris",
+  "range": [
+   "November 3, 1857",
+   "March 12, 1862"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1857-11-03",
+  "end": "1862-03-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''15''",
+  "name": "Andrew Johnson",
+  "range": [
+   "March 12, 1862",
+   "March 4, 1865"
+  ],
+  "party": null,
+  "title": "Military",
+  "acting": false,
+  "start": "1862-03-12",
+  "end": "1865-03-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "—",
+  "name": "Edward H. East",
+  "range": [
+   "March 4, 1865",
+   "April 5, 1865"
+  ],
+  "party": null,
+  "title": null,
+  "acting": true,
+  "start": "1865-03-04",
+  "end": "1865-04-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "17",
+  "name": "Parson Brownlow",
+  "range": [
+   "April 5, 1865",
+   "February 25, 1869"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1865-04-05",
+  "end": "1869-02-25",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "18",
+  "name": "Dewitt Clinton Senter",
+  "range": [
+   "February 25, 1869",
+   "October 10, 1871"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1869-02-25",
+  "end": "1871-10-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "19",
+  "name": "John C. Brown",
+  "range": [
+   "October 10, 1871",
+   "January 18, 1875"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1871-10-10",
+  "end": "1875-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "20",
+  "name": "James D. Porter",
+  "range": [
+   "January 18, 1875",
+   "February 16, 1879"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1875-01-18",
+  "end": "1879-02-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "scope\"row\"|21",
+  "name": "Albert S. Marks",
+  "range": [
+   "February 16, 1879",
+   "January 17, 1881"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1879-02-16",
+  "end": "1881-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "scope\"row\"|22",
+  "name": "Alvin Hawkins",
+  "range": [
+   "January 17, 1881",
+   "January 15, 1883"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1881-01-17",
+  "end": "1883-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "23",
+  "name": "William B. Bate",
+  "range": [
+   "January 15, 1883",
+   "January 17, 1887"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1883-01-15",
+  "end": "1887-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "24",
+  "name": "Robert Love Taylor",
+  "range": [
+   "January 17, 1887",
+   "January 19, 1891"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1887-01-17",
+  "end": "1891-01-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "scope\"row\"|25",
+  "name": "John P. Buchanan",
+  "range": [
+   "January 19, 1891",
+   "January 16, 1893"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1891-01-19",
+  "end": "1893-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "26",
+  "name": "Peter Turney",
+  "range": [
+   "January 16, 1893",
+   "January 21, 1897"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1893-01-16",
+  "end": "1897-01-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''24''",
+  "name": "Robert Love Taylor",
+  "range": [
+   "January 21, 1897",
+   "January 16, 1899"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1897-01-21",
+  "end": "1899-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "27",
+  "name": "Benton McMillin",
+  "range": [
+   "January 16, 1899",
+   "January 20, 1903"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1899-01-16",
+  "end": "1903-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "28",
+  "name": "James B. Frazier",
+  "range": [
+   "January 20, 1903",
+   "March 27, 1905"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1903-01-20",
+  "end": "1905-03-27",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "scope\"row\"|29",
+  "name": "John I. Cox",
+  "range": [
+   "March 27, 1905",
+   "January 17, 1907"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1905-03-27",
+  "end": "1907-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "30",
+  "name": "Malcolm R. Patterson",
+  "range": [
+   "January 17, 1907",
+   "January 25, 1911"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1907-01-17",
+  "end": "1911-01-25",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "31",
+  "name": "Ben W. Hooper",
+  "range": [
+   "January 25, 1911",
+   "January 15, 1915"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1911-01-25",
+  "end": "1915-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "32",
+  "name": "Thomas Clarke Rye",
+  "range": [
+   "January 15, 1915",
+   "January 15, 1919"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1915-01-15",
+  "end": "1919-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "33",
+  "name": "Albert H. Roberts",
+  "range": [
+   "January 15, 1919",
+   "January 15, 1921"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1919-01-15",
+  "end": "1921-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "34",
+  "name": "Alfred A. Taylor",
+  "range": [
+   "January 15, 1921",
+   "January 16, 1923"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1921-01-15",
+  "end": "1923-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "35",
+  "name": "Austin Peay",
+  "range": [
+   "January 16, 1923",
+   "October 2, 1927"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1923-01-16",
+  "end": "1927-10-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "36",
+  "name": "Henry Hollis Horton",
+  "range": [
+   "October 2, 1927",
+   "January 17, 1933"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1927-10-02",
+  "end": "1933-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "37",
+  "name": "Hill McAlister",
+  "range": [
+   "January 17, 1933",
+   "January 15, 1937"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1933-01-17",
+  "end": "1937-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "38",
+  "name": "Gordon Browning",
+  "range": [
+   "January 15, 1937",
+   "January 16, 1939"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1937-01-15",
+  "end": "1939-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "39",
+  "name": "Prentice Cooper",
+  "range": [
+   "January 16, 1939",
+   "January 16, 1945"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1939-01-16",
+  "end": "1945-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "40",
+  "name": "Jim Nance McCord",
+  "range": [
+   "January 16, 1945",
+   "January 17, 1949"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1945-01-16",
+  "end": "1949-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''38''",
+  "name": "Gordon Browning",
+  "range": [
+   "January 17, 1949",
+   "January 15, 1953"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1949-01-17",
+  "end": "1953-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "41",
+  "name": "Frank G. Clement",
+  "range": [
+   "January 15, 1953",
+   "January 19, 1959"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1953-01-15",
+  "end": "1959-01-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "42",
+  "name": "Buford Ellington",
+  "range": [
+   "January 19, 1959",
+   "January 15, 1963"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1959-01-19",
+  "end": "1963-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''41''",
+  "name": "Frank G. Clement",
+  "range": [
+   "January 15, 1963",
+   "January 16, 1967"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1963-01-15",
+  "end": "1967-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''42''",
+  "name": "Buford Ellington",
+  "range": [
+   "January 16, 1967",
+   "January 16, 1971"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1967-01-16",
+  "end": "1971-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "43",
+  "name": "Winfield Dunn",
+  "range": [
+   "January 16, 1971",
+   "January 18, 1975"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1971-01-16",
+  "end": "1975-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "44",
+  "name": "Ray Blanton",
+  "range": [
+   "January 18, 1975",
+   "January 17, 1979"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1975-01-18",
+  "end": "1979-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "45",
+  "name": "Lamar Alexander",
+  "range": [
+   "January 17, 1979",
+   "January 17, 1987"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1979-01-17",
+  "end": "1987-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "46",
+  "name": "Ned McWherter",
+  "range": [
+   "January 17, 1987",
+   "January 21, 1995"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1987-01-17",
+  "end": "1995-01-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "47",
+  "name": "Don Sundquist",
+  "range": [
+   "January 21, 1995",
+   "January 18, 2003"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1995-01-21",
+  "end": "2003-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "48",
+  "name": "Phil Bredesen",
+  "range": [
+   "January 18, 2003",
+   "January 15, 2011"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2003-01-18",
+  "end": "2011-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "49",
+  "name": "Bill Haslam",
+  "range": [
+   "January 15, 2011",
+   "January 19, 2019"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "2011-01-15",
+  "end": "2019-01-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "50",
+  "name": "Bill Lee",
+  "range": [
+   "January 19, 2019",
+   "Incumbent"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "2019-01-19",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ }
+]

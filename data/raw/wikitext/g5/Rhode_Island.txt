@@ -1,0 +1,1047 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox Political post
+| post = Governor
+| body = Rhode Island
+| flag = Flag of the Governor of Rhode Island.svg
+| flag_border = yes
+| flag_caption = Flag of the governor
+| insignia = Seal of the Governor of Rhode Island.svg
+| insignia_size = 110px
+| insignia_caption = Seal of the governor
+| image = Dan McKee Rose Garden October 2021.jpg
+| image_size = 200px
+| incumbent = [[Dan McKee]]
+| incumbent_since = March 2, 2021
+| style = {{ublist|[[Governor]]<br>(informal)|[[The Honourable#United States of America|The Honorable]]<br>(formal)}}
+| status = {{ublist|[[Head of state]]|[[Head of government]]}}
+| residence = <!-- EDITORS NOTE: Please leave blank. Thank you. -->
+| term_length = Four years, renewable once consecutively
+| formation = {{start date and age|1775|11|7|p=1|br=1}}
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Rhode_Island|Line of succession]]
+| deputy = [[List of lieutenant governors of Rhode Island|Lieutenant Governor of Rhode Island]]
+| inaugural = [[Nicholas Cooke]]
+| salary = $128,210 (2013)<ref>{{Cite web |date=June 25, 2013 |title=CSG Releases 2013 Governor Salaries |url=http://knowledgecenter.csg.org/kc/content/csg-releases-2013-governor-salaries |access-date=November 23, 2014 |publisher=The Council of State Governments}}</ref>
+| website = {{url|governor.ri.gov}}
+}}
+
+The '''governor of Rhode Island''' is the [[head of government]] of [[Rhode Island]] and serves as [[commander-in-chief]] of the [[U.S. state]]'s [[Rhode Island Army National Guard|Army National Guard]] and [[Rhode Island Air National Guard|Air National Guard]]. The current governor is [[Dan McKee]]. 
+
+==Governors==
+{{For|the period before independence|List of colonial governors of Rhode Island}}
+Rhode Island was one of the original [[Thirteen Colonies]] and was admitted as a state on May 29, 1790.<ref>{{Cite web |title=Ratification of the Constitution by the State of Rhode Island; May 29, 1790 |url=http://avalon.law.yale.edu/18th_century/ratri.asp |url-status=live |archive-url=https://web.archive.org/web/20151122110326/http://avalon.law.yale.edu/18th_century/ratri.asp |archive-date=November 22, 2015 |access-date=October 30, 2015 |publisher=The Avalon Project at Yale Law School}}</ref> Before it declared its independence, Rhode Island was a [[Colony of Rhode Island and Providence Plantations|colony]] of the [[Kingdom of Great Britain]]. 
+
+The state initially continued operating under the provisions of its [[Rhode Island Royal Charter|1663 charter]], which simply said that the governor and deputy-governor would be elected from time to time. The 1842 [[Constitution of Rhode Island|constitution]] formalized the terms for governor and lieutenant governor to be one year, beginning on the first Tuesday of May after the election.<ref>1842 Const. art. 8, § 1</ref> Amendment XVI, taking effect in 1911, changed the term to be two years beginning from the first Tuesday in the January after the election.<ref>[https://helindigitalcommons.org/lawarchive/26 "Annotated Constitution of the State of Rhode Island and Providence Plantations"] (1988). Library Archive. 26. Page 16. Accessed June 13, 2023</ref> Terms were lengthened to four years in 1992, but governors were now limited to succeeding themselves only once.<ref>{{Cite web |title=Rhode Island Recall of Statewide Elected Officials, Proposal 1 (1992) |url=https://ballotpedia.org/Rhode_Island_Recall_of_Statewide_Elected_Officials,_Proposal_1_(1992) |access-date=2023-06-13 |website=Ballotpedia |language=en}}</ref>  A former governor can run again after a four year break. Should the office of governor be vacant, the lieutenant governor becomes governor.<ref>RI Const. art. 9, § 9</ref> The governor and the lieutenant governor are not officially elected on the same ticket.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Rhode Island
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Rhode Island|Lt. Governor]]{{efn|Office was named Deputy Governor until 1798.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Cooke, Nicholas"|[[File:NicholasCooke.cropped.jpg|75px]]
+|rowspan="14" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|rowspan="2"|'''[[Nicholas Cooke]]'''<br>{{Small|(1717–1782)}}<br><ref name="nga-cooke">{{Cite web |title=Nicholas Cooke |url=https://www.nga.org/governor/nicholas-cooke/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="912"|November 7, 1775{{efn|Cooke was deputy governor when colonial governor [[Joseph Wanton]] was deposed on November 7, 1775, and was chosen to replace him.<ref>{{Cite book |last=Arnold |first=Samuel Greene |url=https://books.google.com/books?id=MsshnZ-FUssC&pg=PA361 |title=History of the State of Rhode Island and Providence Plantations |publisher=Preston and Rounds |year=1894 |volume=2 |location=Providence |page=361 |author-link=Samuel G. Arnold |access-date=June 14, 2023}}</ref>}}<br/>&ndash;<br/>May 6, 1778<br>{{small|(912 days; retired)}}
+|rowspan="14" style="background:#EEEEEE;"|''No parties''{{sfn|Kallenbach|1977|p=524}}
+|[[1776 Rhode Island gubernatorial election|1776]]
+|rowspan="30" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|rowspan="2"|{{sortname|William|Bradford|dab=Rhode Island}}
+|- style="height:2em;"
+|[[1777 Rhode Island gubernatorial election|1777]]
+|- style="height:2em;"
+!rowspan="8" scope="rowgroup"|2
+|rowspan="8" data-sort-value="Greene, William"|[[File:No image.svg|75px]]
+|rowspan="8"|'''[[William Greene Jr.]]'''<br>{{Small|(1731–1809)}}<br><ref name="nga-greene">{{Cite web |title=William Greene |url=https://www.nga.org/governor/william-greene/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="8" data-sort-value="2920"|May 6, 1778{{sfn|Kallenbach|1977|pp=505–508}}<br/>&ndash;<br/>May 3, 1786<br>{{small|(2920 days; lost election)}}
+|[[1778 Rhode Island gubernatorial election|1778]]
+|rowspan="2"|{{sortname|Jabez|Bowen}}
+|- style="height:2em;"
+|[[1779 Rhode Island gubernatorial election|1779]]
+|- style="height:2em;"
+|[[1780 Rhode Island gubernatorial election|1780]]
+|{{sortname|William|West|dab=Rhode Island politician}}
+|- style="height:2em;"
+|[[1781 Rhode Island gubernatorial election|1781]]
+|rowspan="5"|{{sortname|Jabez|Bowen}}
+|- style="height:2em;"
+|[[1782 Rhode Island gubernatorial election|1782]]
+|- style="height:2em;"
+|[[1783 Rhode Island gubernatorial election|1783]]
+|- style="height:2em;"
+|[[1784 Rhode Island gubernatorial election|1784]]
+|- style="height:2em;"
+|[[1785 Rhode Island gubernatorial election|1785]]
+|- style="height:2em;" 
+!rowspan="4" scope="rowgroup"|3
+|rowspan="4" data-sort-value="Collins, John"|[[File:No image.svg|75px]]
+|rowspan="4"|'''[[John Collins (Continental Congress)|John Collins]]'''<br>{{Small|(1717–1795)}}<br>{{sfn|Sobel|1978|p=1333}}<ref name="nga-collins">{{Cite web |title=John Collins |url=https://www.nga.org/governor/john-collins-2/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1464"|May 3, 1786<ref>{{Cite news |date=1786-05-27 |title=Providence, (R.I.) May 11. |page=2 |work=Dunlap and Claypoole's American Daily Advertiser |url=https://www.newspapers.com/article/dunlap-and-claypooles-american-daily-ad/126387845/ |access-date=2023-06-14}}</ref><br/>&ndash;<br/>May 5, 1790<br>{{small|(1464 days; lost election)}}
+|[[1786 Rhode Island gubernatorial election|1786]]
+|rowspan="4"|{{sortname|Daniel|Owen|dab=judge}}
+|- style="height:2em;"
+|[[1787 Rhode Island gubernatorial election|1787]]
+|- style="height:2em;"
+|[[1788 Rhode Island gubernatorial election|1788]]
+|- style="height:2em;"
+|[[1789 Rhode Island gubernatorial election|1789]]
+|- style="height:2em;"  
+!rowspan="17" scope="rowgroup"|4
+|rowspan="17" data-sort-value="Fenner, Arthur"|[[File:ArthurFenner.jpg|75px]]
+|rowspan="17" style="background:#FFBBFF;" title="Represented the Country Party"|
+|rowspan="17"|'''[[Arthur Fenner]]'''<br>{{Small|(1745–1805)}}<br>{{sfn|Sobel|1978|p=1334}}<ref name="nga-fenner-arthur">{{Cite web |title=Arthur Fenner |url=https://www.nga.org/governor/arthur-fenner/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="17" data-sort-value="5642"|May 5, 1790<ref>{{Cite news |date=1790-05-26 |title=Rhodeisland |page=3 |work=The Vermont Journal |url=https://www.newspapers.com/article/the-vermont-journal-fenner-inaugurated-m/126387926/ |access-date=2023-06-14}}</ref><br/>&ndash;<br/>October 15, 1805<br>{{small|(5642 days; died in office)}}
+|rowspan="17"|[[Country Party (Rhode Island)|Country]]
+|[[1790 Rhode Island gubernatorial election|1790]]
+|rowspan="9"|{{sortname|Samuel J.|Potter}}
+|- style="height:2em;"
+|[[1791 Rhode Island gubernatorial election|1791]]
+|- style="height:2em;"
+|[[1792 Rhode Island gubernatorial election|1792]]
+|- style="height:2em;"
+|[[1793 Rhode Island gubernatorial election|1793]]
+|- style="height:2em;"
+|[[1794 Rhode Island gubernatorial election|1794]]
+|- style="height:2em;"
+|[[1795 Rhode Island gubernatorial election|1795]]
+|- style="height:2em;"
+|[[1796 Rhode Island gubernatorial election|1796]]
+|- style="height:2em;"
+|[[1797 Rhode Island gubernatorial election|1797]]
+|- style="height:2em;"
+|[[1798 Rhode Island gubernatorial election|1798]]
+|- style="height:2em;"
+|[[1799 Rhode Island gubernatorial election|1799]]
+|{{sortname|George|Brown|dab=Rhode Island politician}}
+|- style="height:2em;"
+|[[1800 Rhode Island gubernatorial election|1800]]
+|rowspan="3"|{{sortname|Samuel J.|Potter}}
+|- style="height:2em;"
+|[[1801 Rhode Island gubernatorial election|1801]]
+|- style="height:2em;"
+|[[1802 Rhode Island gubernatorial election|1802]]
+|- style="height:2em;"
+|[[1803 Rhode Island gubernatorial election|1803]]
+|rowspan="3"|{{sortname|Paul|Mumford}}<br>{{small|(died July 20, 1805)}}
+|- style="height:2em;"
+|[[1804 Rhode Island gubernatorial election|1804]]
+|- style="height:2em;"
+|rowspan="2"|[[1805 Rhode Island gubernatorial election|1805]]
+|- style="height:2em;" 
+|rowspan="2" colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;" 
+!scope="row"|5
+|data-sort-value="Smith, Henry"|[[File:No image.svg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|'''[[Henry Smith (Rhode Island governor)|Henry Smith]]'''<br>{{Small|(1766–1818)}}<br>{{sfn|Sobel|1978|p=1335}}<ref name="nga-smith-henry">{{Cite web |title=Henry Smith |url=https://www.nga.org/governor/henry-smith/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="205"|October 15, 1805{{sfn|Sobel|1978|p=1335}}<br/>&ndash;<br/>May 7, 1806<br>{{small|(205 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Sobel|1978|p=1335}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>president of<br>the Senate}}{{efn|As the office of lieutenant governor was vacant, President of the Senate Smith succeeded to governor.{{sfn|Sobel|1978|p=1335}}}}
+|- style="height:2em;"  
+!scope="row"|6
+|data-sort-value="Wilbour, Isaac"|[[File:Isaac Wilbour (Rhode Island Governor) 2.jpg|75px]]
+|'''[[Isaac Wilbour]]'''<br>{{Small|(1763–1837)}}<br>{{sfn|Sobel|1978|p=1335}}<ref name="nga-wilbour">{{Cite web |title=Isaac Wilbour |url=https://www.nga.org/governor/isaac-wilbour/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|May 7, 1806<ref>{{Cite news |date=1806-05-26 |title=Rhode-Island |page=3 |work=Weekly Wanderer |url=https://www.newspapers.com/article/weekly-wanderer-wilbour-elected-may-7/126395041/ |access-date=2023-06-14}}</ref><br/>&ndash;<br/>May 6, 1807<br>{{small|(365 days; retired)}}{{efn|Wilbour was instead [[1806 United States House of Representatives election in Rhode Island|elected]] to the [[United States House of Representatives]].{{sfn|Sobel|1978|p=1335}}}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=349}}
+|[[1806 Rhode Island gubernatorial election|1806]]{{efn|No candidate received a majority of the vote for governor, so Lieutenant Governor-elect Wilbour acted as governor for the term.<ref>{{Cite web |title=A New Nation Votes |url=https://elections.lib.tufts.edu/catalog/4q77fr690 |access-date=2023-06-14 |website=elections.lib.tufts.edu}}</ref>}}
+|style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"  
+!rowspan="4" scope="rowgroup"|7
+|rowspan="4" data-sort-value="Fenner, James"|[[File:GovJamesFenner.jpg|75px]]
+|rowspan="4"|'''[[James Fenner]]'''<br>{{Small|(1771–1846)}}<br>{{sfn|Sobel|1978|pp=1335–1336}}<ref name="nga-fenner-james">{{Cite web |title=James Fenner |url=https://www.nga.org/governor/james-fenner/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1457"|May 6, 1807{{sfn|Kallenbach|1977|pp=505–508}}<br/>&ndash;<br/>May 1, 1811<br>{{small|(1457 days; lost election)}}
+|rowspan="4"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1807 Rhode Island gubernatorial election|1807]]
+|style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Unknown party"|
+|{{sortname|Constant|Taber|nolink=1}}
+|- style="height:2em;"
+|[[1808 Rhode Island gubernatorial election|1808]]
+|rowspan="2" style="color:inherit;background-color:{{party color|Federalist Party}}" title="Represented the Federalist Party"|
+|rowspan="2"|{{sortname|Simeon|Martin|Martin House (Seekonk, Massachusetts)#Simeon Martin}}
+|- style="height:2em;"
+|[[1809 Rhode Island gubernatorial election|1809]]
+|- style="height:2em;"
+|[[1810 Rhode Island gubernatorial election|1810]]
+|style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|Isaac|Wilbour}}
+|- style="height:2em;"  
+!rowspan="6" scope="rowgroup"|8
+|rowspan="6" data-sort-value="Jones, William"|[[File:GovWilliamJonesRI.jpg|75px]]
+|rowspan="6" style="color:inherit;background-color:{{party color|Federalist Party}}" title="Represented the Federalist Party"|
+|rowspan="6"|'''[[William Jones (governor)|William Jones]]'''<br>{{Small|(1753–1822)}}<br>{{sfn|Sobel|1978|pp=1336–1337}}<ref name="nga-jones">{{Cite web |title=William Jones |url=https://www.nga.org/governor/william-jones/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="6" data-sort-value="2199"|May 1, 1811{{sfn|Sobel|1978|pp=1336–1337}}<br/>&ndash;<br/>May 7, 1817<br>{{small|(2199 days; lost election)}}
+|rowspan="6"|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1811 Rhode Island gubernatorial election|1811]]
+|rowspan="6" style="color:inherit;background-color:{{party color|Federalist Party}}" title="Represented the Federalist Party"|
+|rowspan="5"|{{sortname|Simeon|Martin|Martin House (Seekonk, Massachusetts)#Simeon Martin}}
+|- style="height:2em;"
+|[[1812 Rhode Island gubernatorial election|1812]]
+|- style="height:2em;"
+|[[1813 Rhode Island gubernatorial election|1813]]
+|- style="height:2em;"
+|[[1814 Rhode Island gubernatorial election|1814]]
+|- style="height:2em;"
+|[[1815 Rhode Island gubernatorial election|1815]]
+|- style="height:2em;"
+|[[1816 Rhode Island gubernatorial election|1816]]
+|{{sortname|Jeremiah|Thurston|nolink=1}}
+|- style="height:2em;"  
+!rowspan="4" scope="rowgroup"|9
+|rowspan="4" data-sort-value="Knight, Nehemiah"|[[File:NRKnight.jpg|75px]]
+|rowspan="15" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="4"|'''[[Nehemiah R. Knight]]'''<br>{{Small|(1780–1854)}}<br>{{sfn|Sobel|1978|pp=1337–1338}}<ref name="nga-knight">{{Cite web |title=Nehemiah Rice Knight |url=https://www.nga.org/governor/nehemiah-rice-knight/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1344"|May 7, 1817<ref>{{Cite news |date=1817-05-20 |title=General Election |page=2 |work=Hartford Courant |url=https://www.newspapers.com/article/hartford-courant-knight-inaugurated-may/126445286/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>January 9, 1821<br>{{small|(1344 days; resigned)}}{{efn|Knight resigned, having been [[1820–21 United States Senate elections|elected]] to the [[United States Senate]].<ref name="manual">{{Cite book |url=https://books.google.com/books?id=SzQwAQAAMAAJ&pg=PA94 |title=Manual - the State of Rhode Island and Providence Plantations |date=1878 |publisher=Secretary of State, Rhode Island |page=94 |language=en}}</ref><ref>{{Cite news |date=1821-01-22 |title=none | quote=Nehemiah R. Knight, Governor of the State of Rhode Island, was, on the 9th inst. elected by the Legislature of that State, a Senator of the United States... He accepted the appointment, and immediately resigned the office of Governor of the State. |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-knight-resi/126445608/ |access-date=2023-06-15}}</ref>}}
+|rowspan="4"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1817 Rhode Island gubernatorial election|1817]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="4"|{{sortname|Edward|Wilcox|dab=politician}}
+|- style="height:2em;"
+|[[1818 Rhode Island gubernatorial election|1818]]
+|- style="height:2em;"
+|[[1819 Rhode Island gubernatorial election|1819]]
+|- style="height:2em;"
+|[[1820 Rhode Island gubernatorial election|1820]]
+|- style="height:2em;"  
+!scope="row"|10
+|data-sort-value="Wilcox, Edward"|[[File:No image.svg|75px]]
+|'''[[Edward Wilcox (politician)|Edward Wilcox]]'''<br>{{Small|(1751–1838)}}<br><ref name="nga-wilcox">{{Cite web |title=Edward Cox |url=https://www.nga.org/governor/edward-cox/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="114"|January 9, 1821{{sfn|Kallenbach|1977|pp=505–508}}<br>&ndash;<br>May 2, 1821<br>{{small|(114 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}{{efn|Very little is known of Wilcox, and he does not appear on most lists of governors, but it is known he was lieutenant governor at the time Knight resigned,<ref name="manual" /> and at least one reference specifically states he succeeded Knight.{{sfn|Kallenbach|1977|pp=505–508}}}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|11
+|rowspan="3" data-sort-value="Gibbs, William"|[[File:William Channing Gibbs.jpg|75px]]
+|rowspan="3"|'''[[William C. Gibbs]]'''<br>{{Small|(1787–1871)}}<br>{{sfn|Sobel|1978|p=1338}}<ref name="nga-gibbs">{{Cite web |title=William Channing Gibbs |url=https://www.nga.org/governor/william-channing-gibbs/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|May 2, 1821<ref>{{Cite news |date=1821-05-09 |title=Rhode-Island Election |page=2 |work=The Rhode-Island Republican |url=https://www.newspapers.com/article/the-rhode-island-republican-gibbs-electe/126459458/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>May 5, 1824<br>{{small|(1100 days; retired)}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1821 Rhode Island gubernatorial election|1821]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="3"|{{sortname|Caleb|Earle|nolink=1}}
+|- style="height:2em;"
+|[[1822 Rhode Island gubernatorial election|1822]]
+|- style="height:2em;"
+|[[1823 Rhode Island gubernatorial election|1823]]
+|- style="height:2em;"  
+!rowspan="7" scope="rowgroup"|12
+|rowspan="7" data-sort-value="Fenner, James"|[[File:GovJamesFenner.jpg|75px]]
+|rowspan="7"|'''[[James Fenner]]'''<br>{{Small|(1771–1846)}}<br>{{sfn|Sobel|1978|pp=1335–1336}}<ref name="nga-fenner-james" />
+|rowspan="7" data-sort-value="2556"|May 5, 1824<ref>{{Cite news |date=1824-05-13 |title=Rhode-Island Legislature |page=3 |work=The Rhode-Island Republican |url=https://www.newspapers.com/article/the-rhode-island-republican-fenner-elect/126459609/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>May 4, 1831<br>{{small|(2556 days; lost election)}}
+|rowspan="7"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1824 Rhode Island gubernatorial election|1824]]
+|rowspan="9" style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Unknown party"|
+|rowspan="9"|{{sortname|Charles|Collins|dab=lieutenant governor|nolink=1}}
+|- style="height:2em;"
+|[[1825 Rhode Island gubernatorial election|1825]]
+|- style="height:2em;"
+|[[1826 Rhode Island gubernatorial election|1826]]
+|- style="height:2em;"
+|[[1827 Rhode Island gubernatorial election|1827]]
+|- style="height:2em;"
+|[[1828 Rhode Island gubernatorial election|1828]]
+|- style="height:2em;"
+|[[1829 Rhode Island gubernatorial election|1829]]
+|- style="height:2em;"
+|[[1830 Rhode Island gubernatorial election|1830]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Arnold, Lemuel"|[[File:LemuelArnold.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|National Republican Party (United States)}};" title="Represented the National Republican Party"|
+|rowspan="2"|'''[[Lemuel H. Arnold]]'''<br>{{Small|(1792–1852)}}<br>{{sfn|Sobel|1978|pp=1338–1339}}<ref name="nga-arnold">{{Cite web |title=Lemuel Hastings Arnold |url=https://www.nga.org/governor/lemuel-hastings-arnold/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|May 4, 1831<ref>{{Cite news |date=1831-05-04 |title=none | quote=Governor Arnold then took the chair and proceeded to business... making no remarks or inaugural address to the assembly. |page=3 |work=The Rhode-Island Republican |url=https://www.newspapers.com/article/the-rhode-island-republican-arnold-inaug/126466894/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>May 1, 1833<br>{{small|(729 days; lost election)}}
+|rowspan="2"|[[National Republican Party (United States)|National<br />Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1831 Rhode Island gubernatorial election|1831]]
+|- style="height:2em;"
+|[[1832 Rhode Island gubernatorial election|1832]]{{efn|No candidate received a majority of the vote for governor, and four run-offs were attempted during the year but all were similarly deadlocked. Arnold remained as governor, and in January 1833, the state legislature formalized it, permitting him to continue on as governor until the end of the term.{{sfn|Kallenbach|1977|pp=505–508}}}}
+|- style="height:2em;"  
+!rowspan="5" scope="rowgroup"|14
+|rowspan="5" data-sort-value="Francis, John"|[[File:RI Governor John Brown Francis.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="5"|'''[[John Brown Francis]]'''<br>{{Small|(1791–1864)}}<br>{{sfn|Sobel|1978|pp=1339–1340}}<ref name="nga-francis">{{Cite web |title=John Brown Francis |url=https://www.nga.org/governor/john-brown-francis/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="5" data-sort-value="1828"|May 1, 1833<ref>{{Cite news |date=1833-05-09 |title=The Legislature |page=1 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-francis-inaugurated/126467088/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>May 2, 1838<br>{{small|(1828 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]/<br />[[Anti-Masonic Party|Anti-Masonic]]{{sfn|Glashan|1979|p=270}}
+|[[1833 Rhode Island gubernatorial election|1833]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Jeffrey|Hazard}}
+|- style="height:2em;"
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Glashan|1979|p=270}}
+|[[1834 Rhode Island gubernatorial election|1834]]
+|- style="height:2em;"
+|[[1835 Rhode Island gubernatorial election|1835]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|George|Engs|nolink=1}}
+|- style="height:2em;"
+|[[1836 Rhode Island gubernatorial election|1836]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Jeffrey|Hazard}}
+|- style="height:2em;"
+|[[1837 Rhode Island gubernatorial election|1837]]
+|{{sortname|Benjamin Babock|Thurston}}
+|- style="height:2em;"  
+!scope="row"|15
+|data-sort-value="Sprague, William 3"|[[File:William Sprague 1799 1856.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[William Sprague III]]'''<br>{{Small|(1799–1856)}}<br>{{sfn|Sobel|1978|pp=1340–1341}}<ref name="nga-sprague-william-3">{{Cite web |title=William Sprague |url=https://www.nga.org/governor/william-sprague-2/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="366"|May 2, 1838<ref>{{Cite news |date=1838-05-10 |title=General Election |page=1 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-sprague-inaugurated/126467506/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>May 2, 1839<br>{{small|(366 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1838 Rhode Island gubernatorial election|1838]]
+|rowspan="5" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|Joseph|Childs|dab=politician|nolink=1}}
+|- style="height:2em;"   
+!rowspan="4" scope="rowgroup"|16
+|rowspan="4" data-sort-value="King, Samuel"|[[File:GovSamuelKingRI.jpg|75px]]
+|rowspan="4"|'''[[Samuel Ward King]]'''<br>{{Small|(1786–1851)}}<br>{{sfn|Sobel|1978|p=1341}}<ref name="nga-king">{{Cite web |title=Samuel King |url=https://www.nga.org/governor/samuel-king/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1462"|May 2, 1839<ref>{{Cite news |date=1839-05-08 |title=Rhode-Island Legislature |page=2 |work=The Rhode-Island Republican |url=https://www.newspapers.com/article/the-rhode-island-republican-king-inaugur/126467960/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>May 2, 1843<br>{{small|(1462 days; retired)}}{{sfn|Sobel|1978|p=1341}}
+|rowspan="4"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1839 Rhode Island gubernatorial election|1839]]{{efn|No candidate received a majority of the vote for either governor or lieutenant governor, so as First Senator, King served as acting governor for the year.{{sfn|Kallenbach|1977|pp=505–508}}}}
+|rowspan="7"|{{sortname|Byron|Diman}}
+|- style="height:2em;"
+|[[1840 Rhode Island gubernatorial election|1840]]
+|- style="height:2em;"
+|[[1841 Rhode Island gubernatorial election|1841]]
+|- style="height:2em;"
+|[[1842 Rhode Island gubernatorial election|1842]]{{efn|A constitutional convention, without consent from the legislature, convened in 1842 and, on May 2, proclaimed [[Thomas Wilson Dorr]] as governor, which led to a brief period of strife known as the [[Dorr Rebellion]].{{sfn|Sobel|1978|p=1341}}}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Fenner, James"|[[File:GovJamesFenner.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Law and Order Party (US)}};" title="Represented the Law and Order Party"|
+|rowspan="2"|'''[[James Fenner]]'''<br>{{Small|(1771–1846)}}<br>{{sfn|Sobel|1978|pp=1335–1336}}<ref name="nga-fenner-james" />
+|rowspan="2" data-sort-value="736"|May 2, 1843<ref>{{Cite news |date=1843-05-11 |title=General Assembly |page=2 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-fenner-inaugurated-m/126472069/ |access-date=2023-06-15}}</ref><br/>&ndash;<br/>May 6, 1845<br>{{small|(736 days; lost election)}}
+|rowspan="2"|[[Law and Order Party of Rhode Island|Law and Order]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1843 Rhode Island gubernatorial election|1843]]
+|rowspan="4" style="color:inherit;background: {{party color|Law and Order Party (US)}};" title="Represented the Law and Order Party"|
+|- style="height:2em;"
+|[[1844 Rhode Island gubernatorial election|1844]]
+|- style="height:2em;"  
+!scope="row"|18
+|data-sort-value="Jackson, Charles"|[[File:Charles Jackson Governor.jpg|75px]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Liberation Party"|
+|'''[[Charles Jackson (Rhode Island politician)|Charles Jackson]]'''<br>{{Small|(1797–1876)}}<br>{{sfn|Sobel|1978|p=1342}}<ref name="nga-jackson">{{Cite web |title=Charles Jackson |url=https://www.nga.org/governor/charles-jackson/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="366"|May 6, 1845<ref>{{Cite news |date=1845-05-15 |title=General Assembly |page=4 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-jackson-inaugurated/126485288/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 6, 1846<br>{{small|(366 days; lost election)}}
+|[[Whig Party (United States)|Liberation]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1845 Rhode Island gubernatorial election|1845]]
+|- style="height:2em;"  
+!scope="row"|19
+|data-sort-value="Diman, Byron"|[[File:ByronDiman.jpg|75px]]
+|style="color:inherit;background: {{party color|Law and Order Party (US)}};" title="Represented the Law and Order Party"|
+|'''[[Byron Diman]]'''<br>{{Small|(1795–1865)}}<br>{{sfn|Sobel|1978|pp=1342–1343}}<ref name="nga-diman">{{Cite web |title=Byron Diman |url=https://www.nga.org/governor/byron-diman/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="364"|May 6, 1846<ref>{{Cite news |date=1846-05-07 |title=The Legislature |page=2 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-diman-inaugurated-ma/126485395/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 4, 1847<br>{{small|(364 days; retired)}}{{sfn|Sobel|1978|pp=1342–1343}}
+|[[Law and Order Party of Rhode Island|Law and Order]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1846 Rhode Island gubernatorial election|1846]]
+|{{sortname|Elisha|Harris}}
+|- style="height:2em;" 
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Harris, Elisha"|[[File:Elisha Harris.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Elisha Harris]]'''<br>{{Small|(1791–1861)}}<br>{{sfn|Sobel|1978|pp=1343–1344}}<ref name="nga-harris">{{Cite web |title=Elisha Harris |url=https://www.nga.org/governor/elisha-harris/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|May 4, 1847<ref>{{Cite news |date=1847-05-13 |title=General Assembly |page=1 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-harris-inaugurated-m/126485506/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 1, 1849<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1847 Rhode Island gubernatorial election|1847]]
+|rowspan="4" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|{{sortname|Edward W.|Lawton|nolink=1}}
+|- style="height:2em;"
+|[[1848 Rhode Island gubernatorial election|1848]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Anthony, Henry"|[[File:Henry B. Anthony - Brady-Handy.jpg|75px]]
+|rowspan="2"|'''[[Henry B. Anthony]]'''<br>{{Small|(1815–1884)}}<br>{{sfn|Sobel|1978|pp=1344–1345}}<ref name="nga-anthony">{{Cite web |title=Henry Bowen Anthony |url=https://www.nga.org/governor/henry-bowen-anthony/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|May 1, 1849<ref>{{Cite news |date=1849-05-03 |title=Rhode Island Legislature |page=3 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-anthony-inaugurated/126485603/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 6, 1851<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1849 Rhode Island gubernatorial election|1849]]
+|rowspan="2"|{{sortname|Thomas|Whipple|dab=Rhode Island|nolink=1}}
+|- style="height:2em;"
+|[[1850 Rhode Island gubernatorial election|1850]]
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|22
+|rowspan="3" data-sort-value="Allen, Philip"|[[File:Philip Allen (politician).jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Philip Allen (Rhode Island politician)|Philip Allen]]'''<br>{{Small|(1785–1865)}}<br>{{sfn|Sobel|1978|p=1345}}<ref name="nga-allen">{{Cite web |title=Phillip Allen |url=https://www.nga.org/governor/phillip-allen/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="807"|May 6, 1851<ref>{{Cite news |date=1851-05-08 |title=General Assembly |page=3 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-allen-inaugurated-ma/126485729/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>July 20, 1853<br>{{small|(807 days; resigned)}}{{efn|Allen resigned, having been [[1852–53 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1345}}}}
+|rowspan="3"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1851 Rhode Island gubernatorial election|1851]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William Beach|Lawrence}}
+|- style="height:2em;"
+|[[1852 Rhode Island gubernatorial election|1852]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|Samuel G.|Arnold}}
+|- style="height:2em;"
+|[[1853 Rhode Island gubernatorial election|1853]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Francis M.|Dimond}}
+|- style="height:2em;"  
+!scope="row"|23
+|data-sort-value="Dimond, Francis"|[[File:FrancisDimond.jpg|75px]]
+|'''[[Francis M. Dimond]]'''<br>{{Small|(1796–1859)}}<br>{{sfn|Sobel|1978|pp=1345–1346}}<ref name="nga-dimond">{{Cite web |title=Francis M. Dimond |url=https://www.nga.org/governor/francis-m-dimond/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="287"|July 20, 1853<ref>{{Cite news |date=1853-07-28 |title=none | quote=The duties of Governor now devolved upon his Honor the Lieut. Governor, Francis M. Dimond... |page=1 |work=Herald of The Times |url=https://www.newspapers.com/article/herald-of-the-times-dimond-succeeds-alle/126486003/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 2, 1854<br>{{small|(287 days; lost election)}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|24
+|rowspan="3" data-sort-value="Hoppin, William"|[[File:William Warner Hoppin.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="3"|'''[[William W. Hoppin]]'''<br>{{Small|(1807–1890)}}<br>{{sfn|Sobel|1978|p=1346}}<ref name="nga-hoppin">{{Cite web |title=William Warner Hoppin |url=https://www.nga.org/governor/william-warner-hoppin/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1121"|May 2, 1854<ref>{{Cite news |date=1854-05-04 |title=none | quote=The Governor elect appeared and took the oath of office. |page=2 |work=The Westerly Echo, & Pawcatuck Advertiser |url=https://www.newspapers.com/article/the-westerly-echo-pawcatuck-advertise/126486068/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 26, 1857<br>{{small|(1121 days; retired)}}{{sfn|Sobel|1978|p=1346}}
+|rowspan="3"|[[Whig Party (United States)|Whig]]{{efn|Glashan{{sfn|Glashan|1979|p=272}} and Sobel{{sfn|Sobel|1978|p=1346}} label Hoppin as a Whig and [[Maine Liquor Law|Maine Law]] candidate in 1854; Dubin,{{sfn|Dubin|2003|p=237}} and Kallenbach{{sfn|Kallenbach|1977|p=514}} label him a Whig and [[Know Nothing|American]] in 1855, and a Republican and American in 1856.}}
+|[[1854 Rhode Island gubernatorial election|1854]]
+|style="color:inherit;background: {{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|John J.|Reynolds|dab=Rhode Island|nolink=1}}
+|- style="height:2em;"
+|[[1855 Rhode Island gubernatorial election|1855]]
+|rowspan="2" style="color:inherit;background: {{party color|American Party}};" title="Represented the Know Nothing Party"|
+|{{sortname|Anderson C.|Rose|nolink=1}}
+|- style="height:2em;"
+|[[1856 Rhode Island gubernatorial election|1856]]
+|{{sortname|Nicholas|Brown III}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Dyer, Elisha 1"|[[File:Elisha Dyer, senior.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Elisha Dyer]]'''<br>{{Small|(1811–1890)}}<br>{{sfn|Sobel|1978|p=1347}}<ref name="nga-dyer-elisha-1">{{Cite web |title=Elisha Dyer Sr. |url=https://www.nga.org/governor/elisha-dyer-sr/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|May 26, 1857<ref>{{Cite news |date=1857-05-27 |title=Legislature of Rhode Island |page=3 |work=Hartford Courant |url=https://www.newspapers.com/article/hartford-courant-dyer-inaugurated-may-26/126486267/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 31, 1859<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1857 Rhode Island gubernatorial election|1857]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Thomas G.|Turner}}
+|- style="height:2em;"
+|[[1858 Rhode Island gubernatorial election|1858]]
+|- style="height:2em;" 
+!scope="row"|26
+|data-sort-value="Turner, Thomas"|[[File:GovThomasGTurnerRI.jpg|75px]]
+|'''[[Thomas G. Turner]]'''<br>{{Small|(1810–1875)}}<br>{{sfn|Sobel|1978|p=1348}}<ref name="nga-turner">{{Cite web |title=Thomas Goodwin Turner |url=https://www.nga.org/governor/thomas-goodwin-turner/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|May 31, 1859<ref>{{Cite news |date=1859-06-01 |title=Rhode Island Politics |page=4 |work=Chicago Tribune |url=https://www.newspapers.com/article/chicago-tribune-turner-inaugurated-may-3/126487950/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 29, 1860<br>{{small|(365 days;<br>lost nomination)}}{{efn|Turner lost the Republican nomination to [[Seth Padelford]].{{sfn|Sobel|1978|p=1348}}}}
+|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1859 Rhode Island gubernatorial election|1859]]
+|style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Unknown party"|
+|{{sortname|Isaac|Saunders|nolink=1}}
+|- style="height:2em;"  
+!rowspan="4" scope="rowgroup"|27
+|rowspan="4" data-sort-value="Sprague, William 4"|[[File:William Sprague 1830-1915 - Brady-Handy.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[William Sprague IV]]'''<br>{{Small|(1830–1915)}}<br>{{sfn|Sobel|1978|pp=1348–1349}}<ref name="nga-sprague-william-4">{{Cite web |title=William Sprague |url=https://www.nga.org/governor/william-sprague/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1009"|May 29, 1860<ref>{{Cite news |date=1860-05-30 |title=Election at Newport |page=2 |work=Fall River Daily Evening News |url=https://www.newspapers.com/article/fall-river-daily-evening-news-sprague-in/126488086/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>March 3, 1863<br>{{small|(1009 days; resigned)}}{{efn|Sprague resigned, having been [[1862–63 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1348–1349}}}}
+|rowspan="4"|[[Rhode Island Democratic Party|Democratic]]{{efn|Sprague was elected as part of a Democratic and Conservative Republican ticket in 1860,{{sfn|Sobel|1978|pp=1348–1349}} and afterwards as a [[Constitutional Union Party (United States)|Union]] candidate.{{sfn|Glashan|1979|p=272}}}}
+|[[1860 Rhode Island gubernatorial election|1860]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|J. Russell|Bullock}}
+|- style="height:2em;"
+|[[1861 Rhode Island gubernatorial election|1861]]
+|- style="height:2em;"
+|rowspan="2"|[[1862 Rhode Island gubernatorial election|1862]] 
+|{{sortname|Samuel G.|Arnold}}<br>{{small|(resigned December 1, 1862)}}
+|- style="height:2em;" 
+|rowspan="2" colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;" 
+!scope="row"|28
+|data-sort-value="Cozzens, William"|[[File:William C. Cozzens.jpg|75px]]
+|'''[[William C. Cozzens]]'''<br>{{Small|(1811–1876)}}<br>{{sfn|Sobel|1978|pp=1349–1350}}<ref name="nga-cozzens">{{Cite web |title=William Cole Cozzens |url=https://www.nga.org/governor/william-cole-cozzens/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="85"|March 3, 1863<ref>{{Cite news |date=1863-03-07 |title=Resignation of Gov. Sprague |page=2 |work=New England Farmer |url=https://www.newspapers.com/article/new-england-farmer-cozzens-succeeds-spra/126488429/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 26, 1863<br>{{small|(85 days; lost election)}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>president of<br>the Senate}}{{efn|As the office of lieutenant governor was vacant, President pro tempore of the Senate Cozzens succeeded to governor.{{sfn|Sobel|1978|pp=1349–1350}}}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|29
+|rowspan="3" data-sort-value="Smith, James"|[[File:GovJamesYSmithRI.jpg|75px]]
+|rowspan="24" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[James Y. Smith]]'''<br>{{Small|(1809–1876)}}<br>{{sfn|Sobel|1978|pp=1350–1351}}<ref name="nga-smith-james">{{Cite web |title=James Youngs Smith |url=https://www.nga.org/governor/james-youngs-smith/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|May 26, 1863{{sfn|Kallenbach|1977|pp=505–508}}<br/>&ndash;<br/>May 29, 1866<br>{{small|(1100 days; retired)}}{{sfn|Sobel|1978|pp=1350–1351}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1863 Rhode Island gubernatorial election|1863]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Seth|Padelford}}
+|- style="height:2em;"
+|[[1864 Rhode Island gubernatorial election|1864]]
+|- style="height:2em;"
+|[[1865 Rhode Island gubernatorial election|1865]] 
+|style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Unknown party"|
+|{{sortname|Duncan|Pell}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|30
+|rowspan="3" data-sort-value="Burnside, Ambrose"|[[File:Ambrose Burnside2.jpg|75px]]
+|rowspan="3"|'''[[Ambrose Burnside]]'''<br>{{Small|(1824–1881)}}<br>{{sfn|Sobel|1978|pp=1351–1352}}<ref name="nga-burnside">{{Cite web |title=Ambrose Everett Burnside |url=https://www.nga.org/governor/ambrose-everett-burnside/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1093"|May 29, 1866<ref>{{Cite news |date=1866-06-02 |title=Inauguration of Gov. Burnside |page=2 |work=New England Farmer |url=https://www.newspapers.com/article/new-england-farmer-burnside-inaugurated/126502312/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 25, 1869<br>{{small|(1093 days; retired)}}{{sfn|Sobel|1978|pp=1351–1352}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1866 Rhode Island gubernatorial election|1866]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|William|Greene|dab=lieutenant governor}}
+|- style="height:2em;"
+|[[1867 Rhode Island gubernatorial election|1867]]
+|- style="height:2em;"
+|[[1868 Rhode Island gubernatorial election|1868]] 
+|rowspan="4"|{{sortname|Pardon|Stevens|nolink=1}}
+|- style="height:2em;"  
+!rowspan="4" scope="rowgroup"|31
+|rowspan="4" data-sort-value="Padelford, Seth"|[[File:SethPadelford.jpg|75px]]
+|rowspan="4"|'''[[Seth Padelford]]'''<br>{{Small|(1807–1878)}}<br>{{sfn|Sobel|1978|p=1352}}<ref name="nga-padelford">{{Cite web |title=Seth Padelford |url=https://www.nga.org/governor/seth-padelford/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1464"|May 25, 1869<ref>{{Cite news |date=1869-05-26 |title=Rhode Island Legislature |page=1 |work=The Baltimore Sun |url=https://www.newspapers.com/article/the-baltimore-sun-padelford-inaugurated/126502503/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 27, 1873<br>{{small|(1464 days; retired)}}
+|rowspan="4"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1869 Rhode Island gubernatorial election|1869]]
+|- style="height:2em;"
+|[[1870 Rhode Island gubernatorial election|1870]]
+|- style="height:2em;"
+|[[1871 Rhode Island gubernatorial election|1871]]
+|- style="height:2em;"
+|[[1872 Rhode Island gubernatorial election|1872]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Charles|Cutler|dab=Rhode Island|nolink=1}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Howard, Henry"|[[File:GovHenryHowardRI.jpg|75px]]
+|rowspan="2"|'''[[Henry Howard (Rhode Island politician)|Henry Howard]]'''<br>{{Small|(1826–1905)}}<br>{{sfn|Sobel|1978|p=1353}}<ref name="nga-howard">{{Cite web |title=Henry Howard |url=https://www.nga.org/governor/henry-howard/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|May 27, 1873<ref>{{Cite news |date=1873-05-29 |title=Letter from Newport |page=2 |work=Boston Evening Transcript |url=https://www.newspapers.com/article/boston-evening-transcript-howard-inaugur/126503393/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 25, 1875<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=1353}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{efn|Howard represented the Republican and [[Prohibition Party|Prohibition]] parties.{{sfn|Sobel|1978|p=1353}}}}
+|[[1873 Rhode Island gubernatorial election|1873]]
+|rowspan="14" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Charles C.|Van Zandt}}
+|- style="height:2em;"
+|[[1874 Rhode Island gubernatorial election|1874]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Lippitt, Henry"|[[File:Henry Lippitt Governor.jpg|75px]]
+|rowspan="2"|'''[[Henry Lippitt]]'''<br>{{Small|(1818–1891)}}<br>{{sfn|Sobel|1978|pp=1353–1354}}<ref name="nga-lippitt-henry">{{Cite web |title=Henry Lippitt |url=https://www.nga.org/governor/henry-lippitt/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|May 25, 1875<ref>{{Cite news |date=1875-05-26 |title=The Rhode Island Legislature |language=en |page=6 |work=The New York Times |url=https://www.newspapers.com/article/the-new-york-times-lippitt-inaugurated-m/126504369/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 29, 1877<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1875 Rhode Island gubernatorial election|1875]]
+|rowspan="2"|{{sortname|Henry Tillinghast|Sisson}}
+|- style="height:2em;"
+|[[1876 Rhode Island gubernatorial election|1876]]
+|- style="height:2em;" 
+!rowspan="3" scope="rowgroup"|34
+|rowspan="3" data-sort-value="Van Zandt, Charles"|[[File:CharlesVanZandt.jpg|75px]]
+|rowspan="3"|'''[[Charles C. Van Zandt]]'''<br>{{Small|(1830–1894)}}<br>{{sfn|Sobel|1978|pp=1354–1355}}<ref name="nga-vanzandt">{{Cite web |title=Charles Collins Van Zandt |url=https://www.nga.org/governor/charles-collins-van-zandt/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1093"|May 29, 1877<ref>{{Cite news |date=1877-05-29 |title=Gala Day in Newport |page=8 |work=Boston Evening Transcript |url=https://www.newspapers.com/article/boston-evening-transcript-van-zandt-inau/126504844/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 25, 1880<br>{{small|(1093 days; retired)}}{{sfn|Sobel|1978|pp=1354–1355}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{efn|Van Zandt represented the Republican and [[Prohibition Party|Prohibition]] parties.{{sfn|Glashan|1979|p=272}}}}
+|[[1877 Rhode Island gubernatorial election|1877]]
+|rowspan="3"|{{sortname|Albert|Howard|dab=Rhode Island}}
+|- style="height:2em;"
+|[[1878 Rhode Island gubernatorial election|1878]]
+|- style="height:2em;"
+|[[1879 Rhode Island gubernatorial election|1879]]
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Littlefield, Alfred"|[[File:Alfred Henry Littlefield.jpg|75px]]
+|rowspan="3"|'''[[Alfred H. Littlefield]]'''<br>{{Small|(1829–1893)}}<br>{{sfn|Sobel|1978|pp=1355–1356}}<ref name="nga-littlefield">{{Cite web |title=Alfred Henry Littlefield |url=https://www.nga.org/governor/alfred-henry-littlefield/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|May 25, 1880<ref>{{Cite news |date=1880-05-27 |title=Rhode Island Politics |page=1 |work=The Fall River Daily Herald |url=https://www.newspapers.com/article/the-fall-river-daily-herald-littlefield/126504963/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 29, 1883<br>{{small|(1100 days; retired)}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1880 Rhode Island gubernatorial election|1880]]
+|rowspan="3"|{{sortname|Henry|Fay|nolink=1}}
+|- style="height:2em;"
+|[[1881 Rhode Island gubernatorial election|1881]]
+|- style="height:2em;"
+|[[1882 Rhode Island gubernatorial election|1882]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|36
+|rowspan="2" data-sort-value="Bourn, Augustus"|[[File:Augustus O. Bourn by Henry Mosler.jpg|75px]]
+|rowspan="2"|'''[[Augustus O. Bourn]]'''<br>{{Small|(1834–1925)}}<br>{{sfn|Sobel|1978|pp=1356–1357}}<ref name="nga-bourn">{{Cite web |title=Augustus Osborn Bourn |url=https://www.nga.org/governor/augustus-osborn-bourn/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|May 29, 1883<ref>{{Cite news |date=1883-05-30 |title=The Rhode Island Legislature |page=5 |work=The New York Times |url=https://www.newspapers.com/article/the-new-york-times-bourn-inaugurated-may/126505133/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 26, 1885<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1883 Rhode Island gubernatorial election|1883]]
+|rowspan="2"|{{sortname|Oscar|Rathbun}}
+|- style="height:2em;"
+|[[1884 Rhode Island gubernatorial election|1884]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="Wetmore, George"|[[File:George Wetmore.jpg|75px]]
+|rowspan="2"|'''[[George P. Wetmore]]'''<br>{{Small|(1846–1921)}}<br>{{sfn|Sobel|1978|p=1357}}<ref name="nga-wetmore">{{Cite web |title=George Peabody Wetmore |url=https://www.nga.org/governor/george-peabody-wetmore/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|May 26, 1885<ref>{{Cite news |date=1885-05-27 |title=Rhode Island's 'Lection Day |page=2 |work=The New York Times |url=https://www.newspapers.com/article/the-new-york-times-wetmore-inaugurated-m/126505249/ |access-date=2023-06-16}}</ref><br/>&ndash;<br/>May 31, 1887<br>{{small|(736 days; lost election)}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1885 Rhode Island gubernatorial election|1885]]
+|rowspan="2"|{{sortname|Lucius B.|Darling}}
+|- style="height:2em;"
+|[[1886 Rhode Island gubernatorial election|1886]]
+|- style="height:2em;" 
+!scope="row"|38
+|data-sort-value="Davis, John"|[[File:RI Governor John W Davis.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John W. Davis (governor)|John W. Davis]]'''<br>{{Small|(1826–1907)}}<br>{{sfn|Sobel|1978|p=1358}}<ref name="nga-davis">{{Cite web |title=John William Davis |url=https://www.nga.org/governor/john-william-davis/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|May 31, 1887<ref>{{Cite news |date=1887-06-01 |title='Lection Day |page=8 |work=The Boston Globe |url=https://www.newspapers.com/article/the-boston-globe-davis-inaugurated-may-3/126550042/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 29, 1888<br>{{small|(365 days; lost election)}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1887 Rhode Island gubernatorial election|1887]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Samuel R.|Honey}}
+|- style="height:2em;" 
+!scope="row"|39
+|data-sort-value="Taft, Royal"|[[File:RoyalTaft.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Royal C. Taft]]'''<br>{{Small|(1823–1912)}}<br>{{sfn|Sobel|1978|p=1359}}<ref name="nga-taft">{{Cite web |title=Royal Chapin Taft |url=https://www.nga.org/governor/royal-chapin-taft/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|May 29, 1888<ref>{{Cite news |date=1888-05-30 |title=Little Rhody's Rulers |page=4 |work=The Boston Globe |url=https://www.newspapers.com/article/the-boston-globe-taft-inaugurated-may-29/126550194/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 28, 1889<br>{{small|(365 days; retired)}}{{sfn|Sobel|1978|p=1359}}
+|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1888 Rhode Island gubernatorial election|1888]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Enos|Lapham|nolink=1}}
+|- style="height:2em;"  
+!scope="row"|40
+|data-sort-value="Ladd, Herbert"|[[File:GovHerbertLadd.jpg|75px]]
+|'''[[Herbert W. Ladd]]'''<br>{{Small|(1843–1913)}}<br>{{sfn|Sobel|1978|pp=1359–1360}}<ref name="nga-ladd">{{Cite web |title=Herbert Warren Ladd |url=https://www.nga.org/governor/herbert-warren-ladd/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|May 28, 1889<ref>{{Cite news |date=1889-05-29 |title=Governor Ladd Inaugurated |page=2 |work=New-York Tribune |url=https://www.newspapers.com/article/new-york-tribune-ladd-inaugurated-may-28/126550375/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 27, 1890<br>{{small|(365 days; lost election)}}
+|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1889 Rhode Island gubernatorial election|1889]]
+|{{sortname|Daniel|Littlefield}}
+|- style="height:2em;"  
+!scope="row"|41
+|data-sort-value="Davis, John"|[[File:RI Governor John W Davis.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John W. Davis (governor)|John W. Davis]]'''<br>{{Small|(1826–1907)}}<br>{{sfn|Sobel|1978|p=1358}}<ref name="nga-davis" />
+|data-sort-value="365"|May 27, 1890<ref>{{Cite news |date=1890-05-31 |title=Inauguration Day |page=1 |work=Newport Mercury |url=https://www.newspapers.com/article/newport-mercury-davis-inaugurated-may-27/126550664/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 26, 1891<br>{{small|(365 days; lost election)}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1890 Rhode Island gubernatorial election|1890]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William T. C.|Wardwell}}
+|- style="height:2em;"  
+!scope="row"|42
+|data-sort-value="Ladd, Herbert"|[[File:GovHerbertLadd.jpg|75px]]
+|rowspan="13" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Herbert W. Ladd]]'''<br>{{Small|(1843–1913)}}<br>{{sfn|Sobel|1978|pp=1359–1360}}<ref name="nga-ladd" />
+|data-sort-value="372"|May 26, 1891<ref>{{Cite news |date=1891-05-26 |title='Lection Day Observed in Ancient Form at Newport |page=10 |work=Boston Evening Transcript |url=https://www.newspapers.com/article/boston-evening-transcript-ladd-inaugurat/126550793/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 31, 1892<br>{{small|(372 days; retired)}}
+|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1891 Rhode Island gubernatorial election|1891]]
+|rowspan="10" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Henry A.|Stearns}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|43
+|rowspan="3" data-sort-value="Brown, Daniel"|[[File:D. Russell Brown.jpg|75px]]
+|rowspan="3"|'''[[Daniel Russell Brown]]'''<br>{{Small|(1848–1919)}}<br>{{sfn|Sobel|1978|pp=1360–1361}}<ref name="nga-brown">{{Cite web |title=Daniel Russell Brown |url=https://www.nga.org/governor/daniel-russell-brown/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1094"|May 31, 1892<ref>{{Cite news |date=1892-06-01 |title=Officials Sworn In |page=7 |work=Fall River Daily Evening News |url=https://www.newspapers.com/article/fall-river-daily-evening-news-brown-inau/126550854/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 29, 1895<br>{{small|(1094 days; retired)}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1892 Rhode Island gubernatorial election|1892]]
+|rowspan="2"|{{sortname|Melville|Bull}}
+|- style="height:2em;"
+|[[1893 Rhode Island gubernatorial election|1893]]
+|- style="height:2em;"
+|[[1894 Rhode Island gubernatorial election|1894]]
+|rowspan="3"|{{sortname|Edwin|Allen|dab=Rhode Island|nolink=1}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Lippitt, Charles"|[[File:CharlesWLippitt.jpg|75px]]
+|rowspan="2"|'''[[Charles W. Lippitt]]'''<br>{{Small|(1846–1924)}}<br>{{sfn|Sobel|1978|pp=1361–1362}}<ref name="nga-lippitt-charles">{{Cite web |title=Charles Warren Lippitt |url=https://www.nga.org/governor/charles-warren-lippitt/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="728"|May 29, 1895<ref>{{Cite news |date=1895-05-29 |title='Lection Day |page=1 |work=Fall River Globe |url=https://www.newspapers.com/article/fall-river-globe-lippitt-inaugurated-may/126550952/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 25, 1897<br>{{small|(728 days; retired)}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1895 Rhode Island gubernatorial election|1895]]
+|- style="height:2em;"
+|[[1896 Rhode Island gubernatorial election|1896]]
+|- style="height:2em;" 
+!rowspan="3" scope="rowgroup"|45
+|rowspan="3" data-sort-value="Dyer, Elisha 2"|[[File:Elisha Dyer, junior.jpg|75px]]
+|rowspan="3"|'''[[Elisha Dyer Jr.]]'''<br>{{Small|(1839–1906)}}<br>{{sfn|Sobel|1978|pp=1362–1363}}<ref name="nga-dyer-elisha-2">{{Cite web |title=Elisha Dyer Jr. |url=https://www.nga.org/governor/elisha-dyer-jr/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|May 25, 1897<ref>{{Cite news |date=1897-05-26 |title=In Ancient Form |page=5 |work=Newport Daily News |url=https://www.newspapers.com/article/newport-daily-news-dyer-inaugurated-may/126551169/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>May 29, 1900<br>{{small|(1100 days; retired)}}{{sfn|Sobel|1978|pp=1362–1363}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1897 Rhode Island gubernatorial election|1897]]
+|{{sortname|Aram J.|Pothier}}
+|- style="height:2em;"
+|[[1898 Rhode Island gubernatorial election|1898]]
+|rowspan="2"|{{sortname|William|Gregory|dab=Rhode Island governor}}
+|- style="height:2em;"
+|[[1899 Rhode Island gubernatorial election|1899]]
+|- style="height:2em;"  
+!scope="row"|46
+|data-sort-value="Gregory, William"|[[File:GovWilliamGregoryRI.jpg|75px]]
+|'''[[William Gregory (Rhode Island governor)|William Gregory]]'''<br>{{Small|(1849–1901)}}<br>{{sfn|Sobel|1978|pp=1363–1364}}<ref name="nga-gregory">{{Cite web |title=William Gregory |url=https://www.nga.org/governor/william-gregory/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="567"|May 29, 1900<ref>{{Cite news |date=1900-06-02 |title=General Assembly |page=1 |work=Newport Mercury |url=https://www.newspapers.com/article/newport-mercury-gregory-inaugurated-may/126551285/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>December 16, 1901<br>{{small|(567 days; died in office)}}
+|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1900 Rhode Island gubernatorial election|1900]]
+|{{sortname|Charles D.|Kimball}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|47
+|rowspan="3" data-sort-value="Kimball, Charles"|[[File:CharlesKimball.jpg|75px]]
+|rowspan="3"|'''[[Charles D. Kimball]]'''<br>{{Small|(1859–1930)}}<br>{{sfn|Sobel|1978|p=1364}}<ref name="nga-kimball">{{Cite web |title=Charles Dean Kimball |url=https://www.nga.org/governor/charles-dean-kimball/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="387"|December 16, 1901<ref>{{Cite news |date=1901-12-17 |title=Rhode Island's Governor |page=14 |work=Boston Evening Transcript |url=https://www.newspapers.com/article/boston-evening-transcript-kimball-succee/126551701/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 6, 1903<br>{{small|(387 day; lost election)}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="2" colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2"|[[1901 Rhode Island gubernatorial election|1901]]{{efn|Incumbent governor William Gregory was reelected in November 1901, but died the next month, so Lieutenant Governor Kimball succeeded him.{{sfn|Sobel|1978|p=1364}}}}
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|George L.|Shepley}}<br>{{small|(elected February 18, 1902)}}
+|- style="height:2em;" 
+!rowspan="2" scope="rowgroup"|48
+|rowspan="2" data-sort-value="Garvin, Lucius"|[[File:LuciusGarvin.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Lucius F. C. Garvin]]'''<br>{{Small|(1841–1922)}}<br>{{sfn|Sobel|1978|pp=1364–1365}}<ref name="nga-garvin">{{Cite web |title=Lucius Fayette Clark Garvin |url=https://www.nga.org/governor/lucius-fayette-clark-garvin/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|January 6, 1903<ref>{{Cite news |date=1903-01-06 |title=Democrats Desert |page=1 |work=Fall River Daily Evening News |url=https://www.newspapers.com/article/fall-river-daily-evening-news-garvin-ina/126552066/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 3, 1905<br>{{small|(729 days; lost election)}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1902 Rhode Island gubernatorial election|1902]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Adelard|Archambault|nolink=1}}
+|- style="height:2em;"
+|[[1903 Rhode Island gubernatorial election|1903]] 
+|rowspan="14" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|George H.|Utter}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|49
+|rowspan="2" data-sort-value="Utter, George"|[[File:GeorgeHUtter.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[George H. Utter]]'''<br>{{Small|(1854–1912)}}<br>{{sfn|Sobel|1978|pp=1365–1366}}<ref name="nga-utter">{{Cite web |title=George Herbert Utter |url=https://www.nga.org/governor/george-herbert-utter/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|January 3, 1905<ref>{{Cite news |date=1905-01-03 |title=Governor Utter Inaugurated at Providence |page=3 |work=Transcript-Telegram |url=https://www.newspapers.com/article/transcript-telegram-utter-inaugurated-ja/126552154/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 1, 1907<br>{{small|(729 days; lost election)}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1904 Rhode Island gubernatorial election|1904]]
+|rowspan="3"|{{sortname|Frederick H.|Jackson|dab=Rhode Island}}
+|- style="height:2em;"
+|[[1905 Rhode Island gubernatorial election|1905]] 
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|50
+|rowspan="2" data-sort-value="Higgins, James"|[[File:The New England magazine - Gov. James Higgins.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[James H. Higgins]]'''<br>{{Small|(1876–1927)}}<br>{{sfn|Sobel|1978|pp=1366–1367}}<ref name="nga-higgins">{{Cite web |title=James Henry Higgins |url=https://www.nga.org/governor/james-henry-higgins/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|January 1, 1907<ref>{{Cite news |date=1907-01-01 |title=Oath to Higgins |page=5 |work=Fall River Globe |url=https://www.newspapers.com/article/fall-river-globe-higgins-inaugurated-jan/126552229/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 5, 1909<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|pp=1366–1367}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1906 Rhode Island gubernatorial election|1906]]
+|- style="height:2em;"
+|[[1907 Rhode Island gubernatorial election|1907]]
+|{{sortname|Ralph|Watrous|nolink=1}}
+|- style="height:2em;"  
+!rowspan="5" scope="rowgroup"|51
+|rowspan="5" data-sort-value="Pothier, Aram"|[[File:AramPothier.jpg|75px]]
+|rowspan="9" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="5"|'''[[Aram J. Pothier]]'''<br>{{Small|(1854–1928)}}<br>{{sfn|Sobel|1978|pp=1367–1368}}<ref name="nga-pothier">{{Cite web |title=Aram Pothier |url=https://www.nga.org/governor/aram-pothier/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="5" data-sort-value="2192"|January 5, 1909<ref>{{Cite news |date=1909-01-05 |title=Gov Pothier In Office |page=14 |work=The Boston Globe |url=https://www.newspapers.com/article/the-boston-globe-pothier-inaugurated-jan/126552276/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 5, 1915<br>{{small|(2192 days; retired)}}{{sfn|Sobel|1978|pp=1367–1368}}
+|rowspan="5"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1908 Rhode Island gubernatorial election|1908]]
+|{{sortname|Arthur W.|Dennis}}
+|- style="height:2em;"
+|[[1909 Rhode Island gubernatorial election|1909]]
+|rowspan="3"|{{sortname|Emery J.|San Souci}}
+|- style="height:2em;"
+|[[1910 Rhode Island gubernatorial election|1910]]
+|- style="height:2em;"
+|[[1911 Rhode Island gubernatorial election|1911]]
+|- style="height:2em;"
+|[[1912 Rhode Island gubernatorial election|1912]]
+|{{sortname|Roswell B.|Burchard}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|52
+|rowspan="3" data-sort-value="Beeckman, Robert"|[[File:RLivingstonBeeckman.jpg|75px]]
+|rowspan="3"|'''[[Robert Livingston Beeckman]]'''<br>{{Small|(1866–1935)}}<br>{{sfn|Sobel|1978|pp=1368–1369}}<ref name="nga-beeckman">{{Cite web |title=Robert Livingston Beeckman |url=https://www.nga.org/governor/robert-livingston-beeckman/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 5, 1915<ref>{{Cite news |date=1915-01-05 |title=General Assembly Organizes |page=2 |work=Fall River Daily Evening News |url=https://www.newspapers.com/article/fall-river-daily-evening-news-beeckman-i/126552350/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 4, 1921<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1914 Rhode Island gubernatorial election|1914]]
+|rowspan="3"|{{sortname|Emery J.|San Souci}}
+|- style="height:2em;"
+|[[1916 Rhode Island gubernatorial election|1916]]
+|- style="height:2em;"
+|[[1918 Rhode Island gubernatorial election|1918]]
+|- style="height:2em;"  
+!scope="row"|53
+|data-sort-value="San Souci, Emery"|[[File:EmerySanSouci.jpg|75px]]
+|'''[[Emery J. San Souci]]'''<br>{{Small|(1857–1936)}}<br>{{sfn|Sobel|1978|pp=1369–1370}}<ref name="nga-sansouci">{{Cite web |title=Emery J. San Souci |url=https://www.nga.org/governor/emery-j-san-souci/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 4, 1921<ref>{{Cite news |date=1921-01-04 |title=Gov San Souci Is Inaugurated Today |page=1 |work=The North Adams Transcript |url=https://www.newspapers.com/article/the-north-adams-transcript-san-souci-ina/126552624/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 2, 1923<br>{{small|(729 days;<br>lost nomination)}}{{efn|San Souci lost the Republican nomination to [[Harold Gross (Rhode Island)|Harold Gross]].<ref>{{Cite news |date=1922-10-14 |title=Gross for Governor |page=4 |work=Newport Mercury |url=https://www.newspapers.com/article/newport-mercury-gross-for-governor/126552462/ |access-date=2023-06-17}}</ref>}}
+|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1920 Rhode Island gubernatorial election|1920]]
+|{{sortname|Harold|Gross|dab=Rhode Island}}
+|- style="height:2em;"  
+!scope="row"|54
+|data-sort-value="Flynn, William"|[[File:William Smith Flynn.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William S. Flynn]]'''<br>{{Small|(1885–1966)}}<br>{{sfn|Sobel|1978|pp=1370–1371}}<ref name="nga-flynn">{{Cite web |title=William Smith Flynn |url=https://www.nga.org/governor/william-smith-flynn/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 2, 1923<ref>{{Cite news |date=1923-01-03 |title=Democratic Governor Sworn: Republicans Rule Legislature |page=4 |work=The Boston Globe |url=https://www.newspapers.com/article/the-boston-globe-flynn-inaugurated-janua/126552741/ |access-date=2023-06-17}}</ref><br/>&ndash;<br/>January 6, 1925<br>{{small|(736 days; retired)}}{{efn|Flynn instead [[1924 United States Senate special election in Rhode Island|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|pp=1370–1371}}}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1922 Rhode Island gubernatorial election|1922]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Felix A.|Toupin}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|55
+|rowspan="2" data-sort-value="Pothier, Aram"|[[File:AramPothier.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Aram J. Pothier]]'''<br>{{Small|(1854–1928)}}<br>{{sfn|Sobel|1978|pp=1367–1368}}<ref name="nga-pothier" />
+|rowspan="2" data-sort-value="1125"|January 6, 1925<ref>{{Cite news |date=1925-01-10 |title=Inauguration of the New State Government |page=4 |work=Newport Mercury |url=https://www.newspapers.com/article/newport-mercury-pothier-inaugurated-janu/126623612/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>February 4, 1928<br>{{small|(1125 days; died in office)}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1924 Rhode Island gubernatorial election|1924]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Nathaniel W.|Smith}}
+|- style="height:2em;"
+|[[1926 Rhode Island gubernatorial election|1926]]
+|{{sortname|Norman S.|Case}}
+|- style="height:2em;" 
+!rowspan="3" scope="rowgroup"|56
+|rowspan="3" data-sort-value="Case, Norman"|[[File:RI Governor Norman Stanley Case.jpg|75px]]
+|rowspan="3"|'''[[Norman S. Case]]'''<br>{{Small|(1888–1967)}}<br>{{sfn|Sobel|1978|p=1371}}<ref name="nga-case">{{Cite web |title=Norman Stanley Case |url=https://www.nga.org/governor/norman-stanley-case/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1796"|February 4, 1928<ref>{{Cite news |date=1928-02-10 |title=Is Native of Providence |page=6 |work=Newport Journal-Weekly News |url=https://www.newspapers.com/article/newport-journal-weekly-news-case-succeed/126623830/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 3, 1933<br>{{small|(1796 days; lost election)}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1928 Rhode Island gubernatorial election|1928]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|James G.|Connelly|nolink=1}}
+|- style="height:2em;"
+|[[1930 Rhode Island gubernatorial election|1930]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|57
+|rowspan="2" data-sort-value="Green, Theodore"|[[File:Theodore Francis GREEN.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Theodore F. Green]]'''<br>{{Small|(1867–1966)}}<br>{{sfn|Sobel|1978|pp=1372–1373}}<ref name="nga-green">{{Cite web |title=Theodore Francis Green |url=https://www.nga.org/governor/theodore-francis-green/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1933<ref>{{Cite news |date=1933-01-04 |title=Reddy Elected As R.I. Speaker |page=3 |work=The Boston Globe |url=https://www.newspapers.com/article/the-boston-globe-green-inaugurated-janua/126624215/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 5, 1937<br>{{small|(1464 days; retired)}}{{efn|Green was instead [[1936 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1372–1373}}}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1932 Rhode Island gubernatorial election|1932]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Robert E.|Quinn}}
+|- style="height:2em;"
+|[[1934 Rhode Island gubernatorial election|1934]]
+|- style="height:2em;"  
+!scope="row"|58
+|data-sort-value="Quinn, Robert"|[[File:RI Governor Robert E Quinn.jpg|75px]]
+|'''[[Robert E. Quinn]]'''<br>{{Small|(1894–1975)}}<br>{{sfn|Sobel|1978|pp=1373–1374}}<ref name="nga-quinn">{{Cite web |title=Robert Emmet Quinn |url=https://www.nga.org/governor/robert-emmet-quinn/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1937<ref>{{Cite news |date=1937-01-08 |title=State G.O.P. Loses Control of Senate |page=9 |work=Newport Mercury |url=https://www.newspapers.com/article/newport-mercury-quinn-inaugurated-januar/126624339/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 3, 1939<br>{{small|(729 days; lost election)}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1936 Rhode Island gubernatorial election|1936]]
+|{{sortname|Raymond E.|Jordan}}
+|- style="height:2em;"  
+!scope="row"|59
+|data-sort-value="Vanderbilt, William"|[[File:William H. Vanderbilt III.png|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[William Henry Vanderbilt III]]'''<br>{{Small|(1901–1981)}}<br>{{sfn|Sobel|1978|p=1374}}<ref name="nga-vanderbilt">{{Cite web |title=William Henry Vanderbilt |url=https://www.nga.org/governor/william-henry-vanderbilt/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1939<ref>{{Cite news |date=1939-01-04 |title=Vanderbilt Takes Office in Rhode Island |page=6 |work=Transcript-Telegram |url=https://www.newspapers.com/article/transcript-telegram-vanderbilt-inaugurat/126624466/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 7, 1941<br>{{small|(736 days; lost election)}}
+||[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1938 Rhode Island gubernatorial election|1938]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|James O.|McManus}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|60
+|rowspan="3" data-sort-value="McGrath, J. Howard"|[[File:J. Howard McGrath (RI).png|75px]]
+|rowspan="11" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[J. Howard McGrath]]'''<br>{{Small|(1903–1966)}}<br>{{sfn|Sobel|1978|p=1375}}<ref name="nga-mcgrath">{{Cite web |title=James Howard McGrath |url=https://www.nga.org/governor/james-howard-mcgrath/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1734"|January 7, 1941<ref>{{Cite news |date=1941-01-07 |title=Gov. McGrath to Reinstate Bressler R.I. State Head |page=32 |work=The Boston Globe |url=https://www.newspapers.com/article/the-boston-globe-mcgrath-inaugurated-jan/126624606/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>October 6, 1945<br>{{small|(1734 days; resigned)}}{{efn|McGrath resigned, having been confirmed as [[Solicitor General of the United States]].{{sfn|Sobel|1978|p=1375}}}}
+|rowspan="3"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1940 Rhode Island gubernatorial election|1940]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Louis W.|Cappelli}}
+|- style="height:2em;"  
+|[[1942 Rhode Island gubernatorial election|1942]]
+|- style="height:2em;"
+|[[1944 Rhode Island gubernatorial election|1944]]
+|{{sortname|John|Pastore}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|61
+|rowspan="3" data-sort-value="Pastore, John"|[[File:John Pastore (RI).png|75px]]
+|rowspan="3"|'''[[John Pastore]]'''<br>{{Small|(1907–2000)}}<br>{{sfn|Sobel|1978|p=1376}}<ref name="nga-pastore">{{Cite web |title=John Orlando Pastore |url=https://www.nga.org/governor/john-orlando-pastore/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1901"|October 6, 1945<ref>{{Cite news |date=1945-10-06 |title=New Governor Takes Office in Rhode Island |page=10 |work=Fitchburg Sentinel |agency=Associated Press |url=https://www.newspapers.com/article/fitchburg-sentinel-pastore-succeeds-mcgr/126624763/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>December 19, 1950<br>{{small|(1901 days; resigned)}}{{efn|Pastore resigned, having been [[1950 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1376}}}}
+|rowspan="3"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="3"|{{sortname|John S.|McKiernan}}
+|- style="height:2em;"  
+|[[1946 Rhode Island gubernatorial election|1946]]
+|- style="height:2em;"
+|[[1948 Rhode Island gubernatorial election|1948]]
+|- style="height:2em;"  
+!scope="row"|62
+|data-sort-value="McKiernan, John"|[[File:RI Governor John S. McKiernan.jpg|75px]]
+|'''[[John S. McKiernan]]'''<br>{{Small|(1911–1997)}}<br>{{sfn|Sobel|1978|p=1377}}<ref name="nga-mckiernan">{{Cite web |title=John Sammon McKiernan |url=https://www.nga.org/governor/john-sammon-mckiernan/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="15"|December 19, 1950<ref>{{Cite news |date=1950-12-20 |title=To Be R.I. Governor Till Jan. 2, 1951 |page=8 |work=The North Adams Transcript |agency=Associated Press |url=https://www.newspapers.com/article/the-north-adams-transcript-mckiernan-suc/126624875/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 2, 1951<br>{{small|(15 days; retired)}}{{efn|McKiernan had already been reelected lieutenant governor when he succeeded Pastore.}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"  
+!rowspan="4" scope="rowgroup"|63
+|rowspan="4" data-sort-value="Roberts, Dennis"|[[File:RI Governor Dennis Joseph Roberts.jpg|75px]]
+|rowspan="4"|'''[[Dennis J. Roberts]]'''<br>{{Small|(1903–1994)}}<br>{{sfn|Sobel|1978|pp=1377–1378}}<ref name="nga-roberts">{{Cite web |title=Dennis Joseph Roberts |url=https://www.nga.org/governor/dennis-joseph-roberts/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2927"|January 2, 1951<ref>{{Cite news |date=1951-01-02 |title=Governor of R.I. Hints Tax Boost at Inauguration |page=8 |work=The Boston Globe |url=https://www.newspapers.com/article/the-boston-globe-roberts-inaugurated-jan/126624975/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 6, 1959<br>{{small|(2927 days; lost election)}}
+|rowspan="4"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1950 Rhode Island gubernatorial election|1950]]
+|rowspan="8" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|John S.|McKiernan}}
+|- style="height:2em;"
+|[[1952 Rhode Island gubernatorial election|1952]]
+|- style="height:2em;"
+|[[1954 Rhode Island gubernatorial election|1954]]
+|- style="height:2em;"
+|[[1956 Rhode Island gubernatorial election|1956]]
+|{{sortname|Armand H.|Cote}}
+|- style="height:2em;" 
+!scope="row"|64
+|data-sort-value="Del Sesto, Christopher"|[[File:RI Governor Christopher Del Sesto.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Christopher Del Sesto]]'''<br>{{Small|(1907–1973)}}<br>{{sfn|Sobel|1978|pp=1378–1379}}<ref name="nga-delsesto">{{Cite web |title=Christopher Del Sesto |url=https://www.nga.org/governor/christopher-del-sesto/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 6, 1959<ref>{{Cite news |date=1959-01-06 |title=Del Sesto Sworn In As Governor, Pledges Better Jobs, Education Aid |page=1 |work=Newport Daily News |url=https://www.newspapers.com/article/newport-daily-news-del-sesto-inaugurated/126625046/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 3, 1961<br>{{small|(729 days; lost election)}}
+|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1958 Rhode Island gubernatorial election|1958]]
+|{{sortname|John A.|Notte Jr.}}
+|- style="height:2em;"  
+!scope="row"|65
+|data-sort-value="Notte, John"|[[File:John Notte (1961).png|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John A. Notte Jr.]]'''<br>{{Small|(1909–1983)}}<br>{{sfn|Sobel|1978|pp=1379–1380}}<ref name="nga-notte">{{Cite web |title=John A. Notte |url=https://www.nga.org/governor/john-a-notte/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 3, 1961<ref>{{Cite news |date=1961-01-03 |title=Governor Notte Pledges Aid to Business in R.I. |page=1 |work=Newport Daily News |url=https://www.newspapers.com/article/newport-daily-news-notte-inaugurated-jan/126625113/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 1, 1963<br>{{small|(729 days; lost election)}}
+|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1960 Rhode Island gubernatorial election|1960]]
+|rowspan="2"|{{sortname|Edward P.|Gallogly}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|66
+|rowspan="3" data-sort-value="Chafee, John"|[[File:J.L. 3814 John H. Chafee, 1969 (cropped)-2.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[John Chafee]]'''<br>{{Small|(1922–1999)}}<br>{{sfn|Sobel|1978|pp=1380–1381}}<ref name="nga-chafee-john">{{Cite web |title=John Hubbard Chafee |url=https://www.nga.org/governor/john-hubbard-chafee/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2199"|January 1, 1963<ref>{{Cite news |date=1963-01-02 |title=Chafee Takes His Oath of Office Before 2,000 in Vets Auditorium |page=1 |work=Newport Daily News |url=https://www.newspapers.com/article/newport-daily-news-chafee-inaugurated-ja/126625210/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 7, 1969<br>{{small|(2199 days; lost election)}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1962 Rhode Island gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1964 Rhode Island gubernatorial election|1964]]
+|{{sortname|Giovanni|Folcarelli}}
+|- style="height:2em;"
+|[[1966 Rhode Island gubernatorial election|1966]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Joseph|O'Donnell Jr.}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|67
+|rowspan="2" data-sort-value="Licht, Frank"|[[File:RI Governor Frank Licht 1969-1973.jpg|75px]]
+|rowspan="8" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Frank Licht]]'''<br>{{Small|(1916–1987)}}<br>{{sfn|Sobel|1978|pp=1381–1382}}<ref name="nga-licht">{{Cite web |title=Frank Licht |url=https://www.nga.org/governor/frank-licht/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 7, 1969<ref>{{Cite news |date=1969-01-07 |title=Gov. Licht Cites Need for New State Taxes |page=1 |work=Newport Daily News |url=https://www.newspapers.com/article/newport-daily-news-licht-inaugurated-jan/126625387/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 2, 1973<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|pp=1381–1382}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1968 Rhode Island gubernatorial election|1968]]
+|rowspan="14" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|{{sortname|J. Joseph|Garrahy}}
+|- style="height:2em;"
+|[[1970 Rhode Island gubernatorial election|1970]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|68
+|rowspan="2" data-sort-value="Noel, Philip"|[[File:RI Governor Philip W. Noel.jpg|75px]]
+|rowspan="2"|'''[[Philip Noel]]'''<br>{{small|({{Abbr|b.|born in}} 1931)}}<br>{{sfn|Sobel|1978|pp=1382–1383}}<ref name="nga-noel">{{Cite web |title=Philip W. Noel |url=https://www.nga.org/governor/philip-w-noel/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1973<ref>{{Cite news |date=1973-01-02 |title=R.I. Governor Is Inaugurated |page=10 |work=The Bridgeport Post |agency=Associated Press |url=https://www.newspapers.com/article/the-bridgeport-post-noel-inaugurated-jan/126625696/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 4, 1977<br>{{small|(1464 days; retired)}}{{efn|Noel instead [[1976 United States Senate election in Rhode Island|ran unsuccessfully]] for the Democratic nomination for the [[United States Senate]].{{sfn|Sobel|1978|pp=1382–1383}}}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=505–508}}
+|[[1972 Rhode Island gubernatorial election|1972]]
+|- style="height:2em;"
+|[[1974 Rhode Island gubernatorial election|1974]]
+|- style="height:2em;"  
+!rowspan="4" scope="rowgroup"|69
+|rowspan="4" data-sort-value="Garrahy, J. Joseph"|[[File:J. Joseph Garrahy, Rhode Island Governor (cropped).jpg|75px]]
+|rowspan="4"|'''[[J. Joseph Garrahy]]'''<br>{{Small|(1930–2012)}}<br>{{sfn|Sobel|1978|p=1383}}<ref name="nga-garrahy">{{Cite web |title=J. Joseph Garrahy |url=https://www.nga.org/governor/j-joseph-garrahy/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2920"|January 4, 1977<ref>{{Cite news |date=1977-01-04 |title=State of Economy Prime R.I. Issue |page=19 |work=Daily Hampshire Gazette |agency=Associated Press |url=https://www.newspapers.com/article/daily-hampshire-gazette-garrahy-inaugura/126625823/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 1, 1985<br>{{small|(2920 days; retired)}}
+|rowspan="4"|[[Rhode Island Democratic Party|Democratic]]<ref name="nga-garrahy" />
+|[[1976 Rhode Island gubernatorial election|1976]]
+|rowspan="4"|{{sortname|Thomas R.|DiLuglio}}
+|- style="height:2em;"
+|[[1978 Rhode Island gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1980 Rhode Island gubernatorial election|1980]]
+|- style="height:2em;"
+|[[1982 Rhode Island gubernatorial election|1982]]  
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|70
+|rowspan="3" data-sort-value="DiPrete, Edward"|[[File:RI Governor Edward D. DiPrete 1985-1991 (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Edward D. DiPrete]]'''<br>{{Small|(1934–2025)}}<br><ref name="nga-diprete">{{Cite web |title=Edward D. DiPrete |url=https://www.nga.org/governor/edward-d-diprete/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 1, 1985<ref>{{Cite news |date=1985-01-02 |title=New Governor of R.I. Vows Independence |page=21 |work=The Boston Globe |agency=Associated Press |url=https://www.newspapers.com/article/the-boston-globe-diprete-inaugurated-jan/126625876/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 1, 1991<br>{{small|(2192 days; lost election)}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]<ref name="nga-diprete" />
+|[[1984 Rhode Island gubernatorial election|1984]]
+|rowspan="2"|{{sortname|Richard A.|Licht}}
+|- style="height:2em;"
+|[[1986 Rhode Island gubernatorial election|1986]]
+|- style="height:2em;"
+|[[1988 Rhode Island gubernatorial election|1988]]
+|rowspan="2"|{{sortname|Roger N.|Begin}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|71
+|rowspan="2" data-sort-value="Sundlun, Bruce"|[[File:Bruce Sundlun.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Bruce Sundlun]]'''<br>{{Small|(1920–2011)}}<br><ref name="nga-sundlun">{{Cite web |title=Bruce G. Sundlun |url=https://www.nga.org/governor/bruce-g-sundlun/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 1, 1991<ref>{{Cite news |last=Sneyd |first=Ross |date=1991-01-02 |title=R.I. Shuts 45 Banking Outlets |page=1 |work=The Boston Globe |agency=Associated Press |url=https://www.newspapers.com/article/the-boston-globe-sundlun-inaugurated-jan/126626185/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 3, 1995<br>{{small|(1464 days;<br>lost nomination)}}{{efn|Sundlun lost the Democratic nomination to [[Myrth York]].<ref>{{Cite news |date=1994-09-14 |title=Sundlun Ousted in R.I. Primary |page=A5 |work=The Berkshire Eagle |agency=Associated Press |url=https://www.newspapers.com/article/the-berkshire-eagle-sundlun-ousted-in-r/126626038/ |access-date=2023-06-18}}</ref>}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]<ref name="nga-sundlun" />
+|[[1990 Rhode Island gubernatorial election|1990]]
+|- style="height:2em;"
+|[[1992 Rhode Island gubernatorial election|1992]]
+|rowspan="2"|{{sortname|Robert|Weygand}}
+|- style="height:2em;"  
+!rowspan="3" scope="rowgroup"|72
+|rowspan="3" data-sort-value="Almond, Lincoln"|[[File:Lincoln Almond.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Lincoln Almond]]'''<br>{{Small|(1936–2023)}}<br><ref name="nga-almond">{{Cite web |title=Lincoln Almond |url=https://www.nga.org/governor/lincoln-almond/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2927"|January 3, 1995<ref>{{Cite news |date=1995-01-04 |title=R.I. Governor Pledges End to Corruption |page=8B |work=Portland Press Herald |agency=Associated Press |url=https://www.newspapers.com/article/portland-press-herald-almond-inaugurated/126626334/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 7, 2003<br>{{small|(2927 days; term-limited)}}{{efn|Under a 1992 amendment to the constitution, governors are ineligible to serve consecutively for more than two terms.<ref>{{Cite web |title=R.I. Const. art. IV, § 1 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27RI%27&CID=195&art=4&sec=1&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits}}
+|rowspan="3"|[[Rhode Island Republican Party|Republican]]<ref name="nga-almond" />
+|rowspan="2"|[[1994 Rhode Island gubernatorial election|1994]]
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Bernard|Jackvony}}
+|- style="height:2em;"
+|[[1998 Rhode Island gubernatorial election|1998]]
+|rowspan="9" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Charles|Fogarty}}
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|73
+|rowspan="2" data-sort-value="Carcieri, Donald"|[[File:RI Governor Donald Carcieri (cropped).jpg|75px]]
+|rowspan="2"|'''[[Donald Carcieri]]'''<br>{{small|({{Abbr|b.|born in}} 1942)}}<br><ref name="nga-carcieri">{{Cite web |title=Don Carcieri |url=https://www.nga.org/governor/don-carcieri/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 7, 2003<ref>{{Cite news |last=Farrington |first=Brendan |date=2003-01-08 |title=Jeb Bush Takes Oath for Second Term in Florida; Carcieri Takes Rhode Island Office |page=A5 |work=The Morning Call |agency=Associated Press |url=https://www.newspapers.com/article/the-morning-call-carcieri-inaugurated-ja/126626452/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 4, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Rhode Island Republican Party|Republican]]<ref name="nga-carcieri" />
+|[[2002 Rhode Island gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Rhode Island gubernatorial election|2006]]
+|rowspan="2"|{{sortname|Elizabeth H.|Roberts}}
+|- style="height:2em;" 
+!scope="row"|74
+|data-sort-value="Chafee, Lincoln"|[[File:Lincoln Chafee official portrait.jpg|75px]]
+|style="color:inherit;background: {{party color|Independent}};" title="Represented no party"|
+|'''[[Lincoln Chafee]]'''<br>{{small|({{Abbr|b.|born in}} 1953)}}<br><ref name="nga-chafee-lincoln">{{Cite web |title=Lincoln Chafee |url=https://www.nga.org/governor/lincoln-chafee/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 4, 2011<ref>{{Cite news |date=2011-01-04 |title=Chafee Sworn In As 1st Independent RI Governor |language=en |agency=Associated Press |url=https://www.deseret.com/2011/1/4/20164667/chafee-sworn-in-as-1st-independent-ri-governor |access-date=2023-06-18}}</ref><br/>&ndash;<br/>January 6, 2015<br>{{small|(1464 days; retired)}}
+|[[Independent politician|Independent]]{{efn|Chafee was elected as an [[Independent politician|independent]], but on May 30, 2013, he joined the [[Rhode Island Democratic Party|Democratic Party]].<ref>{{Cite news |last=Burns |first=Alexander |date=2013-05-29 |title=Lincoln Chafee to switch affiliation |language=en |work=Politico |url=https://www.politico.com/story/2013/05/lincoln-chafee-to-switch-parties-sources-say-091994 |access-date=2023-10-01}}</ref>}}
+|[[2010 Rhode Island gubernatorial election|2010]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|75
+|rowspan="2" data-sort-value="Raimondo, Gina"|[[File:Gina Raimondo July 2021.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Gina Raimondo]]'''<br>{{small|({{Abbr|b.|born in}} 1971)}}<br><ref name="nga-raimondo">{{Cite web |title=Gina Raimondo |url=https://www.nga.org/governor/gina-raimondo/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2248"|January 6, 2015<br/>&ndash;<br/>March 2, 2021<br>{{small|(2248 days; resigned)}}{{efn|Raimondo resigned, having been confirmed as [[United States Secretary of Commerce]].<ref>{{Cite news |last=Villarreal |first=Daniel |date=2021-03-02 |title=Rhode Island Gov. Gina Raimondo Resigns to Be Biden's New Sec. of Commerce |language=en |work=Newsweek |url=https://www.newsweek.com/rhode-island-governor-gina-raimondo-resigns-bidens-new-secretary-commerce-1573317 |access-date=2023-06-18}}</ref>}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]<ref name="nga-raimondo" />
+|[[2014 Rhode Island gubernatorial election|2014]]
+|rowspan="2"|{{sortname|Dan|McKee}}
+|- style="height:2em;"
+|[[2018 Rhode Island gubernatorial election|2018]]
+|- style="height:2em;"  
+!rowspan="2" scope="rowgroup"|76
+|rowspan="2" data-sort-value="McKee, Dan"|[[File:Dan McKee Rose Garden October 2021.jpg|75px]]
+|rowspan="2"|'''[[Dan McKee]]'''<br>{{small|({{Abbr|b.|born in}} 1951)}}<br><ref name="nga-mckee">{{Cite web |title=Dan McKee |url=https://www.nga.org/governor/dan-mckee/ |access-date=June 13, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2021|3|2|duration=on|format=no}}"|March 2, 2021<ref>{{Cite news |last=Fitzpatrick |first=Edward |title=McKee sworn in as Rhode Island’s 76th governor |language=en-US |work=Boston Globe |url=https://www.bostonglobe.com/2021/03/02/metro/mckee-be-sworn-rhode-islands-76th-governor/ |access-date=2023-06-18}}</ref><br/>&ndash;<br/>Incumbent{{efn|McKee's first full term began on January 3, 2023,<ref>{{Cite news |last=Anderson |first=Patrick |date=2023-01-03 |title=Rhode Island Gov. Dan McKee sworn in for first full term in office |url=https://www.providencejournal.com/story/news/state/2023/01/03/dan-mckee-sworn-in-ri-governor-rhode-island-convention-center/69772871007/ |access-date=2025-01-23 |work=The Providence Journal |language=en-US}}</ref> and [[2026 Rhode Island gubernatorial election|will expire]] on January 5, 2027; he lost the Democratic nomination to [[Helena Foulkes]].}}<br>{{small|(in office {{Duration in days nts|2021|3|2|duration=on|format=no}} days)}}
+|rowspan="2"|[[Rhode Island Democratic Party|Democratic]]<ref name="nga-mckee" />
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="3"|{{sortname|Sabina|Matos}}
+|- style="height:2em;"
+|[[2022 Rhode Island gubernatorial election|2022]]
+|- style="height:2em;"
+!scope="row"|''77''
+|data-sort-value="Foulkes, Helena"|[[File:HelenaFoulkes_CROP.jpg|75px]]
+|'''''[[Helena Foulkes]]'''''<br>{{small|({{abbr|b.|born in}} 1964)}}
+|data-sort-value="{{Duration in days nts|2027|1|5|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 5, 2027''
+|''[[Rhode Island Democratic Party|Democratic]]''
+|[[2026 Rhode Island gubernatorial election|2026]]
+|}
+
+==See also==
+{{Portal|Rhode Island}}
+*[[Gubernatorial lines of succession in the United States#Rhode Island]]
+* [[List of Rhode Island state legislatures]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former Rhode Island Governors |url=https://www.nga.org/former-governors/rhode-island/ |access-date=June 11, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Rhode Island - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=274 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+*[https://governor.ri.gov/ Office of the Governor of Rhode Island]
+
+{{Governors of Rhode Island}}
+{{US Chief Executives}}
+{{Rhode Island statewide elected officials}}
+
+{{DEFAULTSORT:Rhode Island, List of Governors of}}
+[[Category:Governors of Rhode Island|*]]
+[[Category:Lists of state governors of the United States]]
+[[Category:Lists of Rhode Island politicians|Governors]]
+[[Category:State constitutional officers of Rhode Island|Governor]]
+[[Category:Rhode Island history-related lists|Governors]]

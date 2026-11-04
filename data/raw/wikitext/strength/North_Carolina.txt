@@ -1,0 +1,1374 @@
+{{Short description|Politics in the US state of North Carolina}}
+The following table indicates the party of elected officials in the [[U.S. state]] of [[North Carolina]]:
+*[[Governor of North Carolina|Governor]]
+*[[Lieutenant Governor of North Carolina|Lieutenant Governor]]
+*[[North Carolina Secretary of State|Secretary of State]]
+*[[North Carolina Attorney General|Attorney General]]
+*[[Auditor of North Carolina|Auditor]]
+*[[North Carolina State Treasurer|Treasurer]]
+*[[North Carolina Superintendent of Public Instruction|Superintendent of Public Instruction]]
+*[[North Carolina Commissioner of Agriculture|Commissioner of Agriculture]]
+*[[North Carolina Commissioner of Labor|Commissioner of Labor]]
+*[[North Carolina Commissioner of Insurance|Commissioner of Insurance]]
+
+The table also indicates the historical party composition in the:
+*[[North Carolina Senate|State Senate]]
+*[[North Carolina House of Representatives|State House of Representatives]]
+*[[List of United States senators from North Carolina|State delegation to the U.S. Senate]]
+*[[List of United States representatives from North Carolina|State delegation to the U.S. House of Representatives]]
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes. '''Bold''' indicates present office holders.
+
+==1776–1867==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |[[North Carolina Council of State|Council of State]]
+!colspan=2 |[[North Carolina General Assembly|General Assembly]]
+!colspan=3 |[[North Carolina's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[Governor of North Carolina|Gov.]]
+!class=unsortable |[[North Carolina Secretary of State|Sec. of State]]
+!class=unsortable |[[North Carolina Attorney General|Atty. Gen.]]
+!class=unsortable |[[North Carolina State Auditor|Auditor]]
+!class=unsortable |[[North Carolina State Treasurer|Treasurer]]
+!class=unsortable |[[North Carolina Superintendent of Public Instruction|Supt. of Pub. Inst.]]
+!class=unsortable |[[North Carolina Senate|State Senate]]
+!class=unsortable |[[North Carolina House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from North Carolina|Senator (Class II)]]
+!class=unsortable |[[List of United States senators from North Carolina|Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from North Carolina|House]]
+|- style="height:2em"
+!1776
+|rowspan=4 {{Party shading/Independent}} |[[Richard Caswell]] {{small|(I)}}<!-- Gov -->
+|''vacant''<!-- Sec. -->
+|''vacant''<!-- AG -->
+|rowspan=87 |''no such office''<!-- Auditor -->
+|''vacant''<!-- Treasurer -->
+|rowspan=78 |''no such office''<!-- Pub Inst -->
+|class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=13 |''no such office''<!-- US Senator 2 -->
+|rowspan=13 |''no such office''<!-- US Senator 3 -->
+|rowspan=13 |''no such office''<!-- US House -->
+|rowspan=13 |''no such office''<!-- ECV -->
+|- style="height:2em"
+!1777
+|rowspan=21 {{Party shading/Independent}} |[[James Glasgow]] {{small|(I)}}<!-- Sec. -->
+|rowspan=2 {{Party shading/Independent}} |[[Waightstill Avery]] {{small|(I)}}<!-- AG -->
+|rowspan=7 |''district system''<!-- Treasurer -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!1778
+|- style="height:2em"
+!1779
+|rowspan=4 {{Party shading/Federalist}} |[[James Iredell]] {{small|(F)}}<!-- AG -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!1780
+|{{Party shading/Independent}} |[[Abner Nash]] {{small|(I)}}<!-- Gov -->
+|- style="height:2em"
+!1781
+|{{Party shading/Independent}} |[[Thomas Burke (North Carolina politician)|Thomas Burke]] {{small|(I)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!1782
+|rowspan=3 {{Party shading/Independent}} |[[Alexander Martin]] {{small|(I)}}<!-- Gov -->
+|- style="height:2em"
+!1783
+|rowspan=9 {{Party shading/Federalist}} |[[Alfred Moore]] {{small|(F)}}<!-- AG -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!1784
+|rowspan=3 {{Party shading/Independent}} |[[Memucan Hunt]] {{small|(I)}}<!-- Treasurer -->
+|- style="height:2em"
+!1785
+|rowspan=2 {{Party shading/Independent}} |[[Richard Caswell]] {{small|(I)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!1786
+|- style="height:2em"
+!1787
+|rowspan=2 {{Party shading/Federalist}} |[[Samuel Johnston]] {{small|(F)}}<!-- Gov -->
+|rowspan=40 {{Party shading/Federalist}} |[[John Haywood (politician)|John Haywood]] {{small|(F)}}<!-- Treasurer -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!1788
+|- style="height:2em"
+!1789
+|rowspan=3 {{Party shading/Anti-Administration}} |[[Alexander Martin]] {{small|(AF)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=4 {{Party shading/Pro-Administration}} |[[Samuel Johnston]] {{small|(PA)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Pro-Administration}} |[[Benjamin Hawkins]] {{small|(PA)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Pro-Administration}} |3PA, 2AA<!-- US House -->
+|rowspan=4 |''ineligible to<br>participate''<!-- ECV -->
+|- style="height:2em"
+!1790
+|- style="height:2em"
+!1791
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!1792
+|rowspan=3 {{Party shading/Federalist}} |[[Richard Dobbs Spaight]] {{small|(F)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Federalist}} |[[John Haywood (judge)|John Haywood]] {{small|(F)}}<!-- AG -->
+|- style="height:2em"
+!1793
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Anti-Administration}} |[[Alexander Martin]] {{small|(AA)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Anti-Administration}} |[[Benjamin Hawkins]] {{small|(AA)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Anti-Administration}} |9AA, 1PA<!-- US House -->
+|rowspan=4 {{Party shading/Independent}} |[[George Washington|Washington]] {{small|(I)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1794
+|- style="height:2em"
+!1795
+|rowspan=3 {{Party shading/Anti-Administration}} |[[Samuel Ashe (North Carolina governor)|Samuel Ashe]] {{small|(AF)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Alexander Martin]] {{small|(DR)}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Timothy Bloodworth]] {{small|(DR)}}<!-- US Senator 3 -->
+|{{Party shading/Democratic-Republican}} |9DR, 1F<!-- US House -->
+|- style="height:2em"
+!1796
+|rowspan=7 {{Party shading/Independent}} |Blake Baker {{small|(I)}}<!-- AG -->
+|{{Party shading/Democratic-Republican}} |8DR, 2F<!-- US House -->
+|- style="height:2em"
+!1797
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |9DR, 1F<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]] {{small|(DR)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1798
+|{{Party shading/Federalist}} |[[William Richardson Davie]] {{small|(F)}}<!-- Gov -->
+|rowspan=13 |[[William White (Secretary of State)|William White]]<!-- Sec. -->
+|- style="height:2em"
+!1799
+|rowspan=3 {{Party shading/Federalist}} |[[Benjamin Williams]] {{small|(F)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Jesse Franklin]] {{small|(DR)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |6DR, 4F<!-- US House -->
+|- style="height:2em"
+!1800
+|- style="height:2em"
+!1801
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[David Stone (politician)|David Stone]] {{small|(DR)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1802
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[James Turner (North Carolina politician)|James Turner]] {{small|(DR)}}{{efn |[[John Baptista Ashe (Continental Congress)|John Baptista Ashe]] was elected in 1802 to succeed Williams but died before he could take office, leading the legislature to elect Turner.}}<!-- Gov -->
+|- style="height:2em"
+!1803
+|rowspan=5 {{Party shading/Democratic-Republican}} |Henry Seawell {{small|(DR)}}<!-- AG -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |11DR, 1F<!-- US House -->
+|- style="height:2em"
+!1804
+|- style="height:2em"
+!1805
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Nathaniel Alexander (governor)|Nathaniel Alexander]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=11 {{Party shading/Democratic-Republican}} |[[James Turner (North Carolina politician)|James Turner]] {{small|(DR)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |12DR<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson|Jefferson]]/<br>[[George Clinton (vice president)|Clinton]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1806
+|- style="height:2em"
+!1807
+|{{Party shading/Federalist}} |[[Benjamin Williams]] {{small|(F)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Jesse Franklin]] {{small|(DR)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |11DR, 1F<!-- US House -->
+|- style="height:2em"
+!1808
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[David Stone (politician)|David Stone]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |Oliver Fitts {{small|(DR)}}<!-- AG -->
+|- style="height:2em"
+!1809
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |9DR, 3F<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison|Madison]]/<br>[[George Clinton (vice president)|Clinton]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1810
+|{{Party shading/Democratic-Republican}} |[[Benjamin Smith (North Carolina politician)|Benjamin Smith]] {{small|(DR)}}<!-- Gov -->
+|{{Party shading/Democratic-Republican}} |[[William Miller (North Carolina politician)|William Miller]] {{small|(DR)}}<!-- AG -->
+|- style="height:2em"
+!1811
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[William Hawkins (governor)|William Hawkins]] {{small|(DR)}}<!-- Gov -->
+|rowspan=17 {{Party shading/Democratic-Republican}} |William Hill {{small|(DR)}}<!-- Sec -->
+|rowspan=6 {{Party shading/Federalist}} |[[Hutchins Gordon Burton]] {{small|(F)}}<!-- AG -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |10DR, 2F<!-- US House -->
+|- style="height:2em"
+!1812
+|- style="height:2em"
+!1813
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[David Stone (politician)|David Stone]] {{small|(DR)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |10DR, 3F<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison|Madison]]/<br>[[Elbridge Gerry|Gerry]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1814
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[William Miller (North Carolina politician)|William Miller]] {{small|(DR)}}<!-- Gov -->
+|- style="height:2em"
+!1815
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=10 {{Party shading/Democratic-Republican}} |[[Nathaniel Macon]] {{small|(DR)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |11DR, 2F<!-- US House -->
+|- style="height:2em"
+!1816
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Montfort Stokes]] {{small|(DR)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1817
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[John Branch]] {{small|(DR)}}<!-- Gov -->
+|rowspan=8 {{Party shading/Democratic-Republican}} |William P. Drew {{small|(DR)}}<!-- AG -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Monroe|Monroe]]/<br>[[Daniel D. Tompkins|Tompkins]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1818
+|- style="height:2em"
+!1819
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |10DR, 3F<!-- US House -->
+|- style="height:2em"
+!1820
+|{{Party shading/Democratic-Republican}} |[[Jesse Franklin]] {{small|(DR)}}<!-- Gov -->
+|- style="height:2em"
+!1821
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Gabriel Holmes]] {{small|(DR)}}<!-- Gov -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |13DR<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Monroe|Monroe]]/<br>[[Daniel D. Tompkins|Tompkins]] {{small|(DR)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1822
+|- style="height:2em"
+!1823
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Branch]] {{small|(DR)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Democratic-Republican}} |12DR, 1F<!-- US House -->
+|- style="height:2em"
+!1824
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Hutchins Gordon Burton]] {{small|(DR)}}<!-- Gov -->
+|- style="height:2em"
+!1825
+|rowspan=3 {{Party shading/Federalist}} |James F. Taylor {{small|(F)}}<!-- AG -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=4 {{Party shading/Jacksonian}} |[[John Branch]] {{small|(J)}}
+|rowspan=4 {{Party shading/Jacksonian}} |[[Nathaniel Macon]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |12J, 1NR<!-- US House -->
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Andrew Jackson|Jackson]]/<br>[[John C. Calhoun|Calhoun]] {{small|(DR)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1826
+|- style="height:2em"
+!1827
+|{{Party shading/Democratic-Republican}} |[[James Iredell Jr.]] {{small|(DR)}}<!-- Gov -->
+|rowspan=4 |[[William S. Robards]]<!-- Treasurer -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Jacksonian}} |8J, 5NR<!-- US House -->
+|- style="height:2em"
+!1828
+|rowspan=2 {{Party shading/Democratic}} |[[John Owen (North Carolina politician)|John Owen]] {{small|(D)}}<!-- Gov -->
+|rowspan=30 {{Party shading/Independent}} |William Hill {{small|(I)}}<!-- Sec -->
+|{{Party shading/Independent}} |Robert H. Jones {{small|(I)}}<!-- AG -->
+|- style="height:2em"
+!1829
+|rowspan=6 {{Party shading/Democratic}} |[[Romulus M. Saunders]] {{small|(D)}}<!-- AG -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=9 {{Party shading/Jacksonian}} |[[Bedford Brown]] {{small|(J)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Jacksonian}} |[[James Iredell Jr.]] {{small|(J)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Jacksonian}} |9J, 4NR<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson|Jackson]]/<br>[[John C. Calhoun|Calhoun]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1830
+|rowspan=2 {{Party shading/Democratic}} |[[Montfort Stokes]] {{small|(D)}}<!-- Gov -->
+|- style="height:2em"
+!1831
+|rowspan=4 |William S. Mhoon<!-- Treasurer -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=2 {{Party shading/Jacksonian}} |[[Willie P. Mangum]] {{small|(J)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Jacksonian}} |10J, 3NR<!-- US House -->
+|- style="height:2em"
+!1832
+|rowspan=3 {{Party shading/National Republican}} |[[David L. Swain]] {{small|(NR)}}<!-- Gov -->
+|- style="height:2em"
+!1833
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|rowspan=2 class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|rowspan=3 {{Party shading/National Republican}} |[[Willie P. Mangum]] {{small|(NR)}}
+|rowspan=5 {{Party shading/National Republican}} |7NR, 6J<!-- US House -->
+|rowspan=5 {{Party shading/Democratic}} |[[Andrew Jackson|Jackson]]/<br>[[Martin Van Buren|Van Buren]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1834
+|- style="height:2em"
+!1835
+|{{Party shading/Democratic}} |[[Richard Dobbs Spaight Jr.|Richard D. Spaight Jr.]] {{small|(D)}}<!-- Gov -->
+|rowspan=7 {{Party shading/Democratic}} |[[John R. J. Daniel]] {{small|(D)}}<!-- AG -->
+|rowspan=3 {{Party shading/Whig}} |[[Samuel F. Patterson]] {{small|(W)}}<!-- Treasurer -->
+|class=small |{{dm|date=February 2020|?}}<!-- NC Senate -->
+|class=small |{{dm|date=February 2020|?}}<!-- NC House -->
+|- style="height:2em"
+!rowspan=2 |1836
+|rowspan=6 {{Party shading/Whig}} |[[Edward Bishop Dudley|Edward Bishop<br>Dudley]] {{small|(W)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |33D, 30W, 2?<!-- NC Senate -->
+|rowspan=2 {{Party shading/Whig}} |68W, 64D, 4?, 1&nbsp;vac.<!-- NC House -->{{efn |Elected [[William Henry Haywood Jr.]], a Democrat, as a minority-party Speaker.<ref>{{Cite book|last=Hamilton|first=Joseph Grégoire de Roulhac|url=https://books.google.com/books?id=qnULAQAAIAAJ|title=Party Politics in North Carolina, 1835-1860|date=1916|publisher=Seeman Printery|isbn=978-0-598-68407-3|language=en|page=30}}</ref>}}
+|''vacant''<!-- US Senator 3 -->
+|- style="height:2em"
+|{{Party shading/Jacksonian}} |[[Robert Strange (American politician)|Robert Strange]] {{small|(J)}}
+|- style="height:2em"
+!1837
+|rowspan=2 {{Party shading/Democratic}} |Daniel W. Courts {{small|(D)}}<!-- Treasurer -->
+|rowspan=2 {{Party shading/Whig}} |26W, 24D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |62D, 58W<!-- NC House -->
+|rowspan=3 {{Party shading/Democratic}} |[[Bedford Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Robert Strange (American politician)|Robert Strange]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Whig}} |8W, 5D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Martin Van Buren|Van Buren]]/<br>[[Richard Mentor Johnson|Johnson]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1838
+|- style="height:2em"
+!1839
+|rowspan=4 |Charles L. Hinton<!-- Treasurer -->
+|rowspan=2 {{Party shading/Whig}} |27W, 23D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Whig}} |66W, 54D<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 6W<!-- US House -->
+|- style="height:2em"
+!1840
+|rowspan=13 {{Party shading/Whig}} |[[Willie P. Mangum]] {{small|(W)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1841
+|rowspan=4 {{Party shading/Whig}} |[[John Motley Morehead|John Motley<br>Morehead]] {{small|(W)}}<!-- Gov -->
+|{{Party shading/Whig}} |Hugh McQueen {{small|(W)}}<!-- AG -->
+|rowspan=2 {{Party shading/Whig}} |28W, 22D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Whig}} |75W, 45D<!-- NC House -->
+|rowspan=2 {{Party shading/Whig}} |[[William Alexander Graham|William A. Graham]] {{small|(W)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Whig}} |8W, 5D<!-- US House -->
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison|Harrison]]/<br>[[John Tyler|Tyler]] {{small|(W)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1842
+|rowspan=5 {{Party shading/Democratic}} |Spier Whitaker {{small|(D)}}<!-- AG -->
+|- style="height:2em"
+!1843
+|rowspan=2 {{Party shading/Democratic}} |[[John H. Wheeler]] {{small|(D)}}<!-- Treasurer -->
+|rowspan=2 {{Party shading/Whig}} |30W, 20D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |67D, 53W<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[William Henry Haywood Jr.|William Henry<br>Haywood Jr.]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic}} |6D, 3W<!-- US House -->
+|- style="height:2em"
+!1844
+|- style="height:2em"
+!1845
+|rowspan=4 {{Party shading/Whig}} |[[William Alexander Graham|William A. Graham]] {{small|(W)}}<!-- Gov -->
+|rowspan=6 |Charles L. Hinton<!-- Treasurer -->
+|rowspan=2 {{Party shading/Tie}} |25W, 25D<!-- NC Senate -->{{efn |A power-sharing agreement between the parties was negotiated, with [[Burgess Sidney Gaither]], a Whig, assuming the Senate Presidency, while the Democrats retained the Senate staff.<ref>{{Cite book|last=Hamilton|first=Joseph Grégoire de Roulhac|url=https://books.google.com/books?id=qnULAQAAIAAJ|title=Party Politics in North Carolina, 1835-1860|date=1916|publisher=Seeman Printery|isbn=978-0-598-68407-3|language=en|pages=99–100}}</ref>}}
+|rowspan=2 {{Party shading/Whig}} |70W, 50D<!-- NC House -->
+|rowspan=4 {{Party shading/Whig}} |[[Henry Clay|Clay]]/<br>[[Theodore Frelinghuysen|Frelinghuysen]] {{small|(W)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1846
+|- style="height:2em"
+!1847
+|rowspan=2 {{Party shading/Whig}} |Edward Stanly {{small|(W)}}<!-- AG -->
+|rowspan=2 {{Party shading/Whig}} |27W, 23D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Whig}} |65W, 55D<!-- NC House -->
+|rowspan=8 {{Party shading/Whig}} |[[George Edmund Badger|George E. Badger]] {{small|(W)}}<!-- US Senator 3 -->
+|rowspan=6 {{Party shading/Whig}} |5W, 4D<!-- US House -->
+|- style="height:2em"
+!1848
+|- style="height:2em"
+!1849
+|rowspan=2 {{Party shading/Whig}} |[[Charles Manly]] {{small|(W)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Whig}} |[[Bartholomew F. Moore]] {{small|(W)}}<!-- AG -->
+|rowspan=2 {{Party shading/Tie}} |25D, 25W<!-- NC Senate -->{{efn |A power-sharing agreement between the parties was negotiated, with Calvin Graves, a Democrat, assuming the Senate Presidency, while the Whigs retained most of the Senate staff.<ref>{{Cite book|last=Hamilton|first=Joseph Grégoire de Roulhac|url=https://books.google.com/books?id=qnULAQAAIAAJ&pg=PA126|title=Party Politics in North Carolina, 1835-1860|date=1916|publisher=Seeman Printery|isbn=978-0-598-68407-3|language=en|page=126}}</ref>}}
+|rowspan=2 {{Party shading/Whig}} |62W, 58D<!-- NC House -->
+|rowspan=4 {{Party shading/Whig}} |[[Zachary Taylor|Taylor]]/<br>[[Millard Fillmore|Fillmore]] {{small|(W)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1850
+|- style="height:2em"
+!1851
+|rowspan=3 {{Party shading/Democratic}} |[[David Settle Reid]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |William Eaton Jr. {{small|(D)}}<!-- AG -->
+|rowspan=12 {{Party shading/Democratic}} |Daniel W. Courts {{small|(D)}}<!-- Treasurer -->
+|rowspan=2 {{Party shading/Democratic}} |27D, 23W<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |65D, 55W<!-- NC House -->
+|- style="height:2em"
+!1852
+|- style="height:2em"
+!1853
+|rowspan=2 {{Party shading/Democratic}} |[[Matt W. Ransom]] {{small|(D)}}<!-- AG -->
+|rowspan=14 {{Party shading/Whig}} |[[Calvin H. Wiley]] {{small|(W)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Democratic}} |28D, 22W<!-- NC Senate -->
+|rowspan=2 {{Party shading/Whig}} |62W, 58D<!-- NC House -->
+|''vacant''<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Democratic}} |4D, 3W<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce|Pierce]]/<br>[[William R. King|King]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1854
+|{{Party shading/Democratic}} |[[Warren Winslow]] {{small|(D)}}<!-- Gov -->
+|rowspan=5 {{Party shading/Democratic}} |[[David Settle Reid|David Reid]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1855
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Bragg]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |Joseph B. Batchelor {{small|(D)}}<!-- AG -->
+|rowspan=2 {{Party shading/Democratic}} |30D, 20W<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |63D, 57W<!-- NC House -->
+|rowspan=3 {{Party shading/Democratic}} |[[Asa Biggs]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic}} |5D, 3KN<!-- US House -->
+|- style="height:2em"
+!1856
+|- style="height:2em"
+!1857
+|rowspan=5 {{Party shading/Democratic}} |[[Rufus H. Page]] {{small|(D)}}<!-- Sec -->
+|{{Party shading/Democratic}} |[[William Henry Bailey|William H. Bailey]] {{small|(D)}}<!-- AG -->
+|rowspan=2 {{Party shading/Democratic}} |33D, 17KN+W<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |80D, 40KN+W<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 1KN<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[James Buchanan|Buchanan]]/<br>[[John C. Breckinridge|Breckinridge]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1858
+|rowspan=5 {{Party shading/Democratic}} |William A. Jenkins {{small|(D)}}<!-- AG -->
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas L. Clingman]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1859
+|rowspan=2 {{Party shading/Democratic}} |[[John Willis Ellis]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |32D, 18O<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |82D, 38O<!-- NC House -->
+|rowspan=3 {{Party shading/Democratic}} |[[Thomas Bragg]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Democratic}} |5D, 3O<!-- US House -->
+|- style="height:2em"
+!1860
+|- style="height:2em"
+!1861
+|{{Party shading/Democratic}} |[[Henry Toole Clark]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic}} |31D, 19W+O<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |64D, 56W+O<!-- NC House -->
+|rowspan=7 |<!-- US House -->
+|rowspan=4 {{Party shading/Southern Democratic}} |[[John C. Breckinridge|Breckinridge]]/<br>[[Joseph Lane|Lane]] {{small|({{abbr|SD|Southern Democratic}})}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1862
+|rowspan=3 {{Party shading/Conservative}} |[[Zebulon Vance]] {{small|(C)}}{{efn |name=conservative|The Conservative Party was a state coalition which, during the Civil War, included most Whigs and formerly Unionist Democrats in opposition to secessionsts; postwar, the Conservative Party was in opposition to Republicans and shifted its coalition to be mostly Democrats with some conservative former Whigs. Eventually it changed its name to the modern NC Democratic Party.<ref>{{Cite web|title=Conservative Party |url=https://www.ncpedia.org/conservative-party|access-date=2021-06-23|website=www.ncpedia.org}}</ref>}}<!-- Gov -->
+|rowspan=2 {{Party shading/Conservative}} |[[John P. H. Russ]] {{small|(C)}}<!-- Sec -->
+|rowspan=2 {{Party shading/Democratic}} |Richard H.<br>Battle {{small|(D)}}<!-- Auditor -->
+|rowspan=6 |''vacant''<!-- US Senator 2 -->
+|rowspan=6 |''vacant''<!-- US Senator 3 -->
+|- style="height:2em"
+!1863
+|rowspan=5 {{Party shading/Conservative}} |[[Sion H. Rogers]] {{small|(C)}}<!-- AG -->
+|rowspan=2 {{Party shading/Conservative}} |[[Jonathan Worth (governor)|Jonathan Worth]] {{small|(C)}}{{efn |name=conservative}}<!-- Treasurer -->
+|colspan=2 rowspan=3 class=small |''[[American Civil War]]''
+|- style="height:2em"
+!1864
+|{{Party shading/Conservative}} |[[Charles R. Thomas (1827–1891)|Charles R. Thomas]] {{small|(C)}}<!-- Sec -->
+|rowspan=2 {{Party shading/Conservative}} |[[Samuel F. Phillips|Samuel F.<br>Phillips]] {{small|(C)}}<!-- Auditor -->
+|- style="height:2em"
+!1865
+|{{Party shading/National Union}} |[[William Woods Holden]] {{small|(NU)}}{{efn |Provisional governor appointed by [[President of the United States|President]] [[Andrew Johnson]] until a special election could be held.}}<!-- Gov -->
+|rowspan=3 {{Party shading/Conservative}} |Robert W. Best {{small|(C)}}<!-- Sec -->
+|{{Party shading/National Union}} |William Sloan {{small|(NU)}}<!-- Treasurer -->
+|rowspan=3 |''ineligible to<br>participate''<!-- ECV -->
+|- style="height:2em"
+!1866
+|rowspan=2 {{Party shading/Conservative}} |[[Jonathan Worth (governor)|Jonathan Worth]] {{small|(C)}}{{efn |name=conservative}}<!-- Gov -->
+|rowspan=2 |''vacant''<!-- LG -->
+|rowspan=2 {{Party shading/Conservative}} |[[Kemp P. Battle]] {{small|(C)}}<!-- Treasurer -->
+|{{Party shading/Nonpartisan}} |50NP<!-- NC Senate -->
+|{{Party shading/Nonpartisan}} |120NP<!-- NC House -->
+|- style="height:2em"
+!1867
+|''office abolished''<!-- Pub Inst -->
+|{{Party shading/Republican}} |40R, 10C<!-- NC Senate -->
+|{{Party shading/Republican}} |66R, 54C<!-- NC House -->
+|}
+
+==1868–present==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+|- style="height:2em"
+!rowspan=2 class=unsortable |Year
+!colspan=10 |[[North Carolina Council of State|Council of State]]
+!colspan=2 |[[North Carolina General Assembly|General Assembly]]
+!colspan=3 |[[North Carolina's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[Governor of North Carolina|Gov.]]
+!class=unsortable |[[Lieutenant Governor of North Carolina|Lt. Gov.]]
+!class=unsortable |[[North Carolina Secretary of State|Sec. of State]]
+!class=unsortable |[[North Carolina Attorney General|Atty. Gen.]]
+!class=unsortable |[[North Carolina State Auditor|Auditor]]
+!class=unsortable |[[North Carolina State Treasurer|Treasurer]]
+!class=unsortable |[[North Carolina Superintendent of Public Instruction|Supt. of Pub. Inst.]]
+!class=unsortable |[[North Carolina Commissioner of Agriculture|Comm. of Ag.]]
+!class=unsortable |[[North Carolina Commissioner of Labor|Comm. of Labor]]
+!class=unsortable |[[North Carolina Commissioner of Insurance|Comm. of Ins.]]
+!class=unsortable |[[North Carolina Senate|State Senate]]
+!class=unsortable |[[North Carolina House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from North Carolina|Senator (Class II)]]
+!class=unsortable |[[List of United States senators from North Carolina|Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from North Carolina|House]]
+|- style="height:2em"
+!1868
+|rowspan=2 {{Party shading/Republican}} |[[William Woods Holden]] {{small|(R)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Republican}} |[[Tod Robinson Caldwell]] {{small|(R)}}<!-- LG -->
+|rowspan=5 {{Party shading/Republican}} |[[Henry J. Menninger]] {{small|(R)}}<!-- Sec -->
+|{{Party shading/Republican}} |William M. Coleman {{small|(R)}}<!-- AG -->
+|rowspan=5 {{Party shading/Republican}} |[[Henderson Adams]] {{small|(R)}}<!-- Auditor -->
+|rowspan=8 {{Party shading/Republican}} |[[David A. Jenkins]] {{small|(R)}}<!-- Treasurer -->
+|rowspan=3 {{Party shading/Republican}} |[[Samuel S. Ashley]] {{small|(R)}}<!-- Pub Inst -->
+|rowspan=9 |''no such office''<!-- Agriculture -->
+|rowspan=19 |''no such office''<!-- Labor -->
+|rowspan=31 |''no such office''<!-- Insurance -->
+|{{Party shading/Republican}} |40R, 10C<!-- NC Senate -->
+|{{Party shading/Republican}} |66R, 54C<!-- NC House -->
+|rowspan=3 {{Party shading/Republican}} |[[Joseph Carter Abbott]] {{small|(R)}}<!-- US Senator 2 -->
+|rowspan=5 {{Party shading/Republican}} |[[John Pool]] {{small|(R)}}<!-- US Senator 3 -->
+|{{Party shading/Republican}} |6R, 1Cons
+|
+|- style="height:2em"
+!1869
+|{{Party shading/Republican}} |[[Lewis P. Olds]] {{small|(R)}}<!-- AG -->
+|rowspan=2 {{Party shading/Republican}} |38R, 12C<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |82R, 38C<!-- NC House -->
+|rowspan=2 {{Party shading/Republican}} |6R, 1D<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Schuyler Colfax|Colfax]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1870
+|rowspan=4 {{Party shading/Republican}} |[[Tod Robinson Caldwell]] {{small|(R)}}<!-- Gov -->
+|rowspan=3 {{Party shading/Conservative}} |[[William M. Shipp]] {{small|(C)}}<!-- AG -->
+|- style="height:2em"
+!1871
+|rowspan=4 {{Party shading/Republican}} |[[Alexander McIver]] {{small|(R)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Conservative}} |36C, 14R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Conservative}} |75C, 42R, 3I<!-- NC House -->
+|''vacant<!-- US Senator 2 -->''
+|rowspan=2 {{Party shading/Democratic}} |5D, 2R<!-- US House -->
+|- style="height:2em"
+!1872
+|''vacant''<!-- LG -->
+|rowspan=23 {{Party shading/Democratic}} |[[Matt W. Ransom]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Republican}} |[[Curtis Hooks Brogden]] {{small|(R)}}<!-- LG -->
+|rowspan=4 {{Party shading/Republican}} |[[William H. Howerton]] {{small|(R)}}<!-- Sec -->
+|rowspan=4 {{Party shading/Republican}} |[[Tazewell L. Hargrove]] {{small|(R)}}<!-- AG -->
+|rowspan=4 {{Party shading/Republican}} |John Reilly {{small|(R)}}<!-- Auditor -->
+|rowspan=2 {{Party shading/Democratic}} |32D, 18R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |65D, 54R, 1I<!-- NC House -->
+|rowspan=6 {{Party shading/Democratic}} |[[Augustus Summerfield Merrimon|Augustus Summerfield<br>Merrimon]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic}} |5D, 3R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant|Grant]]/<br>[[Henry Wilson|Wilson]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1874
+|rowspan=3 {{Party shading/Republican}} |[[Curtis Hooks Brogden]] {{small|(R)}}<!-- Gov -->
+|- style="height:2em"
+!1875
+|rowspan=2 |''vacant''<!-- LG -->
+|{{Party shading/Conservative}} |Stephen D. Pool {{small|(C)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Democratic}} |37D, 11R, 2I<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |84D, 34R, 2I<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |7D, 1R<!-- US House -->
+|- style="height:2em"
+!1876
+|rowspan=9 {{Party shading/Democratic}} |[[John M. Worth]] {{small|(D)}}<!-- Treasurer -->
+|{{Party shading/Republican}} |[[John Pool]] {{small|(R)}}<!-- Pub Inst -->
+|- style="height:2em"
+!1877
+|rowspan=2 {{Party shading/Democratic}} |[[Zebulon Vance]] {{small|(D)}}<!-- Gov -->
+|rowspan=3 {{Party shading/Democratic}} |[[Thomas J. Jarvis]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |Joseph A. Engelhard {{small|(D)}}<!-- Sec -->
+|rowspan=8 {{Party shading/Democratic}} |[[Thomas Kenan (Civil War)|Thomas Kenan]] {{small|(D)}}<!-- AG -->
+|rowspan=4 {{Party shading/Democratic}} |Samuel L. Love {{small|(D)}}<!-- Auditor -->
+|rowspan=8 {{Party shading/Democratic}} |John C. Scarborough {{small|(D)}}<!-- Pub Inst -->
+|rowspan=3 {{Party shading/Democratic}} |[[Leonidas L. Polk]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Democratic}} |40D, 10R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |84D, 36R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel J. Tilden|Tilden]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1878
+|- style="height:2em"
+!1879
+|rowspan=6 {{Party shading/Democratic}} |[[Thomas J. Jarvis]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |William L. Saunders {{small|(D)}}<!-- Sec -->
+|rowspan=2 {{Party shading/Democratic}} |34D, 16R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |79D, 41R<!-- NC House -->
+|rowspan=15 {{Party shading/Democratic}} |[[Zebulon Vance]] {{small|(D)}}<!-- US Senator 3 -->
+|{{Party shading/Democratic}} |6D, 1R, 1GB<!-- US House -->
+|- style="height:2em"
+!1880
+|''vacant''<!-- LG -->
+|rowspan=7 {{Party shading/Democratic}} |[[Montford McGehee]] {{small|(D)}}<!-- Agriculture -->
+|{{Party shading/Democratic}} |7D, 1GB
+|- style="height:2em"
+!1881
+|rowspan=4 {{Party shading/Democratic}} |[[James L. Robinson]] {{small|(D)}}<!-- LG -->
+|rowspan=8 {{Party shading/Democratic}} |[[William Paul Roberts]] {{small|(D)}}<!-- Auditor -->
+|rowspan=2 {{Party shading/Democratic}} |38D, 12R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |83D, 37R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 1R<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|rowspan=2 {{Party shading/Democratic}} |34D, 16R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |68D, 52R<!-- NC House -->
+|{{Party shading/Democratic}} |7D, 2R<!-- US House -->
+|- style="height:2em"
+!1884
+|rowspan=3 {{Party shading/Democratic}} |8D, 1R<!-- US House -->
+|- style="height:2em"
+!1885
+|rowspan=4 {{Party shading/Democratic}} |[[Alfred Moore Scales]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Charles Manly Stedman]] {{small|(D)}}<!-- LG -->
+|rowspan=8 {{Party shading/Democratic}} |[[Theodore F. Davidson]] {{small|(D)}}<!-- AG -->
+|rowspan=7 {{Party shading/Democratic}} |Donald W. Bain {{small|(D)}}<!-- Treasurer -->
+|rowspan=8 {{Party shading/Democratic}} |Sidney M. Finger {{small|(D)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Democratic}} |43D, 7R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |97D, 23R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=8 {{Party shading/Democratic}} |[[John Robinson (agriculture commissioner)|John Robinson]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 |Wesley N. Jones<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |33D, 17R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |65D, 55R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 1R, 1I<!-- US House -->
+|- style="height:2em"
+!1888
+|- style="height:2em"
+!1889
+|rowspan=2 {{Party shading/Democratic}} |[[Daniel Gould Fowle]] {{small|(D)}}<!-- Gov -->
+|rowspan=3 {{Party shading/Democratic}} |[[Thomas Michael Holt]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |George W. Sanderlin<!-- Auditor -->
+|rowspan=3 {{Party shading/Democratic}} |John C. Scarborough {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |37D, 13R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |85D, 35R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |6D, 3R<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Allen G. Thurman|Thurman]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas Michael Holt]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Octavius Coke]] {{small|(D)}}<!-- Sec -->
+|rowspan=2 {{Party shading/Democratic}} |43D, 7R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |102D, 17R, 1I<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |8D, 1R<!-- US House -->
+|- style="height:2em"
+!1892
+|''vacant''<!-- LG -->
+|rowspan=3 {{Party shading/Democratic}} |Samuel McDowell Tate {{small|(D)}}<!-- Treasurer -->
+|William I. Harris<!-- Labor -->
+|- style="height:2em"
+!1893
+|rowspan=4 {{Party shading/Democratic}} |[[Elias Carr]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Rufus A. Doughton]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |[[Frank I. Osborne]] {{small|(D)}}<!-- AG -->
+|rowspan=4 {{Party shading/Democratic}} |Robert M. Furman {{small|(D)}}<!-- Auditor -->
+|rowspan=4 {{Party shading/Democratic}} |John C. Scarborough {{small|(D)}}<!-- Pub Inst -->
+|rowspan=4 {{Party shading/Democratic}} |[[Benjamin R. Lacy]] {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |46D, 3Pop, 1R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |92D, 19R, 9Pop<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 1R, 1Pop<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1894
+|{{Party shading/Democratic}} |[[Thomas J. Jarvis]] {{small|(D)}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1895
+|rowspan=2 {{Party shading/Democratic}} |[[Charles M. Cooke]] {{small|(D)}}<!-- Sec -->
+|rowspan=6 {{Party shading/Populist}} |William H. Worth {{small|(Pop)}}<!-- Treasurer -->
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel L. Patterson]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Populist}} |24Pop, 18R, 8D<!-- NC Senate -->{{efn |name=popfusion|The Populists, in coalition with the Republicans, controlled the Senate in a pact of electoral fusion.<ref name=fusion>{{Cite web|date=2019-08-06|title=Fusion Politics - North Carolina History Project|url=https://northcarolinahistory.org/encyclopedia/fusion-politics/|access-date=2021-06-23|archive-url=https://web.archive.org/web/20190806150023/https://northcarolinahistory.org/encyclopedia/fusion-politics/|archive-date=2019-08-06}}</ref>}}
+|rowspan=2 {{Party shading/Republican}} |46D, 38R, 36Pop<!-- NC House -->{{efn |The Republicans, in coalition with the Populists, controlled the House in a pact of electoral fusion.<ref name=fusion/>}}
+|rowspan=6 {{Party shading/Populist}} |[[Marion Butler]] {{small|(Pop)}}<!-- US Senator 2 -->
+|rowspan=8 {{Party shading/Republican}} |[[Jeter C. Pritchard]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Coalition}} |3Pop, 3R, 3D
+|- style="height:2em"
+!1896
+|- style="height:2em"
+!1897
+|rowspan=4 {{Party shading/Republican}} |[[Daniel Lindsay Russell]] {{small|(R)}}{{efn |Russell, while a Republican, was supported by many in the [[People's Party (United States)|Populist Party]] as part of an [[electoral fusion]] coalition, though a separate Populist candidate was also nominated.<ref name=fusion/>}}<!-- Gov -->
+|rowspan=4 {{Party shading/Republican}} |[[Charles A. Reynolds]] {{small|(R)}}<!-- LG -->
+|rowspan=4 {{Party shading/Populist}} |[[Cyrus Thompson]] {{small|(Pop)}}<!-- Sec -->
+|rowspan=3 {{Party shading/Republican}} |[[Zeb V. Walser]] {{small|(R)}}<!-- AG -->
+|rowspan=4 {{Party shading/Populist}} |Hal W. Ayer {{small|(Pop)}}<!-- Auditor -->
+|rowspan=4 {{Party shading/Populist}} |Charles H. Mebane {{small|(Pop)}}<!-- Pub Inst -->
+|{{Party shading/Populist}} |James M. Mewborne {{small|(Pop)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Populist}} |James Y. Hamrick {{small|(Pop)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Populist}} |24Pop, 17R, 9D<!-- NC Senate -->{{efn |name=popfusion}}
+|rowspan=2 {{Party shading/Populist}} |49R, 36D, 35Pop<!-- NC House -->{{efn |name=popfusion}}
+|rowspan=2 {{Party shading/Populist}} |5Pop, 3R, 1D<!-- US House -->
+|rowspan=4 {{Party shading/Fusion}} |6 – [[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D)}} {{Nay}}<br>5 – [[William Jennings Bryan|Bryan]]/<br>[[Thomas E. Watson|Watson]] {{small|(Pop)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1898
+|{{Party shading/Republican}} |[[John R. Smith (agriculture commissioner)|John R. Smith]] {{small|(R)}}<!-- Agriculture -->
+|- style="height:2em"
+!1899
+|rowspan=9 {{Party shading/Democratic}} |[[Samuel L. Patterson]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Democratic}} |[[Benjamin R. Lacy]] {{small|(D)}}<!-- Labor -->
+|rowspan=22 {{Party shading/Democratic}} |[[James R. Young (North Carolina politician)|James R. Young]]<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |40D, 10Pop<!-- NC Senate -->{{efn |name=poprepfusion|The Populists ran with the Republicans on a merged ticket in a pact of electoral fusion.<ref name=fusion/>}}
+|rowspan=2 {{Party shading/Democratic}} |94D, 26Pop<!-- NC House -->{{efn |name=poprepfusion}}
+|rowspan=2 {{Party shading/Democratic}} |6D, 2R, 1Pop<!-- US House -->
+|- style="height:2em"
+!1900
+|{{Party shading/Republican}} |[[Robert Dick Douglas]] {{small|(R)}}<!-- AG -->
+|- style="height:2em"
+!1901
+|rowspan=4 {{Party shading/Democratic}} |[[Charles Brantley Aycock]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Wilfred D. Turner]] {{small|(D)}}<!-- LG -->
+|rowspan=22 {{Party shading/Democratic}} |[[John Bryan Grimes]] {{small|(D)}}<!-- Sec -->
+|rowspan=8 {{Party shading/Democratic}} |Robert D. Gilmer {{small|(D)}}<!-- AG -->
+|rowspan=9 {{Party shading/Democratic}} |Benjamin F. Dixon<!-- Auditor -->
+|rowspan=28 {{Party shading/Democratic}} |[[Benjamin R. Lacy]] {{small|(D)}}<!-- Treasurer -->
+|{{Party shading/Democratic}} |[[Thomas F. Toon]] {{small|(D)}}<!-- Pub Inst -->
+|rowspan=8 {{Party shading/Democratic}} |Henry B. Varner {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |39D, 8R, 3Pop<!-- NC Senate -->{{efn |name=poprepfusion}}
+|rowspan=2 {{Party shading/Democratic}} |101D, 17R, 2Pop<!-- NC House -->{{efn |name=poprepfusion}}
+|rowspan=30 {{Party shading/Democratic}} |[[F. M. Simmons]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Democratic}} |2R, 7D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1902
+|rowspan=17 {{Party shading/Democratic}} |James Y. Joyner {{small|(D)}}<!-- Pub Inst -->
+|- style="height:2em"
+!1903
+|rowspan=2 {{Party shading/Democratic}} |45D, 5R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |100D, 17R, 3ID<!-- NC House -->
+|rowspan=28 {{Party shading/Democratic}} |[[Lee S. Overman]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic}} |10D<!-- US House -->
+|- style="height:2em"
+!1904
+|- style="height:2em"
+!1905
+|rowspan=4 {{Party shading/Democratic}} |[[Robert Broadnax Glenn]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Francis D. Winston]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |44D, 6R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |104D, 16R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |1R, 9D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Alton B. Parker|Parker]]/<br>[[Henry G. Davis|Davis]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Democratic}} |46D, 4R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |99D, 21R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |10D<!-- US House -->
+|- style="height:2em"
+!1908
+|rowspan=15 {{Party shading/Democratic}} |[[William A. Graham (agriculture commissioner)|William A. Graham]] {{small|(D)}}<!-- Agriculture -->
+|- style="height:2em"
+!1909
+|rowspan=4 {{Party shading/Democratic}} |[[William Walton Kitchin]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[William C. Newland]] {{small|(D)}}<!-- LG -->
+|rowspan=8 {{Party shading/Democratic}} |[[Thomas Walter Bickett]] {{small|(D)}}<!-- AG -->
+|rowspan=16 {{Party shading/Democratic}} |Mitchell L. Shipman {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |40D, 10R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |96D, 24R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |3R, 7D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[John W. Kern|Kern]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1910
+|{{Party shading/Democratic}} |Benjamin F. Dixon Jr.<!-- Auditor -->
+|- style="height:2em"
+!1911
+|rowspan=10 {{Party shading/Democratic}} |William P. Wood {{small|(D)}}<!-- Auditor -->
+|rowspan=2 {{Party shading/Democratic}} |43D, 7R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |99D, 21R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |10D<!-- US House -->
+|- style="height:2em"
+!1912
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Democratic}} |[[Locke Craig]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Elijah L. Daughtridge]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |47D, 3R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |107D, 13R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Democratic}} |43D, 7R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |98D, 20R, 2I<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |1R, 9D<!-- US House -->
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Walter Bickett]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Oliver Max Gardner]] {{small|(D)}}<!-- LG -->
+|rowspan=8 {{Party shading/Democratic}} |James S. Manning {{small|(D)}}<!-- AG -->
+|rowspan=2 {{Party shading/Democratic}} |41D, 9R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |97D, 22R, 1I<!-- NC House -->
+|rowspan=12 {{Party shading/Democratic}} |10D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=4 {{Party shading/Democratic}} |[[Eugene C. Brooks]] {{small|(D)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Democratic}} |40D, 10R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |93D, 27R<!-- NC House -->
+|- style="height:2em"
+!1920
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Democratic}} |[[Cameron A. Morrison]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[William B. Cooper (North Carolina politician)|William B. Cooper]] {{small|(D)}}<!-- LG -->
+|rowspan=16 {{Party shading/Democratic}} |Baxter Durham {{small|(D)}}<!-- Auditor -->
+|rowspan=6 {{Party shading/Democratic}} |[[Stacey W. Wade]] {{small|(D)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |39D, 11R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |91D, 29R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[James M. Cox|Cox]]/<br>[[Franklin D. Roosevelt|Roosevelt]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=5 {{Party shading/Democratic}} |William N. Everett {{small|(D)}}<!-- Sec -->
+|rowspan=11 {{Party shading/Democratic}} |Arch T. Allen {{small|(D)}}<!-- Pub Inst -->
+|rowspan=14 {{Party shading/Democratic}} |William A. Graham Jr. {{small|(D)}}<!-- Agriculture -->
+|rowspan=6 {{Party shading/Democratic}} |47D, 3R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |110D, 10R<!-- NC House -->
+|- style="height:2em"
+!1924
+|- style="height:2em"
+!1925
+|rowspan=4 {{Party shading/Democratic}} |[[Angus Wilton McLean]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[J. Elmer Long]] {{small|(D)}}<!-- LG -->
+|rowspan=10 {{Party shading/Democratic}} |Dennis G. Brummitt {{small|(D)}}<!-- AG -->
+|rowspan=8 {{Party shading/Democratic}} |Franklin D. Grist {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |102D, 18R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Davis|Davis]]/<br>[[Charles W. Bryan|Bryan]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=15 {{Party shading/Democratic}} |Daniel C. Boney {{small|(D)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |104D, 16R<!-- NC House -->
+|- style="height:2em"
+!1928
+|rowspan=5 {{Party shading/Democratic}} |James A. Hartness {{small|(D)}}<!-- Sec -->
+|- style="height:2em"
+!1929
+|rowspan=4 {{Party shading/Democratic}} |[[Oliver Max Gardner]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Richard T. Fountain]] {{small|(D)}}<!-- LG -->
+|rowspan=3 {{Party shading/Democratic}} |Nathan O'Berry {{small|(D)}}<!-- Treasurer -->
+|rowspan=2 {{Party shading/Democratic}} |38D, 12R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |84D, 36R<!-- NC House -->
+|rowspan=2 {{party shading/Democratic}} |8D, 2R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=14 {{Party shading/Democratic}} |48D, 2R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |115D, 5R<!-- NC House -->
+|rowspan=16 {{Party shading/Democratic}} |[[Josiah Bailey]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Democratic}} |[[Cameron A. Morrison]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=2 {{party shading/Democratic}} |10D<!-- US House -->
+|- style="height:2em"
+!1932
+|{{Party shading/Democratic}} |John P. Stedman {{small|(D)}}<!-- Treasurer -->
+|- style="height:2em"
+!1933
+|rowspan=4 {{Party shading/Democratic}} |[[John C. B. Ehringhaus]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Alexander H. Graham]] {{small|(D)}}<!-- LG -->
+|rowspan=3 {{Party shading/Democratic}} |Stacey W. Wade {{small|(D)}}<!-- Sec -->
+|rowspan=16 {{Party shading/Democratic}} |Charles M. Johnson {{small|(D)}}<!-- Treasurer -->
+|rowspan=5 {{Party shading/Democratic}} |Arthur L. Fletcher {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |112D, 8R<!-- NC House -->
+|rowspan=12 {{Party shading/Democratic}} |[[Robert R. Reynolds]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=10 {{party shading/Democratic}} |11D<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1934
+|rowspan=18 {{Party shading/Democratic}} |Clyde A. Erwin {{small|(D)}}<!-- Pub Inst -->
+|- style="height:2em"
+!1935
+|rowspan=3 {{Party shading/Democratic}} |[[Aaron A. F. Seawell]] {{small|(D)}}<!-- AG -->
+|rowspan=2 {{Party shading/Democratic}} |108D, 12R<!-- NC House -->
+|- style="height:2em"
+!1936
+|{{Party shading/Democratic}} |Charles G. Powell {{small|(D)}}<!-- Sec -->
+|- style="height:2em"
+!1937
+|rowspan=4 {{Party shading/Democratic}} |[[Clyde R. Hoey]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Wilkins P. Horton]] {{small|(D)}}<!-- LG -->
+|rowspan=52 {{Party shading/Democratic}} |[[Thad A. Eure]] {{small|(D)}}<!-- Sec -->
+|rowspan=10 {{Party shading/Democratic}} |George Ross Pou {{small|(D)}}<!-- Auditor -->
+|rowspan=11 {{Party shading/Democratic}} |[[W. Kerr Scott]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Democratic}} |112D, 8R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1938
+|rowspan=17 {{Party shading/Democratic}} |[[Harry McMullan]] {{small|(D)}}<!-- AG -->
+|rowspan=16 {{Party shading/Democratic}} |[[Forrest H. Shuford]] {{small|(D)}}<!-- Labor -->
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Democratic}} |114D, 6R<!-- NC House -->
+|- style="height:2em"
+!1940
+|- style="height:2em"
+!1941
+|rowspan=4 {{Party shading/Democratic}} |[[J. Melville Broughton]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Reginald L. Harris]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1942
+|rowspan=7 {{Party shading/Democratic}} |William P. Hodges {{small|(D)}}<!-- Insurance -->
+|- style="height:2em"
+!1943
+|rowspan=2 {{Party shading/Democratic}} |108D, 12R<!-- NC House -->
+|rowspan=10 {{party shading/Democratic}} |12D<!-- US House -->
+|- style="height:2em"
+!1944
+|- style="height:2em"
+!1945
+|rowspan=4 {{Party shading/Democratic}} |[[R. Gregg Cherry]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Lynton Y. Ballentine]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |47D, 3R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |106D, 14R<!-- NC House -->
+|rowspan=9 {{Party shading/Democratic}} |[[Clyde R. Hoey]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=34 {{Party shading/Democratic}} |[[Henry L. Bridges]] {{small|(D)}}<!-- Auditor -->
+|rowspan=8 {{Party shading/Democratic}} |48D, 2R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |108D, 12R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |[[William B. Umstead]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1948
+|{{Party shading/Democratic}} |[[David S. Coltrane]] {{small|(D)}}<!-- Agriculture -->
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Democratic}} |[[W. Kerr Scott]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Hoyt Patrick Taylor]]{{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |Brandon P. Hodges {{small|(D)}}<!-- Treasurer -->
+|rowspan=15 {{Party shading/Democratic}} |[[Lynton Y. Ballentine]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=4 {{Party shading/Democratic}} |Waldo C. Cheek {{small|(D)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |109D, 11R<!-- NC House -->
+|{{Party shading/Democratic}} |[[J. Melville Broughton]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1950
+|{{Party shading/Democratic}} |[[Frank Porter Graham]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Democratic}} |111D, 9R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |[[Willis Smith]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1952
+|rowspan=17 {{Party shading/Democratic}} |Charles F. Carroll {{small|(D)}}<!-- Pub Inst -->
+|- style="height:2em"
+!1953
+|{{Party shading/Democratic}} |[[William B. Umstead]] {{small|(D)}}<!-- Gov -->
+|{{Party shading/Democratic}} |[[Luther H. Hodges]] {{small|(D)}}<!-- LG -->
+|rowspan=24 {{Party shading/Democratic}} |[[Edwin M. Gill]] {{small|(D)}}<!-- Treasurer -->
+|rowspan=9 {{Party shading/Democratic}} |Charles F. Gold {{small|(D)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |106D, 14R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |[[Alton Lennon]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=10 {{party shading/Democratic}} |11D, 1R<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Adlai Stevenson II|Stevenson]]/<br>[[John Sparkman|Sparkman]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1954
+|rowspan=7 {{Party shading/Democratic}} |[[Luther H. Hodges]] {{small|(D)}}<!-- Gov -->
+|rowspan=3 |''vacant''<!-- LG -->
+|rowspan=19 {{Party shading/Democratic}} |[[Frank Crane (labor official)|Frank Crane]] {{small|(D)}}<!-- Labor -->
+|rowspan=21 {{Party shading/Democratic}} |[[Sam Ervin]] {{small|(D)}}{{efn |Initially appointed to fill vacancy; later elected in his own right.}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1955
+|{{Party shading/Democratic}} |[[William B. Rodman Jr.]] {{small|(D)}}<!-- AG -->
+|rowspan=2 {{Party shading/Democratic}} |49D, 1R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |110D, 10R<!-- NC House -->
+|rowspan=3 {{Party shading/Democratic}} |[[W. Kerr Scott]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1956
+|rowspan=2 {{Party shading/Democratic}} |[[George B. Patton]] {{small|(D)}}<!-- AG -->
+|- style="height:2em"
+!1957
+|rowspan=4 {{Party shading/Democratic}} |[[Luther E. Barnhardt]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |47D, 3R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |107D, 13R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Adlai Stevenson II|Stevenson]]/<br>[[Estes Kefauver|Kefauver]] {{small|(D)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1958
+|rowspan=2 {{Party shading/Democratic}} |[[Malcolm Buie Seawell]] {{small|(D)}}<!-- AG -->
+|rowspan=15 {{Party shading/Democratic}} |[[B. Everett Jordan]] {{small|(D)}}<!-- US Senator 2 -->
+|- style="height:2em"
+!1959
+|rowspan=2 {{Party shading/Democratic}} |49D, 1R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |116D, 4R<!-- NC House -->
+|- style="height:2em"
+!1960
+|rowspan=9 {{Party shading/Democratic}} |[[T. Wade Bruton]] {{small|(D)}}<!-- AG -->
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |[[Terry Sanford]] {{small|(D)}}<!-- Gov -->
+|{{Party shading/Democratic}} |[[Harvey Cloyd Philpott]] {{small|(D)}}<!-- LG -->
+|rowspan=4 {{Party shading/Democratic}} |48D, 2R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |105D, 15R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1962
+|rowspan=3 |''vacant''<!-- LG -->
+|rowspan=11 {{Party shading/Democratic}} |[[Edwin S. Lanier]] {{small|(D)}}<!-- Insurance -->
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Democratic}} |99D, 21R<!-- NC House -->
+|rowspan=4 {{party shading/Democratic}} |9D, 2R<!-- US House -->
+|- style="height:2em"
+!1964
+|rowspan=37 {{Party shading/Democratic}} |[[James Allen Graham]] {{small|(D)}}<!-- Agriculture -->
+|- style="height:2em"
+!1965
+|rowspan=4 {{Party shading/Democratic}} |[[Dan K. Moore]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Robert W. Scott]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |49D, 1R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |106D, 14R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=2 {{Party shading/Democratic}} |43D, 7R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |94D, 26R<!-- NC House -->
+|rowspan=2 {{party shading/Democratic}} |8D, 3R<!-- US House -->
+|- style="height:2em"
+!1968
+|- style="height:2em"
+!1969
+|rowspan=4 {{Party shading/Democratic}} |[[Robert W. Scott]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Hoyt Patrick Taylor Jr.]] {{small|(D)}}<!-- LG -->
+|rowspan=5 {{Party shading/Democratic}} |[[Robert B. Morgan]] {{small|(D)}}<!-- AG -->
+|rowspan=20 {{Party shading/Democratic}} |A. Craig Phillips {{small|(D)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Democratic}} |38D, 12R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |91D, 29R<!-- NC House -->
+|rowspan=6 {{party shading/Democratic}} |7D, 4R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=2 {{Party shading/Democratic}} |43D, 7R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |96D, 24R<!-- NC House -->
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=4 {{Party shading/Republican}} |[[James Holshouser]] {{small|(R)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Jim Hunt]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic}} |[[William C. Creel]] {{small|(D)}}<!-- Labor -->
+|rowspan=12 {{Party shading/Democratic}} |[[John Ingram (politician)|John Ingram]] {{small|(D)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |34D, 16R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |85D, 35R<!-- NC House -->
+|rowspan=30 {{Party shading/Republican}} |[[Jesse Helms]] {{small|(R)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1974
+|rowspan=2 {{Party shading/Republican}} |[[James H. Carson Jr.]] {{small|(R)}}
+|- style="height:2em"
+!1975
+|rowspan=2 {{Party shading/Republican}} |[[Thomas Avery Nye Jr.]] {{small|(R)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |49D, 1R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |111D, 9R<!-- NC House -->
+|rowspan=6 {{Party shading/Democratic}} |[[Robert B. Morgan]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=6 {{Party shading/Democratic}} |9D, 2R<!-- US House -->
+|- style="height:2em"
+!1976
+|rowspan=9 {{Party shading/Democratic}} |[[Rufus Edmisten]] {{small|(D)}}
+|- style="height:2em"
+!1977
+|rowspan=8 {{Party shading/Democratic}} |[[Jim Hunt]] {{small|(D)}}<!-- Gov -->
+|rowspan=8 {{Party shading/Democratic}} |[[James C. Green]] {{small|(D)}}<!-- LG -->
+|rowspan=24 {{Party shading/Democratic}} |[[Harlan E. Boyles]] {{small|(D)}}<!-- Treasurer -->
+|rowspan=16 {{Party shading/Democratic}} |[[John C. Brooks]] {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |46D, 4R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |114D, 6R<!-- NC House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=2 {{Party shading/Democratic}} |45D, 5R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |105D, 15R<!-- NC House -->
+|- style="height:2em"
+!1980
+|- style="height:2em"
+!1981
+|rowspan=12 {{Party shading/Democratic}} |[[Ed Renfrow]] {{small|(D)}}<!-- Auditor -->
+|rowspan=2 {{Party shading/Democratic}} |40D, 10R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |96D, 24R<!-- NC House -->
+|rowspan=5 {{Party shading/Republican}} |[[John P. East]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 4R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=2 {{Party shading/Democratic}} |44D, 6R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |102D, 18R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |9D, 2R<!-- US House -->
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=8 {{Party shading/Republican}} |[[James G. Martin]] {{small|(R)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Robert B. Jordan]] {{small|(D)}}<!-- LG -->
+|rowspan=8 {{Party shading/Democratic}} |[[Lacy Thornburg]] {{small|(D)}}<!-- AG -->
+|rowspan=24 {{Party shading/Democratic}} |[[James E. Long]] {{small|(D)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |38D, 12R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |82D, 38R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |6D, 5R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1986
+|{{Party shading/Republican}} |[[Jim Broyhill]] {{small|(R)}}<!-- US Senator 3 -->
+|- style="height:2em"
+!1987
+|rowspan=2 {{Party shading/Democratic}} |40D, 10R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |81D, 39R<!-- NC House -->
+|rowspan=6 {{Party shading/Democratic}} |[[Terry Sanford]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Democratic}} |8D, 3R<!-- US House -->
+|- style="height:2em"
+!1988
+|- style="height:2em"
+!1989
+|rowspan=4 {{Party shading/Republican}} |[[Jim Gardner (politician)|Jim Gardner]] {{small|(R)}}<!-- LG -->
+|rowspan=7 {{Party shading/Democratic}} |[[Rufus Edmisten]] {{small|(D)}}<!-- Sec -->
+|rowspan=8 {{Party shading/Democratic}} |[[Bob Etheridge]] {{small|(D)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Democratic}} |37D, 13R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |74D, 46R<!-- NC House -->
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=2 {{Party shading/Democratic}} |36D, 14R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |81D, 39R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 4R<!-- US House -->
+|- style="height:2em"
+!1992
+|- style="height:2em"
+!1993
+|rowspan=8 {{Party shading/Democratic}} |[[Jim Hunt]] {{small|(D)}}<!-- Gov -->
+|rowspan=8 {{Party shading/Democratic}} |[[Dennis A. Wicker]] {{small|(D)}}<!-- LG -->
+|rowspan=8 {{Party shading/Democratic}} |[[Mike Easley]] {{small|(D)}}<!-- AG -->
+|rowspan=12 {{Party shading/Democratic}} |[[Ralph Campbell Jr.]] {{small|(D)}}<!-- Auditor -->
+|rowspan=8 {{Party shading/Democratic}} |[[Harry Payne (politician)|Harry Payne]] {{small|(D)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |39D, 11R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |78D, 42R<!-- NC House -->
+|rowspan=6 {{Party shading/Republican}} |[[Lauch Faircloth]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Democratic}} |8D, 4R<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=2 {{Party shading/Democratic}} |26D, 24R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |68R, 52D<!-- NC House -->
+|rowspan=2 {{Party shading/Republican}} |8R, 4D<!-- US House -->
+|- style="height:2em"
+!1996
+|{{Party shading/Democratic}} |[[Janice Faulkner]] {{small|(D)}}
+|- style="height:2em"
+!1997
+|rowspan=30 {{Party shading/Democratic/current}} |[[Elaine Marshall]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Michael E. Ward]] {{small|(D)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Democratic}} |30D, 20R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |61R, 59D<!-- NC House -->
+|rowspan=2 {{Party shading/Tie}} |6R, 6D<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Bob Dole|Dole]]/<br>[[Jack Kemp|Kemp]] {{small|(R)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=4 {{Party shading/Democratic}} |35D, 15R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |66D, 54R<!-- NC House -->
+|rowspan=6 {{Party shading/Democratic}} |[[John Edwards]] {{small|(D)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Republican}} |7R, 5D<!-- US House -->
+|- style="height:2em"
+!2000
+|- style="height:2em"
+!2001
+|rowspan=8 {{Party shading/Democratic}} |[[Mike Easley]] {{small|(D)}}<!-- Gov -->
+|rowspan=8 {{Party shading/Democratic}} |[[Bev Perdue]] {{small|(D)}}<!-- LG -->
+|rowspan=16 {{Party shading/Democratic}} |[[Roy Cooper]] {{small|(D)}}<!-- AG -->
+|rowspan=8 {{Party shading/Democratic}} |[[Richard H. Moore]] {{small|(D)}}<!-- Treasurer -->
+|rowspan=2 {{Party shading/Democratic}} |[[Meg Scott Phipps]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=20 {{Party shading/Republican}} |[[Cherie Berry]] {{small|(R)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Democratic}} |62D, 58R<!-- NC House -->
+|rowspan=4 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=2 {{Party shading/Democratic}} |[[Britt Cobb]] {{small|(D)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Democratic}} |28D, 22R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Tie}} |60D, 60R<!-- NC House -->{{efn |Was 61R, 59D after the 2002 elections, but [[Michael P. Decker]] switched parties from Republican to Democratic to establish split control of the House before the start of the 2003 session.}}
+|rowspan=6 {{Party shading/Republican}} |[[Elizabeth Dole]] {{small|(R)}}<!-- US Senator 2 -->
+|rowspan=4 {{Party shading/Republican}} |7R, 6D<!-- US House -->
+|- style="height:2em"
+!2004
+|{{Party shading/Democratic}} |[[Patricia N. Willoughby]] {{small|(D)}}<!-- Pub Inst -->
+|- style="height:2em"
+!2005
+|rowspan=4 {{Party shading/Republican}} |[[Les Merritt]] {{small|(R)}}<!-- Auditor -->
+|rowspan=12 {{Party shading/Democratic}} |[[June Atkinson]] {{small|(D)}}<!-- Pub Inst -->
+|rowspan=22 {{Party shading/Republican/current}} |[[Steve Troxler]] {{small|(R)}}<!-- Agriculture -->
+|rowspan=2 {{Party shading/Democratic}} |29D, 21R<!-- NC Senate -->
+|rowspan=2 {{Party shading/Democratic}} |63D, 57R<!-- NC House -->
+|rowspan=18 {{Party shading/Republican}} |[[Richard Burr]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=4 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=2 {{Party shading/Democratic}} |31D, 19R<!-- NC Senate -->
+|rowspan=4 {{Party shading/Democratic}} |68D, 52R<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 6R<!-- US House -->
+|- style="height:2em"
+!2008
+|- style="height:2em"
+!2009
+|rowspan=4 {{Party shading/Democratic}} |[[Bev Perdue]] {{small|(D)}}<!-- Gov -->
+|rowspan=4 {{Party shading/Democratic}} |[[Walter Dalton]] {{small|(D)}}<!-- LG -->
+|rowspan=15 {{Party shading/Democratic}} |[[Beth Wood]] {{small|(D)}}<!-- Auditor -->
+|rowspan=8 {{Party shading/Democratic}} |[[Janet Cowell]] {{small|(D)}}<!-- Treasurer -->
+|rowspan=8 {{Party shading/Democratic}} |[[Wayne Goodwin]] {{small|(D)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Democratic}} |30D, 20R<!-- NC Senate -->
+|rowspan=6 {{Party shading/Democratic}} |[[Kay Hagan]] {{small|(D)}}<!-- US Senator 2 -->
+|rowspan=2 {{Party shading/Democratic}} |8D, 5R<!-- US House -->
+|rowspan=4 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=2 {{Party shading/Republican}} |31R, 19D<!-- NC Senate -->
+|{{Party shading/Republican}} |67R, 52D, 1I<!-- NC House -->
+|rowspan=2 {{Party shading/Democratic}} |7D, 6R<!-- US House -->
+|- style="height:2em"
+!2012
+|{{Party shading/Republican}} |68R, 52D<!-- NC House -->{{efn |Independent representative [[Bert Jones (politician)|Bert Jones]] became a Republican.}}
+|- style="height:2em"
+!2013
+|rowspan=4 {{Party shading/Republican}} |[[Pat McCrory]] {{small|(R)}}<!-- Gov -->
+|rowspan=8 {{Party shading/Republican}} |[[Dan Forest]] {{small|(R)}}<!-- LG -->
+|rowspan=2 {{Party shading/Republican}} |33R, 17D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |77R, 43D<!-- NC House -->
+|rowspan=2 {{Party shading/Republican}} |9R, 4D{{efn |The [[North Carolina's 12th congressional district|12th district]] was vacant from January to November 2014, after the resignation of [[Mel Watt]].}}<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=2 {{Party shading/Republican}} |34R, 16D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |74R, 45D, 1I<!-- NC House -->{{efn |A Democrat, [[Paul Tine]], switched parties before the 2015 session and became an independent while caucusing with the Republicans.}}
+|rowspan=12 {{Party shading/Republican/current}} |[[Thom Tillis]] {{small|(R)}}<!-- US Senator 2 -->
+|rowspan=5 {{Party shading/Republican}} |10R, 3D<!-- US House -->
+|- style="height:2em"
+!2016
+|- style="height:2em"
+!2017
+|rowspan=8 {{Party shading/Democratic}} |[[Roy Cooper]] {{small|(D)}}<!-- Gov -->
+|rowspan=8 {{Party shading/Democratic}} |[[Josh Stein]] {{small|(D)}}<!-- AG -->
+|rowspan=8 {{Party shading/Republican}} |[[Dale Folwell]] {{small|(R)}}<!-- Treasurer -->
+|rowspan=4 {{Party shading/Republican}} |[[Mark Johnson (North Carolina politician)|Mark Johnson]] {{small|(R)}}<!-- Pub Inst -->
+|rowspan=10 {{Party shading/Republican/current}} |[[Mike Causey]] {{small|(R)}}<!-- Insurance -->
+|rowspan=2 {{Party shading/Republican}} |35R, 15D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |74R, 46D<!-- NC House -->
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{Aye}}<!-- ECV -->
+|- style="height:2em"
+!2018
+|- style="height:2em"
+!2019
+|rowspan=2 {{Party shading/Republican}} |29R, 21D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |65R, 55D<!-- NC House -->
+|- style="height:2em"
+!2020
+|{{Party shading/Republican}} |9R, 3D{{efn |The [[North Carolina's 11th congressional district|11th district]] was vacant from April to December 2020, after the resignation of [[Mark Meadows]].}}<!-- US House -->
+|- style="height:2em"
+!2021
+|rowspan=4 {{Party shading/Republican}} |[[Mark Robinson (American politician)|Mark Robinson]] {{small|(R)}}<!-- LG -->
+|rowspan=4 {{Party shading/Republican}} |[[Catherine Truitt]] {{small|(R)}}<!-- Pub Inst -->
+|rowspan=4 {{Party shading/Republican}} |[[Josh Dobson]] {{small|(R)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Republican}} |28R, 22D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |69R, 51D<!-- NC House -->
+|rowspan=2 {{Party shading/Republican}} |8R, 5D<!-- US House -->
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{Nay}}<!-- ECV -->
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=4 {{Party shading/Republican/current}} |30R, 20D<!-- NC Senate -->
+|rowspan=2 {{Party shading/Republican}} |72R, 48D{{efn |name=Cotham|Democrat [[Tricia Cotham]] switched parties to Republican during the 2023 session.}}<!-- NC House -->
+|rowspan=4 {{Party shading/Republican/current}} |[[Ted Budd]] {{small|(R)}}<!-- US Senator 3 -->
+|rowspan=2 {{Party shading/Tie}} |7D, 7R<!-- US House -->
+|- style="height:2em"
+!2024
+|{{Party shading/Democratic}} |[[Jessica Holmes (politician)|Jessica Holmes]] {{small|(D)}}<!-- Auditor -->
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |[[Josh Stein]] {{small|(D)}}<!-- Gov -->
+|rowspan=2 {{Party shading/Democratic/current}} |[[Rachel Hunt]] {{small|(D)}}<!-- LG -->
+|rowspan=2 {{Party shading/Democratic/current}} |[[Jeff Jackson (politician)|Jeff Jackson]] {{small|(D)}}<!-- AG -->
+|rowspan=2 {{Party shading/Republican/current}} |[[Dave Boliek]] {{small|(R)}}<!-- Auditor -->
+|rowspan=2 {{Party shading/Republican/current}} |[[Brad Briner]] {{small|(R)}}<!-- Treasurer -->
+|rowspan=2 {{Party shading/Democratic/current}} |[[Mo Green]] {{small|(D)}}<!-- Pub Inst -->
+|rowspan=2 {{Party shading/Republican/current}} |[[Luke Farley]] {{small|(R)}}<!-- Labor -->
+|rowspan=2 {{Party shading/Republican/current}} |71R, 49D<!-- NC House -->
+|rowspan=2 {{Party shading/Republican/current}} |10R, 4D<!-- US House -->
+|rowspan=2 {{party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}<!-- ECV -->
+|- style="height:2em"
+!2026
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[Politics of North Carolina]]
+*[[Elections in North Carolina]]
+
+==References==
+{{reflist}}
+
+== External links ==
+*[http://politicalgraveyard.com/geo/NC/ofc/index.html Political Graveyard.com, NC Offices]
+
+{{North Carolina State Legislatures}}
+{{Political party strength in U.S. states|state=expanded}}
+
+{{DEFAULTSORT:Political Party Strength In North Carolina}}
+[[Category:Politics of North Carolina]]
+[[Category:Government of North Carolina]]
+[[Category:Political party strength in the United States by state|North Carolina]]

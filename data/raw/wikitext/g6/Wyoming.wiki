@@ -1,0 +1,892 @@
+{{Short description|none}}
+{{Use mdy dates|date=July 2018}}
+{{Use American English|date=July 2018}}
+{{Infobox official post
+| post = Governor
+| body = Wyoming
+| insignia = Seal of the Governor of Wyoming.svg
+| insignia_size = 110px
+| insignia_caption = Seal of the governor
+| image = Wyoming Governor Mark Gordon expands partnership with Tunisia to enhance agriculture and civil protection (4) (cropped).jpg
+| image_size = 
+| incumbent = [[Mark Gordon]]
+| incumbent_since = January 7, 2019
+| style = {{ublist|[[Governor]]<br>(informal)|[[The Honourable#United States of America|The Honorable]]<br>(formal)}}
+| status = {{ublist|[[Head of state]]|[[Head of government]]}}
+| term_length = Four years, renewable once (limited to eight years in a sixteen year period)
+| residence = [[Wyoming Governor's Mansion]]
+| formation = [[Constitution of Wyoming|Wyoming Constitution]]
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Wyoming|Line of succession]]
+| inaugural = [[Francis E. Warren]]
+| salary = $105,000 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/selected-state-administrative-officials-annual-salaries/ |title=Selected State Administrative Officials: Annual Salaries |publisher=The Council of State Governments |access-date=August 7, 2024}}</ref>
+| website = {{URL|governor.wyo.gov}}
+}}
+
+The '''governor of Wyoming''' is the [[head of government]] of [[Wyoming]], and the [[commander-in-chief]] of the  [[Wyoming Military Department|Wyoming's military department (National Guard)]].
+
+The gubernatorial term has been set at four years since statehood. Originally, a governor could be elected any number of times. Since a 1992 referendum, governors have been limited to eight years in office during any 16-year period—effectively limiting them to two consecutive terms, or two non-consecutive terms in a 16 year period. 
+
+== List of governors ==
+===Territory of Wyoming===
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Wyoming
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Campbell, John"|[[File:John Allen Campbell.jpg|75px]]
+|'''[[John Allen Campbell]]'''<br>{{Small|(1835–1880)}}<br>{{sfn|McMullin|1984|pp=337–338}}
+|data-sort-value="2136"|April 7, 1869{{efn|Campbell was nominated on April 3, 1869;<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 1st sess., [https://books.google.com/books?id=WmNE_7V_ESoC&pg=PA76 76], accessed July 22, 2023.</ref> confirmed by the Senate on April 7;<ref>U.S. Congress. ''Senate Exec. Journal''. 41st Cong., 1st sess., [https://books.google.com/books?id=WmNE_7V_ESoC&pg=PA108 108], accessed July 22, 2023.</ref> took the oath of office on April 15;{{sfn|McMullin|1984|pp=337–338}} and arrived in the territory on May 7.{{sfn|McMullin|1984|pp=337–338}} He was reconfirmed by the Senate on March 26, 1873.<ref>U.S. Congress. ''Senate Exec. Journal''. 43rd Cong., special sess., [https://books.google.com/books?id=FwPKKAbzu9sC&pg=PA116 116], accessed July 22, 2023.</ref>}}<br />–<br />February 10, 1875<br>{{small|(2136 days; replaced)}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Thayer, John"|[[File:John Milton Thayer - Brady-Handy.jpg|75px]]
+|'''[[John Milton Thayer]]'''<br>{{Small|(1820–1906)}}<br>{{sfn|McMullin|1984|pp=338–339}}
+|data-sort-value="1156"|February 10, 1875{{efn|Thayer was nominated<ref>U.S. Congress. ''Senate Exec. Journal''. 43rd Cong., 2nd sess., [https://books.google.com/books?id=DJ-iAAAAMAAJ&pg=PA509 509], accessed July 22, 2023.</ref> and confirmed by the Senate<ref>U.S. Congress. ''Senate Exec. Journal''. 43rd Cong., 2nd sess., [https://books.google.com/books?id=DJ-iAAAAMAAJ&pg=PA510 510], accessed July 22, 2023.</ref> on February 10, 1875, and took the oath of office on March 1.{{sfn|McMullin|1984|pp=338–339}}}}<br />–<br />April 10, 1878<br>{{small|(1156 days; replaced)}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Hoyt, John"|[[File:John Wesley Hoyt.jpg|75px]]
+|'''[[John Wesley Hoyt]]'''<br>{{Small|(1831–1912)}}<br>{{sfn|McMullin|1984|pp=339–340}}
+|data-sort-value="1577"|April 10, 1878{{efn|Hoyt was nominated on March 12, 1878;<ref>U.S. Congress. ''Senate Exec. Journal''. 45th Cong., 2nd sess., [https://books.google.com/books?id=jVxNRFtHPLEC&pg=PA261 261], accessed July 22, 2023.</ref> confirmed by the Senate on April 10;<ref>U.S. Congress. ''Senate Exec. Journal''. 45th Cong., 2nd sess., [https://books.google.com/books?id=jVxNRFtHPLEC&pg=PA291 291], accessed July 22, 2023.</ref> and arrived in the territory on May 29.{{sfn|McMullin|1984|pp=339–340}}}}<br />–<br />August 3, 1882<br>{{small|(1577 days; replaced)}}
+|{{sortname|Rutherford B.|Hayes}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Hale, William"|[[File:William Hale.jpg|75px]]
+|'''[[William Hale (Wyoming politician)|William Hale]]'''<br>{{Small|(1837–1885)}}<br>{{sfn|McMullin|1984|p=341}}
+|data-sort-value="895"|August 3, 1882{{efn|Hale was nominated on July 26, 1882;<ref>U.S. Congress. ''Senate Exec. Journal''. 47th Cong., 1st sess., [https://books.google.com/books?id=5iZqp6LiAkkC&pg=PA497 497], accessed July 22, 2023.</ref> confirmed by the Senate on August 3;<ref>U.S. Congress. ''Senate Exec. Journal''. 47th Cong., 1st sess., [https://books.google.com/books?id=5iZqp6LiAkkC&pg=PA516 516], accessed July 22, 2023.</ref> and took the oath of office on August 22.{{sfn|McMullin|1984|p=341}}}}<br />–<br />January 13, 1885<br>{{small|(895 days; died in office)}}{{efn|Territorial Secretary [[Elliot S. N. Morgan]] acted as governor until Hale's successor arrived.{{sfn|McMullin|1984|p=341}}}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Warren, Francis"|[[File:Francis E. Warren.jpg|75px]]
+|'''[[Francis E. Warren]]'''<br>{{Small|(1844–1929)}}<br>{{sfn|McMullin|1984|pp=341–343}}{{sfn|Sobel|1978|p=1765}}
+|data-sort-value="623"|February 27, 1885{{efn|Warren was nominated on February 26, 1885;<ref>U.S. Congress. ''Senate Exec. Journal''. 48th Cong., 2nd sess., [https://books.google.com/books?id=Zd-tAAAAMAAJ&pg=PA484 484], accessed July 22, 2023.</ref> confirmed by the Senate on February 27;<ref>U.S. Congress. ''Senate Exec. Journal''. 48th Cong., 2nd sess., [https://books.google.com/books?id=Zd-tAAAAMAAJ&pg=PA490 490], accessed July 22, 2023.</ref> and took the oath of office on February 28.{{sfn|McMullin|1984|pp=341–343}}}}<br />–<br />November 11, 1886<br>{{small|(623 days; replaced)}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Baxter, George"|[[File:George White Baxter.jpg|75px]]
+|'''[[George W. Baxter]]'''<br>{{Small|(1855–1929)}}<br>{{sfn|McMullin|1984|pp=343–344}}
+|data-sort-value="40"|November 11, 1886{{efn|Baxter was appointed on November 11, 1886, during a Senate recess.{{sfn|McMullin|1984|pp=343–344}} He was not confirmed by the Senate before he resigned.}}<br />–<br />December 20, 1886<br>{{small|(40 days; resigned)}}{{efn|Baxter resigned due to charges of grazing cattle on government land; Territorial Secretary [[Elliot S. N. Morgan]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=343–344}}}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Moonlight, Thomas"|[[File:Thomas Moonlight by Studio of Mathew Brady.jpg|75px]]
+|'''[[Thomas Moonlight]]'''<br>{{Small|(1833–1899)}}<br>{{sfn|McMullin|1984|pp=344–346}}
+|data-sort-value="842"|December 20, 1886{{efn|Moonlight was nominated on December 8, 1886;<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 2nd sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA597 597], accessed July 22, 2023.</ref> confirmed by the Senate on December 20;<ref>U.S. Congress. ''Senate Exec. Journal''. 49th Cong., 2nd sess., [https://books.google.com/books?id=97kzyydE0yoC&pg=PA664 664], accessed July 22, 2023.</ref> and took the oath of office on January 24, 1887.{{sfn|McMullin|1984|pp=344–346}}}}<br />–<br />April 9, 1889<br>{{small|(842 days; replaced)}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Warren, Francis"|[[File:Francis E. Warren.jpg|75px]]
+|'''[[Francis E. Warren]]'''<br>{{Small|(1844–1929)}}<br>{{sfn|McMullin|1984|pp=341–343}}{{sfn|Sobel|1978|p=1765}}
+|data-sort-value="551"|April 9, 1889{{efn|Warren was nominated on March 26, 1889;<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA40 40], accessed July 22, 2023.</ref> confirmed by the Senate on March 27;<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., special sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA46 46], accessed July 22, 2023.</ref> and took the oath of office on April 9.{{sfn|McMullin|1984|pp=341–343}}}}<br />–<br />October 11, 1890<br>{{small|(551 days;<br>elected state governor)}}
+|{{sortname|Benjamin|Harrison}}
+|}
+
+=== State of Wyoming ===
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Wyoming
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Secretary of State of Wyoming|Secretary of State]]{{efn|Secretaries of state represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Warren, Francis"|[[File:Francis E. Warren.jpg|75px]]
+|rowspan="3" style="background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|rowspan="2"|'''[[Francis E. Warren]]'''<br>{{Small|(1844–1929)}}<br>{{sfn|McMullin|1984|pp=341–343}}{{sfn|Sobel|1978|p=1765}}<ref name="nga-warren">{{Cite web |title=Francis E. Warren |url=https://www.nga.org/governor/francis-e-warren/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="45"|October 11, 1890<ref>{{Cite news |date=1890-10-12 |title=Just Before Midnight |page=3 |work=The Cheyenne Daily Leader |url=https://www.newspapers.com/article/the-cheyenne-daily-leader-warren-inaugur/128760422/ |access-date=2023-07-24}}</ref><br />–<br />November 24, 1890<br>{{small|(45 days; resigned)}}{{efn|Warren resigned, having been [[1890–91 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1765}}}}
+|rowspan="2"|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|rowspan="2"|[[1890 Wyoming gubernatorial election|1890]]
+|rowspan="10" style="background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|{{sortname|John W.|Meldrum}}
+|- style="height:2em;"
+|{{sortname|Amos W.|Barber}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Barber, Amos"|[[File:AmosWBarber.jpg|75px]]
+|'''[[Amos W. Barber]]'''<br>{{Small|(1860–1915)}}<br>{{sfn|Sobel|1978|p=1766}}<ref name="nga-barber">{{Cite web |title=Amos Walker Barber |url=https://www.nga.org/governor/amos-walker-barber/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="771"|November 24, 1890<ref>{{Cite news |date=1890-11-25 |title=Governor Barber |page=2 |work=The Cheyenne Daily Leader |url=https://www.newspapers.com/article/the-cheyenne-daily-leader-barber-succeed/128760475/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1893<br>{{small|(771 days; retired)}}{{efn|Barber was instead reelected as secretary of state.}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Osborne, John"|[[File:JohnEOsborne.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John Eugene Osborne]]'''<br>{{Small|(1858–1943)}}<br>{{sfn|Sobel|1978|pp=1766–1767}}<ref name="nga-osborne">{{Cite web |title=John Eugene Osborne |url=https://www.nga.org/governor/john-eugene-osborne/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 2, 1893<ref>{{Cite news |date=1893-01-03 |title=Governor Osborne Takes the Official Oath a Second Time |page=2 |work=Lincoln Journal Star |url=https://www.newspapers.com/article/lincoln-journal-star-osborne-inaugurated/128760668/ |access-date=2023-07-24}}</ref><br />–<br />January 7, 1895<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|pp=1766–1767}}
+|[[Wyoming Democratic Party|Democratic]]{{efn|Osborne represented the Democratic and [[People's Party (United States)|Populist]] parties.{{sfn|Glashan|1979|p=346}}}}
+|[[1892 Wyoming gubernatorial special election|1892]]<br>{{small|(special)}}
+|{{sortname|Amos W.|Barber}}{{efn|Represented the [[Wyoming Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Richards, William"|[[File:WilliamARichards.jpg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William A. Richards]]'''<br>{{Small|(1849–1912)}}<br>{{sfn|Sobel|1978|pp=1767–1768}}<ref name="nga-richards-william">{{Cite web |title=William Alford Richards |url=https://www.nga.org/governor/william-alford-richards/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 7, 1895<ref>{{Cite news |date=1895-01-07 |title=Wyoming's New Governor |page=1 |work=[[Reno Gazette-Journal]] |agency=Associated Press |url=https://www.newspapers.com/article/reno-gazette-journal-richards-inaugurate/128761050/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1899<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|pp=1767–1768}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1894 Wyoming gubernatorial election|1894]]
+|{{sortname|Charles W.|Burdick|nolink=1}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Richards, DeForest"|[[File:DeForest Richards.jpg|75px]]
+|rowspan="2"|'''[[DeForest Richards]]'''<br>{{Small|(1846–1903)}}<br>{{sfn|Sobel|1978|pp=1768–1769}}<ref name="nga-richards-deforest">{{Cite web |title=De Forest Richards |url=https://www.nga.org/governor/de-forest-richards/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1577"|January 2, 1899<ref>{{Cite news |date=1899-01-03 |title=Inducted into Office |page=1 |work=[[The Salt Lake Tribune]] |url=https://www.newspapers.com/article/the-salt-lake-tribune-richards-inaugurat/128761113/ |access-date=2023-07-24}}</ref><br />–<br />April 28, 1903<br>{{small|(1577 days; died in office)}}
+|rowspan="2"|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1898 Wyoming gubernatorial election|1898]]
+|rowspan="2"|{{sortname|Fenimore|Chatterton}}
+|- style="height:2em;"
+|[[1902 Wyoming gubernatorial election|1902]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Chatterton, Fenimore"|[[File:F Chatterton.jpg|75px]]
+|'''[[Fenimore Chatterton]]'''<br>{{Small|(1860–1958)}}<br>{{sfn|Sobel|1978|p=1769}}<ref name="nga-chatterton">{{Cite web |title=Fenimore Chatterton |url=https://www.nga.org/governor/fenimore-chatterton/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="616"|April 28, 1903<ref>{{Cite news |date=1903-04-29 |title=Gov. Richards Called |page=3 |work=[[The Salt Lake Tribune]] |url=https://www.newspapers.com/article/the-salt-lake-tribune-chatterton-succeed/128761155/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1905<br>{{small|(616 days;<br>lost nomination)}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Brooks, Bryant"|[[File:Gov. V.D. Brooks LCCN2014685273 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Bryant Butler Brooks]]'''<br>{{Small|(1861–1944)}}<br>{{sfn|Sobel|1978|p=1770}}
+|rowspan="2" data-sort-value="2192"|January 2, 1905<ref>{{Cite news |date=1905-01-03 |title=Wyoming's New Governor Takes Office |page=5 |work=[[Chicago Tribune]] |url=https://www.newspapers.com/article/chicago-tribune-brooks-inaugurated-janua/128761300/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1911<br>{{small|(2192 days; retired)}}
+|rowspan="2"|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1904 Wyoming gubernatorial special election|1904]]<br>{{small|(special)}}
+|{{sortname|Fenimore|Chatterton}}
+|- style="height:2em;"
+|[[1906 Wyoming gubernatorial election|1906]]
+|{{sortname|William|Schnitger|nolink=1}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Carey, Joseph"|[[File:Joseph Maull Carey (1845–1924).jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Joseph M. Carey]]'''<br>{{Small|(1845–1924)}}<br>{{sfn|Sobel|1978|pp=1770–1771}}<ref name="nga-carey-joseph">{{Cite web |title=Joseph Maull Carey |url=https://www.nga.org/governor/joseph-maull-carey/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 2, 1911<ref>{{Cite news |date=1911-01-03 |title=Carey Inaugurated Governor of Wyoming |page=4 |work=Midland Empire News |url=https://www.newspapers.com/article/midland-empire-news-carey-inaugurated-ja/128761389/ |access-date=2023-07-24}}</ref><br />–<br />January 4, 1915<br>{{small|(1464 days; retired)}}
+|[[Wyoming Democratic Party|Democratic]]{{efn|Sobel notes Carey received the Democratic nomination, but called himself an Independent and, later, a Progressive.{{sfn|Sobel|1978|pp=1770–1771}}}}{{sfn|Sobel|1978|pp=1770–1771}}
+|[[1910 Wyoming gubernatorial election|1910]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Frank L.|Houx}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Kendrick, John"|[[File:JohnBKendrick.jpg|75px]]
+|'''[[John B. Kendrick]]'''<br>{{Small|(1857–1933)}}<br>{{sfn|Sobel|1978|pp=1771–1772}}<ref name="nga-kendrick">{{Cite web |title=John Benjamin Kendrick |url=https://www.nga.org/governor/john-benjamin-kendrick/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="783"|January 4, 1915<ref>{{Cite news |date=1915-01-04 |title=Kendrick Inducted Wyoming Governor |page=1 |work=Salt Lake Telegram |url=https://www.newspapers.com/article/salt-lake-telegram-kendrick-inaugurated/128761473/ |access-date=2023-07-24}}</ref><br />–<br />February 24, 1917<br>{{small|(783 days; resigned)}}{{efn|Kendrick resigned, having been [[1916 United States Senate election in Wyoming|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1771–1772}}}}
+|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1914 Wyoming gubernatorial election|1914]]
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Houx, Frank"|[[File:Frank Lee Houx.jpg|75px]]
+|'''[[Frank L. Houx]]'''<br>{{Small|(1854–1941)}}<br>{{sfn|Sobel|1978|p=1772}}<ref name="nga-houx">{{Cite web |title=Frank L. Houx |url=https://www.nga.org/governor/frank-l-houx/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="682"|February 24, 1917<ref>{{Cite news |date=1917-02-28 |title=Frank L. Houx Now Governor of Wyo. |page=1 |work=The Northern Wyoming Herald |url=https://www.newspapers.com/article/the-northern-wyoming-herald-houx-succeed/128761720/ |access-date=2023-07-24}}</ref><br />–<br />January 6, 1919<br>{{small|(682 days; lost election)}}
+|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Carey, Robert"|[[File:Robert Davis Carey.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Robert D. Carey]]'''<br>{{Small|(1878–1937)}}<br>{{sfn|Sobel|1978|p=1773}}<ref name="nga-carey-robert">{{Cite web |title=Robert Davis Carey |url=https://www.nga.org/governor/robert-davis-carey/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 6, 1919<ref>{{Cite news |date=1919-01-08 |title=Governor Robert D. Carey |page=1 |work=The Northern Wyoming Herald |url=https://www.newspapers.com/article/the-northern-wyoming-herald-carey-inaugu/128761892/ |access-date=2023-07-24}}</ref><br />–<br />January 1, 1923<br>{{small|(1457 days;<br>lost nomination)}}{{efn|Carey lost the Republican nomination to [[John W. Hay]].{{sfn|Sobel|1978|p=1773}}}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1918 Wyoming gubernatorial election|1918]]
+|rowspan="8" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William E.|Chaplin|nolink=1}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Ross, William"|[[File:William B. Ross.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William B. Ross]]'''<br>{{Small|(1873–1924)}}<br>{{sfn|Sobel|1978|pp=1773–1774}}<ref name="nga-ross-william">{{Cite web |title=William Bradford Ross |url=https://www.nga.org/governor/william-bradford-ross/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="641"|January 1, 1923<ref>{{Cite news |date=1923-01-02 |title=New Executive Is Fourth Demo to Hold Office |page=1 |work=[[Casper Star-Tribune]] |url=https://www.newspapers.com/article/casper-star-tribune-ross-inaugurated-jan/128761964/ |access-date=2023-10-03}}</ref><br />–<br />October 2, 1924<br>{{small|(641 days; died in office)}}
+|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1922 Wyoming gubernatorial election|1922]]
+|{{sortname|Frank|Lucas|dab=Wyoming politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Lucas, Frank"|[[File:Frank Lucas of Wyoming.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Frank Lucas (Wyoming politician)|Frank Lucas]]'''<br>{{Small|(1876–1948)}}<br>{{sfn|Sobel|1978|p=1774}}<ref name="nga-lucas">{{Cite web |title=Franklin Earl Lucas |url=https://www.nga.org/governor/franklin-earl-lucas/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="96"|October 2, 1924<ref>{{Cite news |date=1924-10-02 |title=Governor Ross Is Dead |page=1 |work=[[Casper Star-Tribune]]|url=https://www.newspapers.com/article/casper-star-tribune-lucas-succeeds-ross/128762224/ |access-date=2023-07-24}}</ref><br />–<br />January 5, 1925<br>{{small|(96 days; retired)}}{{efn|Lucas instead returned to position as secretary of state.{{sfn|Sobel|1978|p=1774}}}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Ross, Nellie"|[[File:PrNellieRoss.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Nellie Tayloe Ross]]'''<br>{{Small|(1876–1977)}}<br>{{sfn|Sobel|1978|p=1775}}<ref name="nga-ross-nellie">{{Cite web |title=Nellie Tayloe Ross |url=https://www.nga.org/governor/nellie-tayloe-ross/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1925<ref>{{Cite news |date=1925-01-05 |title=Nellie Tayloe Ross Inaugurated Governor; First Woman to Hold This Office in U.S. |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-ross-inaugurated-jan/128762306/ |access-date=2023-10-03}}</ref><br />–<br />January 3, 1927<br>{{small|(729 days; lost election)}}
+|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1924 Wyoming gubernatorial special election|1924]]<br>{{small|(special)}}
+|{{sortname|Frank|Lucas|dab=Wyoming politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Emerson, Frank"|[[File:Frank C. Emerson.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Frank Emerson]]'''<br>{{Small|(1882–1931)}}<br>{{sfn|Sobel|1978|pp=1775–1776}}<ref name="nga-emerson">{{Cite web |title=Frank Collins Emerson |url=https://www.nga.org/governor/frank-collins-emerson/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1508"|January 3, 1927<ref>{{Cite news |date=1927-01-03 |title=Emerson in Inaugural Address Urges Constructive Program |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-emerson-inaugurated/128762400/ |access-date=2023-07-24}}</ref><br />–<br />February 18, 1931<br>{{small|(1508 days; died in office)}}
+|rowspan="2"|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1926 Wyoming gubernatorial election|1926]]
+|rowspan="2"|{{sortname|Alonzo M.|Clark}}
+|- style="height:2em;"
+|[[1930 Wyoming gubernatorial election|1930]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Clark, Alonzo"|[[File:Alonzo M. Clark.jpg|75px]]
+|'''[[Alonzo M. Clark]]'''<br>{{Small|(1868–1952)}}<br>{{sfn|Sobel|1978|pp=1776–1777}}<ref name="nga-clark">{{Cite web |title=Alonzo M. Clark |url=https://www.nga.org/governor/alonzo-m-clark/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="685"|February 18, 1931<ref>{{Cite news |date=1931-02-19 |title=Gov. Emerson Dead |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-clark-succeeds-emers/128762496/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1933<br>{{small|(685 days;<br>lost nomination)}}{{efn|Clark lost the Republican nomination to [[Harry R. Weston]].{{sfn|Sobel|1978|pp=1776–1777}}}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Miller, Leslie"|[[File:Leslie A. Miller.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Leslie A. Miller]]'''<br>{{Small|(1886–1970)}}<br>{{sfn|Sobel|1978|p=1777}}<ref name="nga-miller">{{Cite web |title=Leslie A. Miller |url=https://www.nga.org/governor/leslie-a-miller/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2192"|January 2, 1933<ref>{{Cite news |date=1933-01-02 |title=Gov. Miller Assumes Post |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-miller-inaugurated-j/128762533/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1939<br>{{small|(2192 days; lost election)}}
+|rowspan="2"|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1932 Wyoming gubernatorial special election|1932]]<br>{{small|(special)}}
+|{{sortname|Alonzo M.|Clark}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1934 Wyoming gubernatorial election|1934]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Lester C.|Hunt}}{{efn|Represented the [[Wyoming Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Smith, Nels"|[[File:Gov. Nels H. Smith of Wyoming, Oct. 1939 LCCN2016876346 (1).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Nels H. Smith]]'''<br>{{Small|(1884–1976)}}<br>{{sfn|Sobel|1978|pp=1777–1778}}<ref name="nga-smith">{{Cite web |title=Nels H. Smith |url=https://www.nga.org/governor/nels-h-smith/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 2, 1939<ref>{{Cite news |date=1939-01-02 |title=Governor Smith Takes Oath |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-smith-inaugurated-ja/128762580/ |access-date=2023-07-24}}</ref><br />–<br />January 4, 1943<br>{{small|(1464 days; lost election)}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1938 Wyoming gubernatorial election|1938]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|19
+|rowspan="3" data-sort-value="Hunt, Lester"|[[File:Lester Hunt.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Lester C. Hunt]]'''<br>{{Small|(1892–1954)}}<br>{{sfn|Sobel|1978|pp=1778–1779}}<ref name="nga-hunt">{{Cite web |title=Lester Calloway Hunt |url=https://www.nga.org/governor/lester-calloway-hunt/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 4, 1943<ref>{{Cite news |date=1943-01-04 |title=Governor Hunt Takes Oath |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-hunt-inaugurated-jan/128762612/ |access-date=2023-07-24}}</ref><br />–<br />January 3, 1949<br>{{small|(2192 days; resigned)}}{{efn|Hunt resigned, having been [[1948 United States Senate election in Wyoming|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1778–1779}}}}
+|rowspan="3"|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|rowspan="2"|[[1942 Wyoming gubernatorial election|1942]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Mart T.|Christensen|nolink=1}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William M.|Jack}}
+|- style="height:2em;"
+|[[1946 Wyoming gubernatorial election|1946]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Arthur G.|Crane}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Crane, Arthur"|[[File:Arthur G. Crane, 1938.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Arthur G. Crane]]'''<br>{{Small|(1877–1955)}}<br>{{sfn|Sobel|1978|p=1779}}<ref name="nga-crane">{{Cite web |title=Arthur Griswold Crane |url=https://www.nga.org/governor/arthur-griswold-crane/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 3, 1949<ref>{{Cite news |date=1949-01-03 |title=Crane Becomes Chief Executive |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-crane-succeeds-hunt/128762731/ |access-date=2023-07-24}}</ref><br />–<br />January 1, 1951<br>{{small|(729 days; retired)}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Barrett, Frank"|[[File:Frank A. Barrett (WY).png|75px]]
+|'''[[Frank A. Barrett]]'''<br>{{Small|(1892–1962)}}<br>{{sfn|Sobel|1978|pp=1779–1780}}<ref name="nga-barrett">{{Cite web |title=Frank A. Barrett |url=https://www.nga.org/governor/6861-2/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="734"|January 1, 1951<ref>{{Cite news |last=Woolfson |first=Walt |date=1951-01-01 |title=Barrett Sworn In at Ceremony at Statehouse |page=1 |work=[[Casper Star-Tribune]]|url=https://www.newspapers.com/article/casper-star-tribune-barrett-inaugurated/128762768/ |access-date=2023-07-24}}</ref><br />–<br />January 3, 1953<br>{{small|(734 days; resigned)}}{{efn|Barrett resigned, having been [[1952 United States Senate election in Wyoming|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1779–1780}}}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1950 Wyoming gubernatorial election|1950]]
+|{{sortname|Clifford Joy|Rogers}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Rogers, Clifford"|[[File:No image.svg|75px]]
+|'''[[Clifford Joy Rogers]]'''<br>{{Small|(1897–1962)}}<br>{{sfn|Sobel|1978|p=1780}}<ref name="nga-rogers">{{Cite web |title=Clifford Joy Rogers |url=https://www.nga.org/governor/clifford-joy-rogers/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|January 3, 1953<ref>{{Cite news |date=1953-01-04 |title=Rogers Is Now Governor |page=2 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-rogers-succeeds-barr/128762877/ |access-date=2023-07-24}}</ref><br />–<br />January 3, 1955<br>{{small|(731 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=1780}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Simpson, Milward"|[[File:Milward Simpson (WY).png|75px]]
+|'''[[Milward Simpson]]'''<br>{{Small|(1897–1993)}}<br>{{sfn|Sobel|1978|p=1781}}<ref name="nga-simpson">{{Cite web |title=Milward L. Simpson |url=https://www.nga.org/governor/milward-l-simpson/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 3, 1955<ref>{{Cite news |date=1955-01-03 |title=Simpson Is Sworn In As Governor |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-simpson-inaugurated/128762924/ |access-date=2023-07-24}}</ref><br />–<br />January 5, 1959<br>{{small|(1464 days; lost election)}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1954 Wyoming gubernatorial election|1954]]
+|{{sortname|Everett T.|Copenhaver|nolink=1}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Hickey, Joe"|[[File:John J. Hickey (WY).png|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Joe Hickey (politician)|Joe Hickey]]'''<br>{{Small|(1911–1970)}}<br>{{sfn|Sobel|1978|pp=1781–1782}}<ref name="nga-hickey">{{Cite web |title=John Joseph Hickey |url=https://www.nga.org/governor/john-joseph-hickey/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1959<ref>{{Cite news |date=1959-01-05 |title=Joe Hickey Takes Oath As Governor |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-hickey-inaugurated-j/128762958/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1961<br>{{small|(729 days; resigned)}}{{efn|Hickey resigned so that his successor could appoint him to the [[United States Senate]].{{sfn|Sobel|1978|pp=1781–1782}}}}
+|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1958 Wyoming gubernatorial election|1958]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Jack R.|Gage}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Gage, Jack"|[[File:Governor Jack R. Gage.jpg|75px]]
+|'''[[Jack R. Gage]]'''<br>{{Small|(1899–1970)}}<br>{{sfn|Sobel|1978|pp=1782–1783}}<ref name="nga-gage">{{Cite web |title=Jack Robert Gage |url=https://www.nga.org/governor/jack-robert-gage/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 2, 1961<ref>{{Cite news |date=1961-01-05 |title=Hickey Resigns; Appointed to Senate |page=4 |work=The Jackson Hole Guide |url=https://www.newspapers.com/article/the-jackson-hole-guide-gage-succeeds-hic/128763023/ |access-date=2023-07-24}}</ref><br />–<br />January 7, 1963<br>{{small|(736 days; lost election)}}
+|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|style="background:#EEEEEE;"|{{small|Secretary of<br>state<br>acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Hansen, Clifford"|[[File:Clifford Hansen.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Clifford Hansen]]'''<br>{{Small|(1912–2009)}}<br>{{sfn|Sobel|1978|p=1783}}<ref name="nga-hansen">{{Cite web |title=Clifford P. Hansen |url=https://www.nga.org/governor/clifford-p-hansen/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 7, 1963<ref>{{Cite news |date=1963-01-07 |title=Gov. Hansen Takes Over Duties Today |page=1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-hansen-inaugurated-j/128763067/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1967<br>{{small|(1457 days; retired)}}{{efn|Hansen was instead [[1966 United States Senate election in Wyoming|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1783}}}}
+|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1962 Wyoming gubernatorial election|1962]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="6"|{{sortname|Thyra|Thomson}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|27
+|rowspan="2" data-sort-value="Hathaway, Stanley"|[[File:Stanley K. Hathaway (WY).png|75px]]
+|rowspan="2"|'''[[Stanley K. Hathaway]]'''<br>{{Small|(1924–2005)}}<br>{{sfn|Sobel|1978|pp=1783–1784}}<ref name="nga-hathaway">{{Cite web |title=Stanley K. Hathaway |url=https://www.nga.org/governor/stanley-k-hathaway/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 2, 1967<ref>{{Cite news |last=Missett Jr. |first=Bill |date=1967-01-03 |title=Hathaway Becomes Wyoming's 19th Governor |page=10 |work=[[Casper Star-Tribune]]|url=https://www.newspapers.com/article/casper-star-tribune-hathaway-inaugurated/128763096/ |access-date=2023-07-24}}</ref><br />–<br />January 6, 1975<br>{{small|(2927 days; retired)}}{{sfn|Sobel|1978|pp=1783–1784}}
+|rowspan="2"|[[Wyoming Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1966 Wyoming gubernatorial election|1966]]
+|- style="height:2em;"
+|[[1970 Wyoming gubernatorial election|1970]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|28
+|rowspan="3" data-sort-value="Herschler, Edgar"|[[File:Edgar Herschler signed photo.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Edgar Herschler]]'''<br>{{Small|(1918–1990)}}<br>{{sfn|Sobel|1978|pp=1784–1785}}<ref name="nga-herschler">{{Cite web |title=Edward Herschler |url=https://www.nga.org/governor/edward-herschler/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="4383"|January 6, 1975<ref>{{Cite news |last=Magers |first=Kathie |date=1975-01-07 |title=Herschler Takes Office |page=1 |work=[[Casper Star-Tribune]]|url=https://www.newspapers.com/article/casper-star-tribune-herschler-inaugurate/128763135/ |access-date=2023-07-24}}</ref><br />–<br />January 5, 1987<br>{{small|(4383 days; retired)}}
+|rowspan="3"|[[Wyoming Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=649–651}}
+|[[1974 Wyoming gubernatorial election|1974]]
+|- style="height:2em;"
+|[[1978 Wyoming gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1982 Wyoming gubernatorial election|1982]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Sullivan, Mike"|[[File:WY Governor Mike Sullivan WSA OH-2104.jpg|75px]]
+|rowspan="2"|'''[[Mike Sullivan (Wyoming politician)|Mike Sullivan]]'''<br>{{small|({{Abbr|b.|born in}} 1939)}}<br><ref name="nga-sullivan">{{Cite web |title=Michael J. Sullivan |url=https://www.nga.org/governor/michael-j-sullivan/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 5, 1987<ref>{{Cite news |last=Kirshner |first=Erich |date=1987-01-06 |title=Sullivan Takes Oath As Wyoming's 29th Governor |page=1 |work=[[Casper Star-Tribune]]|url=https://www.newspapers.com/article/casper-star-tribune-sullivan-inaugurated/128763171/ |access-date=2023-07-24}}</ref><br />–<br />January 2, 1995<br>{{small|(2920 days; term-limited)}}{{efn|Under a law passed in 1992, governors are limited to eight years in any period of sixteen years.<ref>{{Cite news |last1=Pershing |first1=Chris|last2=Cillizza|first2=Ben |date=2009-02-16 |title=Will Wyoming's Governor Buck Term Limits? |newspaper=[[The Washington Post]] |language=en-US |url=http://www.washingtonpost.com/wp-dyn/content/article/2009/02/15/AR2009021501918.html |access-date=2023-12-20 |issn=0190-8286}}</ref>|name=limits}}
+|rowspan="2"|[[Wyoming Democratic Party|Democratic]]<ref name="nga-sullivan" />
+|[[1986 Wyoming gubernatorial election|1986]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Kathy|Karpan}}
+|- style="height:2em;"
+|[[1990 Wyoming gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Geringer, Jim"|[[File:Jim Geringer - TEDx Oil Spill - Washington, DC.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jim Geringer]]'''<br>{{small|({{Abbr|b.|born in}} 1944)}}<br><ref name="nga-geringer">{{Cite web |title=Jim Geringer |url=https://www.nga.org/governor/jim-geringer/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 2, 1995<ref>{{Cite news |date=1995-01-03 |title=Geringer Promises Renewed Trust |page=1 |work=[[Billings Gazette]]|agency=Associated Press |url=https://www.newspapers.com/article/the-billings-gazette-geringer-inaugurate/128763244/ |access-date=2023-07-24}}</ref><br />–<br />January 6, 2003<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Wyoming Republican Party|Republican]]<ref name="nga-geringer" />
+|[[1994 Wyoming gubernatorial election|1994]]
+|rowspan="11" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Diana|Ohman}}
+|- style="height:2em;"
+|[[1998 Wyoming gubernatorial election|1998]]
+|rowspan="2"|{{sortname|Joseph|Meyer|dab=Wyoming politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Freudenthal, Dave"|[[File:Dave Freudenthal speech.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Dave Freudenthal]]'''<br>{{small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-freudenthal">{{Cite web |title=Dave Freudenthal |url=https://www.nga.org/governor/dave-freudenthal/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 6, 2003<ref>{{Cite news |date=2003-01-07 |title=Governor Installed |page=1 |work=The Billings Gazette |agency=Associated Press |url=https://www.newspapers.com/article/the-billings-gazette-freudenthal-inaugur/128763301/ |access-date=2023-07-24}}</ref><br />–<br />January 3, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Wyoming Democratic Party|Democratic]]<ref name="nga-freudenthal" />
+|[[2002 Wyoming gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Wyoming gubernatorial election|2006]]
+|rowspan="2"|{{sortname|Max|Maxfield}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|32
+|rowspan="3" data-sort-value="Mead, Matt"|[[File:Matt Mead.jpg|75px]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Matt Mead]]'''<br>{{small|({{Abbr|b.|born in}} 1962)}}<br><ref name="nga-mead">{{Cite web |title=Matthew Mead |url=https://www.nga.org/governor/matthew-mead/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2927"|January 3, 2011<ref>{{Cite news |last=Pelzer |first=Jeremy |date=2011-01-04 |title='Putting Wyoming First' |page=1 |work=[[Casper Star-Tribune]]|url=https://www.newspapers.com/article/casper-star-tribune-mead-inaugurated-jan/128763334/ |access-date=2023-07-24}}</ref><br />–<br />January 7, 2019<br>{{small|(2927 days; term-limited)}}{{efn|name=limits}}
+|rowspan="3"|[[Wyoming Republican Party|Republican]]<ref name="nga-mead" />
+|[[2010 Wyoming gubernatorial election|2010]]
+|- style="height:2em;"
+|rowspan="2"|[[2014 Wyoming gubernatorial election|2014]]
+|{{sortname|Ed|Murray|dab=Wyoming politician}}
+|- style="height:2em;"
+|rowspan="2"|{{sortname|Edward|Buchanan}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|[[Governorship of Mark Gordon|33]]
+|rowspan="3" data-sort-value="Gordon, Mark"|[[File:Mark Gordon of Wyoming.jpg|75px]]
+|rowspan="3"|'''[[Mark Gordon]]'''<br>{{small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-gordon">{{Cite web |title=Mark Gordon |url=https://www.nga.org/governor/mark-gordon/ |access-date=July 22, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="{{Duration in days nts|2019|1|7|duration=on|format=no}}"|January 7, 2019<ref>{{Cite news |last=Gruver |first=Mead |date=2019-01-08 |title=Governor Takes Oath in Work Zone |page=A1 |work=[[Casper Star-Tribune]]|agency=Associated Press |url=https://www.newspapers.com/article/casper-star-tribune-gordon-inaugurated-j/128763366/ |access-date=2023-07-24}}</ref><br />–<br />Incumbent{{efn|Gordon's second term began on January 2, 2023,<ref>{{Cite news |last=Kudelska |first=Kamila |date=2023-01-03 |title=Gov. Gordon emphasizes working together for his next four years |url=https://www.wyomingpublicmedia.org/politics-government/2023-01-03/gov-gordon-emphasizes-working-together-for-his-next-four-years |access-date=2025-01-23 |work=Wyoming Public Radio |language=en}}</ref> and [[2026 Wyoming gubernatorial election|will expire]] on January 4, 2027; he is term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|7|duration=on|format=no}} days)}}
+|rowspan="3"|[[Wyoming Republican Party|Republican]]<ref name="nga-gordon" />
+|rowspan="2"|[[2018 Wyoming gubernatorial election|2018]]
+|- style="height:2em;"
+|{{sortname|Karl|Allred}}
+|- style="height:2em;"
+|[[2022 Wyoming gubernatorial election|2022]]
+|{{sortname|Chuck|Gray|dab=Wyoming politician}}
+|- style="height:2em;"
+!scope="row"|''34''
+|data-sort-value="Barlow, Eric"|[[File:No image.svg|75px]]
+|'''''[[Eric Barlow]]'''''<br>{{small|({{abbr|b.|born in}} 1966)}}
+|data-sort-value="{{Duration in days nts|2027|1|4|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 4, 2027''
+|''[[Wyoming Republican Party|Republican]]''
+|[[2026 Wyoming gubernatorial election|2026]]
+|''{{sortname|Robert|Short|dab=politician}}''
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Wyoming governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1868.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1870
+ScaleMinor = unit:year increment:1 start:1869
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1884 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1869.27 till:1875.11 color:noparty text:"John Allen Campbell"
+ from:1875.11 till:1878.27 color:noparty text:"John Milton Thayer"
+ from:1878.27 till:1882.59 color:noparty text:"John Wesley Hoyt"
+ from:1882.59 till:1885.04 color:noparty text:"William Hale"
+ from:1890.78 till:1890.9 color:rep text:"Francis E. Warren"
+ from:1886.86 till:1886.97 color:noparty text:"George W. Baxter"
+ from:1886.97 till:1889.27 color:noparty text:"Thomas Moonlight"
+ from:1890.9 till:1893.01 color:rep text:"Amos W. Barber"
+ from:1893.01 till:1895.02 color:dem text:"John Eugene Osborne"
+ from:1895.02 till:1899.01 color:rep text:"William A. Richards"
+ from:1899.01 till:1903.32 color:rep text:"DeForest Richards"
+ from:1903.32 till:1905.01 color:rep text:"Fenimore Chatterton"
+ from:1905.01 till:1911.01 color:rep text:"Bryant Butler Brooks"
+ from:1911.01 till:1915.01 color:dem text:"Joseph M. Carey"
+ from:1915.01 till:1917.15 color:dem text:"John B. Kendrick"
+ from:1917.15 till:1919.02 color:dem text:"Frank L. Houx"
+ from:1919.02 till:1923 color:rep text:"Robert D. Carey"
+ from:1923 till:1924.75 color:dem text:"William B. Ross"
+ from:1924.75 till:1925.01 color:rep text:"Frank Lucas"
+ from:1925.01 till:1927.01 color:dem text:"Nellie Tayloe Ross"
+ from:1927.01 till:1931.13 color:rep text:"Frank Emerson"
+ from:1931.13 till:1933.01 color:rep text:"Alonzo M. Clark"
+ from:1933.01 till:1939.01 color:dem text:"Leslie A. Miller"
+ from:1939.01 till:1943.01 color:rep text:"Nels H. Smith"
+ from:1943.01 till:1949.01 color:dem text:"Lester C. Hunt"
+ from:1949.01 till:1951 color:rep text:"Arthur G. Crane"
+ from:1951 till:1953.01 color:rep text:"Frank A. Barrett"
+ from:1953.01 till:1955.01 color:rep text:"Clifford Joy Rogers"
+ from:1955.01 till:1959.01 color:rep text:"Milward Simpson"
+ from:1959.01 till:1961.01 color:dem text:"Joe Hickey"
+ from:1961.01 till:1963.02 color:dem text:"Jack R. Gage"
+ from:1963.02 till:1967.01 color:rep text:"Clifford Hansen"
+ from:1967.01 till:1975.02 color:rep text:"Stanley K. Hathaway"
+ from:1975.02 till:1987.01 color:dem text:"Edgar Herschler"
+ from:1987.01 till:1995.01 color:dem text:"Mike Sullivan"
+ from:1995.01 till:2003.02 color:rep text:"Jim Geringer"
+ from:2003.02 till:2011.01 color:dem text:"Dave Freudenthal"
+ from:2011.01 till:2019.02 color:rep text:"Matt Mead"
+ from:2019.02 till:$now color:rep text:"Mark Gordon"
+
+LineData=
+ from:1885.16 till:1886.86 atpos:631 color:noparty width:6 # FEW 1st term
+ from:1889.27 till:1890.78 atpos:631 color:noparty width:6 # FEW 2nd term noparty
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==Electoral history (1950–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |Other candidate
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1950 Wyoming gubernatorial election|1950]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[John J. McIntyre (politician)|John J. McIntyre]]
+| 42,518
+| 43.85%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Frank A. Barrett]]'''
+| '''54,441'''
+| '''56.15%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1954 Wyoming gubernatorial election|1954]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[William M. Jack]]
+| 55,163
+| 49.50%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Milward Simpson]]'''
+| '''56,275'''
+| '''50.50%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1958 Wyoming gubernatorial election|1958]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Joe Hickey (politician)|John J. Hickey]]'''
+| '''55,070'''
+| '''48.94%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Milward Simpson]]
+| 52,488
+| 46.64%
+| bgcolor="{{party color|Nonpartisan}}" |
+| {{nowrap|Louis W. Carlson<br>(Economy)}}
+| 4,979
+| 4.42%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1962 Wyoming gubernatorial election|1962]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Jack R. Gage]]
+| 54,298
+| 45.53%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Clifford Hansen]]'''
+| '''64,970'''
+| '''54.47%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1966 Wyoming gubernatorial election|1966]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Ernest Wilkerson
+| 55,249
+| 45.71%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Stanley Hathaway]]'''
+| '''65,624'''
+| '''54.29%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1970 Wyoming gubernatorial election|1970]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[John J. Rooney (judge)|John J. Rooney]]
+| 44,008
+| 37.21%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Stanley Hathaway]]'''
+| '''74,249'''
+| '''62.79%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1974 Wyoming gubernatorial election|1974]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Edgar Herschler]]'''
+| '''71,741'''
+| '''55.88%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Dick Jones (Wyoming politician)|Dick Jones]]
+| 56,645
+| 44.12%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1978 Wyoming gubernatorial election|1978]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Edgar Herschler]]'''
+| '''69,972'''
+| '''50.86%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| John Ostlund
+| 67,595
+| 49.14%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1982 Wyoming gubernatorial election|1982]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Edgar Herschler]]'''
+| '''106,427'''
+| '''63.14%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Warren A. Morton]]
+| 62,128
+| 36.86%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1986 Wyoming gubernatorial election|1986]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Mike Sullivan (Wyoming politician)|Mike Sullivan]]'''
+| '''88,879'''
+| '''53.96%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Pete Simpson]]
+| 75,841
+| 46.04%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1990 Wyoming gubernatorial election|1990]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Mike Sullivan (Wyoming politician)|Mike Sullivan]]'''
+| '''104,638'''
+| '''65.35%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Mary Mead]]
+| 55,471
+| 34.65%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1994 Wyoming gubernatorial election|1994]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Kathy Karpan]]
+| 80,747
+| 40.17%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Jim Geringer]]'''
+| '''104,638'''
+| '''58.72%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Seaghan Uibreaslain
+| 2,227
+| 1.11%
+| colspan=4| –
+|-
+| [[1998 Wyoming gubernatorial election|1998]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[John Vinich]]
+| 70,754
+| 40.46%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Jim Geringer]]'''
+| '''97,235'''
+| '''55.60%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Dave Dawson
+| 6,899
+| 3.94%
+| colspan=4| –
+|-
+| [[2002 Wyoming gubernatorial election|2002]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Dave Freudenthal]]'''
+| '''92,662'''
+| '''49.96%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Eli Bebout]]
+| 88,873
+| 47.92%
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Dave Dawson
+| 3,924
+| 2.12%
+| colspan=4| –
+|-
+| [[2006 Wyoming gubernatorial election|2006]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Dave Freudenthal]]'''
+| '''135,516'''
+| '''69.99%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| Ray Hunkins
+| 58,100
+| 30.01%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2010 Wyoming gubernatorial election|2010]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Leslie Petersen
+| 43,240
+| 22.94%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Matt Mead]]'''
+| '''123,780'''
+| '''65.68%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Taylor Haynes
+| 13,796
+| 7.32%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Mike Wheeler
+| 5,362
+| 2.85%
+| colspan=4| –
+|-
+| [[2014 Wyoming gubernatorial election|2014]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Pete Gosar]]
+| 45,752
+| 27.25%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Matt Mead]]'''
+| '''99,700'''
+| '''59.39%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Don Wills
+| 9,895
+| 5.89%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Dee Cozzens
+| 4,040
+| 2.41%
+| colspan=4| –
+|-
+| [[2018 Wyoming gubernatorial election|2018]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Mary Throne]]
+| 55,965
+| 27.54%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Mark Gordon]]'''
+| '''136,412'''
+| '''67.12%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Lawrence Struempf
+| 3,010
+| 1.48%
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| {{nowrap|[[Rex Rammell]]<br>([[Constitution Party (United States)|Constitution]])}}
+| 6,751
+| 3.32%
+|-
+| [[2022 Wyoming gubernatorial election|2022]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| Theresa Livingston
+| 30,686
+| 15.82%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Mark Gordon]]'''
+| '''143,696'''
+| '''74.04%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Jared Baldes
+| 8,157
+| 4.20%
+| colspan=4| –
+|}
+
+== See also ==
+* {{slink|Gubernatorial lines of succession in the United States|Wyoming}}
+* [[List of Wyoming state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+===Bibliography===
+{{refbegin}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical Directory of the Governors of the United States, 1789-1978|volume=IV|publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023|author-link=Robert Sobel}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=[[Oceana Publications]]|isbn=9780379006650 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=9780930466176}}
+*{{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical Directory of American Territorial Governors |date=1984 |publisher=Meckler Books|isbn=9780930466114 |access-date=January 19, 2023}}
+{{refend}}
+
+==External links==
+*[https://governor.wyo.gov/ Office of the Governor of Wyoming]
+
+{{Lists of US Governors}}
+{{Wyoming statewide political officials}}
+{{DEFAULTSORT:Wyoming, List of governors of}}
+
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Wyoming|*]]
+[[Category:Lists of Wyoming politicians|Governors]]
+[[Category:Wyoming history-related lists|Governors]]

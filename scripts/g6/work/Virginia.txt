@@ -1,0 +1,84 @@
+0 | 1 |  | Patrick Henry | 1776-07-06 | 1779-06-01 | No parties | No parties
+0 | 2 |  | Thomas Jefferson | 1779-06-01 | 1781-06-04 | None | None
+0 | 3 | ACT | William Fleming | 1781-06-04 | 1781-06-12 | None | None
+0 | 4 |  | Thomas Nelson Jr. | 1781-06-12 | 1781-11-22 | None | None
+0 | – | ACT | David Jameson | 1781-11-22 | 1781-12-01 | None | None
+0 | 5 |  | Benjamin Harrison V | 1781-12-01 | 1784-11-30 | None | None
+0 | 6 |  | Patrick Henry | 1784-11-30 | 1786-11-30 | None | None
+0 | 7 |  | Edmund Randolph | 1786-11-30 | 1788-11-12 | None | None
+0 | 8 | ACT | Beverley Randolph | 1788-11-12 | 1791-12-01 | None | None
+0 | 9 |  | Henry Lee III | 1791-12-01 | 1794-12-01 | Federalist | Represented the Federalist Party
+0 | 10 |  | Robert Brooke | 1794-12-01 | 1796-11-30 | Democratic- Republican | Represented the Democratic-Republican Party
+0 | 11 | ACT | James Wood | 1796-11-30 | 1799-12-19 | Democratic- Republican | None
+0 | 12 |  | James Monroe | 1799-12-19 | 1802-12-29 | Democratic- Republican | None
+0 | 13 |  | John Page | 1802-12-29 | 1805-12-11 | Democratic- Republican | None
+0 | 14 |  | William H. Cabell | 1805-12-11 | 1808-12-12 | Democratic- Republican | None
+0 | 15 |  | John Tyler Sr. | 1808-12-12 | 1811-01-15 | Democratic- Republican | None
+0 | — | ACT | George William Smith | 1811-01-15 | 1811-01-19 | Democratic- Republican | None
+0 | 16 |  | James Monroe | 1811-01-19 | 1811-04-03 | Democratic- Republican | None
+0 | 17 | ACT | George William Smith | 1811-04-03 | 1811-12-26 | Democratic- Republican | None
+0 | — | ACT | Peyton Randolph | 1811-12-26 | 1812-01-04 | Democratic- Republican | None
+0 | 18 |  | James Barbour | 1812-01-04 | 1814-12-11 | Democratic- Republican | None
+0 | 19 |  | Wilson Cary Nicholas | 1814-12-11 | 1816-12-11 | Democratic- Republican | None
+0 | 20 |  | James Patton Preston | 1816-12-11 | 1819-12-11 | Democratic- Republican | None
+0 | 21 |  | Thomas Mann Randolph Jr. | 1819-12-11 | 1822-12-11 | Democratic- Republican | None
+0 | 22 |  | James Pleasants | 1822-12-11 | 1825-12-11 | Democratic- Republican | None
+0 | 23 |  | John Tyler | 1825-12-11 | 1827-03-04 | Democratic- Republican | None
+0 | 24 |  | William Branch Giles | 1827-03-04 | 1830-03-04 | Democratic- Republican | None
+0 | 25 |  | John Floyd | 1830-03-04 | 1834-03-31 | Democratic | Represented the Democratic Party
+0 | 26 |  | Littleton Waller Tazewell | 1834-03-31 | 1836-03-30 | Democratic | None
+0 | — | ACT | Wyndham Robertson | 1836-03-30 | 1837-03-31 | Whig | Represented the Whig Party
+0 | 27 |  | David Campbell | 1837-03-31 | 1840-03-31 | Democratic | Represented the Democratic Party
+0 | 28 |  | Thomas Walker Gilmer | 1840-03-31 | 1841-03-20 | Whig | Represented the Whig Party
+0 | — | ACT | John M. Patton | 1841-03-20 | 1841-03-31 | Whig | None
+0 | — | ACT | John Rutherfoord | 1841-03-31 | 1842-03-31 | Democratic | Represented the Democratic Party
+0 | — | ACT | John Munford Gregory | 1842-03-31 | 1843-01-05 | Whig | Represented the Whig Party
+0 | 29 |  | James McDowell | 1843-01-05 | 1846-01-01 | Democratic | Represented the Democratic Party
+0 | 30 |  | William Smith | 1846-01-01 | 1849-01-01 | Democratic | None
+0 | 31 |  | John B. Floyd | 1849-01-01 | 1852-01-01 | Democratic | None
+0 | 32 |  | Joseph Johnson | 1852-01-01 | 1856-01-01 | Democratic | Represented the Democratic Party
+0 | 33 |  | Henry A. Wise | 1856-01-01 | 1860-01-01 | Democratic | None
+0 | 34 |  | John Letcher | 1860-01-01 | 1864-01-01 | Democratic | None
+0 | — |  | William Smith | 1864-01-01 | 1865-05-09 | Democratic | None
+0 | 35 |  | Francis Harrison Pierpont | 1861-06-20 | 1868-04-04 | Union | Represented the Union Party
+0 | — |  | Henry H. Wells | 1868-04-04 | 1869-09-21 | None | Appointed
+0 | 36 |  | Gilbert Carlton Walker | 1869-09-21 | 1874-01-01 | {{sortname|John F.|Lewis}} | Represented the Republican Party
+0 | 37 |  | James L. Kemper | 1874-01-01 | 1878-01-01 | Democratic | Represented the Democratic Party
+0 | 38 |  | Frederick W. M. Holliday | 1878-01-01 | 1882-01-01 | Democratic | Represented the Democratic Party
+0 | 39 |  | William E. Cameron | 1882-01-01 | 1886-01-01 | Readjuster | Represented the Readjuster Party
+0 | 40 |  | Fitzhugh Lee | 1886-01-01 | 1890-01-01 | Democratic | Represented the Democratic Party
+0 | 41 |  | Philip W. McKinney | 1890-01-01 | 1894-01-01 | Democratic | None
+0 | 42 |  | Charles Triplett O'Ferrall | 1894-01-01 | 1898-01-01 | Democratic | None
+0 | 43 |  | James Hoge Tyler | 1898-01-01 | 1902-01-01 | Democratic | None
+0 | 44 |  | Andrew Jackson Montague | 1902-01-01 | 1906-02-01 | Democratic | None
+0 | 45 |  | Claude A. Swanson | 1906-02-01 | 1910-02-01 | Democratic | None
+0 | 46 |  | William Hodges Mann | 1910-02-01 | 1914-02-01 | Democratic | None
+0 | 47 |  | Henry Carter Stuart | 1914-02-01 | 1918-02-01 | Democratic | None
+0 | 48 |  | Westmoreland Davis | 1918-02-01 | 1922-02-01 | Democratic | None
+0 | 49 |  | Elbert Lee Trinkle | 1922-02-01 | 1926-02-01 | Democratic | None
+0 | 50 |  | Harry F. Byrd | 1926-02-01 | 1930-01-15 | Democratic | None
+0 | 51 |  | John Garland Pollard | 1930-01-15 | 1934-01-16 | Democratic | None
+0 | 52 |  | George C. Peery | 1934-01-17 | 1938-01-18 | Democratic | None
+0 | 53 |  | James Hubert Price | 1938-01-19 | 1942-01-20 | Democratic | None
+0 | 54 |  | Colgate Darden | 1942-01-21 | 1946-01-15 | Democratic | Represented the Democratic Party
+0 | 55 |  | William M. Tuck | 1946-01-16 | 1950-01-17 | Democratic | None
+0 | 56 |  | John S. Battle | 1950-01-18 | 1954-01-19 | Democratic | None
+0 | 57 |  | Thomas B. Stanley | 1954-01-20 | 1958-01-11 | Democratic | None
+0 | 58 |  | J. Lindsay Almond | 1958-01-11 | 1962-01-13 | Democratic | None
+0 | 59 |  | Albertis Harrison | 1962-01-13 | 1966-01-15 | Democratic | None
+0 | 60 |  | Mills Godwin | 1966-01-15 | 1970-01-17 | Democratic | None
+0 | 61 |  | Linwood Holton | 1970-01-17 | 1974-01-12 | Republican | Represented the Republican Party
+0 | 62 |  | Mills Godwin | 1974-01-12 | 1978-01-14 | Republican | Represented the Republican Party
+0 | 63 |  | John N. Dalton | 1978-01-14 | 1982-01-16 | Republican | Represented the Democratic Party
+0 | 64 |  | Chuck Robb | 1982-01-16 | 1986-01-11 | Democratic | Represented the Democratic Party
+0 | 65 |  | Gerald Baliles | 1986-01-11 | 1990-01-13 | Democratic | None
+0 | 66 |  | Douglas Wilder | 1990-01-13 | 1994-01-15 | Democratic | None
+0 | 67 |  | George Allen | 1994-01-15 | 1998-01-17 | Republican | Represented the Republican Party
+0 | 68 |  | Jim Gilmore | 1998-01-17 | 2002-01-12 | Republican | Represented the Republican Party
+0 | 69 |  | Mark Warner | 2002-01-12 | 2006-01-14 | Democratic | Represented the Democratic Party
+0 | 70 |  | Tim Kaine | 2006-01-14 | 2010-01-16 | Democratic | Represented the Republican Party
+0 | 71 |  | Bob McDonnell | 2010-01-16 | 2014-01-11 | Republican | Represented the Republican Party
+0 | 72 |  | Terry McAuliffe | 2014-01-11 | 2018-01-13 | Democratic | Represented the Democratic Party
+0 | 73 |  | Ralph Northam | 2018-01-13 | 2022-01-15 | Democratic | None
+0 | 74 |  | Glenn Youngkin | 2022-01-15 | 2026-01-17 | Republican | Represented the Republican Party
+0 | 75 |  | Abigail Spanberger | 2026-01-17 | None | Democratic | Represented the Democratic Party

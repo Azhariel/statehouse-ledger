@@ -1,0 +1,1193 @@
+[
+ {
+  "table": 1,
+  "name": "Andrew Jackson",
+  "term_raw": "March 10, 1821 – December 31, 1821 {{small|(267 days; resigned)}}",
+  "dates": [
+   [
+    "1821-03-10",
+    "day"
+   ],
+   [
+    "1821-12-31",
+    "day"
+   ]
+  ],
+  "party_raw": "James Monroe",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Andrew Jackson {{Small|(1767–1845)}}"
+ },
+ {
+  "table": 2,
+  "name": "William Pope Duval",
+  "term_raw": "April 17, 1822 – April 17, 1834 {{small|(4384 days; replaced)}}",
+  "dates": [
+   [
+    "1822-04-17",
+    "day"
+   ],
+   [
+    "1834-04-17",
+    "day"
+   ],
+   [
+    "4384-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|James|Monroe}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "William Pope Duval {{Small|(1784–1854)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Eaton",
+  "term_raw": "April 24, 1834 – March 16, 1836 {{small|(693 days; replaced)}}",
+  "dates": [
+   [
+    "1834-04-24",
+    "day"
+   ],
+   [
+    "1836-03-16",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Andrew|Jackson}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Eaton {{Small|(1790–1856)}}"
+ },
+ {
+  "table": 2,
+  "name": "Richard K. Call",
+  "term_raw": "March 16, 1836 – December 2, 1839 {{small|(1357 days; replaced)}}",
+  "dates": [
+   [
+    "1836-03-16",
+    "day"
+   ],
+   [
+    "1839-12-02",
+    "day"
+   ],
+   [
+    "1357-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Andrew|Jackson}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Richard K. Call {{Small|(1792–1862)}}"
+ },
+ {
+  "table": 2,
+  "name": "Robert R. Reid",
+  "term_raw": "December 12, 1839 – March 19, 1841 {{small|(464 days; replaced)}}",
+  "dates": [
+   [
+    "1839-12-12",
+    "day"
+   ],
+   [
+    "1841-03-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Martin|Van Buren}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Robert R. Reid {{Small|(1789–1841)}}"
+ },
+ {
+  "table": 2,
+  "name": "Richard K. Call",
+  "term_raw": "March 19, 1841 – August 11, 1844 {{small|(1242 days; replaced)}}",
+  "dates": [
+   [
+    "1841-03-19",
+    "day"
+   ],
+   [
+    "1844-08-11",
+    "day"
+   ],
+   [
+    "1242-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|William Henry|Harrison}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Richard K. Call {{Small|(1792–1862)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Branch",
+  "term_raw": "August 11, 1844 – June 25, 1845 {{small|(319 days; statehood)}}",
+  "dates": [
+   [
+    "1844-08-11",
+    "day"
+   ],
+   [
+    "1845-06-25",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|John|Tyler}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Branch {{Small|(1782–1863)}}"
+ },
+ {
+  "table": 3,
+  "name": "William Dunn Moseley",
+  "term_raw": "June 25, 1845 – October 1, 1849 {{small|(1560 days; term-limited)}}",
+  "dates": [
+   [
+    "1845-06-25",
+    "day"
+   ],
+   [
+    "1849-10-01",
+    "day"
+   ],
+   [
+    "1560-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1845",
+  "name_cell": "William Dunn Moseley {{Small|(1795–1863)}}"
+ },
+ {
+  "table": 3,
+  "name": "Thomas Brown",
+  "term_raw": "October 1, 1849 – October 3, 1853 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1849-10-01",
+    "day"
+   ],
+   [
+    "1853-10-03",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1848",
+  "name_cell": "Thomas Brown {{Small|(1785–1867)}}"
+ },
+ {
+  "table": 3,
+  "name": "James E. Broome",
+  "term_raw": "October 3, 1853 – October 5, 1857 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1853-10-03",
+    "day"
+   ],
+   [
+    "1857-10-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1852",
+  "name_cell": "James E. Broome {{Small|(1808–1883)}}"
+ },
+ {
+  "table": 3,
+  "name": "Madison S. Perry",
+  "term_raw": "October 5, 1857 – October 7, 1861 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1857-10-05",
+    "day"
+   ],
+   [
+    "1861-10-07",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1856",
+  "name_cell": "Madison S. Perry {{Small|(1814–1865)}}"
+ },
+ {
+  "table": 3,
+  "name": "John Milton",
+  "term_raw": "October 7, 1861 – April 1, 1865 {{small|(1273 days; died in office)}}",
+  "dates": [
+   [
+    "1861-10-07",
+    "day"
+   ],
+   [
+    "1865-04-01",
+    "day"
+   ],
+   [
+    "1273-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1860",
+  "name_cell": "John Milton {{Small|(1807–1865)}}"
+ },
+ {
+  "table": 3,
+  "name": "Abraham K. Allison",
+  "term_raw": "April 1, 1865 – May 19, 1865 {{small|(49 days; resigned)}}",
+  "dates": [
+   [
+    "1865-04-01",
+    "day"
+   ],
+   [
+    "1865-05-19",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Abraham K. Allison {{Small|(1810–1893)}}"
+ },
+ {
+  "table": 3,
+  "name": "(vacant)",
+  "raw": "— Vacant May 19, 1865 – July 13, 1865 {{small|(56 days)}} {{small|Office vacated after Civil War}}"
+ },
+ {
+  "table": 3,
+  "name": "William Marvin",
+  "term_raw": "July 13, 1865 – December 20, 1865 {{small|(161 days; retired)}}",
+  "dates": [
+   [
+    "1865-07-13",
+    "day"
+   ],
+   [
+    "1865-12-20",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|Provisional governor appointed by President}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "William Marvin {{Small|(1808–1902)}}"
+ },
+ {
+  "table": 3,
+  "name": "David S. Walker",
+  "term_raw": "December 20, 1865 – July 4, 1868 {{small|(928 days; retired)}}",
+  "dates": [
+   [
+    "1865-12-20",
+    "day"
+   ],
+   [
+    "1868-07-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Conservative",
+  "acting_hint": false,
+  "succ_raw": "1865",
+  "name_cell": "David S. Walker {{Small|(1815–1891)}}"
+ },
+ {
+  "table": 3,
+  "name": "Harrison Reed",
+  "term_raw": "July 4, 1868 – January 7, 1873 {{small|(1649 days; lost nomination)}}",
+  "dates": [
+   [
+    "1868-07-04",
+    "day"
+   ],
+   [
+    "1873-01-07",
+    "day"
+   ],
+   [
+    "1649-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1868",
+  "name_cell": "Harrison Reed {{Small|(1813–1899)}}"
+ },
+ {
+  "table": 3,
+  "name": "Ossian B. Hart",
+  "term_raw": "January 7, 1873 – March 18, 1874 {{small|(436 days; died in office)}}",
+  "dates": [
+   [
+    "1873-01-07",
+    "day"
+   ],
+   [
+    "1874-03-18",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1872",
+  "name_cell": "Ossian B. Hart {{Small|(1821–1874)}}"
+ },
+ {
+  "table": 3,
+  "name": "Marcellus Stearns",
+  "term_raw": "March 18, 1874 – January 2, 1877 {{small|(1022 days; lost election)}}",
+  "dates": [
+   [
+    "1874-03-18",
+    "day"
+   ],
+   [
+    "1877-01-02",
+    "day"
+   ],
+   [
+    "1022-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": true,
+  "succ_raw": "{{small|Lieutenant governor acting}}",
+  "name_cell": "Marcellus Stearns {{Small|(1839–1891)}}"
+ },
+ {
+  "table": 3,
+  "name": "George Franklin Drew",
+  "term_raw": "January 2, 1877 – January 4, 1881 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1877-01-02",
+    "day"
+   ],
+   [
+    "1881-01-04",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1876",
+  "name_cell": "George Franklin Drew {{Small|(1827–1900)}}"
+ },
+ {
+  "table": 3,
+  "name": "William D. Bloxham",
+  "term_raw": "January 4, 1881 – January 6, 1885 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1881-01-04",
+    "day"
+   ],
+   [
+    "1885-01-06",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1880",
+  "name_cell": "William D. Bloxham {{Small|(1835–1911)}}"
+ },
+ {
+  "table": 3,
+  "name": "Edward A. Perry",
+  "term_raw": "January 6, 1885 – January 8, 1889 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1885-01-06",
+    "day"
+   ],
+   [
+    "1889-01-08",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1884",
+  "name_cell": "Edward A. Perry {{Small|(1831–1889)}}"
+ },
+ {
+  "table": 3,
+  "name": "Francis P. Fleming",
+  "term_raw": "January 8, 1889 – January 3, 1893 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1889-01-08",
+    "day"
+   ],
+   [
+    "1893-01-03",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1888",
+  "name_cell": "Francis P. Fleming {{Small|(1841–1908)}}"
+ },
+ {
+  "table": 3,
+  "name": "Henry L. Mitchell",
+  "term_raw": "January 3, 1893 – January 5, 1897 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1893-01-03",
+    "day"
+   ],
+   [
+    "1897-01-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1892",
+  "name_cell": "Henry L. Mitchell {{Small|(1831–1903)}}"
+ },
+ {
+  "table": 3,
+  "name": "William D. Bloxham",
+  "term_raw": "January 5, 1897 – January 8, 1901 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1897-01-05",
+    "day"
+   ],
+   [
+    "1901-01-08",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1896",
+  "name_cell": "William D. Bloxham {{Small|(1835–1911)}}"
+ },
+ {
+  "table": 3,
+  "name": "William Sherman Jennings",
+  "term_raw": "January 8, 1901 – January 3, 1905 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1901-01-08",
+    "day"
+   ],
+   [
+    "1905-01-03",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1900",
+  "name_cell": "William Sherman Jennings {{Small|(1863–1920)}}"
+ },
+ {
+  "table": 3,
+  "name": "Napoleon B. Broward",
+  "term_raw": "January 3, 1905 – January 5, 1909 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1905-01-03",
+    "day"
+   ],
+   [
+    "1909-01-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1904",
+  "name_cell": "Napoleon B. Broward {{Small|(1857–1910)}}"
+ },
+ {
+  "table": 3,
+  "name": "Albert W. Gilchrist",
+  "term_raw": "January 5, 1909 – January 7, 1913 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1909-01-05",
+    "day"
+   ],
+   [
+    "1913-01-07",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1908",
+  "name_cell": "Albert W. Gilchrist {{Small|(1858–1926)}}"
+ },
+ {
+  "table": 3,
+  "name": "Park Trammell",
+  "term_raw": "January 7, 1913 – January 2, 1917 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1913-01-07",
+    "day"
+   ],
+   [
+    "1917-01-02",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1912",
+  "name_cell": "Park Trammell {{Small|(1876–1936)}}"
+ },
+ {
+  "table": 3,
+  "name": "Sidney Johnston Catts",
+  "term_raw": "January 2, 1917 – January 4, 1921 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1917-01-02",
+    "day"
+   ],
+   [
+    "1921-01-04",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Prohibition",
+  "acting_hint": false,
+  "succ_raw": "1916",
+  "name_cell": "Sidney Johnston Catts {{Small|(1863–1936)}}"
+ },
+ {
+  "table": 3,
+  "name": "Cary A. Hardee",
+  "term_raw": "January 4, 1921 – January 6, 1925 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1921-01-04",
+    "day"
+   ],
+   [
+    "1925-01-06",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1920",
+  "name_cell": "Cary A. Hardee {{Small|(1876–1957)}}"
+ },
+ {
+  "table": 3,
+  "name": "John W. Martin",
+  "term_raw": "January 6, 1925 – January 8, 1929 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1925-01-06",
+    "day"
+   ],
+   [
+    "1929-01-08",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1924",
+  "name_cell": "John W. Martin {{Small|(1884–1958)}}"
+ },
+ {
+  "table": 3,
+  "name": "Doyle E. Carlton",
+  "term_raw": "January 8, 1929 – January 3, 1933 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1929-01-08",
+    "day"
+   ],
+   [
+    "1933-01-03",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1928",
+  "name_cell": "Doyle E. Carlton {{Small|(1885–1972)}}"
+ },
+ {
+  "table": 3,
+  "name": "David Sholtz",
+  "term_raw": "January 3, 1933 – January 5, 1937 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1933-01-03",
+    "day"
+   ],
+   [
+    "1937-01-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1932",
+  "name_cell": "David Sholtz {{Small|(1891–1953)}}"
+ },
+ {
+  "table": 3,
+  "name": "Fred P. Cone",
+  "term_raw": "January 5, 1937 – January 7, 1941 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1937-01-05",
+    "day"
+   ],
+   [
+    "1941-01-07",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1936",
+  "name_cell": "Fred P. Cone {{Small|(1871–1948)}}"
+ },
+ {
+  "table": 3,
+  "name": "Spessard Holland",
+  "term_raw": "January 7, 1941 – January 2, 1945 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1941-01-07",
+    "day"
+   ],
+   [
+    "1945-01-02",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1940",
+  "name_cell": "Spessard Holland {{Small|(1892–1971)}}"
+ },
+ {
+  "table": 3,
+  "name": "Millard Caldwell",
+  "term_raw": "January 2, 1945 – January 4, 1949 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1945-01-02",
+    "day"
+   ],
+   [
+    "1949-01-04",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1944",
+  "name_cell": "Millard Caldwell {{Small|(1897–1984)}}"
+ },
+ {
+  "table": 3,
+  "name": "Fuller Warren",
+  "term_raw": "January 4, 1949 – January 6, 1953 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1949-01-04",
+    "day"
+   ],
+   [
+    "1953-01-06",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1948",
+  "name_cell": "Fuller Warren {{Small|(1905–1973)}}"
+ },
+ {
+  "table": 3,
+  "name": "Daniel T. McCarty",
+  "term_raw": "January 6, 1953 – September 28, 1953 {{small|(266 days; died in office)}}",
+  "dates": [
+   [
+    "1953-01-06",
+    "day"
+   ],
+   [
+    "1953-09-28",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1952",
+  "name_cell": "Daniel T. McCarty {{Small|(1912–1953)}}"
+ },
+ {
+  "table": 3,
+  "name": "Charley Eugene Johns",
+  "term_raw": "September 28, 1953 – January 4, 1955 {{small|(464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1953-09-28",
+    "day"
+   ],
+   [
+    "1955-01-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|President of the Senate acting}}",
+  "name_cell": "Charley Eugene Johns {{Small|(1905–1990)}}"
+ },
+ {
+  "table": 3,
+  "name": "LeRoy Collins",
+  "term_raw": "January 4, 1955 – January 3, 1961 {{small|(2192 days; term-limited)}}",
+  "dates": [
+   [
+    "1955-01-04",
+    "day"
+   ],
+   [
+    "1961-01-03",
+    "day"
+   ],
+   [
+    "2192-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1954 {{small|(special)}}",
+  "name_cell": "LeRoy Collins {{Small|(1909–1991)}}"
+ },
+ {
+  "table": 3,
+  "name": "C. Farris Bryant",
+  "term_raw": "January 3, 1961 – January 5, 1965 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1961-01-03",
+    "day"
+   ],
+   [
+    "1965-01-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1960",
+  "name_cell": "C. Farris Bryant {{Small|(1914–2002)}}"
+ },
+ {
+  "table": 3,
+  "name": "W. Haydon Burns",
+  "term_raw": "January 5, 1965 – January 3, 1967 {{small|(729 days; lost nomination)}}",
+  "dates": [
+   [
+    "1965-01-05",
+    "day"
+   ],
+   [
+    "1967-01-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1964",
+  "name_cell": "W. Haydon Burns {{Small|(1912–1987)}}"
+ },
+ {
+  "table": 3,
+  "name": "Claude R. Kirk Jr.",
+  "term_raw": "January 3, 1967 – January 5, 1971 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1967-01-03",
+    "day"
+   ],
+   [
+    "1971-01-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1966",
+  "name_cell": "Claude R. Kirk Jr. {{Small|(1926–2011)}}"
+ },
+ {
+  "table": 3,
+  "name": "Reubin Askew",
+  "term_raw": "January 5, 1971 – January 2, 1979 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "1971-01-05",
+    "day"
+   ],
+   [
+    "1979-01-02",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1970",
+  "name_cell": "Reubin Askew {{Small|(1928–2014)}}"
+ },
+ {
+  "table": 3,
+  "name": "Bob Graham",
+  "term_raw": "January 2, 1979 – January 3, 1987 {{small|(2924 days; resigned)}}",
+  "dates": [
+   [
+    "1979-01-02",
+    "day"
+   ],
+   [
+    "1987-01-03",
+    "day"
+   ],
+   [
+    "2924-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1978",
+  "name_cell": "Bob Graham {{Small|(1936–2024)}}"
+ },
+ {
+  "table": 3,
+  "name": "Wayne Mixson",
+  "term_raw": "January 3, 1987 – January 6, 1987 {{small|(4 days; retired)}}",
+  "dates": [
+   [
+    "1987-01-03",
+    "day"
+   ],
+   [
+    "1987-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Wayne Mixson {{Small|(1922–2020)}}"
+ },
+ {
+  "table": 3,
+  "name": "Bob Martinez",
+  "term_raw": "January 6, 1987 – January 8, 1991 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1987-01-06",
+    "day"
+   ],
+   [
+    "1991-01-08",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1986",
+  "name_cell": "Bob Martinez {{Small|({{Abbr|b.|born in}} 1934)}}"
+ },
+ {
+  "table": 3,
+  "name": "Lawton Chiles",
+  "term_raw": "January 8, 1991 – December 12, 1998 {{small|(2896 days; died in office)}}",
+  "dates": [
+   [
+    "1991-01-08",
+    "day"
+   ],
+   [
+    "1998-12-12",
+    "day"
+   ],
+   [
+    "2896-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1990",
+  "name_cell": "Lawton Chiles {{Small|(1930–1998)}}"
+ },
+ {
+  "table": 3,
+  "name": "Buddy MacKay",
+  "term_raw": "December 12, 1998 – January 5, 1999 {{small|(25 days; retired)}}",
+  "dates": [
+   [
+    "1998-12-12",
+    "day"
+   ],
+   [
+    "1999-01-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Buddy MacKay {{Small|(1933–2024)}}"
+ },
+ {
+  "table": 3,
+  "name": "Jeb Bush",
+  "term_raw": "January 5, 1999 – January 2, 2007 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "1999-01-05",
+    "day"
+   ],
+   [
+    "2007-01-02",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1998",
+  "name_cell": "Jeb Bush {{Small|({{Abbr|b.|born in}} 1953)}}"
+ },
+ {
+  "table": 3,
+  "name": "Charlie Crist",
+  "term_raw": "January 2, 2007 – January 4, 2011 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "2007-01-02",
+    "day"
+   ],
+   [
+    "2011-01-04",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2006",
+  "name_cell": "Charlie Crist {{Small|({{Abbr|b.|born in}} 1956)}}"
+ },
+ {
+  "table": 3,
+  "name": "Rick Scott",
+  "term_raw": "January 4, 2011 – January 7, 2019 {{small|(2926 days; term-limited)}}",
+  "dates": [
+   [
+    "2011-01-04",
+    "day"
+   ],
+   [
+    "2019-01-07",
+    "day"
+   ],
+   [
+    "2926-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2010",
+  "name_cell": "Rick Scott {{Small|({{Abbr|b.|born in}} 1952)}}"
+ },
+ {
+  "table": 3,
+  "name": "Ron DeSantis",
+  "term_raw": "2019|1|8|duration=on|format=no}}\"|January 8, 2019 – Incumbent {{small|(in office {{Duration in days nts|2019|1|8|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2019-01-01",
+    "year"
+   ],
+   [
+    "2019-01-08",
+    "day"
+   ],
+   [
+    "2019-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2018",
+  "name_cell": "Ron DeSantis {{Small|({{Abbr|b.|born in}} 1978)}}"
+ },
+ {
+  "table": 3,
+  "name": "Byron Donalds",
+  "term_raw": "2027|1|5|duration=on|format=no}}\"|Governor-elect takes office January 5, 2027",
+  "dates": [
+   [
+    "2027-01-01",
+    "year"
+   ],
+   [
+    "2027-01-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2026",
+  "name_cell": "Byron Donalds {{small|({{abbr|b.|born in}} 1978)}}"
+ }
+]

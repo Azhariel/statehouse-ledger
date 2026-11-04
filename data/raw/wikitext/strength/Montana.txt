@@ -1,0 +1,828 @@
+{{Short description|Politics in the US state of Montana}}
+{{More citations needed|date=September 2020}}
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Montana]]:
+*[[List of governors of Montana|Governor]]
+*[[List of lieutenant governors of Montana|Lieutenant Governor]]
+*[[Secretary of State of Montana|Secretary of State]]
+*Attorney General
+*[[Montana State Treasurer|State Treasurer]]
+*State Auditor
+*Superintendent of Public Instruction
+
+The table also indicates the historical party composition in the:
+*[[Montana Senate|State Senate]]
+*[[Montana House of Representatives|State House of Representatives]]
+*[[List of United States senators from Montana|State delegation to the United States Senate]]
+*[[List of United States representatives from Montana|State delegation to the United States House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+== Pre-statehood (1864–1889) ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!Executive offices
+!colspan=2 |[[Montana Legislature|Territorial Legislature]]
+![[Montana's congressional delegations|U.S. Congress]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Montana|Governor]]
+!class=unsortable |[[Montana Senate|Senate]]
+!class=unsortable |[[Montana House of Representatives|House]]
+!class=unsortable |[[List of United States representatives from Montana|Delegate]]
+|- style="height:2em"
+!1864
+|{{Party shading/Republican}} |[[Sidney Edgerton]] {{small|(R)}}
+|colspan=2 rowspan=20 |{{Data missing|?|date=July 2021}}
+|''no such office''
+|- style="height:2em"
+!1865
+|{{Party shading/Democratic}} |[[Thomas Francis Meagher]] {{small|(D)}}{{efn |name=acting|Acting.}}
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel McLean (congressman)|Samuel McLean]] {{small|(D)}}
+|- style="height:2em"
+!1866
+|rowspan=2 {{Party shading/Democratic}} |[[Green C. Smith]] {{small|(D)}}
+|- style="height:2em"
+!1867
+|rowspan=5 {{Party shading/Democratic}} |[[James M. Cavanaugh]] {{small|(D)}}
+|- style="height:2em"
+!1868
+|{{Party shading/Republican}} |[[James Tufts]] {{small|(R)}}{{efn |name=acting}}
+|- style="height:2em"
+!rowspan=2 |1869
+|{{Party shading/Republican}} |[[James Mitchell Ashley]] {{small|(R)}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Wiley Scribner]] {{small|(R)}}{{efn |name=acting}}
+|- style="height:2em"
+!1870
+|rowspan=6 {{Party shading/Republican}} |[[Benjamin F. Potts]] {{small|(R)}}
+|- style="height:2em"
+!1871
+|rowspan=2 {{Party shading/Republican}} |[[William H. Clagett]] {{small|(R)}}
+|- style="height:2em"
+!1872
+|- style="height:2em"
+!1873
+|rowspan=5 {{Party shading/Democratic}} |[[Martin Maginnis]] {{small|(D)}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1882
+|- style="height:2em"
+!1883
+|{{Party shading/Republican}} |[[John Schuyler Crosby]] {{small|(R)}}
+|- style="height:2em"
+!1884
+|{{Party shading/Republican}} |[[B. Platt Carpenter]] {{small|(R)}}
+|- style="height:2em"
+!1885
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel Thomas Hauser]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joseph Toole]] {{small|(D)}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=2 {{Party shading/Democratic}} |[[Preston Leslie]] {{small|(D)}}
+|- style="height:2em"
+!1888
+|- style="height:2em"
+!1889
+|{{Party shading/Republican}} |[[Benjamin F. White (Montana politician)|Benjamin F. White]] {{small|(R)}}
+|{{Party shading/Republican}} |[[Thomas H. Carter]] {{small|(R)}}{{efn |name=carter|Delegate from Montana Territory until November 8, when Carter was elected U.S. Representative upon Montana statehood.}}
+|}
+
+== 1889–1976 ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=7|Executive offices
+!colspan=2 |[[Montana Legislature|State Legislature]]
+!colspan=3 |[[Montana's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Montana|Governor]]
+!class=unsortable |[[List of lieutenant governors of Montana|Lt. Governor]]
+!class=unsortable |[[Secretary of State of Montana|Secretary<br>of State]]
+!class=unsortable |[[Montana Department of Justice|Attorney<br>General]]
+!class=unsortable |[[Montana State Treasurer|Treasurer]]
+!class=unsortable |Auditor
+!class=unsortable |[[Montana Office of Public Instruction|Supt. of<br>Pub. Inst.]]
+!class=unsortable |[[Montana Senate|Senate]]
+!class=unsortable |[[Montana House of Representatives|House]]
+!class=unsortable |[[List of United States senators from Montana|Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Montana|Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from Montana|House]]
+|- style="height:2em"
+!1889
+|rowspan=4 {{party shading/Democratic}} |[[Joseph Toole]] {{small|(D)}}
+|rowspan=4 {{party shading/Republican}} |[[John E. Rickards]] {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |Louis Rotwitt {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |[[Henri J. Haskell]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |Richard O.<br>Hickman {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |Edwin A.<br>Kenney {{small|(R)}}
+|rowspan=4 |John<br>Gannon
+|rowspan=2 {{party shading/Republican}} |8D, 8R{{efn |With a Republican Lt. Governor, the GOP organized the chamber. There was no President Pro Tempore that session.}}<ref name="leg.mt.gov">[http://leg.mt.gov/css/About-the-Legislature/Facts-and-Statistics/party-control.asp] {{Webarchive|url=https://web.archive.org/web/20170702052549/http://leg.mt.gov/css/about-the-legislature/facts-and-statistics/party-control.asp|date=2017-07-02}} Majority and Minority Party Numbers 1889 - Present</ref>
+|rowspan=2 {{party shading/Tie}} |25R, 25D{{efn |There were five contested seats from Silver Bow County, and due to a lack of a contested election resolution mechanism, the Republicans and Democrats each organized their own House with the contested members of both parties from Silver Bow joining their respective parties in those chambers, and both sent bills to the Senate.}}<ref name="leg.mt.gov"/>
+|rowspan=4 {{party shading/Republican}} |[[Wilbur F. Sanders]] {{small|(R)}}
+|rowspan=6 {{party shading/Republican}} |[[Thomas C. Power]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |[[Thomas H. Carter|Thomas H.<br>Carter]] {{small|(R)}}{{efn |name=carter}}
+|rowspan=3 |
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=2 {{party shading/Democratic}} |10D, 6R
+|rowspan=2 {{party shading/Republican}} |28R, 27D
+|rowspan=2 {{Party shading/Democratic}} |[[William W. Dixon|William W.<br>Dixon]] {{small|(D)}}
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison|Harrison]]/<br>[[Whitelaw Reid|Reid]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1893
+|rowspan=4 {{Party shading/Republican}} |[[John E. Rickards]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Alexander Campbell Botkin|Alexander Campbell<br>Botkin]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |Frederick W. Wright {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |Andrew B.<br>Cook {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |Eugene A.<br>Steere {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |9D, 7R
+|rowspan=2 {{Party shading/Fusion}} |26D, 26R,<br>3Pop{{efn |A coalition of Democrats and Populists elected a Populist, Thomas Matthews, as Speaker and organized the chamber.}}
+|rowspan=2 |''vacant''{{efn |Legislature failed to elect a Senator at the beginning of the [[53rd United States Congress]].}}
+|rowspan=6 {{Party shading/Republican}} |[[Charles S. Hartman|Charles S.<br>Hartman]] {{small|(R)}}
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|rowspan=2 {{party shading/Republican}} |13R, 5D,<br>2Pop, 1Fus
+|rowspan=2 {{party shading/Republican}} |44R, 14Pop,<br>3D
+|{{Party shading/Republican}} |[[Lee Mantle]] {{small|(R)}}{{efn |name=appointed|Initially appointed to fill a vacancy.}}
+|rowspan=6 {{Party shading/Republican}} |[[Thomas H. Carter]] {{small|(R)}}
+|- style="height:2em"
+!1896
+|rowspan=3 {{Party shading/Silver Republican}} |[[Lee Mantle]] {{small|(SvR)}}
+|rowspan=4 {{Party shading/Fusion}} |2 – [[William Jennings Bryan|Bryan]]/<br>[[Arthur Sewall|Sewall]] {{small|(D/Sv)}} {{nay}}<br>1 – [[William Jennings Bryan|Bryan]]/<br>[[Thomas E. Watson|Watson]] {{small|(Pop)}} {{nay}}
+|- style="height:2em"
+!1897
+|rowspan=4 {{Party shading/Fusion}} |[[Robert Burns Smith]] {{small|(D/Pop)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Archibald E. Spriggs]] {{small|(D)}}
+|rowspan=4 {{Party shading/Populist}} |[[Thomas S. Hogan]] {{small|(Pop)}}
+|rowspan=4 {{Party shading/Democratic}} |C. B. Nolan {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |Timothy E. Collins {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |Thomas W.<br>Poindexter Jr. {{small|(D)}}
+|rowspan=4 {{party shading/Republican}} |Evans A.<br>Carleton {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |12R, 8D,<br>3Pop
+|rowspan=2 {{party shading/Democratic}} |42D, 18Pop,<br>8R
+|- style="height:2em"
+!1898
+|- style="height:2em"
+!1899
+|rowspan=2 {{party shading/Democratic}} |17D, 6R,<br>1Pop
+|rowspan=2 {{party shading/Democratic}} |57D, 9R,<br>4SvR
+|{{Party shading/Democratic}} |[[William A. Clark]] {{small|(D)}}{{efn |Resigned May 15, 1900 to avoid claim of election fraud.}}
+|rowspan=2 {{Party shading/Democratic}} |[[Albert J. Campbell|Albert J.<br>Campbell]] {{small|(D)}}
+|- style="height:2em"
+!1900
+|''vacant''
+|rowspan=4 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!1901
+|rowspan=7 {{Party shading/Democratic}} |[[Joseph Toole]] {{small|(D)}}{{efn |Resigned due to declining health.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Frank G. Higgins]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |George M. Hayes {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |James Donovan {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |A. H. Barret {{small|(D)}}
+|rowspan=4 {{party shading/Populist}} |James H.<br>Calderhead {{small|(Pop)}}
+|rowspan=4 {{Party shading/Democratic}} |W. W.<br>Welch {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |14D, 9R,<br>1Pop
+|rowspan=2 {{Party shading/Fusion}} |28D, 23R, 8Lab,<br>6Pop, 5ID{{efn |A coalition of Democrats, Labor, Populists, and Independent Democrats chose a Democrat, Frank Corbett, as Speaker, and organized the chamber.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Paris Gibson]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[William A. Clark]] {{small|(D)}}
+|rowspan=2 {{Party shading/Populist}} |[[Caldwell Edwards|Caldwell<br>Edwards]] {{small|(Pop)}}
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|rowspan=2 {{party shading/Democratic}} |14D, 12R
+|rowspan=2 {{party shading/Republican}} |47R, 11{{abbr|Lab|Labor}},<br>8D, 6{{abbr|A-T|Anti-Trust Party}}
+|rowspan=4 {{Party shading/Republican}} |[[Joseph M. Dixon|Joseph M.<br>Dixon]] {{small|(R)}}
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1905
+|rowspan=3 {{Party shading/Democratic}} |[[Edwin L. Norris]] {{small|(D)}}
+|rowspan=7 {{Party shading/Republican}} |Abraham N. Yoder {{small|(R)}}{{efn |name=died|Died in office.}}
+|rowspan=8 {{Party shading/Republican}} |Albert J. Galen {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |James H. Rice {{small|(R)}}
+|rowspan=6 {{party shading/Republican}} |Henry R.<br>Cunningham {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |Wilfred E.<br>Harmon {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |16R, 10D
+|rowspan=2 {{party shading/Republican}} |38R, 24D,<br>7{{abbr|Lab|Labor}}, 3{{abbr|A-T|Anti-Trust Party}}
+|rowspan=6 {{Party shading/Republican}} |[[Thomas H. Carter]] {{small|(R)}}
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|rowspan=2 {{party shading/Republican}} |18R, 9D
+|rowspan=2 {{party shading/Republican}} |57R, 16D
+|rowspan=6 {{Party shading/Republican}} |[[Joseph M. Dixon]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Charles Nelson Pray|Charles<br>Nelson<br>Pray]] {{small|(R)}}
+|- style="height:2em"
+!1908
+|rowspan=5 {{Party shading/Democratic}} |[[Edwin L. Norris]] {{small|(D)}}{{efn |name=ltelected|As lieutenant governor, filled unexpired term, and was later elected in his own right.}}
+|{{Party shading/Republican}} |[[Benjamin F. White (Montana politician)|Benjamin F. White]] {{small|(R)}}{{efn |name=acting}}
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft|Taft]]/<br>[[James S. Sherman|Sherman]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1909
+|rowspan=4 {{Party shading/Republican}} |[[William Allen (Montana politician)|William Allen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Elmer E. Esselstyn {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |17R, 10D
+|rowspan=2 {{party shading/Democratic}} |38D, 33R
+|- style="height:2em"
+!1910
+|- style="height:2em"
+!1911
+|rowspan=2 |C. M.<br>McCoy
+|rowspan=2 {{party shading/Republican}} |16R, 12D
+|rowspan=2 {{party shading/Democratic}} |42D, 32R
+|rowspan=12 {{Party shading/Democratic}} |[[Henry L. Myers]] {{small|(D)}}
+|- style="height:2em"
+!1912
+|{{Party shading/Democratic}} |Thomas M. Swindlehurst {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|rowspan=8 {{Party shading/Democratic}} |[[Sam V. Stewart]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[W. W. McDowell]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Adelbert M. Alderson {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Daniel M. Kelly {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |William C. Rae {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |William<br>Keating {{small|(D)}}
+|rowspan=4 {{party shading/Democratic}} |Henry A.<br>Davee {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |17D, 13R,<br>2Prog
+|rowspan=2 {{party shading/Democratic}} |49D, 20R,<br>16Prog, 1Sv
+|rowspan=21 {{Party shading/Democratic}} |[[Thomas J. Walsh]] {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=2 {{Party shading/Democratic}} |[[Joseph Poindexter]] {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |19R, 16D,<br>5Prog, 1I{{efn |A coalition of Republicans and Progressives elected a Republican, John Edwards, as President Pro Tempore and organized the chamber.}}
+|rowspan=2 {{party shading/Democratic}} |55D, 36R,<br>3Sv, 1I
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=10 {{Party shading/Republican}} |Charles T. Stewart {{small|(R)}}{{efn |Impeached and then resigned.}}
+|rowspan=4 {{Party shading/Republican}} |[[Sam C. Ford]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |H. L. Hart {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |Rufus G.<br>Poland {{small|(D)}}
+|rowspan=13 {{Party shading/Republican}} |May<br>Trumper {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |28R, 13D
+|rowspan=2 {{party shading/Democratic}} |49D, 46R
+|rowspan=4 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=15 {{party shading/Republican}} |George P.<br>Porter {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |31R, 12D
+|rowspan=2 {{party shading/Republican}} |65R, 33D
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=4 {{Party shading/Republican}} |[[Joseph M. Dixon]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Nelson Story Jr.]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Wellington D. Rankin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |J. W. Walker
+|rowspan=2 {{party shading/Republican}} |41R, 13D
+|rowspan=2 {{party shading/Republican}} |98R, 9D, 1I
+|rowspan=2 {{Party shading/Republican}} |2R
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=2 {{Party shading/Republican}} |O. H. Junod {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |38R, 16D
+|rowspan=2 {{party shading/Republican}} |56R, 44D
+|rowspan=26 {{Party shading/Democratic}} |[[Burton K. Wheeler]] {{small|(D)}}
+|rowspan=11 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1924
+|rowspan=5 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=10 {{Party shading/Democratic}} |[[John E. Erickson (Montana politician)|John E. Erickson]] {{small|(D)}}{{efn |Resigned so that his successor could appoint him to the [[United States Senate]].}}
+|rowspan=5 {{Party shading/Republican}} |[[W. S. McCormack]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |L. A. Foot {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |Wilfred E. Harmon {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |39R, 16D,<br>1FL
+|rowspan=2 {{party shading/Republican}} |66R, 34D,<br>2FL
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!rowspan=2 |1927
+|{{Party shading/Democratic}} |Robert N. Hawkins {{small|(D)}}{{efn |name=resigned|Resigned.}}
+|rowspan=3 {{party shading/Republican}} |40R, 15D,<br>1FL
+|rowspan=3 {{party shading/Republican}} |61R, 39D,<br>2FL
+|- style="height:2em"
+|William Powers{{efn |name=resigned}}
+|- style="height:2em"
+!1928
+|{{Party shading/Democratic}} |John W. Mountjoy {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=4 {{Party shading/Republican}} |[[Frank A. Hazelbaker|Frank A. Hazelbacker]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |William E. Harmon {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |F. E. Williams {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |Elizabeth<br>Ireland {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |39R, 16D,<br>1FL
+|rowspan=2 {{party shading/Republican}} |69R, 33D
+|- style="height:2em"
+!1930
+|- style="height:2em"
+!1931
+|rowspan=2 {{party shading/Republican}} |41R, 15D
+|rowspan=2 {{party shading/Republican}} |59R, 43D
+|- style="height:2em"
+!1932
+|rowspan=9 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1933
+|{{Party shading/Democratic}} |[[Frank Henry Cooney]] {{small|(D)}}
+|rowspan=24 {{Party shading/Democratic}} |Sam W. Mitchell {{small|(D)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Democratic}} |Raymond T. Nagle {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |James Brett {{small|(D)}}
+|rowspan=30 {{party shading/Democratic}} |John J.<br>Holmes {{small|(D)}}
+|rowspan=3 {{party shading/Republican}} |33R, 22D, 1I
+|rowspan=3 {{party shading/Democratic}} |72D, 30R
+|rowspan=3 {{Party shading/Democratic}} |[[John E. Erickson (Montana politician)|John E. Erickson]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=7 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Frank Henry Cooney]] {{small|(D)}}{{efn |name=ltfilled|As lieutenant governor, filled unexpired term.}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |Tom Kane {{small|(R)}}{{efn |name=acting}}
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|{{Party shading/Republican}} |[[Ernest T. Eaton]] {{small|(R)}}{{efn |name=acting}}
+|rowspan=2 {{Party shading/Coalition}} |28D, 27R, 1I{{efn |A bipartisan coalition elected a Republican, Ernest T. Eaton, as President Pro Tempore, and organized the chamber on a bipartisan basis. In practice, Eaton served as President of the Senate, and as such Lt. Governor, as the previous one, Frank Cooney was serving as Governor. After session, Eaton resigned, and the position of President of the Senate and Lt. Governor was filled by Democrat Elmer Holt.}}
+|rowspan=2 {{party shading/Democratic}} |69D, 33R
+|rowspan=26 {{Party shading/Democratic}} |[[James E. Murray]] {{small|(D)}}
+|- style="height:2em"
+!1936
+|{{Party shading/Democratic}} |[[Elmer Holt]] {{small|(D)}}{{efn |As President of the State Senate, filled unexpired term. The Speaker of the House, William Pilgeram, took up his previous position of Lt. Governor.}}
+|{{Party shading/Democratic}} |William R. Pilgeram {{small|(D)}}{{efn |name=acting}}
+|{{Party shading/Democratic}} |Enor K. Matson {{small|(D)}}
+|- style="height:2em"
+!1937
+|rowspan=4 {{Party shading/Democratic}} |[[Roy E. Ayers]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Hugh R. Adair|Hugh R. Adnair]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Harrison J. Freebourn]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Ray Shannon {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Ruth<br>Reardon {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |29D, 27R
+|rowspan=2 {{party shading/Democratic}} |81D, 21R
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=2 {{party shading/Democratic}} |31D, 25R
+|rowspan=2 {{party shading/Democratic}} |58D, 44R
+|rowspan=4 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=8 {{Party shading/Republican}} |[[Sam C. Ford]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Ernest T. Eaton]] {{small|(R)}}
+|{{Party shading/Democratic}} |[[John W. Bonner]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |Thomas E. Carey {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |Elizabeth<br>Ireland {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |35R, 21D
+|rowspan=2 {{party shading/Democratic}} |55D, 47R
+|- style="height:2em"
+!1942
+|{{party shading/Democratic}} |Howard M. Gullickson {{small|(D)}}
+|- style="height:2em"
+!1943
+|rowspan=6 {{Party shading/Democratic}} |R. V. Bottomly {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |37R, 19D
+|rowspan=2 {{party shading/Republican}} |51R, 39D
+|rowspan=2 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1944
+|{{Party shading/Republican}} |T. H. MacDonald {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=4 {{Party shading/Republican}} |George P. Porter {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |39R, 17D
+|rowspan=2 {{party shading/Republican}} |53R, 37D
+|rowspan=12 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=2 {{party shading/Republican}} |41R, 15D
+|rowspan=2 {{party shading/Republican}} |58R, 31D, 1ID
+|rowspan=6 {{Party shading/Republican}} |[[Zales Ecton]] {{small|(R)}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Democratic}} |[[John W. Bonner]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Paul Cannon {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Arnold Olsen]] {{small|(D)}}
+|{{Party shading/Democratic}} |Neil Fisher {{small|(D)}}{{efn |name=died}}
+|rowspan=8 {{Party shading/Democratic}} |Mary M.<br>Condon {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |31R, 23D, 2I
+|rowspan=2 {{party shading/Democratic}} |54D, 36R
+|- style="height:2em"
+!1950
+|{{Party shading/Democratic}} |Alta E. Fisher {{small|(D)}}
+|- style="height:2em"
+!1951
+|rowspan=2 {{Party shading/Republican}} |John E. Henry {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |28R, 26D, 2I
+|rowspan=2 {{party shading/Republican}} |49R, 41D
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=8 {{Party shading/Republican}} |[[J. Hugo Aronson]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |George M. Gosman {{small|(R)}}
+|{{Party shading/Republican}} |Charles L. Sheridan {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{party shading/Republican}} |36R, 20D
+|rowspan=2 {{party shading/Republican}} |62R, 32D
+|rowspan=24 {{Party shading/Democratic}} |[[Mike Mansfield]] {{small|(D)}}
+|- style="height:2em"
+!1954
+|rowspan=3 {{Party shading/Republican}} |Edna Hinman {{small|(R)}}
+|- style="height:2em"
+!1955
+|rowspan=2 {{party shading/Republican}} |33R, 23D
+|rowspan=2 {{party shading/Democratic}} |49D, 45R
+|- style="height:2em"
+!1956
+|{{Party shading/Republican}} |[[S. C. Arnold]] {{small|(R)}}{{efn |name=appointed}}
+|- style="height:2em"
+!1957
+|rowspan=4 {{Party shading/Democratic}} |Paul Cannon {{small|(D)}}
+|rowspan=20 {{Party shading/Democratic}} |[[Frank Murray (politician)|Frank Murray]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Forrest H. Anderson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Horace Casey {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |[[Harriet Miller (politician)|Harriet<br>Miller]] {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |31D, 25R
+|rowspan=2 {{party shading/Democratic}} |59D, 35R
+|rowspan=4 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=4 {{party shading/Democratic}} |38D, 17R, 1I
+|rowspan=2 {{party shading/Democratic}} |61D, 31R, 2I
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1961
+|{{Party shading/Republican}} |[[Donald Grant Nutter|Donald G. Nutter]] {{small|(R)}}{{efn |name=died}}
+|{{Party shading/Republican}} |[[Tim Babcock]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Edna Hinman {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |54R, 40D
+|rowspan=16 {{Party shading/Democratic}} |[[Lee Metcalf]] {{small|(D)}}{{efn |name=died}}
+|rowspan=8 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1962
+|rowspan=7 {{Party shading/Republican}} |[[Tim Babcock]] {{small|(R)}}{{efn |name=ltelected}}
+|rowspan=3 {{Party shading/Republican}} |[[David F. James]] {{small|(R)}}{{efn |name=acting}}
+|rowspan=15 {{party shading/Republican}} |E. V. "Sonny"<br>Omholt {{small|(R)}}
+|- style="height:2em"
+!1963
+|rowspan=2 {{party shading/Democratic}} |35D, 21R
+|rowspan=2 {{party shading/Republican}} |57R, 37D
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1965
+|rowspan=4 {{Party shading/Republican}} |[[Ted James (Montana politician)|Ted James]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Henry H. Anderson {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Harriet Miller {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |32D, 24R
+|rowspan=2 {{party shading/Democratic}} |56D, 38R
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=6 {{party shading/Democratic}} |30D, 25R
+|rowspan=2 {{party shading/Republican}} |64R, 40D
+|- style="height:2em"
+!1968
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=4 {{Party shading/Democratic}} |[[Forrest H. Anderson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Lee Judge]] {{small|(D)}}
+|rowspan=8 {{Party shading/Republican}} |Robert L. Woodahl {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Alex B. Stephenson]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |Dolores<br>Colburg {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |58R, 46D
+|rowspan=2 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=2 {{party shading/Republican}} |55R, 49D
+|rowspan=4 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Lee Judge]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Bill Christiansen]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Hollis Connors]] {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |27D, 23R
+|rowspan=2 {{party shading/Democratic}} |54D, 46R
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=2 {{party shading/Democratic}} |30D, 20R
+|rowspan=2 {{party shading/Democratic}} |67D, 33R
+|rowspan=2 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1976
+|{{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|}
+
+== 1977–present ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Montana Legislature|State Legislature]]
+!colspan=3 |[[Montana's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral<br>votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Montana|Governor]]
+!class=unsortable |[[List of lieutenant governors of Montana|Lt. Governor]]
+!class=unsortable |[[Secretary of State of Montana|Secretary<br>of State]]
+!class=unsortable |[[Montana Department of Justice|Attorney<br>General]]
+!class=unsortable |Auditor
+!class=unsortable |[[Montana Office of Public Instruction|Supt. of<br>Pub. Inst.]]
+!class=unsortable |[[Montana Senate|Senate]]
+!class=unsortable |[[Montana House of Representatives|House]]
+!class=unsortable |[[List of United States senators from Montana|Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Montana|Senator<br>(Class II)]]
+!class=unsortable |[[List of United States representatives from Montana|House]]
+|- style="height:2em"
+!1977
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Lee Judge|Thomas Lee<br>Judge]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Ted Schwinden]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Frank Murray (politician)|Frank Murray]] {{small|(D)}}
+|rowspan=12 {{Party shading/Democratic}} |Mike Greely {{small|(D)}}
+|rowspan=8 {{party shading/Republican}} |E. V. "Sonny"<br>Omholt {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |Georgia Ruth<br>Rice {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |25D, 25R{{efn |name=tie|Party control granted to governor's party in the event of a tied house of the legislature.}}
+|rowspan=2 {{party shading/Democratic}} |57D, 43R
+|rowspan=12 {{Party shading/Democratic}} |[[John Melcher]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Paul G. Hatfield|Paul G.<br>Hatfield]] {{small|(D)}}{{efn |name=appointed}}
+|rowspan=16 {{Party shading/Tie}} |1D, 1R
+|rowspan=3 |
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=2 {{party shading/Republican}} |26R, 24D
+|rowspan=2 {{party shading/Democratic}} |55D, 45R
+|rowspan=35 {{Party shading/Democratic}} |[[Max Baucus]] {{small|(D)}}{{efn |Resigned February 6, 2014 in anticipation of being appointed [[United States Ambassador to China]].}}
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=8 {{Party shading/Democratic}} |[[Ted Schwinden]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[George Turman]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=7 {{Party shading/Republican}} |[[Jim Waltermire]] {{small|(R)}}{{efn |name=died}}
+|rowspan=8 {{Party shading/Republican}} |Ed Argenbright {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |28R, 22D
+|rowspan=2 {{party shading/Republican}} |57R, 43D
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=2 {{party shading/Republican}} |26R, 24D
+|rowspan=2 {{party shading/Democratic}} |55D, 45R
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=8 {{party shading/Republican}} |Andrea Bennett {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |28D, 22R
+|rowspan=2 {{Party shading/Tie}} |50D, 50R{{efn |By statute, in the event of a tie chamber, the party of the Governor receives the Speakership. However, the committees and administration of the chamber and its committees were organized on a 50-50 basis, with an equal number of chairmen and members of both parties.<ref name=balance>{{Cite book|last=Loepp|first=Daniel|url=https://books.google.com/books?id=tv4iztWcOnkC|title=Sharing the Balance of Power: An Examination of Shared Power in the Michigan House of Representatives, 1993-94|date=1999|publisher=University of Michigan Press|isbn=978-0-472-09702-9|language=en|page=25}}</ref>}}
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=2 {{Party shading/Tie}} |25D, 25R{{efn |By statute, in the event of a tie chamber, the party of the Governor receives the Presidency. However, the committees and administration of the chamber and its committees were organized on a 50-50 basis, with an equal number of chairmen and members of both parties.<ref name=balance/>}}
+|rowspan=2 {{party shading/Republican}} |51R, 49D
+|- style="height:2em"
+!1988
+|{{Party shading/Democratic}} |[[Gordon McOmber]] {{small|(D)}}{{efn |name=appointed}}
+|{{Party shading/Republican}} |Verner Bertelsen {{small|(R)}}{{efn |name=appointed}}
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1989
+|rowspan=4 {{Party shading/Republican}} |[[Stan Stephens]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Allen Kolstad]] {{small|(R)}}{{efn |Resigned to take a presidential appointment to the [[Canada–United States border#International Boundary Commission (1925)|International Boundary Commission]].}}
+|rowspan=12 {{Party shading/Democratic}} |[[Mike Cooney]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Marc Racicot]] {{small|(R)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Nancy Keenan]] {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |27R, 23D
+|rowspan=2 {{party shading/Democratic}} |52D, 48R
+|rowspan=18 {{Party shading/Republican}} |[[Conrad Burns]] {{small|(R)}}
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=6 {{Party shading/Republican}} |[[Denny Rehberg]] {{small|(R)}}{{efn |name=appointed}}
+|rowspan=2 {{party shading/Democratic}} |29D, 21R
+|rowspan=2 {{party shading/Democratic}} |61D, 39R
+|- style="height:2em"
+!1992
+|rowspan=4 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1993
+|rowspan=8 {{Party shading/Republican}} |[[Marc Racicot]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Joseph P. Mazurek]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Mark O'Keefe (politician)|Mark O'Keefe]] {{small|(D)}}
+|rowspan=2 {{party shading/Democratic}} |30D, 20R
+|rowspan=2 {{party shading/Republican}} |53R, 47D
+|rowspan=4 {{Party shading/Democratic}} |[[Pat Williams (Montana politician)|Pat Williams]] {{small|(D)}}
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=2 {{party shading/Republican}} |31R, 19D
+|rowspan=2 {{party shading/Republican}} |67R, 33D
+|- style="height:2em"
+!1996
+|rowspan=4 {{Party shading/Republican}} |[[Bob Dole|Dole]]/<br>[[Jack Kemp|Kemp]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+
+!1997
+|rowspan=4 {{Party shading/Republican}} |[[Judy Martz]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |34R, 16D
+|rowspan=2 {{party shading/Republican}} |65R, 35D
+|rowspan=4 {{Party shading/Republican}} |[[Rick Hill]] {{small|(R)}}
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=2 {{party shading/Republican}} |32R, 18D
+|rowspan=2 {{party shading/Republican}} |59R, 41D
+|- style="height:2em"
+!2000
+|rowspan=8 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2001
+|rowspan=4 {{Party shading/Republican}} |[[Judy Martz]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Karl Ohs]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Bob Brown (Montana politician)|Bob Brown]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Mike McGrath (judge)|Mike McGrath]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[John Morrison (Montana politician)|John Morrison]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Linda McCulloch]] {{small|(D)}}
+|rowspan=2 {{party shading/Republican}} |31R, 19D
+|rowspan=2 {{party shading/Republican}} |58R, 42D
+|rowspan=12 {{Party shading/Republican}} |[[Denny Rehberg]] {{small|(R)}}
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=2 {{party shading/Republican}} |29R, 21D
+|rowspan=2 {{party shading/Republican}} |53R, 47D
+|- style="height:2em"
+!2004
+|- style="height:2em"
+!2005
+|rowspan=8 {{Party shading/Democratic}} |[[Brian Schweitzer]] {{small|(D)}}{{efn |name=bipartisan|Elected on bipartisan ticket.}}
+|rowspan=8 {{Party shading/Republican}} |[[John Bohlinger]] {{small|(R)}}{{efn |name=bipartisan}}
+|rowspan=4 {{Party shading/Republican}} |[[Brad Johnson (Montana politician)|Brad Johnson]] {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |27D, 23R
+|rowspan=2 {{Party shading/Democratic}} |50D, 50R{{efn |name=tie}}
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=2 {{Party shading/Democratic}} |26D, 24R{{efn |Republican Sam Kitzenberg switched parties shortly after the 2006 election.}}
+|rowspan=2 {{Party shading/Republican}} |50R, 49D, 1{{abbr|C|Constitution Party}}{{efn |Constitution Party member caucused with Republicans.}}
+|rowspan=18 {{Party shading/Democratic}} |[[Jon Tester]] {{small|(D)}}
+|- style="height:2em"
+!2008
+|rowspan=4 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2009
+|rowspan=8 {{Party shading/Democratic}} |[[Linda McCulloch]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Steve Bullock (American politician)|Steve Bullock]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Monica Lindeen]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Denise Juneau]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 23D
+|rowspan=2 {{Party shading/Democratic}} |50D, 50R{{efn |name=tie}}
+|- style="height:2em"
+![[2010 Montana elections|2010]]
+|- style="height:2em"
+!2011
+|rowspan=2 {{party shading/Republican}} |28R, 22D
+|rowspan=2 {{party shading/Republican}} |68R, 32D
+|- style="height:2em"
+!2012
+|rowspan=4 {{party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2013
+|rowspan=8 {{party shading/Democratic}} |[[Steve Bullock (American politician)|Steve Bullock]] {{small|(D)}}
+|{{party shading/Democratic}} |[[John Walsh (Montana politician)|John Walsh]] {{small|(D)}}
+|rowspan=8 {{party shading/Republican}} |[[Tim Fox (politician)|Tim Fox]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |29R, 21D
+|rowspan=2 {{party shading/Republican}} |61R, 39D
+|rowspan=2 {{party shading/Republican}} |[[Steve Daines]] {{small|(R)}}
+|- style="height:2em"
+![[2014 Montana elections|2014]]
+|rowspan=2 {{party shading/Democratic}} |[[Angela McLean]] {{small|(D)}}
+|{{party shading/Democratic}} |[[John Walsh (Montana politician)|John Walsh]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!2015
+|rowspan=4 {{party shading/Republican}} |59R, 41D
+|rowspan=12 {{party shading/Republican/current}} |[[Steve Daines]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |[[Ryan Zinke]] {{small|(R)}}{{efn |Resigned March 2017 to become the [[United States Secretary of the Interior]].}}
+|- style="height:2em"
+![[2016 Montana elections|2016]]
+|rowspan=5 {{party shading/Democratic}} |[[Mike Cooney]] {{small|(D)}}
+|rowspan=4 {{party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2017
+|rowspan=4 {{party shading/Republican}} |[[Corey Stapleton]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Matt Rosendale]] {{small|(R)}}
+|rowspan=8 {{party shading/Republican}} |[[Elsie Arntzen]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |32R, 18D
+|rowspan=4 {{party shading/Republican}} |[[Greg Gianforte]] {{small|(R)}}
+|- style="height:2em"
+![[2018 Montana elections|2018]]
+|- style="height:2em"
+!2019
+|rowspan=2 {{party shading/Republican}} |30R, 20D
+|rowspan=2 {{Party shading/Republican}} |58R, 42D
+|- style="height:2em"
+![[2020 Montana elections|2020]]
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2021
+|rowspan=6 {{Party shading/Republican/current}} |[[Greg Gianforte]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican/current}} |[[Kristen Juras]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican/current}} |[[Christi Jacobsen]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican/current}} |[[Austin Knudsen]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Troy Downing]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 19D
+|rowspan=2 {{Party shading/Republican}} |67R, 33D
+|rowspan=2 {{Party shading/Republican}} |[[Matt Rosendale]] {{small|(R)}}
+|- style="height:2em"
+![[2022 Montana elections|2022]]
+|-
+!2023
+|rowspan=2 {{Party shading/Republican}} |34R, 16D
+|rowspan=2 {{Party shading/Republican}} |68R, 32D
+|rowspan=4 {{Party shading/Republican/current}} |2R
+|- style="height:2em"
+![[2024 Montana elections|2024]]
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em" 
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |[[James Brown (Montana politician)|James Brown]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican/current}} |Susie Hedalen {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |32R, 18D{{efn |An effective working majority of 9 Republicans and all 18 Democrats governs the chamber. [https://dailymontanan.com/2025/02/21/no-deal-collaboration-montana-senate-nine-republicans-democrats/]}}
+|rowspan=2 {{Party shading/Republican/current}} |58R, 42D
+|rowspan=2 {{Party shading/Republican/current}} |[[Tim Sheehy]] {{small|(R)}}
+|- style="height:2em" 
+!2026
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==See also==
+*[[Montana#Politics|Politics in Montana]]
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Montana}}
+[[Category:Politics of Montana]]
+[[Category:Government of Montana]]
+[[Category:Political party strength in the United States by state|Montana]]

@@ -1,0 +1,661 @@
+{{Short description|None}}
+{{Use American English|date=April 2026}}
+{{Use mdy dates|date=December 2016}}
+{{featured list}}
+{{Infobox official post
+|post             = Governor
+|body             = Michigan
+|flag             = Flag of the Governor of Michigan.svg
+|flag_border      = yes
+|flag_size        = 110px
+|flag_caption     = Flag of the governor
+|insignia         = Seal of Michigan Governor.svg
+|insignia_size    = 110px
+|insignia_caption = Seal of the governor
+|image            = Gretchen Whitmer (2021) (cropped).jpg
+|image_size       = 200px
+|incumbent        = [[Gretchen Whitmer]]
+|incumbent_since  = January 1, 2019
+|style            = [[Excellency|Her Excellency]]
+|status           = {{ublist|[[Head of state]]|[[Head of government]]}}
+|residence        = [[Michigan Governor's Mansion]]
+|term_length      = Four years, renewable once
+|precursor        = Governor of [[Michigan Territory]]
+|inaugural        = [[Stevens T. Mason]]
+|formation        = November 3, 1835
+|succession       = [[Gubernatorial_lines_of_succession_in_the_United_States#Michigan|Line of succession]]
+|deputy           = [[Lieutenant Governor of Michigan]]
+|salary           = $159,300 (2019)
+|website          = {{URL|www.michigan.gov/gov}}
+}}
+The [[governor of Michigan]] is the [[head of government]] of the [[U.S. state]] of [[Michigan]]. In 1805, the [[Michigan Territory]] was created, and five men served as territorial governors, until Michigan was granted statehood in 1837. Forty-seven individuals have held the position of state governor. The first female governor, [[Jennifer Granholm]], served from 2003 to 2011. The longest-serving governor in Michigan's history was [[William Milliken]], who was promoted from lieutenant governor after Governor [[George W. Romney]] resigned to become [[United States Secretary of Housing and Urban Development|Secretary of Housing and Urban Development]], then was elected to three further successive terms. The only governors to serve non-consecutive terms were [[John S. Barry]] and [[Frank Fitzgerald]].
+
+==List of governors==
+
+===Territory of Michigan===
+
+[[Michigan Territory]] was organized on June 30, 1805, from the north half of [[Indiana Territory]].<ref>{{usstat|2|309}}</ref> It had three governors appointed by the [[president of the United States]], including the longest-serving governor of any territory, [[Lewis Cass]], who served for 18 years. During the [[War of 1812]], following the [[Siege of Detroit]] and [[British occupation of the Michigan Territory|British occupation of Michigan Territory]], Colonel [[Henry Procter (British Army officer)|Henry Procter]] was appointed as civil governor.<ref>{{Cite book |last1=Hitsman |first1=J. Mackay |last2=Graves |first2=Donald E. |title=The Incredible War of 1812 |publisher=Robin Brass Studio |year=1999 |isbn=978-1896941134 |url=https://archive.org/details/incrediblewarof10000hits_p0g9 |url-access=registration |pages=85–88 |via=[[Internet Archive]]}}</ref><ref>{{Cite web |url=https://thecanadianencyclopedia.ca/en/article/capture-of-detroit-war-of-1812 |last=Marsh |first=James H. |date=March 4, 2015 |access-date=October 30, 2026 |title=Capture of Detroit, War of 1812 |website=[[The Canadian Encyclopedia]] |archive-url=https://web.archive.org/web/20200323031541/https://thecanadianencyclopedia.ca/en/article/capture-of-detroit-war-of-1812 |archive-date=March 23, 2020 |url-status=live}}</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Michigan
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Hull, William"|[[File:William Hull.jpg|75px]]
+|rowspan="2"|'''[[William Hull]]'''<br>{{Small|(1753–1825)}}<br>{{sfn|McMullin|1984|pp=187–189}}
+|rowspan="2" data-sort-value="3165"|March 1, 1805{{efn|Hull was nominated on February 26, 1805,<ref name="hull-nom">{{cite book |title=Senate Executive Journal, 8th Cong., 2nd sess. |author=United States Senate |page=484 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178776&seq=496 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on March 1,<ref name="hull-nom" /> and took office on July 1.{{sfn|McMullin|1984|p=187}} He was reconfirmed by the Senate on March 31, 1808,<ref>{{cite book |title=Senate Executive Journal, 10th Cong., 1st sess. |author=United States Senate |page=78 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=80 |via=[[HathiTrust]]}}</ref> and January 12, 1811.<ref>{{cite book |title=Senate Executive Journal, 11th Cong., 3rd sess. |author=United States Senate |page=162 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=164 |via=[[HathiTrust]]}}</ref>}}<br />–<br />October 29, 1813<br>{{small|(3165 days; replaced)}}{{efn|Hull was [[court-martial]]ed for [[Siege of Detroit|surrendering Detroit]] to the [[United Kingdom|British]] during the [[War of 1812]], and sentenced to death; that was later commuted.{{sfn|McMullin|1984|p=188}} but other sources say he never resigned.<ref>{{Cite journal |last=Jenks |first=William L. |title=William Hull — First Territorial Governor of Michigan |url=https://archive.org/details/societyofsonsofr19161923sons/page/n323 |journal=Year Book of the Michigan Society of the Sons of the American Revolution, 1919–1923 |year=1923 |page=50 |via=[[Internet Archive]]}}</ref>}}
+|{{sortname|Thomas|Jefferson}}
+|- style="height:2em;"
+|{{sortname|James|Madison}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|2
+|rowspan="3" data-sort-value="Cass, Lewis"|[[File:Lewis Cass, 14th United States Secretary of War.jpg|75px]]
+|rowspan="3"|'''[[Lewis Cass]]'''<br>{{Small|(1782–1866)}}<br>{{sfn|McMullin|1984|pp=189–191}}
+|rowspan="3" data-sort-value="6486"|October 29, 1813{{efn|Cass was appointed on October 29, 1813,{{sfn|McMullin|1984|p=189}} during a Senate recess; nominated on January 31, 1814;<ref>{{cite book |title=Senate Executive Journal, 13th Cong., 2nd sess. |author=United States Senate |page=464 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=466 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on February 11, 1814.<ref>{{cite book |title=Senate Executive Journal, 13th Cong., 2nd sess. |author=United States Senate |page=472 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=474 |via=[[HathiTrust]]}}</ref> He was reconfirmed by the Senate on January 21, 1817;<ref>{{cite book |title=Senate Executive Journal, 14th Cong., 2nd sess. |author=United States Senate |page=72 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=76 |via=[[HathiTrust]]}}</ref> January 24, 1820;<ref>{{cite book |title=Senate Executive Journal, 16th Cong., 1st sess. |author=United States Senate |page=196 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=200 |via=[[HathiTrust]]}}</ref> December 20, 1822;<ref>{{cite book |title=Senate Executive Journal, 17th Cong., 2nd sess. |author=United States Senate |page=314 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=314 |via=[[HathiTrust]]}}</ref> December 22, 1825;<ref>{{cite book |title=Senate Executive Journal, 19th Cong., 1st sess. |author=United States Senate |page=457 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=457 |via=[[HathiTrust]]}}</ref> and December 24, 1828.<ref>{{cite book |title=Senate Executive Journal, 20th Cong., 2nd sess. |author=United States Senate |page=624 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178792&seq=624 |via=[[HathiTrust]]}}</ref>}}<br />–<br />August 1, 1831<br>{{small|(6486 days; resigned)}}{{efn|Cass resigned, having been appointed [[United States Secretary of War]].{{sfn|McMullin|1984|p=190}} He submitted his resignation on July 21, 1831, to take effect on August 1.<ref>{{Cite book |last=Carter |first=Clarence Edwin |url=https://books.google.com/books?id=QeNFAQAAMAAJ&pg=PA310 |title=The Territorial Papers of the United States |date=1945 |publisher=U.S. Government Printing Office |volume=XII: The Territory of Michigan 1829-1837, continued |pages=310–311}}</ref>}}
+|{{sortname|James|Madison}}
+|- style="height:2em;"
+|{{sortname|James|Monroe}}
+|- style="height:2em;"
+|{{sortname|John Quincy|Adams}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Porter, George"|[[File:George B. Porter.png|75px]]
+|'''[[George Bryan Porter]]'''<br>{{Small|(1791–1834)}}<br>{{sfn|McMullin|1984|pp=192–193}}
+|data-sort-value="1066"|August 6, 1831{{efn|Porter was appointed on August 6, 1831,{{sfn|McMullin|1984|p=192}} during a Senate recess; nominated on December 7, 1831;<ref>{{cite book |title=Senate Executive Journal, 22nd Cong., 1st sess. |author=United States Senate |page=178 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=184 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on February 8, 1832.<ref>{{cite book |title=Senate Executive Journal, 22nd Cong., 1st sess. |author=United States Senate |page=209 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=215 |via=[[HathiTrust]]}}</ref> He took office on September 17, 1831.{{sfn|McMullin|1984|p=192}}}}<br />–<br />July 6, 1834<br>{{small|(1066 days; died in office)}}
+|{{sortname|Andrew|Jackson}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Mason, Stevens"|[[File:Stevens T Mason.png|75px]]
+|'''[[Stevens T. Mason]]'''<br>{{Small|(1811–1843)}}<br>{{sfn|Sobel|1978|pp=741–742}}<ref name="nga-mason" />
+|data-sort-value="443"|July 6, 1834<br />–<br />September 21, 1835<br>{{small|(443 days; replaced)}}{{efn|[[Henry D. Gilpin]] was appointed on November 5, 1834, during a Senate recess, but he returned his commission on November 8, without declining it, saying he could not leave his present duties for several weeks.<ref>{{Cite book |last=Carter |first=Clarence Edwin |url=https://books.google.com/books?id=QeNFAQAAMAAJ&pg=PA310 |title=The Territorial Papers of the United States |date=1945 |publisher=U.S. Government Printing Office |volume=XII: The Territory of Michigan 1829-1837, continued |page=814}}</ref> He was nominated on December 10, 1834,<ref>{{cite book |title=Senate Executive Journal, 23rd Cong., 2nd sess. |author=United States Senate |page=447 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=453 |via=[[HathiTrust]]}}</ref> but was rejected by the Senate on January 20, 1835.<ref>{{cite book |title=Senate Executive Journal, 23rd Cong., 2nd sess. |author=United States Senate |page=463 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069919&seq=469 |via=[[HathiTrust]]}}</ref> [[Charles Shaler]] was then appointed on August 29, 1835, but declined the post.<ref>{{Cite book |last1=Dunbar |first1=Willis F. |title=Michigan: A History of the Wolverine State |last2=May |first2=George S. |publisher=William B. Eerdmans Publishing Company |year=1995 |isbn=9780802870551 |edition=Third Revised |page=187 |name-list-style=amp}}</ref> His replacement was finally appointed on September 21, 1835. Mason would win the election to be the first state governor on October 5.}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Territorial<br>secretary<br>acting}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Horner, John"|[[File:John Scott Horner.jpg|75px]]
+|'''[[John S. Horner]]'''<br>{{Small|(1802–1883)}}
+|data-sort-value="287"|September 21, 1835<ref>{{Cite book |last=Carter |first=Clarence Edwin |url=https://books.google.com/books?id=QeNFAQAAMAAJ |title=The Territorial Papers of the United States |date=1945 |publisher=U.S. Government Printing Office |volume=XII: The Territory of Michigan 1829-1837, continued |page=979}}</ref><br />–<br />July 3, 1836<br>{{small|(287 days; resigned)}}{{efn|In October 1835, Michigan authorized a state constitution and elected [[Stevens T. Mason]] as governor of the new state, although Michigan was not admitted until 1837. Horner was mostly ignored by the people of Michigan, and resigned to be Secretary of [[Wisconsin Territory]] in July 1836;<ref>{{Cite book |last1=Dunbar |first1=Willis F. |title=Michigan: A History of the Wolverine State |last2=May, George S. |publisher=William B. Eerdmans Publishing Company |year=1995 |isbn=9780802870551 |edition=Third Revised |pages=208–211 |name-list-style=amp}}</ref> the date given is the organization of Wisconsin Territory.}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Territorial<br>secretary<br>acting}}
+|}
+
+===State of Michigan===
+Michigan was [[Admission to the Union|admitted to the Union]] on January 26, 1837. Under the original [[constitution of Michigan]], governors held the office for a two-year term,{{sfn|Thorpe|1909|p=1935|loc=1835 art. V, § 1}}, until the 1963 [[Constitution of Michigan|Michigan Constitution]] changed the term to four years.{{sfn|Mich. Const.|loc=[https://50constitutions.org/mi/constitution/section-id-79162 1963 art. V, 21]}} There was no [[term limit]] until a 1992 constitutional amendment imposed a lifetime limit of two terms.{{sfn|Mich. Const.|loc=[https://50constitutions.org/mi/constitution/section-id-79192 1992 art. V, § 30]}} 
+
+Should the office of governor become vacant, the [[Lieutenant Governor of Michigan|lieutenant governor]] becomes governor, followed in order of succession by the [[Michigan Secretary of State|secretary of state]] and the [[Michigan Attorney General|attorney general]].{{sfn|Mich. Const.|loc=[https://50constitutions.org/mi/constitution/section-id-79180 1963 art. V, § 26]}} Prior to the current constitution, the duties of the office would devolve upon the lieutenant governor, without that person actually becoming governor.{{sfn|Thorpe|1909|p=1936|loc=1835 art. V, § 12}} Since 1850, the term begins at noon on the January 1 following the election;{{sfn|Thorpe|1909|p=1957|loc=1850 art. VIII, § 2}} before, it had no set start date, and terms would last until when their successor was inaugurated, which would be at least the first Monday in January following their election.{{sfn|Thorpe|1909|p=1940|loc=1835 art. XII, § 10}} Since 1963, the governor and lieutenant governor have been elected on the same [[Ticket (election)|ticket]].{{sfn|Mich. Const.|loc=[https://50constitutions.org/mi/constitution/section-id-79162 1963 art. V, 21]}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Michigan
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Michigan|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Mason, Stevens"|[[File:Stevens T. Mason.jpg|75px]]
+|rowspan="2" style="background: {{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Stevens T. Mason]]'''<br>{{small|(1811–1843)}}<br>{{sfn|Sobel|1978|pp=741–742}}<ref name="nga-mason">{{cite web |title=Stevens Thomson Mason |url=https://www.nga.org/governor/stevens-thomson-mason/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260315230843/https://www.nga.org/governor/stevens-thomson-mason/ |archive-date=March 15, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1527"|November 3, 1835<ref name="manual">{{Cite book |url=https://books.google.com/books?id=17iHAAAAMAAJ&pg=PA146 |title=Michigan Legislative Manual and Official Directory |date=1895 |page=146 |via=[[Google Books]]}}</ref><br />–<br />January 7, 1840<br>{{small|(1527 days; retired)}}
+|rowspan="2"|[[Michigan Democratic Party|Democratic]]{{sfn|Dubin|2003|p=120}}
+|[[1835 Michigan gubernatorial election|1835]]
+|rowspan="2" style="background: {{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Edward|Mundy}}
+|- style="height:2em;"
+|[[1837 Michigan gubernatorial election|1837]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Woodbridge, William"|[[File:William Woodbridge (6268126208).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[William Woodbridge]]'''<br>{{small|(1780–1861)}}<br>{{sfn|Sobel|1978|p=742}}<ref name="nga-woodbridge">{{cite web |title=William Woodbridge |url=https://www.nga.org/governor/william-woodbridge/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261021114201/https://www.nga.org/governor/william-woodbridge/ |archive-date=October 21, 2026 |url-status=live}}</ref>
+|data-sort-value="415"|January 7, 1840<ref>{{cite book |title=Journal of the Michigan House of Representatives, 1840 sess. |author=Michigan Legislature |page=9 |url=https://books.google.com/books?id=6TxKAQAAMAAJ&pg=PA9 |via=[[Google Books]]}}</ref><br />–<br />February 24, 1841<br>{{small|(415 days; resigned)}}{{efn|Woodbridge resigned, having been [[1840–41 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=742}} His resignation, dated February 23, was accepted by the Senate on February 24.<ref>{{cite book |title=Journal of the Michigan Senate, 1841 sess. |author=Michigan Legislature |page=208 |url=https://books.google.com/books?id=TFhBAQAAMAAJ&pg=PA208 |via=[[Google Books]]}}</ref>}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=121}}
+|[[1839 Michigan gubernatorial election|1839]]
+|rowspan="2" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|{{sortname|James Wright|Gordon}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Gordon, James"|[[File:J Wright Gordon.JPG|75px]]
+|'''[[James Wright Gordon]]'''<br>{{small|(1809–1853)}}<br>{{sfn|Sobel|1978|pp=742–743}}<ref name="nga-gordon">{{cite web |title=James Wright Gordon |url=https://www.nga.org/governor/james-wright-gordon/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417193026/https://www.nga.org/governor/james-wright-gordon/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="314"|February 24, 1841<ref name="manual" /><br />–<br />January 3, 1842<br>{{small|(314 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|p=298}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Thomas J.|Drake}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Barry, John"|[[File:Jsbarry-1-.jpg|75px]]
+|rowspan="9" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John S. Barry]]'''<br>{{small|(1802–1870)}}<br>{{sfn|Sobel|1978|p=743}}<ref name="nga-barry">{{cite web |title=John Stewart Barry |url=https://www.nga.org/governor/john-stewart-barry/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418102153/https://www.nga.org/governor/john-stewart-barry/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1842<ref>{{cite book |title=Journal of the Michigan Senate, 1842 sess. |author=Michigan Legislature |page=7 |url=https://books.google.com/books?id=voUwAQAAMAAJ&pg=PA7 |via=[[Google Books]]}}</ref><br />–<br />January 5, 1846<br>{{small|(1464 days; retired)}}{{efn|Sobel writes that Barry was term-limited under the terms of the 1835 constitution, but no such limit existed.{{sfn|Sobel|1978|p=743}}}}
+|rowspan="2"|[[Michigan Democratic Party|Democratic]]{{sfn|Dubin|2003|p=121}}
+|[[1841 Michigan gubernatorial election|1841]]
+|rowspan="9" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Origen D.|Richardson}}
+|- style="height:2em;"
+|[[1843 Michigan gubernatorial election|1843]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Felch, Alpheus"|[[File:Michigan Justice Alpheus Felch, The Green Bag, p. 380, w text.jpg|75px]]
+|'''[[Alpheus Felch]]'''<br>{{small|(1804–1896)}}<br>{{sfn|Sobel|1978|p=744}}<ref name="nga-felch">{{cite web |title=Alpheus Felch |url=https://www.nga.org/governor/alpheus-felch/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617070607/https://www.nga.org/governor/alpheus-felch/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="423"|January 5, 1846<ref>{{cite book |title=Journal of the Michigan Senate, 1846 sess. |author=Michigan Legislature |page=4 |url=https://books.google.com/books?id=TocwAQAAMAAJ&pg=PA4 |via=[[Google Books]]}}</ref><br />–<br />March 3, 1847<br>{{small|(423 days; resigned)}}{{efn|Felch resigned, having been [[1846–47 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=744}}}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Dubin|2003|p=122}}
+|[[1845 Michigan gubernatorial election|1845]]
+|{{sortname|William L.|Greenly}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Greenly, William"|[[File:William Greenly.png|75px]]
+|'''[[William L. Greenly]]'''<br>{{small|(1813–1883)}}<br>{{sfn|Sobel|1978|p=744}}<ref name="nga-greenly">{{cite web |title=William L. Greenly |url=https://www.nga.org/governor/william-l-greenly/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260307114111/https://www.nga.org/governor/william-l-greenly/ |archive-date=March 7, 2026 |url-status=live}}</ref>
+|data-sort-value="307"|March 3, 1847<ref>{{Cite news |date=March 4, 1847 |title=Resignation of Gov. Felch |page=2 |newspaper=[[Detroit Free Press|Democratic Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-felch-resigns-greenl/120549152/ |archive-url=https://web.archive.org/web/20230928021937/https://www.newspapers.com/article/120549152/felch-resigns-greenly-becomes-governor/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 3, 1848<br>{{small|(307 days; retired)}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=298}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Charles P.|Bush}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Ransom, Epaphroditus"|[[File:Epaphroditus Ransom 1.jpg|75px]]
+|'''[[Epaphroditus Ransom]]'''<br>{{small|(1798–1859)}}<br>{{sfn|Sobel|1978|p=745}}<ref name="nga-ransom">{{cite web |title=Epaphroditus Ransom |url=https://www.nga.org/governor/epaphroditus-ransom/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510104345/https://www.nga.org/governor/epaphroditus-ransom/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 3, 1848<ref>{{cite book |title=Journal of the Michigan House of Representatives, 1848 sess. |author=Michigan Legislature |page=7 |url=https://books.google.com/books?id=NSA6AAAAMAAJ&pg=PA7 |via=[[Google Books]]}}</ref><br />–<br />January 7, 1850<br>{{small|(736 days; retired)}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Dubin|2003|p=122}}
+|[[1847 Michigan gubernatorial election|1847]]
+|rowspan="2"|{{sortname|William M.|Fenton}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Barry, John"|[[File:Jsbarry-1-.jpg|75px]]
+|'''[[John S. Barry]]'''<br>{{small|(1802–1870)}}<br>{{sfn|Sobel|1978|p=743}}<ref name="nga-barry" />
+|data-sort-value="725"|January 7, 1850<ref>{{cite book |title=Journal of the Michigan House of Representatives, 1850 sess. |author=Michigan Legislature |page=4 |url=https://books.google.com/books?id=NpQlAQAAIAAJ&pg=PA4 |via=[[Google Books]]}}</ref><br />–<br />January 1, 1852<br>{{small|(725 days; retired)}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Dubin|2003|p=122}}
+|[[1849 Michigan gubernatorial election|1849]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="McClelland, Robert"|[[File:Robert McClelland 1.jpg|75px]]
+|rowspan="2"|'''[[Robert McClelland (American politician)|Robert McClelland]]'''<br>{{small|(1807–1880)}}<br>{{sfn|Sobel|1978|pp=745–746}}<ref name="nga-mcclelland">{{cite web |title=Robert McClelland |url=https://www.nga.org/governor/robert-mcclelland/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422114312/https://www.nga.org/governor/robert-mcclelland/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="432"|January 1, 1852<ref>{{Cite news |date=January 1, 1852 |title=Gov. McClelland |page=2 |newspaper=[[Detroit Free Press|Detroit Daily Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-mcclelland-to-be-inau/120557133/ |archive-url=https://web.archive.org/web/20230928021938/https://www.newspapers.com/article/120557133/mcclelland-to-be-inaugurated-jan-1/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />March 7, 1853<br>{{small|(432 days; resigned)}}{{efn|McClelland resigned, having been confirmed as [[United States Secretary of the Interior]].{{sfn|Sobel|1978|p=746}}}}
+|rowspan="2"|[[Michigan Democratic Party|Democratic]]{{sfn|Dubin|2003|pp=122–123}}
+|[[1851 Michigan gubernatorial election|1851]]{{efn|The 1850 constitution adjusted the election schedules, shortening this term to one year.{{sfn|Sobel|1978|p=746}}}}
+|{{sortname|Calvin|Britain}}
+|- style="height:2em;"
+|[[1852 Michigan gubernatorial election|1852]]
+|{{sortname|Andrew|Parsons|dab=American politician}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Parsons, Andrew"|[[File:Andrew parsons.jpg|75px]]
+|'''[[Andrew Parsons (American politician)|Andrew Parsons]]'''<br>{{small|(1817–1855)}}<br>{{sfn|Sobel|1978|p=746}}<ref name="nga-parsons">{{cite web |title=Andrew Parsons |url=https://www.nga.org/governor/andrew-parsons/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422111442/https://www.nga.org/governor/andrew-parsons/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="668"|March 7, 1853{{efn|Sources are split on when McClelland resigned and Parsons took office, with Sobel saying both occurred on March 7,{{sfn|Sobel|1978|p=746}} and the Michigan Legislative Manual saying McClelland resigned on March 6, and Parsons took office March 7.<ref name="manual" />}}<br />–<br />January 3, 1855<br>{{small|(668 days; retired)}}{{efn|Parsons was instead elected to the [[Michigan House of Representatives]].{{sfn|Sobel|1978|p=746}}}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=298}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|George|Griswold}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Bingham, Kinsley"|[[File:Kingsley Bingham.jpg|75px]]
+|rowspan="16" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Kinsley S. Bingham]]'''<br>{{small|(1808–1861)}}<br>{{sfn|Sobel|1978|p=747}}<ref name="nga-bingham">{{cite web |title=Kinsley Scott Bingham |url=https://www.nga.org/governor/kinsley-scott-bingham/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261012110132/https://www.nga.org/governor/kinsley-scott-bingham/ |archive-date=October 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1855{{efn|Sources are consistent that Bingham took office on January 3;{{sfn|Sobel|1978|p=747}}<ref name="manual" /> however, the constitutional start date was January 1, and one contemporary source does note that he would have been inaugurated on January 1, and delivered his inaugural address on January 3.<ref>{{Cite news |publication-date=January 3, 1855 |date=January 1, 1855 |location=Lansing, Michigan |publication-place=Detroit |title=From Lansing |page=1 |newspaper=[[Detroit Free Press|Detroit Daily Free Pres]] |url=https://www.newspapers.com/article/detroit-free-press-bingham-inaugurated-j/120616568/ |archive-url=https://web.archive.org/web/20230928032004/https://www.newspapers.com/article/120616568/bingham-inaugurated-jan-1/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref> However, as this is the only source yet found saying so, this article uses January 3.}}<br />–<br />January 5, 1859<br>{{small|(1464 days; retired)}}{{efn|Bingham was instead [[1858–59 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=747}}}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Dubin|2003|p=124}}
+|[[1854 Michigan gubernatorial election|1854]]
+|rowspan="20" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|George|Coe|dab=Michigan politician}}
+|- style="height:2em;"
+|[[1856 Michigan gubernatorial election|1856]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Wisner, Moses"|[[File:Mwisner-1-.jpg|75px]]
+|'''[[Moses Wisner]]'''<br>{{small|(1815–1863)}}<br>{{sfn|Sobel|1978|pp=747–748}}<ref name="nga-wisner">{{cite web |title=Moses Wisner |url=https://www.nga.org/governor/moses-wisner/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511230156/https://www.nga.org/governor/moses-wisner/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 5, 1859{{efn|Sources are split on if Wisner took office on January 3,{{sfn|Sobel|1978|p=747}} or January 5<ref name="manual" /> despite the constitutional start date being January 1.}}<br />–<br />January 2, 1861<br>{{small|(729 days; retired)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Dubin|2003|p=124}}
+|[[1858 Michigan gubernatorial election|1858]]
+|{{sortname|Edmund Burke|Fairfield}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|13
+|rowspan="4" data-sort-value="Blair, Austin"|[[File:Austin Blair cph.3b29566.jpg|75px]]
+|rowspan="4"|'''[[Austin Blair]]'''<br>{{small|(1818–1894)}}<br>{{sfn|Sobel|1978|p=748}}<ref name="nga-blair">{{cite web |title=Austin Blair |url=https://www.nga.org/governor/austin-blair/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415045300/https://www.nga.org/governor/austin-blair/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1464"|January 2, 1861<ref name="manual" /><br />–<br />January 4, 1865<br>{{small|(1464 days; retired)}}
+|rowspan="4"|[[Michigan Republican Party|Republican]]{{sfn|Dubin|2003|p=125}}
+|rowspan="3"|[[1860 Michigan gubernatorial election|1860]]
+|{{sortname|James M.|Birney}}<br />{{small|(resigned April 3, 1861)}}
+|- style="height:2em;"
+|{{sortname|Joseph R.|Williams}}<br />{{small|(died June 15, 1861)}}
+|- style="height:2em;"
+|{{sortname|Henry T.|Backus}}
+|- style="height:2em;"
+|[[1862 Michigan gubernatorial election|1862]]
+|{{sortname|Charles S.|May}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Crapo, Henry"|[[File:Governor-crapo-1-.jpg|75px]]
+|rowspan="2"|'''[[Henry H. Crapo]]'''<br>{{small|(1804–1869)}}<br>{{sfn|Sobel|1978|pp=748–749}}<ref name="nga-crapo">{{cite web |title=Henry Howland Crapo |url=https://www.nga.org/governor/henry-howland-crapo/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613180755/https://www.nga.org/governor/henry-howland-crapo/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1459"|January 4, 1865<ref name="manual" /><br />–<br />January 1, 1869<br>{{small|(1459 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1864 Michigan gubernatorial election|1864]]
+|{{sortname|Ebenezer O.|Grosvenor}}
+|- style="height:2em;"
+|[[1866 Michigan gubernatorial election|1866]]
+|{{sortname|Dwight|May}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Baldwin, Henry"|[[File:Henry P. Baldwin.png|75px]]
+|rowspan="2"|'''[[Henry P. Baldwin]]'''<br>{{small|(1814–1892)}}<br>{{sfn|Sobel|1978|pp=749–750}}<ref name="nga-baldwin">{{cite web |title=Henry P. Baldwin |url=https://www.nga.org/governor/henry-p-baldwin/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260310221212/https://www.nga.org/governor/henry-p-baldwin/ |archive-date=March 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1869<ref>{{Cite news |publication-date=January 4, 1869 |date=January 2, 1869 |location=Lansing, Michigan |publication-place=Detroit |title=The Oath of Office Administered to Gov. Baldwin |page=4 |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-baldwin-sworn-in-jan/120616915/ |archive-url=https://web.archive.org/web/20230928023442/https://www.newspapers.com/article/120616915/baldwin-sworn-in-jan-1/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1873<br>{{small|(1462 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1868 Michigan gubernatorial election|1868]]
+|rowspan="2"|{{sortname|Morgan|Bates}}
+|- style="height:2em;"
+|[[1870 Michigan gubernatorial election|1870]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|16
+|rowspan="2" data-sort-value="Bagley, John"|[[File:John J. Bagley.jpg|75px]]
+|rowspan="2"|'''[[John J. Bagley]]'''<br>{{small|(1832–1881)}}<br>{{sfn|Sobel|1978|pp=750–751}}<ref name="nga-bagley">{{cite web |title=John J. Bagley |url=https://www.nga.org/governor/john-j-bagley/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414053715/https://www.nga.org/governor/john-j-bagley/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 1, 1873<ref name="manual" /><br />–<br />January 3, 1877<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1872 Michigan gubernatorial election|1872]]
+|rowspan="2"|{{sortname|Henry H.|Holt}}
+|- style="height:2em;"
+|[[1874 Michigan gubernatorial election|1874]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Croswell, Charles"|[[File:Charles Croswell Painting.jpg|75px]]
+|rowspan="2"|'''[[Charles Croswell]]'''<br>{{small|(1825–1886)}}<br>{{sfn|Sobel|1978|p=751}}<ref name="nga-croswell">{{cite web |title=Charles Miller Croswell |url=https://www.nga.org/governor/charles-miller-croswell/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613155803/https://www.nga.org/governor/charles-miller-croswell/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1460"|January 3, 1877<ref name="manual" /><br />–<br />January 1, 1881<br>{{small|(1460 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1876 Michigan gubernatorial election|1876]]
+|rowspan="2"|{{sortname|Alonzo|Sessions}}
+|- style="height:2em;"
+|[[1878 Michigan gubernatorial election|1878]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Jerome, David"|[[File:David Howell Jerome.jpg|75px]]
+|'''[[David Jerome]]'''<br>{{small|(1829–1896)}}<br>{{sfn|Sobel|1978|pp=751–752}}<ref name="nga-jerome">{{cite web |title=David Howell Jerome |url=https://www.nga.org/governor/david-howell-jerome/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517093401/https://www.nga.org/governor/david-howell-jerome/ |archive-date=May 17, 2026 |url-status=live}}</ref>
+|data-sort-value="731"|January 1, 1881<ref name="manual" /><br />–<br />January 1, 1883<br>{{small|(731 days; lost election)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1880 Michigan gubernatorial election|1880]]
+|rowspan="2"|{{sortname|Moreau S.|Crosby}}{{efn|Represented the [[Michigan Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Begole, Josiah"|[[File:JosiahBegole.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|'''[[Josiah Begole]]'''<br>{{small|(1815–1896)}}<br>{{sfn|Sobel|1978|pp=752–753}}<ref name="nga-begole">{{cite web |title=Josiah Williams Begole |url=https://www.nga.org/governor/josiah-williams-begole/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613190116/https://www.nga.org/governor/josiah-williams-begole/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1883<ref>{{Cite news |publication-date=January 2, 1883 |title=Arrival of Gov. Begole at Lansing |page=7 |newspaper=[[Detroit Free Press]] |location=Lansing, Michigan |publication-place=Detroit |date=January 1, 1883 |url=https://www.newspapers.com/article/detroit-free-press-begole-inaugurated-ja/120617208/ |archive-url=https://web.archive.org/web/20230928024943/https://www.newspapers.com/article/120617208/begole-inaugurated-jan-1/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1885<br>{{small|(732 days; lost election)}}
+|[[Michigan Democratic Party|Democratic]]{{efn|Sobel and Kallenbach say Begole was nominated by both the Democratic and [[Greenback Party|Greenback]] parties;{{sfn|Sobel|1978|p=752}}{{sfn|Kallenbach|1977|p=302}} Glashan labels him as "National (or Greenback Labor)" and lists him separate from the Democratic Party.{{sfn|Glashan|1979|p=153}}}}
+|[[1882 Michigan gubernatorial election|1882]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Alger, Russell"|[[File:Russell Alexander Alger by Percy Ives.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Russell A. Alger]]'''<br>{{small|(1836–1907)}}<br>{{sfn|Sobel|1978|p=753}}<ref name="nga-alger">{{cite web |title=Russell Alexander Alger |url=https://www.nga.org/governor/russell-alexander-alger/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606071841/https://www.nga.org/governor/russell-alexander-alger/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1885<ref name="manual" /><br />–<br />January 1, 1887<br>{{small|(731 days; retired)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1884 Michigan gubernatorial election|1884]]
+|{{sortname|Archibald|Buttars}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Luce, Cyrus"|[[File:Cyrus Luce.jpg|75px]]
+|rowspan="2"|'''[[Cyrus G. Luce]]'''<br>{{small|(1824–1905)}}<br>{{sfn|Sobel|1978|pp=753–754}}<ref name="nga-luce">{{cite web |title=Cyrus Gray Luce |url=https://www.nga.org/governor/cyrus-gray-luce/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513073428/https://www.nga.org/governor/cyrus-gray-luce/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1887<ref name="manual" /><br />–<br />January 1, 1891<br>{{small|(1462 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1886 Michigan gubernatorial election|1886]]
+|{{sortname|James H.|MacDonald}}
+|- style="height:2em;"
+|[[1888 Michigan gubernatorial election|1888]]
+|{{sortname|William|Ball|dab=Michigan politician}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Winans, Edwin"|[[File:Edwin Baruch Winans.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|'''[[Edwin B. Winans (politician)|Edwin B. Winans]]'''<br>{{small|(1826–1894)}}<br>{{sfn|Sobel|1978|p=754}}<ref name="nga-winans">{{cite web |title=Edwin Baruch Winans |url=https://www.nga.org/governor/edwin-baruch-winans/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612142312/https://www.nga.org/governor/edwin-baruch-winans/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1891<ref>{{Cite news |publication-date=January 3, 1891 |date=January 2, 1891 |title=Michigan's New Executive |location=Lansing, Michigan |publication-place=St. Joseph, Michigan |page=1 |newspaper=[[The Herald-Palladium|St. Joseph Saturday Herald]] |url=https://www.newspapers.com/article/st-joseph-saturday-herald-michigans-ne/120617455/ |archive-url=https://web.archive.org/web/20230928023440/https://www.newspapers.com/article/120617455/michigans-new-executive/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1893<br>{{small|(732 days; retired)}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=298}}
+|[[1890 Michigan gubernatorial election|1890]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|{{sortname|John|Strong|dab=Michigan politician}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|23
+|rowspan="3" data-sort-value="Rich, John"|[[File:John Tyler Rich.jpg|75px]]
+|rowspan="11" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[John T. Rich]]'''<br>{{small|(1841–1926)}}<br>{{sfn|Sobel|1978|p=755}}<ref name="nga-rich">{{cite web |title=John Tyler Rich |url=https://www.nga.org/governor/john-tyler-rich/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511202512/https://www.nga.org/governor/john-tyler-rich/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1462"|January 1, 1893<ref name="manual" /><br />–<br />January 1, 1897<br>{{small|(1462 days; retired)}}
+|rowspan="3"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1892 Michigan gubernatorial election|1892]]
+|rowspan="21" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|J. Wight|Giddings}}
+|- style="height:2em;"
+|rowspan="2"|[[1894 Michigan gubernatorial election|1894]]
+|{{sortname|Alfred|Milnes}}<br />{{small|(resigned June 1, 1895)}}
+|- style="height:2em;"
+|{{sortname|Joseph R.|McLaughlin|dab=Michigan politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|24
+|rowspan="2" data-sort-value="Pingree, Hazen"|[[File:HazenSPingreeDetroitMayor.jpg|75px]]
+|rowspan="2"|'''[[Hazen S. Pingree]]'''<br>{{small|(1840–1901)}}<br>{{sfn|Sobel|1978|pp=755–756}}<ref name="nga-pingree">{{cite web |title=Hazen Stuart Pingree |url=https://www.nga.org/governor/hazen-stuart-pingree/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414055829/https://www.nga.org/governor/hazen-stuart-pingree/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1461"|January 1, 1897<ref>{{Cite news |date=January 2, 1897 |title=Takes His Seat |page=4 |location=Lansing, Michigan |publication-place=Benton Harbor, Michigan |newspaper=[[The Herald-Palladium|The Daily Palladium]] |url=https://www.newspapers.com/article/the-herald-palladium-pingree-inaugurated/120617745/ |archive-url=https://web.archive.org/web/20230928021937/https://www.newspapers.com/article/120617745/pingree-inaugurated/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1901<br>{{small|(1461 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1896 Michigan gubernatorial election|1896]]
+|{{sortname|Thomas B.|Dunstan}}
+|- style="height:2em;"
+|[[1898 Michigan gubernatorial election|1898]]
+|rowspan="2"|{{sortname|Orrin W.|Robinson|dab=politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Bliss, Aaron"|[[File:Aaron T. Bliss, Governor of Michigan portrait.jpg|75px]]
+|rowspan="2"|'''[[Aaron T. Bliss]]'''<br>{{small|(1837–1906)}}<br>{{sfn|Sobel|1978|p=756}}<ref name="nga-bliss">{{cite web |title=Aaron Thomas Bliss |url=https://www.nga.org/governor/aaron-thomas-bliss/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260217092952/https://www.nga.org/governor/aaron-thomas-bliss/ |archive-date=February 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1463"|January 1, 1901<ref>{{Cite news |publication-date=January 2, 1901 |date=January 1, 1901 |title=It Is Now Governor Bliss |page=1 |location=Lansing, Michigan |publication-place=Detroit |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-it-is-now-governor-bl/12299071/ |archive-url=https://web.archive.org/web/20230928023443/https://www.newspapers.com/article/12299071/it-is-now-governor-bliss/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1905<br>{{small|(1463 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=298}}
+|[[1900 Michigan gubernatorial election|1900]]
+|- style="height:2em;"
+|[[1902 Michigan gubernatorial election|1902]]
+|rowspan="2"|{{sortname|Alexander|Maitland|dab=Michigan politician}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Warner, Fred"|[[File:FredMWarner.jpg|75px]]
+|rowspan="3"|'''[[Fred M. Warner]]'''<br>{{small|(1865–1923)}}<br>{{sfn|Sobel|1978|p=757}}<ref name="nga-warner">{{cite web |title=Fred Maltby Warner |url=https://www.nga.org/governor/fred-maltby-warner/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510115245/https://www.nga.org/governor/fred-maltby-warner/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2191"|January 2, 1905<ref>{{Cite book |url=https://books.google.com/books?id=6Ntry4mXSC4C&pg=PA98 |title=Municipal Manual of the City of Detroit |date=1914 |publisher=City of Detroit |page=98 |via=[[Google Books]]}}</ref><br />–<br />January 1, 1911<br>{{small|(2191 days; retired)}}
+|rowspan="3"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1904 Michigan gubernatorial election|1904]]
+|- style="height:2em;"
+|[[1906 Michigan gubernatorial election|1906]]
+|rowspan="2"|{{sortname|Patrick H.|Kelley}}
+|- style="height:2em;"
+|[[1908 Michigan gubernatorial election|1908]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Osborn, Chase"|[[File:OSBORN, CHASE. GOVERNOR LCCN2016862363 (cropped).jpg|75px]]
+|'''[[Chase Osborn]]'''<br>{{small|(1860–1949)}}<br>{{sfn|Sobel|1978|pp=757–758}}<ref name="nga-osborn">{{cite web |title=Chase Salmon Osborn |url=https://www.nga.org/governor/chase-salmon-osborn/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511210201/https://www.nga.org/governor/chase-salmon-osborn/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1911{{efn|The constitutional start date of the gubernatorial term was January 1; Osborn was not sworn in until January 2, presumably because January 1 was a Sunday.<ref>{{Cite news |publication-date=January 3, 1911 |date=January 2, 1911 |location=Lansing, Michigan |publication-place=Detroit |title=Osborn in; Names Aides |page=3 |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-osborn-in-names-aide/120559780/ |archive-url=https://web.archive.org/web/20230928023444/https://www.newspapers.com/article/120559780/osborn-in-names-aides/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />January 1, 1913<br>{{small|(732 days; retired)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1910 Michigan gubernatorial election|1910]]
+|rowspan="2"|{{sortname|John Q.|Ross}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Ferris, Woodbridge"|[[File:Business Journal (1912) (14590826058).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Woodbridge N. Ferris]]'''<br>{{small|(1853–1928)}}<br>{{sfn|Sobel|1978|pp=758–759}}<ref name="nga-ferris">{{cite web |title=Woodbridge Nathan Ferris |url=https://www.nga.org/governor/woodbridge-nathan-ferris/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509172710/https://www.nga.org/governor/woodbridge-nathan-ferris/ |archive-date=May 9, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1913<ref>{{Cite news |date=January 1, 1913 |location=Lansing, Michigan |publication-place=Port Huron, Michigan |title=Is First Democrat To Take Governor's Oath in the Last 22 Years |page=1 |newspaper=Port Huron Times Herald |url=https://www.newspapers.com/article/the-times-herald-ferris-inaugurated-jan/120658323/ |archive-url=https://web.archive.org/web/20230928031948/https://www.newspapers.com/article/120658323/ferris-inaugurated-jan-1/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1917<br>{{small|(1462 days; retired)}}
+|rowspan="2"|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=299}}
+|[[1912 Michigan gubernatorial election|1912]]
+|- style="height:2em;"
+|[[1914 Michigan gubernatorial election|1914]]
+|rowspan="3"|{{sortname|Luren|Dickinson}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Sleeper, Albert"|[[File:Albert Edson Sleeper (December 31, 1862 – May 13, 1934) in 1916 (cropped).jpg|75px]]
+|rowspan="8" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Albert Sleeper]]'''<br>{{small|(1862–1934)}}<br>{{sfn|Sobel|1978|p=759}}<ref name="nga-sleeper">{{cite web |title=Albert Edson Sleeper |url=https://www.nga.org/governor/albert-edson-sleeper/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521015435/https://www.nga.org/governor/albert-edson-sleeper/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1917<ref>{{Cite news |date=January 1, 1917 |title=Governor Sleeper to Take Office Today As Cannon Boom Salute |page=1 |newspaper=[[Detroit Times]] |agency=United Press |location=Lansing, Michigan |publication-place=Detroit |url=https://www.newspapers.com/article/detroit-evening-times-governor-sleeper-t/120658482/ |archive-url=https://web.archive.org/web/20230928023444/https://www.newspapers.com/article/120658482/governor-sleeper-to-take-office-today/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1921<br>{{small|(1462 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1916 Michigan gubernatorial election|1916]]
+|- style="height:2em;"
+|[[1918 Michigan gubernatorial election|1918]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|30
+|rowspan="3" data-sort-value="Groesbeck, Alex"|[[File:AlexJGroesbeck.jpg|75px]]
+|rowspan="3"|'''[[Alex J. Groesbeck]]'''<br>{{small|(1873–1953)}}<br>{{sfn|Sobel|1978|p=760}}<ref name="nga-groesbeck">{{cite web |title=Alexander Joseph Groesbeck |url=https://www.nga.org/governor/alexander-joseph-groesbeck/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510120013/https://www.nga.org/governor/alexander-joseph-groesbeck/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2192"|January 1, 1921<ref>{{Cite news |last=Murphy |first=Robert G. |publication-date=January 2, 1921 |location=Lansing, Michigan |publication-place=Detroit |date=January 1, 1921 |title=New Governor at State Helm |page=1 |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-new-governor-at-state/120658577/ |archive-url=https://web.archive.org/web/20230928020434/https://www.newspapers.com/article/120658577/new-governor-at-state-helm/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1927<br>{{small|(2192 days;<br>lost nomination)}}<ref>{{cite news |url=https://www.newspapers.com/article/jackson-citizen-patriot-green-nominated/205186857/ |title=Green Nominated by 152,000 over Groesbeck in Primary |agency=Associated Press |location=Detroit |publication-place=Jackson, Michigan |newspaper=[[Jackson Citizen Patriot]] |date=September 15, 1926 |page=1 |via=Newspapers.com}}</ref>
+|rowspan="3"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1920 Michigan gubernatorial election|1920]]
+|rowspan="2"|{{sortname|Thomas|Read|dab=politician}}
+|- style="height:2em;"
+|[[1922 Michigan gubernatorial election|1922]]
+|- style="height:2em;"
+|[[1924 Michigan gubernatorial election|1924]]
+|{{sortname|George W.|Welsh}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Green, Fred"|[[File:Fred Warren Green circa 1927 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Fred W. Green]]'''<br>{{small|(1871–1936)}}<br>{{sfn|Sobel|1978|pp=760–761}}<ref name="nga-green">{{cite web |title=Fred Warren Green |url=https://www.nga.org/governor/fred-warren-green/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422123613/https://www.nga.org/governor/fred-warren-green/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1927<ref>{{Cite news |date=January 1, 1927 |title=Green Grasps State's Helm |page=1 |newspaper=[[Lansing State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-green-grasps-state/120658725/ |archive-url=https://web.archive.org/web/20230928021940/https://www.newspapers.com/article/120658725/green-grasps-states-helm/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1931<br>{{small|(1462 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1926 Michigan gubernatorial election|1926]]
+|rowspan="3"|{{sortname|Luren|Dickinson}}
+|- style="height:2em;"
+|[[1928 Michigan gubernatorial election|1928]]
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Brucker, Wilber"|[[File:Attorney General Brucker 2.png|75px]]
+|'''[[Wilber M. Brucker]]'''<br>{{small|(1894–1968)}}<br>{{sfn|Sobel|1978|p=761}}<ref name="nga-brucker">{{cite web |title=Wilbur Marion Brucker |url=https://www.nga.org/governor/wilbur-marion-brucker/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617065200/https://www.nga.org/governor/wilbur-marion-brucker/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1931<ref>{{Cite news |date=January 1, 1931 |title=Brucker Takes State Reins Today |page=1 |newspaper=[[Lansing State Journal|The State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-brucker-takes-stat/120658884/ |archive-url=https://web.archive.org/web/20230928030450/https://www.newspapers.com/article/120658884/brucker-takes-state-reins-today/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1933<br>{{small|(732 days; lost election)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1930 Michigan gubernatorial election|1930]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Comstock, William"|[[File:William A. Comstock (Michigan Governor).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|'''[[William Comstock]]'''<br>{{small|(1877–1949)}}<br>{{sfn|Sobel|1978|p=762}}<ref name="nga-comstock">{{cite web |title=William Alfred Comstock |url=https://www.nga.org/governor/william-alfred-comstock/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415031711/https://www.nga.org/governor/william-alfred-comstock/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1933{{efn|The constitutional start date of the gubernatorial term was January 1; Comstock was not sworn in until January 2, presumably because January 1 was a Sunday.<ref>{{Cite news |last=Morris |first=Frank G. |location=Lansing, Michigan |publication-place=Detroit |publication-date=January 3, 1933 |date=January 2, 1933 |title=Harmony Pledges Are Made As State Government Goes Into Hands of Democrats |page=1 |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-harmony-pledges-are-m/120771484/ |archive-url=https://web.archive.org/web/20230928021938/https://www.newspapers.com/article/120771484/harmony-pledges-are-made-as-state/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />January 1, 1935<br>{{small|(731 days;<br>lost nomination)}}{{efn|Comstock lost the Democratic nomination to [[Arthur J. Lacy]].{{sfn|Sobel|1978|p=762}}}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=299}}
+|[[1932 Michigan gubernatorial election|1932]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|{{sortname|Allen E.|Stebbins}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Fitzgerald, Frank"|[[File:Frank D. Fitzgerald.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Frank Fitzgerald]]'''<br>{{small|(1885–1939)}}<br>{{sfn|Sobel|1978|pp=762–763}}<ref name="nga-fitzgerald">{{cite web |title=Frank Dwight Fitzgerald |url=https://www.nga.org/governor/frank-dwight-fitzgerald/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616113952/https://www.nga.org/governor/frank-dwight-fitzgerald/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1935<ref>{{Cite news |date=January 1, 1935 |title=New Governor Stresses Need of Wise Laws |page=3 |newspaper=[[Lansing State Journal|The State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-new-governor-stres/120778344/ |archive-url=https://web.archive.org/web/20230928023447/https://www.newspapers.com/article/120778344/new-governor-stresses-need-of-wise-laws/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1937<br>{{small|(732 days; lost election)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1934 Michigan gubernatorial election|1934]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Thomas|Read|dab=politician}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Murphy, Frank"|[[File:Frank Murphy 1939.png|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|'''[[Frank Murphy]]'''<br>{{small|(1890–1949)}}<br>{{sfn|Sobel|1978|p=763}}<ref name="nga-murphy">{{cite web |title=Frank Murphy |url=https://www.nga.org/governor/frank-murphy/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417185512/https://www.nga.org/governor/frank-murphy/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="731"|January 1, 1937<ref>{{Cite news |date=January 1, 1937 |title=Crowds View Inaugural of New Officials |page=1 |newspaper=[[Lansing State Journal|The State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-crowds-view-inaugu/120778432/ |archive-url=https://web.archive.org/web/20230928023446/https://www.newspapers.com/article/120778432/crowds-view-inaugural-of-new-officials/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1939<br>{{small|(731 days; lost election)}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=299}}
+|[[1936 Michigan gubernatorial election|1936]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|{{sortname|Leo J.|Nowicki}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Fitzgerald, Frank"|[[File:Frank D. Fitzgerald.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Frank Fitzgerald]]'''<br>{{small|(1885–1939)}}<br>{{sfn|Sobel|1978|pp=762–763}}<ref name="nga-fitzgerald" />
+|data-sort-value="75"|January 1, 1939{{efn|January 1 was on a Sunday; Fitzgerald took the oath of office early so he could properly take office on January 1, while his formal inauguration was the next day.<ref>{{Cite news |publication-date=January 2, 1939 |title=Fitzgerald Hails Choice of Murphy |page=1 |newspaper=Detroit Free Press |location=Lansing, Michigan |publication-place=Detroit |date=January 1, 1939 |agency=Associated Press |url=https://www.newspapers.com/article/detroit-free-press-fitzgerald-hails-choi/120778761/ |archive-url=https://web.archive.org/web/20230928030456/https://www.newspapers.com/article/120778761/fitzgerald-hails-choice-of-murphy/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />March 16, 1939<br>{{small|(75 days; died in office)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1938 Michigan gubernatorial election|1938]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Luren|Dickinson}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Dickinson, Luren"|[[File:Luren D. Dickinson.jpg|75px]]
+|'''[[Luren Dickinson]]'''<br>{{small|(1859–1943)}}<br>{{sfn|Sobel|1978|p=764}}<ref name="nga-dickinson">{{cite web |title=Luren Dudley Dickinson |url=https://www.nga.org/governor/luren-dudley-dickinson/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613145426/https://www.nga.org/governor/luren-dudley-dickinson/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="658"|March 16, 1939<ref>{{Cite news |publication-date=March 17, 1939 |title=Weakened Heart Fails After Influenza Attack |page=1 |newspaper=[[Detroit Free Press]] |location=Grand Ledge, Michigan |publication-place=Detroit |date=March 16, 1939 |url=https://www.newspapers.com/article/detroit-free-press-weakened-heart-fails/120566854/ |archive-url=https://web.archive.org/web/20230928023444/https://www.newspapers.com/article/120566854/weakened-heart-fails-after-influenza/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1941<br>{{small|(658 days; lost election)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Matilda Dodge|Wilson}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Van Wagoner, Murray"|[[File:Murray D. Van Wagoner.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|'''[[Murray Van Wagoner]]'''<br>{{small|(1898–1986)}}<br>{{sfn|Sobel|1978|pp=764–765}}<ref name="nga-vanwagoner">{{cite web |title=Murray Delos Van Wagoner |url=https://www.nga.org/governor/murray-delos-van-wagoner/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521013232/https://www.nga.org/governor/murray-delos-van-wagoner/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|data-sort-value="731"|January 1, 1941<ref>{{Cite news |last=George |first=Hub M. |publication-date=January 2, 1941 |location=Lansing, Michigan |publication-place=Detroit |date=January 1, 1941 |title=Unified State Rule Pledged as Van Wagoner Takes Office and Both Sides Bury Hatchet |page=1 |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-unified-state-rule-pl/120779209/ |archive-url=https://web.archive.org/web/20230928023441/https://www.newspapers.com/article/120779209/unified-state-rule-pledged-as-van/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1943<br>{{small|(731 days; lost election)}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=299}}
+|[[1940 Michigan gubernatorial election|1940]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|{{sortname|Frank|Murphy|dab=lieutenant governor}}<!-- This is NOT the same as Governor Frank Murphy. But as of yet, there is no middle initial known to easily disambiguate.-->
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|39
+|rowspan="2" data-sort-value="Kelly, Harry"|[[File:Harry F. Kelly.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Harry Kelly (politician)|Harry Kelly]]'''<br>{{small|(1895–1971)}}<br>{{sfn|Sobel|1978|p=765}}<ref name="nga-kelly">{{cite web |title=Harris Francis Kelly |url=https://www.nga.org/governor/harris-francis-kelly/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260922051137/https://www.nga.org/governor/harris-francis-kelly/ |archive-date=September 22, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1943<ref>{{Cite news |last=Haswell |first=James M. |publication-date=January 2, 1943 |date=January 1, 1943 |location=Lansing, Michigan |publication-place=Detroit |title=Kelly Dedicates State to Achieving Victory |page=1 |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-kelly-dedicates-state/120779283/ |archive-url=https://web.archive.org/web/20230928032002/https://www.newspapers.com/article/120779283/kelly-dedicates-state-to-achieving/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1947<br>{{small|(1462 days; retired)}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1942 Michigan gubernatorial election|1942]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Eugene C.|Keyes}}
+|- style="height:2em;"
+|[[1944 Michigan gubernatorial election|1944]]
+|{{sortname|Vernon J.|Brown}}
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Sigler, Kim"|[[File:Kim Sigler (Michigan Governor) (cropped).jpg|75px]]
+|'''[[Kim Sigler]]'''<br>{{small|(1894–1953)}}<br>{{sfn|Sobel|1978|p=766}}<ref name="nga-sigler">{{cite web |title=Kimber Cornellus Sigler |url=https://www.nga.org/governor/kimber-cornellus-sigler/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260713221258/https://www.nga.org/governor/kimber-cornellus-sigler/ |archive-date=July 13, 2026 |url-status=live}}</ref>
+|data-sort-value="732"|January 1, 1947<ref>{{Cite news |last=George |first=Hub |date=January 2, 1947 |title=Takes Oath as Governor of Michigan |page=1 |location=Lansing, Michigan |publication-place=Detroit |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-sigler-takes-oath-a/120779397/ |archive-url=https://web.archive.org/web/20230928021936/https://www.newspapers.com/article/120779397/sigler-takes-oath-as-governor-of/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1949<br>{{small|(732 days; lost election)}}
+|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1946 Michigan gubernatorial election|1946]]
+|{{sortname|Eugene C.|Keyes}}
+|- style="height:2em;"
+!rowspan="6" scope="rowgroup"|41
+|rowspan="6" data-sort-value="Williams, G. Mennen"|[[File:G. Mennen Williams 1959.png|75px]]
+|rowspan="7" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="6"|'''[[G. Mennen Williams]]'''<br>{{small|(1911–1988)}}<br>{{sfn|Sobel|1978|pp=766–767}}<ref name="nga-williams">{{cite web |title=Gerhard Mennen Williams |url=https://www.nga.org/governor/gerhard-mennen-williams/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261005220249/https://www.nga.org/governor/gerhard-mennen-williams/ |archive-date=October 5, 2026 |url-status=live}}</ref>
+|rowspan="6" data-sort-value="4384"|January 1, 1949<ref>{{Cite news |last=George |first=Hub M. |date=January 2, 1949 |title=Gov. Williams Takes Oath |page=1 |location=Lansing, Michigan |publication-place=Detroit |newspaper=[[Detroit Free Press]] |url=https://www.newspapers.com/article/detroit-free-press-gov-williams-takes-o/120781769/ |archive-url=https://web.archive.org/web/20230928024951/https://www.newspapers.com/article/120781769/gov-williams-takes-oath/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1961<br>{{small|(4384 days; retired)}}
+|rowspan="6"|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=299}}
+|[[1948 Michigan gubernatorial election|1948]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|{{sortname|John W.|Connolly}}
+|- style="height:2em;"
+|[[1950 Michigan gubernatorial election|1950]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William C.|Vandenberg}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1952 Michigan gubernatorial election|1952]]
+|{{sortname|Clarence A.|Reid}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1954 Michigan gubernatorial election|1954]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Philip|Hart}}
+|- style="height:2em;"
+|[[1956 Michigan gubernatorial election|1956]]
+|- style="height:2em;"
+|[[1958 Michigan gubernatorial election|1958]]
+|{{sortname|John|Swainson}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Swainson, John"|[[File:John Swainson (1961 portrait).png|75px]]
+|'''[[John Swainson]]'''<br>{{small|(1925–1994)}}<br>{{sfn|Sobel|1978|pp=767–768}}<ref name="nga-swainson">{{cite web |title=John Burley Swainson |url=https://www.nga.org/governor/john-burley-swainson/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260308142405/https://www.nga.org/governor/john-burley-swainson/ |archive-date=March 8, 2026 |url-status=live}}</ref>
+|data-sort-value="731"|January 1, 1961<ref>{{Cite news |last=Baird |first=Willard |date=January 2, 1961 |title=Governor Sworn In |page=1 |newspaper=[[Lansing State Journal|The State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-governor-sworn-in/120790647/ |archive-url=https://web.archive.org/web/20230928030451/https://www.newspapers.com/article/120790647/governor-sworn-in/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1963<br>{{small|(731 days; lost election)}}
+|[[Michigan Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=299}}
+|[[1960 Michigan gubernatorial election|1960]]
+|rowspan="2"|{{sortname|T. John|Lesinski}}{{efn|Represented the [[Michigan Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|43
+|rowspan="3" data-sort-value="Romney, George"|[[File:George W. Romney official portrait.jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[George W. Romney]]'''<br>{{small|(1907–1995)}}<br>{{sfn|Sobel|1978|p=768}}<ref name="nga-romney">{{cite web |title=George Wilcken Romney |url=https://www.nga.org/governor/george-wilcken-romney/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260808104849/https://www.nga.org/governor/george-wilcken-romney/ |archive-date=August 8, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2214"|January 1, 1963<ref>{{Cite news |last=Baird |first=Willard |date=January 2, 1963 |title=Romney Urges New Confidence in State |page=A1 |newspaper=[[Lansing State Journal|The State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-romney-urges-new-c/120790838/ |archive-url=https://web.archive.org/web/20230928031949/https://www.newspapers.com/article/120790838/romney-urges-new-confidence-in-state/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 22, 1969<br>{{small|(2214 days; resigned)}}{{efn|Romney resigned, having been confirmed as [[United States Secretary of Housing and Urban Development]].{{sfn|Sobel|1978|p=768}}}}
+|rowspan="3"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|[[1962 Michigan gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1964 Michigan gubernatorial election|1964]]
+|rowspan="6" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|William|Milliken}}
+|- style="height:2em;"
+|[[1966 Michigan gubernatorial election|1966]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|44
+|rowspan="4" data-sort-value="Milliken, William"|[[File:William Milliken (cropped).png|100x100px]]
+|rowspan="4"|'''[[William Milliken]]'''<br>{{small|(1922–2019)}}<br>{{sfn|Sobel|1978|pp=768–769}}<ref name="nga-milliken">{{cite web |title=William Grawn Milliken |url=https://www.nga.org/governor/william-grawn-milliken/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510120209/https://www.nga.org/governor/william-grawn-milliken/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="5093"|January 22, 1969<ref>{{Cite news |date=January 22, 1969 |title=Milliken Now 44th Governor |page=A1 |newspaper=[[Lansing State Journal|The State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-milliken-now-44th/120791509/ |archive-url=https://web.archive.org/web/20230928030451/https://www.newspapers.com/article/120791509/milliken-now-44th-governor/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1983<br>{{small|(5093 days; retired)}}
+|rowspan="4"|[[Michigan Republican Party|Republican]]{{sfn|Kallenbach|1977|p=299}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Thomas F.|Schweigert}}
+|- style="height:2em;"
+|[[1970 Michigan gubernatorial election|1970]]
+|{{sortname|James H.|Brickley}}
+|- style="height:2em;"
+|[[1974 Michigan gubernatorial election|1974]]
+|{{sortname|James|Damman}}
+|- style="height:2em;"
+|[[1978 Michigan gubernatorial election|1978]]
+|{{sortname|James H.|Brickley}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|45
+|rowspan="2" data-sort-value="Blanchard, James"|[[File:James Blanchard (DOS-1993).jpeg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[James J. Blanchard]]'''<br>{{small|({{Abbr|b.|born in}} 1942)}}<br>{{sfn|Mullaney|1994|pp=187–192}}<ref name="nga-blanchard">{{cite web |title=James Johnston Blanchard |url=https://www.nga.org/governor/james-johnston-blanchard/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509171141/https://www.nga.org/governor/james-johnston-blanchard/ |archive-date=May 9, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2923"|January 1, 1983<ref>{{Cite news |last=Albight |first=John B. |date=January 2, 1983 |title=Blanchard Takes Reins As Governor |page=1A |newspaper=[[Lansing State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-blanchard-takes-re/120791640/ |archive-url=https://web.archive.org/web/20230928032000/https://www.newspapers.com/article/120791640/blanchard-takes-reins-as-governor/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1991<br>{{small|(2923 days; lost election)}}
+|rowspan="2"|[[Michigan Democratic Party|Democratic]]<ref name="nga-blanchard" />
+|[[1982 Michigan gubernatorial election|1982]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Martha|Griffiths}}
+|- style="height:2em;"
+|[[1986 Michigan gubernatorial election|1986]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|46
+|rowspan="3" data-sort-value="Engler, John"|[[File:Vern Ehlers and John Engler (cropped).jpeg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[John Engler]]'''<br>{{small|({{Abbr|b.|born in}} 1948)}}<br>{{sfn|Mullaney|1994|pp=193–195}}<ref name="nga-engler">{{cite web |title=John Engler |url=https://www.nga.org/governor/john-engler/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260906132434/https://www.nga.org/governor/john-engler/ |archive-date=September 6, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="4384"|January 1, 1991<ref>{{Cite news |last=Andrews |first=Chris |date=January 2, 1991 |title=Engler Vows New Spirit of Enterprise |page=1A |newspaper=[[Lansing State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-engler-vows-new-sp/120791733/ |archive-url=https://web.archive.org/web/20230928023439/https://www.newspapers.com/article/120791733/engler-vows-new-spirit-of-enterprise/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 2003<br>{{small|(4384 days; term-limited)}}{{efn|Under a 1992 amendment to the constitution, no one can be elected more than twice to the office.{{sfn|Mich. Const.|loc=[https://50constitutions.org/mi/constitution/section-id-79192 1992 art. V, § 30]}}|name=limits}}
+|rowspan="3"|[[Michigan Republican Party|Republican]]<ref name="nga-engler" />
+|[[1990 Michigan gubernatorial election|1990]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Connie|Binsfeld}}
+|- style="height:2em;"
+|[[1994 Michigan gubernatorial election|1994]]
+|- style="height:2em;"
+|[[1998 Michigan gubernatorial election|1998]]
+|{{sortname|Dick|Posthumus}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|47
+|rowspan="2" data-sort-value="Granholm, Jennifer"|[[File:Jennifer Granholm 5.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jennifer Granholm]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br><ref name="nga-granholm">{{cite web |title=Jennifer M. Granholm |url=https://www.nga.org/governor/jennifer-m-granholm/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418070915/https://www.nga.org/governor/jennifer-m-granholm/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2923"|January 1, 2003<ref>{{Cite news |last1=Andrews |first1=Chris |last2=Range |first2=Stacey |date=January 2, 2003 |title=First Female Governor Takes Office |page=1A |newspaper=[[Lansing State Journal]] |url=https://www.newspapers.com/article/lansing-state-journal-first-female-gover/120791827/ |archive-url=https://web.archive.org/web/20230928030452/https://www.newspapers.com/article/120791827/first-female-governor-takes-office/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 2011<br>{{small|(2923 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Michigan Democratic Party|Democratic]]<ref name="nga-granholm" />
+|[[2002 Michigan gubernatorial election|2002]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|John D.|Cherry}}
+|- style="height:2em;"
+|[[2006 Michigan gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|48
+|rowspan="2" data-sort-value="Snyder, Rick"|[[File:Rick Snyder in 2013.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Rick Snyder]]'''<br>{{small|({{Abbr|b.|born in}} 1958)}}<br><ref name="nga-snyder">{{cite web |title=Rick Snyder |url=https://www.nga.org/governor/rick-snyder/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260216171045/https://www.nga.org/governor/rick-snyder/ |archive-date=February 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2923"|January 1, 2011<ref>{{Cite news |last=Stanton |first=Ryan J. |title=Ann Arbor's Rick Snyder Sworn In As Michigan's 48th Governor at Inauguration Ceremony |url=http://www.annarbor.com/news/ann-arbors-rick-snyder-sworn-in-as-michigans-48th-governor-during-inauguration-ceremony/ |date=January 1, 2011 |access-date=October 30, 2026 |archive-url=https://web.archive.org/web/20251127124025/https://www.annarbor.com/news/ann-arbors-rick-snyder-sworn-in-as-michigans-48th-governor-during-inauguration-ceremony/ |archive-date=November 27, 2025 |url-status=live |website=[[The Ann Arbor News]]}}</ref><br />–<br />January 1, 2019<br>{{small|(2923 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Michigan Republican Party|Republican]]<ref name="nga-snyder" />
+|[[2010 Michigan gubernatorial election|2010]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Brian|Calley}}
+|- style="height:2em;"
+|[[2014 Michigan gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|49
+|rowspan="2" data-sort-value="Whitmer, Gretchen"|[[File:Gretchen Whitmer (2021) (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Gretchen Whitmer]]'''<br>{{small|({{Abbr|b.|born in}} 1971)}}<br><ref name="nga-whitmer">{{cite web |title=Gretchen Whitmer |url=https://www.nga.org/governor/gretchen-whitmer/ |access-date=October 30, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260814021953/https://www.nga.org/governor/gretchen-whitmer/ |archive-date=August 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|1|duration=on|format=no}}"|January 1, 2019<ref>{{Cite news |last=Cappelletti |first=Joey |date=January 1, 2023 |title=Historic Term Begins in Michigan As Whitmer, Others Sworn In |website=[[Associated Press]] |access-date=October 30, 2026 |url=https://apnews.com/article/gretchen-whitmer-politics-michigan-state-government-ff5105168187d726b00cd8b620a36c27 |archive-url=https://web.archive.org/web/20230101195526/https://apnews.com/article/gretchen-whitmer-politics-michigan-state-government-ff5105168187d726b00cd8b620a36c27 |archive-date=January 1, 2023 |url-status=live}}</ref><br />–<br />Incumbent{{efn|Whitmer's second term began on January 1, 2023,<ref>{{Cite news |last=Cappelletti |first=Joey |date=January 1, 2023 |title=Michigan Gov. Whitmer sworn in for 2nd term as Democrats retake control |url=https://www.pbs.org/newshour/politics/michigan-gov-whitmer-sworn-in-for-2nd-term-as-democrats-retake-control |access-date=October 30, 2026 |agency=Associated Press |website=[[PBS]] |archive-url=https://web.archive.org/web/20230101231653/https://www.pbs.org/newshour/politics/michigan-gov-whitmer-sworn-in-for-2nd-term-as-democrats-retake-control |archive-date=January 1, 2023 |url-status=live}}</ref> and [[2026 Michigan gubernatorial election|will expire]] on January 1, 2027; she will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|1|duration=on|format=no}} days)}}
+|rowspan="2"|[[Michigan Democratic Party|Democratic]]<ref name="nga-whitmer" />
+|[[2018 Michigan gubernatorial election|2018]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}}" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Garlin|Gilchrist}}
+|- style="height:2em;"
+|[[2022 Michigan gubernatorial election|2022]]
+|}
+
+==See also==
+*{{slink|Gubernatorial lines of succession in the United States#Michigan}}
+* [[List of Michigan state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Michigan Governors |url=https://www.nga.org/former-governors/michigan/ |access-date=March 9, 2023 |publisher=National Governors Association}}
+* {{cite web |title=Michigan Constitution |url=https://50constitutions.org/mi/constitution |ref={{sfnref|Mich. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 25, 2026}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 6, 2023}}
+*{{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+*{{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+*{{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons04thor/ |volume=4 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+*[https://www.michigan.gov/gov Office of the Governor of Michigan]
+
+{{Current U.S. governors}}
+{{US Chief Executives}}
+
+{{DEFAULTSORT:Michigan, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Michigan| ]]
+[[Category:Lists of Michigan politicians|Governors]]

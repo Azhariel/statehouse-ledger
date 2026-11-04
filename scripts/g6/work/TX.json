@@ -1,0 +1,681 @@
+[
+ {
+  "table": 0,
+  "name": "J. Pinckney Henderson",
+  "range": [
+   "February 19, 1846",
+   "December 21, 1847"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1846-02-19",
+  "end": "1847-12-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "George Tyler Wood",
+  "range": [
+   "December 21, 1847",
+   "December 21, 1849"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1847-12-21",
+  "end": "1849-12-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Peter Hansborough Bell",
+  "range": [
+   "December 21, 1849",
+   "November 23, 1853"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1849-12-21",
+  "end": "1853-11-23",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "James W. Henderson",
+  "range": [
+   "November 23, 1853",
+   "December 21, 1853"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1853-11-23",
+  "end": "1853-12-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Elisha M. Pease",
+  "range": [
+   "December 21, 1853",
+   "December 21, 1857"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1853-12-21",
+  "end": "1857-12-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Hardin Richard Runnels",
+  "range": [
+   "December 21, 1857",
+   "December 21, 1859"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1857-12-21",
+  "end": "1859-12-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Sam Houston",
+  "range": [
+   "December 21, 1859",
+   "March 16, 1861"
+  ],
+  "party": "Independent",
+  "title": "Represented no party",
+  "start": "1859-12-21",
+  "end": "1861-03-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Edward Clark",
+  "range": [
+   "March 16, 1861",
+   "November 7, 1861"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1861-03-16",
+  "end": "1861-11-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Francis Lubbock",
+  "range": [
+   "November 7, 1861",
+   "November 5, 1863"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1861-11-07",
+  "end": "1863-11-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Pendleton Murrah",
+  "range": [
+   "November 5, 1863",
+   "June 17, 1865"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1863-11-05",
+  "end": "1865-06-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Andrew Jackson Hamilton",
+  "range": [
+   "June 17, 1865",
+   "August 9, 1866"
+  ],
+  "party": null,
+  "title": "Military",
+  "start": "1865-06-17",
+  "end": "1866-08-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "James W. Throckmorton",
+  "range": [
+   "August 9, 1866",
+   "July 30, 1867"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1866-08-09",
+  "end": "1867-07-30",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Elisha M. Pease",
+  "range": [
+   "July 30, 1867",
+   "September 30, 1869"
+  ],
+  "party": null,
+  "title": "Appointed",
+  "start": "1867-07-30",
+  "end": "1869-09-30",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Edmund J. Davis",
+  "range": [
+   "January 8, 1870",
+   "January 15, 1874"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "start": "1870-01-08",
+  "end": "1874-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Richard Coke",
+  "range": [
+   "January 15, 1874",
+   "December 1, 1876"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1874-01-15",
+  "end": "1876-12-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Richard B. Hubbard",
+  "range": [
+   "December 1, 1876",
+   "January 21, 1879"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1876-12-01",
+  "end": "1879-01-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Oran Milo Roberts",
+  "range": [
+   "January 21, 1879",
+   "January 16, 1883"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1879-01-21",
+  "end": "1883-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "John Ireland",
+  "range": [
+   "January 16, 1883",
+   "January 18, 1887"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1883-01-16",
+  "end": "1887-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Lawrence Sullivan Ross",
+  "range": [
+   "January 18, 1887",
+   "January 20, 1891"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1887-01-18",
+  "end": "1891-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Jim Hogg",
+  "range": [
+   "January 20, 1891",
+   "January 15, 1895"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1891-01-20",
+  "end": "1895-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Charles A. Culberson",
+  "range": [
+   "January 15, 1895",
+   "January 17, 1899"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1895-01-15",
+  "end": "1899-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Joseph D. Sayers",
+  "range": [
+   "January 17, 1899",
+   "January 20, 1903"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1899-01-17",
+  "end": "1903-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "S. W. T. Lanham",
+  "range": [
+   "January 20, 1903",
+   "January 15, 1907"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1903-01-20",
+  "end": "1907-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Thomas Mitchell Campbell",
+  "range": [
+   "January 15, 1907",
+   "January 17, 1911"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1907-01-15",
+  "end": "1911-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Oscar Branch Colquitt",
+  "range": [
+   "January 17, 1911",
+   "January 19, 1915"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1911-01-17",
+  "end": "1915-01-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "James E. Ferguson",
+  "range": [
+   "January 19, 1915",
+   "September 22, 1917"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1915-01-19",
+  "end": "1917-09-22",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "William P. Hobby",
+  "range": [
+   "September 22, 1917",
+   "January 18, 1921"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1917-09-22",
+  "end": "1921-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Pat Morris Neff",
+  "range": [
+   "January 18, 1921",
+   "January 20, 1925"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1921-01-18",
+  "end": "1925-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Miriam A. Ferguson",
+  "range": [
+   "January 20, 1925",
+   "January 18, 1927"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1925-01-20",
+  "end": "1927-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Dan Moody",
+  "range": [
+   "January 18, 1927",
+   "January 20, 1931"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1927-01-18",
+  "end": "1931-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Ross S. Sterling",
+  "range": [
+   "January 20, 1931",
+   "January 17, 1933"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1931-01-20",
+  "end": "1933-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Miriam A. Ferguson",
+  "range": [
+   "January 17, 1933",
+   "January 15, 1935"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1933-01-17",
+  "end": "1935-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "James Burr V Allred",
+  "range": [
+   "January 15, 1935",
+   "January 17, 1939"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1935-01-15",
+  "end": "1939-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "W. Lee O'Daniel",
+  "range": [
+   "January 17, 1939",
+   "August 4, 1941"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1939-01-17",
+  "end": "1941-08-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Coke R. Stevenson",
+  "range": [
+   "August 4, 1941",
+   "January 21, 1947"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1941-08-04",
+  "end": "1947-01-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Beauford H. Jester",
+  "range": [
+   "January 21, 1947",
+   "July 11, 1949"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1947-01-21",
+  "end": "1949-07-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Allan Shivers",
+  "range": [
+   "July 11, 1949",
+   "January 15, 1957"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1949-07-11",
+  "end": "1957-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Price Daniel",
+  "range": [
+   "January 15, 1957",
+   "January 15, 1963"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1957-01-15",
+  "end": "1963-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "John Connally",
+  "range": [
+   "January 15, 1963",
+   "January 21, 1969"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1963-01-15",
+  "end": "1969-01-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Preston Smith",
+  "range": [
+   "January 21, 1969",
+   "January 16, 1973"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1969-01-21",
+  "end": "1973-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Dolph Briscoe",
+  "range": [
+   "January 16, 1973",
+   "January 16, 1979"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "start": "1973-01-16",
+  "end": "1979-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Bill Clements",
+  "range": [
+   "January 16, 1979",
+   "January 18, 1983"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "start": "1979-01-16",
+  "end": "1983-01-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Mark White",
+  "range": [
+   "January 18, 1983",
+   "January 20, 1987"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1983-01-18",
+  "end": "1987-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Bill Clements",
+  "range": [
+   "January 20, 1987",
+   "January 15, 1991"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "start": "1987-01-20",
+  "end": "1991-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Ann Richards",
+  "range": [
+   "January 15, 1991",
+   "January 17, 1995"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "start": "1991-01-15",
+  "end": "1995-01-17",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "George W. Bush",
+  "range": [
+   "January 17, 1995",
+   "December 21, 2000"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "start": "1995-01-17",
+  "end": "2000-12-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Rick Perry",
+  "range": [
+   "December 21, 2000",
+   "January 20, 2015"
+  ],
+  "party": "Republican",
+  "title": null,
+  "start": "2000-12-21",
+  "end": "2015-01-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Greg Abbott",
+  "range": [
+   "January 20, 2015",
+   "Incumbent"
+  ],
+  "party": "Republican",
+  "title": null,
+  "start": "2015-01-20",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "name": "Gina Hinojosa",
+  "range": null,
+  "party": null,
+  "title": "Represented the Democratic Party"
+ }
+]

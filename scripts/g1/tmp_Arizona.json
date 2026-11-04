@@ -1,0 +1,988 @@
+[
+ {
+  "table": 1,
+  "name": "John A. Gurley",
+  "term_raw": "March 10, 1863 – August 19, 1863 {{small|(died before taking office)}}",
+  "dates": [
+   [
+    "1863-03-10",
+    "day"
+   ],
+   [
+    "1863-08-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Abraham|Lincoln}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John A. Gurley {{Small|(1813–1863)}}"
+ },
+ {
+  "table": 1,
+  "name": "John N. Goodwin",
+  "term_raw": "August 21, 1863 – April 10, 1866 {{small|(964 days; resigned)}}",
+  "dates": [
+   [
+    "1863-08-21",
+    "day"
+   ],
+   [
+    "1866-04-10",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Abraham|Lincoln}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John N. Goodwin {{Small|(1824–1887)}}"
+ },
+ {
+  "table": 1,
+  "name": "Richard C. McCormick",
+  "term_raw": "April 10, 1866 – March 4, 1869 {{small|(1060 days; resigned)}}",
+  "dates": [
+   [
+    "1866-04-10",
+    "day"
+   ],
+   [
+    "1869-03-04",
+    "day"
+   ],
+   [
+    "1060-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Andrew|Johnson}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Richard C. McCormick {{Small|(1832–1901)}}"
+ },
+ {
+  "table": 1,
+  "name": "Anson P. K. Safford",
+  "term_raw": "April 8, 1869 – April 5, 1877 {{small|(2920 days; replaced)}}",
+  "dates": [
+   [
+    "1869-04-08",
+    "day"
+   ],
+   [
+    "1877-04-05",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Ulysses S.|Grant}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Anson P. K. Safford {{Small|(1830–1891)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Philo Hoyt",
+  "term_raw": "April 5, 1877 – June 14, 1878 {{small|(436 days; resigned)}}",
+  "dates": [
+   [
+    "1877-04-05",
+    "day"
+   ],
+   [
+    "1878-06-14",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Rutherford B.|Hayes}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Philo Hoyt {{Small|(1841–1926)}}"
+ },
+ {
+  "table": 1,
+  "name": "John C. Frémont",
+  "term_raw": "June 14, 1878 – October 11, 1881 {{small|(1216 days; resigned)}}",
+  "dates": [
+   [
+    "1878-06-14",
+    "day"
+   ],
+   [
+    "1881-10-11",
+    "day"
+   ],
+   [
+    "1216-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Rutherford B.|Hayes}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John C. Frémont {{Small|(1813–1890)}}"
+ },
+ {
+  "table": 1,
+  "name": "Frederick Augustus Tritle",
+  "term_raw": "February 6, 1882 – October 7, 1885 {{small|(1340 days; resigned)}}",
+  "dates": [
+   [
+    "1882-02-06",
+    "day"
+   ],
+   [
+    "1885-10-07",
+    "day"
+   ],
+   [
+    "1340-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Chester A.|Arthur}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Frederick Augustus Tritle {{Small|(1833–1906)}}"
+ },
+ {
+  "table": 1,
+  "name": "C. Meyer Zulick",
+  "term_raw": "October 15, 1885 – March 28, 1889 {{small|(1261 days; replaced)}}",
+  "dates": [
+   [
+    "1885-10-15",
+    "day"
+   ],
+   [
+    "1889-03-28",
+    "day"
+   ],
+   [
+    "1261-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Grover|Cleveland}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "C. Meyer Zulick {{Small|(1839–1926)}}"
+ },
+ {
+  "table": 1,
+  "name": "Lewis Wolfley",
+  "term_raw": "March 28, 1889 – August 20, 1890 {{small|(511 days; resigned)}}",
+  "dates": [
+   [
+    "1889-03-28",
+    "day"
+   ],
+   [
+    "1890-08-20",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Benjamin|Harrison}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Lewis Wolfley {{Small|(1839–1910)}}"
+ },
+ {
+  "table": 1,
+  "name": "John N. Irwin",
+  "term_raw": "October 1, 1890 – April 19, 1892 {{small|(567 days; resigned)}}",
+  "dates": [
+   [
+    "1890-10-01",
+    "day"
+   ],
+   [
+    "1892-04-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Benjamin|Harrison}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John N. Irwin {{Small|(1844–1905)}}"
+ },
+ {
+  "table": 1,
+  "name": "Oakes Murphy",
+  "term_raw": "May 9, 1892 – April 8, 1893 {{small|(335 days; replaced)}}",
+  "dates": [
+   [
+    "1892-05-09",
+    "day"
+   ],
+   [
+    "1893-04-08",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Benjamin|Harrison}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Oakes Murphy {{Small|(1849–1908)}}"
+ },
+ {
+  "table": 1,
+  "name": "L. C. Hughes",
+  "term_raw": "April 8, 1893 – April 8, 1896 {{small|(1097 days; replaced)}}",
+  "dates": [
+   [
+    "1893-04-08",
+    "day"
+   ],
+   [
+    "1896-04-08",
+    "day"
+   ],
+   [
+    "1097-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Grover|Cleveland}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "L. C. Hughes {{Small|(1842–1915)}}"
+ },
+ {
+  "table": 1,
+  "name": "Benjamin J. Franklin",
+  "term_raw": "April 8, 1896 – July 17, 1897 {{small|(466 days; replaced)}}",
+  "dates": [
+   [
+    "1896-04-08",
+    "day"
+   ],
+   [
+    "1897-07-17",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Grover|Cleveland}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Benjamin J. Franklin {{Small|(1839–1898)}}"
+ },
+ {
+  "table": 1,
+  "name": "Myron H. McCord",
+  "term_raw": "July 17, 1897 – July 16, 1898 {{small|(365 days; resigned)}}",
+  "dates": [
+   [
+    "1897-07-17",
+    "day"
+   ],
+   [
+    "1898-07-16",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|William|McKinley}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Myron H. McCord {{Small|(1840–1908)}}"
+ },
+ {
+  "table": 1,
+  "name": "Oakes Murphy",
+  "term_raw": "July 16, 1898 – May 14, 1902 {{small|(1398 days; resigned)}}",
+  "dates": [
+   [
+    "1898-07-16",
+    "day"
+   ],
+   [
+    "1902-05-14",
+    "day"
+   ],
+   [
+    "1398-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|William|McKinley}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Oakes Murphy {{Small|(1849–1908)}}"
+ },
+ {
+  "table": 1,
+  "name": "Alexander Oswald Brodie",
+  "term_raw": "May 14, 1902 – February 14, 1905 {{small|(1008 days; resigned)}}",
+  "dates": [
+   [
+    "1902-05-14",
+    "day"
+   ],
+   [
+    "1905-02-14",
+    "day"
+   ],
+   [
+    "1008-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Theodore|Roosevelt}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Alexander Oswald Brodie {{Small|(1849–1918)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joseph Henry Kibbey",
+  "term_raw": "February 27, 1905 – April 15, 1909 {{small|(1509 days; replaced)}}",
+  "dates": [
+   [
+    "1905-02-27",
+    "day"
+   ],
+   [
+    "1909-04-15",
+    "day"
+   ],
+   [
+    "1509-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Theodore|Roosevelt}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Joseph Henry Kibbey {{Small|(1853–1924)}}"
+ },
+ {
+  "table": 1,
+  "name": "Richard Elihu Sloan",
+  "term_raw": "April 15, 1909 – February 14, 1912 {{small|(1036 days; statehood)}}",
+  "dates": [
+   [
+    "1909-04-15",
+    "day"
+   ],
+   [
+    "1912-02-14",
+    "day"
+   ],
+   [
+    "1036-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|William Howard|Taft}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Richard Elihu Sloan {{Small|(1857–1933)}}"
+ },
+ {
+  "table": 2,
+  "name": "George W. P. Hunt",
+  "term_raw": "February 14, 1912 – January 1, 1917 {{small|(1784 days; lost election)}}",
+  "dates": [
+   [
+    "1912-02-14",
+    "day"
+   ],
+   [
+    "1917-01-01",
+    "day"
+   ],
+   [
+    "1784-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1911",
+  "name_cell": "George W. P. Hunt {{Small|(1859–1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas Edward Campbell",
+  "term_raw": "January 1, 1917 – December 25, 1917 {{small|(359 days, removed)}}",
+  "dates": [
+   [
+    "1917-01-01",
+    "day"
+   ],
+   [
+    "1917-12-25",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1916",
+  "name_cell": "Thomas Edward Campbell {{Small|(1878–1944)}}"
+ },
+ {
+  "table": 2,
+  "name": "George W. P. Hunt",
+  "term_raw": "December 25, 1917 – January 6, 1919 {{small|(378 days; retired)}}",
+  "dates": [
+   [
+    "1917-12-25",
+    "day"
+   ],
+   [
+    "1919-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "George W. P. Hunt {{Small|(1859–1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "Thomas Edward Campbell",
+  "term_raw": "January 6, 1919 – January 1, 1923 {{small|(1457 days; lost election)}}",
+  "dates": [
+   [
+    "1919-01-06",
+    "day"
+   ],
+   [
+    "1923-01-01",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1918",
+  "name_cell": "Thomas Edward Campbell {{Small|(1878–1944)}}"
+ },
+ {
+  "table": 2,
+  "name": "George W. P. Hunt",
+  "term_raw": "January 1, 1923 – January 7, 1929 {{small|(2199 days; lost election)}}",
+  "dates": [
+   [
+    "1923-01-01",
+    "day"
+   ],
+   [
+    "1929-01-07",
+    "day"
+   ],
+   [
+    "2199-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1922",
+  "name_cell": "George W. P. Hunt {{Small|(1859–1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Calhoun Phillips",
+  "term_raw": "January 7, 1929 – January 5, 1931 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1929-01-07",
+    "day"
+   ],
+   [
+    "1931-01-05",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1928",
+  "name_cell": "John Calhoun Phillips {{Small|(1870–1943)}}"
+ },
+ {
+  "table": 2,
+  "name": "George W. P. Hunt",
+  "term_raw": "January 5, 1931 – January 2, 1933 {{small|(729 days; lost nomination)}}",
+  "dates": [
+   [
+    "1931-01-05",
+    "day"
+   ],
+   [
+    "1933-01-02",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1930",
+  "name_cell": "George W. P. Hunt {{Small|(1859–1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "Benjamin Baker Moeur",
+  "term_raw": "January 2, 1933 – January 4, 1937 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1933-01-02",
+    "day"
+   ],
+   [
+    "1937-01-04",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1932",
+  "name_cell": "Benjamin Baker Moeur {{Small|(1869–1937)}}"
+ },
+ {
+  "table": 2,
+  "name": "Rawghlie Clement Stanford",
+  "term_raw": "January 4, 1937 – January 2, 1939 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1937-01-04",
+    "day"
+   ],
+   [
+    "1939-01-02",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1936",
+  "name_cell": "Rawghlie Clement Stanford {{Small|(1879–1963)}}"
+ },
+ {
+  "table": 2,
+  "name": "Robert Taylor Jones",
+  "term_raw": "January 2, 1939 – January 6, 1941 {{small|(736 days; lost nomination)}}",
+  "dates": [
+   [
+    "1939-01-02",
+    "day"
+   ],
+   [
+    "1941-01-06",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1938",
+  "name_cell": "Robert Taylor Jones {{Small|(1884–1958)}}"
+ },
+ {
+  "table": 2,
+  "name": "Sidney Preston Osborn",
+  "term_raw": "January 6, 1941 – May 25, 1948 {{small|(2697 days; died in office)}}",
+  "dates": [
+   [
+    "1941-01-06",
+    "day"
+   ],
+   [
+    "1948-05-25",
+    "day"
+   ],
+   [
+    "2697-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1940",
+  "name_cell": "Sidney Preston Osborn {{Small|(1884–1948)}}"
+ },
+ {
+  "table": 2,
+  "name": "Dan Edward Garvey",
+  "term_raw": "May 25, 1948 – January 1, 1951 {{small|(952 days; lost nomination)}}",
+  "dates": [
+   [
+    "1948-05-25",
+    "day"
+   ],
+   [
+    "1951-01-01",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from secretary of state}}",
+  "name_cell": "Dan Edward Garvey {{Small|(1886–1974)}}"
+ },
+ {
+  "table": 2,
+  "name": "J. Howard Pyle",
+  "term_raw": "January 1, 1951 – January 3, 1955 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1951-01-01",
+    "day"
+   ],
+   [
+    "1955-01-03",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1950",
+  "name_cell": "J. Howard Pyle {{Small|(1906–1987)}}"
+ },
+ {
+  "table": 2,
+  "name": "Ernest McFarland",
+  "term_raw": "January 3, 1955 – January 5, 1959 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1955-01-03",
+    "day"
+   ],
+   [
+    "1959-01-05",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1954",
+  "name_cell": "Ernest McFarland {{Small|(1894–1984)}}"
+ },
+ {
+  "table": 2,
+  "name": "Paul Fannin",
+  "term_raw": "January 5, 1959 – January 4, 1965 {{small|(2192 days; retired)}}",
+  "dates": [
+   [
+    "1959-01-05",
+    "day"
+   ],
+   [
+    "1965-01-04",
+    "day"
+   ],
+   [
+    "2192-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1958",
+  "name_cell": "Paul Fannin {{Small|(1907–2002)}}"
+ },
+ {
+  "table": 2,
+  "name": "Sam Goddard Jr.",
+  "term_raw": "January 4, 1965 – January 2, 1967 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1965-01-04",
+    "day"
+   ],
+   [
+    "1967-01-02",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1964",
+  "name_cell": "Sam Goddard Jr. {{Small|(1919–2006)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jack Williams",
+  "term_raw": "January 2, 1967 – January 6, 1975 {{small|(2927 days; retired)}}",
+  "dates": [
+   [
+    "1967-01-02",
+    "day"
+   ],
+   [
+    "1975-01-06",
+    "day"
+   ],
+   [
+    "2927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1966",
+  "name_cell": "Jack Williams {{Small|(1909–1998)}}"
+ },
+ {
+  "table": 2,
+  "name": "Raúl Héctor Castro",
+  "term_raw": "January 6, 1975 – October 20, 1977 {{small|(1019 days; resigned)}}",
+  "dates": [
+   [
+    "1975-01-06",
+    "day"
+   ],
+   [
+    "1977-10-20",
+    "day"
+   ],
+   [
+    "1019-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1974",
+  "name_cell": "Raúl Héctor Castro {{Small|(1916–2015)}}"
+ },
+ {
+  "table": 2,
+  "name": "Wesley Bolin",
+  "term_raw": "October 20, 1977 – March 4, 1978 {{small|(136 days; died in office)}}",
+  "dates": [
+   [
+    "1977-10-20",
+    "day"
+   ],
+   [
+    "1978-03-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from secretary of state}}",
+  "name_cell": "Wesley Bolin {{Small|(1909–1978)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bruce Babbitt",
+  "term_raw": "March 4, 1978 – January 5, 1987 {{small|(3230 days; retired)}}",
+  "dates": [
+   [
+    "1978-03-04",
+    "day"
+   ],
+   [
+    "1987-01-05",
+    "day"
+   ],
+   [
+    "3230-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from attorney general}}",
+  "name_cell": "Bruce Babbitt {{Small|({{Abbr|b.|born in}} 1938)}}"
+ },
+ {
+  "table": 2,
+  "name": "Evan Mecham",
+  "term_raw": "January 5, 1987 – April 4, 1988 {{small|(456 days; impeached and removed)}}",
+  "dates": [
+   [
+    "1987-01-05",
+    "day"
+   ],
+   [
+    "1988-04-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1986",
+  "name_cell": "Evan Mecham {{Small|(1924–2008)}}"
+ },
+ {
+  "table": 2,
+  "name": "Rose Mofford",
+  "term_raw": "April 4, 1988 – March 6, 1991 {{small|(1067 days; retired)}}",
+  "dates": [
+   [
+    "1988-04-04",
+    "day"
+   ],
+   [
+    "1991-03-06",
+    "day"
+   ],
+   [
+    "1067-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from secretary of state}}",
+  "name_cell": "Rose Mofford {{Small|(1922–2016)}}"
+ },
+ {
+  "table": 2,
+  "name": "Fife Symington",
+  "term_raw": "March 6, 1991 – September 5, 1997 {{small|(2376 days; resigned)}}",
+  "dates": [
+   [
+    "1991-03-06",
+    "day"
+   ],
+   [
+    "1997-09-05",
+    "day"
+   ],
+   [
+    "2376-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1990–1991",
+  "name_cell": "Fife Symington {{Small|({{Abbr|b.|born in}} 1945)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jane Dee Hull",
+  "term_raw": "September 5, 1997 – January 6, 2003 {{small|(1950 days; term-limited)}}",
+  "dates": [
+   [
+    "1997-09-05",
+    "day"
+   ],
+   [
+    "2003-01-06",
+    "day"
+   ],
+   [
+    "1950-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from secretary of state}}",
+  "name_cell": "Jane Dee Hull {{Small|(1935–2020)}}"
+ },
+ {
+  "table": 2,
+  "name": "Janet Napolitano",
+  "term_raw": "January 6, 2003 – January 20, 2009 {{small|(2207 days; resigned)}}",
+  "dates": [
+   [
+    "2003-01-06",
+    "day"
+   ],
+   [
+    "2009-01-20",
+    "day"
+   ],
+   [
+    "2207-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2002",
+  "name_cell": "Janet Napolitano {{Small|({{Abbr|b.|born in}} 1957)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jan Brewer",
+  "term_raw": "January 20, 2009 – January 5, 2015 {{small|(2177 days; retired)}}",
+  "dates": [
+   [
+    "2009-01-20",
+    "day"
+   ],
+   [
+    "2015-01-05",
+    "day"
+   ],
+   [
+    "2177-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from secretary of state}}",
+  "name_cell": "Jan Brewer {{Small|({{Abbr|b.|born in}} 1944)}}"
+ },
+ {
+  "table": 2,
+  "name": "Doug Ducey",
+  "term_raw": "January 5, 2015 – January 2, 2023 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "2015-01-05",
+    "day"
+   ],
+   [
+    "2023-01-02",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2014",
+  "name_cell": "Doug Ducey {{Small|({{Abbr|b.|born in}} 1964)}}"
+ },
+ {
+  "table": 2,
+  "name": "Katie Hobbs",
+  "term_raw": "2023|1|2|duration=on|format=no}}\"|January 2, 2023 – Incumbent {{small|(in office {{Duration in days nts|2023|1|2|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2023-01-01",
+    "year"
+   ],
+   [
+    "2023-01-02",
+    "day"
+   ],
+   [
+    "2023-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2022",
+  "name_cell": "Katie Hobbs {{Small|({{Abbr|b.|born in}} 1969)}}"
+ }
+]

@@ -1,0 +1,1043 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2019}}
+{{Infobox Political post
+|post             = Governor
+|body             = Idaho
+|insignia         = Seal of Idaho.svg
+|insignia_size    = 110
+|insignia_caption = [[Flag and seal of Idaho|Great Seal of the State of Idaho]]
+|image_size       = 200px
+|image            = Brad Little official photo (cropped).jpg
+|term_length      = Four years, no term limit
+|residence        = None
+|incumbent        = [[Brad Little]]
+|incumbent_since  = January 7, 2019
+|department       = [[Government of Idaho]]
+|formation        = October 1, 1890
+|succession       = [[Gubernatorial_lines_of_succession_in_the_United_States#Idaho|Line of succession]]
+|deputy           = [[Lieutenant Governor of Idaho]]
+|salary           = $138,302 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+|inaugural        = [[George L. Shoup]]
+|website          = {{URL|gov.idaho.gov}}
+}}
+The '''governor of Idaho''' is the [[head of government]] of [[Idaho]]{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-id-45116 art. IV, § 5]}} and [[commander-in-chief]] of the [[U.S. state|state]]'s [[Idaho Military Department|military forces]]. The officeholder has the duty to see state laws are executed, power to either approve or veto bills passed by the [[Idaho Legislature]].{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-id-45112 art. IV, § 4]}} The current governor of Idaho is [[Brad Little]], a [[Idaho Republican Party|Republican]], who took office on January 7, 2019.
+
+Thirty-one individuals have held the office of governor of Idaho since the state's admission to the [[United States|Union]] in 1890, two of whom served non-consecutive terms. The state's first governor, [[George L. Shoup]], had the shortest term, of three months; [[Cecil Andrus]] had the longest, of 14 years.
+
+==List of governors==
+===Territory of Idaho===
+[[Idaho Territory]] was created from [[Dakota Territory]], [[Nebraska Territory]], and [[Washington Territory]] on March 4, 1863.<ref>{{usstat|12|808}}</ref>
+
+There were sixteen territorial governors appointed by the [[president of the United States]] from the territory's organization in 1863 until the formation of the state of [[Idaho]] in 1890. Due to the long distance from [[Washington, D.C.]] to [[Boise, Idaho|Boise]], there was often a lengthy gap between a governor being appointed and his arrival in the territory; three resigned before even arriving.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Idaho
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Wallace, William"|[[File:William_H._Wallace.jpg|75px]]
+|'''[[William H. Wallace]]'''<br>{{small|(1811–1879)}}<br>{{sfn|McMullin|1984|pp=125–126}}
+|data-sort-value="354"|March 10, 1863{{efn|Wallace was nominated on March 7, 1863,<ref>{{cite book |title=Senate Executive Journal, 38th Cong., special sess. |author=United States Senate |page=222 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175026170194&seq=228 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed by the Senate on March 10,<ref>{{cite book |title=Senate Executive Journal, 38th Cong., special sess. |author=United States Senate |page=275 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175026170194&seq=281 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and took office in July.{{sfn|McMullin|1984|p=125}}}}<br />–<br />February 26, 1864<br>{{small|(354 days; replaced)}}{{efn|Wallace had been [[1863 United States House of Representatives election in Idaho Territory|elected]] to the [[United States House of Representatives]];<ref>{{CongBio|id=W000086|name=William Henson Wallace|inline=0}}</ref> one source says he resigned in December 1863,{{sfn|Limbaugh|1982|p=47}} whereas contemporary press was labeling him as sitting governor until at least February 6, 1864.<ref>{{cite news |url=https://www.newspapers.com/article/the-idaho-world-idaho-territory-official/204666248/ |title=Official Directory |newspaper=Boise News |page=1 |date=February 6, 1864 |access-date=October 22, 2026 |via=Newspapers.com}}</ref>}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Lyon, Caleb"|[[File:Caleb_Lyon.jpg|75px]]
+|'''[[Caleb Lyon]]'''<br>{{small|(1822–1875)}}<br>{{sfn|McMullin|1984|pp=126–128}}
+|data-sort-value="775"|February 26, 1864{{efn|Lyon was nominated on February 2, 1864,<ref>{{cite book |title=Senate Executive Journal, 38th Cong., 1st sess. |author=United States Senate |page=388 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175026170194&seq=394 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed by the Senate on February 26,<ref>{{cite book |title=Senate Executive Journal, 38th Cong., 1st sess. |author=United States Senate |page=424 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175026170194&seq=430 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and arrived in the territory some six months later.{{sfn|McMullin|1984|p=127}}}}<br />–<br />April 10, 1866<br>{{small|(775 days; replaced)}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Ballard, David"|[[File:Davidwballard.jpg|75px]]
+|'''[[David W. Ballard]]'''<br>{{small|(1824–1883)}}<br>{{sfn|McMullin|1984|pp=129–130}}
+|data-sort-value="1451"|April 10, 1866{{efn|Ballard was nominated on March 14, 1866,<ref>{{cite book |title=Senate Executive Journal, 39th Cong., 1st sess. |author=United States Senate |page=675 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031112447&seq=139 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed by the Senate on April 10,<ref>{{cite book |title=Senate Executive Journal, 39th Cong., 1st sess. |author=United States Senate |page=716 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031112447&seq=180 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and arrived in the territory in June.<ref>{{Cite news |date=June 14, 1866 |title=none |page=2 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-governor-ballard-arr/119437458/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926211521/https://www.newspapers.com/article/the-idaho-statesman-governor-ballard-arr/119437458/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com |quote=Governor Ballard arrived on the western stage last night.}}</ref>}}<br />–<br />March 30, 1870<br>{{small|(1451 days; replaced)}}{{efn|Ballard stayed on in office until July 16, when he delivered a farewell address to the territory.<ref>{{Cite news |date=July 21, 1870 |title=Address to the People |page=3 |newspaper=Idaho World |url=https://www.newspapers.com/article/the-idaho-world-address-to-the-people/119437716/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230928235051/https://www.newspapers.com/article/the-idaho-world-address-to-the-people/119437716/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Bard, Samuel"|[[File:Samuel Bard 1823-1878 (Idaho Governor), front.jpg|75px]]
+|'''[[Samuel Bard (politician)|Samuel Bard]]'''<br>{{small|(1825–1878)}}
+|data-sort-value="68"|March 30, 1870<br />–<br />June 5, 1870<br>{{small|(68 days; resigned<br>before taking office)}}{{efn|Bard was nominated on February 8, 1870,<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 2nd sess. |author=United States Senate |page=359 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031110466&seq=363 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and confirmed by the Senate on March 30.<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 2nd sess. |author=United States Senate |page=413 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031110466&seq=417 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> However, he resigned on June 5 to continue being a journalist in [[Georgia (U.S. state)|Georgia]], having never reached the territory.<ref>{{Cite news |date=May 25, 1870 |title=Resignation of Governor Bard, of Idaho |page=2 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-resignation-of/119438016/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926210856/https://www.newspapers.com/article/the-atlanta-constitution-resignation-of/119438016/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Marston, Gilman"|[[File:Gilman_Marston_-_Brady-Handy.jpg|75px]]
+|'''[[Gilman Marston]]'''<br>{{small|(1811–1890)}}
+|data-sort-value="180"|June 7, 1870<br />–<br />December 3, 1870<br>{{small|(180 days; resigned<br>before taking office)}}{{efn|Marston was nominated on May 27, 1870,<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 2nd sess. |author=United States Senate |page=455 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031110466&seq=459 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and confirmed on June 7.<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 2nd sess. |author=United States Senate |pages=473–474 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031110466&seq=477 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> However, he resigned on December 3,<ref>{{Cite book |editor-last=Simon |editor-first=John Y. |title=The Papers of Ulysses S. Grant, Volume 21: November 1,1870–May 31, 1871 |date=1998 |publisher=Southern Illinois University Press |page=159 |url=https://scholarsjunction.msstate.edu/usg-volumes/3/}}</ref> due to the delay, through it was rumored that he was unhappy with the salary.{{sfn|McMullin|1984|p=130}}{{sfn|Limbaugh|1982|p=90}}}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Conner, Alexander"|[[File:Alexander H. Conner (Idaho Governor).jpg|75px]]
+|'''[[Alexander H. Conner]]'''<br>{{small|(1831–1891)}}
+|data-sort-value="51"|January 12, 1871<br />–<br />March 3, 1871<br>{{small|(51 days; resigned<br>before taking office)}}{{efn|Conner was nominated on December 16, 1870,<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 3rd sess. |author=United States Senate |page=586 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031110466&seq=590 |via=[[HathiTrust]] |access-date=October 22, 2026}}</ref> and confirmed by the Senate on January 12, 1871.<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 3rd sess. |author=United States Senate |page=606 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031110466&seq=610 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> However, he declined the appointment;{{sfn|McMullin|1984|p=131}} it is unknown when, though Limbaugh writes that he "declined the offer as soon as it was made,"{{sfn|Limbaugh|1982|p=90}} and news reported it was on or just before March 3.<ref>{{cite news |title=none |newspaper=Lafayette Weekly Journal |page=2 |date=March 3, 1871 |access-date=October 22, 2026 |via=Newspapers.com |url=https://www.newspapers.com/article/the-weekly-journal-conner-declines/204622883/}}</ref>}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Bowen, Thomas"|[[File:ThomasMBowen.jpg|75px]]
+|'''[[Thomas M. Bowen]]'''<br>{{small|(1835–1906)}}<br>{{sfn|McMullin|1984|pp=130–131}}
+|data-sort-value="165"|April 19, 1871{{efn|Bowen was nominated on April 18, 1871,<ref>{{cite book |title=Senate Executive Journal, 42nd Cong., 1st sess. |author=United States Senate |page=74 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.a0001766591&seq=80 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> in place of [[Ebenezer Dumont]], who was nominated on March 17<ref>{{cite book |title=Senate Executive Journal, 42nd Cong., 1st sess. |author=United States Senate |page=21 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.a0001766591&seq=27 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> but died on April 16, before the Senate could confirm him. The Senate Executive Journal has no record of if or when the Senate confirmed Bowen, but some sources say it was on April 19.<ref name="territorial-id">{{Cite book |url=https://books.google.com/books?id=6IVHAQAAMAAJ&pg=PA10 |title=The Territorial Papers of the United States: Volume I: General |date=1934 |publisher=[[United States Government Publishing Office]] |page=10 |via=[[Google Books]]}}</ref> He took office on July 7.{{sfn|McMullin|1984|p=131}}}}<br />–<br />September 30, 1871<br>{{small|(165 days; resigned)}}{{efn|Bowen submitted his resignation on September 15, to take effect September 30.<ref>{{Cite book |editor-last=Simon |editor-first=John Y. |title=The Papers of Ulysses S. Grant, Volume 21: November 1,1870–May 31, 1871 |date=1998 |publisher=Southern Illinois University Press |page=160 |url=https://scholarsjunction.msstate.edu/usg-volumes/3/}}</ref> Upon arriving in Idaho, Bowen reportedly did not like the look of the landscape, so he decided to stay only a few weeks.{{sfn|Limbaugh|1982|p=92}}}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Bennett, Thomas"|[[File:Thomas_W._Bennett_territorial_governor_-_Brady-Handy.jpg|75px]]
+|'''[[Thomas W. Bennett (Idaho politician)|Thomas W. Bennett]]'''<br>{{small|(1831–1893)}}<br>{{sfn|McMullin|1984|pp=131–133}}
+|data-sort-value="1503"|October 24, 1871{{efn|Bennett was nominated on December 6, 1871,<ref>{{cite book |title=Senate Executive Journal, 42nd Cong., 2nd sess. |author=United States Senate |page=117 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.a0001766591&seq=123 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and confirmed by the Senate on December 14.<ref>{{cite book |title=Senate Executive Journal, 42nd Cong., 2nd sess. |author=United States Senate |page=157 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.a0001766591&seq=163 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> However, sources say he took office on October 24,<ref name="territorial-id" />{{sfn|McMullin|1984|p=132}} implying a recess appointment.}}<br />–<br />December 4, 1875<br>{{small|(1503 days; resigned)}}{{efn|Bennett resigned, having been [[1874–75 United States House of Representatives elections|elected]] to the [[United States House of Representatives]].{{sfn|McMullin|1984|p=132}} His term in the House started on March 4, and he had held both offices for nine months.<ref>{{congbio|B000383|inline=1}}</ref>}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Thompson, David"|[[File:Davidpthompson.jpg|75px]]
+|'''[[David P. Thompson]]'''<br>{{small|(1834–1901)}}<br>{{sfn|McMullin|1984|pp=133–134}}
+|data-sort-value="199"|December 16, 1875{{efn|Thompson was nominated on December 15, 1875,<ref>{{cite book |title=Senate Executive Journal, 44th Cong., 1st sess. |author=United States Senate |page=111 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137204&seq=115 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed by the Senate on December 16,<ref>{{cite book |title=Senate Executive Journal, 44th Cong., 1st sess. |author=United States Senate |page=117 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137204&seq=121 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and took office on April 6, 1876.{{sfn|McMullin|1984|p=133}}}}<br />–<br />July 1, 1876<br>{{small|(199 days; resigned)}}{{efn|Thompson resigned due to a conflict of interest as a federal officer holding government contracts. Limbaugh says he resigned upon learning that this was not allowed.{{sfn|Limbaugh|1982|p=106}} He submitted his resignation on July 1, to take effect when his successor was confirmed.<ref>{{Cite book |editor-last=Simon |editor-first=John Y. |title=The Papers of Ulysses S. Grant, Volume 27: January 1–October 31, 1876 |date=2005 |publisher=Southern Illinois University Press |page=192 |url=https://scholarsjunction.msstate.edu/usg-volumes/26/}}</ref>}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Brayman, Mason"|[[File:Masonbrayman.jpg|75px]]
+|'''[[Mason Brayman]]'''<br>{{small|(1813–1895)}}<br>{{sfn|McMullin|1984|pp=134–136}}
+|data-sort-value="1450"|July 24, 1876{{efn|[[Thomas W. Bennett (Idaho politician)|Thomas W. Bennett]] was nominated on July 17, 1876.<ref>{{cite book |title=Senate Executive Journal, 44th Cong., 1st sess. |author=United States Senate |page=280 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137204&seq=284 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> However, Bennett declined, so Brayman was nominated on July 18,<ref>{{cite book |title=Senate Executive Journal, 44th Cong., 1st sess. |author=United States Senate |page=286 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137204&seq=290 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed by the Senate on July 24.<ref>{{cite book |title=Senate Executive Journal, 44th Cong., 1st sess. |author=United States Senate |page=291 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137204&seq=295 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and he took office on August 1.{{sfn|McMullin|1984|p=135}}}}<br />–<br />July 12, 1880<br>{{small|(1450 days; replaced)}}{{efn|Many petitions were filed to remove Brayman, and President Hayes responded by nominating [[John Philo Hoyt]] on June 11, 1878,<ref>{{cite book |title=Senate Executive Journal, 45th Cong., 2nd sess. |author=United States Senate |page=344 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137261&seq=348 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> though he declined the appointment.{{sfn|McMullin|1984|p=135}} Brayman was allowed to serve out the remainder of his term.{{sfn|Limbaugh|1982|pp=127–129}}}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Neil, John"|[[File:Johnbaldwinneil.jpg|75px]]
+|'''[[John Baldwin Neil]]'''<br>{{small|(1842–1902)}}<br>{{sfn|McMullin|1984|pp=136–137}}
+|data-sort-value="964"|July 12, 1880{{efn|Neil was appointed on July 12, 1880,{{sfn|McMullin|1984|p=136}} during a Senate recess; nominated on December 7;<ref>{{cite book |title=Senate Executive Journal, 46th Cong., 3rd sess. |author=United States Senate |page=376 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137329&seq=380 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and confirmed by the Senate on December 14.<ref>{{cite book |title=Senate Executive Journal, 46th Cong., 3rd sess. |author=United States Senate |page=414 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137329&seq=380 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> He took office on August 4.<ref>{{Cite news |date=August 5, 1880 |title=The Arrival of John B. Neil, Idaho's Newly Appointed Governor |page=2 |newspaper=[[Idaho Statesman|Idaho Tri-Weekly Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-the-arrival-of-john/119511391/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926221326/https://www.newspapers.com/article/the-idaho-statesman-the-arrival-of-john/119511391/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />March 2, 1883<br>{{small|(964 days; replaced)}}
+|{{sortname|Rutherford B.|Hayes}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Irwin, John"|[[File:John_Nichol_Irwin_-_oval.jpg|75px]]
+|'''[[John N. Irwin]]'''<br>{{small|(1844–1905)}}<br>{{sfn|McMullin|1984|pp=137–138}}
+|data-sort-value="294"|March 2, 1883{{efn|Irwin was nominated on March 1, 1883,<ref>{{cite book |title=Senate Executive Journal, 47th Cong., 2nd sess. |author=United States Senate |page=706 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137386&seq=710 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed by the Senate on March 2,<ref>{{cite book |title=Senate Executive Journal, 47th Cong., 2nd sess. |author=United States Senate |page=718 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137386&seq=722 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and arrived in Boise on April 24.{{sfn|McMullin|1984|p=138}}}}<br />–<br />December 20, 1883<br>{{small|(294 days; resigned)}}{{efn|Irwin took a leave of absence on May 15, and resigned on December 20 for personal reasons,{{sfn|McMullin|1984|p=138}} and returned his salary for the period he was absent.{{sfn|Limbaugh|1982|p=146}}}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Bunn, William"|[[File:William_Malcolm_Bunn.jpg|75px]]
+|'''[[William M. Bunn]]'''<br>{{small|(1842–1923)}}<br>{{sfn|McMullin|1984|pp=138–140}}
+|data-sort-value="465"|March 26, 1884{{efn|Bunn was nominated on March 4, 1884,<ref>{{cite book |title=Senate Executive Journal, 48th Cong., 1st sess. |author=United States Senate |page=199 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137444&seq=203 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed by the Senate on March 26,<ref>{{cite book |title=Senate Executive Journal, 48th Cong., 1st sess. |author=United States Senate |page=227 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137444&seq=231 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and took office on June 26.<ref>{{Cite book |last=Donaldson |first=Thomas |title=Idaho of Yesterday |publisher=Caxton Printers, Ltd |year=1941 |location=Caldwell, Idaho |page=271 |oclc=100976}}</ref>}}<br />–<br />July 3, 1885<br>{{small|(465 days; resigned)}}{{efn|Bunn resigned, citing personal reasons.<ref>{{Cite news |publication-date=July 10, 1885 |date=July 9, 1885 |location=Philadelphia |publication-place=Augusta, Maine |title=Gov. Bunn Sends His Resignation to the President |page=1 |newspaper=[[Kennebec Journal|Daily Kennebec Journal]] |url=https://www.newspapers.com/article/kennebec-journal-gov-bunn-sends-his-res/119525622/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230929000554/https://www.newspapers.com/article/kennebec-journal-gov-bunn-sends-his-res/119525622/ |archive-date=September 29, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Stevenson, Edward"|[[File:Edwardastevenson.PNG|75px]]
+|'''[[Edward A. Stevenson]]'''<br>{{small|(1831–1895)}}<br>{{sfn|McMullin|1984|pp=140–141}}
+|data-sort-value="1281"|September 29, 1885{{efn|Stevenson was appointed on September 29, 1885,<ref>{{Cite news |publication-date=September 30, 1885 |date=September 29, 1885 |location=Washington, D.C. |publication-place=Des Moines, Iowa |title=Edward A. Stevenson of Boise City, Idaho Appointed Governor of That Territory |page=2 |newspaper=[[The Des Moines Register|The Iowa State Register]] |url=https://www.newspapers.com/article/the-des-moines-register-edward-a-steven/119526066/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926214318/https://www.newspapers.com/article/the-des-moines-register-edward-a-steven/119526066/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref> during a Senate recess; nominated on December 10, 1885;<ref>{{cite book |title=Senate Executive Journal, 49th Cong., 1st sess. |author=United States Senate |page=55 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137501&seq=59 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and confirmed by the Senate on February 3, 1886.<ref>{{cite book |title=Senate Executive Journal, 49th Cong., 1st sess. |author=United States Senate |page=313 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137501&seq=317 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref>}}<br />–<br />April 1, 1889<br>{{small|(1281 days; replaced)}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Shoup, George"|[[File:Georgelshoup.jpg|75px]]
+|'''[[George L. Shoup]]'''<br>{{small|(1836–1904)}}<br>{{sfn|McMullin|1984|pp=141–143}}{{sfn|Sobel|1978|pp=337–338}}<ref name="nga-shoup" />
+|data-sort-value="617"|April 1, 1889{{efn|Shoup was nominated on March 29, 1889,<ref>{{cite book |title=Senate Executive Journal, 51st Cong., special sess. |author=United States Senate |page=50 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137626&seq=54 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> confirmed on April 1,<ref>{{cite book |title=Senate Executive Journal, 51st Cong., special sess. |author=United States Senate |page=59 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.31175031137626&seq=63 |via=[[HathiTrust]] |access-date=October 21, 2026}}</ref> and took office on April 30.{{sfn|Limbaugh|1982|p=181}}}}<br />–<br />December 8, 1890<br>{{small|(617 days;<br>elected state governor)}}
+|{{sortname|Benjamin|Harrison}}
+|}
+
+===State of Idaho===
+[[File:2018-07-16 Idaho State Capitol 10.jpg|thumb|right|Office of the Idaho governor]]
+[[Idaho]] was [[Admission to the Union|admitted to the Union]] on July 3, 1890. The terms for governor and lieutenant governor are 4 years, commencing on the first Monday in the January following the election.{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-amendment-id-73941 art. IV, § 1]}} Prior to 1946, the offices were elected to terms of two years.{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-id-45104 1890 art. IV, § 1]}} If the office of governor is vacant or the governor is out of state or unable to discharge his duties, the lieutenant governor acts as governor until such time as the disability is removed.{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-id-45139 art. IV, § 12]}} If both the offices of governor and lieutenant governor are vacant or both those officers are unable to fulfill their duties, the President ''pro tempore'' of the [[Idaho Senate]] is next in line, and then the Speaker of the [[Idaho House of Representatives]].{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-id-45143 art. IV, § 14]}} After the change to four-year terms, self-succession (reelection) was not initially allowed; newly elected Governor [[Robert E. Smylie]], formerly the state's attorney general, successfully lobbied the 1955 legislature to propose an amendment to the state constitution to allow gubernatorial reelection, which was approved by voters in 1956.{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-amendment-id-60394 1956 art. IV, § 1]}}<ref>{{Cite news |date=November 7, 1956 |title=Idaho Voters Adopt Three Amendments |page=1 |newspaper=Lewiston Morning Tribune |agency=Associated Press |location=Boise, Idaho |publication-place=Lewiston, Idaho |url=https://news.google.com/newspapers?id=hcpeAAAAIBAJ&sjid=hDIMAAAAIBAJ&pg=3703%2C728300 |access-date=October 22, 2026 |via=[[Google News]]}}</ref><ref>{{Cite news |last=Corlett |first=John |date=March 31, 1963 |title=It's Mystery Why Law Barring Self-Succession Not Repealed |page=5 |location=Boise, Idaho |publication-place=Lewiston, Idaho |newspaper=Lewiston Morning Tribune |url=https://news.google.com/newspapers?id=_cFeAAAAIBAJ&sjid=qTEMAAAAIBAJ&pg=2840,4647264 |access-date=October 22, 2026 |via=[[Google News]]}}</ref> There is no limit to the number of terms a governor may serve.<ref>{{Cite web |date=February 1, 2002 |title=Idaho Makes Term Limits History |url=http://www.ncsl.org/Default.aspx?TabId=14836 |access-date=June 30, 2010 |publisher=National Conference of State Legislatures |archive-url=https://web.archive.org/web/20090810223052/http://www.ncsl.org/Default.aspx?TabId=14836 |archive-date=August 10, 2009 |url-status=dead}}</ref> The governor and the lieutenant governor are elected at the same time but not on the same ticket.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Idaho
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Idaho|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Shoup, George"|[[File:Georgelshoup.jpg|75px]]
+|rowspan="4" style="background: {{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[George L. Shoup]]'''<br>{{small|(1836–1904)}}<br>{{sfn|McMullin|1984|pp=141–143}}{{sfn|Sobel|1978|pp=337–338}}<ref name="nga-shoup">{{cite web |title=George Laird Shoup |url=https://www.nga.org/governor/george-laird-shoup/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260216180851/https://www.nga.org/governor/george-laird-shoup/ |archive-date=February 16, 2026 |url-status=live}}</ref>
+|data-sort-value="12"|December 8, 1890{{efn|Shoup was elected governor on October 1; as he was already territorial governor, some sources list this as when he took office,<ref name="nga-shoup" /> while others say he took office when the first legislature convened on December 8.{{sfn|Kallenbach|1977|p=152}}}}<br />–<br />December 19, 1890<br>{{small|(12 days; resigned)}}{{efn|Shoup resigned, having been [[1890 United States Senate elections in Idaho|elected]] to the [[United States Senate]].<ref>{{Cite news |date=December 27, 1890 |title=Geo. Shoup Resigns |page=4 |newspaper=[[The Idaho Press|Caldwell Tribune]] |url=https://www.newspapers.com/article/the-caldwell-tribune-geo-shoup-resigns/119527573/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230928232046/https://www.newspapers.com/article/the-caldwell-tribune-geo-shoup-resigns/119527573/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=152}}
+|[[1890 Idaho gubernatorial election|1890]]
+|rowspan="4" style="background: {{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|{{sortname|N. B.|Willey}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Willey, N. B."|[[File:Norman Bushnell Willey (Idaho Governor).jpg|75px]]
+|'''[[N. B. Willey]]'''<br>{{small|(1838–1921)}}<br>{{sfn|Sobel|1978|p=338}}<ref name="nga-willey">{{cite web |title=Norman Bushnell Willey |url=https://www.nga.org/governor/norman-bushnell-willey/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260719222441/https://www.nga.org/governor/norman-bushnell-willey/ |archive-date=July 19, 2026 |url-status=live}}</ref>
+|data-sort-value="746"|December 19, 1890<ref>{{Cite news |publication-date=December 21, 1890 |date=December 20, 1890 |title=Idaho Politics |page=4 |location=Boise, Idaho |publication-place=Sacramento, California |newspaper=[[The Sacramento Union|Sacramento Sunday Union]] |url=https://www.newspapers.com/article/the-sacramento-union-willey-succeeds-sho/130118261/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20231217194357/https://www.newspapers.com/article/the-sacramento-union-willey-succeeds-sho/130118261/ |archive-date=December 17, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1893<br>{{small|(746 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=338}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=152}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|John S.|Gray|dab=Idaho politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="McConnell, William"|[[File:Williammcconnell.jpg|75px]]
+|rowspan="2"|'''[[William J. McConnell]]'''<br>{{small|(1839–1925)}}<br>{{sfn|Sobel|1978|pp=338–339}}<ref name="nga-mcconnell">{{cite web |title=William John McConnell |url=https://www.nga.org/governor/william-john-mcconnell/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608204738/https://www.nga.org/governor/william-john-mcconnell/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1893<ref>{{Cite news |date=January 3, 1893 |title=The New Officers |page=8 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-mcconnell-inaugurate/130118386/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816190612/https://www.newspapers.com/article/the-idaho-statesman-mcconnell-inaugurate/130118386/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1897<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=152}}
+|[[1892 Idaho gubernatorial election|1892]]
+|{{sortname|F. B.|Willis}}
+|- style="height:2em;"
+|[[1894 Idaho gubernatorial election|1894]]
+|{{sortname|F. J.|Mills}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Steunenberg, Frank"|[[File:Franksteunenberg.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Frank Steunenberg]]'''<br>{{small|(1861–1905)}}<br>{{sfn|Sobel|1978|pp=339–340}}<ref name="nga-steunenberg">{{cite web |title=Frank Steunenberg |url=https://www.nga.org/governor/frank-steunenberg/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616114630/https://www.nga.org/governor/frank-steunenberg/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1897<ref>{{Cite news |date=January 5, 1897 |title=New Officers Installed |page=8 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-steunenberg-inaugura/130118456/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183600/https://www.newspapers.com/article/the-idaho-statesman-steunenberg-inaugura/130118456/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 7, 1901<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Idaho Democratic Party|Democratic]]{{efn|Steunenberg ran on a [[Electoral fusion in the United States|fusion]] ticket in 1896 with the Democratic, [[Populist Party (United States)|Populist]], and [[Silver Republican Party|Silver Republican]] parties, and in 1898 with the Democratic and Silver Republican parties.{{sfn|Kallenbach|1977|p=154}}}}
+|[[1896 Idaho gubernatorial election|1896]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|George F.|Moore|dab=Idaho politician}}
+|- style="height:2em;"
+|[[1898 Idaho gubernatorial election|1898]]
+|{{sortname|J. H.|Hutchinson}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Hunt, Frank"|[[File:Frankwhunt.PNG|75px]]
+|'''[[Frank W. Hunt]]'''<br>{{small|(1861–1906)}}<br>{{sfn|Sobel|1978|pp=340–341}}<ref name="nga-hunt">{{cite web |title=Frank W. Hunt |url=https://www.nga.org/governor/frank-w-hunt/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422104244/https://www.nga.org/governor/frank-w-hunt/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 7, 1901<ref>{{Cite news |date=January 8, 1901 |title=Simple Ceremony |page=2 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-hunt-inaugurated-jan/130118553/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816190609/https://www.newspapers.com/article/the-idaho-statesman-hunt-inaugurated-jan/130118553/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 5, 1903<br>{{small|(729 days; lost election)}}
+|[[Idaho Democratic Party|Democratic]]{{efn|Hunt ran on an [[electoral fusion in the United States|electoral fusion]] ticket with two other parties, who were holding their nominating convention at the same time and place as the Democrats.{{sfn|Kallenbach|1977|p=154}}{{sfn|Sobel|1978|p=341}}}}
+|[[1900 Idaho gubernatorial election|1900]]
+|{{sortname|Thomas F.|Terrell}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Morrison, John"|[[File:John T. Morrison.jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John T. Morrison]]'''<br>{{small|(1860–1915)}}<br>{{sfn|Sobel|1978|pp=341–342}}<ref name="nga-morrison">{{cite web |title=John T. Morrison |url=https://www.nga.org/governor/john-t-morrison/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260803025811/https://www.nga.org/governor/john-t-morrison/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 5, 1903<ref>{{Cite news |date=January 6, 1903 |title=New Men Fill State Positions |page=6 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-morrison-inaugurated/130118743/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816190610/https://www.newspapers.com/article/the-idaho-statesman-morrison-inaugurated/130118743/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1905<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=342}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=152}}
+|[[1902 Idaho gubernatorial election|1902]]
+|rowspan="7" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|James M.|Stevens}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Gooding, Frank"|[[File:Frankgooding.jpg|75px]]
+|rowspan="2"|'''[[Frank R. Gooding]]'''<br>{{small|(1859–1928)}}<br>{{sfn|Sobel|1978|pp=342–343}}<ref name="nga-gooding">{{cite web |title=Frank Robert Gooding |url=https://www.nga.org/governor/frank-robert-gooding/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260416231433/https://www.nga.org/governor/frank-robert-gooding/ |archive-date=April 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1905<ref>{{Cite news |date=January 3, 1905 |title=New Officials Are Inducted |page=3 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-gooding-inaugurated/130118827/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816185102/https://www.newspapers.com/article/the-idaho-statesman-gooding-inaugurated/130118827/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1909<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1904 Idaho gubernatorial election|1904]]
+|{{sortname|Burpee L.|Steeves}}
+|- style="height:2em;"
+|[[1906 Idaho gubernatorial election|1906]]
+|{{sortname|Ezra A.|Burrell}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Brady, James"|[[File:Jamesbrady.jpg|75px]]
+|'''[[James H. Brady]]'''<br>{{small|(1862–1918)}}<br>{{sfn|Sobel|1978|pp=343–344}}<ref name="nga-brady">{{cite web |title=James Henry Brady |url=https://www.nga.org/governor/james-henry-brady/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616113401/https://www.nga.org/governor/james-henry-brady/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 4, 1909<ref>{{Cite news |date=January 5, 1909 |title=New Regime Is Sworn Into Office |page=3 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-brady-inaugurated-ja/130118949/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816192108/https://www.newspapers.com/article/the-idaho-statesman-brady-inaugurated-ja/130118949/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1911<br>{{small|(729 days; lost election)}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1908 Idaho gubernatorial election|1908]]
+|rowspan="2"|{{sortname|Lewis H.|Sweetser}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Hawley, James"|[[File:JamesHHawley.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James H. Hawley]]'''<br>{{small|(1847–1929)}}<br>{{sfn|Sobel|1978|pp=344–345}}<ref name="nga-hawley">{{cite web |title=James H. Hawley |url=https://www.nga.org/governor/james-h-hawley/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418064240/https://www.nga.org/governor/james-h-hawley/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 2, 1911<ref>{{Cite news |date=January 3, 1911 |title=Many Witness Inauguration of Governor |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-hawley-inaugurated-j/130119026/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183610/https://www.newspapers.com/article/the-idaho-statesman-hawley-inaugurated-j/130119026/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 6, 1913<br>{{small|(736 days; lost election)}}
+|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|[[1910 Idaho gubernatorial election|1910]]
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Haines, John"|[[File:Johnmhaines.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John M. Haines]]'''<br>{{small|(1863–1917)}}<br>{{sfn|Sobel|1978|p=345}}<ref name="nga-haines">{{cite web |title=John Michiner Haines |url=https://www.nga.org/governor/john-michiner-haines/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607080125/https://www.nga.org/governor/john-michiner-haines/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 6, 1913<ref>{{Cite news |date=January 7, 1913 |title=Bar to Solons When Officers Installed |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-haines-inaugurated-j/130119182/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183603/https://www.newspapers.com/article/the-idaho-statesman-haines-inaugurated-j/130119182/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1915<br>{{small|(729 days; lost election)}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1912 Idaho gubernatorial election|1912]]
+|rowspan="2"|{{sortname|Herman H.|Taylor}}{{efn|Represented the [[Idaho Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|11
+|rowspan="2" data-sort-value="Alexander, Moses"|[[File:Mosesalexander.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Moses Alexander]]'''<br>{{small|(1853–1932)}}<br>{{sfn|Sobel|1978|p=346}}<ref name="nga-alexander">{{cite web |title=Moses Alexander |url=https://www.nga.org/governor/moses-alexander/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710074415/https://www.nga.org/governor/moses-alexander/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1915<ref>{{Cite news |date=January 5, 1915 |title=New Officers Take Oath of Office and Begin Work |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-alexander-inaugurate/130119256/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816192117/https://www.newspapers.com/article/the-idaho-statesman-alexander-inaugurate/130119256/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 6, 1919<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|[[1914 Idaho gubernatorial election|1914]]
+|- style="height:2em;"
+|[[1916 Idaho gubernatorial election|1916]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Ernest L.|Parker}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|12
+|rowspan="2" data-sort-value="Davis, D. W."|[[File:DWDavis.jpg|75px]]
+|rowspan="8" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[D. W. Davis]]'''<br>{{small|(1873–1959)}}<br>{{sfn|Sobel|1978|p=347}}<ref name="nga-davis">{{cite web |title=David William Davis |url=https://www.nga.org/governor/david-william-davis/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521005738/https://www.nga.org/governor/david-william-davis/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|January 6, 1919<ref>{{Cite news |date=January 7, 1919 |title=New Officers Guide Destinies of Idaho |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-davis-inaugurated-ja/130119300/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183602/https://www.newspapers.com/article/the-idaho-statesman-davis-inaugurated-ja/130119300/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1923<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1918 Idaho gubernatorial election|1918]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Charles C.|Moore}}
+|- style="height:2em;"
+|[[1920 Idaho gubernatorial election|1920]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Moore, Charles"|[[File:Charles C. Moore 1904.jpg|75px]]
+|rowspan="2"|'''[[Charles C. Moore]]'''<br>{{small|(1866–1958)}}<br>{{sfn|Sobel|1978|pp=347–348}}<ref name="nga-moore">{{cite web |title=Charles Calvin Moore |url=https://www.nga.org/governor/charles-calvin-moore/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613190413/https://www.nga.org/governor/charles-calvin-moore/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 1, 1923<ref>{{Cite news |date=January 2, 1923 |title=Budge Gives Oath to New State Officers |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-moore-inaugurated-ja/130119364/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816185103/https://www.newspapers.com/article/the-idaho-statesman-moore-inaugurated-ja/130119364/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 3, 1927<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1922 Idaho gubernatorial election|1922]]
+|rowspan="2"|{{sortname|H. C.|Baldridge}}
+|- style="height:2em;"
+|[[1924 Idaho gubernatorial election|1924]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|14
+|rowspan="4" data-sort-value="Baldridge, H. C."|[[File:HCBaldridge (cropped).jpg|75px]]
+|rowspan="4"|'''[[H. C. Baldridge]]'''<br>{{small|(1868–1947)}}<br>{{sfn|Sobel|1978|p=349}}<ref name="nga-baldridge">{{cite web |title=H. Clarence Baldridge |url=https://www.nga.org/governor/h-clarence-baldridge/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261003144446/https://www.nga.org/governor/h-clarence-baldridge/ |archive-date=October 3, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1464"|January 3, 1927<ref>{{Cite news |date=January 4, 1927 |title=State Regime Inducted and Session Opens |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-baldridge-inaugurate/130119772/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183559/https://www.newspapers.com/article/the-idaho-statesman-baldridge-inaugurate/130119772/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 5, 1931<br>{{small|(1464 days; retired)}}
+|rowspan="4"|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1926 Idaho gubernatorial election|1926]]
+|{{sortname|Oscar|Hailey}}
+|- style="height:2em;"
+|rowspan="3"|[[1928 Idaho gubernatorial election|1928]]
+|{{sortname|W. B.|Kinne}}<br />{{small|(died October 1, 1929)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Oscar|Hailey}}<br />{{small|(appointed October 25, 1929)}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|15
+|rowspan="3" data-sort-value="Ross, C. Ben"|[[File:C. Ben Ross (Idaho Governor).jpg|75px]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[C. Ben Ross]]'''<br>{{small|(1876–1946)}}<br>{{sfn|Sobel|1978|p=350}}<ref name="nga-ross">{{cite web |title=Charles Benjamin Ross |url=https://www.nga.org/governor/charles-benjamin-ross/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261015015044/https://www.nga.org/governor/charles-benjamin-ross/ |archive-date=October 15, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2192"|January 5, 1931<ref>{{Cite news |date=January 6, 1931 |title=C. Ben Ross, Idaho's Native Son, Becomes State's 15th Governor at Bright Inaugural Ceremony |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-ross-inaugurated-jan/130119808/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183604/https://www.newspapers.com/article/the-idaho-statesman-ross-inaugurated-jan/130119808/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1937<br>{{small|(2192 days; retired)}}{{efn|Ross instead [[1936 United States Senate elections|ran unsuccessfully]] for the [[United States Senate]].}}
+|rowspan="3"|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|[[1930 Idaho gubernatorial election|1930]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|G. P.|Mix}}
+|- style="height:2em;"
+|[[1932 Idaho gubernatorial election|1932]]
+|{{sortname|George|Hill|dab=Idaho politician}}
+|- style="height:2em;"
+|[[1934 Idaho gubernatorial election|1934]]
+|{{sortname|G. P.|Mix}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Clark, Barzilla"|[[File:Barzilla W. Clark (Idaho Governor).jpg|75px]]
+|'''[[Barzilla W. Clark]]'''<br>{{small|(1880–1943)}}<br>{{sfn|Sobel|1978|p=351}}<ref name="nga-clark-barzilla">{{Cite web |title=Barzilla Worth Clark |url=https://www.nga.org/governor/barzilla-worth-clark/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260811142816/https://www.nga.org/governor/barzilla-worth-clark/ |archive-date=August 11, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 4, 1937<ref>{{Cite news |last=Miller |first=H. H. |date=January 5, 1937 |title=Governor Clark Takes Office As Idaho Legislature Meets To Ponder State Problems |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-clark-inaugurated-ja/130119852/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816190625/https://www.newspapers.com/article/the-idaho-statesman-clark-inaugurated-ja/130119852/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1939<br>{{small|(729 days;<br>lost nomination)}}{{efn|Clark lost the Democratic nomination to [[C. Ben Ross]].{{sfn|Sobel|1978|p=351}}}}
+|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|[[1936 Idaho gubernatorial election|1936]]
+|{{sortname|Charles C.|Gossett}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Bottolfsen, C. A."| [[File:C. A. Bottolfsen (Idaho Governor).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[C. A. Bottolfsen]]'''<br>{{small|(1890–1964)}}<br>{{sfn|Sobel|1978|pp=352–353}}<ref name="nga-bottolfsen">{{cite web |title=Clarence A. Bottolfsen |url=https://www.nga.org/governor/clarence-a-bottolfsen/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710082812/https://www.nga.org/governor/clarence-a-bottolfsen/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 2, 1939<ref>{{Cite news |last=Bottcher |first=Walter R. |date=January 3, 1939 |title=Bottolfsen Sworn In As Governor While Guns Boom Salute |page=1 |newspaper=[[Idaho Statesman]] |agency=Associated Press |url=https://www.newspapers.com/article/the-idaho-statesman-bottolfsen-inaugurat/130119896/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816190610/https://www.newspapers.com/article/the-idaho-statesman-bottolfsen-inaugurat/130119896/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 6, 1941<br>{{small|(736 days; lost election)}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1938 Idaho gubernatorial election|1938]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Donald S.|Whitehead}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Clark, Chase"| [[File:Chase A. Clark (Idaho governor).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Chase Clark]]'''<br>{{small|(1883–1966)}}<br>{{sfn|Sobel|1978|p=353}}<ref name="nga-clark-chase">{{Cite web |title=Chase Addison Clark |url=https://www.nga.org/governor/chase-addison-clark/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260218064528/https://www.nga.org/governor/chase-addison-clark/ |archive-date=February 18, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 6, 1941<ref>{{Cite news |date=January 7, 1941 |title=Idaho Inducts New Administration; Governor Chase Clark To Address Members of Legislature Today at Noon |page=1 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-clark-inaugurated-ja/130119952/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816192109/https://www.newspapers.com/article/the-idaho-statesman-clark-inaugurated-ja/130119952/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1943<br>{{small|(729 days; lost election)}}
+|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|[[1940 Idaho gubernatorial election|1940]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Charles C.|Gossett}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Bottolfsen, C. A."| [[File:C. A. Bottolfsen (Idaho Governor).jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[C. A. Bottolfsen]]'''<br>{{small|(1890–1964)}}<br>{{sfn|Sobel|1978|pp=352–353}}<ref name="nga-bottolfsen" />
+|data-sort-value="729"|January 4, 1943<ref>{{Cite news |date=January 5, 1943 |title=Colorful Ceremonies Install New Chiefs at Idaho Statehouse |page=1 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-bottolfsen-inaugurat/130119994/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183558/https://www.newspapers.com/article/the-idaho-statesman-bottolfsen-inaugurat/130119994/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1945<br>{{small|(729 days; retired)}}{{efn|Bottolfsen instead [[1944 United States Senate election in Idaho|ran unsuccessfully]] for the [[United States Senate]].}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1942 Idaho gubernatorial election|1942]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Edwin|Nelson|dab=politician}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Gossett, Charles"|[[File:Charlescgossett.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Charles C. Gossett]]'''<br>{{small|(1888–1974)}}<br>{{sfn|Sobel|1978|p=354}}<ref name="nga-gossett">{{cite web |title=Charles Clinton Gossett |url=https://www.nga.org/governor/charles-clinton-gossett/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260720074640/https://www.nga.org/governor/charles-clinton-gossett/ |archive-date=July 20, 2026 |url-status=live}}</ref>
+|data-sort-value="321"|January 1, 1945<ref>{{Cite news |last=Corlett |first=John |date=January 2, 1945 |title=Ceremonies Usher In Officials |page=1 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |agency=United Press |url=https://www.newspapers.com/article/the-idaho-statesman-gossett-inaugurated/130120041/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816193612/https://www.newspapers.com/article/the-idaho-statesman-gossett-inaugurated/130120041/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 17, 1945<br>{{small|(321 days; resigned)}}{{efn|Gossett resigned to let Lieutenant Governor Williams succeed him and then appoint him to the [[United States Senate]].{{sfn|Sobel|1978|p=354}}<ref>{{Cite news |date=November 29, 1945 |title=Idaho Shake-Up Draws Criticism |newspaper=[[Spokane Daily Chronicle]] |agency=Associated Press |location=Boise, Idaho |publication-place=Spokane, Washington |page=3 |url=https://www.newspapers.com/article/spokane-chronicle-idaho-shake-up-draws-c/208842528/ |access-date=October 22, 2026 |via=Newspapers.com}}</ref>}}
+|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|[[1944 Idaho gubernatorial election|1944]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Arnold|Williams|dab=American politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Williams, Arnold"|[[File:Arnold Williams (Idaho Governor).jpg|75px]]
+|rowspan="2"|'''[[Arnold Williams (American politician)|Arnold Williams]]'''<br>{{small|(1898–1970)}}<br>{{sfn|Sobel|1978|p=355}}<ref name="nga-williams">{{cite web |title=Arnold Williams |url=https://www.nga.org/governor/arnold-williams/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607075159/https://www.nga.org/governor/arnold-williams/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="416"|November 17, 1945<ref>{{Cite news |last=Wood |first=Charles D. |date=November 17, 1945 |location=Boise, Idaho |publication-place=Twin Falls, Idaho |publication-date=November 18, 1945 |title=Williams In As Governor |page=1 |newspaper=[[Times-News (Idaho)|Times-News]] |agency=Associated Press |url=https://www.newspapers.com/article/the-times-news-williams-succeeds-gossett/130120162/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816193614/https://www.newspapers.com/article/the-times-news-williams-succeeds-gossett/130120162/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 6, 1947<br>{{small|(416 days; lost election)}}
+|rowspan="2"|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|A. R.|McCabe}}<br />{{small|(appointed March 20, 1946)}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Robins, C. A."|[[File:C. A. Robins (Idaho Governor) (cropped).jpg|75px]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[C. A. Robins]]'''<br>{{small|(1884–1970)}}<br>{{sfn|Sobel|1978|pp=355–356}}<ref name="nga-robins">{{cite web |title=Charles Armington Robins |url=https://www.nga.org/governor/charles-armington-robins/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612143004/https://www.nga.org/governor/charles-armington-robins/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 6, 1947<ref>{{Cite news |date=January 7, 1947 |title=Simple Inaugural Ceremonies Are Held in Capital |page=1 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-robins-inaugurated-j/130120202/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183608/https://www.newspapers.com/article/the-idaho-statesman-robins-inaugurated-j/130120202/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 1951<br>{{small|(1457 days; term-limited)}}{{efn|Under a 1944 amendment to the constitution, governors could succeed themselves.{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-amendment-id-58198 1944 art. IV, § 1]}}|name=limits-1944}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1946 Idaho gubernatorial election|1946]]{{efn|First term under a constitution amendment which lengthened terms to four years.{{sfn|Idaho Const.|loc=[https://50constitutions.org/id/constitution/section-amendment-id-58198 1944 art. IV, § 1]}}}}
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Donald S.|Whitehead}}
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Jordan, Len"|[[File:Lenjordan.jpg|75px]]
+|'''[[Len Jordan]]'''<br>{{small|(1899–1983)}}<br>{{sfn|Sobel|1978|pp=356–357}}<ref name="nga-jordan">{{cite web |title=Leonard Beck Jordan |url=https://www.nga.org/governor/leonard-beck-jordan/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260310220937/https://www.nga.org/governor/leonard-beck-jordan/ |archive-date=March 10, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 1, 1951<ref>{{Cite news |last=Corlett |first=John |date=January 2, 1951 |title=Len Jordan Takes Oath As Idaho's New Governor |page=1 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-jordan-inaugurated-j/130120256/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816192115/https://www.newspapers.com/article/the-idaho-statesman-jordan-inaugurated-j/130120256/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 3, 1955<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1944}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1950 Idaho gubernatorial election|1950]]
+|{{sortname|Edson|Deal}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|24
+|rowspan="3" data-sort-value="Smylie, Robert"|[[File:Robert E. Smylie.jpg|75px]]
+|rowspan="3"|'''[[Robert E. Smylie]]'''<br>{{small|(1914–2004)}}<br>{{sfn|Sobel|1978|p=358}}<ref name="nga-smylie">{{cite web |title=Robert E. Smylie |url=https://www.nga.org/governor/robert-e-smylie-2/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606073050/https://www.nga.org/governor/robert-e-smylie-2/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="4383"|January 3, 1955<ref>{{Cite news |date=January 4, 1955 |title=Idaho Inaugurates Governor; 33rd Legislature Is Opened |page=1 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-smylie-inaugurated-j/130120306/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816185119/https://www.newspapers.com/article/the-idaho-statesman-smylie-inaugurated-j/130120306/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1967<br>{{small|(4383 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=358}}
+|rowspan="3"|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1954 Idaho gubernatorial election|1954]]
+|{{sortname|J. Berkeley|Larsen}}
+|- style="height:2em;"
+|[[1958 Idaho gubernatorial election|1958]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|William|Drevlow}}{{efn|Represented the [[Idaho Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+|[[1962 Idaho gubernatorial election|1962]]
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Samuelson, Don"|[[File:Don Samuelson.jpg|75px]]
+|'''[[Don Samuelson]]'''<br>{{small|(1913–2000)}}<br>{{sfn|Sobel|1978|p=359}}<ref name="nga-samuelson">{{cite web |title=Don William Samuelson |url=https://www.nga.org/governor/don-william-samuelson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261005173854/https://www.nga.org/governor/don-william-samuelson/ |archive-date=October 5, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 2, 1967<ref>{{Cite news |last=Corlett |first=John |date=January 3, 1967 |title=Don Samuelson Pledges To Meet Needs of Gem State With Frugal Government |page=1 |newspaper=[[Idaho Statesman|Idaho Daily Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-samuelson-inaugurate/130120340/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816192116/https://www.newspapers.com/article/the-idaho-statesman-samuelson-inaugurate/130120340/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1971<br>{{small|(1464 days; lost election)}}
+|[[Idaho Republican Party|Republican]]{{sfn|Kallenbach|1977|p=153}}
+|[[1966 Idaho gubernatorial election|1966]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Jack M.|Murphy}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Andrus, Cecil"|[[File:Cecil D Andrus.png|75px]]
+|rowspan="8" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Cecil Andrus]]'''<br>{{small|(1931–2017)}}<br>{{sfn|Sobel|1978|p=360}}{{sfn|Mullaney|1994|pp=107–110}}<ref name="nga-andrus">{{cite web |title=Cecil Dale Andrus |url=https://www.nga.org/governor/cecil-dale-andrus/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260716004725/https://www.nga.org/governor/cecil-dale-andrus/ |archive-date=July 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2213"|January 4, 1971<ref>{{Cite news |date=January 5, 1971 |title=Talk Wins Applause |page=2 |newspaper=[[Times-News (Idaho)|Times-News]] |agency=United Press International |location=Boise, Idaho |publication-place=Twin Falls, Idaho |url=https://www.newspapers.com/article/the-times-news-andrus-inaugurated-januar/130120482/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183604/https://www.newspapers.com/article/the-times-news-andrus-inaugurated-januar/130120482/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 24, 1977<br>{{small|(2213 days; resigned)}}{{efn|Andrus resigned, having been confirmed as [[United States Secretary of the Interior]].{{sfn|Sobel|1978|p=360}}}}
+|rowspan="2"|[[Idaho Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=153}}
+|[[1970 Idaho gubernatorial election|1970]]
+|- style="height:2em;"
+|[[1974 Idaho gubernatorial election|1974]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John|Evans|dab=Idaho politician}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|27
+|rowspan="4" data-sort-value="Evans, John"|[[File:John V. Evans (Idaho Governor).jpg|75px]]
+|rowspan="4"|'''[[John Evans (Idaho politician)|John Evans]]'''<br>{{small|(1925–2014)}}<br>{{sfn|Sobel|1978|p=361}}<ref name="nga-evans">{{cite web |title=John Victor Evans |url=https://www.nga.org/governor/john-victor-evans/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260811015356/https://www.nga.org/governor/john-victor-evans/ |archive-date=August 11, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="3634"|January 24, 1977<ref>{{Cite news |last=Ahrens |first=Steve |date=January 25, 1977 |title=Evans: Guard Environment |page=1A |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-evans-succeeds-andru/130120566/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816185121/https://www.newspapers.com/article/the-idaho-statesman-evans-succeeds-andru/130120566/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 5, 1987<br>{{small|(3634 days; retired)}}{{efn|Evans instead [[1986 United States Senate election in Idaho|ran unsuccessfully]] for the [[United States Senate]].}}
+|rowspan="4"|[[Idaho Democratic Party|Democratic]]<ref name="nga-evans" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William J.|Murphy|dab=Idaho politician}}<br />{{small|(appointed January 28, 1977)}}
+|- style="height:2em;"
+|[[1978 Idaho gubernatorial election|1978]]
+|rowspan="6" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Phil|Batt}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+|[[1982 Idaho gubernatorial election|1982]]
+|{{sortname|David|Leroy}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Andrus, Cecil"|[[File:Cecil D Andrus.png|75px]]
+|rowspan="2"|'''[[Cecil Andrus]]'''<br>{{small|(1931–2017)}}<br>{{sfn|Sobel|1978|p=360}}{{sfn|Mullaney|1994|pp=107–110}}<ref name="nga-andrus" />
+|rowspan="2" data-sort-value="2920"|January 5, 1987<ref>{{Cite news |last=Stapilus |first=Randy |date=January 6, 1987 |title=Andrus Calls for 'Idaho of Opportunity' |page=1A |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-andrus-inaugurated-j/130120611/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816183607/https://www.newspapers.com/article/the-idaho-statesman-andrus-inaugurated-j/130120611/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 2, 1995<br>{{small|(2920 days; retired)}}
+|rowspan="2"|[[Idaho Democratic Party|Democratic]]<ref name="nga-andrus" />
+|[[1986 Idaho gubernatorial election|1986]]
+|rowspan="4"|{{sortname|Butch|Otter}}{{efn|name=lt-rep}}<br />{{small|(resigned January 3, 2001)}}
+|- style="height:2em;"
+|[[1990 Idaho gubernatorial election|1990]]
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Batt, Phil"|[[File:Phil Batt 2010 (cropped).jpg|75px]]
+|rowspan="14" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Phil Batt]]'''<br>{{Small|(1927–2023)}}<br><ref name="nga-batt">{{cite web |title=Philip E. Batt |url=https://www.nga.org/governor/philip-e-batt/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510115902/https://www.nga.org/governor/philip-e-batt/ |archive-date=May 10, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 2, 1995<ref>{{Cite news |last=Prichard |first=Ron |date=January 3, 1995 |title=Call Him Gov. Batt Now |page=1A |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-batt-inaugurated-jan/130120652/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816195117/https://www.newspapers.com/article/the-idaho-statesman-batt-inaugurated-jan/130120652/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 4, 1999<br>{{small|(1464 days; retired)}}
+|[[Idaho Republican Party|Republican]]<ref name="nga-batt" />
+|[[1994 Idaho gubernatorial election|1994]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|30
+|rowspan="4" data-sort-value="Kempthorne, Dirk"|[[File:Dirkkempthornesenate.jpg|75px]]
+|rowspan="4"|'''[[Dirk Kempthorne]]'''<br>{{Small|(1951–2026)}}<br><ref name="nga-kempthorne">{{cite web |title=Dirk Kempthorne |url=https://www.nga.org/governor/dirk-kempthorne/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260919065925/https://www.nga.org/governor/dirk-kempthorne/ |archive-date=September 19, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="2700"|January 4, 1999<ref>{{Cite news |date=January 5, 1999 |title=Idaho Has New Governor |page=1 |newspaper=[[Times-News (Idaho)|Times-News]] |agency=Associated Press |location=Boise, Idaho |publication-place=Twin Falls, Idaho |url=https://www.newspapers.com/article/the-times-news-kempthorne-inaugurated-ja/130120747/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816185117/https://www.newspapers.com/article/the-times-news-kempthorne-inaugurated-ja/130120747/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />May 26, 2006<br>{{small|(2700 days; resigned)}}{{efn|Kempthorne resigned, having been confirmed as [[United States Secretary of the Interior]].<ref name="nga-kempthorne" />}}
+|rowspan="4"|[[Idaho Republican Party|Republican]]<ref name="nga-kempthorne" />
+|rowspan="3"|[[1998 Idaho gubernatorial election|1998]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Jack|Riggs}}<br />{{small|(appointed January 30, 2001)}}
+|- style="height:2em;"
+|[[2002 Idaho gubernatorial election|2002]]
+|{{sortname|Jim|Risch}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Risch, Jim"|[[File:James E. Risch, official Senate photo portrait, 2009.jpg|75px]]
+|rowspan="2"|'''[[Jim Risch]]'''<br>{{Small|({{Abbr|b.|born in}} 1943)}}<br><ref name="nga-risch">{{cite web |title=James E. Risch |url=https://www.nga.org/governor/james-e-risch/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260725164441/https://www.nga.org/governor/james-e-risch/ |archive-date=July 25, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="221"|May 26, 2006<ref>{{Cite news |last1=Hahn |first1=Gregory |last2=Roberts |first2=Bill |date=May 27, 2006 |title=Kempthorne, Risch Accept New Jobs |page=1 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-risch-succeeds-kempt/130120813/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816192117/https://www.newspapers.com/article/the-idaho-statesman-risch-succeeds-kempt/130120813/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 1, 2007<br>{{small|(221 days; retired)}}{{efn|Risch was instead elected lieutenant governor, having won the Republican nomination before Kempthorne's resignation.<ref>{{Cite news |last=Ridler |first=Keith |date=May 27, 2006 |title=Risch Idaho's 31st Governor |page=3 |location=Boise, Idaho |publication-place=Twin Falls, Idaho |newspaper=[[Times-News (Idaho)|Times-News]] |agency=Associated Press |url=https://www.newspapers.com/article/the-times-news-risch-idahos-31st-govern/119541169/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230926211914/https://www.newspapers.com/article/the-times-news-risch-idahos-31st-govern/119541169/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|rowspan="2"|[[Idaho Republican Party|Republican]]<ref name="nga-risch" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Mark|Ricks}}<br />{{small|(appointed June 15, 2006)}}
+|- style="height:2em;"
+!rowspan="5" scope="rowgroup"|32
+|rowspan="5" data-sort-value="Otter, Butch"|[[File:Butchotter.jpg|75px]]
+|rowspan="5"|'''[[Butch Otter]]'''<br>{{Small|({{Abbr|b.|born in}} 1942)}}<br><ref name="nga-otter">{{cite web |title=C.L. "Butch" Otter |url=https://www.nga.org/governor/c-l-butch-otter/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260930093225/https://www.nga.org/governor/c-l-butch-otter/ |archive-date=September 30, 2026 |url-status=live}}</ref>
+|rowspan="5" data-sort-value="4390"|January 1, 2007{{efn|Otter took the oath of office ahead of time, to take effect at 12:01am on January 1.<ref>{{Cite news |last=Kreller |first=Kathleen |date=January 2, 2007 |title=Otter Sworn In Again Before Family at Simplot Mansion |page=3 |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman-otter-inaugurated-ja/130120901/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816193612/https://www.newspapers.com/article/the-idaho-statesman-otter-inaugurated-ja/130120901/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />January 7, 2019<br>{{small|(4390 days; retired)}}
+|rowspan="5"|[[Idaho Republican Party|Republican]]<ref name="nga-otter" />
+|rowspan="3"|[[2006 Idaho gubernatorial election|2006]]
+|{{sortname|Jim|Risch}}<br />{{small|(resigned January 3, 2009)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Brad|Little}}<br />{{small|(appointed January 6, 2009)}}
+|- style="height:2em;"
+|[[2010 Idaho gubernatorial election|2010]]
+|- style="height:2em;"
+|[[2014 Idaho gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Little, Brad"|[[File:Brad Little official photo.jpg|75px]]
+|rowspan="2"|'''[[Brad Little]]'''<br>{{Small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-little">{{cite web |title=Brad Little |url=https://www.nga.org/governor/brad-little/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261001214511/https://www.nga.org/governor/brad-little/ |archive-date=October 1, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|7|duration=on|format=no}}"|January 7, 2019<ref>{{Cite news |last=Sewell |first=Cynthia |date=January 8, 2019 |title=Governor Outlines Idaho's 'Incredible Trajectory,' His Education Plans |page=1A |newspaper=[[Idaho Statesman]] |url=https://www.newspapers.com/article/the-idaho-statesman/114473658/ |access-date=October 22, 2026 |archive-url=https://web.archive.org/web/20230816195118/https://www.newspapers.com/article/the-idaho-statesman/114473658/ |archive-date=August 16, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />Incumbent{{efn|Little's second term began on January 6, 2023,<ref>{{Cite news |last=Suppe |first=Ryan |date=January 6, 2023 |location=Boise, Idaho |publication-place=Spokane, Washington |title=Idaho Gov. Little pledges civility, integrity as he's inaugurated for 2nd term |url=https://www.spokesman.com/stories/2023/jan/06/idaho-gov-little-pledges-civility-integrity-as-hes/ |access-date=October 22, 2026 |website=[[The Spokesman-Review]] |archive-url=https://web.archive.org/web/20230107045737/https://www.spokesman.com/stories/2023/jan/06/idaho-gov-little-pledges-civility-integrity-as-hes/ |archive-date=January 7, 2023 |url-status=live}}</ref> and [[2026 Idaho gubernatorial election|will expire]] on January 4, 2027.}}<br>{{small|(in office {{Duration in days nts|2019|1|7|duration=on|format=no}} days)}}
+|rowspan="2"|[[Idaho Republican Party|Republican]]<ref name="nga-little" />
+|[[2018 Idaho gubernatorial election|2018]]
+|{{sortname|Janice|McGeachin}}
+|- style="height:2em;"
+|[[2022 Idaho gubernatorial election|2022]]
+|{{sortname|Scott|Bedke}}
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Idaho governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1862.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1870
+ScaleMinor = unit:year increment:1 start:1863
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1878 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1863.19 till:1863.92 color:noparty text:"William H. Wallace"
+ from:1864.16 till:1866.45 color:noparty text:"Caleb Lyon"
+ from:1866.27 till:1870.54 color:noparty text:"David W. Ballard"
+ from:1870.24 till:1870.43 color:noparty text:"Samuel Bard"
+ from:1870.43 till:1870.92 color:noparty text:"Gilman Marston"
+ from:1871.03 till:1871.3 color:noparty text:"Alexander H. Conner"
+ from:1871.3 till:1871.75 color:noparty text:"Thomas M. Bowen"
+ from:1871.81 till:1875.93 color:noparty text:"Thomas W. Bennett"
+ from:1875.96 till:1876.5 color:noparty text:"David P. Thompson"
+ from:1876.56 till:1880.56 color:noparty text:"Mason Brayman"
+ from:1880.53 till:1883.17 color:noparty text:"John Baldwin Neil"
+ from:1883.17 till:1883.97 color:noparty text:"John N. Irwin"
+ from:1884.23 till:1885.5 color:noparty text:"William M. Bunn"
+ from:1885.75 till:1889.25 color:noparty text:"Edward A. Stevenson"
+ from:1890.94 till:1890.97 color:rep text:"George L. Shoup"
+ from:1890.97 till:1893.01 color:rep text:"N. B. Willey"
+ from:1893.01 till:1897.01 color:rep text:"William J. McConnell"
+ from:1897.01 till:1901.02 color:dem text:"Frank Steunenberg"
+ from:1901.02 till:1903.01 color:dem text:"Frank W. Hunt"
+ from:1903.01 till:1905.01 color:rep text:"John T. Morrison"
+ from:1905.01 till:1909.01 color:rep text:"Frank R. Gooding"
+ from:1909.01 till:1911.01 color:rep text:"James H. Brady"
+ from:1911.01 till:1913.02 color:dem text:"James H. Hawley"
+ from:1913.02 till:1915.01 color:rep text:"John M. Haines"
+ from:1915.01 till:1919.02 color:dem text:"Moses Alexander"
+ from:1919.02 till:1923 color:rep text:"D. W. Davis"
+ from:1923 till:1927.01 color:rep text:"Charles C. Moore"
+ from:1927.01 till:1931.01 color:rep text:"H. C. Baldridge"
+ from:1931.01 till:1937.01 color:dem text:"C. Ben Ross"
+ from:1937.01 till:1939.01 color:dem text:"Barzilla W. Clark"
+ from:1943.01 till:1945 color:rep text:"C. A. Bottolfsen"
+ from:1941.02 till:1943.01 color:dem text:"Chase Clark"
+ from:1945 till:1945.88 color:dem text:"Charles C. Gossett"
+ from:1945.88 till:1947.02 color:dem text:"Arnold Williams"
+ from:1947.02 till:1951 color:rep text:"C. A. Robins"
+ from:1951 till:1955.01 color:rep text:"Leonard B. Jordan"
+ from:1955.01 till:1967.01 color:rep text:"Robert E. Smylie"
+ from:1967.01 till:1971.01 color:rep text:"Don Samuelson"
+ from:1987.01 till:1995.01 color:dem text:"Cecil Andrus"
+ from:1977.07 till:1987.01 color:dem text:"John Evans"
+ from:1995.01 till:1999.01 color:rep text:"Phil Batt"
+ from:1999.01 till:2006.4 color:rep text:"Dirk Kempthorne"
+ from:2006.4 till:2007 color:rep text:"Jim Risch"
+ from:2007 till:2019.02 color:rep text:"Butch Otter"
+ from:2019.02 till:$now color:rep text:"Brad Little"
+
+LineData=
+ from:1889.25 till:1890.94 atpos:562 color:noparty width:6 # GLS noparty
+ from:1939.01 till:1941.02 atpos:281 color:rep width:6 # CAB 1st term
+ from:1971.01 till:1977.07 atpos:140 color:dem width:6 # CA 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==Electoral history (1950–)==
+{| class="wikitable sortable" style="line-height:1.4em; text-align:center"
+! rowspan="2" |Year
+! colspan="4" scope="col" |[[Democratic Party (United States)|Democratic]] nominee
+! colspan="4" scope="col" |[[Republican Party (United States)|Republican]] nominee
+! colspan="4" scope="col" |Independent candidate
+! colspan="4" scope="col" |[[Libertarian Party (United States)|Libertarian]] nominee
+! colspan="4" scope="col" |[[Constitution Party (United States)|Constitution]] nominee
+! colspan="4" scope="col" |Other candidate
+|-
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+! colspan="2" |Candidate
+! data-sort-type="number" |#
+! data-sort-type="number" |%
+|-
+| [[1950 Idaho gubernatorial election|1950]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Calvin E. Wright]]
+| 97,150
+| 47.44%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Len Jordan]]'''
+| '''107,642'''
+| '''52.56%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1954 Idaho gubernatorial election|1954]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Clark Hamilton]]
+| 104,647
+| 45.76%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Robert E. Smylie]]'''
+| '''124,038'''
+| '''54.24%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1958 Idaho gubernatorial election|1958]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Alfred M. Derr]]
+| 117,236
+| 49.04%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Robert E. Smylie]]'''
+| '''121,810'''
+| '''50.96%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1962 Idaho gubernatorial election|1962]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Vernon K. Smith]]
+| 115,876
+| 45.36%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Robert E. Smylie]]'''
+| '''139,578'''
+| '''54.64%'''
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1966 Idaho gubernatorial election|1966]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Cecil Andrus]]
+| 93,744
+| 37.11%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Don Samuelson]]'''
+| '''104,586'''
+| '''41.41%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Perry Swisher
+| 30,913
+| 12.24%
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|Nonpartisan}}" |
+| {{nowrap|Philip Jungert<br>(Independent)}}
+| 23,139
+| 9.16%
+|-
+| [[1970 Idaho gubernatorial election|1970]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Cecil Andrus]]'''
+| '''128,004'''
+| '''52.22%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Don Samuelson]]
+| 117,108
+| 47.78%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1974 Idaho gubernatorial election|1974]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Cecil Andrus]]'''
+| '''184,142'''
+| '''70.92%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Jack M. Murphy]]
+| 68,731
+| 26.47%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|American Party (1969)}}" |
+| Nolan Victor<br>([[American Party of the United States|American]])
+| 6,759
+| 2.60%
+|-
+| [[1978 Idaho gubernatorial election|1978]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John Evans (Idaho politician)|John Evans]]'''
+| '''169,540'''
+| '''58.75%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Allan Larsen]]
+| 114,149
+| 39.56%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| bgcolor="{{party color|American Party (1969)}}" |
+| {{nowrap|Wayne Loveless<br>([[American Party of the United States|American]])}}
+| 4,877
+| 1.69%
+|-
+| [[1982 Idaho gubernatorial election|1982]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[John Evans (Idaho politician)|John Evans]]'''
+| '''165,365'''
+| '''50.64%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Phil Batt]]
+| 161,157
+| 49.36%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1986 Idaho gubernatorial election|1986]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Cecil Andrus]]'''
+| '''193,429'''
+| '''49.93%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[David Leroy]]
+| 189,794
+| 48.99%
+| bgcolor="{{party color|Nonpartisan}}" |
+| James Miller
+| 4,203
+| 1.08%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1990 Idaho gubernatorial election|1990]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| '''[[Cecil Andrus]]'''
+| '''218,673'''
+| '''68.21%'''
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| [[Roger Fairchild]]
+| 101,937
+| 31.79%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1994 Idaho gubernatorial election|1994]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Larry Echo Hawk]]
+| 181,363
+| 43.88%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Phil Batt]]'''
+| '''216,123'''
+| '''52.29%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Ronald D. Rankin
+| 15,793
+| 3.82%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[1998 Idaho gubernatorial election|1998]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Robert C. Huntley]]
+| 110,815
+| 29.07%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Dirk Kempthorne]]'''
+| '''258,095'''
+| '''67.70%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Peter Rickards
+| 12,338
+| 3.24%
+| colspan=4| –
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2002 Idaho gubernatorial election|2002]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Jerry Brady]]
+| 171,711
+| 41.73%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Dirk Kempthorne]]'''
+| '''231,566'''
+| '''56.28%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Daniel L.J. Adams
+| 8,187
+| 1.99%
+| colspan=4| –
+| colspan=4| –
+|-
+| [[2006 Idaho gubernatorial election|2006]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Jerry Brady]]
+| 198,845
+| 44.11%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Butch Otter]]'''
+| '''237,437'''
+| '''52.67%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Ted Dunlap
+| 7,241
+| 1.61%
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| [[Pro-Life (politician)|Marvin Richardson]]
+| 7,309
+| 1.62%
+| colspan=4| –
+|-
+| [[2010 Idaho gubernatorial election|2010]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Keith G. Allred]]
+| 148,680
+| 32.85%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Butch Otter]]'''
+| '''267,483'''
+| '''59.11%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Jana Kemp
+| 26,655
+| 5.89%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Ted Dunlap
+| 5,867
+| 1.30%
+| colspan=4| –
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Pro-Life (politician)|Pro-Life]]<br>(Independent)
+| 3,850
+| 0.85%
+|-
+| [[2014 Idaho gubernatorial election|2014]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[A.J. Balukoff]]
+| 169,556
+| 38.55%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Butch Otter]]'''
+| '''235,405'''
+| '''53.52%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| Jill Humble
+| 8,801
+| 2.00%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| John Bujak
+| 17,884
+| 4.07%
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Steve Pankey
+| 5,219
+| 1.19%
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Pro-Life (politician)|Pro-Life]]<br>(Independent)
+| 2,870
+| 0.65%
+|-
+| [[2018 Idaho gubernatorial election|2018]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Paulette Jordan]]
+| 231,081
+| 38.19%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Brad Little]]'''
+| '''361,661'''
+| '''59.77%'''
+| colspan=4| –
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Bev Boeck
+| 6,551
+| 1.08%
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Walter Bayes
+| 5,787
+| 0.96%
+| colspan=4| –
+|-
+| [[2022 Idaho gubernatorial election|2022]]
+| bgcolor="{{party color|Democratic Party (United States)}}" |
+| [[Stephen Heidt]]
+| 120,160
+| 20.28%
+| bgcolor="{{party color|Republican Party (United States)}}" |
+| '''[[Brad Little]]'''
+| '''358,598'''
+| '''60.51%'''
+| bgcolor="{{party color|Nonpartisan}}" |
+| [[Ammon Bundy]]
+| 101,835
+| 17.18%
+| bgcolor="{{party color|Libertarian Party (United States)}}" |
+| Paul Sand
+| 6,714
+| 1.13%
+| bgcolor="{{party color|Constitution Party (United States)}}" |
+| Chantyrose Davison
+| 5,250
+| 0.89%
+| colspan=4| –
+|}
+
+==See also==
+{{Portal|Idaho|Politics}}
+*[[Gubernatorial lines of succession in the United States#Idaho]]
+*[[List of Idaho state legislatures]]
+*[[Elections in Idaho]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Governors of Idaho |url=https://www.nga.org/former-governors/idaho/ |access-date=October 22, 2026 |website=[[National Governors Association]]}}
+* {{Cite web |title=Past Governors (1890 through present) |url=https://gov.idaho.gov/past-governors/ |access-date=October 22, 2026 |website=Governor of Idaho}}
+* {{cite web |title=Idaho Constitution |url=https://50constitutions.org/id/constitution |ref={{sfnref|Idaho Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 12, 2026}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0}}
+* {{Cite book |last=Limbaugh |first=Ronald H. |url=https://archive.org/details/rockymountaincar0000limb |title=Rocky Mountain Carpetbaggers: Idaho's Territorial Governors, 1863–1890 |publisher=University Press of Idaho |year=1982 |isbn=0-89301-082-0 |location=Moscow, Idaho |access-date=February 21, 2023}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015 |access-date=July 10, 2019}}
+{{refend}}
+
+==External links==
+{{commons category | Governors of Idaho}}
+*[https://gov.idaho.gov/ Office of the Governor of Idaho]
+
+{{Governors of Idaho}}
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Idaho statewide elected officials}}
+{{Idaho}}
+
+{{featured list}}
+
+{{DEFAULTSORT:List Of Governors Of Idaho}}
+[[Category:Governors of Idaho| ]]
+[[Category:Lists of state governors of the United States|Idaho, Governors of]]
+[[Category:Lists of Idaho politicians|Governors]]
+[[Category:Idaho history-related lists|Governors]]

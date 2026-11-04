@@ -1,0 +1,781 @@
+[
+ {
+  "table": 0,
+  "num": "1",
+  "name": "Isaac Stevens",
+  "range": [
+   "March 17, 1853",
+   "May 13, 1857"
+  ],
+  "party": "{{sortname|Franklin|Pierce}}",
+  "title": null,
+  "acting": false,
+  "start": "1853-03-17",
+  "end": "1857-05-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "2",
+  "name": "Fayette McMullen",
+  "range": [
+   "May 13, 1857",
+   "March 5, 1859"
+  ],
+  "party": "{{sortname|James|Buchanan}}",
+  "title": null,
+  "acting": false,
+  "start": "1857-05-13",
+  "end": "1859-03-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "3",
+  "name": "Richard D. Gholson",
+  "range": [
+   "March 5, 1859",
+   "February 14, 1861"
+  ],
+  "party": "{{sortname|James|Buchanan}}",
+  "title": null,
+  "acting": false,
+  "start": "1859-03-05",
+  "end": "1861-02-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "—",
+  "name": "William H. Wallace",
+  "range": [
+   "April 9, 1861",
+   "July 8, 1861"
+  ],
+  "party": "{{sortname|Abraham|Lincoln}}",
+  "title": null,
+  "acting": false,
+  "start": "1861-04-09",
+  "end": "1861-07-08",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "4",
+  "name": "William Pickering",
+  "range": [
+   "December 19, 1861",
+   "November 21, 1866"
+  ],
+  "party": "{{sortname|Abraham|Lincoln}}",
+  "title": null,
+  "acting": false,
+  "start": "1861-12-19",
+  "end": "1866-11-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "5",
+  "name": "George Edward Cole",
+  "range": [
+   "November 21, 1866",
+   "March 1, 1867"
+  ],
+  "party": "{{sortname|Andrew|Johnson}}",
+  "title": null,
+  "acting": false,
+  "start": "1866-11-21",
+  "end": "1867-03-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "6",
+  "name": "Marshall F. Moore",
+  "range": [
+   "April 20, 1867",
+   "April 5, 1869"
+  ],
+  "party": "{{sortname|Andrew|Johnson}}",
+  "title": null,
+  "acting": false,
+  "start": "1867-04-20",
+  "end": "1869-04-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "7",
+  "name": "Alvan Flanders",
+  "range": [
+   "April 5, 1869",
+   "March 14, 1870"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1869-04-05",
+  "end": "1870-03-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "8",
+  "name": "Edward S. Salomon",
+  "range": [
+   "March 14, 1870",
+   "April 26, 1872"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1870-03-14",
+  "end": "1872-04-26",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "9",
+  "name": "Elisha P. Ferry",
+  "range": [
+   "April 26, 1872",
+   "April 26, 1880"
+  ],
+  "party": "{{sortname|Ulysses S.|Grant}}",
+  "title": null,
+  "acting": false,
+  "start": "1872-04-26",
+  "end": "1880-04-26",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "10",
+  "name": "William A. Newell",
+  "range": [
+   "April 26, 1880",
+   "July 2, 1884"
+  ],
+  "party": "{{sortname|Rutherford B.|Hayes}}",
+  "title": null,
+  "acting": false,
+  "start": "1880-04-26",
+  "end": "1884-07-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "11",
+  "name": "Watson C. Squire",
+  "range": [
+   "July 2, 1884",
+   "April 9, 1887"
+  ],
+  "party": "{{sortname|Chester A.|Arthur}}",
+  "title": null,
+  "acting": false,
+  "start": "1884-07-02",
+  "end": "1887-04-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "12",
+  "name": "Eugene Semple",
+  "range": [
+   "April 9, 1887",
+   "March 23, 1889"
+  ],
+  "party": "{{sortname|Grover|Cleveland}}",
+  "title": null,
+  "acting": false,
+  "start": "1887-04-09",
+  "end": "1889-03-23",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "13",
+  "name": "Miles Conway Moore",
+  "range": [
+   "March 23, 1889",
+   "November 18, 1889"
+  ],
+  "party": "{{sortname|Benjamin|Harrison}}",
+  "title": null,
+  "acting": false,
+  "start": "1889-03-23",
+  "end": "1889-11-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "1",
+  "name": "Elisha P. Ferry",
+  "range": [
+   "November 18, 1889",
+   "January 11, 1893"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1889-11-18",
+  "end": "1893-01-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "2",
+  "name": "John McGraw",
+  "range": [
+   "January 11, 1893",
+   "January 13, 1897"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1893-01-11",
+  "end": "1897-01-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "3",
+  "name": "John Rankin Rogers",
+  "range": [
+   "January 13, 1897",
+   "December 26, 1901"
+  ],
+  "party": "Populist",
+  "title": "Represented the Populist Party",
+  "acting": false,
+  "start": "1897-01-13",
+  "end": "1901-12-26",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "4",
+  "name": "Henry McBride",
+  "range": [
+   "December 26, 1901",
+   "January 11, 1905"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1901-12-26",
+  "end": "1905-01-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "5",
+  "name": "Albert E. Mead",
+  "range": [
+   "January 11, 1905",
+   "January 27, 1909"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1905-01-11",
+  "end": "1909-01-27",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "6",
+  "name": "Samuel G. Cosgrove",
+  "range": [
+   "January 27, 1909",
+   "March 28, 1909"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1909-01-27",
+  "end": "1909-03-28",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "7",
+  "name": "Marion E. Hay",
+  "range": [
+   "March 28, 1909",
+   "January 15, 1913"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1909-03-28",
+  "end": "1913-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "8",
+  "name": "Ernest Lister",
+  "range": [
+   "January 15, 1913",
+   "June 14, 1919"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1913-01-15",
+  "end": "1919-06-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "9",
+  "name": "Louis F. Hart",
+  "range": [
+   "June 14, 1919",
+   "January 14, 1925"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1919-06-14",
+  "end": "1925-01-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "10",
+  "name": "Roland H. Hartley",
+  "range": [
+   "January 14, 1925",
+   "January 11, 1933"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1925-01-14",
+  "end": "1933-01-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "11",
+  "name": "Clarence D. Martin",
+  "range": [
+   "January 11, 1933",
+   "January 15, 1941"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1933-01-11",
+  "end": "1941-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "12",
+  "name": "Arthur B. Langlie",
+  "range": [
+   "January 15, 1941",
+   "January 10, 1945"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1941-01-15",
+  "end": "1945-01-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "13",
+  "name": "Monrad Wallgren",
+  "range": [
+   "January 10, 1945",
+   "January 12, 1949"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1945-01-10",
+  "end": "1949-01-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "14",
+  "name": "Arthur B. Langlie",
+  "range": [
+   "January 12, 1949",
+   "January 16, 1957"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1949-01-12",
+  "end": "1957-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "15",
+  "name": "Albert Rosellini",
+  "range": [
+   "January 16, 1957",
+   "January 13, 1965"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1957-01-16",
+  "end": "1965-01-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "16",
+  "name": "Daniel J. Evans",
+  "range": [
+   "January 13, 1965",
+   "January 12, 1977"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1965-01-13",
+  "end": "1977-01-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "17",
+  "name": "Dixy Lee Ray",
+  "range": [
+   "January 12, 1977",
+   "January 14, 1981"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1977-01-12",
+  "end": "1981-01-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "18",
+  "name": "John Spellman",
+  "range": [
+   "January 14, 1981",
+   "January 16, 1985"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1981-01-14",
+  "end": "1985-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "19",
+  "name": "Booth Gardner",
+  "range": [
+   "January 16, 1985",
+   "January 13, 1993"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1985-01-16",
+  "end": "1993-01-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "20",
+  "name": "Mike Lowry",
+  "range": [
+   "January 13, 1993",
+   "January 15, 1997"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1993-01-13",
+  "end": "1997-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "21",
+  "name": "Gary Locke",
+  "range": [
+   "January 15, 1997",
+   "January 12, 2005"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1997-01-15",
+  "end": "2005-01-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "22",
+  "name": "Christine Gregoire",
+  "range": [
+   "January 12, 2005",
+   "January 16, 2013"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "2005-01-12",
+  "end": "2013-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "23",
+  "name": "Jay Inslee",
+  "range": [
+   "January 16, 2013",
+   "January 15, 2025"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "2013-01-16",
+  "end": "2025-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "24",
+  "name": "Bob Ferguson",
+  "range": [
+   "January 15, 2025",
+   "Incumbent"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "2025-01-15",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 3,
+  "num": "1952",
+  "name": "Arthur B. Langlie",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1956",
+  "name": "Albert Rosellini",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1960",
+  "name": "Albert Rosellini",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1964",
+  "name": "Daniel J. Evans",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1968",
+  "name": "Daniel J. Evans",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1972",
+  "name": "Daniel J. Evans",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1976",
+  "name": "Dixy Lee Ray",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1980",
+  "name": "John Spellman",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1984",
+  "name": "Booth Gardner",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1988",
+  "name": "Booth Gardner",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1992",
+  "name": "Mike Lowry",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "1996",
+  "name": "Gary Locke",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2000",
+  "name": "Gary Locke",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2004",
+  "name": "Christine Gregoire",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2008",
+  "name": "Christine Gregoire",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2012",
+  "name": "Jay Inslee",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2016",
+  "name": "Jay Inslee",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2020",
+  "name": "Jay Inslee",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ },
+ {
+  "table": 3,
+  "num": "2024",
+  "name": "Bob Ferguson",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ }
+]

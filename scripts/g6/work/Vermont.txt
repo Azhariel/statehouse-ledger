@@ -1,0 +1,85 @@
+0 | 1 |  | Thomas Chittenden | 1778-03-13 | 1789-10-13 | {{sortname|Joseph|Marsh}} | None
+0 | 2 |  | Moses Robinson | 1789-10-13 | 1790-10-20 | None | None
+0 | 3 |  | Thomas Chittenden | 1790-10-20 | 1791-03-04 | {{sortname|Peter|Olcott}} | None
+1 | 1 |  | Thomas Chittenden | 1791-03-05 | 1797-08-25 | No party | No parties
+1 | 2 |  | Paul Brigham | 1797-08-25 | 1797-10-16 | Democratic- Republican | Represented the Democratic-Republican Party
+1 | 3 |  | Isaac Tichenor | 1797-10-16 | 1807-10-09 | Federalist | Represented the Federalist Party
+1 | 4 |  | Israel Smith | 1807-10-09 | 1808-10-14 | Democratic- Republican | Represented the Democratic-Republican Party
+1 | 5 |  | Isaac Tichenor | 1808-10-14 | 1809-10-14 | Federalist | Represented the Federalist Party
+1 | 6 |  | Jonas Galusha | 1809-10-14 | 1813-10-23 | Democratic- Republican | Represented the Democratic-Republican Party
+1 | 7 |  | Martin Chittenden | 1813-10-23 | 1815-10-14 | Federalist | Represented the Federalist Party
+1 | 8 |  | Jonas Galusha | 1815-10-14 | 1820-10-13 | Democratic- Republican | Represented the Democratic-Republican Party
+1 | 9 |  | Richard Skinner | 1820-10-13 | 1823-10-10 | Democratic- Republican | None
+1 | 10 |  | Cornelius P. Van Ness | 1823-10-10 | 1826-10-13 | Democratic- Republican | None
+1 | 11 |  | Ezra Butler | 1826-10-13 | 1828-10-10 | National Republican | Represented the National Republican Party
+1 | 12 |  | Samuel C. Crafts | 1828-10-10 | 1831-10-18 | National Republican | None
+1 | 13 |  | William A. Palmer | 1831-10-18 | 1835-11-02 | Anti-Masonic | Represented the Anti-Masonic Party
+1 | 14 | ACT | Silas H. Jennison | 1835-11-02 | 1841-10-18 | Whig | Represented the Whig Party
+1 | 15 |  | Charles Paine | 1841-10-18 | 1843-10-13 | Whig | None
+1 | 16 |  | John Mattocks | 1843-10-13 | 1844-10-11 | Whig | None
+1 | 17 |  | William Slade | 1844-10-11 | 1846-10-09 | Whig | None
+1 | 18 |  | Horace Eaton | 1846-10-09 | 1848-10-19 | Whig | None
+1 | 19 |  | Carlos Coolidge | 1848-10-19 | 1850-10-12 | Whig | None
+1 | 20 |  | Charles K. Williams | 1850-10-12 | 1852-10-18 | Whig | None
+1 | 21 |  | Erastus Fairbanks | 1852-10-18 | 1853-11-01 | Whig | None
+1 | 22 |  | John S. Robinson | 1853-11-01 | 1854-10-13 | Democratic | Represented the Democratic Party
+1 | 23 |  | Stephen Royce | 1854-10-13 | 1856-10-10 | Whig | Represented the Whig Party
+1 | 24 |  | Ryland Fletcher | 1856-10-10 | 1858-10-15 | Republican | None
+1 | 25 |  | Hiland Hall | 1858-10-15 | 1860-10-12 | Republican | None
+1 | 26 |  | Erastus Fairbanks | 1860-10-12 | 1861-10-22 | Republican | None
+1 | 27 |  | Frederick Holbrook | 1861-10-22 | 1863-10-09 | Republican | None
+1 | 28 |  | J. Gregory Smith | 1863-10-09 | 1865-10-13 | Republican | None
+1 | 29 |  | Paul Dillingham | 1865-10-13 | 1867-10-13 | Republican | None
+1 | 30 |  | John B. Page | 1867-10-13 | 1869-10-16 | Republican | None
+1 | 31 |  | Peter T. Washburn | 1869-10-16 | 1870-02-07 | Republican | None
+1 | 32 |  | George Whitman Hendee | 1870-02-07 | 1870-10-06 | Republican | None
+1 | 33 |  | John Wolcott Stewart | 1870-10-06 | 1872-10-03 | Republican | Represented the Republican Party
+1 | 34 |  | Julius Converse | 1872-10-03 | 1874-10-08 | Republican | None
+1 | 35 |  | Asahel Peck | 1874-10-08 | 1876-10-05 | Republican | None
+1 | 36 |  | Horace Fairbanks | 1876-10-05 | 1878-10-03 | Republican | None
+1 | 37 |  | Redfield Proctor | 1878-10-03 | 1880-10-07 | Republican | None
+1 | 38 |  | Roswell Farnham | 1880-10-07 | 1882-10-05 | Republican | None
+1 | 39 |  | John L. Barstow | 1882-10-05 | 1884-10-02 | Republican | None
+1 | 40 |  | Samuel E. Pingree | 1884-10-02 | 1886-10-07 | Republican | None
+1 | 41 |  | Ebenezer J. Ormsbee | 1886-10-07 | 1888-10-04 | Republican | None
+1 | 42 |  | William P. Dillingham | 1888-10-04 | 1890-10-02 | Republican | None
+1 | 43 |  | Carroll S. Page | 1890-10-02 | 1892-10-06 | Republican | None
+1 | 44 |  | Levi K. Fuller | 1892-10-06 | 1894-10-04 | Republican | None
+1 | 45 |  | Urban A. Woodbury | 1894-10-04 | 1896-10-08 | Republican | None
+1 | 46 |  | Josiah Grout | 1896-10-08 | 1898-10-06 | Republican | None
+1 | 47 |  | Edward Curtis Smith | 1898-10-06 | 1900-10-04 | Republican | None
+1 | 48 |  | William W. Stickney | 1900-10-04 | 1902-10-03 | Republican | None
+1 | 49 |  | John G. McCullough | 1902-10-03 | 1904-10-06 | Republican | None
+1 | 50 |  | Charles J. Bell | 1904-10-06 | 1906-10-04 | Republican | None
+1 | 51 |  | Fletcher D. Proctor | 1906-10-04 | 1908-10-08 | Republican | None
+1 | 52 |  | George H. Prouty | 1908-10-08 | 1910-10-06 | Republican | None
+1 | 53 |  | John A. Mead | 1910-10-06 | 1912-10-03 | Republican | None
+1 | 54 |  | Allen M. Fletcher | 1912-10-03 | 1915-01-07 | Republican | None
+1 | 55 |  | Charles W. Gates | 1915-01-07 | 1917-01-04 | Republican | None
+1 | 56 |  | Horace F. Graham | 1917-01-04 | 1919-01-10 | Republican | None
+1 | 57 |  | Percival W. Clement | 1919-01-10 | 1921-01-07 | Republican | None
+1 | 58 |  | James Hartness | 1921-01-07 | 1923-01-04 | Republican | None
+1 | 59 |  | Redfield Proctor Jr. | 1923-01-04 | 1925-01-08 | Republican | None
+1 | 60 |  | Franklin S. Billings | 1925-01-08 | 1927-01-06 | Republican | None
+1 | 61 |  | John E. Weeks | 1927-01-06 | 1931-01-08 | Republican | None
+1 | 62 |  | Stanley C. Wilson | 1931-01-08 | 1935-01-10 | Republican | None
+1 | 63 |  | Charles Manley Smith | 1935-01-10 | 1937-01-07 | Republican | None
+1 | 64 |  | George Aiken | 1937-01-07 | 1941-01-09 | Republican | None
+1 | 65 |  | William Henry Wills | 1941-01-09 | 1945-01-04 | Republican | None
+1 | 66 |  | Mortimer R. Proctor | 1945-01-04 | 1947-01-09 | Republican | None
+1 | 67 |  | Ernest W. Gibson Jr. | 1947-01-09 | 1950-01-16 | Republican | None
+1 | 68 |  | Harold J. Arthur | 1950-01-16 | 1951-01-04 | Republican | None
+1 | 69 |  | Lee E. Emerson | 1951-01-04 | 1955-01-06 | Republican | Represented the Republican Party
+1 | 70 |  | Joseph B. Johnson | 1955-01-06 | 1959-01-15 | Republican | None
+1 | 71 |  | Robert Stafford | 1959-01-15 | 1961-01-05 | Republican | None
+1 | 72 |  | F. Ray Keyser Jr. | 1961-01-05 | 1963-01-10 | Republican | None
+1 | 73 |  | Philip H. Hoff | 1963-01-10 | 1969-01-09 | Democratic | Represented the Democratic Party
+1 | 74 |  | Deane C. Davis | 1969-01-09 | 1973-01-04 | Republican | Represented the Republican Party
+1 | 75 |  | Thomas P. Salmon | 1973-01-04 | 1977-01-06 | Democratic | Represented the Democratic Party
+1 | 76 |  | Richard A. Snelling | 1977-01-06 | 1985-01-10 | Republican | Represented the Republican Party
+1 | 77 |  | Madeleine Kunin | 1985-01-10 | 1991-01-10 | Democratic | Represented the Democratic Party
+1 | 78 |  | Richard A. Snelling | 1991-01-10 | 1991-08-13 | Republican | Represented the Republican Party
+1 | 79 |  | Howard Dean | 1991-08-13 | 2003-01-09 | Democratic | Represented the Democratic Party
+1 | 80 |  | Jim Douglas | 2003-01-09 | 2011-01-06 | Republican | Represented the Republican Party
+1 | 81 |  | Peter Shumlin | 2011-01-06 | 2017-01-05 | Democratic | Represented the Democratic Party
+1 | 82 |  | Phil Scott | 2017-01-05 | None | Republican | Represented the Republican Party

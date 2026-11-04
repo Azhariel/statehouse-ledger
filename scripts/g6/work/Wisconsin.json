@@ -1,0 +1,820 @@
+[
+ {
+  "table": 0,
+  "num": "1",
+  "name": "Henry Dodge",
+  "range": [
+   "April 30, 1836",
+   "September 13, 1841"
+  ],
+  "party": "{{sortname|Andrew|Jackson}}",
+  "title": null,
+  "acting": false,
+  "start": "1836-04-30",
+  "end": "1841-09-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "2",
+  "name": "James Duane Doty",
+  "range": [
+   "September 13, 1841",
+   "June 15, 1844"
+  ],
+  "party": "{{sortname|John|Tyler}}",
+  "title": null,
+  "acting": false,
+  "start": "1841-09-13",
+  "end": "1844-06-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "3",
+  "name": "Nathaniel P. Tallmadge",
+  "range": [
+   "June 15, 1844",
+   "April 8, 1845"
+  ],
+  "party": "{{sortname|John|Tyler}}",
+  "title": null,
+  "acting": false,
+  "start": "1844-06-15",
+  "end": "1845-04-08",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "4",
+  "name": "Henry Dodge",
+  "range": [
+   "April 8, 1845",
+   "June 23, 1848"
+  ],
+  "party": "{{sortname|James K.|Polk}}",
+  "title": null,
+  "acting": false,
+  "start": "1845-04-08",
+  "end": "1848-06-23",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "1",
+  "name": "Nelson Dewey",
+  "range": [
+   "June 7, 1848",
+   "January 5, 1852"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1848-06-07",
+  "end": "1852-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "2",
+  "name": "Leonard J. Farwell",
+  "range": [
+   "January 5, 1852",
+   "January 2, 1854"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": false,
+  "start": "1852-01-05",
+  "end": "1854-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "3",
+  "name": "William A. Barstow",
+  "range": [
+   "January 2, 1854",
+   "March 21, 1856"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1854-01-02",
+  "end": "1856-03-21",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "4",
+  "name": "Arthur MacArthur Sr.",
+  "range": [
+   "March 21, 1856",
+   "March 25, 1856"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": true,
+  "start": "1856-03-21",
+  "end": "1856-03-25",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "5",
+  "name": "Coles Bashford",
+  "range": [
+   "March 25, 1856",
+   "January 4, 1858"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1856-03-25",
+  "end": "1858-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "6",
+  "name": "Alexander Randall",
+  "range": [
+   "January 4, 1858",
+   "January 6, 1862"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1858-01-04",
+  "end": "1862-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "7",
+  "name": "Louis P. Harvey",
+  "range": [
+   "January 6, 1862",
+   "April 19, 1862"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1862-01-06",
+  "end": "1862-04-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "8",
+  "name": "Edward Salomon",
+  "range": [
+   "April 19, 1862",
+   "January 4, 1864"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1862-04-19",
+  "end": "1864-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "9",
+  "name": "James T. Lewis",
+  "range": [
+   "January 4, 1864",
+   "January 1, 1866"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1864-01-04",
+  "end": "1866-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "10",
+  "name": "Lucius Fairchild",
+  "range": [
+   "January 1, 1866",
+   "January 1, 1872"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1866-01-01",
+  "end": "1872-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "11",
+  "name": "Cadwallader C. Washburn",
+  "range": [
+   "January 1, 1872",
+   "January 5, 1874"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1872-01-01",
+  "end": "1874-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "12",
+  "name": "William Robert Taylor",
+  "range": [
+   "January 5, 1874",
+   "January 3, 1876"
+  ],
+  "party": "Reform",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1874-01-05",
+  "end": "1876-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "13",
+  "name": "Harrison Ludington",
+  "range": [
+   "January 3, 1876",
+   "January 7, 1878"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1876-01-03",
+  "end": "1878-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "14",
+  "name": "William E. Smith",
+  "range": [
+   "January 7, 1878",
+   "January 2, 1882"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1878-01-07",
+  "end": "1882-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "15",
+  "name": "Jeremiah McLain Rusk",
+  "range": [
+   "January 2, 1882",
+   "January 7, 1889"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1882-01-02",
+  "end": "1889-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "16",
+  "name": "William D. Hoard",
+  "range": [
+   "January 7, 1889",
+   "January 5, 1891"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1889-01-07",
+  "end": "1891-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "17",
+  "name": "George Wilbur Peck",
+  "range": [
+   "January 5, 1891",
+   "January 7, 1895"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1891-01-05",
+  "end": "1895-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "18",
+  "name": "William H. Upham",
+  "range": [
+   "January 7, 1895",
+   "January 4, 1897"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1895-01-07",
+  "end": "1897-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "19",
+  "name": "Edward Scofield",
+  "range": [
+   "January 4, 1897",
+   "January 7, 1901"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1897-01-04",
+  "end": "1901-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "20",
+  "name": "Robert M. La Follette",
+  "range": [
+   "January 7, 1901",
+   "January 1, 1906"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1901-01-07",
+  "end": "1906-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "21",
+  "name": "James O. Davidson",
+  "range": [
+   "January 1, 1906",
+   "January 2, 1911"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1906-01-01",
+  "end": "1911-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "22",
+  "name": "Francis E. McGovern",
+  "range": [
+   "January 2, 1911",
+   "January 4, 1915"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1911-01-02",
+  "end": "1915-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "23",
+  "name": "Emanuel L. Philipp",
+  "range": [
+   "January 4, 1915",
+   "January 3, 1921"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1915-01-04",
+  "end": "1921-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "24",
+  "name": "John J. Blaine",
+  "range": [
+   "January 3, 1921",
+   "January 3, 1927"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1921-01-03",
+  "end": "1927-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "25",
+  "name": "Fred R. Zimmerman",
+  "range": [
+   "January 3, 1927",
+   "January 7, 1929"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1927-01-03",
+  "end": "1929-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "26",
+  "name": "Walter J. Kohler Sr.",
+  "range": [
+   "January 7, 1929",
+   "January 5, 1931"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1929-01-07",
+  "end": "1931-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "27",
+  "name": "Philip La Follette",
+  "range": [
+   "January 5, 1931",
+   "January 2, 1933"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1931-01-05",
+  "end": "1933-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "28",
+  "name": "Albert G. Schmedeman",
+  "range": [
+   "January 2, 1933",
+   "January 7, 1935"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1933-01-02",
+  "end": "1935-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "29",
+  "name": "Philip La Follette",
+  "range": [
+   "January 7, 1935",
+   "January 2, 1939"
+  ],
+  "party": "Progressive",
+  "title": "Represented the Progressive Party",
+  "acting": false,
+  "start": "1935-01-07",
+  "end": "1939-01-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "30",
+  "name": "Julius P. Heil",
+  "range": [
+   "January 2, 1939",
+   "January 4, 1943"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1939-01-02",
+  "end": "1943-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "—",
+  "name": "Orland Steen Loomis",
+  "range": null,
+  "party": null,
+  "title": "Represented the Progressive Party",
+  "acting": false
+ },
+ {
+  "table": 1,
+  "num": "31",
+  "name": "Walter Samuel Goodland",
+  "range": [
+   "January 4, 1943",
+   "March 12, 1947"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1943-01-04",
+  "end": "1947-03-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "32",
+  "name": "Oscar Rennebohm",
+  "range": [
+   "March 12, 1947",
+   "January 1, 1951"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1947-03-12",
+  "end": "1951-01-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "33",
+  "name": "Walter J. Kohler Jr.",
+  "range": [
+   "January 1, 1951",
+   "January 7, 1957"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1951-01-01",
+  "end": "1957-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "34",
+  "name": "Vernon Wallace Thomson",
+  "range": [
+   "January 7, 1957",
+   "January 5, 1959"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1957-01-07",
+  "end": "1959-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "35",
+  "name": "Gaylord Nelson",
+  "range": [
+   "January 5, 1959",
+   "January 7, 1963"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1959-01-05",
+  "end": "1963-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "36",
+  "name": "John W. Reynolds Jr.",
+  "range": [
+   "January 7, 1963",
+   "January 4, 1965"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1963-01-07",
+  "end": "1965-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "37",
+  "name": "Warren P. Knowles",
+  "range": [
+   "January 4, 1965",
+   "January 4, 1971"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1965-01-04",
+  "end": "1971-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "38",
+  "name": "Patrick Lucey",
+  "range": [
+   "January 4, 1971",
+   "July 6, 1977"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1971-01-04",
+  "end": "1977-07-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "39",
+  "name": "Martin J. Schreiber",
+  "range": [
+   "July 6, 1977",
+   "January 3, 1979"
+  ],
+  "party": "Democratic",
+  "title": null,
+  "acting": false,
+  "start": "1977-07-06",
+  "end": "1979-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "40",
+  "name": "Lee S. Dreyfus",
+  "range": [
+   "January 3, 1979",
+   "January 3, 1983"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1979-01-03",
+  "end": "1983-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "41",
+  "name": "Tony Earl",
+  "range": [
+   "January 3, 1983",
+   "January 5, 1987"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1983-01-03",
+  "end": "1987-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "42",
+  "name": "Tommy Thompson",
+  "range": [
+   "January 5, 1987",
+   "February 1, 2001"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1987-01-05",
+  "end": "2001-02-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "43",
+  "name": "Scott McCallum",
+  "range": [
+   "February 1, 2001",
+   "January 6, 2003"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "2001-02-01",
+  "end": "2003-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "44",
+  "name": "Jim Doyle",
+  "range": [
+   "January 6, 2003",
+   "January 3, 2011"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2003-01-06",
+  "end": "2011-01-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "45",
+  "name": "Scott Walker",
+  "range": [
+   "January 3, 2011",
+   "January 7, 2019"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "2011-01-03",
+  "end": "2019-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "46",
+  "name": "Tony Evers",
+  "range": [
+   "January 7, 2019",
+   "Incumbent"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2019-01-07",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "''47''",
+  "name": "David Crowley",
+  "range": null,
+  "party": null,
+  "title": null,
+  "acting": false
+ }
+]

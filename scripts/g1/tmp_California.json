@@ -1,0 +1,910 @@
+[
+ {
+  "table": 0,
+  "name": "(vacant)",
+  "raw": "post = Governor body = California native_name = insignia = Seal of California.svg insignia_size = 110px insignia_caption = State Seal image = frameless| image_size = 200px incumbent = Gavin Newsom inc"
+ },
+ {
+  "table": 1,
+  "name": "Peter Hardeman Burnett",
+  "term_raw": "December 20, 1849 – January 9, 1851 {{small|(386 days; resigned)}}",
+  "dates": [
+   [
+    "1849-12-20",
+    "day"
+   ],
+   [
+    "1851-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Non-partisan",
+  "acting_hint": false,
+  "succ_raw": "1849",
+  "name_cell": "Peter Hardeman Burnett {{Small|(1807–1895)}}"
+ },
+ {
+  "table": 1,
+  "name": "John McDougal",
+  "term_raw": "January 9, 1851 – January 8, 1852 {{small|(365 days; retired)}}",
+  "dates": [
+   [
+    "1851-01-09",
+    "day"
+   ],
+   [
+    "1852-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Non-partisan",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "John McDougal {{Small|(1818–1866)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Bigler",
+  "term_raw": "January 8, 1852 – January 9, 1856 {{small|(1463 days; lost election)}}",
+  "dates": [
+   [
+    "1852-01-08",
+    "day"
+   ],
+   [
+    "1856-01-09",
+    "day"
+   ],
+   [
+    "1463-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1851",
+  "name_cell": "John Bigler {{Small|(1805–1871)}}"
+ },
+ {
+  "table": 1,
+  "name": "J. Neely Johnson",
+  "term_raw": "January 9, 1856 – January 8, 1858 {{small|(731 days; lost nomination)}}",
+  "dates": [
+   [
+    "1856-01-09",
+    "day"
+   ],
+   [
+    "1858-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "American",
+  "acting_hint": false,
+  "succ_raw": "1855",
+  "name_cell": "J. Neely Johnson {{Small|(1825–1872)}}"
+ },
+ {
+  "table": 1,
+  "name": "John B. Weller",
+  "term_raw": "January 8, 1858 – January 9, 1860 {{small|(732 days; retired)}}",
+  "dates": [
+   [
+    "1858-01-08",
+    "day"
+   ],
+   [
+    "1860-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1857",
+  "name_cell": "John B. Weller {{Small|(1812–1875)}}"
+ },
+ {
+  "table": 1,
+  "name": "Milton S. Latham",
+  "term_raw": "January 9, 1860 – January 14, 1860 {{small|(6 days; resigned)}}",
+  "dates": [
+   [
+    "1860-01-09",
+    "day"
+   ],
+   [
+    "1860-01-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Lecompton Democratic",
+  "acting_hint": false,
+  "succ_raw": "1859",
+  "name_cell": "Milton S. Latham {{Small|(1827–1882)}}"
+ },
+ {
+  "table": 1,
+  "name": "John G. Downey",
+  "term_raw": "January 14, 1860 – January 10, 1862 {{small|(728 days; retired)}}",
+  "dates": [
+   [
+    "1860-01-14",
+    "day"
+   ],
+   [
+    "1862-01-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Lecompton Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "John G. Downey {{Small|(1827–1894)}}"
+ },
+ {
+  "table": 1,
+  "name": "Leland Stanford",
+  "term_raw": "January 10, 1862 – December 10, 1863 {{small|(700 days; retired)}}",
+  "dates": [
+   [
+    "1862-01-10",
+    "day"
+   ],
+   [
+    "1863-12-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1861",
+  "name_cell": "Leland Stanford {{Small|(1824–1893)}}"
+ },
+ {
+  "table": 1,
+  "name": "Frederick Low",
+  "term_raw": "December 10, 1863 – December 5, 1867 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1863-12-10",
+    "day"
+   ],
+   [
+    "1867-12-05",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Union",
+  "acting_hint": false,
+  "succ_raw": "1863",
+  "name_cell": "Frederick Low {{Small|(1828–1894)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry Huntly Haight",
+  "term_raw": "December 5, 1867 – December 8, 1871 {{small|(1465 days; lost election)}}",
+  "dates": [
+   [
+    "1867-12-05",
+    "day"
+   ],
+   [
+    "1871-12-08",
+    "day"
+   ],
+   [
+    "1465-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1867",
+  "name_cell": "Henry Huntly Haight {{Small|(1825–1878)}}"
+ },
+ {
+  "table": 1,
+  "name": "Newton Booth",
+  "term_raw": "December 8, 1871 – February 27, 1875 {{small|(1178 days; resigned)}}",
+  "dates": [
+   [
+    "1871-12-08",
+    "day"
+   ],
+   [
+    "1875-02-27",
+    "day"
+   ],
+   [
+    "1178-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1871",
+  "name_cell": "Newton Booth {{Small|(1825–1892)}}"
+ },
+ {
+  "table": 1,
+  "name": "Romualdo Pacheco",
+  "term_raw": "February 27, 1875 – December 9, 1875 {{small|(286 days; retired)}}",
+  "dates": [
+   [
+    "1875-02-27",
+    "day"
+   ],
+   [
+    "1875-12-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Romualdo Pacheco {{Small|(1831–1899)}}"
+ },
+ {
+  "table": 1,
+  "name": "William Irwin",
+  "term_raw": "December 9, 1875 – January 8, 1880 {{small|(1492 days; retired)}}",
+  "dates": [
+   [
+    "1875-12-09",
+    "day"
+   ],
+   [
+    "1880-01-08",
+    "day"
+   ],
+   [
+    "1492-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1875",
+  "name_cell": "William Irwin {{Small|(1827–1886)}}"
+ },
+ {
+  "table": 1,
+  "name": "George C. Perkins",
+  "term_raw": "January 8, 1880 – January 10, 1883 {{small|(1099 days; retired)}}",
+  "dates": [
+   [
+    "1880-01-08",
+    "day"
+   ],
+   [
+    "1883-01-10",
+    "day"
+   ],
+   [
+    "1099-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1879",
+  "name_cell": "George C. Perkins {{Small|(1839–1923)}}"
+ },
+ {
+  "table": 1,
+  "name": "George Stoneman",
+  "term_raw": "January 10, 1883 – January 8, 1887 {{small|(1460 days; retired)}}",
+  "dates": [
+   [
+    "1883-01-10",
+    "day"
+   ],
+   [
+    "1887-01-08",
+    "day"
+   ],
+   [
+    "1460-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1882",
+  "name_cell": "George Stoneman {{Small|(1822–1894)}}"
+ },
+ {
+  "table": 1,
+  "name": "Washington Bartlett",
+  "term_raw": "January 8, 1887 – September 12, 1887 {{small|(248 days; died in office)}}",
+  "dates": [
+   [
+    "1887-01-08",
+    "day"
+   ],
+   [
+    "1887-09-12",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1886",
+  "name_cell": "Washington Bartlett {{Small|(1824–1887)}}"
+ },
+ {
+  "table": 1,
+  "name": "Robert Waterman",
+  "term_raw": "September 12, 1887 – January 8, 1891 {{small|(1215 days; retired)}}",
+  "dates": [
+   [
+    "1887-09-12",
+    "day"
+   ],
+   [
+    "1891-01-08",
+    "day"
+   ],
+   [
+    "1215-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Robert Waterman {{Small|(1826–1891)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry Markham",
+  "term_raw": "January 8, 1891 – January 11, 1895 {{small|(1465 days; retired)}}",
+  "dates": [
+   [
+    "1891-01-08",
+    "day"
+   ],
+   [
+    "1895-01-11",
+    "day"
+   ],
+   [
+    "1465-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1890",
+  "name_cell": "Henry Markham {{Small|(1840–1923)}}"
+ },
+ {
+  "table": 1,
+  "name": "James Budd",
+  "term_raw": "January 11, 1895 – January 4, 1899 {{small|(1455 days; retired)}}",
+  "dates": [
+   [
+    "1895-01-11",
+    "day"
+   ],
+   [
+    "1899-01-04",
+    "day"
+   ],
+   [
+    "1455-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1894",
+  "name_cell": "James Budd {{Small|(1851–1908)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry T. Gage",
+  "term_raw": "January 4, 1899 – January 7, 1903 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1899-01-04",
+    "day"
+   ],
+   [
+    "1903-01-07",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1898",
+  "name_cell": "Henry T. Gage {{Small|(1852–1924)}}"
+ },
+ {
+  "table": 1,
+  "name": "George Pardee",
+  "term_raw": "January 7, 1903 – January 9, 1907 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1903-01-07",
+    "day"
+   ],
+   [
+    "1907-01-09",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1902",
+  "name_cell": "George Pardee {{Small|(1857–1941)}}"
+ },
+ {
+  "table": 1,
+  "name": "James Gillett",
+  "term_raw": "January 9, 1907 – January 3, 1911 {{small|(1456 days; retired)}}",
+  "dates": [
+   [
+    "1907-01-09",
+    "day"
+   ],
+   [
+    "1911-01-03",
+    "day"
+   ],
+   [
+    "1456-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1906",
+  "name_cell": "James Gillett {{Small|(1860–1937)}}"
+ },
+ {
+  "table": 1,
+  "name": "Hiram Johnson",
+  "term_raw": "January 3, 1911 – March 15, 1917 {{small|(2264 days; resigned)}}",
+  "dates": [
+   [
+    "1911-01-03",
+    "day"
+   ],
+   [
+    "1917-03-15",
+    "day"
+   ],
+   [
+    "2264-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1910",
+  "name_cell": "Hiram Johnson {{Small|(1866–1945)}}"
+ },
+ {
+  "table": 1,
+  "name": "William Stephens",
+  "term_raw": "March 15, 1917 – January 9, 1923 {{small|(2127 days; lost nomination)}}",
+  "dates": [
+   [
+    "1917-03-15",
+    "day"
+   ],
+   [
+    "1923-01-09",
+    "day"
+   ],
+   [
+    "2127-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "William Stephens {{Small|(1859–1944)}}"
+ },
+ {
+  "table": 1,
+  "name": "Friend Richardson",
+  "term_raw": "January 9, 1923 – January 4, 1927 {{small|(1457 days; lost nomination)}}",
+  "dates": [
+   [
+    "1923-01-09",
+    "day"
+   ],
+   [
+    "1927-01-04",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1922",
+  "name_cell": "Friend Richardson {{Small|(1865–1943)}}"
+ },
+ {
+  "table": 1,
+  "name": "C. C. Young",
+  "term_raw": "January 4, 1927 – January 6, 1931 {{small|(1464 days; lost nomination)}}",
+  "dates": [
+   [
+    "1927-01-04",
+    "day"
+   ],
+   [
+    "1931-01-06",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1926",
+  "name_cell": "C. C. Young {{Small|(1869–1947)}}"
+ },
+ {
+  "table": 1,
+  "name": "James Rolph",
+  "term_raw": "January 6, 1931 – June 2, 1934 {{small|(1244 days; died in office)}}",
+  "dates": [
+   [
+    "1931-01-06",
+    "day"
+   ],
+   [
+    "1934-06-02",
+    "day"
+   ],
+   [
+    "1244-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1930",
+  "name_cell": "James Rolph {{Small|(1869–1934)}}"
+ },
+ {
+  "table": 1,
+  "name": "Frank Merriam",
+  "term_raw": "June 2, 1934 – January 2, 1939 {{small|(1676 days; lost election)}}",
+  "dates": [
+   [
+    "1934-06-02",
+    "day"
+   ],
+   [
+    "1939-01-02",
+    "day"
+   ],
+   [
+    "1676-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Frank Merriam {{Small|(1865–1955)}}"
+ },
+ {
+  "table": 1,
+  "name": "Culbert Olson",
+  "term_raw": "January 2, 1939 – January 4, 1943 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1939-01-02",
+    "day"
+   ],
+   [
+    "1943-01-04",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1938",
+  "name_cell": "Culbert Olson {{Small|(1876–1962)}}"
+ },
+ {
+  "table": 1,
+  "name": "Earl Warren",
+  "term_raw": "January 4, 1943 – October 4, 1953 {{small|(3927 days; resigned)}}",
+  "dates": [
+   [
+    "1943-01-04",
+    "day"
+   ],
+   [
+    "1953-10-04",
+    "day"
+   ],
+   [
+    "3927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1942",
+  "name_cell": "Earl Warren {{Small|(1891–1974)}}"
+ },
+ {
+  "table": 1,
+  "name": "Goodwin Knight",
+  "term_raw": "October 5, 1953 – January 5, 1959 {{small|(1919 days; retired)}}",
+  "dates": [
+   [
+    "1953-10-05",
+    "day"
+   ],
+   [
+    "1959-01-05",
+    "day"
+   ],
+   [
+    "1919-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Goodwin Knight {{Small|(1896–1970)}}"
+ },
+ {
+  "table": 1,
+  "name": "Pat Brown",
+  "term_raw": "January 5, 1959 – January 2, 1967 {{small|(2920 days; lost election)}}",
+  "dates": [
+   [
+    "1959-01-05",
+    "day"
+   ],
+   [
+    "1967-01-02",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1958",
+  "name_cell": "Pat Brown {{Small|(1905–1996)}}"
+ },
+ {
+  "table": 1,
+  "name": "Ronald Reagan",
+  "term_raw": "January 2, 1967 – January 6, 1975 {{small|(2927 days; retired)}}",
+  "dates": [
+   [
+    "1967-01-02",
+    "day"
+   ],
+   [
+    "1975-01-06",
+    "day"
+   ],
+   [
+    "2927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1966",
+  "name_cell": "Ronald Reagan {{Small|(1911–2004)}}"
+ },
+ {
+  "table": 1,
+  "name": "Jerry Brown",
+  "term_raw": "January 6, 1975 – January 3, 1983 {{small|(2920 days; retired)}}",
+  "dates": [
+   [
+    "1975-01-06",
+    "day"
+   ],
+   [
+    "1983-01-03",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1974",
+  "name_cell": "Jerry Brown {{Small|({{Abbr|b.|born in}} 1938)}}"
+ },
+ {
+  "table": 1,
+  "name": "George Deukmejian",
+  "term_raw": "January 3, 1983 – January 7, 1991 {{small|(2927 days; retired)}}",
+  "dates": [
+   [
+    "1983-01-03",
+    "day"
+   ],
+   [
+    "1991-01-07",
+    "day"
+   ],
+   [
+    "2927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1982",
+  "name_cell": "George Deukmejian {{Small|(1928–2018)}}"
+ },
+ {
+  "table": 1,
+  "name": "Pete Wilson",
+  "term_raw": "January 7, 1991 – January 4, 1999 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "1991-01-07",
+    "day"
+   ],
+   [
+    "1999-01-04",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1990",
+  "name_cell": "Pete Wilson {{Small|({{Abbr|b.|born in}} 1933)}}"
+ },
+ {
+  "table": 1,
+  "name": "Gray Davis",
+  "term_raw": "January 4, 1999 – November 17, 2003 {{small|(1779 days; recalled)}}",
+  "dates": [
+   [
+    "1999-01-04",
+    "day"
+   ],
+   [
+    "2003-11-17",
+    "day"
+   ],
+   [
+    "1779-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1998",
+  "name_cell": "Gray Davis {{Small|({{Abbr|b.|born in}} 1942)}}"
+ },
+ {
+  "table": 1,
+  "name": "Arnold Schwarzenegger",
+  "term_raw": "November 17, 2003 – January 3, 2011 {{small|(2605 days; term-limited)}}",
+  "dates": [
+   [
+    "2003-11-17",
+    "day"
+   ],
+   [
+    "2011-01-03",
+    "day"
+   ],
+   [
+    "2605-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "2003 {{small|(recall)}}",
+  "name_cell": "Arnold Schwarzenegger {{Small|({{Abbr|b.|born in}} 1947)}}"
+ },
+ {
+  "table": 1,
+  "name": "Jerry Brown",
+  "term_raw": "January 3, 2011 – January 7, 2019 {{small|(2927 days; term-limited)}}",
+  "dates": [
+   [
+    "2011-01-03",
+    "day"
+   ],
+   [
+    "2019-01-07",
+    "day"
+   ],
+   [
+    "2927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2010",
+  "name_cell": "Jerry Brown {{Small|({{Abbr|b.|born in}} 1938)}}"
+ },
+ {
+  "table": 1,
+  "name": "Gavin Newsom",
+  "term_raw": "2019|1|7|duration=on|format=no}}\"|January 7, 2019 – Incumbent {{small|(in office {{Duration in days nts|2019|1|7|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2019-01-01",
+    "year"
+   ],
+   [
+    "2019-01-07",
+    "day"
+   ],
+   [
+    "2019-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2018",
+  "name_cell": "Gavin Newsom {{Small|({{Abbr|b.|born in}} 1967)}}"
+ },
+ {
+  "table": 1,
+  "name": "Xavier Becerra",
+  "term_raw": "2027|1|4|duration=on|format=no}}\"|Governor-elect takes office January 4, 2027",
+  "dates": [
+   [
+    "2027-01-01",
+    "year"
+   ],
+   [
+    "2027-01-04",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2026",
+  "name_cell": "Xavier Becerra {{small|({{abbr|b.|born in}} 1958)}}"
+ }
+]

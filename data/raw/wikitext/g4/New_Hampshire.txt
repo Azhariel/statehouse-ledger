@@ -1,0 +1,912 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+The [[governor of New Hampshire]] is the [[head of government]] of the U.S. state of [[New Hampshire]] and is commander-in-chief of the state's [[New Hampshire National Guard|military forces]]. 
+
+The incumbent governor is Republican [[Kelly Ayotte]], who took office on January 9, 2025. The longest-serving governor is [[John Taylor Gilman]], who served as governor for 14 years, from 1794 to 1805 and from 1813 to 1816.
+
+==Governors==
+{{For|the period before independence|List of colonial governors of New Hampshire}}
+New Hampshire was one of the original [[Thirteen Colonies]] and was admitted as a state on June 21, 1788.<ref>{{Cite web |title=Ratification of the Constitution by the State of New Hampshire; June 21, 1788 |url=http://avalon.law.yale.edu/18th_century/ratnh.asp |url-status=live |archive-url=https://web.archive.org/web/20151105061223/http://avalon.law.yale.edu/18th_century/ratnh.asp |archive-date=November 5, 2015 |access-date=October 31, 2015 |publisher=The Avalon Project at Yale Law School}}</ref> Before it declared its independence, New Hampshire was a [[Province of New Hampshire|colony]] of the [[Kingdom of Great Britain]].
+
+The original 1776 [[Constitution of New Hampshire]] did not provide for a chief executive. The office of President was created by the 1784 constitution, and renamed Governor in 1792.<ref>NH Const. art. 41</ref> Governors served one-year terms until an 1877 amendment increased this to two years.<ref>NH Const. art. 42</ref> There have never been any term limits for the office, nor is there a lieutenant governor; should the office become vacant, the president of the [[New Hampshire Senate]] acts as governor.<ref>NH Const. art. 49</ref>
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of New Hampshire
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor{{efn|The office was named president until 1792.}}
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Weare, Meshech"|[[File:No image.svg|75px]]
+|rowspan="11" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|'''[[Meshech Weare]]'''<br>{{Small|(1713–1786)}}<br><ref name="nga-weare">{{Cite web |title=Meshech Weare |url=https://www.nga.org/governor/meshech-weare/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="359"|June 15, 1784<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XX. Concord, NH: State of New Hampshire, 1867. 52. Accessed April 7, 2023.</ref><br>&ndash;<br>June 8, 1785<br>{{small|(359 days; retired)}}
+|rowspan="11" style="background:#EEEEEE;"|''No parties''{{sfn|Glashan|1979|p=200}}
+|[[1784 New Hampshire gubernatorial election|1784]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Langdon, John"|[[File:John langdon.jpg|75px]]
+|'''[[John Langdon (politician)|John Langdon]]'''<br>{{Small|(1741–1819)}}<br>{{sfn|Sobel|1978|pp=942–943}}<ref name="nga-langdon">{{Cite web |title=John Langdon |url=https://www.nga.org/governor/john-langdon/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="367"|June 8, 1785<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XX. Concord, NH: State of New Hampshire, 1867. 307. Accessed April 7, 2023.</ref><br>&ndash;<br>June 9, 1786<br>{{small|(367 days; lost election)}}
+|[[1785 New Hampshire gubernatorial election|1785]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Sullivan, John"|[[File:Major General John Sullivan.jpg|75px]]
+|rowspan="2"|'''[[John Sullivan (general)|John Sullivan]]'''<br>{{Small|(1740–1795)}}<br>{{sfn|Sobel|1978|p=939}}<ref name="nga-sullivan">{{Cite web |title=John Sullivan |url=https://www.nga.org/governor/john-sullivan/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 9, 1786<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XX. Concord, NH: State of New Hampshire, 1867. 580. Accessed April 7, 2023.</ref><br>&ndash;<br>June 6, 1788<br>{{small|(729 days; lost election)}}
+|[[1786 New Hampshire gubernatorial election|1786]]
+|- style="height:2em;"
+|[[1787 New Hampshire gubernatorial election|1787]]
+|- style="height:2em;"
+!scope="row"|''2''
+|data-sort-value="Langdon, John"|[[File:John langdon.jpg|75px]]
+|'''[[John Langdon (politician)|John Langdon]]'''<br>{{Small|(1741–1819)}}<br>{{sfn|Sobel|1978|pp=942–943}}<ref name="nga-langdon" />
+|data-sort-value="231"|June 6, 1788<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XXI. Concord, NH: State of New Hampshire, 1867. 264. Accessed April 7, 2023.</ref><br>&ndash;<br>January 22, 1789<br>{{small|(231 days; resigned)}}{{efn|Langdon resigned, having been [[1788–89 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=942–943}}<ref name="langdon-resign">[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XXI. Concord, NH: State of New Hampshire, 1867. 251. Accessed April 7, 2023.</ref>}}
+|[[1788 New Hampshire gubernatorial election|1788]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Pickering, John"|[[File:No image.svg|75px]]
+|'''[[John Pickering (judge)|John Pickering]]'''<br>{{Small|(1737–1805)}}
+|data-sort-value="139"|January 22, 1789<ref name="langdon-resign" /><br>&ndash;<br>June 9, 1789<br>{{small|(139 days; lost election)}}
+|style="background:#EEEEEE;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|''3''
+|data-sort-value="Sullivan, John"|[[File:Major General John Sullivan.jpg|75px]]
+|'''[[John Sullivan (general)|John Sullivan]]'''<br>{{Small|(1740–1795)}}<br>{{sfn|Sobel|1978|p=939}}<ref name="nga-sullivan" />
+|data-sort-value="365"|June 9, 1789<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XXI. Concord, NH: State of New Hampshire, 1867. 556. Accessed April 7, 2023.</ref><br>&ndash;<br>June 8, 1790<br>{{small|(365 days; retired)}}{{efn|Sullivan had been appointed to the [[United States District Court for the District of New Hampshire]] on September 26, 1789.<ref>{{FJC Bio|2314|nid=1388446|name=John Sullivan}}</ref> Some sources say he resigned as governor near the end of his term due to objections to him being both in the executive and judiciary;{{sfn|Sobel|1978|p=939}} but the State Papers indicate he remained in office until the expiration of his term.<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XXI. Concord, NH: State of New Hampshire, 1867. 548. Accessed April 7, 2023. "From this date till the expiration of his term as Chief Executive of the State, in June, 1790, General Sullivan was the incumbent of both offices."</ref>}}
+|[[1789 New Hampshire gubernatorial election|1789]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|4
+|rowspan="4" data-sort-value="Bartlett, Josiah"|[[File:Josiah Bartlett (NYPL Hades-248691-425088) (Cropped).jpg|75px]]
+|rowspan="4"|'''[[Josiah Bartlett]]'''<br>{{Small|(1729–1795)}}<br>{{sfn|Sobel|1978|p=940}}<ref name="nga-bartlett-josiah">{{Cite web |title=Josiah Bartlett |url=https://www.nga.org/governor/josiah-bartlett/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1459"|June 8, 1790<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XXII. Concord, NH: State of New Hampshire, 1867. 11. Accessed April 7, 2023.</ref><br>&ndash;<br>June 5, 1794<br>{{small|(1459 days; retired)}}
+|[[1790 New Hampshire gubernatorial election|1790]]
+|- style="height:2em;"
+|[[1791 New Hampshire gubernatorial election|1791]]
+|- style="height:2em;"
+|[[1792 New Hampshire gubernatorial election|1792]]
+|- style="height:2em;"
+|[[1793 New Hampshire gubernatorial election|1793]]
+|- style="height:2em;"
+!rowspan="11" scope="rowgroup"|5
+|rowspan="11" data-sort-value="Gilman, John"|[[File:JohnGilmanNH.jpg|75px]]
+|rowspan="11" style="background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|rowspan="11"|'''[[John Taylor Gilman]]'''<br>{{Small|(1753–1828)}}<br>{{sfn|Sobel|1978|pp=941–942}}<ref name="nga-gilman">{{Cite web |title=John Taylor Gilman |url=https://www.nga.org/governor/john-taylor-gilman/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="11" data-sort-value="4019"|June 5, 1794<ref>[https://sos.nh.gov/archives-vital-records-records-management/archives/publications-collections/new-hampshire-state-papers/ New Hampshire Provincial and State Papers]. Vol. XXII. Concord, NH: State of New Hampshire, 1867. 832. Accessed April 7, 2023.</ref><br>&ndash;<br>June 6, 1805<br>{{small|(4019 days; lost election)}}
+|rowspan="11"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=200}}
+|[[1794 New Hampshire gubernatorial election|1794]]
+|- style="height:2em;"
+|[[1795 New Hampshire gubernatorial election|1795]]
+|- style="height:2em;"
+|[[1796 New Hampshire gubernatorial election|1796]]
+|- style="height:2em;"
+|[[1797 New Hampshire gubernatorial election|1797]]
+|- style="height:2em;"
+|[[1798 New Hampshire gubernatorial election|1798]]
+|- style="height:2em;"
+|[[1799 New Hampshire gubernatorial election|1799]]
+|- style="height:2em;"
+|[[1800 New Hampshire gubernatorial election|1800]]
+|- style="height:2em;"
+|[[1801 New Hampshire gubernatorial election|1801]]
+|- style="height:2em;"
+|[[1802 New Hampshire gubernatorial election|1802]]
+|- style="height:2em;"
+|[[1803 New Hampshire gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1804 New Hampshire gubernatorial election|1804]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|''2''
+|rowspan="4" data-sort-value="Langdon, John"|[[File:John langdon.jpg|75px]]
+|rowspan="4" style="background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|rowspan="4"|'''[[John Langdon (politician)|John Langdon]]'''<br>{{Small|(1741–1819)}}<br>{{sfn|Sobel|1978|pp=942–943}}<ref name="nga-langdon" />
+|rowspan="4" data-sort-value="1469"|June 6, 1805<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1805 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433004385005&seq=12 9], accessed April 7, 2023.</ref><br>&ndash;<br>June 13, 1809<br>{{small|(1469 days; lost election)}}
+|rowspan="4"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=200}}
+|[[1805 New Hampshire gubernatorial election|1805]]
+|- style="height:2em;"
+|[[1806 New Hampshire gubernatorial election|1806]]
+|- style="height:2em;"
+|[[1807 New Hampshire gubernatorial election|1807]]
+|- style="height:2em;"
+|[[1808 New Hampshire gubernatorial election|1808]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Smith, Jeremiah"|[[File:JeremiahsmithNH.jpg|75px]]
+|style="background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|'''[[Jeremiah Smith (lawyer)|Jeremiah Smith]]'''<br>{{Small|(1759–1842)}}<br>{{sfn|Sobel|1978|pp=943–944}}<ref name="nga-smith-jeremiah">{{Cite web |title=Jeremiah Smith |url=https://www.nga.org/governor/jeremiah-smith/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="360"|June 13, 1809<ref>New Hampshire General Court. ''Journal of the Senate''. 1809 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433010041857&seq=23 19], accessed April 7, 2023.</ref><br>&ndash;<br>June 7, 1810<br>{{small|(360 days; lost election)}}
+|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=200}}
+|[[1809 New Hampshire gubernatorial election|1809]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''2''
+|rowspan="2" data-sort-value="Langdon, John"|[[File:John langdon.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[John Langdon (politician)|John Langdon]]'''<br>{{Small|(1741–1819)}}<br>{{sfn|Sobel|1978|pp=942–943}}<ref name="nga-langdon" />
+|rowspan="2" data-sort-value="731"|June 7, 1810<ref>New Hampshire General Court. ''Journal of the Senate''. 1810 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433010041865&seq=17 11], accessed April 7, 2023.</ref><br>&ndash;<br>June 6, 1812<br>{{small|(731 days; retired)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=200}}
+|[[1810 New Hampshire gubernatorial election|1810]]
+|- style="height:2em;"
+|[[1811 New Hampshire gubernatorial election|1811]]
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Plumer, William"|[[File:WPlumer.jpg|75px]]
+|'''[[William Plumer]]'''<br>{{Small|(1759–1850)}}<br>{{sfn|Sobel|1978|pp=944–945}}<ref name="nga-plumer">{{Cite web |title=William Plumer |url=https://www.nga.org/governor/william-plumer/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|June 6, 1812<ref>New Hampshire General Court. ''Journal of the Senate''. 1812 sess., [https://books.google.com/books?id=7RpNAAAAYAAJ&pg=PA18 18], accessed April 8, 2023.</ref><br>&ndash;<br>June 5, 1813<br>{{small|(365 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=200}}
+|[[1812 New Hampshire gubernatorial election|1812]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|''5''
+|rowspan="3" data-sort-value="Gilman, John"|[[File:JohnGilmanNH.jpg|75px]]
+|rowspan="3" style="background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|rowspan="3"|'''[[John Taylor Gilman]]'''<br>{{Small|(1753–1828)}}<br>{{sfn|Sobel|1978|pp=941–942}}<ref name="nga-gilman" />
+|rowspan="3" data-sort-value="1098"|June 5, 1813<ref>New Hampshire General Court. ''Journal of the Senate''. 1813 sess., [https://babel.hathitrust.org/cgi/pt?id=nyp.33433010041915&seq=29 24], accessed April 8, 2023.</ref><br>&ndash;<br>June 6, 1816<br>{{small|(1098 days; retired)}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=200}}
+|[[1813 New Hampshire gubernatorial election|1813]]
+|- style="height:2em;"
+|[[1814 New Hampshire gubernatorial election|1814]]
+|- style="height:2em;"
+|[[1815 New Hampshire gubernatorial election|1815]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|''7''
+|rowspan="3" data-sort-value="Plumer, William"|[[File:WPlumer.jpg|75px]]
+|rowspan="13" style="background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|rowspan="3"|'''[[William Plumer]]'''<br>{{Small|(1759–1850)}}<br>{{sfn|Sobel|1978|pp=944–945}}<ref name="nga-plumer" />
+|rowspan="3" data-sort-value="1097"|June 6, 1816<ref>{{Cite news |date=1816-09-20 |title=Legislature of New Hampshire |page=2 |work=The Morning Chronicle |url=https://www.newspapers.com/article/122544973/plumer-inaugurated-june-6/ |access-date=2023-04-09}}</ref><br>&ndash;<br>June 7, 1819<br>{{small|(1097 days; retired)}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=200}}
+|[[1816 New Hampshire gubernatorial election|1816]]
+|- style="height:2em;"
+|[[1817 New Hampshire gubernatorial election|1817]]
+|- style="height:2em;"
+|[[1818 New Hampshire gubernatorial election|1818]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|8
+|rowspan="4" data-sort-value="Bell, Samuel"|[[File:SamuelBell.jpg|75px]]
+|rowspan="4"|'''[[Samuel Bell (New Hampshire politician)|Samuel Bell]]'''<br>{{Small|(1770–1850)}}<br>{{sfn|Sobel|1978|pp=945–946}}<ref name="nga-bell-samuel">{{Cite web |title=Samuel Bell |url=https://www.nga.org/governor/samuel-bell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1460"|June 7, 1819<ref>{{Cite news |date=1819-06-16 |title=none | quote=[Bell] was inducted into office on the Monday following. |page=3 |work=The Pittsfield Sun |url=https://www.newspapers.com/article/122545294/bell-inaugurated-june-7-the-monday/ |access-date=2023-04-09}}</ref><br>&ndash;<br>June 5, 1823<br>{{small|(1460 days; retired)}}{{efn|Bell was instead [[1822–23 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=945–946}}}}
+|rowspan="4"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=200}}
+|[[1819 New Hampshire gubernatorial election|1819]]
+|- style="height:2em;"
+|[[1820 New Hampshire gubernatorial election|1820]]
+|- style="height:2em;"
+|[[1821 New Hampshire gubernatorial election|1821]]
+|- style="height:2em;"
+|[[1822 New Hampshire gubernatorial election|1822]]
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Woodbury, Levi"|[[File:Levi Woodbury SecNavy.jpg|75px]]
+|'''[[Levi Woodbury]]'''<br>{{Small|(1789–1851)}}<br>{{sfn|Sobel|1978|pp=946–947}}<ref name="nga-woodbury">{{Cite web |title=Levi Woodbury |url=https://www.nga.org/governor/levi-woodbury/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="366"|June 5, 1823<ref>New Hampshire General Court. ''Journal of the Senate''. 1823 sess., [https://archive.org/details/vol1823journalofthesenateofthestateofnewhampshire/page/n11 13], accessed April 8, 2023.</ref><br>&ndash;<br>June 4, 1824<br>{{small|(366 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Woodbury was a Democratic-Republican, but was not nominated by the party, so he ran independently.{{sfn|Sobel|1978|pp=946–947}}}}
+|[[1823 New Hampshire gubernatorial election|1823]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|10
+|rowspan="3" data-sort-value="Morril, David"|[[File:David Lawrence Morril.jpg|75px]]
+|rowspan="3"|'''[[David L. Morril]]'''<br>{{Small|(1772–1849)}}<br>{{sfn|Sobel|1978|pp=947–948}}<ref name="nga-morril">{{Cite web |title=David Lawrence Morril |url=https://www.nga.org/governor/david-lawrence-morril/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|June 4, 1824<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1824 sess., [https://babel.hathitrust.org/cgi/pt?id=uiug.30112110163315&seq=43 37], accessed April 8, 2023.</ref><br>&ndash;<br>June 8, 1827<br>{{small|(1100 days; lost election)}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Sobel labels Morrill a Democratic-Republican,{{sfn|Sobel|1978|pp=947–948}} while other main sources label him an Adams Republican.{{sfn|Dubin|2003|p=151}}{{sfn|Glashan|1979|p=200}}{{sfn|Kallenbach|1977|pp=374–377}}}}
+|[[1824 New Hampshire gubernatorial election|1824]]
+|- style="height:2em;"
+|[[1825 New Hampshire gubernatorial election|1825]]
+|- style="height:2em;"
+|[[1826 New Hampshire gubernatorial election|1826]]
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Pierce, Benjamin"|[[File:NHGOV Benjamin Pierce.jpg|75px]]
+|'''[[Benjamin Pierce (governor)|Benjamin Pierce]]'''<br>{{Small|(1757–1839)}}<br>{{sfn|Sobel|1978|pp=948–949}}<ref name="nga-pierce">{{Cite web |title=Benjamin Pierce |url=https://www.nga.org/governor/benjamin-pierce/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="368"|June 8, 1827<ref>New Hampshire General Court. ''Journal of the Senate''. 1827 sess., [https://archive.org/details/vol1827journalofthesenateofthestateofnewhampshire/page/n29 30], accessed April 9, 2023.</ref><br>&ndash;<br>June 9, 1828<br>{{small|(368 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Dubin,{{sfn|Dubin|2003|p=152}} Kallenbach,{{sfn|Kallenbach|1977|pp=374–377}} and Sobel{{sfn|Sobel|1978|pp=948–949}} label Pierce a [[Jacksonian democracy|Jackson Democrat]], while Glashan labels him a Democratic-Republican.{{sfn|Glashan|1979|p=200}}}}
+|[[1827 New Hampshire gubernatorial election|1827]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Bell, John"|[[File:John Bell (New Hampshire Governor).jpg|75px]]
+|'''[[John Bell (New Hampshire politician)|John Bell]]'''<br>{{Small|(1765–1836)}}<br>{{sfn|Sobel|1978|p=949}}<ref name="nga-bell-john">{{Cite web |title=John Bell |url=https://www.nga.org/governor/john-bell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="363"|June 9, 1828<ref>New Hampshire General Court. ''Journal of the Senate''. 1828 sess., [https://books.google.com/books?id=RRlNAAAAYAAJ&pg=PA31 31], accessed April 9, 2023.</ref><br>&ndash;<br>June 6, 1829<br>{{small|(363 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1828 New Hampshire gubernatorial election|1828]]
+|- style="height:2em;"
+!scope="row"|''11''
+|data-sort-value="Pierce, Benjamin"|[[File:NHGOV Benjamin Pierce.jpg|75px]]
+|rowspan="18" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Benjamin Pierce (governor)|Benjamin Pierce]]'''<br>{{Small|(1757–1839)}}<br>{{sfn|Sobel|1978|pp=948–949}}<ref name="nga-pierce" />
+|data-sort-value="364"|June 6, 1829<ref>New Hampshire General Court. ''Journal of the Senate''. 1829 sess., [https://archive.org/details/vol1829journalofthesenateofthestateofnewhampshire/page/n13 13], accessed April 10, 2023.</ref><br>&ndash;<br>June 4, 1830<br>{{small|(364 days; retired)}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1829 New Hampshire gubernatorial election|1829]]
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Harvey, Matthew"|[[File:Matthew Harvey New Hampshire Governor.jpg|75px]]
+|'''[[Matthew Harvey]]'''<br>{{Small|(1781–1866)}}<br>{{sfn|Sobel|1978|pp=949–950}}<ref name="nga-harvey">{{Cite web |title=Matthew Harvey |url=https://www.nga.org/governor/matthew-harvey/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="270"|June 4, 1830<ref>New Hampshire General Court. ''Journal of the Senate''. 1830 sess., [https://books.google.com/books?id=VBtNAAAAYAAJ&pg=PA13 13], accessed April 10, 2023.</ref><br>&ndash;<br>February 28, 1831<br>{{small|(270 days; resigned)}}{{efn|Harvey resigned, having been confirmed to the [[United States District Court for New Hampshire]].{{sfn|Sobel|1978|pp=949–950}}}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1830 New Hampshire gubernatorial election|1830]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Harper, Joseph"|[[File:Joseph M. Harper NH.jpg|75px]]
+|'''[[Joseph M. Harper]]'''<br>{{Small|(1787–1865)}}<br>{{sfn|Sobel|1978|pp=950–951}}<ref name="nga-harper">{{Cite web |title=Joseph Morrill Harper |url=https://www.nga.org/governor/joseph-morrill-harper/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="96"|February 28, 1831<ref>{{Cite book |last=Pillsbury |first=Hobart |url=https://books.google.com/books?id=oMEMAAAAYAAJ&pg=PA396 |title=New Hampshire: Resources, Attractions, and Its People; a History |date=1927 |publisher=Lewis historical publishing Company, Incorporated |page=396 |language=en}}</ref><br>&ndash;<br>June 3, 1831<br>{{small|(96 days; retired)}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|style="background:#EEEEEE;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|14
+|rowspan="3" data-sort-value="Dinsmoor, Samuel 1"|[[File:Samuel Dinsmoor Sr..jpg|75px]]
+|rowspan="3"|'''[[Samuel Dinsmoor]]'''<br>{{Small|(1766–1835)}}<br>{{sfn|Sobel|1978|pp=951–952}}<ref name="nga-dinsmoor-samuel-1">{{Cite web |title=Samuel Dinsmoor |url=https://www.nga.org/governor/samuel-dinsmoor/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|June 3, 1831<ref>{{Cite news |date=1831-06-08 |title=none | quote=Gov. Dinsmoor was escorted into town on Friday afternoon and took the oaths. |page=2 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/122633253/dinsmoor-inaugurated-june-3/ |access-date=2023-04-10}}</ref><br>&ndash;<br>June 6, 1834<br>{{small|(1100 days; retired)}}
+|rowspan="3"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1831 New Hampshire gubernatorial election|1831]]
+|- style="height:2em;"
+|[[1832 New Hampshire gubernatorial election|1832]]
+|- style="height:2em;"
+|[[1833 New Hampshire gubernatorial election|1833]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Badger, William"|[[File:William Badger NH.jpg|75px]]
+|rowspan="2"|'''[[William Badger]]'''<br>{{Small|(1779–1852)}}<br>{{sfn|Sobel|1978|pp=952–953}}<ref name="nga-badger">{{Cite web |title=William Badger |url=https://www.nga.org/governor/william-badger/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="728"|June 6, 1834<ref>New Hampshire General Court. ''Journal of the Senate''. 1834 sess., [https://books.google.com/books?id=gDQTAAAAYAAJ&pg=PA11 11], accessed April 10, 2023.</ref><br>&ndash;<br>June 2, 1836<br>{{small|(728 days; retired)}}
+|rowspan="2"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1834 New Hampshire gubernatorial election|1834]]
+|- style="height:2em;"
+|[[1835 New Hampshire gubernatorial election|1835]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|16
+|rowspan="3" data-sort-value="Hill, Isaac"|[[File:Isaac Hill, portrait.jpg|75px]]
+|rowspan="3"|'''[[Isaac Hill]]'''<br>{{Small|(1788–1851)}}<br>{{sfn|Sobel|1978|pp=953–954}}<ref name="nga-hill">{{Cite web |title=Isaac Hill |url=https://www.nga.org/governor/isaac-hill/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|June 2, 1836<ref>New Hampshire General Court. ''Journal of the Senate''. 1836 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095661354&seq=19 15], accessed April 10, 2023.</ref><br>&ndash;<br>June 6, 1839<br>{{small|(1100 days; retired)}}
+|rowspan="3"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1836 New Hampshire gubernatorial election|1836]]
+|- style="height:2em;"
+|[[1837 New Hampshire gubernatorial election|1837]]
+|- style="height:2em;"
+|[[1838 New Hampshire gubernatorial election|1838]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|17
+|rowspan="3" data-sort-value="Page, John"|[[File:John-Page-NH.jpg|75px]]
+|rowspan="3"|'''[[John Page (New Hampshire politician)|John Page]]'''<br>{{Small|(1787–1865)}}<br>{{sfn|Sobel|1978|p=954}}<ref name="nga-page">{{Cite web |title=John Page |url=https://www.nga.org/governor/john-page/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1093"|June 6, 1839<ref>New Hampshire General Court. ''Journal of the Senate''. 1839 sess., [https://books.google.com/books?id=9TkTAAAAYAAJ&pg=RA1-PA14 14], accessed April 10, 2023.</ref><br>&ndash;<br>June 2, 1842<br>{{small|(1093 days; retired)}}
+|rowspan="3"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1839 New Hampshire gubernatorial election|1839]]
+|- style="height:2em;"
+|[[1840 New Hampshire gubernatorial election|1840]]
+|- style="height:2em;"
+|[[1841 New Hampshire gubernatorial election|1841]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18
+|rowspan="2" data-sort-value="Hubbard, Henry"|[[File:Henry Hubbard Portrait.jpg|75px]]
+|rowspan="2"|'''[[Henry Hubbard]]'''<br>{{Small|(1784–1857)}}<br>{{sfn|Sobel|1978|p=955}}<ref name="nga-hubbard">{{Cite web |title=Henry Hubbard |url=https://www.nga.org/governor/henry-hubbard/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|June 2, 1842<ref>New Hampshire General Court. ''Journal of the Senate''. 1842 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095661639&seq=15 10], accessed April 10, 2023.</ref><br>&ndash;<br>June 6, 1844<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1842 New Hampshire gubernatorial election|1842]]
+|- style="height:2em;"
+|[[1843 New Hampshire gubernatorial election|1843]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Steele, John"|[[File:John Hardy Steele.jpg|75px]]
+|rowspan="2"|'''[[John Hardy Steele]]'''<br>{{Small|(1789–1865)}}<br>{{sfn|Sobel|1978|pp=955–956}}<ref name="nga-steele">{{Cite web |title=John Hardy Steele |url=https://www.nga.org/governor/john-hardy-steele/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="730"|June 6, 1844<ref>New Hampshire General Court. ''Journal of the Senate''. 1844 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095661312&seq=23 17], accessed April 10, 2023.</ref><br>&ndash;<br>June 5, 1846<br>{{small|(730 days; retired)}}
+|rowspan="2"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1844 New Hampshire gubernatorial election|1844]]
+|- style="height:2em;"
+|[[1845 New Hampshire gubernatorial election|1845]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Colby, Anthony"|[[File:Anthony Colby.jpg|75px]]
+|style="background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[Anthony Colby]]'''<br>{{Small|(1792–1873)}}<br>{{sfn|Sobel|1978|pp=956–957}}<ref name="nga-colby">{{Cite web |title=Anthony Colby |url=https://www.nga.org/governor/anthony-colby/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="364"|June 5, 1846<ref>New Hampshire General Court. ''Journal of the Senate''. 1846 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095661613&seq=23 16], accessed April 10, 2023.</ref><br>&ndash;<br>June 3, 1847<br>{{small|(364 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1846 New Hampshire gubernatorial election|1846]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Williams, Jared"|[[File:JWWilliams.jpg|75px]]
+|rowspan="8" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jared W. Williams]]'''<br>{{Small|(1796–1864)}}<br>{{sfn|Sobel|1978|pp=957–958}}<ref name="nga-williams">{{Cite web |title=Jared Warner Williams |url=https://www.nga.org/governor/jared-warner-williams/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|June 3, 1847<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1847 sess., [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108098184&seq=29 20], accessed April 10, 2023.</ref><br>&ndash;<br>June 7, 1849<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1847 New Hampshire gubernatorial election|1847]]
+|- style="height:2em;"
+|[[1848 New Hampshire gubernatorial election|1848]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|22
+|rowspan="3" data-sort-value="Dinsmoor, Samuel 2"|[[File:Samuel Dinsmoor, Jr..jpg|75px]]
+|rowspan="3"|'''[[Samuel Dinsmoor Jr.]]'''<br>{{Small|(1799–1869)}}<br>{{sfn|Sobel|1978|pp=958–959}}<ref name="nga-dinsmoor-samuel-2">{{Cite web |title=Samuel Dinsmoor Jr. |url=https://www.nga.org/governor/samuel-dinsmoor-jr/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1093"|June 7, 1849<ref>New Hampshire General Court. ''Journal of the Senate''. 1849 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095661922&seq=22 18], accessed April 10, 2023.</ref><br>&ndash;<br>June 3, 1852<br>{{small|(1093 days; retired)}}
+|rowspan="3"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1849 New Hampshire gubernatorial election|1849]]
+|- style="height:2em;"
+|[[1850 New Hampshire gubernatorial election|1850]]
+|- style="height:2em;"
+|[[1851 New Hampshire gubernatorial election|1851]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Martin, Noah"|[[File:NoahMartin.jpg|75px]]
+|rowspan="2"|'''[[Noah Martin (politician)|Noah Martin]]'''<br>{{Small|(1801–1863)}}<br>{{sfn|Sobel|1978|pp=959–960}}<ref name="nga-martin">{{Cite web |title=Noah Martin |url=https://www.nga.org/governor/noah-martin/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|June 3, 1852<ref>{{Cite news |date=1852-06-11 |title=New Hampshire |page=3 |work=Vermont Journal |url=https://www.newspapers.com/article/122674023/martin-inaugurated-june-3/ |access-date=2023-04-11}}</ref><br>&ndash;<br>June 8, 1854<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1852 New Hampshire gubernatorial election|1852]]
+|- style="height:2em;"
+|[[1853 New Hampshire gubernatorial election|1853]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Baker, Nathaniel"|[[File:Nathaniel Bradley Baker.jpg|75px]]
+|'''[[Nathaniel B. Baker]]'''<br>{{Small|(1818–1876)}}<br>{{sfn|Sobel|1978|p=960}}<ref name="nga-baker">{{Cite web |title=Nathaniel Bradley Baker |url=https://www.nga.org/governor/nathaniel-bradley-baker/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="365"|June 8, 1854<ref>New Hampshire General Court. ''Journal of the Senate''. 1854 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095661671&seq=28 22], accessed April 10, 2023.</ref><br>&ndash;<br>June 7, 1855<br>{{small|(365 days; lost election)}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1854 New Hampshire gubernatorial election|1854]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Metcalf, Ralph"|[[File:Ralph Metcalf.jpg|75px]]
+|rowspan="2" style="background:{{party color|Know Nothing}};" title="Represented the Know Nothing Party"|
+|rowspan="2"|'''[[Ralph Metcalf (New Hampshire politician)|Ralph Metcalf]]'''<br>{{Small|(1796–1858)}}<br>{{sfn|Sobel|1978|pp=960–961}}<ref name="nga-metcalf">{{Cite web |title=Ralph Metcalf |url=https://www.nga.org/governor/ralph-metcalf/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 7, 1855<ref>New Hampshire General Court. ''Journal of the Senate''. 1855 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095661980&seq=26 20], accessed April 10, 2023.</ref><br>&ndash;<br>June 4, 1857<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[Know Nothing]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1855 New Hampshire gubernatorial election|1855]]
+|- style="height:2em;"
+|[[1856 New Hampshire gubernatorial election|1856]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Haile, William"|[[File:William Haile NH.jpg|75px]]
+|rowspan="14" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[William Haile (New Hampshire politician)|William Haile]]'''<br>{{Small|(1807–1876)}}<br>{{sfn|Sobel|1978|pp=961–962}}<ref name="nga-haile">{{Cite web |title=William Haile |url=https://www.nga.org/governor/william-haile/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 4, 1857<ref>New Hampshire General Court. ''Journal of the Senate''. 1857 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065190483&seq=33 26], accessed April 10, 2023.</ref><br>&ndash;<br>June 2, 1859<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1857 New Hampshire gubernatorial election|1857]]
+|- style="height:2em;"
+|[[1858 New Hampshire gubernatorial election|1858]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|27
+|rowspan="2" data-sort-value="Goodwin, Ichabod"|[[File:Ichabod Goodwin.jpg|75px]]
+|rowspan="2"|'''[[Ichabod Goodwin]]'''<br>{{Small|(1794–1882)}}<br>{{sfn|Sobel|1978|pp=962–963}}<ref name="nga-goodwin">{{Cite web |title=Icabod Goodwin |url=https://www.nga.org/governor/icabod-goodwin/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|June 2, 1859<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1859 sess., [https://babel.hathitrust.org/cgi/pt?id=uiug.30112108098226&seq=44 39], accessed April 10, 2023.</ref><br>&ndash;<br>June 6, 1861<br>{{small|(736 days;<br>lost nomination)}}<ref>{{cite news | url=https://www.newspapers.com/article/aurora-of-the-valley-political-conventio/205383840/ | title=Political Convention in New Hampshire | newspaper=Aurora of the Valley | date=January 12, 1861 | page=1 | access-date=September 5, 2026}}</ref>
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1859 New Hampshire gubernatorial election|1859]]
+|- style="height:2em;"
+|[[1860 New Hampshire gubernatorial election|1860]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Berry, Nathaniel"|[[File:Nathaniel Springer Berry.jpg|75px]]
+|rowspan="2"|'''[[Nathaniel S. Berry]]'''<br>{{Small|(1796–1894)}}<br>{{sfn|Sobel|1978|pp=963–964}}<ref name="nga-berry">{{Cite web |title=Nathaniel Springer Berry |url=https://www.nga.org/governor/nathaniel-springer-berry/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 6, 1861<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1861 sess., [https://archive.org/details/vol-1861-journal-of-the-house-of-representatives-of-the-state-of-new-hampshire-at-their-session/page/26 26], accessed April 10, 2023.</ref><br>&ndash;<br>June 4, 1863<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1861 New Hampshire gubernatorial election|1861]]
+|- style="height:2em;"
+|[[1862 New Hampshire gubernatorial election|1862]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Gilmore, Joseph"|[[File:Joseph A. Gilmore.jpg|75px]]
+|rowspan="2"|'''[[Joseph A. Gilmore]]'''<br>{{Small|(1811–1867)}}<br>{{sfn|Sobel|1978|p=964}}<ref name="nga-gilmore">{{Cite web |title=Joseph Albree Gilmore |url=https://www.nga.org/governor/joseph-albree-gilmore/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="736"|June 4, 1863<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1863 sess., [https://archive.org/details/vol-1863-journal-of-the-house-of-representatives-of-the-state-of-new-hampshire-at-their-session/page/n29 29], accessed April 11, 2023.</ref><br>&ndash;<br>June 8, 1865<br>{{small|(736 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1863 New Hampshire gubernatorial election|1863]]
+|- style="height:2em;"
+|[[1864 New Hampshire gubernatorial election|1864]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Smyth, Frederick"|[[File:Frederick Smyth.jpg|75px]]
+|rowspan="2"|'''[[Frederick Smyth (New Hampshire politician)|Frederick Smyth]]'''<br>{{Small|(1819–1899)}}<br>{{sfn|Sobel|1978|p=965}}<ref name="nga-smyth">{{Cite web |title=Frederick Smyth |url=https://www.nga.org/governor/frederick-smyth/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 8, 1865<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1865 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2883935&seq=144 25], accessed April 11, 2023.</ref><br>&ndash;<br>June 6, 1867<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1865 New Hampshire gubernatorial election|1865]]
+|- style="height:2em;"
+|[[1866 New Hampshire gubernatorial election|1866]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Harriman, Walter"|[[File:Walter Harriman NH.jpg|75px]]
+|rowspan="2"|'''[[Walter Harriman (politician)|Walter Harriman]]'''<br>{{Small|(1817–1884)}}<br>{{sfn|Sobel|1978|pp=965–966}}<ref name="nga-harriman">{{Cite web |title=Walter Harriman |url=https://www.nga.org/governor/walter-harriman/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 6, 1867<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1867 sess., [https://babel.hathitrust.org/cgi/pt?id=chi.095662009&seq=180 176], accessed April 11, 2023.</ref><br>&ndash;<br>June 3, 1869<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1867 New Hampshire gubernatorial election|1867]]
+|- style="height:2em;"
+|[[1868 New Hampshire gubernatorial election|1868]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Stearns, Onslow"|[[File:Onslow Stearns.jpg|75px]]
+|rowspan="2"|'''[[Onslow Stearns]]'''<br>{{Small|(1810–1878)}}<br>{{sfn|Sobel|1978|p=967}}<ref name="nga-stearns">{{Cite web |title=Onslow Stearns |url=https://www.nga.org/governor/onslow-stearns/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="742"|June 3, 1869<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1869 sess., [https://books.google.com/books?id=nH8lAQAAIAAJ&pg=RA1-PA25 25], accessed April 11, 2023.</ref><br>&ndash;<br>June 14, 1871<br>{{small|(742 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1869 New Hampshire gubernatorial election|1869]]
+|- style="height:2em;"
+|[[1870 New Hampshire gubernatorial election|1870]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Weston, James"|[[File:James Adams Weston.png|75px]]
+|style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James A. Weston]]'''<br>{{Small|(1827–1895)}}<br>{{sfn|Sobel|1978|p=968}}<ref name="nga-weston">{{Cite web |title=James Adams Weston |url=https://www.nga.org/governor/james-adams-weston/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="359"|June 14, 1871<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1871 sess., [https://books.google.com/books?id=UtFHAQAAMAAJ&pg=PA87 87], accessed April 11, 2023.</ref><br>&ndash;<br>June 6, 1872<br>{{small|(359 days; lost election)}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1871 New Hampshire gubernatorial election|1871]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="Straw, Ezekiel"|[[File:Portrait of Ezekiel A. Straw (cropped).jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Ezekiel A. Straw]]'''<br>{{Small|(1819–1882)}}<br>{{sfn|Sobel|1978|pp=968–969}}<ref name="nga-straw">{{Cite web |title=Ezekiel Albert Straw |url=https://www.nga.org/governor/ezekiel-albert-straw/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 6, 1872<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1872 sess., [https://books.google.com/books?id=3TctAQAAMAAJ&pg=RA1-PA25 25], accessed April 11, 2023.</ref><br>&ndash;<br>June 4, 1874<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1872 New Hampshire gubernatorial election|1872]]
+|- style="height:2em;"
+|[[1873 New Hampshire gubernatorial election|1873]]
+|- style="height:2em;"
+!scope="row"|''33''
+|data-sort-value="Weston, James"|[[File:James Adams Weston.png|75px]]
+|style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James A. Weston]]'''<br>{{Small|(1827–1895)}}<br>{{sfn|Sobel|1978|p=968}}<ref name="nga-weston" />
+|data-sort-value="372"|June 4, 1874<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1874 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065190442&seq=210 200], accessed April 11, 2023.</ref><br>&ndash;<br>June 10, 1875<br>{{small|(372 days; retired)}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1874 New Hampshire gubernatorial election|1874]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="Cheney, Person"|[[File:Govpersoncheney.jpg|75px]]
+|rowspan="21" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Person Colby Cheney]]'''<br>{{Small|(1828–1901)}}<br>{{sfn|Sobel|1978|p=970}}<ref name="nga-cheney">{{Cite web |title=Person Colby Cheney |url=https://www.nga.org/governor/person-colby-cheney/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 10, 1875<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1875 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065190434&seq=228 220], accessed April 11, 2023.</ref><br>&ndash;<br>June 7, 1877<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1875 New Hampshire gubernatorial election|1875]]
+|- style="height:2em;"
+|[[1876 New Hampshire gubernatorial election|1876]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|36
+|rowspan="2" data-sort-value="Prescott, Benjamin"|[[File:GBFPrescott.jpg|75px]]
+|rowspan="2"|'''[[Benjamin F. Prescott]]'''<br>{{Small|(1833–1895)}}<br>{{sfn|Sobel|1978|pp=971–972}}<ref name="nga-prescott">{{Cite web |title=Benjamin Franklin Prescott |url=https://www.nga.org/governor/benjamin-franklin-prescott/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="729"|June 7, 1877<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1877 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065190418&seq=176 167], accessed April 11, 2023.</ref><br>&ndash;<br>June 5, 1879<br>{{small|(729 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1877 New Hampshire gubernatorial election|1877]]
+|- style="height:2em;"
+|[[March 1878 New Hampshire gubernatorial election|Mar. 1878]]
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Head, Nathaniel"|[[File:Natt Head.jpg|75px]]
+|'''[[Nathaniel Head]]'''<br>{{Small|(1828–1883)}}<br>{{sfn|Sobel|1978|pp=972–973}}<ref name="nga-head">{{Cite web |title=Nathaniel Head |url=https://www.nga.org/governor/nathaniel-head/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|June 5, 1879<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1879 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065190392&seq=252 244], accessed April 11, 2023.</ref><br>&ndash;<br>June 2, 1881<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[November 1878 New Hampshire gubernatorial election|Nov. 1878]]
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Bell, Charles"|[[File:CharlesBell.jpg|75px]]
+|'''[[Charles H. Bell (politician)|Charles H. Bell]]'''<br>{{Small|(1823–1893)}}<br>{{sfn|Sobel|1978|pp=973–974}}<ref name="nga-bell-charles">{{Cite web |title=Charles Henry Bell |url=https://www.nga.org/governor/charles-henry-bell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|June 2, 1881<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1881 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065190384&seq=318 312], accessed April 11, 2023.</ref><br>&ndash;<br>June 7, 1883<br>{{small|(736 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1880 New Hampshire gubernatorial election|1880]]
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Hale, Samuel"|[[File:Samuel W. Hale.jpg|75px]]
+|'''[[Samuel W. Hale]]'''<br>{{Small|(1823–1891)}}<br>{{sfn|Sobel|1978|p=974}}<ref name="nga-hale">{{Cite web |title=Samuel Whitney Hale |url=https://www.nga.org/governor/samuel-whitney-hale/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|June 7, 1883<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1883 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065130323&seq=379 371], accessed April 11, 2023.</ref><br>&ndash;<br>June 4, 1885<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1882 New Hampshire gubernatorial election|1882]]
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Currier, Moody"|[[File:Moody Currier, Governor of New Hampshire from State Builders.jpg|75px]]
+|'''[[Moody Currier]]'''<br>{{Small|(1806–1898)}}<br>{{sfn|Sobel|1978|p=975}}<ref name="nga-currier">{{Cite web |title=Moody Currier |url=https://www.nga.org/governor/moody-currier/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|June 4, 1885<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1885 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065130315&seq=316 311], accessed April 11, 2023.</ref><br>&ndash;<br>June 2, 1887<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1884 New Hampshire gubernatorial election|1884]]
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Sawyer, Charles"|[[File:Charles H. Sawyer.jpg|75px]]
+|'''[[Charles H. Sawyer (politician)|Charles H. Sawyer]]'''<br>{{Small|(1840–1908)}}<br>{{sfn|Sobel|1978|p=976}}<ref name="nga-sawyer">{{Cite web |title=Charles Henry Sawyer |url=https://www.nga.org/governor/charles-henry-sawyer/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|June 2, 1887<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1887 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015068113052&seq=32 29], accessed April 11, 2023.</ref><br>&ndash;<br>June 6, 1889<br>{{small|(736 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1886 New Hampshire gubernatorial election|1886]]
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Goodell, David"|[[File:Gov. David Harvey Goodell.png|75px]]
+|'''[[David H. Goodell]]'''{{efn|Goodell was seriously ill in 1890, and President of the Senate [[David A. Taggart]] acted as governor from April 22 to July 1.{{sfn|Sobel|1978|pp=976–977}}}}<br>{{Small|(1834–1915)}}<br>{{sfn|Sobel|1978|pp=976–977}}<ref name="nga-goodell">{{Cite web |title=David Harvey Goodell |url=https://www.nga.org/governor/david-harvey-goodell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="582"|June 6, 1889<ref>New Hampshire General Court. ''Journal of the House of Representatives''. 1889 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065130489&seq=380 375], accessed April 11, 2023.</ref><br>&ndash;<br>January 8, 1891<br>{{small|(582 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1888 New Hampshire gubernatorial election|1888]]
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Tuttle, Hiram"|[[File:Hiram A. Tuttle.jpg|75px]]
+|'''[[Hiram A. Tuttle]]'''<br>{{Small|(1837–1911)}}<br>{{sfn|Sobel|1978|pp=977–978}}<ref name="nga-tuttle">{{Cite web |title=Hiram Americus Tuttle |url=https://www.nga.org/governor/hiram-americus-tuttle/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 8, 1891<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1891 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015068113045&seq=396 390], accessed April 11, 2023.</ref><br>&ndash;<br>January 5, 1893<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1890 New Hampshire gubernatorial election|1890]]
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Smith, John"|[[File:John Butler Smith.jpg|75px]]
+|'''[[John Butler Smith]]'''<br>{{Small|(1838–1914)}}<br>{{sfn|Sobel|1978|pp=978–979}}<ref name="nga-smith-john">{{Cite web |title=John Butler Smith |url=https://www.nga.org/governor/john-butler-smith/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1893<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1893 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015068112898&seq=394 388], accessed April 11, 2023.</ref><br>&ndash;<br>January 3, 1895<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1892 New Hampshire gubernatorial election|1892]]
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Busiel, Charles"|[[File:Charles A. Busiel.jpg|75px]]
+|'''[[Charles A. Busiel]]'''<br>{{Small|(1842–1901)}}<br>{{sfn|Sobel|1978|pp=979–980}}<ref name="nga-busiel">{{Cite web |title=Charles Albert Busiel |url=https://www.nga.org/governor/charles-albert-busiel/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1895<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1895 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065130471&seq=421 415], accessed April 11, 2023.</ref><br>&ndash;<br>January 7, 1897<br>{{small|(736 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1894 New Hampshire gubernatorial election|1894]]
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Ramsdell, George"|[[File:George A. Ramsdell.jpg|75px]]
+|'''[[George A. Ramsdell]]'''<br>{{Small|(1834–1900)}}<br>{{sfn|Sobel|1978|p=980}}<ref name="nga-ramsdell">{{Cite web |title=George Ramsdell |url=https://www.nga.org/governor/george-ramsdell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1897<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1897 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015068113037&seq=298 292], accessed April 11, 2023.</ref><br>&ndash;<br>January 5, 1899<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1896 New Hampshire gubernatorial election|1896]]
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Rollins, Frank"|[[File:Frank West Rollins.jpg|75px]]
+|'''[[Frank W. Rollins]]'''<br>{{Small|(1860–1915)}}<br>{{sfn|Sobel|1978|p=981}}<ref name="nga-rollins">{{Cite web |title=Frank West Rollins |url=https://www.nga.org/governor/frank-west-rollins/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1899<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1899 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015068112880&seq=264 259], accessed April 11, 2023.</ref><br>&ndash;<br>January 3, 1901<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1898 New Hampshire gubernatorial election|1898]]
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Jordan, Chester"|[[File:Chester Bradley Jordan (1839-1914) (cropped).jpg|75px]]
+|'''[[Chester B. Jordan]]'''<br>{{Small|(1839–1914)}}<br>{{sfn|Sobel|1978|pp=981–982}}<ref name="nga-jordan">{{Cite web |title=Chester Bradley Jordan |url=https://www.nga.org/governor/chester-bradley-jordan/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1901<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1901 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015068112872&seq=319 312], accessed April 11, 2023.</ref><br>&ndash;<br>January 8, 1903<br>{{small|(736 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1900 New Hampshire gubernatorial election|1900]]
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Bachelder, Nahum"|[[File:Nahum Josiah Bachelder, Governor of New Hampshire from State Builders.jpg|75px]]
+|'''[[Nahum J. Bachelder]]'''<br>{{Small|(1854–1934)}}<br>{{sfn|Sobel|1978|pp=982–983}}<ref name="nga-bachelder">{{Cite web |title=Nahum Josiah Bachelder |url=https://www.nga.org/governor/nahum-josiah-bachelder/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 8, 1903<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1903 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065130463&seq=318 26], accessed April 11, 2023.</ref><br>&ndash;<br>January 5, 1905<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1902 New Hampshire gubernatorial election|1902]]
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="McLane, John"|[[File:Mclajohn.jpg|75px]]
+|'''[[John McLane]]'''<br>{{Small|(1852–1911)}}<br>{{sfn|Sobel|1978|pp=983–984}}<ref name="nga-mclane">{{Cite web |title=John McLane |url=https://www.nga.org/governor/john-mclane/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1905<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1905 sess., [https://babel.hathitrust.org/cgi/pt?id=mdp.39015065130455&seq=298 39], accessed April 11, 2023.</ref><br>&ndash;<br>January 3, 1907<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1904 New Hampshire gubernatorial election|1904]]
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Floyd, Charles"|[[File:Charles Miller Floyd.jpg|75px]]
+|'''[[Charles M. Floyd]]'''<br>{{Small|(1861–1923)}}<br>{{sfn|Sobel|1978|pp=984–985}}<ref name="nga-floyd">{{Cite web |title=Charles Miller Floyd |url=https://www.nga.org/governor/charles-miller-floyd/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1907<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1907 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884370&seq=363 26], accessed April 11, 2023.</ref><br>&ndash;<br>January 7, 1909<br>{{small|(736 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1906 New Hampshire gubernatorial election|1906]]
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Quinby, Henry"|[[File:Henry Brewer Quinby.png|75px]]
+|'''[[Henry B. Quinby]]'''<br>{{Small|(1846–1924)}}<br>{{sfn|Sobel|1978|pp=985–986}}<ref name="nga-quinby">{{Cite web |title=Henry Brewer Quinby |url=https://www.nga.org/governor/henry-brewer-quinby/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1909<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1909 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884371&seq=463 27], accessed April 11, 2023.</ref><br>&ndash;<br>January 5, 1911<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1908 New Hampshire gubernatorial election|1908]]
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Bass, Robert"|[[File:Robert Perkins Bass cph.3b10273 (cropped).jpg|75px]]
+|'''[[Robert P. Bass]]'''<br>{{Small|(1873–1960)}}<br>{{sfn|Sobel|1978|pp=986–987}}<ref name="nga-bass">{{Cite web |title=Robert Perkins Bass |url=https://www.nga.org/governor/robert-perkins-bass/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 5, 1911<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1911 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884372&seq=617 33], accessed April 11, 2023.</ref><br>&ndash;<br>January 2, 1913<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1910 New Hampshire gubernatorial election|1910]]
+|- style="height:2em;"
+!scope="row"|54
+|data-sort-value="Felker, Samuel"|[[File:Samuel D. Felker.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Samuel D. Felker]]'''<br>{{Small|(1859–1932)}}<br>{{sfn|Sobel|1978|p=987}}<ref name="nga-felker">{{Cite web |title=Samuel Demeritt Felker |url=https://www.nga.org/governor/samuel-demeritt-felker/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 2, 1913<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1913 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884374&seq=59 48], accessed April 11, 2023.</ref><br>&ndash;<br>January 7, 1915<br>{{small|(736 days; retired)}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1912 New Hampshire gubernatorial election|1912]]
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Spaulding, Rolland"|[[File:GovernorSpaulding (cropped).jpg|75px]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Rolland H. Spaulding]]'''<br>{{Small|(1873–1942)}}<br>{{sfn|Sobel|1978|pp=987–988}}<ref name="nga-spaulding-rolland">{{Cite web |title=Rolland Harty Spaulding |url=https://www.nga.org/governor/rolland-harty-spaulding/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 7, 1915<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1915 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884375&seq=578 43], accessed April 11, 2023.</ref><br>&ndash;<br>January 4, 1917<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1914 New Hampshire gubernatorial election|1914]]
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="Keyes, Henry"|[[File:GHWKeyes.jpg|75px]]
+|'''[[Henry W. Keyes]]'''<br>{{Small|(1863–1938)}}<br>{{sfn|Sobel|1978|pp=988–989}}<ref name="nga-keyes">{{Cite web |title=Henry Wilder Keyes |url=https://www.nga.org/governor/henry-wilder-keyes/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 4, 1917<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1917 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884376&seq=564 40], accessed April 11, 2023.</ref><br>&ndash;<br>January 2, 1919<br>{{small|(729 days; retired)}}{{efn|Keyes was instead [[1918 United States Senate election in New Hampshire|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=988–989}}}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1916 New Hampshire gubernatorial election|1916]]
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Bartlett, John"|[[File:GJHBartlett.jpg|75px]]
+|'''[[John H. Bartlett]]'''<br>{{Small|(1869–1952)}}<br>{{sfn|Sobel|1978|pp=989–990}}<ref name="nga-bartlett-john">{{Cite web |title=John Henry Bartlett |url=https://www.nga.org/governor/john-henry-bartlett/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 2, 1919<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1919 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884377&seq=409 33], accessed April 11, 2023.</ref><br>&ndash;<br>January 6, 1921<br>{{small|(736 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1918 New Hampshire gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Brown, Albert"|[[File:Gov. Albert Oscar Brown.png|75px]]
+|'''[[Albert O. Brown]]'''<br>{{Small|(1852–1937)}}<br>{{sfn|Sobel|1978|p=990}}<ref name="nga-brown-albert">{{Cite web |title=Albert Oscar Brown |url=https://www.nga.org/governor/albert-oscar-brown/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 6, 1921<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1921 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884378&seq=471 48], accessed April 13, 2023.</ref><br>&ndash;<br>January 4, 1923<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=990}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1920 New Hampshire gubernatorial election|1920]]
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="Brown, Fred"|[[File:Senator Fred H. Brown (cropped).jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Fred H. Brown]]'''<br>{{Small|(1879–1955)}}<br>{{sfn|Sobel|1978|p=991}}<ref name="nga-brown-fred">{{Cite web |title=Fred Herbert Brown |url=https://www.nga.org/governor/fred-herbert-brown/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 4, 1923<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1923 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884379&seq=390 47], accessed April 13, 2023.</ref><br>&ndash;<br>January 8, 1925<br>{{small|(736 days; lost election)}}
+|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1922 New Hampshire gubernatorial election|1922]]
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Winant, John"|[[File:John Gilbert Winant.jpg|75px]]
+|rowspan="19" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[John Gilbert Winant]]'''<br>{{Small|(1889–1947)}}<br>{{sfn|Sobel|1978|pp=991–992}}<ref name="nga-winant">{{Cite web |title=John Gilbert Winant |url=https://www.nga.org/governor/john-gilbert-winant/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 8, 1925<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1925 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884380&seq=515 35], accessed April 13, 2023.</ref><br>&ndash;<br>January 6, 1927<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=993}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1924 New Hampshire gubernatorial election|1924]]
+|- style="height:2em;"
+!scope="row"|61
+|data-sort-value="Spaulding, Huntley"|[[File:Huntley N. Spaulding.jpg|75px]]
+|'''[[Huntley N. Spaulding]]'''<br>{{Small|(1869–1955)}}<br>{{sfn|Sobel|1978|p=993}}<ref name="nga-spaulding-huntley">{{Cite web |title=Huntley Nowell Spaulding |url=https://www.nga.org/governor/huntley-nowell-spaulding/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 6, 1927<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1927 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884381&seq=536 68], accessed April 13, 2023.</ref><br>&ndash;<br>January 3, 1929<br>{{small|(729 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1926 New Hampshire gubernatorial election|1926]]
+|- style="height:2em;"
+!scope="row"|62
+|data-sort-value="Tobey, Charles"|[[File:Charles Tobey.jpg|75px]]
+|'''[[Charles W. Tobey]]'''<br>{{Small|(1880–1953)}}<br>{{sfn|Sobel|1978|p=994}}<ref name="nga-tobey">{{Cite web |title=Charles William Tobey |url=https://www.nga.org/governor/charles-william-tobey/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1929<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1929 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884383&seq=551 62], accessed April 13, 2023.</ref><br>&ndash;<br>January 8, 1931<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|p=994}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1928 New Hampshire gubernatorial election|1928]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''60''
+|rowspan="2" data-sort-value="Winant, John"|[[File:John Gilbert Winant.jpg|75px]]
+|rowspan="2"|'''[[John Gilbert Winant]]'''<br>{{Small|(1889–1947)}}<br>{{sfn|Sobel|1978|pp=991–992}}<ref name="nga-winant" />
+|rowspan="2" data-sort-value="1457"|January 8, 1931<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1931 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884384&seq=589 57], accessed April 13, 2023.</ref><br>&ndash;<br>January 3, 1935<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1930 New Hampshire gubernatorial election|1930]]
+|- style="height:2em;"
+|[[1932 New Hampshire gubernatorial election|1932]]
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Bridges, Styles"|[[File:StylesBridges(R-NH).jpg|75px]]
+|'''[[Styles Bridges]]'''<br>{{Small|(1898–1961)}}<br>{{sfn|Sobel|1978|pp=994–995}}<ref name="nga-bridges">{{Cite web |title=Henry Styles Bridges |url=https://www.nga.org/governor/henry-styles-bridges/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|January 3, 1935<ref>{{Cite news |date=1935-01-03 |title=Governor Bridges Stresses Critical Relief Situation |page=1 |work=The Portsmouth Herald |url=https://www.newspapers.com/article/122790690/governor-bridges-stresses-critical/ |access-date=2023-04-13}}</ref><br>&ndash;<br>January 7, 1937<br>{{small|(736 days; retired)}}{{efn|Bridges was instead [[1936 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=994–995}}}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1934 New Hampshire gubernatorial election|1934]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|64
+|rowspan="2" data-sort-value="Murphy, Francis"|[[File:Francis Parnell Murphy.jpg|75px]]
+|rowspan="2"|'''[[Francis P. Murphy]]'''<br>{{Small|(1877–1958)}}<br>{{sfn|Sobel|1978|pp=995–996}}<ref name="nga-murphy">{{Cite web |title=Francis Parnell Murphy |url=https://www.nga.org/governor/francis-parnell-murphy/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 7, 1937<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1937 sess., [https://archive.org/details/vol-1937-journal-of-the-house-of-representatives-of-the-state-of-new-hampshire-at-their-session/page/52 52], accessed April 13, 2023.</ref><br>&ndash;<br>January 2, 1941<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1936 New Hampshire gubernatorial election|1936]]
+|- style="height:2em;"
+|[[1938 New Hampshire gubernatorial election|1938]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|65
+|rowspan="2" data-sort-value="Blood, Robert"|[[File:Robert O. Blood.jpg|75px]]
+|rowspan="2"|'''[[Robert O. Blood]]'''<br>{{Small|(1887–1975)}}<br>{{sfn|Sobel|1978|pp=996–997}}<ref name="nga-blood">{{Cite web |title=Robert Oscar Blood |url=https://www.nga.org/governor/robert-oscar-blood/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1941<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1941 sess., [https://archive.org/details/vol1941journalofthehouseofrepresentativesofthestateofnewhampshireattheirsession/page/n45 46], accessed April 13, 2023.</ref><br>&ndash;<br>January 4, 1945<br>{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=996–997}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1940 New Hampshire gubernatorial election|1940]]
+|- style="height:2em;"
+|[[1942 New Hampshire gubernatorial election|1942]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|66
+|rowspan="2" data-sort-value="Dale, Charles"|[[File:Charles M. Dale.jpg|75px]]
+|rowspan="2"|'''[[Charles M. Dale]]'''<br>{{Small|(1893–1978)}}<br>{{sfn|Sobel|1978|pp=997–998}}<ref name="nga-dale">{{Cite web |title=Charles Milby Dale |url=https://www.nga.org/governor/charles-milby-dale/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 4, 1945<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1945 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2884391&seq=460 57], accessed April 13, 2023.</ref><br>&ndash;<br>January 6, 1949<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1944 New Hampshire gubernatorial election|1944]]
+|- style="height:2em;"
+|[[1946 New Hampshire gubernatorial election|1946]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|67
+|rowspan="2" data-sort-value="Adams, Sherman"|[[File:GLSAAdams.jpg|75px]]
+|rowspan="2"|'''[[Sherman Adams]]'''<br>{{Small|(1899–1986)}}<br>{{sfn|Sobel|1978|pp=998–999}}<ref name="nga-adams">{{Cite web |title=Llewelyn Sherman Adams |url=https://www.nga.org/governor/llewelyn-sherman-adams/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 6, 1949<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1949 sess., [https://archive.org/details/journalofhouseof1949newh/page/42 42], accessed April 13, 2023.</ref><br>&ndash;<br>January 8, 1953<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1948 New Hampshire gubernatorial election|1948]]
+|- style="height:2em;"
+|[[1950 New Hampshire gubernatorial election|1950]]
+|- style="height:2em;"
+!scope="row"|68
+|data-sort-value="Gregg, Hugh"|[[File:Hugh Gregg.jpg|75px]]
+|'''[[Hugh Gregg]]'''<br>{{Small|(1917–2003)}}<br>{{sfn|Sobel|1978|p=999}}<ref name="nga-gregg-hugh">{{Cite web |title=Hugh Gregg |url=https://www.nga.org/governor/hugh-gregg/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 8, 1953<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1953 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2944504&seq=45 40], accessed April 13, 2023.</ref><br>&ndash;<br>January 6, 1955<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=999}}
+|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1952 New Hampshire gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|69
+|rowspan="2" data-sort-value="Dwinell, Lane"|[[File:GLDwinell.jpg|75px]]
+|rowspan="2"|'''[[Lane Dwinell]]'''<br>{{Small|(1906–1997)}}<br>{{sfn|Sobel|1978|p=1000}}<ref name="nga-dwinell">{{Cite web |title=Lane Dwinell |url=https://www.nga.org/governor/lane-dwinell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 6, 1955<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1955 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2944506&seq=53 39], accessed April 13, 2023.</ref><br>&ndash;<br>January 8, 1959<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1954 New Hampshire gubernatorial election|1954]]
+|- style="height:2em;"
+|[[1956 New Hampshire gubernatorial election|1956]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|70
+|rowspan="2" data-sort-value="Powell, Wesley"|[[File:Wesley Powell.jpg|75px]]
+|rowspan="2"|'''[[Wesley Powell]]'''<br>{{Small|(1915–1981)}}<br>{{sfn|Sobel|1978|pp=1000–1001}}<ref name="nga-powell">{{Cite web |title=Wesley Powell |url=https://www.nga.org/governor/wesley-powell/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1459"|January 8, 1959<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1959 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2944510&seq=45 41], accessed April 13, 2023.</ref><br>&ndash;<br>January 5, 1963<br>{{small|(1459 days;<br>lost nomination)}}{{efn|Powell lost the Republican nomination to [[John P. Pillsbury]].{{sfn|Sobel|1978|pp=1000–1001}}}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1958 New Hampshire gubernatorial election|1958]]
+|- style="height:2em;"
+|[[1960 New Hampshire gubernatorial election|1960]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|71
+|rowspan="3" data-sort-value="King, John"|[[File:Gov John King.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[John W. King]]'''<br>{{Small|(1916–1996)}}<br>{{sfn|Sobel|1978|pp=1001–1002}}<ref name="nga-king">{{Cite web |title=John William King |url=https://www.nga.org/governor/john-william-king/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2190"|January 5, 1963<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1963 sess., [https://babel.hathitrust.org/cgi/pt?id=uc1.b2944512&seq=29 24], accessed April 13, 2023.</ref><br>&ndash;<br>January 2, 1969<br>{{small|(2190 days; retired)}}{{efn|King instead [[1968 United States Senate election in New Hampshire|ran unsuccessfully]] for the [[United States Senate]].}}
+|rowspan="3"|[[New Hampshire Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1962 New Hampshire gubernatorial election|1962]]
+|- style="height:2em;"
+|[[1964 New Hampshire gubernatorial election|1964]]
+|- style="height:2em;"
+|[[1966 New Hampshire gubernatorial election|1966]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|72
+|rowspan="2" data-sort-value="Peterson, Walter"|[[File:GWRPeterson.jpg|75px]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Walter R. Peterson Jr.]]'''<br>{{Small|(1922–2011)}}<br>{{sfn|Sobel|1978|pp=1002–1003}}<ref name="nga-peterson">{{Cite web |title=Walter Peterson |url=https://www.nga.org/governor/walter-peterson/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1969<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1969 sess., [https://archive.org/details/journalofhouseof19691newh/page/62 62], accessed April 13, 2023.</ref><br>&ndash;<br>January 4, 1973<br>{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1003–1004}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1968 New Hampshire gubernatorial election|1968]]
+|- style="height:2em;"
+|[[1970 New Hampshire gubernatorial election|1970]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|73
+|rowspan="3" data-sort-value="Thomson, Meldrim"|[[File:Meldrim Thomson.jpg|75px]]
+|rowspan="3"|'''[[Meldrim Thomson]]'''<br>{{Small|(1912–2001)}}<br>{{sfn|Sobel|1978|pp=1003–1004}}<ref name="nga-thomson">{{Cite web |title=Meldrim Thomson |url=https://www.nga.org/governor/meldrim-thomson/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 4, 1973<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1973 sess., [https://archive.org/details/journalofhouseof19731newh/page/36 36], accessed April 13, 2023.</ref><br>&ndash;<br>January 4, 1979<br>{{small|(2192 days; lost election)}}
+|rowspan="3"|[[New Hampshire Republican State Committee|Republican]]{{sfn|Kallenbach|1977|pp=374–377}}
+|[[1972 New Hampshire gubernatorial election|1972]]
+|- style="height:2em;"
+|[[1974 New Hampshire gubernatorial election|1974]]
+|- style="height:2em;"
+|[[1976 New Hampshire gubernatorial election|1976]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|74
+|rowspan="2" data-sort-value="Gallen, Hugh"|[[File:Gov Hugh Gallen (cropped).jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Hugh Gallen]]'''<br>{{Small|(1924–1982)}}<br><ref name="nga-gallen">{{Cite web |title=Hugh J. Gallen |url=https://www.nga.org/governor/hugh-j-gallen/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1456"|January 4, 1979<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1979 sess., [https://archive.org/details/journalofhouseof19791newh/page/22 23], accessed April 13, 2023.</ref><br>&ndash;<br>December 29, 1982<br>{{small|(1456 days; died in office)}}{{efn|Gallen lost the 1982 election before he died.}}
+|rowspan="2"|[[New Hampshire Democratic Party|Democratic]]<ref name="nga-gallen" />
+|[[1978 New Hampshire gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1980 New Hampshire gubernatorial election|1980]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Roy, Vesta"|[[File:Vesta Roy Portrait NH Statehouse 02.jpg|75px]]
+|rowspan="9" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Vesta M. Roy]]'''<br>{{Small|(1925–2002)}}<br><ref name="nga-roy">{{Cite web |title=Vesta M. Roy |url=https://www.nga.org/governor/vesta-m-roy/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="9"|December 29, 1982<ref>{{Cite news |date=1982-12-30 |title=New Hampshire Mourns Hugh Gallen |page=1 |work=Valley News |url=https://www.newspapers.com/article/122793913/new-hampshire-mourns-hugh-gallen/ |access-date=2023-04-13}}</ref><br>&ndash;<br>January 6, 1983<br>{{small|(9 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-roy" />
+|style="background:#EEEEEE;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|75
+|rowspan="3" data-sort-value="Sununu, John"|[[File:John H. Sununu (cropped).jpg|75px]]
+|rowspan="3"|'''[[John H. Sununu]]'''<br>{{small|({{Abbr|b.|born in}} 1939)}}<br><ref name="nga-sununu-john">{{Cite web |title=John H. Sununu |url=https://www.nga.org/governor/john-h-sununu/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 6, 1983<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1983 sess., [https://archive.org/details/journalofhouseof1983newh/page/16 17], accessed April 13, 2023.</ref><br>&ndash;<br>January 5, 1989<br>{{small|(2192 days; retired)}}
+|rowspan="3"|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-sununu-john" />
+|[[1982 New Hampshire gubernatorial election|1982]]
+|- style="height:2em;"
+|[[1984 New Hampshire gubernatorial election|1984]]
+|- style="height:2em;"
+|[[1986 New Hampshire gubernatorial election|1986]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|76
+|rowspan="2" data-sort-value="Gregg, Judd"|[[File:Judd Gregg (NH) (cropped).png|75px]]
+|rowspan="2"|'''[[Judd Gregg]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-gregg-judd">{{Cite web |title=Judd Gregg |url=https://www.nga.org/governor/judd-gregg/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1459"|January 5, 1989<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1989 sess., [https://archive.org/details/journalofhouseof1989newh/page/40 41], accessed April 13, 2023.</ref><br>&ndash;<br>January 2, 1993<br>{{small|(1459 days; resigned)}}{{efn|Gregg resigned, having been [[1992 United States Senate election in New Hampshire|elected]] to the [[United States Senate]].<ref name="gregg-resigns" />}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-gregg-judd" />
+|[[1988 New Hampshire gubernatorial election|1988]]
+|- style="height:2em;"
+|[[1990 New Hampshire gubernatorial election|1990]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Hough, Ralph"|[[File:Ralph D. Hough (New Hampshire state senator).jpg|75px]]
+|'''[[Ralph D. Hough]]'''<br>{{small|({{Abbr|b.|born in}} 1943)}}
+|data-sort-value="6"|January 2, 1993<ref name="gregg-resigns">{{Cite news |date=1993-01-03 |title=Gregg Puts in Last Day As Governor |page=3B |work=Sun-Journal |agency=Associated Press |url=https://www.newspapers.com/article/122794222/gregg-puts-in-last-day-as-governor/ |access-date=2023-04-13}}</ref><br>&ndash;<br>January 7, 1993<br>{{small|(6 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]<ref name="gregg-resigns" />
+|style="background:#EEEEEE;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|77
+|rowspan="2" data-sort-value="Merrill, Steve"|[[File:Steve Merrill (NH).png|75px]]
+|rowspan="2"|'''[[Steve Merrill]]'''<br>{{Small|(1946–2020)}}<br><ref name="nga-merrill">{{Cite web |title=Stephen Merrill |url=https://www.nga.org/governor/stephen-merrill/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 7, 1993<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1993 sess., [https://archive.org/details/vol1993journalofthehouseofrepresentativesofthestateofnewhampshireattheirsession/page/n51 51], accessed April 13, 2023.</ref><br>&ndash;<br>January 9, 1997<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-merrill" />
+|[[1992 New Hampshire gubernatorial election|1992]]
+|- style="height:2em;"
+|[[1994 New Hampshire gubernatorial election|1994]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|78
+|rowspan="3" data-sort-value="Shaheen, Jeanne"|[[File:Jeanne Shaheen, official Senate portrait cropped.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Jeanne Shaheen]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-shaheen">{{Cite web |title=Jeanne Shaheen |url=https://www.nga.org/governor/jeanne-shaheen/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2192"|January 9, 1997<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 1997 sess., [https://archive.org/details/journalofhouseof1997newh/page/46 46], accessed April 13, 2023.</ref><br>&ndash;<br>January 9, 2003<br>{{small|(2192 days; retired)}}{{efn|Shaheen instead [[2002 United States Senate election in New Hampshire|ran unsuccessfully]] for the [[United States Senate]].}}
+|rowspan="3"|[[New Hampshire Democratic Party|Democratic]]<ref name="nga-shaheen" />
+|[[1996 New Hampshire gubernatorial election|1996]]
+|- style="height:2em;"
+|[[1998 New Hampshire gubernatorial election|1998]]
+|- style="height:2em;"
+|[[2000 New Hampshire gubernatorial election|2000]]
+|- style="height:2em;"
+!scope="row"|79
+|data-sort-value="Benson, Craig"|[[File:Gov Craig Benson on 9-11-04.JPG|75px]]
+|style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Craig Benson]]'''<br>{{small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-benson">{{Cite web |title=Craig Benson |url=https://www.nga.org/governor/craig-benson/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 9, 2003<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 2003 sess., [https://archive.org/details/journalofhouseof2003newh/page/28 29], accessed April 13, 2023.</ref><br>&ndash;<br>January 6, 2005<br>{{small|(729 days; lost election)}}
+|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-benson" />
+|[[2002 New Hampshire gubernatorial election|2002]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|80
+|rowspan="4" data-sort-value="Lynch, John"|[[File:John Lynch (cropped).jpg|75px]]
+|rowspan="6" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="4"|'''[[John Lynch (New Hampshire governor)|John Lynch]]'''<br>{{small|({{Abbr|b.|born in}} 1952)}}<br><ref name="nga-lynch">{{Cite web |title=John Lynch |url=https://www.nga.org/governor/john-lynch/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2920"|January 6, 2005<ref>New Hampshire General Court. ''Journal of the House of Representatives''. Jan. 2005 sess., [https://archive.org/details/journalofhouseof2005newh/page/26 27], accessed April 13, 2023.</ref><br>&ndash;<br>January 3, 2013<br>{{small|(2920 days; retired)}}
+|rowspan="4"|[[New Hampshire Democratic Party|Democratic]]<ref name="nga-lynch" />
+|[[2004 New Hampshire gubernatorial election|2004]]
+|- style="height:2em;"
+|[[2006 New Hampshire gubernatorial election|2006]]
+|- style="height:2em;"
+|[[2008 New Hampshire gubernatorial election|2008]]
+|- style="height:2em;"
+|[[2010 New Hampshire gubernatorial election|2010]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|81
+|rowspan="2" data-sort-value="Hassan, Maggie"|[[File:Maggie Hassan (NH) (cropped)1.png|75px]]
+|rowspan="2"|'''[[Maggie Hassan]]'''<br>{{small|({{Abbr|b.|born in}} 1958)}}<br><ref name="nga-hassan">{{Cite web |title=Maggie Hassan |url=https://www.nga.org/governor/maggie-hassan/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1461"|January 3, 2013<ref>{{Cite news |last=Love |first=Norma |title=Hassan Inaugurated 81st N.H. Governor |language=en-US |url=https://www.seacoastonline.com/story/news/local/hampton-union/2013/01/04/hassan-inaugurated-81st-n-h/49181122007/ |access-date=2023-04-13}}</ref><br>&ndash;<br>January 2, 2017<br>{{small|(1461 days; resigned)}}{{efn|Hassan resigned, having been [[2016 United States Senate election in New Hampshire|elected]] to the [[United States Senate]].<ref name="hassan-resigns" />}}
+|rowspan="2"|[[New Hampshire Democratic Party|Democratic]]<ref name="nga-hassan" />
+|[[2012 New Hampshire gubernatorial election|2012]]
+|- style="height:2em;"
+|[[2014 New Hampshire gubernatorial election|2014]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Morse, Chuck"| 
+|rowspan="6" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Chuck Morse]]'''<br>{{small|({{Abbr|b.|born in}} 1960)}}<br><ref name="nga-morse">{{Cite web |title=Chuck Morse |url=https://www.nga.org/governor/chuck-morse/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="3"|January 3, 2017{{efn|Morse was sworn in at 12:01am on January 3.<ref name="hassan-resigns">{{Cite news |last=Ronayne |first=Kathleen |title=New Hampshire Has a New Governor — But Only for 2 Days |language=en-US |agency=Associated Press |url=https://www.boston.com/news/politics/2017/01/04/new-hampshire-has-a-new-governor-but-only-for-2-days/ |access-date=2023-04-13}}</ref>}}<br>&ndash;<br>January 5, 2017<br>{{small|(3 days; retired)}}
+|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-morse" />
+|style="background:#EEEEEE;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|82
+|rowspan="4" data-sort-value="Sununu, Chris"|[[File:GOV SUNUNU OFFICIAL PHOTO (cropped).jpg|75px]]
+|rowspan="4"|'''[[Chris Sununu]]'''<br>{{small|({{Abbr|b.|born in}} 1974)}}<br><ref name="nga-sununu-chris">{{Cite web |title=Chris Sununu |url=https://www.nga.org/governor/chris-sununu/ |access-date=March 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2927"|January 5, 2017<ref>{{Cite news |last=Murtagh |first=Alison |date=2023-01-05 |title=Gov. Sununu Calls New Hampshire 'Island of Freedom' in 4th Inauguration Speech |language=en |url=https://wgme.com/news/local/governor-chris-sununu-new-hampshire-island-freedom-4th-inauguration-speech-term-two-years |access-date=2023-04-13}}</ref><br>&ndash;<br>January 9, 2025<br>{{small|(2927 days; retired)}}
+|rowspan="4"|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-sununu-chris" />
+|[[2016 New Hampshire gubernatorial election|2016]]
+|- style="height:2em;"
+|[[2018 New Hampshire gubernatorial election|2018]]
+|- style="height:2em;"
+|[[2020 New Hampshire gubernatorial election|2020]]
+|- style="height:2em;"
+|[[2022 New Hampshire gubernatorial election|2022]]
+|- style="height:2em;"
+!scope="row"|83
+|data-sort-value="Ayotte, Kelly"|[[File:NH Governor Kelly Ayotte (December 11, 2025).jpg|75px]]
+|'''[[Kelly Ayotte]]'''<br>{{small|({{Abbr|b.|born in}} 1968)}}<br><ref name="nga-ayotte">{{Cite web |title=Kelly Ayotte |url=https://www.nga.org/governor/kelly-ayotte/ |access-date=January 9, 2025 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2025|1|9|duration=on|format=no}}"|January 9, 2025<ref>{{Cite news |last=Ramer |first=Holly |date=2025-01-09 |title=Republican former US Sen. Kelly Ayotte sworn in as 83rd governor of New Hampshire |url=https://apnews.com/article/new-hampshire-ayotte-governor-inauguration-f6294372243e5e1a75eb3cd77aa12d40 |access-date=2025-01-23 |work=AP |language=en}}</ref><br>–<br>Incumbent{{efn|Ayotte's term [[2026 New Hampshire gubernatorial election|will expire]] in January 2027.}}<br>{{small|(in office {{Duration in days nts|2025|1|9|duration=on|format=no}} days)}}
+|[[New Hampshire Republican State Committee|Republican]]<ref name="nga-ayotte" />
+|[[2024 New Hampshire gubernatorial election|2024]]
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#New Hampshire]]
+* [[List of New Hampshire General Courts]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former New Hampshire Governors |url=https://www.nga.org/former-governors/new-hampshire/ |access-date=April 6, 2023 |publisher=[[National Governors Association]]}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+*{{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+*{{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+*{{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+*{{Cite web |title=State Constitution |url=https://www.nh.gov/glance/constitution.htm |access-date=April 13, 2023 |publisher=State of New Hampshire}}
+*{{Cite web |title=Our Campaigns - Governor of New Hampshire - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=155 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[https://www.governor.nh.gov/ Office of the Governor of New Hampshire]
+
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{New Hampshire}}
+
+{{DEFAULTSORT:New Hampshire, List of Governors of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:New Hampshire history-related lists|Governors]]
+[[Category:Lists of New Hampshire politicians|Governors]]
+[[Category:Governors of New Hampshire|**]]

@@ -1,0 +1,1166 @@
+{{Short description|Politics in the US state of Maryland}}{{Unreferenced|date=February 2026}}
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Maryland]]:
+{{div col|colwidth=30em}}
+*[[List of governors of Maryland|Governor]]
+*[[Lieutenant Governor of Maryland|Lieutenant Governor]]
+*[[Attorney General of Maryland|Attorney General]]
+*[[Comptroller of Maryland|State Comptroller]]
+{{div col end}}
+
+The table also indicates the historical party composition in the:
+{{div col|colwidth=30em}}
+*[[Maryland Senate|State Senate]]
+*[[Maryland House of Delegates|State House of Delegates]]
+*[[List of United States senators from Maryland|State delegation to the United States Senate]]
+*[[List of United States representatives from Maryland|State delegation to the United States House of Representatives]]
+{{div col end}}
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+== 1777–1851 ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=2 |Executive offices
+!colspan=2 |[[Maryland General Assembly|General Assembly]]
+!colspan=3 |[[Maryland's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Maryland|Governor]]
+!class=unsortable |[[Attorney General of Maryland|Attorney General]]
+!class=unsortable |[[Maryland Senate|State Senate]]
+!class=unsortable |[[Maryland House of Delegates|State House]]
+!class=unsortable |[[List of United States senators from Maryland|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from Maryland|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from Maryland|U.S. House]]
+|- style="height:2em"
+!rowspan=2 |1777
+|rowspan=4 {{Party shading/Independent}} |[[Thomas Johnson (judge)|Thomas Johnson]] {{small|(I)}}
+|
+|rowspan=29 |''{{Data missing|?|date=January 2022}}''
+|rowspan=28 |''{{Data missing|?|date=January 2022}}''
+|rowspan=13 colspan=4 |
+|- style="height:2em"
+|{{Party shading/Independent}} |[[James Tilghman]] {{small|(I)}}
+|- style="height:2em"
+!1778
+|rowspan=11 {{Party shading/Independent}} |[[Luther Martin]] {{small|(I)}}
+|- style="height:2em"
+!1779
+|- style="height:2em"
+!1780
+|rowspan=3 {{Party shading/Independent}} |[[Thomas Sim Lee]] {{small|(I)}}
+|- style="height:2em"
+!1781
+|- style="height:2em"
+!1782
+|- style="height:2em"
+!1783
+|rowspan=3 {{Party shading/Independent}} |[[William Paca]] {{small|(I)}}
+|- style="height:2em"
+!1784
+|- style="height:2em"
+!1785
+|- style="height:2em"
+!1786
+|rowspan=3 {{Party shading/Independent}} |[[William Smallwood]] {{small|(I)}}
+|- style="height:2em"
+!1787
+|- style="height:2em"
+!1788
+|- style="height:2em"
+!1789
+|rowspan=3 {{Party shading/Federalist}} |[[John Eager Howard]] {{small|(F)}}
+|rowspan=3 {{Party shading/Anti-Administration}} |[[Luther Martin]] {{small|(AA)}}
+|rowspan=7 {{Party shading/Pro-Administration}} |[[Charles Carroll of Carrollton|Charles Carroll]] {{small|(PA)}}
+|rowspan=12 {{Party shading/Pro-Administration}} |[[John Henry (Maryland politician)|John Henry]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Anti-Administration}} |4AA, 2PA
+|rowspan=10 {{Party shading/Independent}} |[[George Washington]] {{small|(I)}} {{Aye}}
+|- style="height:2em"
+!1790
+|- style="height:2em"
+!rowspan=2 |1791
+|rowspan=5 {{Party shading/Tie}} |3AA, 3PA
+|- style="height:2em"
+|rowspan=2 {{Party shading/Federalist}} |[[George Plater]] {{small|(F)}}{{efn |name=died|Died in office.}}
+|rowspan=16 {{Party shading/Federalist}} |[[Luther Martin]] {{small|(F)}}
+|- style="height:2em"
+!rowspan=3 |1792
+|- style="height:2em"
+|{{Party shading/Federalist}} |[[James Brice]] {{small|(F)}}{{efn |As senior member of the Governor's Council, was appointed by state legislature to fill term until replacement elected.}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Federalist}} |[[Thomas Sim Lee]] {{small|(F)}}
+|- style="height:2em"
+!1793
+|rowspan=4 {{Party shading/Pro-Administration}} |[[Richard Potts]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Tie}} |4AA, 4PA
+|- style="height:2em"
+!1794
+|- style="height:2em"
+!1795
+|rowspan=3 {{Party shading/Federalist}} |[[John Hoskins Stone]] {{small|(F)}}
+|rowspan=2 {{Party shading/Tie}} |4DR, 4F
+|- style="height:2em"
+!1796
+|rowspan=4 {{Party shading/Federalist}} |[[John Adams]] {{small|(F)}} {{Aye}}
+|- style="height:2em"
+!1797
+|rowspan=6 {{Party shading/Federalist}} |[[John Eager Howard]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |6F, 2DR
+|- style="height:2em"
+!1798
+|{{Party shading/Democratic-Republican}} |[[John Henry (Maryland politician)|John Henry]] {{small|(DR)}}
+|rowspan=3 {{Party shading/Federalist}} |[[James Lloyd (Maryland politician)|James Lloyd]] {{small|(F)}}
+|- style="height:2em"
+!1799
+|rowspan=3 {{Party shading/Federalist}} |[[Benjamin Ogle]] {{small|(F)}}
+|rowspan=2 {{Party shading/Federalist}} |5F, 3DR
+|- style="height:2em"
+!1800
+|rowspan=4 {{Party shading/Coalition}} |[[Thomas Jefferson]] {{small|(DR)}} {{Aye}}<br>and John Adams {{small|(F)}} {{nay}}
+|- style="height:2em"
+!1801
+|{{Party shading/Democratic-Republican}} |47DR, 33F
+|{{Party shading/Federalist}} |[[William Hindman]] {{small|(F)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |6DR, 2F
+|- style="height:2em"
+!1802
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[John Francis Mercer]] {{small|(DR)}}
+|rowspan=18 {{Party shading/Democratic-Republican}} |15DR
+|{{Party shading/Democratic-Republican}} |53DR, 27F
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Robert Wright (Maryland politician)|Robert Wright]] {{small|(DR)}}
+|- style="height:2em"
+!1803
+|rowspan=2 {{Party shading/Democratic-Republican}} |47DR, 33F
+|rowspan=15 {{Party shading/Democratic-Republican}} |[[Samuel Smith (Maryland politician)|Samuel Smith]] {{small|(DR)}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |7DR, 2F
+|- style="height:2em"
+!1804
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Robert Bowie]] {{small|(DR)}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1805
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[William Pinkney]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |52DR, 28F
+|- style="height:2em"
+!rowspan=3 |1806
+|rowspan=3 {{Party shading/Democratic-Republican}} |56DR, 24F
+|- style="height:2em"
+|{{Party shading/Democratic-Republican}} |[[John Thomson Mason]] {{small|(DR)}}
+|- style="height:2em"
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[John Johnson Sr.]] {{small|(DR)}}
+|- style="height:2em"
+!1807
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Robert Wright (Maryland politician)|Robert Wright]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |54DR, 25F, 1 vac.
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Philip Reed (politician)|Philip Reed]] {{small|(DR)}}
+|rowspan=9 {{Party shading/Democratic-Republican}} |6DR, 3F
+|- style="height:2em"
+!1808
+|{{Party shading/Democratic-Republican}} |51DR, 29F
+|rowspan=9 {{Party shading/Democratic-Republican}} |[[James Madison]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1809
+|rowspan=2 {{Party shading/Federalist}} |43F, 37DR
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Edward Lloyd (Governor of Maryland)|Edward Lloyd]] {{small|(DR)}}
+|- style="height:2em"
+!1810
+|{{Party shading/Democratic-Republican}} |44DR, 36F
+|- style="height:2em"
+!1811
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[John Montgomery (Maryland politician)|John Montgomery]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |48DR, 32F
+|- style="height:2em"
+!1812
+|{{Party shading/Democratic-Republican}} |[[Robert Bowie]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |44DR, 36F
+|- style="height:2em"
+!1813
+|rowspan=3 {{Party shading/Federalist}} |[[Levin Winder]] {{small|(F)}}
+|{{Party shading/Federalist}} |54F, 26DR
+|rowspan=6 {{Party shading/Federalist}} |[[Robert Henry Goldsborough|Robert Henry<br>Goldsborough]] {{small|(F)}}
+|- style="height:2em"
+!1814
+|{{Party shading/Federalist}} |49F, 31DR
+|- style="height:2em"
+!1815
+|{{Party shading/Federalist}} |59F, 21DR
+|''vacant''
+|rowspan=2 {{Party shading/Federalist}} |5F, 4DR
+|- style="height:2em"
+!1816
+|rowspan=3 {{Party shading/Federalist}} |[[Charles Carnan Ridgely]] {{small|(F)}}
+|{{Party shading/Federalist}} |48F, 32DR
+|{{Party shading/Federalist}} |[[Robert Goodloe Harper]] {{small|(F)}}
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[James Monroe]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1817
+|rowspan=5 {{Party shading/Federalist}} |15F
+|{{Party shading/Federalist}} |56F, 24DR
+|rowspan=3 {{Party shading/Federalist}} |[[Alexander C. Hanson]] {{small|(F)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |5DR, 4F
+|- style="height:2em"
+!1818
+|rowspan=4 {{Party shading/Federalist}} |[[Luther Martin]] {{small|(F)}}
+|{{Party shading/Federalist}} |45DR, 35F
+|- style="height:2em"
+!1819
+|{{Party shading/Federalist}} |[[Charles Goldsborough]] {{small|(F)}}
+|{{Party shading/Democratic-Republican}} |45DR, 35F
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Edward Lloyd (Governor of Maryland)|Edward Lloyd]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |7DR, 2F
+|- style="height:2em"
+!1820
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Samuel Sprigg]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |50DR, 30F
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[William Pinkney]] {{small|(DR)}}
+|- style="height:2em"
+!1821
+|{{Party shading/Democratic-Republican}} |49DR, 31F
+|rowspan=2 {{Party shading/Democratic-Republican}} |6DR, 3F
+|- style="height:2em"
+!1822
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Thomas Beale Dorsey]] {{small|(DR)}}
+|rowspan=5 {{Party shading/Democratic-Republican}} |15DR
+|{{Party shading/Democratic-Republican}} |63DR, 17F
+|''vacant''
+|- style="height:2em"
+!1823
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Samuel Stevens Jr.]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |67DR, 13F
+|rowspan=2 {{Party shading/Democratic-Republican}} |[[Samuel Smith (Maryland politician)|Samuel Smith]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Tie}} |4NR, 3F, 2DR
+|- style="height:2em"
+!1824
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Thomas Kell]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |63DR, 17F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Andrew Jackson]] {{small|(DR)}} {{Nay}}
+|- style="height:2em"
+!1825
+|{{data missing|?|date=June 2021}}
+|rowspan=9 {{Party shading/Jacksonian}} |[[Samuel Smith (Maryland politician)|Samuel Smith]] {{small|(J)}}
+|{{Party shading/Jacksonian}} |[[Edward Lloyd (Governor of Maryland)|Edward Lloyd]] {{small|(J)}}
+|{{Party shading/National Republican}} |6NR, 3DR
+|- style="height:2em"
+!1826
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Joseph Kent]] {{small|(DR)}}
+|{{data missing|?|date=June 2021}}
+|rowspan=10 {{Party shading/National Republican}} |[[Ezekiel F. Chambers]] {{small|(NR)}}
+|{{Party shading/National Republican}} |5NR, 4DR
+|- style="height:2em"
+!1827
+|rowspan=4 {{Party shading/Jacksonian}} |[[Roger B. Taney]] {{small|(J)}}
+|{{data missing|?|date=June 2021}}
+|{{data missing|?|date=June 2021}}
+|rowspan=2 {{Party shading/National Republican}} |6NR, 3DR
+|- style="height:2em"
+!1828
+|{{data missing|?|date=June 2021}}
+|{{Party shading/National Republican}} |49NR, 31J
+|rowspan=5 {{Party shading/National Republican}} |[[John Quincy Adams]]<br>and [[Richard Rush]] {{small|(NR)}} {{Nay}}
+|- style="height:2em"
+!1829
+|{{Party shading/National Republican}} |[[Daniel Martin (politician)|Daniel Martin]] {{small|(NR)}}
+|{{data missing|?|date=June 2021}}
+|{{Party shading/National Republican}} |48NR, 31J, 1 tie
+|rowspan=2 {{Party shading/Jacksonian}} |6J, 3NR
+|- style="height:2em"
+!1830
+|{{Party shading/Jacksonian}} |[[Thomas King Carroll]] {{small|(J)}}
+|{{data missing|?|date=June 2021}}
+|{{Party shading/National Republican}} |41NR, 39J
+|- style="height:2em"
+!rowspan=2 |1831
+|{{Party shading/National Republican}} |[[Daniel Martin (politician)|Daniel Martin]] {{small|(NR)}}
+|rowspan=8 {{Party shading/Jacksonian}} |[[Josiah Bayly]] {{small|(J)}}
+|{{data missing|?|date=June 2021}}
+|rowspan=2 {{Party shading/National Republican}} |64NR, 16J
+|rowspan=3 {{Party shading/National Republican}} |5NR, 4J
+|- style="height:2em"
+|rowspan=2 {{Party shading/National Republican}} |[[George Howard (Governor of Maryland)|George Howard]] {{small|(NR)}}
+|- style="height:2em"
+!1832
+|rowspan=6 {{Party shading/National Republican}} |15NR
+|{{Party shading/National Republican}} |59NR, 21J
+|rowspan=4 {{Party shading/National Republican}} |[[Henry Clay]] and<br>[[John Sergeant (politician)|John Sergeant]] {{small|(NR)}} {{Nay}}
+|- style="height:2em"
+!1833
+|rowspan=3 {{Party shading/Whig}} |[[James Thomas (Governor of Maryland)|James Thomas]] {{small|(W)}}
+|{{Party shading/National Republican}} |54NR, 26J
+|rowspan=5 {{Party shading/National Republican}} |[[Joseph Kent]] {{small|(NR)}}
+|rowspan=2 {{Party shading/Jacksonian}} |6J, 2NR
+|- style="height:2em"
+!1834
+|{{Party shading/National Republican}} |42NR, 36J, 2Work
+|- style="height:2em"
+!1835
+|{{Party shading/Whig}} |62W, 18D
+|rowspan=2 {{Party shading/National Republican}} |[[Robert Henry Goldsborough|Robert Henry<br>Goldsborough]] {{small|(NR)}}
+|rowspan=3 {{Party shading/Tie}} |4J, 4NR
+|- style="height:2em"
+!rowspan=2 |1836
+|rowspan=4 {{Party shading/Whig}} |[[Thomas Veazey]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |55W, 25D
+|rowspan=5 {{Party shading/Whig}} |[[William Henry Harrison]]<br>and [[John Tyler]] {{small|(W)}} {{Nay}}
+|- style="height:2em"
+|{{Party shading/National Republican}} |[[John S. Spence]] {{small|(NR)}}
+|- style="height:2em"
+!1837
+|rowspan=9 {{Party shading/Democratic}} |[[Josiah Bayly]] {{small|(D)}}
+|rowspan=2 {{Party shading/Whig}} |15W
+|{{Party shading/Whig}} |60W, 20D
+|{{Party shading/Whig}} |[[Joseph Kent]] {{small|(W)}}
+|rowspan=4 {{Party shading/Whig}} |[[John S. Spence]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |5W, 3D
+|- style="height:2em"
+!1838
+|{{Party shading/Whig}} |51W, 35D
+|rowspan=7 {{Party shading/Whig}} |[[William Duhurst Merrick]] {{small|(W)}}
+|- style="height:2em"
+!1839
+|rowspan=3 {{Party shading/Democratic}} |[[William Grason]] {{small|(D)}}
+|rowspan=2 {{Party shading/Whig}} |12W, 9D
+|{{Party shading/Whig}} |42W, 37D
+|rowspan=2 {{Party shading/Democratic}} |5D, 3W
+|- style="height:2em"
+!1840
+|{{Party shading/Democratic}} |46D, 33W
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison]]<br>and [[John Tyler]] {{small|(W)}} {{Aye}}
+|- style="height:2em"
+!1841
+|rowspan=2 {{Party shading/Whig}} |15W, 6D
+|{{Party shading/Whig}} |60W, 19D
+|rowspan=2 {{Party shading/Whig}} |[[John Leeds Kerr]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |6W, 2D
+|- style="height:2em"
+!1842
+|rowspan=3 {{Party shading/Democratic}} |[[Francis Thomas]] {{small|(D)}}
+|{{Party shading/Democratic}} |44D, 35W
+|- style="height:2em"
+!1843
+|rowspan=2 {{Party shading/Whig}} |13W, 8D
+|{{Party shading/Democratic}} |47D, 35W
+|rowspan=10 {{Party shading/Whig}} |[[James Pearce (American politician)|James Pearce]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |6W
+|- style="height:2em"
+!1844
+|{{Party shading/Whig}} |47W, 35D
+|rowspan=4 {{Party shading/Whig}} |[[Henry Clay]] and<br>[[Theodore Frelinghuysen]] {{small|(W)}} {{Nay}}
+|- style="height:2em"
+!1845
+|rowspan=3 {{Party shading/Whig}} |[[Thomas Pratt (Maryland politician)|Thomas Pratt]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |15W, 6D
+|{{Party shading/Whig}} |61W, 21D
+|rowspan=4 {{Party shading/Whig}} |[[Reverdy Johnson]] {{small|(W)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 2W
+|- style="height:2em"
+!1846
+|rowspan=6 |[[George R. Richardson]]
+|{{Party shading/Whig}} |43W, 39D
+|- style="height:2em"
+!1847
+|rowspan=2 {{Party shading/Whig}} |13W, 8D
+|{{Party shading/Whig}} |53W, 29D
+|rowspan=2 {{Party shading/Whig}} |4W, 2R
+|- style="height:2em"
+!1848
+|rowspan=4 {{Party shading/Democratic}} |[[Philip Francis Thomas]] {{small|(D)}}
+|rowspan=3 {{Party shading/Whig}} |54W, 28D
+|rowspan=5 {{Party shading/Whig}} |[[Zachary Taylor]] and<br>[[Millard Fillmore]] {{small|(W)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1849
+|rowspan=3 {{Party shading/Whig}} |14W, 7D
+|''vacant''
+|rowspan=3 {{Party shading/Tie}} |3W, 3D
+|- style="height:2em"
+|{{Party shading/Whig}} |[[David Stewart (Maryland politician)|David Stewart]] {{small|(W)}}{{efn |Appointed to fill position and served until a successor was elected.}}
+|- style="height:2em"
+!1850
+|rowspan=2 {{Party shading/Whig}} |46W, 36D
+|rowspan=2 {{Party shading/Whig}} |[[Thomas Pratt (Maryland politician)|Thomas Pratt]] {{small|(W)}}
+|- style="height:2em"
+!1851
+|{{Party shading/Democratic}} |[[Enoch Louis Lowe]] {{small|(D)}}
+|{{Party shading/Whig}} |[[Robert J. Brent]] {{small|(W)}}
+|{{Party shading/Whig}} |12W, 9D
+|{{Party shading/Whig}} |4W, 2D
+|}
+
+== 1851–present ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=4 |Executive offices
+!colspan=2 |[[Maryland General Assembly|General Assembly]]
+!colspan=3 |[[Maryland's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Maryland|Governor]]
+!class=unsortable |[[Lieutenant Governor of Maryland|Lieutenant Governor]]
+!class=unsortable |[[Attorney General of Maryland|Attorney General]]
+!class=unsortable |[[Comptroller of Maryland|Comptroller]]
+!class=unsortable |[[Maryland Senate|State Senate]]
+!class=unsortable |[[Maryland House of Delegates|State House]]
+!class=unsortable |[[List of United States senators from Maryland|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from Maryland|U.S. Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from Maryland|U.S. House]]
+|- style="height:2em"
+!1851
+|rowspan=4 {{Party shading/Democratic}} |[[Enoch Louis Lowe]] {{small|(D)}}
+|rowspan=17 |{{efn |The office of Lieutenant Governor was created originally by the Constitution of 1864.}}
+|rowspan=16|{{efn |The office of attorney general was abolished by the Constitution of 1851 but was reestablished by the Constitution of 1864 (Art. 5, sec. 1).}}
+|rowspan=3 {{Party shading/Democratic}} |[[Philip Francis Thomas]] {{small|(D)}}
+|{{Party shading/Whig}} |12W, 9D
+|{{Party shading/Whig}} |46W, 36D
+|rowspan=7 {{Party shading/Whig}} |[[Thomas Pratt (Maryland politician)|Thomas Pratt]] {{small|(W)}}
+|rowspan=7 {{Party shading/Whig}} |[[James Pearce (American politician)|James Pearce]] {{small|(W)}}
+|rowspan=2 {{Party shading/Whig}} |4W, 2D
+|
+|- style="height:2em"
+!1852
+|rowspan=3 {{Party shading/Tie}} |11W, 11D
+|rowspan=3 {{Party shading/Democratic}} |44D, 30W
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin Pierce|Pierce]]/<br>[[William R. King|King]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1853
+|rowspan=3 {{Party shading/Democratic}} |4D, 2W
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Henry E. Bateman]] {{small|(D)}}
+|- style="height:2em"
+!1854
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Watkins Ligon]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[William Pinkney Whyte]] {{small|(D)}}
+|rowspan=2 {{Party shading/Whig}} |14W, 8D
+|rowspan=2 {{Party shading/Whig}} |34W, 30D, 10Temp
+|- style="height:2em"
+!1855
+|rowspan=2 {{Party shading/Know-Nothing}} |4KN, 2D
+|- style="height:2em"
+!1856
+|rowspan=6 {{Party shading/Know-Nothing}} |[[William Henry Purnell]] {{small|(KN)}}
+|rowspan=2 {{Party shading/Whig}} |9W, 8KN, 5D
+|rowspan=2 {{Party shading/Know-Nothing}} |54KN, 14D, 6W
+|rowspan=4 {{Party shading/Know-Nothing}} |[[Millard Fillmore|Fillmore]]/<br>[[Andrew Jackson Donelson|Donelson]] {{small|(KN)}} {{nay}}
+|- style="height:2em"
+!1857
+|rowspan=6 {{Party shading/Know-Nothing}} |[[Anthony Kennedy (Maryland politician)|Anthony Kennedy]] {{small|(KN)}}
+|rowspan=8 {{Party shading/Democratic}} |[[James Pearce (American politician)|James Pearce]] {{small|(D)}}
+|rowspan=4 {{Party shading/Tie}} |3KN, 3D
+|- style="height:2em"
+!1858
+|rowspan=6 {{Party shading/Know-Nothing}} |[[Thomas Holliday Hicks]] {{small|(KN)}}
+|rowspan=2 {{Party shading/Know-Nothing}} |15KN, 7D
+|rowspan=2 {{Party shading/Know-Nothing}} |44KN, 30D
+|- style="height:2em"
+!1859
+|- style="height:2em"
+!1860
+|rowspan=4 {{Party shading/Democratic}} |12D, 10KN
+|rowspan=4 {{Party shading/Democratic}} |45D, 29KN
+|rowspan=6 {{Party shading/Southern Democratic}} |[[John C. Breckinridge|Breckinridge]]/<br>[[Joseph Lane|Lane]] {{small|({{abbr|SD|Southern Democratic}})}} {{Nay}}
+|- style="height:2em"
+!rowspan=3 |1861
+|rowspan=4 {{Party shading/National Union}} |6NU
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Dennis Claude]] {{small|(D)}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Abram Lingan Jarrett]] {{small|(D)}}
+|rowspan=2 {{Party shading/Unionist}} |Anthony Kennedy {{small|(U)}}
+|- style="height:2em"
+!1862
+|rowspan=4 {{Party shading/National Union}} |[[Augustus Bradford]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |[[Samuel Snowden Maffit]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |13NU, 9D
+|rowspan=2 {{Party shading/National Union}} |68NU, 6D
+|- style="height:2em"
+!1863
+|rowspan=2 {{Party shading/Unionist}} |[[Reverdy Johnson]] {{small|(U)}}
+|rowspan=2 {{Party shading/Unconditional Unionist}} |[[Thomas Holliday Hicks]] {{small|(UU)}}
+|rowspan=2 {{Party shading/National Union}} |3NU, 1D, 1R
+|- style="height:2em"
+!1864
+|rowspan=3 {{Party shading/National Union}} |[[Alexander Randall (Maryland politician)|Alexander Randall]] {{small|(NU)}}
+|{{Party shading/National Union}} |[[Henry Holliday Goldsborough|Henry H. Goldsborough]] {{small|(NU)}}
+|{{Party shading/National Union}} |19NU, 3D
+|{{Party shading/National Union}} |56NU, 18D
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln|Lincoln]]/<br>[[Andrew Johnson|Johnson]] {{small|(NU)}} {{Aye}}
+|- style="height:2em"
+!1865
+|rowspan=3 {{Party shading/National Union}} |[[Christopher Christian Cox]] {{small|(NU)}}
+|rowspan=2 {{Party shading/National Union}} |[[Robert John Jump]] {{small|(NU)}}
+|rowspan=2 {{Party shading/Tie}} |12D, 12NU
+|rowspan=2 {{Party shading/National Union}} |54NU, 26D
+|rowspan=4 {{Party shading/Democratic}} |[[Reverdy Johnson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Unconditional Unionist}} |[[John Creswell]] {{small|(UU)}}
+|rowspan=2 {{Party shading/National Union}} |3NU, 2D
+|- style="height:2em"
+!1866
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Swann]] {{small|(D)}}
+|- style="height:2em"
+!1867
+|rowspan=5 {{Party shading/Republican}} |[[Isaac D. Jones]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William James Leonard]] {{small|(D)}}
+|{{Party shading/Democratic}} |16D, 8R
+|{{Party shading/Democratic}} |59D, 21R
+|''vacant''
+|rowspan=3 {{Party shading/Democratic}} |3D, 1C, 1R
+|- style="height:2em"
+!rowspan=2 |1868
+|rowspan=109|{{efn |The state's present constitution, adopted in 1867, abolished the lieutenant governorship. However, the position was re-established by a constitutional amendment ratified on November 4, 1970.}}
+|rowspan=5 {{Party shading/Democratic}} |25D
+|rowspan=5 {{Party shading/Democratic}} |86D
+|rowspan=6 {{Party shading/Democratic}} |[[George Vickers]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Horatio Seymour|Seymour]]/<br>[[Francis Preston Blair Jr.|Blair]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[William Pinkney Whyte]] {{small|(D)}}
+|- style="height:2em"
+!1869
+|rowspan=3 {{Party shading/Democratic}} |[[Oden Bowie]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[William T. Hamilton]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |5D
+|- style="height:2em"
+!1870
+|rowspan=8 {{Party shading/Democratic}} |[[Levin Woolford]] {{small|(D)}}
+|- style="height:2em"
+!1871
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew K. Syester]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |5D
+|- style="height:2em"
+!1872
+|rowspan=2 {{Party shading/Democratic}} |[[William Pinkney Whyte]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |24D, 1R
+|rowspan=2 {{Party shading/Democratic}} |70D, 12R
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas A. Hendricks|Hendricks]]/<br>[[B. Gratz Brown|Brown]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1873
+|rowspan=6 {{Party shading/Democratic}} |[[George R. Dennis]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1874
+|rowspan=2 {{Party shading/Democratic}} |[[James Black Groome]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 3R
+|rowspan=2 {{Party shading/Democratic}} |64D, 20R
+|- style="height:2em"
+!1875
+|rowspan=8 {{Party shading/Democratic}} |[[Charles J. M. Gwinn]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[William Pinkney Whyte]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1876
+|rowspan=4 {{Party shading/Democratic}} |[[John Lee Carroll]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 7R
+|rowspan=2 {{Party shading/Democratic}} |58D, 26R
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel J. Tilden|Tilden]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1877
+|- style="height:2em"
+!1878
+|rowspan=6 {{Party shading/Democratic}} |[[Thomas James Keating]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 5R, 2ID, 1Ref
+|rowspan=2 {{Party shading/Democratic}} |65D, 19R
+|- style="height:2em"
+!1879
+|rowspan=6 {{Party shading/Democratic}} |[[James Black Groome]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1880
+|rowspan=4 {{Party shading/Democratic}} |[[William T. Hamilton]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 7R
+|rowspan=2 {{Party shading/Democratic}} |63D, 21R
+|rowspan=4 {{Party shading/Democratic}} |[[Winfield Scott Hancock|Hancock]]/<br>[[William Hayden English|English]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1881
+|rowspan=18 {{Party shading/Democratic}} |[[Arthur P. Gorman]] {{small|(D)}}
+|- style="height:2em"
+!1882
+|rowspan=2 {{Party shading/Democratic}} |16D, 10R
+|rowspan=2 {{Party shading/Democratic}} |60D, 31R
+|- style="height:2em"
+!1883
+|rowspan=4 {{Party shading/Democratic}} |[[Charles B. Roberts]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 1R
+|- style="height:2em"
+!1884
+|{{Party shading/Democratic}} |[[Robert Milligan McLane]] {{small|(D)}}{{efn |Resigned to take post as [[United States Ambassador to France|Minister to France]].}}
+|rowspan=4 {{Party shading/Democratic}} |[[J. Frank Turner]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |14D, 12R
+|rowspan=2 {{Party shading/Democratic}} |63D, 28R
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Thomas A. Hendricks|Hendricks]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1885
+|rowspan=3 {{Party shading/Democratic}} |[[Henry Lloyd (governor)|Henry Lloyd]] {{small|(D)}}{{efn |Appointed by the legislature to fill unexpired term; was later elected in his own right.}}
+|rowspan=6 {{Party shading/Democratic}} |[[Ephraim K. Wilson II]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1886
+|rowspan=4 {{Party shading/Democratic}} |22D, 4R
+|rowspan=2 {{Party shading/Democratic}} |80D, 10R, 1Fus
+|- style="height:2em"
+!1887
+|rowspan=4 {{Party shading/Democratic}} |William Pinkney Whyte {{small|(D)}}
+|- style="height:2em"
+!1888
+|rowspan=4 {{Party shading/Democratic}} |[[Elihu Emory Jackson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[L. Victor Baughman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |71D, 20R
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Allen G. Thurman|Thurman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1889
+|{{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1890
+|rowspan=2 {{Party shading/Democratic}} |18D, 8R
+|rowspan=2 {{Party shading/Democratic}} |59D, 32R
+|{{Party shading/Tie}} |3D, 3R
+|- style="height:2em"
+!1891
+|rowspan=4 {{Party shading/Democratic}} |[[John Prentiss Poe]] {{small|(D)}}
+|''vacant''
+|rowspan=3 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1892
+|rowspan=4 {{Party shading/Democratic}} |[[Frank Brown (governor)|Frank Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Marion deKalb Smith]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |22D, 4R
+|rowspan=2 {{Party shading/Democratic}} |81D, 7R, 3Fus
+|rowspan=5 {{Party shading/Democratic}} |[[Charles H. Gibson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Grover Cleveland|Cleveland]]/<br>[[Adlai Stevenson I|Stevenson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1893
+|- style="height:2em"
+!1894
+|rowspan=2 {{Party shading/Democratic}} |21D, 5R
+|rowspan=2 {{Party shading/Democratic}} |68D, 23R
+|{{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1895
+|rowspan=4 {{Party shading/Republican}} |[[Harry M. Clabaugh]] {{small|(R)}}
+|rowspan=2 {{Party shading/Tie}} |3D, 3R
+|- style="height:2em"
+!1896
+|rowspan=5 {{Party shading/Republican}} |[[Lloyd Lowndes Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Robert Patterson Graham]] {{small|(R)}}
+|rowspan=1 {{Party shading/Tie}} |13D, 13R
+|rowspan=2 {{Party shading/Republican}} |70R, 21D
+|rowspan=5 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Garret Hobart|Hobart]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1897
+|rowspan=1 {{Party shading/Democratic}} |14D, 12R
+|rowspan=7 {{Party shading/Republican}} |[[George L. Wellington]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |6R
+|- style="height:2em"
+!1898
+|rowspan=3 {{Party shading/Republican}} |[[Phillips Lee Goldsborough]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |18R, 8D
+|rowspan=3 {{Party shading/Republican}} |49R, 42D
+|- style="height:2em"
+!rowspan=2 |1899
+|{{Party shading/Republican}} |[[George Riggs Gaither Jr.|George R. Gaither]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Louis E. McComas]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[Isidor Rayner]] {{small|(D)}}
+|- style="height:2em"
+!1900
+|rowspan=4 {{Party shading/Democratic}} |[[John Walter Smith]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joshua W. Hering]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 11R
+|rowspan=2 {{Party shading/Democratic}} |65D, 26R
+|{{Party shading/Republican}} |5R, 1D{{efn |[[Josiah Kerr]] elected to fill vacancy upon Smith's resignation upon election as governor.}}
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley|McKinley]]/<br>[[Theodore Roosevelt|Roosevelt]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1901
+|rowspan=2 {{Party shading/Republican}} |6R
+|- style="height:2em"
+!1902
+|rowspan=2 {{Party shading/Democratic}} |17D, 9R
+|rowspan=2 {{Party shading/Democratic}} |51D, 44R
+|- style="height:2em"
+!1903
+|rowspan=5 {{Party shading/Democratic}} |[[William Shepard Bryan Jr.|William S. Bryan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Arthur P. Gorman]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+!1904
+|rowspan=5 {{Party shading/Democratic}} |[[Edwin Warfield]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Gordon T. Atkinson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 8R
+|rowspan=2 {{Party shading/Democratic}} |71D, 30R
+|rowspan=5 {{Party shading/Republican}} |[[Theodore Roosevelt|Roosevelt]]/<br>[[Charles W. Fairbanks|Fairbanks]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1905
+|rowspan=11 {{Party shading/Democratic}} |[[Isidor Rayner]] {{small|(D)}}
+|rowspan=8 {{Party shading/Tie}} |3R, 3D
+|- style="height:2em"
+!rowspan=2 |1906
+|rowspan=3 {{Party shading/Democratic}} |18D, 8R, 1I
+|rowspan=3 {{Party shading/Democratic}} |51D, 46R, 3I, 1Fus
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[William Pinkney Whyte]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!1907
+|rowspan=5 {{Party shading/Democratic}} |[[Isaac Lobe Straus]] {{small|(D)}}
+|- style="height:2em"
+!1908
+|rowspan=6 {{Party shading/Democratic}} |[[Austin Lane Crothers]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Joshua W. Hering]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 9R, 1I
+|rowspan=2 {{Party shading/Democratic}} |71D, 30R
+|rowspan=15 {{Party shading/Democratic}} |[[John Walter Smith]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[William Jennings Bryan|Bryan]]/<br>[[John W. Kern|Kern]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1909
+|- style="height:2em"
+!rowspan=2 |1910
+|rowspan=4 {{Party shading/Democratic}} |21D, 6R
+|rowspan=4 {{Party shading/Democratic}} |70D, 31R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[William B. Clagett]] {{small|(D)}}{{efn |Appointed by Gov. Crothers; died in office.}}
+|- style="height:2em"
+!rowspan=2 |1911
+|rowspan=5 {{Party shading/Democratic}} |[[Edgar Allan Poe (attorney general)|Edgar Allan Poe]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Charles H. Stanley]] {{small|(D)}}{{efn |Appointed by Gov. Crothers.}}
+|- style="height:2em"
+!1912
+|rowspan=4 {{Party shading/Republican}} |[[Phillips Lee Goldsborough]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Emerson Harrington]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D, 8R
+|rowspan=2 {{Party shading/Democratic}} |60D, 41R
+|rowspan=8 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1913
+|{{Party shading/Republican}} |[[William P. Jackson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1914
+|rowspan=2 {{Party shading/Democratic}} |18D, 9R
+|rowspan=2 {{Party shading/Democratic}} |79D, 23R
+|rowspan=3 {{Party shading/Democratic}} |[[Blair Lee I]] {{small|(D)}}
+|- style="height:2em"
+!1915
+|rowspan=4 {{Party shading/Democratic}} |[[Albert Ritchie]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1916
+|rowspan=4 {{Party shading/Democratic}} |[[Emerson Harrington]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Hugh A. McMullen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |16D, 11R
+|rowspan=2 {{Party shading/Democratic}} |56D, 44R, 2Pop
+|- style="height:2em"
+!1917
+|rowspan=6 {{Party shading/Republican}} |[[Joseph I. France]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1918
+|rowspan=2 {{Party shading/Democratic}} |14D, 13R
+|rowspan=2 {{Party shading/Republican}} |55R, 47D
+|- style="height:2em"
+!1919
+|rowspan=4 {{Party shading/Republican}} |[[Alexander Armstrong (Maryland politician)|Alexander Armstrong]] {{small|(R)}}
+|rowspan=2 {{Party shading/Tie}} |3D, 3R
+|- style="height:2em"
+!1920
+|rowspan=15 {{Party shading/Democratic}} |[[Albert Ritchie]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[E. Brooke Lee]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 12R
+|rowspan=2 {{Party shading/Democratic}} |56D, 46R
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1921
+|rowspan=6 {{Party shading/Republican}} |[[Ovington Weller]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 2D
+|- style="height:2em"
+!1922
+|rowspan=17 {{Party shading/Democratic}} |[[William S. Gordy Jr.|William Gordy]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |21D, 6R
+|rowspan=2 {{Party shading/Democratic}} |73D, 33R
+|- style="height:2em"
+!1923
+|rowspan=7 {{Party shading/Democratic}} |[[Thomas H. Robinson (Maryland politician)|Thomas H. Robinson]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[William Cabell Bruce]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |3R, 3D
+|- style="height:2em"
+!1924
+|rowspan=3 {{Party shading/Democratic}} |22D, 7R
+|rowspan=3 {{Party shading/Democratic}} |93D, 25R
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=4 {{Party shading/Democratic}} |21D, 8R{{efn |name=4yr|After 3-year terms in 1923, every seat in both chambers of the General Assembly has been elected to 4-year terms, starting with the 1926 elections.}}
+|rowspan=4 {{Party shading/Democratic}} |82D, 36R{{efn |name=4yr}}
+|rowspan=25 {{Party shading/Democratic}} |[[Millard Tydings]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1929
+|rowspan=6 {{Party shading/Republican}} |[[Phillips Lee Goldsborough]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1930
+|rowspan=4 {{Party shading/Democratic}} |[[William Preston Lane Jr.]] {{small|(D)}}
+|- style="height:2em"
+!1931
+|rowspan=4 {{Party shading/Democratic}} |23D, 6R
+|rowspan=4 {{Party shading/Democratic}} |91D, 27R
+|rowspan=12 {{Party shading/Democratic}} |6D
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1933
+|- style="height:2em"
+!1934
+|rowspan=4 {{Party shading/Democratic}} |[[Herbert O'Conor]] {{small|(D)}}
+|- style="height:2em"
+!1935
+|rowspan=4 {{Party shading/Republican}} |[[Harry Nice]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |18D, 11R
+|rowspan=4 {{Party shading/Democratic}} |94D, 34R, 2Fus
+|rowspan=12 {{Party shading/Democratic}} |[[George L. P. Radcliffe]] {{small|(D)}}
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!1937
+|- style="height:2em"
+!1938
+|rowspan=7 {{Party shading/Democratic}} |[[William C. Walsh]] {{small|(D)}}
+|- style="height:2em"
+!1939
+|rowspan=8 {{Party shading/Democratic}} |[[Herbert O'Conor]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[J. Millard Tawes]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |23D, 6R
+|rowspan=4 {{Party shading/Democratic}} |104D, 16R
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1941
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=4 {{Party shading/Democratic}} |20D, 9R
+|rowspan=4 {{Party shading/Democratic}} |101D, 22R
+|rowspan=2 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1945
+|{{Party shading/Democratic}} |[[William Curran (politician)|William Curran]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |5D, 1R
+|- style="height:2em"
+!1946
+|rowspan=7 {{Party shading/Democratic}} |[[Hall Hammond]] {{small|(D)}}
+|- style="height:2em"
+!1947
+|rowspan=5 {{Party shading/Democratic}} |[[William Preston Lane Jr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James J. Lacy]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |18D, 11R
+|rowspan=5 {{Party shading/Democratic}} |87D, 36R
+|rowspan=7 {{Party shading/Democratic}} |[[Herbert O'Conor]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |4D, 2R
+|- style="height:2em"
+!1948
+|rowspan=5 {{Party shading/Republican}} |[[Thomas E. Dewey|Dewey]]/<br>[[Earl Warren|Warren]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1949
+|- style="height:2em"
+!rowspan=2 |1950
+|- style="height:2em"
+|rowspan=9 {{Party shading/Democratic}} |[[J. Millard Tawes]] {{small|(D)}}{{efn |Appointed to fill position initially, then elected.}}
+|- style="height:2em"
+!1951
+|rowspan=8 {{Party shading/Republican}} |[[Theodore McKeldin]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |88D, 35R
+|rowspan=12 {{Party shading/Republican}} |[[John Marshall Butler]] {{small|(R)}}
+|rowspan=2 {{Party shading/Tie}} |3D, 3R
+|- style="height:2em"
+!1952
+|rowspan=2 {{Party shading/Republican}} |Edward D. E. Rollins {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1953
+|rowspan=12 {{Party shading/Republican}} |[[J. Glenn Beall]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 3D
+|- style="height:2em"
+!1954
+|rowspan=7 {{Party shading/Democratic}} |[[C. Ferdinand Sybert]] {{small|(D)}}
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Democratic}} |21D, 8R
+|rowspan=4 {{Party shading/Democratic}} |98D, 25R
+|rowspan=4 {{Party shading/Democratic}} |4D, 3R
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=8 {{Party shading/Democratic}} |J. Millard Tawes {{small|(D)}}
+|rowspan=39 {{Party shading/Democratic}} |[[Louis L. Goldstein]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |26D, 3R
+|rowspan=4 {{Party shading/Democratic}} |116D, 7R
+|rowspan=2 {{Party shading/Democratic}} |7D
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy|Kennedy]]/<br>[[Lyndon B. Johnson|Johnson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1961
+|rowspan=5 {{Party shading/Democratic}} |[[Thomas B. Finan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |6D, 1R
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=4 {{Party shading/Democratic}} |22D, 7R
+|rowspan=8 {{Party shading/Democratic}} |117D, 25R
+|rowspan=6 {{Party shading/Democratic}} |[[Daniel Brewster]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |6D, 2R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson|Johnson]]/<br>[[Hubert Humphrey|Humphrey]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1965
+|rowspan=6 {{Party shading/Democratic}} |[[Joseph Tydings]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |5D, 3R
+|- style="height:2em"
+!1966
+|{{Party shading/Democratic}} |[[Robert C. Murphy (judge)|Robert C. Murphy]] {{small|(D)}}
+|- style="height:2em"
+!1967
+|rowspan=2 {{Party shading/Republican}} |[[Spiro Agnew]] {{small|(R)}}
+|rowspan=12 {{Party shading/Democratic}} |[[Francis B. Burch]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |35D, 8R
+|- style="height:2em"
+!1968
+|rowspan=4 {{Party shading/Democratic}} |[[Hubert Humphrey|Humphrey]]/<br>[[Edmund Muskie|Muskie]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1969
+|rowspan=10 {{Party shading/Democratic}} |[[Marvin Mandel]] {{small|(D)}}
+|rowspan=18 {{Party shading/Republican}} |[[Charles Mathias]] {{small|(R)}}
+|rowspan=2 {{Party shading/Tie}} |4D, 4R
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=8 {{Party shading/Democratic}} |[[Blair Lee III]] {{small|(D)}}{{efn |Lt. Gov. position created in 1970.}}
+|rowspan=4 {{Party shading/Democratic}} |33D, 10R
+|rowspan=4 {{Party shading/Democratic}} |121D, 21R
+|rowspan=6 {{Party shading/Republican}} |[[J. Glenn Beall Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |5D, 3R
+|- style="height:2em"
+!1972
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Tie}} |4D, 4R
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=4 {{Party shading/Democratic}} |39D, 8R
+|rowspan=4 {{Party shading/Democratic}} |126D, 15R
+|rowspan=4 {{Party shading/Democratic}} |5D, 3R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1977
+|rowspan=30 {{Party shading/Democratic}} |[[Paul Sarbanes]] {{small|(D)}}
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=8 {{Party shading/Democratic}} |[[Harry Hughes]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Samuel Bogley]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Stephen H. Sachs]] {{small|(D)}}{{efn |Jon F. Oster and George A. Nilson each served for one day as Attorney General on January 1 and January 2, 1979, respectively.}}
+|rowspan=4 {{Party shading/Democratic}} |40D, 7R
+|rowspan=4 {{Party shading/Democratic}} |125D, 16R
+|rowspan=2 {{Party shading/Democratic}} |6D, 2R
+|- style="height:2em"
+!1980
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter|Carter]]/<br>[[Walter Mondale|Mondale]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1981
+|rowspan=4 {{Party shading/Democratic}} |7D, 1R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=4 {{Party shading/Democratic}} |[[J. Joseph Curran Jr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |41D, 6R
+|rowspan=8 {{Party shading/Democratic}} |124D, 17R
+|- style="height:2em"
+!1984
+|rowspan=4 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1985
+|rowspan=6 {{Party shading/Democratic}} |6D, 2R
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=8 {{Party shading/Democratic}} |[[William Donald Schaefer]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Melvin Steinberg]] {{small|(D)}}
+|rowspan=20 {{Party shading/Democratic}} |[[J. Joseph Curran Jr.]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |40D, 7R
+|rowspan=31 {{Party shading/Democratic}} |[[Barbara Mikulski]] {{small|(D)}}
+|- style="height:2em"
+!1988
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1989
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=4 {{Party shading/Democratic}} |117D, 24R
+|rowspan=2 {{Party shading/Democratic}} |5D, 3R
+|- style="height:2em"
+!1992
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1993
+|rowspan=10 {{Party shading/Tie}} |4D, 4R
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=8 {{Party shading/Democratic}} |[[Parris Glendening]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Kathleen Kennedy Townsend]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |32D, 15R
+|rowspan=4 {{Party shading/Democratic}} |100D, 41R
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!1997
+|- style="height:2em"
+!1998
+|{{Party shading/Democratic}} |[[Robert L. Swann (comptroller of Maryland)|Robert L. Swann]] {{small|(D)}}
+|- style="height:2em"
+!1999
+|rowspan=8 {{Party shading/Democratic}} |[[William Donald Schaefer]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |106D, 35R
+|- style="height:2em"
+!2000
+|rowspan=12 {{Party shading/Democratic}} |33D, 14R{{efn |Sen. [[Robert R. Neall]] switched parties from Republican to Democratic.}}
+|rowspan=4 {{Party shading/Democratic}} |[[Al Gore|Gore]]/<br>[[Joe Lieberman|Lieberman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2001
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=4 {{Party shading/Republican}} |[[Bob Ehrlich]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Michael Steele]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |98D, 43R
+|rowspan=7 {{Party shading/Democratic}} |6D, 2R
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry|Kerry]]/<br>[[John Edwards|Edwards]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2005
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=9 {{Party shading/Democratic}} |[[Martin O'Malley]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Anthony Brown (Maryland politician)|Anthony Brown]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Doug Gansler]] {{small|(D)}}
+|rowspan=18 {{Party shading/Democratic}} |[[Peter Franchot]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |104D, 37R
+|rowspan=20 {{Party shading/Democratic}} |[[Ben Cardin]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |2008
+|rowspan=9 {{Party shading/Democratic}} |[[Barack Obama|Obama]]/<br>[[Joe Biden|Biden]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |104D, 36R, 1I{{efn |In September 2008, incumbent Republican Rep. [[Richard B. Weldon Jr.]] switched his party affiliation to unaffiliated.}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/Democratic}} |7D, 1R
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=4 {{Party shading/Democratic}} |35D, 12R
+|rowspan=4 {{Party shading/Democratic}} |98D, 43R
+|rowspan=2 {{Party shading/Democratic}} |6D, 2R
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|rowspan=15 {{Party shading/Democratic/current}} |7D, 1R
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=9 {{party shading/Republican}} |[[Larry Hogan]] {{small|(R)}}
+|rowspan=9 {{party shading/Republican}} |[[Boyd Rutherford]] {{small|(R)}}
+|rowspan=9 {{party shading/Democratic}} |[[Brian Frosh]] {{small|(D)}}
+|rowspan=5 {{party shading/Democratic}} |33D, 14R
+|rowspan=4 {{party shading/Democratic}} |91D, 50R
+|- style="height:2em"
+!2016
+|rowspan=5 {{Party shading/Democratic}} |[[Hillary Clinton|Clinton]]/<br>[[Tim Kaine|Kaine]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2017
+|rowspan=11 {{Party shading/Democratic/current}} |[[Chris Van Hollen]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |2018
+|- style="height:2em"
+|{{Party shading/Democratic}} |91D, 49R, 1G{{efn |In October 2018, Republican Rep. [[Meagan Simonaire]] switched her party affiliation to Democratic, and In November 2018, Democratic Rep. [[Shane Robinson (politician)|Shane Robinson]] switched his party affiliation to Green.}}
+|- style="height:2em"
+!2019
+|rowspan=4 {{party shading/Democratic}} |32D, 15R
+|rowspan=4 {{party shading/Democratic}} |99D, 42R
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2021
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=4 {{Party shading/Democratic/current}} |[[Wes Moore]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Aruna Miller]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Anthony Brown (Maryland politician)|Anthony Brown]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Brooke Lierman]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |34D, 13R
+|rowspan=4 {{Party shading/Democratic/current}} |102D, 39R
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Democratic}} |[[Kamala Harris|Harris]]/<br>[[Tim Walz|Walz]] {{small|(D)}} {{Nay}}
+|-
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |[[Angela Alsobrooks]] {{small|(D)}}
+|-
+!2026
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[Maryland#Elections|Politics in Maryland]]
+*[[Government of Maryland]]
+
+{{Political party strength in U.S. states|state=expanded}}
+{{Maryland}}
+
+{{DEFAULTSORT:Political Party Strength In Maryland}}
+[[Category:Politics of Maryland]]
+[[Category:Government of Maryland]]
+[[Category:Political party strength in the United States by state|Maryland]]

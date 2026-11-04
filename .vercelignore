@@ -1,0 +1,4 @@
+# Only index.html, og-image.png and data/dataset.js + data/governors.json are needed by the site.
+data/raw/
+scripts/
+.playwright-mcp/

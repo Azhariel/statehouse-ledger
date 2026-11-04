@@ -1,0 +1,633 @@
+{{Short description|None}}
+{{Use American English|date=April 2026}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox Political post
+| post = Governor
+| body = Arizona
+| flag = Flag of Arizona.svg
+| flag_size = 150px
+| flag_caption = [[Flag of Arizona]]
+| insignia = Arizona-StateSeal.svg
+| insignia_size = 150px
+| insignia_caption = [[Seal of Arizona]]
+| image = KatieHobbs2023.jpg
+| alt = Current Arizona Governor Katie Hobbs
+| incumbent = [[Katie Hobbs]]
+| incumbent_since = January 2, 2023
+| style = {{ublist|[[Governor]] (informal)|[[Honorable#United States|The Honorable]] (formal)|[[Excellency#United States|Her Excellency]] (formal)}}
+| department = [[Government of Arizona]]
+| status = {{ublist|[[Chief executive]]|[[Head of government]]|[[Commander-in-chief]]}}
+| term_length = Four years, renewable once consecutively{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-amendment-id-133540 art. V, § 1]}}
+| constituting_instrument = [[Constitution of Arizona]]
+| inaugural = [[George W. P. Hunt]]
+| residence = No official residence
+| formation = February 14, 1912
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Arizona|Line of succession]]
+| deputy = None {{small|(until 2027)}} <br>[[Lieutenant Governor of Arizona|Lieutenant Governor]] {{small|(from 2027)}}<ref name="ltgov">{{Cite news |title=Arizona will elect its first lieutenant governor in 2026. What to know about the role |url=https://www.azcentral.com/story/news/politics/arizona/2023/09/21/arizona-will-elect-its-first-lieutenant-governor-in-2026-what-to-know/70848159007/ |archive-url=https://web.archive.org/web/20230921165143/https://www.azcentral.com/story/news/politics/arizona/2023/09/21/arizona-will-elect-its-first-lieutenant-governor-in-2026-what-to-know/70848159007/ |archive-date=September 21, 2023 |access-date=October 6, 2026 |date=September 21, 2023 |last=Barchenger |first=Stacey |website=[[The Arizona Republic]] |url-status=live}}</ref>
+| salary = $95,000 (2022)<ref>{{cite web |url=https://bookofthestates.org/tables/2022-4-11/ |title=Selected State Administrative Officials: Annual Salaries |website=[[Council of State Governments]] |access-date=October 6, 2026 |archive-url=https://web.archive.org/web/20260929212758/https://bookofthestates.org/tables/2022-4-11/ |archive-date=September 29, 2026 |url-status=live}}</ref>
+| website = {{URL|azgovernor.gov}}
+}}
+The '''governor of Arizona''' is the [[head of government]] of the [[U.S. state]] of [[Arizona]]. As the top elected official, the [[Governor (United States)|governor]] is the head of the [[Executive (government)|executive branch]] of the [[Government of Arizona|Arizona state government]] and is charged with faithfully executing state laws.{{sfn|Ariz. Const.|loc=art. V}} The governor has the power to either approve or [[veto]] bills passed by the [[Arizona State Legislature]]; to convene the legislature; and to grant [[pardon]]s, with the exception of cases of [[Impeachment in the United States|impeachment]]. The governor is also the [[commander-in-chief]] of the state's [[Arizona National Guard|military forces]]. Arizona is one of the few states that currently does not have a [[List of gubernatorial residences in the United States|governor's mansion]] or other [[official residence]].
+
+Twenty-four people have served as governor over 28 distinct terms. All of the repeat governors were in the state's earliest years, when [[George W. P. Hunt]] and [[Thomas Edward Campbell]] alternated as governor for 17 years and, after a two-year gap, Hunt served another term. One governor, [[Evan Mecham]], was impeached by the Arizona House of Representatives and subsequently removed from office following his conviction in the Arizona Senate.  Another, [[Fife Symington]], resigned upon being convicted of a felony. The longest-serving governor was Hunt, who was elected seven times and served just under fourteen years. The longest single stint was that of [[Bruce Babbitt]], who was elected to two four-year terms after succeeding to the office following the death of his predecessor, [[Wesley Bolin]], serving nearly nine years total. Bolin had the shortest tenure, dying less than five months after succeeding as governor. Arizona has had five [[List of female governors in the United States#Demographics|female governors]], the most in the United States, and was the first—and until 2019 (when [[Michelle Lujan Grisham]] succeeded [[Susana Martinez]] in neighboring [[New Mexico]]) the ''only''—state where female governors served consecutively.
+
+The current governor as of January 2, 2023, is Democrat [[Katie Hobbs]].
+
+==List of governors==
+
+===Confederate Arizona===
+{{main|Confederate Arizona}}
+{{stack|clear=right}}
+In [[Tucson, Arizona|Tucson]] between April 2 and April 5, 1860, a convention of settlers from the southern half of [[New Mexico Territory]] drafted a provisional constitution for "Arizona Territory", three years before the United States would create such a territory. This proposed territory consisted of the part of New Mexico Territory south of 33° 40' north. On April 2,<ref>{{Cite book |last=Robinson |first=William Morrison |url=https://books.google.com/books?id=TMYlAAAAMAAJ |title=Justice in Grey: A History of the Judicial System of the Confederate States of America |publisher=Harvard University Press |year=1941 |page=310 |via=[[Google Books]]}}</ref> they elected a governor, [[Lewis S. Owings]]. The provisional territory was to exist until such time as an official territory was created, but that proposal was rejected by [[United States Congress|Congress]] at the time.{{sfn|McClintock|1916|pp=142–143}}
+
+On March 16, 1861, soon before the [[American Civil War]] broke out, a convention in [[Mesilla, New Mexico|Mesilla]] voted that the provisional territory should secede from the [[Union (American Civil War)|Union]] and join the [[Confederate States of America|Confederacy]].{{sfn|Colton|1985|pp=9–10}} Lewis S. Owings remained on as the provisional governor of the territory.
+
+The Confederacy took ownership of the territory on August 1, 1861, when forces led by Lieutenant Colonel [[John R. Baylor]] won decisive control of the territory, and Baylor proclaimed himself governor.{{sfn|Colton|1985|pp=122–123}} [[Confederate Arizona|Arizona Territory]] was formally organized in the Confederacy on January 18, 1862.<ref>{{Cite book |last=Cowles |first=Calvin Duvall |url=https://books.google.com/books?id=NasoAAAAYAAJ |title=The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies |publisher=[[United States Government Publishing Office|United States Government Printing Office]] |year=1900 |page=930 |via=[[Google Books]]}}</ref> On March 20, 1862, Baylor issued an order to kill all the adult [[Apache]] and take their children into slavery.{{sfn|Colton|1985|pp=122–123}} When [[President of the Confederate States of America|Confederate President]] [[Jefferson Davis]] learned of this order, he strongly disapproved and demanded an explanation. Baylor wrote a letter December 29, 1862, to justify his decision, and after this was received, Davis relieved Baylor of his post and commission, calling his letter an "avowal of an infamous crime". By that time, the Confederate government of Arizona Territory was [[Government-in-exile|in exile]] in [[San Antonio|San Antonio, Texas]], as the territory had been effectively lost to Union forces in July 1862;<ref>{{Cite book |last1=Heidler |first1=David Stephen |url=https://books.google.com/books?id=SdrYv7S60fgC |title=Encyclopedia Of The American Civil War: A Political, Social, and Military History |last2=Heidler |first2=Jeanne T. |publisher=W. W. Norton & Company |year=2002 |isbn=0-393-04758-X |page=1412 |via=[[Google Books]]}}</ref> no new governor was appointed.
+
+===Territory of Arizona===
+
+[[Arizona Territory]] was formed on February 24, 1863, from [[New Mexico Territory]], remaining a territory for 49 years.{{sfn|Wagoner|1970|p=20}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Arizona
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Gurley, John"|[[File:John Addison Gurley.jpg|75px]]
+|'''[[John A. Gurley]]'''<br>{{Small|(1813–1863)}}
+|data-sort-value="0"|March 10, 1863<br>–<br>August 19, 1863<br>{{small|(died before taking office)}}{{efn|Gurley was nominated on March 7, 1863,<ref>{{cite book |title=Senate Executive Journal, 37th Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106526866&seq=251 |page=223 |via=[[HathiTrust]]}}</ref> and was confirmed by the Senate on March 10,<ref>{{cite book |title=Senate Executive Journal, 37th Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106526866&seq=303 |page=275 |via=[[HathiTrust]]}}</ref> but died on August 19, before he could take office.<ref>{{CongBio|id=G000530|name=John Addison Gurley|inline=1}}</ref><ref>{{Cite news |date=August 22, 1863 |title=Death of Hon. John A. Gurley |page=2 |newspaper=[[Chicago Tribune]] |url=https://www.newspapers.com/article/chicago-tribune-death-of-hon-john-a-gu/116980082/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200735/https://www.newspapers.com/article/chicago-tribune-death-of-hon-john-a-gu/116980082/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Goodwin, John"|[[File:John Noble Goodwin.jpg|75px]]
+|'''[[John N. Goodwin]]'''<br>{{Small|(1824–1887)}}<br>{{sfn|McMullin|1984|pp=27–28}}
+|data-sort-value="964"|August 21, 1863{{efn|Goodwin was appointed on August 21, 1863,<ref>{{Cite news |date=August 22, 1863 |title=Governor of Arizona |page=1 |newspaper=[[Chicago Tribune]] |url=https://www.newspapers.com/article/chicago-tribune-governor-of-arizona/116983680/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202245/https://www.newspapers.com/article/chicago-tribune-governor-of-arizona/116983680/ |archive-date=September 25, 2023 |url-status=live}}</ref> during a Senate recess; nominated on January 7, 1864;<ref>{{cite book |title=Senate Executive Journal, 38th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106526866&seq=355 |page=327 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on February 4, 1864.<ref>{{cite book |title=Senate Executive Journal, 38th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044106526866&seq=415 |pages=389–390 |via=[[HathiTrust]]}}</ref> He established the territorial government on December 29, 1863.<ref>{{Cite book |last1=McGinnis |first1=Ralph Y. |url=https://books.google.com/books?id=nWGoZvF42W8C |title=Abraham Lincoln and the Western Territories |last2=Calvin N. Smith |publisher=Rowman & Littlefield |year=1994 |isbn=0-8304-1247-6 |page=91 |via=[[Google Books]]}}</ref>{{sfn|Goff|1978|pp=26–27}}}}<br />–<br />April 10, 1866<br>{{small|(964 days; resigned)}}{{efn|Goodwin resigned, having been [[1866 United States House of Representatives election in Arizona Territory|elected]] to the [[United States House of Representatives]] for a term which began on March 4, 1865; he held both offices for thirteen months.{{sfn|McMullin|1984|p=28}}{{sfn|Goff|1985|p=32}}}}
+|{{sortname|Abraham|Lincoln}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="McCormick, Richard"|[[File:Richard Cunningham McCormick - Brady-Handy.jpg|75px]]
+|'''[[Richard C. McCormick]]'''<br>{{Small|(1832–1901)}}<br>{{sfn|McMullin|1984|pp=28–30}}
+|data-sort-value="1060"|April 10, 1866{{efn|McCormick was nominated on March 14, 1866,<ref>{{cite book |title=Senate Executive Journal, 39th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178933&seq=137 |page=675 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 10,<ref>{{cite book |title=Senate Executive Journal, 39th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178933&seq=179 |pages=717–718 |via=[[HathiTrust]]}}</ref> and he took office on July 9.<ref>{{Cite news |date=July 25, 1866 |title=Proclamation by Richard C. M'Cormick, Governor of the Territory of Arizona, Announcing His Assumption of Official Duties |page=3 |newspaper=[[Arizona Miner]] |url=https://www.newspapers.com/article/weekly-journal-miner-proclamation-july/116988164/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925203748/https://www.newspapers.com/article/weekly-journal-miner-proclamation-july/116988164/ |archive-date=September 25, 2023 |url-status=live}}</ref><ref>{{Cite book |last=Nicolson |first=John |url=https://books.google.com/books?id=K40lAAAAMAAJ |title=The Arizona of Joseph Pratt Allyn |publisher=University of Arizona Press |year=1974 |isbn=0-8165-0386-9 |page=39 |quote=McCormick was appointed April 10 and took the oath of office July 9, 1866. |via=[[Google Books]]}}</ref>}}<br />–<br />March 4, 1869<br>{{small|(1060 days; resigned)}}{{efn|McCormick resigned, having been [[1868 United States House of Representatives election in Arizona Territory|elected]] to the [[United States House of Representatives]]. While he took office on March 4, 1869,<ref>{{CongBio|id=M000371|name=Richard Cunningham McCormick|inline=1}}</ref>{{sfn|Goff|1985|p=60}} at least one contemporary report said he resigned from the governorship on March 3.<ref>{{Cite news |date=March 3, 1869 |title=Resignation of the Governor of Arizona |newspaper=[[The New York Times]] |url=https://www.newspapers.com/article/the-new-york-times-resignation-of-the-go/132402123/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200740/https://www.newspapers.com/article/the-new-york-times-resignation-of-the-go/132402123/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}
+|{{sortname|Andrew|Johnson}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Safford, Anson"|[[File:Anson P. K. Safford.jpg|75px]]
+|'''[[Anson P. K. Safford]]'''<br>{{Small|(1830–1891)}}<br>{{sfn|McMullin|1984|pp=30–32}}
+|data-sort-value="2920"|April 8, 1869{{efn|Safford was nominated on April 3, 1869,<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178958&seq=78 |page=76 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 8,<ref>{{cite book |title=Senate Executive Journal, 41st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178958&seq=110 |page=108 |via=[[HathiTrust]]}}</ref> and took office on July 9.{{sfn|Goff|1978|p=55}} He was reconfirmed by the Senate on March 18, 1873.<ref>{{cite book |title=Senate Executive Journal, 43rd Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178974&seq=80 |page=80 |via=[[HathiTrust]]}}</ref>}}<br />–<br />April 5, 1877<br>{{small|(2920 days; replaced)}}{{efn|While some sources say Safford resigned due to health and personal concerns,{{sfn|McMullin|1984|p=31}} President Hayes' nomination of his successor John Philo Hoyt specified, "vice A. P. K. Safford, whose term of office has expired."<ref name="sj-hoyt-nominated" />}}
+|{{sortname|Ulysses S.|Grant}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Hoyt, John"|[[File:John Philo Hoyt.jpg|75px]]
+|'''[[John Philo Hoyt]]'''<br>{{Small|(1841–1926)}}<br>{{sfn|McMullin|1984|pp=32–33}}
+|data-sort-value="436"|April 5, 1877{{efn|Hoyt was appointed on April 5, 1877,<ref>{{Cite news |publication-date=April 6, 1877 |date=April 5, 1877 |title=Hoyt for Governor of Arizona |location=Washington, D.C. |publication-place=Memphis, Tennessee |page=1 |newspaper=[[The Commercial Appeal|The Memphis Daily Appeal]] |url=https://www.newspapers.com/article/memphis-daily-appeal-hoyt-for-governor-o/117054034/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202211/https://www.newspapers.com/article/memphis-daily-appeal-hoyt-for-governor-o/117054034/ |archive-date=September 25, 2023 |url-status=live}}</ref> during a Senate recess; nominated on October 17,<ref name="sj-hoyt-nominated">{{cite book |title=Senate Executive Journal, 45th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073369046&seq=37 |page=37 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on October 29.<ref>{{cite book |title=Senate Executive Journal, 45th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073369046&seq=112 |pages=112–113 |via=[[HathiTrust]]}}</ref> Despite already being in the territory when appointed, he did not take office until May 30, due to involvement as secretary of the territory in litigation over moving the territorial capital.{{sfn|McMullin|1984|p=32}}{{sfn|Goff|1978|p=66}}}}<br />–<br />June 14, 1878<br>{{small|(436 days; resigned)}}{{efn|McMullin states that Hoyt was asked to resign on June 11, 1878,{{sfn|McMullin|1984|p=33}} the day Hayes nominated Hoyt to be governor of Idaho Territory and Frémont to succeed him as governor of Arizona Territory.<ref name="sj-fremont-nominated" />}}
+|{{sortname|Rutherford B.|Hayes}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Fremont, John"|[[File:John Charles Fremont crop.jpg|75px]]
+|'''[[John C. Frémont]]'''<br>{{Small|(1813–1890)}}<br>{{sfn|McMullin|1984|pp=33–36}}
+|data-sort-value="1216"|June 14, 1878{{efn|Frémont was nominated on June 11, 1878,<ref name="sj-fremont-nominated">{{cite book |title=Senate Executive Journal, 45th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069992&seq=350 |page=344 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on June 14,<ref>{{cite book |title=Senate Executive Journal, 45th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069992&seq=356 |page=350 |via=[[HathiTrust]]}}</ref> and took office on October 6.{{sfn|McMullin|1984|p=35}}{{sfn|Goff|1978|pp=76–77}}}}<br />–<br />October 11, 1881<br>{{small|(1216 days; resigned)}}{{efn|Frémont resigned; he spent little time in the territory, and the Secretary of the Territory eventually asked him to resume his duties or resign, and he chose resignation.{{sfn|Walker|1997|pp=23–24}}}}
+|{{sortname|Rutherford B.|Hayes}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Tritle, Frederick"|[[File:Frederick Augustus Tritle.png|75px]]
+|'''[[Frederick Augustus Tritle]]'''<br>{{Small|(1833–1906)}}<br>{{sfn|McMullin|1984|pp=37–38}}
+|data-sort-value="1340"|February 6, 1882{{efn|Tritle was nominated on January 27, 1882,<ref>{{cite book |title=Senate Executive Journal, 47th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069653&seq=259 |page=251 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on February 6,<ref>{{cite book |title=Senate Executive Journal, 47th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069653&seq=278 |page=270 |via=[[HathiTrust]]}}</ref> and took office on March 8.{{sfn|Walker|1997|pp=23–24}}{{sfn|Goff|1978|p=88}}<ref>{{Cite news |date=March 18, 1882 |title=none |page=2 |newspaper=Arizona Weekly Enterprise |url=https://www.newspapers.com/article/arizona-weekly-enterprise-no-title/117094096/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925195229/https://www.newspapers.com/article/arizona-weekly-enterprise-no-title/117094096/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}<br />–<br />October 7, 1885<br>{{small|(1340 days; resigned)}}{{efn|Tritle resigned after [[Grover Cleveland]] was elected president, so that the Democrat could appoint a Democrat as governor.{{sfn|McMullin|1984|p=38}}{{sfn|Wagoner|1970|p=221}}}}
+|{{sortname|Chester A.|Arthur}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Zulick, C. Meyer"|[[File:C. Meyer Zulick (Arizona Governor).jpg|75px]]
+|'''[[C. Meyer Zulick]]'''<br>{{Small|(1839–1926)}}<br>{{sfn|McMullin|1984|pp=38–40}}
+|data-sort-value="1261"|October 15, 1885{{efn|Zulick was appointed on October 15, 1885,<ref>{{Cite news |date=October 15, 1885 |publication-date=October 16, 1885 |location=Washington, D.C. |publication-place=Des Moines, Iowa |title=C. Meyer Zulick, of Arizona, appointed Governor |page=2 |newspaper=[[The Des Moines Register]] |url=https://www.newspapers.com/article/the-des-moines-register-washington-appoi/117100405/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200705/https://www.newspapers.com/article/the-des-moines-register-washington-appoi/117100405/ |archive-date=September 25, 2023 |url-status=live}}</ref> during a Senate recess; nominated on December 10, 1885;<ref>{{cite book |title=Senate Executive Journal, 49th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069950&seq=61 |page=55 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on May 5, 1886.<ref>{{cite book |title=Senate Executive Journal, 49th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069950&seq=459 |pages=453–454 |via=[[HathiTrust]]}}</ref> He took office on November 2, 1885.<ref>{{Cite news |date=November 3, 1885 |location=Prescott, Arizona |publication-place=Oakland, California |title=Governor of Arizona |page=3 |newspaper=[[Oakland Tribune|Oakland Daily Evening Tribune]] |url=https://www.newspapers.com/article/oakland-tribune-governor-of-arizona/117100236/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202210/https://www.newspapers.com/article/oakland-tribune-governor-of-arizona/117100236/ |archive-date=September 25, 2023 |url-status=live}}</ref>{{sfn|Goff|1978|pp=98–99}}}}<br />–<br />March 28, 1889<br>{{small|(1261 days; replaced)}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Wolfley, Lewis"|[[File:Lewis Wolfley (Arizona Governor).jpg|75px]]
+|'''[[Lewis Wolfley]]'''<br>{{Small|(1839–1910)}}<br>{{sfn|McMullin|1984|pp=40–42}}
+|data-sort-value="511"|March 28, 1889{{efn|Wolfley was nominated on March 14, 1889,<ref>{{cite book |title=Senate Executive Journal, 51st Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069810&seq=14 |page=10 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on March 28,<ref>{{cite book |title=Senate Executive Journal, 51st Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069810&seq=53 |page=49 |via=[[HathiTrust]]}}</ref> and took office on April 8.<ref>{{Cite news |date=April 8, 1889 |publication-date=April 10, 1889 |location=Phoenix, Arizona |publication-place=Prescott, Arizona |title=Governor Wolfley's Enthusiastic Reception |page=3 |newspaper=[[Arizona Miner|Arizona Weekly Journal-Miner]] |url=https://www.newspapers.com/article/weekly-journal-miner-governor-wolfleys/117125063/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202211/https://www.newspapers.com/article/weekly-journal-miner-governor-wolfleys/117125063/ |archive-date=September 25, 2023 |url-status=live}}</ref>{{sfn|Goff|1978|p=112}}}}<br />–<br />August 20, 1890<br>{{small|(511 days; resigned)}}{{efn|Wolfley resigned due to a disagreement with the federal government on arid land policy.{{sfn|McMullin|1984|p=41}}{{sfn|Wagoner|1970|p=276}}{{sfn|Walker|1997|p=81}}}}
+|{{sortname|Benjamin|Harrison}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Irwin, John"|[[File:John Nichol Irwin - oval.jpg|75px]]
+|'''[[John N. Irwin]]'''<br>{{Small|(1844–1905)}}<br>{{sfn|McMullin|1984|pp=42–43}}
+|data-sort-value="567"|October 1, 1890{{efn|Irwin was nominated on September 29, 1890,<ref>{{cite book |title=Senate Executive Journal, 51st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069810&seq=766 |page=762 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on October 1, 1890,<ref>{{cite book |title=Senate Executive Journal, 51st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069810&seq=779 |page=775 |via=[[HathiTrust]]}}</ref> and took office on January 20, 1891.<ref>{{Cite news |date=January 20, 1891 |publication-date=January 24, 1891 |location=Phoenix, Arizona |publication-place=Tucson, Arizona |title=Legislature: Doings of the Bodies at Phenix |page=2 |newspaper=[[Tucson Citizen|Arizona Weekly Citizen]] |url=https://www.newspapers.com/article/arizona-weekly-citizen-doings-of-the-bod/117134452/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200704/https://www.newspapers.com/article/117134452/doings-of-the-bodies-at-phoenix/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}<br />–<br />April 19, 1892<br>{{small|(567 days; resigned)}}{{efn|Irwin resigned to handle family business out of state.<ref>{{Cite news |date=April 20, 1892 |title=Gov. Irwin Resigns |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-gov-irwin-resigns/117135093/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925205256/https://www.newspapers.com/article/arizona-republic-gov-irwin-resigns/117135093/ |archive-date=September 25, 2023 |url-status=live}}</ref>{{sfn|Goff|1978|p=127}}}}
+|{{sortname|Benjamin|Harrison}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Murphy, Oakes"|[[File:N. O. Murphy.jpg|75px]]
+|'''[[Oakes Murphy]]'''<br>{{Small|(1849–1908)}}<br>{{sfn|McMullin|1984|pp=43–45}}
+|data-sort-value="335"|May 9, 1892{{efn|Murphy was nominated on April 22, 1892,<ref>{{cite book |title=Senate Executive Journal, 52nd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069828&seq=226 |page=220 |via=[[HathiTrust]]}}</ref> and confirmed by the Senate on May 9.<ref>{{cite book |title=Senate Executive Journal, 52nd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069828&seq=238 |page=232 |via=[[HathiTrust]]}}</ref> As he was secretary of the territory, he did not take office until his successor to that office was confirmed, which occurred on June 2.<ref>{{cite book |title=Senate Executive Journal, 52nd Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069828&seq=252 |page=246 |via=[[HathiTrust]]}}</ref>}}<br />–<br />April 8, 1893<br>{{small|(335 days; replaced)}}{{efn|While some sources say Murphy resigned before Hughes took office,{{sfn|McMullin|1984|p=44}} contemporary news reported that Murphy handed the office directly to Hughes on April 13, 1893.<ref name="hughes-murphy">{{Cite news |date=April 14, 1893 |title=Old and New: Gov. Hughes Inducted Into Office |page=5 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-lc-hughes-sworn-in-as/117151535/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200706/https://www.newspapers.com/article/arizona-republic-lc-hughes-sworn-in-as/117151535/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}
+|{{sortname|Benjamin|Harrison}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Hughes, L. C."|[[File:LC hughes.jpg|75px]]
+|'''[[L. C. Hughes]]'''<br>{{Small|(1842–1915)}}<br>{{sfn|McMullin|1984|pp=45–46}}
+|data-sort-value="1097"|April 8, 1893{{efn|Hughes was nominated on April 5, 1893,<ref>{{cite book |title=Senate Executive Journal, 53rd Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069828&seq=452 |page=446 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 8,<ref>{{cite book |title=Senate Executive Journal, 53rd Cong., special sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069828&seq=460 |pages=454–455 |via=[[HathiTrust]]}}</ref> and took office on April 13.<ref name="hughes-murphy" />}}<br />–<br />April 8, 1896<br>{{small|(1097 days; replaced)}}{{efn|Hughes had abolished many territorial offices, and unhappy officials successfully petitioned President Cleveland to remove him.<ref>{{Cite book |last1=Johnson |first1=Rossiter |url=https://books.google.com/books?id=afEUAAAAYAAJ&pg=RA16-PA10 |title=The Twentieth Century Biographical Dictionary of Notable Americans |last2=John Howard Brown |publisher=The Biographical Society |year=1904 |via=[[Google Books]]}}</ref>{{sfn|McMullin|1984|p=46}}<ref>{{Cite news |date=April 2, 1896 |title=Hughes Makes His Exit |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-hughes-makes-his-exit/117154409/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202214/https://www.newspapers.com/article/arizona-republic-hughes-makes-his-exit/117154409/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Franklin, Benjamin"|[[File:BJFranklin.jpg|75px]]
+|'''[[Benjamin J. Franklin]]'''<br>{{Small|(1839–1898)}}<br>{{sfn|McMullin|1984|pp=46–48}}
+|data-sort-value="466"|April 8, 1896{{efn|Franklin was nominated on March 30, 1896,<ref>{{cite book |title=Senate Executive Journal, 54th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069703&seq=213 |page=209 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 8,<ref>{{cite book |title=Senate Executive Journal, 54th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069703&seq=227 |page=223 |via=[[HathiTrust]]}}</ref> and took office on April 18.{{sfn|McMullin|1984|p=47}}{{sfn|Goff|1978|pp=154–155}}<ref>{{Cite news |date=April 19, 1896 |title=Governor Franklin |page=4 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-governor-franklin/117154206/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200738/https://www.newspapers.com/article/arizona-republic-governor-franklin/117154206/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}<br />–<br />July 17, 1897<br>{{small|(466 days; replaced)}}{{efn|His successor having been sworn in out of state, and given instruction from the federal government, Franklin resigned the office on July 22 and handed over duties to the secretary of the territory, [[Charles H. Akers]].<ref>{{Cite news |publication-date=July 24, 1897 |date=July 22, 1897 |title=Secretary Akers Becomes Acting Governor |location=Phoenix, Arizona |publication-place=Florence, Arizona |page=2 |newspaper=Florence Tribune |url=https://www.newspapers.com/article/the-florence-tribune-secretary-akers-bec/117165139/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200704/https://www.newspapers.com/article/the-florence-tribune-secretary-akers-bec/117165139/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="McCord, Myron"|[[File:MyronMcCord.png|75px]]
+|'''[[Myron H. McCord]]'''<br>{{Small|(1840–1908)}}<br>{{sfn|McMullin|1984|pp=48–49}}
+|data-sort-value="365"|July 17, 1897{{efn|McCord was nominated on May 20, 1897,<ref>{{cite book |title=Senate Executive Journal, 55th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069802&seq=126 |page=122 |via=[[HathiTrust]]}}</ref> and confirmed on July 17.<ref>{{cite book |title=Senate Executive Journal, 55th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069802&seq=247 |page=243 |via=[[HathiTrust]]}}</ref> He was sworn in as governor in Virginia on July 21,<ref>{{Cite news |date=July 21, 1897 |location=Washington, D.C. |publication-date=July 22, 1897 |publication-place=Phoenix, Arizona |title=Governor C.H. Akers |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-mccord-takes-oath-of-of/117165211/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202253/https://www.newspapers.com/article/arizona-republic-mccord-takes-oath-of-of/117165211/ |archive-date=September 25, 2023 |url-status=live}}</ref> though [[Charles H. Akers]] was still acting governor of the territory until McCord arrived on July 28.<ref>{{Cite news |date=July 29, 1897 |title=The Governor of Arizona |page=8 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-governor-mccord-arrives/117166143/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202244/https://www.newspapers.com/article/arizona-republic-governor-mccord-arrives/117166143/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}<br />–<br />July 16, 1898<br>{{small|(365 days; resigned)}}{{efn|McCord resigned to serve in the [[Spanish–American War]].{{sfn|McMullin|1984|p=49}}{{sfn|Wagoner|1970|p=345}}}}
+|{{sortname|William|McKinley}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Murphy, Oakes"|[[File:N. O. Murphy.jpg|75px]]
+|'''[[Oakes Murphy]]'''<br>{{Small|(1849–1908)}}<br>{{sfn|McMullin|1984|pp=43–45}}
+|data-sort-value="1398"|July 16, 1898{{efn|Murphy was appointed on July 16, 1898,<ref name="sej-murphy">{{cite book |title=Senate Executive Journal, 55th Cong., 3rd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069802&seq=1014 |page=1010 |via=[[HathiTrust]]}}</ref> during a Senate recess; nominated on December 8;<ref name="sej-murphy" /> and confirmed by the Senate on December 14.<ref>{{cite book |title=Senate Executive Journal, 55th Cong., 3rd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069802&seq=1096 |pages=1092–1093 |via=[[HathiTrust]]}}</ref> He took office on August 1.<ref>{{Cite news |date=August 2, 1898 |title=Governor Murphy |page=4 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-governor-murphy-takes-o/117171654/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202212/https://www.newspapers.com/article/arizona-republic-governor-murphy-takes-o/117171654/ |archive-date=September 25, 2023 |url-status=live}}</ref>{{sfn|McClintock|1916|p=346}}{{sfn|Goff|1978|p=132}}}}<br />–<br />May 14, 1902<br>{{small|(1398 days; resigned)}}{{efn|Murphy was asked by President [[Theodore Roosevelt]] to resign for opposing the [[Newlands Reclamation Act]];{{sfn|Goff|1978|p=136}} he submitted his resignation in April 1902 to take effect June 30,<ref>{{Cite news |date=April 29, 1902 |publication-date=April 30, 1902 |location=Washington, D.C. |publication-place=New York City |title=Resignation of Arizona's Governor |page=8 |newspaper=[[The New York Times]] |url=https://www.newspapers.com/article/the-new-york-times-resignation-of-arizon/132402532/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200733/https://www.newspapers.com/article/the-new-york-times-resignation-of-arizon/132402532/ |archive-date=September 25, 2023 |url-status=live}}</ref> and remained until his successor took office the next day.<ref name="brodie-takes-office">{{Cite news |date=July 1, 1902 |title=Governor Murphy and His Officers |page=7 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic/101978662/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925231948/https://www.newspapers.com/article/arizona-republic/101978662/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}
+|{{sortname|William|McKinley}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Brodie, Alexander"|[[File:Alexander Brodie.jpg|75px]]
+|'''[[Alexander Oswald Brodie]]'''<br>{{Small|(1849–1918)}}<br>{{sfn|McMullin|1984|pp=49–51}}
+|data-sort-value="1008"|May 14, 1902{{efn|Brodie was nominated on May 7, 1902 for a term to begin July 1,<ref>{{cite book |title=Senate Executive Journal, 57th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069695&seq=520 |page=510 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on May 14,<ref>{{cite book |title=Senate Executive Journal, 57th Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069695&seq=538 |page=528 |via=[[HathiTrust]]}}</ref> and took office on July 1.<ref name="brodie-takes-office" />{{sfn|Goff|1978|p=178}}}}<br />–<br />February 14, 1905<br>{{small|(1008 days; resigned)}}{{efn|Brodie resigned, having been appointed assistant chief of the records and pension bureau at the [[United States Department of War]].<ref>{{Cite news |date=February 15, 1905 |title=Gov. Brodie Quits |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-governor-brodie-quits/117179034/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202243/https://www.newspapers.com/article/arizona-republic-governor-brodie-quits/117179034/ |archive-date=September 25, 2023 |url-status=live}}</ref>{{sfn|McClintock|1916|p=354}}}}
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Kibbey, Joseph"|[[File:Joseph Henry Kibbey-left profile.jpg|75px]]
+|'''[[Joseph Henry Kibbey]]'''<br>{{Small|(1853–1924)}}<br>{{sfn|McMullin|1984|pp=51–53}}
+|data-sort-value="1509"|February 27, 1905{{efn|Kibbey was nominated on February 10, 1905,<ref>{{cite book |title=Senate Executive Journal, 58th Cong., 3rd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069836&seq=513 |page=503 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on February 27,<ref>{{cite book |title=Senate Executive Journal, 58th Cong., 3rd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069836&seq=548 |page=538 |via=[[HathiTrust]]}}</ref> and took office on March 7,{{sfn|McMullin|1984|p=52}}<ref>{{Cite news |date=March 8, 1905 |title=The Induction |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-governor-joseph-h-kibb/117200992/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202211/https://www.newspapers.com/article/arizona-republic-governor-joseph-h-kibb/117200992/ |archive-date=September 25, 2023 |url-status=live}}</ref> for a term to expire February 27, 1909.<ref name="kibbey-renom">{{cite book |title=Senate Executive Journal, 60th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c109289199&seq=126 |page=116 |via=[[HathiTrust]]}}</ref> Though he was renominated on December 16, 1908,<ref name="kibbey-renom" /> the Senate did not confirm him before the end of the session.<ref>{{cite book |title=Senate Executive Journal, 60th Cong., 2nd sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c109289199&seq=619 |page=609 |via=[[HathiTrust]]}}</ref>}}<br />–<br />April 15, 1909<br>{{small|(1509 days; replaced)}}
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Sloan, Richard"|[[File:Governor R E Sloan.jpg|75px]]
+|'''[[Richard Elihu Sloan]]'''<br>{{Small|(1857–1933)}}<br>{{sfn|McMullin|1984|pp=53–55}}
+|data-sort-value="1036"|April 15, 1909{{efn|Sloan was nominated on April 8, 1909,<ref>{{cite book |title=Senate Executive Journal, 61st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069869&seq=47 |page=37 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on April 15,<ref>{{cite book |title=Senate Executive Journal, 61st Cong., 1st sess. |author=United States Senate |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015073069869&seq=57 |page=47 |via=[[HathiTrust]]}}</ref> and took office on May 1.<ref>{{Cite news |date=May 1, 1909 |location=Phoenix, Arizona |publication-place=Tucson, Arizona |title=Judge Richard F. Sloan Is Formally Inaugurated As Governor of Arizona |page=1 |newspaper=[[Tucson Citizen]] |url=https://www.newspapers.com/article/tucson-citizen-sloan-replaces-kibbey/117201817/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925202213/https://www.newspapers.com/article/tucson-citizen-sloan-replaces-kibbey/117201817/ |archive-date=September 25, 2023 |url-status=live}}</ref>{{sfn|McClintock|1916|p=359}}{{sfn|Goff|1978|p=199}}}}<br />–<br />February 14, 1912<br>{{small|(1036 days; statehood)}}
+|{{sortname|William Howard|Taft}}
+|}
+
+===State of Arizona===
+The state of Arizona was [[Admission to the Union|admitted to the Union]] on February 14, 1912, the last of the [[contiguous United States|contiguous states]] to be admitted.
+
+The [[Constitution of Arizona|state constitution]] of 1912 called for the election of a governor every two years.{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-id-122412 art. V, § 1, 1912 version]}} The term was increased to four years by a 1968 amendment.{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-id-128740 art. V, § 1, 1968 version]}}<ref>{{Cite book |last=Berman |first=David R. |url=https://books.google.com/books?id=LHYBFuW9B34C&pg=PA112 |title=Arizona Politics & Government: The Quest for Autonomy, Democracy, and Development |publisher=University of Nebraska Press |year=1998 |isbn=0-8032-6146-2 |page=112 |via=[[Google Books]]}}</ref> The constitution originally included no term limit, but an amendment passed in 1992 allows governors to succeed themselves only once;{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-id-131468 art. V, § 1, 1992 version]}} before this, four governors were elected more than twice in a row. Gubernatorial terms begin on the first Monday in the January following the election.{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-amendment-id-133540 art. V, § 1]}} Governors who have served the two term limit can run again after four years out of office.
+
+Arizona was one of the few states without a lieutenant governor, but pursuant to a 2022 amendment to the constitution, the office will be first filled with the [[2026 Arizona gubernatorial election|2026 election]].{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-amendment-id-133540 art. V, § 1]}}<ref name="ltgov" /> The lieutenant governor would become governor in the event of a vacancy in the office.{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-amendment-id-133544 art. V, § 6]}} Nominees are be chosen by each party's gubernatorial nominee, and then run on a joint ticket.<ref name="ltgov" /> If the offices of governor and the lieutenant governor become vacant at the same time, the constitution provides the secretary of state, attorney general, state treasurer or the superintendent of public instruction would be the line of succession to assume the office of governor, and then appoint the lieutenant governor pending state legislative approval.<ref>{{Cite news |last=Gomez |first=Gloria Rebecca |date=November 14, 2022 |title=Voters approve proposition creating lieutenant governor position |url=https://azmirror.com/2022/11/14/voters-approve-proposition-creating-lieutenant-governor-position/ |access-date=October 6, 2026 |website=[[Arizona Mirror]] |archive-url=https://web.archive.org/web/20261006191130/https://azmirror.com/2022/11/14/voters-approve-proposition-creating-lieutenant-governor-position/ |archive-date=October 6, 2026 |url-status=live}}</ref>
+
+Prior to this, the line of succession reached beyond the secretary of state only once, when Attorney General [[Bruce Babbitt]] became governor upon the death of [[Wesley Bolin]]. [[Rose Mofford]] had been appointed secretary of state to replace Bolin after Bolin succeeded to the governorship. Bolin had become governor when [[Raúl Héctor Castro]] resigned to accept appointment as [[List of ambassadors of the United States to Argentina|ambassador to Argentina]]. Mofford later became acting governor after [[Evan Mecham]] was impeached by the House of Representatives, and succeeded to the governorship when Mecham was removed from office after his conviction by the Senate.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Arizona
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|The governor's website labeled Katie Hobbs as the 24th governor;<ref>{{Cite web |title=Meet Governor Katie Hobbs |url=https://azgovernor.gov/governor/meet-governor-katie-hobbs |access-date=October 6, 2026 |website=Office of the Governor of Arizona |archive-url=https://web.archive.org/web/20260326140631/https://azgovernor.gov/governor/meet-governor-katie-hobbs |archive-date=March 26, 2026 |url-status=live}}</ref> based on this, each governor is numbered only once, regardless of how many distinct terms they served. Repeat terms are listed with the governor's original number in italics.}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan=2|[[Lieutenant Governor of Arizona|Lt. Governor]]{{efn|The office of Lieutenant Governor was created in 2022 and will be first filled in the 2026 election.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Hunt, George"|[[File:George WP Hunt.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[George W. P. Hunt]]'''<br>{{Small|(1859–1934)}}<br>{{sfn|Sobel|1978|pp=49–50}}<ref name="nga-hunt">{{Cite web |title=George Wylie Hunt |url=https://www.nga.org/governor/george-wylie-hunt/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260208092653/https://www.nga.org/governor/george-wylie-hunt/ |archive-date=February 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1784"|February 14, 1912<ref>{{Cite news |date=February 15, 1912 |title=Bright Folds of Old Glory Have New Star |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-hunt-inaugurated-februa/129196189/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211926/https://www.newspapers.com/article/arizona-republic-hunt-inaugurated-februa/129196189/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 1, 1917<br />{{small|(1784 days; lost election)}}{{efn|name=elect-1916}}
+|rowspan="2"|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=46}}
+|[[1911 Arizona gubernatorial election|1911]]
+|colspan="2" rowspan="50" style="background:#EEEEEE; color: inherit;"|''Office did not exist''
+|- style="height:2em;"
+|[[1914 Arizona gubernatorial election|1914]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Campbell, Thomas"|[[File:Thomas E Campbell 2.jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Thomas Edward Campbell]]'''<br>{{Small|(1878–1944)}}<br>{{sfn|Sobel|1978|pp=50–51}}
+|data-sort-value="359"|January 1, 1917<ref>{{Cite news |date=January 2, 1917 |title=Great Throng Approves Campbell's Inaugural |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-campbell-inaugurated-ja/129196293/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731221945/https://www.newspapers.com/article/arizona-republic-campbell-inaugurated-ja/129196293/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />December 25, 1917<br />{{small|(359 days, removed)}}
+|[[Arizona Republican Party|Republican]]{{sfn|Kallenbach|1977|p=46}}
+|rowspan="2"|[[1916 Arizona gubernatorial election|1916]]{{efn|Initial results showed that Campbell had won by 30 votes, but Hunt challenged the results, claiming that several precincts had experienced fraudulent voting.<ref>{{Cite news |date=January 2, 1917 |title=Gov. Hunt Refuses to Yield Office |page=4 |newspaper=[[The New York Times]] |url=https://www.nytimes.com/1917/01/02/archives/gov-hunt-refuses-to-yield-office-opponent-at-last-election-is.html |archive-url=https://web.archive.org/web/20221111080054/https://www.nytimes.com/1917/01/02/archives/gov-hunt-refuses-to-yield-office-opponent-at-last-election-is.html |archive-date=November 11, 2022 |url-status=live |access-date=October 9, 2026}}</ref> The Arizona Supreme Court named Campbell governor on January 27, 1917, and forced Hunt to surrender his office.<ref>{{Cite news |date=January 28, 1917 |title=Gov. Hunt Put Out of Office by Court |page=14 |newspaper=[[The New York Times]] |url=https://www.nytimes.com/1917/01/28/archives/gov-hunt-put-out-of-office-by-court-campbell-declared-to-have-been.html |archive-url=https://web.archive.org/web/20221111080057/https://www.nytimes.com/1917/01/28/archives/gov-hunt-put-out-of-office-by-court-campbell-declared-to-have-been.html |archive-date=November 11, 2022 |url-status=live |access-date=October 9, 2026}}</ref> Hunt continued fighting in court, and on December 22, was declared the winner of the election by 43 votes.<ref>{{Cite news |date=December 23, 1917 |title=Court Declares Hunt Governor of Arizona |page=5 |newspaper=[[The New York Times]] |url=https://www.nytimes.com/1917/12/23/archives/court-declares-hunt-governor-of-arizona-campbell-republican.html |archive-url=https://web.archive.org/web/20221111080055/https://www.nytimes.com/1917/12/23/archives/court-declares-hunt-governor-of-arizona-campbell-republican.html |archive-date=November 11, 2022 |url-status=live |access-date=October 9, 2026}}</ref> Campbell vacated the office three days later.<ref name="nga-hunt" />|name=elect-1916}}
+|- style="height:2em;"
+!scope="row"|''1''
+|data-sort-value="Hunt, George"|[[File:George WP Hunt.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[George W. P. Hunt]]'''<br>{{Small|(1859–1934)}}<br>{{sfn|Sobel|1978|pp=49–50}}<ref name="nga-hunt" />
+|data-sort-value="378"|December 25, 1917<ref>{{Cite news |date=December 25, 1917 |title=Gubernatorial Change Will Bring Executive Chair As Christmas Gift to Mr. Hunt |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-hunt-succeeds-campbell/129196501/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211925/https://www.newspapers.com/article/arizona-republic-hunt-succeeds-campbell/129196501/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 6, 1919<br />{{small|(378 days; retired)}}
+|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''2''
+|rowspan="2" data-sort-value="Campbell, Thomas"|[[File:Thomas E Campbell 2.jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Thomas Edward Campbell]]'''<br>{{Small|(1878–1944)}}<br>{{sfn|Sobel|1978|pp=50–51}}
+|rowspan="2" data-sort-value="1457"|January 6, 1919<ref>{{Cite news |date=January 7, 1919 |title=Campbell Again Is Arizona Governor |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-campbell-inaugurated-ja/129196602/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211930/https://www.newspapers.com/article/arizona-republic-campbell-inaugurated-ja/129196602/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 1, 1923<br />{{small|(1457 days; lost election)}}
+|rowspan="2"|[[Arizona Republican Party|Republican]]{{sfn|Kallenbach|1977|p=47}}
+|[[1918 Arizona gubernatorial election|1918]]
+|- style="height:2em;"
+|[[1920 Arizona gubernatorial election|1920]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|''1''
+|rowspan="3" data-sort-value="Hunt, George"|[[File:George WP Hunt.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[George W. P. Hunt]]'''<br>{{Small|(1859–1934)}}<br>{{sfn|Sobel|1978|pp=49–50}}<ref name="nga-hunt" />
+|rowspan="3" data-sort-value="2199"|January 1, 1923<ref>{{Cite news |date=January 2, 1923 |title=Hunt's Inauguration Marked by Simplicity; Economy Is Promised |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-hunt-inaugurated-januar/129198189/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211916/https://www.newspapers.com/article/arizona-republic-hunt-inaugurated-januar/129198189/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 7, 1929<br />{{small|(2199 days; lost election)}}
+|rowspan="3"|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1922 Arizona gubernatorial election|1922]]
+|- style="height:2em;"
+|[[1924 Arizona gubernatorial election|1924]]
+|- style="height:2em;"
+|[[1926 Arizona gubernatorial election|1926]]
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Phillips, John"|[[File:John Calhoun Phillips (Arizona Governor).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[John Calhoun Phillips]]'''<br>{{Small|(1870–1943)}}<br>{{sfn|Sobel|1978|pp=51–52}}<ref name="nga-phillips">{{Cite web |title=John C. Phillips |url=https://www.nga.org/governor/john-c-phillips/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613181342/https://www.nga.org/governor/john-c-phillips/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 7, 1929<ref>{{Cite news |date=January 8, 1929 |title=Inaugural of Phillips Marked by Simplicity |page=1 |newspaper=[[The Arizona Republic|The Arizona Republican]] |url=https://www.newspapers.com/article/arizona-republic-phillips-inaugurated-ja/129198252/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211925/https://www.newspapers.com/article/arizona-republic-phillips-inaugurated-ja/129198252/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 5, 1931<br />{{small|(729 days; lost election)}}
+|[[Arizona Republican Party|Republican]]{{sfn|Kallenbach|1977|p=47}}
+|[[1928 Arizona gubernatorial election|1928]]
+|- style="height:2em;"
+!scope="row"|''1''
+|data-sort-value="Hunt, George"|[[File:George WP Hunt.jpg|75px]]
+|rowspan="11" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[George W. P. Hunt]]'''<br>{{Small|(1859–1934)}}<br>{{sfn|Sobel|1978|pp=49–50}}<ref name="nga-hunt" />
+|data-sort-value="729"|January 5, 1931<ref>{{Cite news |date=January 5, 1931 |publication-date=January 6, 1931 |location=Phoenix, Arizona |publication-place=Tucson, Arizona |title=Grand Old Man of Arizona Is Back in Office |page=1 |newspaper=[[Arizona Daily Star]] |agency=Associated Press |url=https://www.newspapers.com/article/arizona-daily-star-hunt-inaugurated-janu/129198304/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731221947/https://www.newspapers.com/article/arizona-daily-star-hunt-inaugurated-janu/129198304/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 2, 1933<br />{{small|(729 days;<br>lost nomination)}}<ref>{{Cite news |date=September 15, 1932 |publication-date=September 16, 1932 |location=Phoenix, Arizona |publication-place=Los Angeles |title=Hunt Concedes Moeur Victory |page=2 |newspaper=[[Los Angeles Times]] |agency=Associated Press |url=https://www.newspapers.com/article/the-los-angeles-times-hunt-concedes-moeu/33828514/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925231948/https://www.newspapers.com/article/the-los-angeles-times-hunt-concedes-moeu/33828514/ |archive-date=September 25, 2023 |url-status=live}}</ref>
+|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1930 Arizona gubernatorial election|1930]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|4
+|rowspan="2" data-sort-value="Moeur, Benjamin"|[[File:B. B. Moeur, 1934 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Benjamin Baker Moeur]]'''<br>{{Small|(1869–1937)}}<br>{{sfn|Sobel|1978|p=52}}<ref name="nga-moeur">{{Cite web |title=Benjamin Baker Moeur |url=https://www.nga.org/governor/benjamin-baker-moeur/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617071648/https://www.nga.org/governor/benjamin-baker-moeur/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 2, 1933<ref>{{Cite news |date=January 3, 1933 |title=Arizona's Governor Is Seated |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-moeur-inaugurated-janua/129198440/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211927/https://www.newspapers.com/article/arizona-republic-moeur-inaugurated-janua/129198440/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 4, 1937<br />{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=52}}
+|rowspan="2"|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1932 Arizona gubernatorial election|1932]]
+|- style="height:2em;"
+|[[1934 Arizona gubernatorial election|1934]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Stanford, Rawghlie"|[[File:Rawghlie Clement Stanford.jpg|75px]]
+|'''[[Rawghlie Clement Stanford]]'''<br>{{Small|(1879–1963)}}<br>{{sfn|Sobel|1978|p=53}}<ref name="nga-stanford">{{Cite web |title=Rawghlie Clement Stanford |url=https://www.nga.org/governor/rawghlie-clement-stanford/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513224825/https://www.nga.org/governor/rawghlie-clement-stanford/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 4, 1937<ref>{{Cite news |date=January 5, 1937 |title=Sanford Stresses Problems |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-stanford-inaugurated-ja/129198490/ |access-date=October 9, 2023 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211927/https://www.newspapers.com/article/arizona-republic-stanford-inaugurated-ja/129198490/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 2, 1939<br />{{small|(729 days; retired)}}
+|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1936 Arizona gubernatorial election|1936]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Jones, Robert"|[[File:Robert Taylor Jones.jpg|75px]]
+|'''[[Robert Taylor Jones]]'''<br>{{Small|(1884–1958)}}<br>{{sfn|Sobel|1978|pp=53–54}}<ref name="nga-jones">{{Cite web |title=Robert Taylor Jones |url=https://www.nga.org/governor/robert-taylor-jones/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415055142/https://www.nga.org/governor/robert-taylor-jones/ |archive-date=April 15, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|January 2, 1939<ref>{{Cite news |date=January 3, 1939 |title=R.T. Jones Becomes Governor |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-jones-inaugurated-janua/129198523/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211933/https://www.newspapers.com/article/arizona-republic-jones-inaugurated-janua/129198523/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 6, 1941<br />{{small|(736 days;<br>lost nomination)}}<ref>{{Cite news |date=September 12, 1920 |title=Talmadge, Once New Deal Foe, Re-Elected in Georgia |page=9 |newspaper=[[San Francisco Examiner]] |agency=Associated Press |url=https://www.newspapers.com/article/the-san-francisco-examiner-osborn-defeat/33828720/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200744/https://www.newspapers.com/article/the-san-francisco-examiner-osborn-defeat/33828720/ |archive-date=September 25, 2023 |url-status=live}}</ref>
+|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1938 Arizona gubernatorial election|1938]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|7
+|rowspan="4" data-sort-value="Osborn, Sidney"|[[File:Sidney Preston Osborn.jpg|75px]]
+|rowspan="4"|'''[[Sidney Preston Osborn]]'''<br>{{Small|(1884–1948)}}<br>{{sfn|Sobel|1978|p=54}}<ref name="nga-osborn">{{Cite web |title=Sidney Preston Osborn |url=https://www.nga.org/governor/sidney-preston-osborn/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260308141159/https://www.nga.org/governor/sidney-preston-osborn/ |archive-date=March 8, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="2697"|January 6, 1941<ref>{{Cite news |date=January 7, 1941 |title=Big Program Is Mapped by New Governor |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-osborn-inaugurated-janu/129198570/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211930/https://www.newspapers.com/article/arizona-republic-osborn-inaugurated-janu/129198570/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />May 25, 1948<br />{{small|(2697 days; died in office)}}
+|rowspan="4"|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1940 Arizona gubernatorial election|1940]]
+|- style="height:2em;"
+|[[1942 Arizona gubernatorial election|1942]]
+|- style="height:2em;"
+|[[1944 Arizona gubernatorial election|1944]]
+|- style="height:2em;"
+|[[1946 Arizona gubernatorial election|1946]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|8
+|rowspan="2" data-sort-value="Garvey, Dan"|[[File:Dan E. Garvey (Arizona Governor).jpg|75px]]
+|rowspan="2"|'''[[Dan Edward Garvey]]'''<br>{{Small|(1886–1974)}}<br>{{sfn|Sobel|1978|p=55}}<ref name="nga-garvey">{{Cite web |title=Daniel E. Garvey |url=https://www.nga.org/governor/daniel-e-garvey/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414061806/https://www.nga.org/governor/daniel-e-garvey/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="952"|May 25, 1948<ref>{{Cite news |date=May 25, 1948 |location=Phoenix, Arizona |publication-place=Flagstaff, Arizona |title=Long {{Sic|Seige |hide=y}} of Illness Ends Early Today 
+|page=1 
+|newspaper=[[Arizona Daily Sun]]
+|agency=Associated Press
+|url=https://www.newspapers.com/article/arizona-daily-sun-obituary-for-sidney-p/129198684/ 
+|access-date=October 9, 2026
+|via=Newspapers.com
+|archive-url=https://web.archive.org/web/20230731210416/https://www.newspapers.com/article/arizona-daily-sun-obituary-for-sidney-p/129198684/
+|archive-date=July 31, 2023
+|url-status=live
+}}</ref><br />–<br />January 1, 1951<br />{{small|(952 days;<br>lost nomination)}}{{efn|Garvey lost the Democratic nomination to [[Ana Frohmiller]].{{sfn|Sobel|1978|p=55}}<ref>{{Cite news |date=September 13, 1950 |publication-date=September 14, 1950 |location=Phoenix, Arizona |publication-place=Los Angeles |title=Woman Pulls Upset in Arizona Contest |page=19 |newspaper=[[Los Angeles Times]] |agency=Associated Press |url=https://www.newspapers.com/article/the-los-angeles-times-frohmiller-defeats/33828801/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230925200743/https://www.newspapers.com/article/the-los-angeles-times-frohmiller-defeats/33828801/ |archive-date=September 25, 2023 |url-status=live}}</ref>}}
+|rowspan="2"|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />secretary of state}}
+|- style="height:2em;"
+|[[1948 Arizona gubernatorial election|1948]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|9
+|rowspan="2" data-sort-value="Pyle, John"|[[File:John Howard Pyle (Arizona governor).jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[J. Howard Pyle]]'''<br>{{Small|(1906–1987)}}<br>{{sfn|Sobel|1978|pp=55–56}}<ref name="nga-pyle">{{Cite web |title=John Howard Pyle |url=https://www.nga.org/governor/john-howard-pyle/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511204309/https://www.nga.org/governor/john-howard-pyle/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 1, 1951<ref>{{Cite news |publication-date=January 2, 1951 |date=January 1, 1951 |location=Phoenix, Arizona |publication-place=Tucson, Arizona |title=Pyle Confident of Harmonious Relationship With Lawmakers |page=1A |newspaper=[[Arizona Daily Star]] |agency=Associated Press |url=https://www.newspapers.com/article/arizona-daily-star-pyle-inaugurated-janu/129198787/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211918/https://www.newspapers.com/article/arizona-daily-star-pyle-inaugurated-janu/129198787/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 3, 1955<br />{{small|(1464 days; lost election)}}
+|rowspan="2"|[[Arizona Republican Party|Republican]]{{sfn|Kallenbach|1977|p=47}}
+|[[1950 Arizona gubernatorial election|1950]]
+|- style="height:2em;"
+|[[1952 Arizona gubernatorial election|1952]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="McFarland, Ernest"|[[File:Ernest W. McFarland (AZ).png|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Ernest McFarland]]'''<br>{{Small|(1894–1984)}}<br>{{sfn|Sobel|1978|pp=56–57}}<ref name="nga-mcfarland">{{Cite web |title=Ernest William McFarland |url=https://www.nga.org/governor/ernest-william-mcfarland/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511212051/https://www.nga.org/governor/ernest-william-mcfarland/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 3, 1955<ref>{{Cite news |last=Nuckolls |first=Claiborne |date=January 4, 1955 |title=Inaugural Attended by 3,000 |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-mcfarland-inaugurated-j/129205294/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211932/https://www.newspapers.com/article/arizona-republic-mcfarland-inaugurated-j/129205294/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 5, 1959<br />{{small|(1464 days; retired)}}{{efn|McFarland instead [[1958 United States Senate election in Arizona|ran unsuccessfully]] for the [[United States Senate]].{{sfn|Sobel|1978|p=57}}}}
+|rowspan="2"|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1954 Arizona gubernatorial election|1954]]
+|- style="height:2em;"
+|[[1956 Arizona gubernatorial election|1956]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|11
+|rowspan="3" data-sort-value="Fannin, Paul"|[[File:Paul Fannin.jpg|75px]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Paul Fannin]]'''<br>{{Small|(1907–2002)}}<br>{{sfn|Sobel|1978|p=57}}<ref name="nga-fannin">{{Cite web |title=Paul Jones Fannin |url=https://www.nga.org/governor/paul-jones-fannin/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612145014/https://www.nga.org/governor/paul-jones-fannin/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2192"|January 5, 1959<ref>{{Cite news |last=Avery |first=Ben |date=January 6, 1959 |title=Sworn In As 11th Governor |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-fannon-inaugurated-janu/129205371/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731210414/https://www.newspapers.com/article/arizona-republic-fannon-inaugurated-janu/129205371/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 4, 1965<br />{{small|(2192 days; retired)}}{{efn|Fannin was instead [[1964 United States Senate election in Arizona|elected]] for the [[United States Senate]].{{sfn|Sobel|1978|p=57}}}}
+|rowspan="3"|[[Arizona Republican Party|Republican]]{{sfn|Kallenbach|1977|p=47}}
+|[[1958 Arizona gubernatorial election|1958]]
+|- style="height:2em;"
+|[[1960 Arizona gubernatorial election|1960]]
+|- style="height:2em;"
+|[[1962 Arizona gubernatorial election|1962]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Goddard, Samuel"| [[File:Samuel Pearson Goddard, Jr (tight crop).jpg |75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Sam Goddard Jr.]]'''<br>{{Small|(1919–2006)}}<br>{{sfn|Sobel|1978|pp=57–58}}<ref name="nga-goddard">{{Cite web |title=Samuel Pearson Goddard |url=https://www.nga.org/governor/samuel-pearson-goddard/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260308134145/https://www.nga.org/governor/samuel-pearson-goddard/ |archive-date=March 8, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 4, 1965<ref>{{Cite news |last=King |first=Bill |date=January 5, 1965 |title=Governor Sworn In by Udall |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-goddard-inaugurated-jan/129205464/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731210415/https://www.newspapers.com/article/arizona-republic-goddard-inaugurated-jan/129205464/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 2, 1967<br />{{small|(729 days; lost election)}}
+|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1964 Arizona gubernatorial election|1964]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|13
+|rowspan="3" data-sort-value="Williams, Jack"|[[File:Jack Williams (Arizona politician) (cropped).jpg|75px]]
+|rowspan="3" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Jack Williams (American politician)|Jack Williams]]'''<br>{{Small|(1909–1998)}}<br>{{sfn|Sobel|1978|pp=58–59}}<ref name="nga-williams">{{Cite web |title=John "Jack" R. Williams |url=https://www.nga.org/governor/john-jack-r-williams/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710082340/https://www.nga.org/governor/john-jack-r-williams/ |archive-date=July 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2927"|January 2, 1967<ref>{{Cite news |last=Wynn |first=Bernie |date=January 3, 1967 |title=Jack Williams Becomes 13th State Governor |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-williams-inaugurated-ja/129205540/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211923/https://www.newspapers.com/article/arizona-republic-williams-inaugurated-ja/129205540/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 6, 1975<br />{{small|(2927 days; retired)}}{{efn|Sobel says that Williams lost the 1974 election, but that was someone with a similar name, Russell Williams.<ref>{{Cite news |last=Lydon |first=Christopher |date=November 2, 1974 |publication-date=November 3, 1974 |location=Washington, D.C. |publication-place=New York City |title=Democrats Likely to Make Larger Than Usual Gain |newspaper=[[The New York Times]] |url=https://www.nytimes.com/1974/11/03/archives/democrats-likely-to-make-larger-than-usual-gain-senate-gain.html |access-date=October 9, 2026 |archive-url=https://web.archive.org/web/20241126201157/https://www.nytimes.com/1974/11/03/archives/democrats-likely-to-make-larger-than-usual-gain-senate-gain.html |archive-date=November 26, 2024 |url-status=live |quote=The Democrat, Raul H. Castro, who came within 8,000 votes of beating Gov. Jack Williams in 1970, is narrowly favored this year to defeat Russell Williams, a conservative Republican businessman who is no kin to the incumbent.}}</ref>}}
+|rowspan="3"|[[Arizona Republican Party|Republican]]{{sfn|Kallenbach|1977|p=47}}
+|[[1966 Arizona gubernatorial election|1966]]
+|- style="height:2em;"
+|[[1968 Arizona gubernatorial election|1968]]
+|- style="height:2em;"
+|[[1970 Arizona gubernatorial election|1970]]{{efn|First term under a constitutional amendment which lengthened terms to four years.{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-id-128740 art. V, § 1, 1968 version]}}}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Castro, Raúl"|[[File:Raúl Héctor Castro (AZ).png|75px]]
+|rowspan="5" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Raúl Héctor Castro]]'''<br>{{Small|(1916–2015)}}<br>{{sfn|Sobel|1978|p=59}}<ref name="nga-castro">{{Cite web |title=Raul H. Castro |url=https://www.nga.org/governor/raul-h-castro/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260619072237/https://www.nga.org/governor/raul-h-castro/ |archive-date=June 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1019"|January 6, 1975<ref>{{Cite news |last=Bolles |first=Don |date=January 7, 1975 |title=Castro Takes Oath As 14th Governor |page=1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-castro-inaugurated-janu/129205702/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211926/https://www.newspapers.com/article/arizona-republic-castro-inaugurated-janu/129205702/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />October 20, 1977<br />{{small|(1019 days; resigned)}}{{efn|Castro resigned, having been confirmed as [[List of ambassadors of the United States to Argentina|United States Ambassador to Argentina]].{{sfn|Sobel|1978|p=59}}}}
+|[[Arizona Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=47}}
+|[[1974 Arizona gubernatorial election|1974]]
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Bolin, Wesley"|[[File:Wesley Bolin (Arizona governor).jpg|75px]]
+|'''[[Wesley Bolin]]'''<br>{{Small|(1909–1978)}}<br>{{sfn|Sobel|1978|p=60}}<ref name="nga-bolin">{{Cite web |title=Wesley Bolin |url=https://www.nga.org/governor/wesley-bolin/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260619072246/https://www.nga.org/governor/wesley-bolin/ |archive-date=June 19, 2026 |url-status=live}}</ref>
+|data-sort-value="136"|October 20, 1977<ref>{{Cite news |date=October 20, 1977 |title=Bolin Becomes State's 15th Governor |location=Phoenix, Arizona |publication-place=Flagstaff, Arizona |page=A1 |newspaper=[[Arizona Daily Sun]] |agency=Associated Press |url=https://www.newspapers.com/article/arizona-daily-sun-bolin-succeeds-castro/129205786/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211921/https://www.newspapers.com/article/arizona-daily-sun-bolin-succeeds-castro/129205786/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />March 4, 1978<br />{{small|(136 days; died in office)}}
+|[[Arizona Democratic Party|Democratic]]<ref name="nga-bolin" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />secretary of state}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|16
+|rowspan="3" data-sort-value="Babbitt, Bruce"|[[File:Bruce Babbitt (AZ).png|75px]]
+|rowspan="3"|'''[[Bruce Babbitt]]'''<br>{{Small|({{Abbr|b.|born in}} 1938)}}<br><ref name="nga-babbitt">{{Cite web |title=Bruce Edward Babbitt |url=https://www.nga.org/governor/bruce-edward-babbitt/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260619072247/https://www.nga.org/governor/bruce-edward-babbitt/ |archive-date=June 19, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="3230"|March 4, 1978<ref>{{Cite news |date=March 5, 1978 |title=Gov. Bolin Dies at 69 |page=A1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-babbitt-succeeds-bolin/129213471/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211923/https://www.newspapers.com/article/arizona-republic-babbitt-succeeds-bolin/129213471/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 5, 1987<br />{{small|(3230 days; retired)}}
+|rowspan="3"|[[Arizona Democratic Party|Democratic]]<ref name="nga-babbitt" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />attorney general}}{{efn|The secretary of state at the time of Bolin's death had been appointed, not elected, and thus not in the line of succession according to the Arizona constitution,{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-amendment-id-133544 art. V, § 6]}} making Attorney General Babbitt governor.<ref name="nga-babbitt" />}}
+|- style="height:2em;"
+|[[1978 Arizona gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1982 Arizona gubernatorial election|1982]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Mecham, Evan"|[[File:Evan Mecham (Arizona governor) (1).jpg|75px]]
+|style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Evan Mecham]]'''<br>{{Small|(1924–2008)}}<br><ref name="nga-mecham">{{Cite web |title=Evan Mecham |url=https://www.nga.org/governor/evan-mecham/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260830130623/https://www.nga.org/governor/evan-mecham/ |archive-date=August 30, 2026 |url-status=live}}</ref>
+|data-sort-value="456"|January 5, 1987<ref>{{Cite news |last1=Harris |first1=Don |last2=Stanton |first2=Sam |date=January 6, 1987 |title=New Governor Declares War on Drugs, Porn |page=A1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-mecham-inaugurated-janu/129213554/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211923/https://www.newspapers.com/article/arizona-republic-mecham-inaugurated-janu/129213554/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />April 4, 1988<br />{{small|(456 days;<br>impeached and removed)}}{{efn|Mecham was impeached and removed from office on charges of obstruction of justice and misuse of government funds,<ref name="nga-mecham" /> though he was later acquitted.<ref>{{Cite news |last=Sullivan |first=Patricia |date=February 23, 2008 |title=Evan Mecham, 83; Was Removed as Arizona Governor |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/wp-dyn/content/article/2008/02/22/AR2008022202925.html |access-date=October 9, 2026}}</ref>}}
+|[[Arizona Republican Party|Republican]]<ref name="nga-mecham" />
+|[[1986 Arizona gubernatorial election|1986]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Mofford, Rose"|[[File:Rose Mofford 2012.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Rose Mofford]]'''<br>{{Small|(1922–2016)}}<br>{{sfn|Mullaney|1994|pp=23–26}}<ref name="nga-mofford">{{Cite web |title=Rose Mofford |url=https://www.nga.org/governor/rose-mofford/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260619072239/https://www.nga.org/governor/rose-mofford/ |archive-date=June 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1067"|April 4, 1988<ref>{{Cite news |last=Asseo |first=Laurie |date=April 5, 1988 |location=Phoenix, Arizona |publication-place=Flagstaff, Arizona |title=Senate Convicts, Ousts Mecham |page=1 |newspaper=[[Arizona Daily Sun]] |agency=Associated Press |url=https://www.newspapers.com/article/arizona-daily-sun-mofford-succeeds-mecha/129213678/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211920/https://www.newspapers.com/article/arizona-daily-sun-mofford-succeeds-mecha/129213678/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />March 6, 1991<br />{{small|(1067 days; retired)}}
+|[[Arizona Democratic Party|Democratic]]<ref name="nga-mofford" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />secretary of state}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Symington, Fife"|[[File:Fife Symington by Gage Skidmore.jpg|75px]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Fife Symington]]'''<br>{{Small|({{Abbr|b.|born in}} 1945)}}<br>{{sfn|Mullaney|1994|pp=27–31}}<ref name="nga-symington">{{Cite web |title=J. Fife Symington |url=https://www.nga.org/governor/j-fife-symington/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260619072238/https://www.nga.org/governor/j-fife-symington/ |archive-date=June 19, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2376"|March 6, 1991<ref>{{Cite news |last=Pitzl |first=Mary Jo |date=March 7, 1991 |title=New Governor Vows Aid to Families, Kids |page=A1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-symington-inaugurated-m/129213814/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211921/https://www.newspapers.com/article/arizona-republic-symington-inaugurated-m/129213814/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />September 5, 1997<br />{{small|(2376 days; resigned)}}{{efn|Symington resigned after being convicted of bank fraud; the conviction was later overturned and he was pardoned by President [[Bill Clinton]].<ref name="nga-symington" /><ref>{{Cite news |last=Purdum |first=Todd S. |date=September 4, 1997 |title=Arizona Governor Convicted Of Fraud and Will Step Down |newspaper=[[The New York Times]] |url=https://www.nytimes.com/1997/09/04/us/arizona-governor-convicted-of-fraud-and-will-step-down.html |access-date=October 9, 2026 |archive-url=https://web.archive.org/web/20111230050932/https://www.nytimes.com/1997/09/04/us/arizona-governor-convicted-of-fraud-and-will-step-down.html |archive-date=December 30, 2011 |url-status=live}}</ref>}}
+|rowspan="2"|[[Arizona Republican Party|Republican]]<ref name="nga-symington" />
+|[[1990–91 Arizona gubernatorial election|1990–1991]]{{efn|Arizona adopted runoff voting after Evan Mecham won with only 43% of the vote in [[1986 Arizona gubernatorial election|1986]]. The 1990 election was very close, and a runoff was held on February 26, 1991, which Symington won, and he was inaugurated on March 6.{{sfn|Mullaney|1994|pp=29–30}}|name=date-1991}}
+|- style="height:2em;"
+|[[1994 Arizona gubernatorial election|1994]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Hull, Jane"|[[File:Jane Dee Hull 2001 cropped.jpg|75px]]
+|rowspan="2"|'''[[Jane Dee Hull]]'''<br>{{Small|(1935–2020)}}<br><ref name="nga-hull">{{Cite web |title=Jane Dee Hull |url=https://www.nga.org/governor/jane-dee-hull/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260727074215/https://www.nga.org/governor/jane-dee-hull/ |archive-date=July 27, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1950"|September 5, 1997<ref>{{Cite news |last=Mattern |first=Hal |date=September 6, 1997 |title=Hull Becomes Governor As Symington Era Ends |page=A1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-hull-succeeds-symington/129213898/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211935/https://www.newspapers.com/article/arizona-republic-hull-succeeds-symington/129213898/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 6, 2003<br />{{small|(1950 days; term-limited)}}{{efn|Under a 1992 amendment to the constitution, governors who have served two successive terms are not eligible again until another full term has passed.{{sfn|Ariz. Const.|loc=[https://50constitutions.org/az/constitution/section-id-131468 art. V, § 1, 1992 version]}}|name=limits}}
+|rowspan="2"|[[Arizona Republican Party|Republican]]<ref name="nga-hull" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />secretary of state}}
+|- style="height:2em;"
+|[[1998 Arizona gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Napolitano, Janet"|[[File:Janet Napolitano by Gage Skidmore 3.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Janet Napolitano]]'''<br>{{Small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-napolitano">{{Cite web |title=Janet Napolitano |url=https://www.nga.org/governor/janet-napolitano/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410191806/https://www.nga.org/governor/janet-napolitano/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2207"|January 6, 2003<ref>{{Cite news |last1=Scutari |first1=Chip |last2=Leonard |first2=Christina |date=January 7, 2003 |title=Napolitano Optimistic As She Becomes State's 21st Governor |page=A1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-napolitano-inaugurated/129213976/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211930/https://www.newspapers.com/article/arizona-republic-napolitano-inaugurated/129213976/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 20, 2009<br />{{small|(2207 days; resigned)}}{{efn|Napolitano resigned, having been confirmed as [[United States Secretary of Homeland Security]].<ref name="nga-napolitano" />}}
+|rowspan="2"|[[Arizona Democratic Party|Democratic]]<ref name="nga-napolitano" />
+|[[2002 Arizona gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Arizona gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Brewer, Jan"|[[File:Jan Brewer by Gage Skidmore 5.jpg|75px]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Jan Brewer]]'''<br>{{Small|({{Abbr|b.|born in}} 1944)}}<br><ref name="nga-brewer">{{Cite web |title=Jan Brewer |url=https://www.nga.org/governor/jan-brewer/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260619072240/https://www.nga.org/governor/jan-brewer/ |archive-date=June 19, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2177"|January 20, 2009<ref>{{Cite news |last=Benson |first=Matthew |date=January 21, 2009 |title=With New Job Confirmed, Napolitano Resigns Office |page=A10 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-brewer-succeeds-napolit/129214354/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211928/https://www.newspapers.com/article/arizona-republic-brewer-succeeds-napolit/129214354/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 5, 2015<br />{{small|(2177 days; retired)}}{{efn|There was a question as to whether Brewer, who had served part of one term and one full term, would be prohibited from running for a third term; she decided not to run.<ref>{{Cite news |last=Fischer |first=Howard |date=March 13, 2014 |title=Gov. Brewer won't run for re-election |page=A1 |location=Phoenix, Arizona |publication-place=Flagstaff, Arizona |newspaper=[[Arizona Daily Sun]] |url=https://www.newspapers.com/article/arizona-daily-sun-gov-brewer-wont-run/129214795/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211928/https://www.newspapers.com/article/arizona-daily-sun-gov-brewer-wont-run/129214795/ |archive-date=July 31, 2023 |url-status=live}}</ref>}}
+|rowspan="2"|[[Arizona Republican Party|Republican]]<ref name="nga-brewer" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br />secretary of state}}
+|- style="height:2em;"
+|[[2010 Arizona gubernatorial election|2010]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Ducey, Doug"|[[File:Doug Ducey by Gage Skidmore 13.jpg|75px]]
+|rowspan="2"|'''[[Doug Ducey]]'''<br>{{Small|({{Abbr|b.|born in}} 1964)}}<br><ref name="nga-ducey">{{Cite web |title=Doug Ducey |url=https://www.nga.org/governor/doug-ducey/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513071848/https://www.nga.org/governor/doug-ducey/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 5, 2015<ref>{{Cite news |last=Nowicki |first=Dan |date=January 6, 2015 |title=Ducey on Day 1: Tough Talk on Taxes, Budget |page=A1 |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-ducey-inaugurated-janua/129214416/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731210417/https://www.newspapers.com/article/arizona-republic-ducey-inaugurated-janua/129214416/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />January 2, 2023<br />{{small|(2920 days; term-limited)}}{{efn|name=limits}}
+|rowspan="2"|[[Arizona Republican Party|Republican]]<ref name="nga-ducey" />
+|[[2014 Arizona gubernatorial election|2014]]
+|- style="height:2em;"
+|[[2018 Arizona gubernatorial election|2018]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Hobbs, Katie"|[[File:Katie Hobbs (52688750292) (cropped).jpg|115x115px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Katie Hobbs]]'''<br>{{Small|({{Abbr|b.|born in}} 1969)}}<br><ref name="nga-hobbs">{{Cite web |title=Katie Hobbs |url=https://www.nga.org/governor/katie-hobbs/ |access-date=October 6, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260829070709/https://www.nga.org/governor/katie-hobbs/ |archive-date=August 29, 2026 |url-status=live}}</ref>
+|data-sort-value="{{Duration in days nts|2023|1|2|duration=on|format=no}}"|January 2, 2023<ref>{{Cite news |last=Barchenger |first=Stacey |date=January 3, 2023 |title=Hobbs, Five Other State Leaders Take Oath of Office in a Historic Transfer of Power |page=1A |newspaper=[[The Arizona Republic]] |url=https://www.newspapers.com/article/arizona-republic-hobbs-inaugurated-janua/129214493/ |access-date=October 9, 2026 |via=Newspapers.com |archive-url=https://web.archive.org/web/20230731211929/https://www.newspapers.com/article/arizona-republic-hobbs-inaugurated-janua/129214493/ |archive-date=July 31, 2023 |url-status=live}}</ref><br />–<br />Incumbent{{efn|Hobbs' term [[2026 Arizona gubernatorial election|will expire]] on January 4, 2027; she is running for reelection.}}<br>{{small|(in office {{Duration in days nts|2023|1|2|duration=on|format=no}} days)}}
+|[[Arizona Democratic Party|Democratic]]<ref name="nga-hobbs" />
+|[[2022 Arizona gubernatorial election|2022]]
+|}
+
+==Timeline==
+{| role="presentation" class="wikitable mw-collapsible mw-collapsed"
+| <strong>Timeline of Arizona governors</strong>
+|-
+|
+<div class="center">{{#tag:timeline
+|ImageSize = width:1500 height:auto barincrement:18
+PlotArea   = top:10 bottom:20 right:130 left:10
+AlignBars  = late
+DateFormat = x.y
+Period     = from:1862.90 till:{{#expr:{{#time:Y}}+{{#time:m}}/6}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1870
+ScaleMinor = unit:year increment:1 start:1863
+
+Define $now = {{#expr:{{#time:Y}}+{{#time:m}}/12}}
+
+Colors =
+  id:5year   value:rgb(0.8, 0.8, 0.8)
+  id:0year   value:rgb(0.6, 0.6, 0.6)
+  id:noparty value:rgb(0.7, 0.7, 0.7)
+  id:dem     value:rgb(0.2, 0.2, 1)
+  id:rep     value:rgb(0.91, 0.11, 0.14)
+  id:seat1   value:rgb(0.60, 0.10, 0.10)
+  id:blank   value:white
+
+BarData =
+  barset:GovernorLine
+  barset:Governors
+  #barset:blankline
+
+PlotData=
+ width:1 align:right fontsize:S shift:(-3,-4) anchor:from fontsize:8 color:black
+
+ barset:GovernorLine
+ from:1878 till:end text:Governors
+
+ width:6 align:left fontsize:S shift:(5,-4) anchor:till fontsize:10
+
+ barset:Governors
+ from:1863.19 till:1863.63 color:noparty text:"John A. Gurley"
+ from:1863.64 till:1866.27 color:noparty text:"John N. Goodwin"
+ from:1866.27 till:1869.17 color:noparty text:"Richard C. McCormick"
+ from:1869.27 till:1877.26 color:noparty text:"Anson P. K. Safford"
+ from:1877.26 till:1878.45 color:noparty text:"John Philo Hoyt"
+ from:1878.45 till:1881.78 color:noparty text:"John C. Frémont"
+ from:1882.1 till:1885.77 color:noparty text:"Frederick Augustus Tritle"
+ from:1885.79 till:1889.24 color:noparty text:"C. Meyer Zulick"
+ from:1889.24 till:1890.64 color:noparty text:"Lewis Wolfley"
+ from:1890.75 till:1892.3 color:noparty text:"John N. Irwin"
+ from:1898.54 till:1902.5 color:noparty text:"Oakes Murphy"
+ from:1893.27 till:1896.25 color:noparty text:"L. C. Hughes"
+ from:1896.27 till:1897.56 color:noparty text:"Benjamin J. Franklin"
+ from:1897.54 till:1898.58 color:noparty text:"Myron H. McCord"
+ from:1902.37 till:1905.12 color:noparty text:"Alexander Oswald Brodie"
+ from:1905.16 till:1909.29 color:noparty text:"Joseph Henry Kibbey"
+ from:1909.29 till:1912.12 color:noparty text:"Richard Elihu Sloan"
+ from:1931.01 till:1933.01 color:dem text:"George W. P. Hunt"
+ from:1919.02 till:1923 color:rep text:"Thomas Edward Campbell"
+ from:1929.02 till:1931.01 color:rep text:"John Calhoun Phillips"
+ from:1933.01 till:1937.01 color:dem text:"Benjamin Baker Moeur"
+ from:1937.01 till:1939.01 color:dem text:"Rawghlie Clement Stanford"
+ from:1939.01 till:1941.02 color:dem text:"Robert Taylor Jones"
+ from:1941.02 till:1948.4 color:dem text:"Sidney Preston Osborn"
+ from:1948.4 till:1951 color:dem text:"Dan Edward Garvey"
+ from:1951 till:1955.01 color:rep text:"J. Howard Pyle"
+ from:1955.01 till:1959.01 color:dem text:"Ernest McFarland"
+ from:1959.01 till:1965.01 color:rep text:"Paul Fannin"
+ from:1965.01 till:1967.01 color:dem text:"Sam Goddard Jr."
+ from:1967.01 till:1975.02 color:rep text:"Jack Williams"
+ from:1975.02 till:1977.8 color:dem text:"Raúl Héctor Castro"
+ from:1977.8 till:1978.17 color:dem text:"Wesley Bolin"
+ from:1978.17 till:1987.01 color:dem text:"Bruce Babbitt"
+ from:1987.01 till:1988.26 color:rep text:"Evan Mecham"
+ from:1988.26 till:1991.18 color:dem text:"Rose Mofford"
+ from:1991.18 till:1997.68 color:rep text:"Fife Symington"
+ from:1997.68 till:2003.02 color:rep text:"Jane Dee Hull"
+ from:2003.02 till:2009.05 color:dem text:"Janet Napolitano"
+ from:2009.05 till:2015.01 color:rep text:"Jan Brewer"
+ from:2015.01 till:2023.01 color:rep text:"Doug Ducey"
+ from:2023.01 till:$now color:dem text:"Katie Hobbs"
+
+LineData=
+ from:1892.36 till:1893.28 atpos:561 color:noparty width:6 # OM 1st term
+ from:1912.12 till:1917 atpos:439 color:dem width:6 # GWPH 1st term
+ from:1917.98 till:1919.02 atpos:439 color:dem width:6 # GWPH 2nd term
+ from:1923 till:1929.02 atpos:439 color:dem width:6 # GWPH 3rd term
+ from:1917 till:1917.98 atpos:421 color:rep width:6 # TEC 1st term
+
+ layer:back
+ # This section creates the vertical lines.
+ at:1865.00 width:0.1 color:5year
+ at:1870.00 width:0.1 color:0year
+ at:1875.00 width:0.1 color:5year
+ at:1880.00 width:0.1 color:0year
+ at:1885.00 width:0.1 color:5year
+ at:1890.00 width:0.1 color:0year
+ at:1895.00 width:0.1 color:5year
+ at:1900.00 width:0.1 color:0year
+ at:1905.00 width:0.1 color:5year
+ at:1910.00 width:0.1 color:0year
+ at:1915.00 width:0.1 color:5year
+ at:1920.00 width:0.1 color:0year
+ at:1925.00 width:0.1 color:5year
+ at:1930.00 width:0.1 color:0year
+ at:1935.00 width:0.1 color:5year
+ at:1940.00 width:0.1 color:0year
+ at:1945.00 width:0.1 color:5year
+ at:1950.00 width:0.1 color:0year
+ at:1955.00 width:0.1 color:5year
+ at:1960.00 width:0.1 color:0year
+ at:1965.00 width:0.1 color:5year
+ at:1970.00 width:0.1 color:0year
+ at:1975.00 width:0.1 color:5year
+ at:1980.00 width:0.1 color:0year
+ at:1985.00 width:0.1 color:5year
+ at:1990.00 width:0.1 color:0year
+ at:1995.00 width:0.1 color:5year
+ at:2000.00 width:0.1 color:0year
+ at:2005.00 width:0.1 color:5year
+ at:2010.00 width:0.1 color:0year
+ at:2015.00 width:0.1 color:5year
+ at:2020.00 width:0.1 color:0year
+ at:2025.00 width:0.1 color:5year
+ }}</div>
+|}
+
+==See also==
+* [[Gubernatorial lines of succession in the United States#Arizona]]
+* [[Lieutenant Governor of Arizona]]
+* [[List of Arizona state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Arizona Governors |url=https://www.nga.org/former-governors/arizona/ |access-date=October 6, 2026 |website=[[National Governors Association]]}}
+* {{Cite web |title=Arizona Governors |url=https://azgovernor.gov/governor/arizona-governors |access-date=October 6, 2026 |website=Office of the Governor of Arizona}}
+* {{cite web |title=Arizona Constitution |url=https://50constitutions.org/az/constitution |ref={{sfnref|Ariz. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 6, 2026}}
+* {{Cite web |title=Our Campaigns - Governor of Arizona - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=200 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+* {{Cite book |last=Colton |first=Ray Charles |url=https://books.google.com/books?id=JdMnyfgENN0C |title=The Civil War in the Western Territories |publisher=University of Oklahoma Press |year=1985 |isbn=0-8061-1902-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite journal |last=Finch |first=L. Boyd |date=1985 |title=ARIZONA'S GOVERNORS WITHOUT PORTFOLIO: A Wonderfully Diverse Lot |url=https://www.jstor.org/stable/41859616 |journal=The Journal of Arizona History |volume=26 |issue=1 |pages=77–99 |issn=0021-9053 |jstor=41859616}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite book |last=Goff |first=John S. |title=Arizona Territorial Officials Volume II: The Governors 1863–1912 |publisher=Black Mountain Press |year=1978 |oclc=5100411}}
+* {{Cite book |last=Goff |first=John S. |title=Arizona Territorial Officials Volume III: The Delegates to Congress 1863–1912 |publisher=Black Mountain Press |year=1985 |location=Cave Creek, Arizona |oclc=12559708}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=McClintock |first=James H. |url=https://archive.org/details/arizonaprehistor02mcclrich |title=Arizona, Prehistoric, Aboriginal, Pioneer, Modern: The Nation's Youngest Commonwealth Within a Land of Ancient Culture |publisher=The S.J. Clarke Publishing Co. |year=1916 |oclc=5398889 |access-date=October 11, 2008}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789–1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015 |access-date=July 10, 2019}}
+* {{Cite book |last=Wagoner |first=Jay J. |url=https://archive.org/details/arizonaterritory00wago |title=Arizona Territory 1863–1912: A Political History |publisher=University of Arizona Press |year=1970 |isbn=0816501769 |url-access=registration}}
+* {{Cite book |last=Walker |first=Dale L. |url=https://books.google.com/books?id=bO5HPgpFGbQC |title=Rough Rider: Buckey O'Neill of Arizona |publisher=University of Nebraska Press |year=1997 |isbn=0-8032-9796-3}}
+{{Refend}}
+
+==External links==
+{{Commons category| Governors of Arizona}}
+*[https://azgovernor.gov/ Office of the Governor of Arizona]
+
+{{Current U.S. governors}}
+{{Lists of US Governors}}
+{{Arizona}}
+{{Arizona statewide elected officials}}
+{{United States governors' residences}}
+{{Featured list}}
+
+{{DEFAULTSORT:Arizona, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Lists of territorial governors of the United States|Arizona Territory]]
+[[Category:Governors of Arizona|*]]
+[[Category:Lists of Arizona politicians|Governors]]
+[[Category:Political history of Arizona]]
+[[Category:Arizona history-related lists|Governors]]

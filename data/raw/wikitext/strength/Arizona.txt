@@ -1,0 +1,893 @@
+{{Short description|Politics in the US state of Arizona}}
+{{More citations needed|date=September 2020}}
+{{align|right |{{Switcher |[[File:2025 Arizona voter registration map by county.svg|250px]]|Voter registration by county |[[File:2025 Arizona voter registration map by congressional district.svg|250px]]|Voter registration by congressional district |[[File:2025 Arizona voter registration map by legislative district.svg|250px]]|Voter registration by legislative district<br>
+{{collapsible list|title = Legend:|
+{{legend|#FFC8CD|30–40%}} |
+{{legend|#FFB2B2|40–50%}} |
+{{legend|#E27F7F|50–60%}} |
+{{legend|#AAE5AA|30–40%}} |
+{{legend|#87DE87|40–50%}} |
+{{legend|#BDD3FF|30–40%}} |
+{{legend|#A5B0FF|40–50%}} |
+{{legend|#7996E2|50–60%}} |}}}}}}
+
+==Partisan identification in the electorate==
+As of July 2025, Arizona's registered voters include 1,597,705 Republicans (35.7%), 1,270,307 Democrats (28.4%), 31,905 Libertarians (0.7%), 39,804 No Labels (0.9%), 5,045 Greens (0.1%), and 1,525,855 "Other" (34.1%).<ref>{{Cite web |title=July 2025 - Voter Registration Statistics {{!}} Arizona Secretary of State |url=https://azsos.gov/elections/election-information/voter-registration-statistics |access-date=2025-04-16 |website=azsos.gov}}</ref>
+
+==State politics==
+Most political offices are currently held by members of the Republican Party. Both U.S. Senators and 3 of out the 9 House of Representatives members are Democrats, (the other six are Republicans) Many were first elected in [[2020 Arizona elections|the 2018 elections]]. The following table indicates the political parties of elected officials in Arizona:
+
+*[[List of governors of Arizona|Governor]]
+*[[Secretary of State of Arizona|Secretary of State]]
+*[[Arizona Attorney General|Attorney General]]
+*[[State Treasurer of Arizona|State Treasurer]]
+*[[Arizona Superintendent of Public Instruction|Superintendent of Public Instruction]]
+*[[Arizona State Mine Inspector|State Mine Inspector]]
+
+The table also indicates the historical party composition in the:
+*[[Arizona Senate|State Senate]]
+*[[Arizona House of Representatives|State House of Representatives]]
+*[[Arizona Corporation Commission|State Corporation Commission]]<ref>Entries from 1912–1976 can be downloaded from the Arizona Memory Project here: [https://azmemory.azlibrary.gov/digital/api/collection/statepubs/id/24188/download]</ref>
+*[[List of United States senators from Arizona|State delegation to the U.S. Senate]]
+*[[List of United States representatives from Arizona|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+== Pre-statehood (1863–1911) ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=4 |Executive offices
+!colspan=2 |[[Arizona Territorial Legislature|Territorial Legislature]]
+![[Arizona's congressional delegations|U.S. Congress]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Arizona|Governor]]
+!class=unsortable |[[Secretary of State of Arizona|Secretary of State]]
+!class=unsortable |[[Arizona Attorney General|Attorney General]]
+!class=unsortable |[[Arizona Superintendent of Public Instruction|Supt. of Pub. Inst.]]
+!class=unsortable |[[Arizona Senate|Senate]]
+!class=unsortable |[[Arizona House of Representatives|House]]
+!class=unsortable |[[Arizona Territory's at-large congressional district|Delegate]]
+|- style="height:2em"
+!rowspan=2 |1863
+ |{{Party shading/Republican}} |[[John A. Gurley]] {{small|(R)}}{{efn |Appointed territorial governor by [[President of the United States|President]] [[Abraham Lincoln]] to be the first governor of the territory, but died on August 19, 1863, before he could arrive in the territory.}}
+|rowspan=5 {{Party shading/Republican}} |[[Richard C. McCormick|Richard C.<br>McCormick]] {{small|(R)}}
+|rowspan=2 |{{Data missing|?|date=July 2021}}
+|rowspan=49 |{{Data missing|?|date=July 2021}}
+|rowspan=70 |{{Data missing|?|date=July 2021}}
+|rowspan=70 |{{Data missing|?|date=July 2021}}
+|rowspan=3 {{Party shading/Republican}} |[[Charles Debrille Poston|Charles D. Poston]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[John N. Goodwin]] {{small|(R)}}{{efn |Gurley died prior to taking office as first appointed governor; Goodwin, who was Chief Justice of the Arizona Territorial Supreme Court, was appointed by Lincoln in his place.}}{{efn |name=resdelegate|Resigned to take an elected seat as [[Non-voting members of the United States House of Representatives|delegate]] to the [[United States House of Representatives|U.S. House of Representatives]].}}
+|- style="height:2em"
+!1864
+|rowspan=2 {{Party shading/Republican}} |[[Coles Bashford]] {{small|(R)}}{{efn |Attorney general of [[Arizona Territory]] appointed by Goodwin.}}
+|- style="height:2em"
+!1865
+|rowspan=3 {{Party shading/Republican}} |[[John N. Goodwin]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1866
+|rowspan=3 |John A. Rush
+|- style="height:2em"
+|rowspan=3 {{Party shading/Republican}} |[[Richard C. McCormick|Richard C.<br>McCormick]] {{small|(R)}}{{efn |name=resdelegate}}
+|rowspan=4 {{Party shading/Republican}} |[[James P. T. Carter]] {{small|(R)}}
+|- style="height:2em"
+!1867
+|rowspan=3 {{Party shading/Independent}} |[[Coles Bashford]] {{small|(I)}}
+|- style="height:2em"
+!rowspan=2 |1868
+|rowspan=2 |{{Data missing|?|date=July 2021}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[James P. T. Carter]] {{small|(R)}}{{efn |name=act|Acting.}}
+|- style="height:2em"
+!rowspan=2 |1869
+|rowspan=8 {{Party shading/Republican}} |[[Coles Bashford]] {{small|(R)}}{{efn |name=resigned|Resigned.}}
+|rowspan=2 {{Party shading/Democratic}} |[[G. H. Oury]] {{small|(D)}}
+|rowspan=7 {{Party shading/Unionist}} |[[Richard C. McCormick|Richard C.<br>McCormick]] {{small|(U)}}
+|- style="height:2em"
+|rowspan=9 {{Party shading/Republican}} |[[Anson P. K. Safford]] {{small|(R)}}
+|- style="height:2em"
+!1870
+|rowspan=2 |{{Data missing|?|date=July 2021}}
+|- style="height:2em"
+!1871
+|- style="height:2em"
+!1872
+|J. E. McCaffry
+|- style="height:2em"
+!1873
+|rowspan=15 |{{Data missing|?|date=July 2021}}
+|- style="height:2em"
+!1874
+|- style="height:2em"
+!1875
+|rowspan=6 {{Party shading/Democratic}} |[[Hiram Sanford Stevens]] {{small|(D)}}
+|- style="height:2em"
+!1876
+|rowspan=2 {{Party shading/Republican}} |[[John Philo Hoyt]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1877
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[John Philo Hoyt]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[John J. Gosper]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1878
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[John C. Frémont]] {{small|(R)}}{{efn |It is unknown when Frémont took the oath of office; he and his family arrived in Prescott on the afternoon of October 6, 1878.}}{{efn |name=resigned}}
+|- style="height:2em"
+!1879
+|rowspan=2 {{Party shading/Democratic}} |[[John G. Campbell]] {{small|(D)}}
+|- style="height:2em"
+!1880
+|- style="height:2em"
+!rowspan=2 |1881
+|rowspan=6 {{Party shading/Democratic}} |[[Granville Henderson Oury|G. H. Oury]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[John J. Gosper]] {{small|(R)}}{{efn |name=act}}
+|- style="height:2em"
+!rowspan=2 |1882
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Frederick Augustus Tritle|Frederick Augustus<br>Tritle]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=4 {{Party shading/Republican}} |[[Hiram M. Van Arman]] {{small|(R)}}
+|- style="height:2em"
+!1883
+|- style="height:2em"
+!1884
+|rowspan=4 {{Party shading/Republican}} |[[Clark Churchill]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1885
+|rowspan=3 {{Party shading/Republican}} |[[Curtis Coe Bean]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[C. Meyer Zulick]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[James A. Bayard (Arizona)|James A. Bayard]] {{small|(D)}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|[[Briggs Goodrich]]
+|rowspan=12 {{Party shading/Democratic}} |[[Marcus A. Smith]] {{small|(D)}}
+|- style="height:2em"
+!1888
+|[[John A. Rush]]
+|- style="height:2em"
+!rowspan=2 |1889
+|rowspan=5 {{Party shading/Republican}} |[[Clark Churchill]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Lewis Wolfley]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=5 {{Party shading/Republican}} |[[Oakes Murphy]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1890
+|- style="height:2em"
+|rowspan=3 {{Party shading/Republican}} |[[John N. Irwin]] {{small|(R)}}{{efn |name=resigned}}
+|- style="height:2em"
+!1891
+|- style="height:2em"
+!rowspan=2 |1892
+|rowspan=2 {{Party shading/Republican}} |[[William Herring (politician)|William Herring]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Oakes Murphy]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Nathan A. Morford]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1893
+|[[John C. Herndon]]
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[L. C. Hughes]] {{small|(D)}}{{efn |Hughes abolished many territorial offices, and unhappy officials successfully petitioned Cleveland to remove him.}}
+|rowspan=7 {{Party shading/Democratic}} |[[Charles Morelle Bruce|Charles Morelle<br>Bruce]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Francis J. Heney]] {{small|(R)}}
+|- style="height:2em"
+!1894
+|- style="height:2em"
+!1895
+|[[Thomas D. Satterwhite]]
+|rowspan=4 {{Party shading/Republican}} |[[Oakes Murphy]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=3 |1896
+|rowspan=5 |[[J. F. Wilson]]
+|- style="height:2em"
+ |{{Party shading/Democratic}} |[[Charles Morelle Bruce]] {{small|(D)}}{{efn |name=act}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Benjamin J. Franklin]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1897
+|rowspan=7 |A. P. Shewman
+|rowspan=4 {{Party shading/Democratic}} |[[Marcus A. Smith]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Myron H. McCord]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=6 {{Party shading/Republican}} |[[Charles H. Akers]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1898
+|[[C. M. Frazier]]
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[Oakes Murphy]] {{small|(R)}}{{efn |Asked by President [[Theodore Roosevelt]] to resign for opposing the [[Newlands Reclamation Act]].}}
+|rowspan=4 |[[Charles F. Ainsworth]]
+|- style="height:2em"
+!1899
+|rowspan=2 {{Party shading/Democratic}} |[[John Frank Wilson]] {{small|(D)}}
+|- style="height:2em"
+!1900
+|- style="height:2em"
+!1901
+|rowspan=3 {{Party shading/Democratic}} |[[Marcus A. Smith]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1902
+|rowspan=3 {{Party shading/Republican}} |[[Isaac T. Stoddard]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Edmund W. Wells]] {{small|(R)}}
+|rowspan=14 |{{Data missing|?|date=July 2021}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Alexander Oswald Brodie|Alexander Brodie]] {{small|(R)}}{{efn |name=resigned}}
+|- style="height:2em"
+!1903
+|rowspan=2 {{Party shading/Democratic}} |[[John Frank Wilson]] {{small|(D)}}
+|- style="height:2em"
+!1904
+|rowspan=6 {{Party shading/Republican}} |[[William Francis Nichols|William F. Nichols]] {{small|(R)}}
+ |{{Party shading/Republican}} |[[Joseph Henry Kibbey]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=3 |1905
+|rowspan=8 |[[E. S. Clark]]
+|rowspan=6 {{Party shading/Democratic}} |[[Marcus A. Smith]] {{small|(D)}}
+|- style="height:2em"
+ |{{Party shading/Republican}} |[[William Francis Nichols|William F. Nichols]] {{small|(R)}}{{efn |name=act}}
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[Joseph Henry Kibbey]] {{small|(R)}}
+|- style="height:2em"
+!1906
+|- style="height:2em"
+!1907
+|- style="height:2em"
+!1908
+|rowspan=2 {{Party shading/Republican}} |[[John H. Page]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1909
+|rowspan=4 {{Party shading/Republican}} |[[Ralph H. Cameron]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Republican}} |[[Richard Elihu Sloan]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[George U. Young]] {{small|(R)}}
+|- style="height:2em"
+!1910
+|rowspan=2 |John B. Wright
+|- style="height:2em"
+!1911
+|}
+
+==1912–2026==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=6 |Executive offices
+!colspan=2 |[[Arizona State Legislature|State Legislature]]
+!rowspan=2 class=unsortable |[[Arizona Corporation Commission|Corp.<br>Comm.]]
+!colspan=3 |[[Arizona's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Arizona|Governor]]
+!class=unsortable |[[Secretary of State of Arizona|Secretary<br>of State]]
+!class=unsortable |[[Arizona Attorney General|Attorney<br>General]]
+!class=unsortable |[[State Treasurer of Arizona|Treasurer]]
+!class=unsortable |[[Arizona Superintendent of Public Instruction|Supt. of Pub. Inst.]]
+!class=unsortable |[[Arizona State Mine Inspector|Mine Inspector]]
+!class=unsortable |[[Arizona Senate|Senate]]
+!class=unsortable |[[Arizona House of Representatives|House]]
+!class=unsortable |[[List of United States senators from Arizona|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Arizona|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Arizona|U.S.<br>House]]
+|- style="height:2em"
+!1912
+|rowspan=5 {{Party shading/Democratic}} |[[George W. P. Hunt]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Sidney Preston Osborn|Sidney Preston<br>Osborn]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[George Purdy Bullard|George Purdy<br>Ballard]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[David F. Johnson]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Charles O. Case]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[G. H. Bolin]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |15D, 4R
+|rowspan=3 {{Party shading/Democratic}} |31D, 4R
+|rowspan=45 {{Party shading/Democratic}} |3D
+|rowspan=30 {{Party shading/Democratic}} |[[Henry F. Ashurst]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Marcus A. Smith]] {{small|(D)}}
+|rowspan=16 {{Party shading/Democratic}} |[[Carl Hayden|Carl<br>Hayden]]<br>{{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Woodrow Wilson|Wilson]]/<br>[[Thomas R. Marshall|Marshall]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1913
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=7 {{Party shading/Democratic}} |[[Wiley E. Jones]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Mit Simms]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 1R
+|rowspan=2 {{Party shading/Democratic}} |35D
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!rowspan=2 |1917
+ |{{Party shading/Republican}} |[[Thomas Edward Campbell|Thomas E. Campbell]] {{small|(R)}}{{efn |Campbell's narrow election win was overturned by the [[Arizona Supreme Court]] on December 22, 1917, which, following a recount, awarded the office to George W. P. Hunt. Campbell vacated the office three days later.}}
+|rowspan=3 {{Party shading/Democratic}} |David F. Johnson {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |14D, 5R
+|rowspan=3 {{Party shading/Democratic}} |31D, 4R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[George W. P. Hunt]] {{small|(D)}}
+|- style="height:2em"
+!1918
+|- style="height:2em"
+!1919
+|rowspan=4 {{Party shading/Republican}} |[[Thomas Edward Campbell|Thomas E. Campbell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Mit Simms]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Harry S. Ross]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 9R
+|- style="height:2em"
+!1920
+|rowspan=4 {{Party shading/Republican}} |[[Warren G. Harding|Harding]]/<br>[[Calvin Coolidge|Coolidge]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Republican}} |[[Ernest Hall (Arizona politician)|Ernest Hall]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[W. J. Galbraith]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Raymond R. Earhart]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Elsie Toles]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John F. White (Arizona)|John F. White]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |10R, 9D
+|rowspan=2 {{Party shading/Democratic}} |20D, 18R
+|rowspan=6 {{Party shading/Republican}} |[[Ralph H. Cameron]] {{small|(R)}}
+|- style="height:2em"
+!1922
+|- style="height:2em"
+!1923
+|rowspan=6 {{Party shading/Democratic}} |[[George W. P. Hunt]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[James H. Kerby]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[John W. Murphy (Arizona)|John W. Murphy]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Wayne Hubbs]] {{small|(D)}}
+|rowspan=10 {{Party shading/Democratic}} |Charles O. Case {{small|(D)}}
+|rowspan=23 {{Party shading/Democratic}} |[[Tom C. Foster]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 1R
+|rowspan=4 {{Party shading/Democratic}} |41D, 6R
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge|Coolidge]]/<br>[[Charles G. Dawes|Dawes]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Democratic}} |[[Vernon S. Wright]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |17D, 2R
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=2 {{Party shading/Democratic}} |[[J. C. Callaghan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |43D, 9R
+|rowspan=44 {{Party shading/Democratic}} |[[Carl Hayden]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Lewis Williams Douglas|Lewis<br>Douglas]]<br>{{small|(D)}}{{efn |name=resigned}}
+|- style="height:2em"
+!1928
+|rowspan=5 {{Party shading/Democratic}} |[[K. Berry Peterson]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover|Hoover]]/<br>[[Charles Curtis|Curtis]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1929
+|rowspan=2 {{Party shading/Republican}} |[[John Calhoun Phillips|John Calhoun<br>Phillips]] {{small|(R)}}
+ |{{Party shading/Democratic}} |J. C. Callaghan {{small|(D)}}{{efn |name=died|Died in office.}}
+|rowspan=2 {{Party shading/Democratic}} |[[Charles R. Price]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |37D, 17R
+|- style="height:2em"
+!1930
+ |{{Party shading/Republican}} |[[Ike Fraizer]] {{small|(R)}}{{efn |name=app|Appointed to fill a vacancy.}}
+|- style="height:2em"
+!1931
+|rowspan=2 {{Party shading/Democratic}} |[[George W. P. Hunt]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Scott White (Arizona politician)|Scott White]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Mit Simms]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 1R
+|rowspan=2 {{Party shading/Democratic}} |52D, 12R
+|- style="height:2em"
+!1932
+|rowspan=8 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[John Nance Garner|Garner]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1933
+|rowspan=4 {{Party shading/Democratic}} |[[Benjamin Baker Moeur|Benjamin Baker<br>Moeur]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[James H. Kerby]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Arthur T. La Prade]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[W. M. Cox]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Herman E. Hendrix]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |19D
+|rowspan=2 {{Party shading/Democratic}} |59D, 4R
+|rowspan=4 {{Party shading/Democratic}} |[[Isabella Greenway|Isabella<br>Greenway]]<br>{{small|(D)}}{{efn |Elected to fill the vacancy caused by the previous representative being elected to the next term, but resigning before the term began.}}
+|- style="height:2em"
+!1934
+|- style="height:2em"
+!1935
+|rowspan=2 {{Party shading/Democratic}} |[[John L. Sullivan (Arizona politician)|John L. Sullivan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Mit Simms]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 1R
+|rowspan=2 {{Party shading/Democratic}} |51D
+|- style="height:2em"
+!1936
+|- style="height:2em"
+!1937
+|rowspan=2 {{Party shading/Democratic}} |[[Rawghlie Clement Stanford|Rawghlie Clement<br>Stanford]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Joe Conway (American politician)|Joe Conway]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Harry M. Moore]] {{small|(D)}}
+|rowspan=18 {{Party shading/Democratic}} |19D
+|rowspan=2 {{Party shading/Democratic}} |50D, 1R
+|rowspan=7 {{Party shading/Democratic}} |[[John R. Murdock (politician)|John R.<br>Murdock]]<br>{{small|(D)}}
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=2 {{Party shading/Democratic}} |[[Robert Taylor Jones|Robert Taylor<br>Jones]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Harry M. Moore {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |[[William G. Petersen]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |51D, 1R
+|- style="height:2em"
+!1940
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Henry A. Wallace|Wallace]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1941
+|rowspan=9 {{Party shading/Democratic}} |[[Sidney Preston Osborn|Sidney Preston<br>Osborn]] {{small|(D)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Democratic}} |[[Joe Hunt (Arizona)|Joe Hunt]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[E. D. Ring]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |53D
+|rowspan=14 {{Party shading/Democratic}} |[[Ernest McFarland]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1942
+|- style="height:2em"
+|rowspan=7 {{Party shading/Democratic}} |[[Dan Edward Garvey|Dan Edward<br>Garvey]] {{small|(D)}}{{efn |name=appelec|Initially appointed to fill a vacancy, subsequently elected in their own right.}}
+|- style="height:2em"
+!1943
+ |{{Party shading/Democratic}} |[[James D. Brush]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |58D
+|rowspan=11 {{Party shading/Democratic}} |2D
+|- style="height:2em"
+!1944
+|rowspan=4 {{Party shading/Democratic}} |John L. Sullivan {{small|(D)}}
+ |{{Party shading/Democratic}} |[[Alva E. Weaver]] {{small|(D)}}{{efn |name=app}}
+|rowspan=5 {{Party shading/Democratic}} |[[Franklin D. Roosevelt|Roosevelt]]/<br>[[Harry S. Truman|Truman]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1945
+|rowspan=2 {{Party shading/Democratic}} |[[William T. Brooks (Arizona)|William T. Brooks]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Clifford J. Murdock]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |57D, 1R
+|- style="height:2em"
+!1946
+|- style="height:2em"
+!1947
+|rowspan=3 {{Party shading/Democratic}} |[[Mit Simms]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Nolan D. Pulliam]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |53D, 5R
+|- style="height:2em"
+!rowspan=2 |1948
+|rowspan=2 {{Party shading/Democratic}} |[[Evo Anton DeConcini|Evo Anton<br>DeConcini]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Dan Edward Garvey|Dan Edward<br>Garvey]] {{small|(D)}}{{efn |name=sselected|As state secretary of state, filled unexpired term and was later elected in their own right.}}
+ |{{Party shading/Democratic}} |[[Curtis Williams (Arizona politician)|Curtis Williams]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Harry S. Truman|Truman]]/<br>[[Alben W. Barkley|Barkley]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!1949
+|rowspan=29 {{Party shading/Democratic}} |[[Wesley Bolin]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Fred O. Wilson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[J. W. Kelly (politician)|J. W. Kelly]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Marion Brooks]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |52D, 7R
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=4 {{Party shading/Republican}} |[[John Howard Pyle|John Howard<br>Pyle]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[E. T. Williams Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |61D, 10R
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower|Eisenhower]]/<br>[[Richard Nixon|Nixon]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1953
+|rowspan=2 {{Party shading/Republican}} |[[Ross F. Jones]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |J. W. Kelly {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Edward Massey (Arizona)|Edward Massey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 4R
+|rowspan=2 {{Party shading/Democratic}} |50D, 30R
+|rowspan=12 {{Party shading/Republican}} |[[Barry Goldwater]] {{small|(R)}}
+|rowspan=10 {{Party shading/Tie}} |1D, 1R
+|- style="height:2em"
+!1954
+ |{{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Democratic}} |[[Ernest McFarland]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Robert Morrison (politician)|Robert Morrison]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |E. T. Williams Jr. {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Cliff Harkins]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |26D, 2R
+|rowspan=2 {{Party shading/Democratic}} |61D, 19R
+|rowspan=8 {{Party shading/Democratic}} |3D
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=2 {{Party shading/Democratic}} |J. W. Kelly {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |Marion Brooks {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |57D, 23R
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=6 {{Party shading/Republican}} |[[Paul Fannin]] {{small|(R)}}
+ |{{Party shading/Democratic}} |[[H. Y. Sprague]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[Wilburn W. Dick]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |[[R. V. Hersey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |27D, 1R
+|rowspan=2 {{Party shading/Democratic}} |55D, 25R
+|- style="height:2em"
+!1960
+ |{{Party shading/Democratic}} |[[Wade Church]] {{small|(D)}}
+ |{{Party shading/Republican}} |[[John Quebedeaux]] {{small|(R)}}{{efn |name=app}}
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Henry Cabot Lodge Jr.|Lodge]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |[[Robert Pickrell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |J. W. Kelly {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |24D, 4R
+|rowspan=2 {{Party shading/Democratic}} |52D, 28R
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=2 {{Party shading/Democratic}} |[[Milton J. Husky]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |48D, 32R
+|rowspan=2 {{Party shading/Democratic}} |2D, 1R
+|rowspan=4 {{Party shading/Democratic}} |2D, 1R
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Republican}} |[[Barry Goldwater|Goldwater]]/<br>[[William E. Miller|Miller]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Democratic}} |[[Sam Goddard Jr.]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Darrell F. Smith]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Bob Kennedy (Arizona)|Bob Kennedy]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Sarah Folsom]] {{small|(R)}}
+|rowspan=10 {{Party shading/Republican}} |[[Verne C. McCutchan]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |26D, 2R
+|rowspan=2 {{Party shading/Democratic}} |45D, 35R
+|rowspan=4 {{Party shading/Democratic}} |3D
+|rowspan=12 {{Party shading/Republican}} |[[Paul Fannin]] {{small|(R)}}
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=8 {{Party shading/Republican}} |[[Jack Williams (American politician)|Jack Williams]] {{small|(R)}}{{efn |The state constitution was amended in 1968 to increase gubernatorial terms from two to four years; Williams's first two terms were for two years, his third was for four years.}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles H. Garland]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 14D
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|rowspan=6 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1968
+|rowspan=8 {{Party shading/Republican}} |[[Richard Nixon|Nixon]]/<br>[[Spiro Agnew|Agnew]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1969
+|rowspan=5 {{Party shading/Republican}} |[[Gary K. Nelson]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Morris A. Herring]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Weldon P. Shofstall]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=4 {{Party shading/Republican}} |34R, 26D
+ |{{Party shading/Democratic}} |2D, 1R
+|rowspan=20 {{Party shading/Republican}} |[[Barry Goldwater]] {{small|(R)}}
+|- style="height:2em"
+!1970
+ |{{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+!1971
+|rowspan=2 {{Party shading/Republican}} |[[Ernest Garfield]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |18R, 12D
+|rowspan=6 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!1972
+|- style="height:2em"
+!1973
+|rowspan=8 {{Party shading/Republican}} |[[Bart Fleming]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=2 {{Party shading/Republican}} |38R, 22D
+|rowspan=4 {{Party shading/Republican}} |3R, 1D
+|- style="height:2em"
+!1974
+ |{{Party shading/Republican}} |[[N. Warner Lee]] {{small|(R)}}
+|- style="height:2em"
+!1975
+|rowspan=3 {{Party shading/Democratic}} |[[Raúl Héctor Castro|Raúl Héctor<br>Castro]] {{small|(D)}}{{efn |name=resigned}}
+|rowspan=5 {{Party shading/Democratic}} |[[Bruce Babbitt]] {{small|(D)}}
+|rowspan=14 {{Party shading/Democratic}} |[[Carolyn Warner]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Bert C. Romero]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 12R
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|- style="height:2em"
+!1976
+|rowspan=6 {{Party shading/Republican}} |[[Gerald Ford|Ford]]/<br>[[Bob Dole|Dole]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!rowspan=2 |1977
+|rowspan=3 {{Party shading/Republican}} |Verne C. McCutchan {{small|(R)}}{{efn |name=died}}
+|rowspan=4 {{Party shading/Democratic}} |16D, 14R
+|rowspan=4 {{Party shading/Republican}} |38R, 22D
+|rowspan=10 {{Party shading/Republican}} |2R, 1D
+|rowspan=21 {{Party shading/Democratic}} |[[Dennis DeConcini]] {{small|(D)}}
+|rowspan=8 {{Party shading/Tie}} |2R, 2D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Wesley Bolin]] {{small|(D)}}{{efn |name=died}}{{efn |name=ssfilled|As state secretary of state, filled unexpired term.}}
+|rowspan=13 {{Party shading/Democratic}} |[[Rose Mofford]] {{small|(D)}}{{efn |name=appelec}}
+|- style="height:2em"
+!rowspan=2 |1978
+|- style="height:2em"
+|rowspan=9 {{Party shading/Democratic}} |[[Bruce Babbitt]] {{small|(D)}}{{efn |As state attorney general, filled unexpired term, and was later elected in his own right; the secretary of state at the time had been appointed, not elected, and was therefore, per the state Constitution, not in the line of succession.}}
+ |{{Party shading/Democratic}} |[[Jack LaSota]] {{small|(D)}}{{efn |name=app}}
+ |{{Party shading/Democratic}} |[[Ted M. Martinez]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!1979
+|rowspan=13 {{Party shading/Republican}} |[[Robert K. Corbin]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Clark Dierks]] {{small|(R)}}
+|rowspan=11 {{Party shading/Republican}} |[[James H. McCutchan]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |16R, 14D
+|rowspan=2 {{Party shading/Republican}} |42R, 18D
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan|Reagan]]/<br>[[George H. W. Bush|Bush]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!1981
+|rowspan=2 {{Party shading/Republican}} |43R, 17D
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=9 {{Party shading/Republican}} |[[Ray Rottas]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |18R, 12D
+|rowspan=2 {{Party shading/Republican}} |39R, 21D
+|rowspan=2 {{Party shading/Republican}} |3R, 2D
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=2 {{Party shading/Republican}} |38R, 22D
+|rowspan=2 {{Party shading/Democratic}} |3D
+|rowspan=9 {{Party shading/Republican}} |4R, 1D
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=2 {{Party shading/Republican}} |[[Evan Mecham]] {{small|(R)}}{{efn |Impeached and removed from office on charges of obstruction of justice and misuse of government funds.}}
+|rowspan=9 {{Party shading/Democratic}} |[[C. Diane Bishop]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |19R, 11D
+|rowspan=3 {{Party shading/Republican}} |36R, 24D
+|rowspan=11 {{Party shading/Democratic}} |2D, 1R
+|rowspan=34 {{Party shading/Republican}} |[[John McCain]] {{small|(R)}}{{efn |name=died}}
+|- style="height:2em"
+!rowspan=2 |1988
+|rowspan=5 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Rose Mofford]] {{small|(D)}}{{efn |name=ssfilled}}
+|rowspan=3 {{Party shading/Democratic}} |[[James Shumway]] {{small|(D)}}{{efn |name=app}}
+|- style="height:2em"
+!1989
+|rowspan=19 {{Party shading/Republican}} |[[Douglas K. Martin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=2 {{Party shading/Republican}} |34R, 26D
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!1991
+|rowspan=7 {{Party shading/Republican}} |[[Fife Symington]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Richard Mahoney]] {{small|(D)}}
+|rowspan=9 {{Party shading/Republican}} |[[Grant Woods (attorney)|Grant Woods]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |[[Tony West (Arizona)|Tony West]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 13R
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|- style="height:2em"
+!1992
+|rowspan=4 {{Party shading/Republican}} |[[George H. W. Bush|Bush]]/<br>[[Dan Quayle|Quayle]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Republican}} |18R, 12D
+|rowspan=2 {{Party shading/Republican}} |35R, 25D
+|rowspan=2 {{Party shading/Tie}} |3R, 3D
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=3 {{Party shading/Republican}} |[[Jane Dee Hull]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |[[Lisa Graham Keegan|Lisa Graham<br>Keegan]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=2 {{Party shading/Republican}} |19R, 11D
+|rowspan=5 {{Party shading/Republican}} |38R, 22D
+|rowspan=19 {{Party shading/Republican}} |[[Jon Kyl]] {{small|(R)}}
+|rowspan=9 {{Party shading/Republican}} |5R, 1D
+|- style="height:2em"
+!1996
+|rowspan=5 {{Party shading/Democratic}} |[[Bill Clinton|Clinton]]/<br>[[Al Gore|Gore]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!rowspan=2 |1997
+|rowspan=3 {{Party shading/Republican}} |18R, 12D
+|rowspan=3 {{Party shading/Republican}} |2R, 1D
+|- style="height:2em"
+|rowspan=6 {{Party shading/Republican}} |[[Jane Dee Hull]] {{small|(R)}}{{efn |name=sselected}}
+|rowspan=6 {{Party shading/Republican}} |[[Betsey Bayless]] {{small|(R)}}
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=4 {{Party shading/Democratic}} |[[Janet Napolitano]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Carol Springer]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |16R, 14D
+|rowspan=2 {{Party shading/Republican}} |40R, 20D
+|rowspan=2 {{Party shading/Republican}} |3R
+|- style="height:2em"
+!2000
+|rowspan=8 {{Party shading/Republican}} |[[George W. Bush|Bush]]/<br>[[Dick Cheney|Cheney]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2001
+|rowspan=2 {{Party shading/Republican}} |[[Jaime Molera]] {{small|(R)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Independent Democratic}} |15R, 15D{{efn |A power-sharing agreement was reached between the Democrats and three moderate Republicans, who elected [[Randall Gnant]] President Pro Tempore, and they organized the chamber with committees alternately being chaired by one party or the other. The twelve conservative Republicans organized as the minority faction in the chamber.<ref>{{Cite web|title=Rock, Paper, Scissors? |url=http://www.limitedgovernment.org/publications/pubs/briefs/pdfs/brf11-36.pdf |archive-url=https://web.archive.org/web/20150921163115/http://www.limitedgovernment.org/publications/pubs/briefs/pdfs/brf11-36.pdf |archive-date=2015-09-21}}</ref><ref>{{Cite web|date=2010-10-16|title=Randall Gnat: Mushroom Power|url=https://www.governing.com/archive/Randall-Gnat-Mushroom-Power.html|access-date=2021-06-19|website=Governing|language=en}}</ref>}}
+|rowspan=2 {{Party shading/Republican}} |36R, 24D
+|rowspan=8 {{Party shading/Republican}} |5R{{efn |The state constitution was amended in 2000 to expand the Corporation Commission from three to five members and shorten term lengths from six to four years with the possibility to run for a second four-year term.<ref>{{Cite web|title=Arizona Corporation Commission {{!}} Arizona State Library|url=https://azlibrary.gov/sla/agency_histories/arizona-corporation-commission|access-date=2021-06-19|website=azlibrary.gov}}</ref>}}
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=6 {{Party shading/Democratic}} |[[Janet Napolitano]] {{small|(D)}}{{efn |name=resigned}}<ref>{{cite web|url=https://www.kold.com/story/9704869/napolitano-officially-resigns-as-az-governor/|title=Napolitano officially resigns as AZ governor|date=January 21, 2009|accessdate=November 11, 2022|first=Brian|last=White|work=[[KOLD-TV]]}}</ref>
+|rowspan=6 {{Party shading/Republican}} |[[Jan Brewer]] {{small|(R)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Terry Goddard]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |[[David Petersen (Arizona)|David Petersen]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Tom Horne]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=2 {{Party shading/Republican}} |39R, 21D
+|rowspan=4 {{Party shading/Republican}} |6R, 2D
+|- style="height:2em"
+!2004
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Republican}} |18R, 12D
+ |{{Party shading/Republican}} |38R, 22D
+|- style="height:2em"
+!2006
+ |{{Party shading/Republican}} |[[Elliott Hibbs]] {{small|(R)}}{{efn |name=app}}
+ |{{Party shading/Republican}} |39R, 21D
+|- style="height:2em"
+!2007
+|rowspan=4 {{Party shading/Republican}} |[[Dean Martin (politician)|Dean Martin]] {{small|(R)}}
+|rowspan=16 {{Party shading/Republican}} |[[Joe Hart (politician)|Joe Hart]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|rowspan=2 {{Party shading/Republican}} |33R, 27D
+|rowspan=2 {{Party shading/Tie}} |4R, 4D
+|- style="height:2em"
+!2008
+|rowspan=4 {{Party shading/Republican}} |[[John McCain|McCain]]/<br>[[Sarah Palin|Palin]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2009
+|rowspan=6 {{Party shading/Republican}} |[[Jan Brewer]] {{small|(R)}}{{efn |name=sselected}}
+|rowspan=6 {{Party shading/Republican}} |[[Ken Bennett]] {{small|(R)}}{{efn |name=appelec}}
+|rowspan=2 {{Party shading/Republican}} |18R, 12D
+|rowspan=2 {{Party shading/Republican}} |36R, 24D
+|rowspan=4 {{Party shading/Republican}} |3R, 2D
+|rowspan=2 {{Party shading/Democratic}} |5D, 3R
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=4 {{party shading/Republican}} |[[Tom Horne]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Doug Ducey]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[John Huppenthal]] {{small|(R)}}
+|rowspan=2 {{party shading/Republican}} |21R, 9D
+|rowspan=2 {{party shading/Republican}} |40R, 20D
+|rowspan=2 {{party shading/Republican}} |5R, 3D
+|- style="height:2em"
+!2012
+|rowspan=4 {{party shading/Republican}} |[[Mitt Romney|Romney]]/<br>[[Paul Ryan|Ryan]] {{small|(R)}} {{nay}}
+|- style="height:2em"
+!2013
+|rowspan=3 {{party shading/Republican}} |17R, 13D
+|rowspan=4 {{party shading/Republican}} |36R, 24D
+|rowspan=7 {{party shading/Republican}} |5R
+|rowspan=7 {{party shading/Republican}} |[[Jeff Flake]] {{small|(R)}}
+|rowspan=2 {{party shading/Democratic}} |5D, 4R
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=9 {{party shading/Republican}} |[[Doug Ducey]] {{small|(R)}}
+|rowspan=5 {{party shading/Republican}} |[[Michele Reagan]] {{small|(R)}}
+|rowspan=9 {{party shading/Republican}} |[[Mark Brnovich]] {{small|(R)}}
+|rowspan=4 {{party shading/Republican}} |[[Jeff DeWit]] {{small|(R)}}{{efn |name=resigned}}<ref>{{cite web|url=https://azcapitoltimes.com/news/2018/03/27/dewit-to-resign-april-3-for-nasa-job/|title=DeWit to resign April 3 for NASA job|date=March 27, 2018|accessdate=November 11, 2022|author=[[Associated Press]]|work=[[Arizona Capitol Times]]}}</ref>
+|rowspan=5 {{party shading/Republican}} |[[Diane Douglas]] {{small|(R)}}
+|rowspan=5 {{party shading/Republican}} |5R, 4D
+|- style="height:2em"
+!2016
+ |{{party shading/Republican}} |18R, 12D
+|rowspan=5 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[Mike Pence|Pence]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!2017
+|rowspan=5 {{party shading/Republican}} |17R, 13D
+|rowspan=3 {{party shading/Republican}} |35R, 25D
+|- style="height:2em"
+!rowspan=2 |2018
+|- style="height:2em"
+ |{{party shading/Republican}} |[[Eileen Klein]] {{small|(R)}}{{efn |name=app}}
+ |{{party shading/Republican}} |[[Jon Kyl]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!2019
+|rowspan=4 {{Party shading/Democratic}} |[[Katie Hobbs]] {{small|(D)}}
+|rowspan=9 {{Party shading/Republican/current}} |[[Kimberly Yee]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Kathy Hoffman]] {{small|(D)}}
+|rowspan=6 {{Party shading/Republican}} |31R, 29D
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=4 {{Party shading/Democratic}} |[[Kyrsten Sinema]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |[[Martha McSally]] {{small|(R)}}{{efn |name=app}}
+|rowspan=4 {{Party shading/Democratic}} |5D, 4R
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden|Biden]]/<br>[[Kamala Harris|Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=4 {{Party shading/Republican}} |16R, 14D
+|rowspan=2 {{Party shading/Republican}} |3R, 2D
+|rowspan=7 {{Party shading/Democratic/current}} |[[Mark Kelly]] {{small|(D)}}
+|- style="height:2em"
+!2022
+|rowspan=4 {{Party shading/Republican}} |[[Paul Marsh (politician)|Paul Marsh]] {{small|(R)}}{{efn |name=app}}{{efn |name=resigned}}
+|- style="height:2em"
+!2023
+|rowspan=5 {{Party shading/Democratic/current}} |[[Katie Hobbs]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic/current}} |[[Adrian Fontes]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic/current}} |[[Kris Mayes]] {{small|(D)}}
+|rowspan=5 {{Party shading/Republican/current}} |[[Tom Horne]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |4R, 1D
+|rowspan=2 {{Party shading/Independent}} |[[Kyrsten Sinema]] {{small|(I){{efn |name=Sinema1|Switched party from Democratic to Independent on December 9, 2022. She preserved her committee assignments and seniority through the Democratic Party. See [[Independent Democrat]].}}}}
+|rowspan=5 {{Party shading/Republican/current}} |6R, 3D
+|- style="height:2em"
+!2024
+|rowspan=4 {{Party shading/Republican}} |[[Donald Trump|Trump]]/<br>[[JD Vance|Vance]] {{small|(R)}} {{aye}}
+|- style="height:2em"
+!rowspan=2|2025
+|rowspan=3 {{Party shading/Republican/current}} |17R, 13D
+|rowspan=3 {{Party shading/Republican/current}} |33R, 27D
+|rowspan=3 {{Party shading/Republican/current}} |5R
+|rowspan=3 {{Party shading/Democratic/current}} |[[Ruben Gallego]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican/current}} |[[Les Presmyk]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!2026
+|- style="height:2em"
+|}
+
+==From 2027==
+In 2026 Arizonans will elect a [[Lieutenant Governor of Arizona|lieutenant governor]] for the first time, pursuant to Proposition 131 in [[2022 Arizona elections#Ballot propositions|2022]].<!-- 
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=7 |Executive offices
+!colspan=2 |[[Arizona State Legislature|State Legislature]]
+!rowspan=2 class=unsortable |[[Arizona Corporation Commission|Corp.<br>Comm.]]
+!colspan=3 |[[Arizona's congressional delegations|United States Congress]]
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[List of governors of Arizona|Governor]]
+!class=unsortable |[[Lieutenant Governor of Arizona|Lieutenant<br>Governor]]
+!class=unsortable |[[Secretary of State of Arizona|Secretary<br>of State]]
+!class=unsortable |[[Arizona Attorney General|Attorney<br>General]]
+!class=unsortable |[[State Treasurer of Arizona|Treasurer]]
+!class=unsortable |[[Arizona Superintendent of Public Instruction|Supt. of Pub. Inst.]]
+!class=unsortable |[[Arizona State Mine Inspector|Mine Inspector]]
+!class=unsortable |[[Arizona Senate|Senate]]
+!class=unsortable |[[Arizona House of Representatives|House]]
+!class=unsortable |[[List of United States senators from Arizona|U.S. Senator<br>(Class I)]]
+!class=unsortable |[[List of United States senators from Arizona|U.S. Senator<br>(Class III)]]
+!class=unsortable |[[List of United States representatives from Arizona|U.S.<br>House]]
+|- style="height:2em"
+!''2027''
+|- style="height:2em"
+|} -->
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[Arizona#Law and government|Law and government in Arizona]]
+*[[List of Arizona state legislatures]]
+
+==Further reading==
+*Berman, David R. (2024). ''Arizona Politics and Government: The Quest for Autonomy, Democracy, and Development'' (2&nbsp;ed.). University of Nebraska Press.
+
+==Notes==
+{{Reflist}}
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Arizona}}
+[[Category:Politics of Arizona]]
+[[Category:Government of Arizona]]
+[[Category:Political party strength in the United States by state|Arizona]]

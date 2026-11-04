@@ -1,0 +1,1362 @@
+[
+ {
+  "table": 0,
+  "num": "1",
+  "name": "Thomas Chittenden",
+  "range": [
+   "March 13, 1778",
+   "October 13, 1789"
+  ],
+  "party": "{{sortname|Joseph|Marsh}}",
+  "title": null,
+  "acting": false,
+  "start": "1778-03-13",
+  "end": "1789-10-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "2",
+  "name": "Moses Robinson",
+  "range": [
+   "October 13, 1789",
+   "October 20, 1790"
+  ],
+  "party": null,
+  "title": null,
+  "acting": false,
+  "start": "1789-10-13",
+  "end": "1790-10-20",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 0,
+  "num": "3",
+  "name": "Thomas Chittenden",
+  "range": [
+   "October 20, 1790",
+   "March 4, 1791"
+  ],
+  "party": "{{sortname|Peter|Olcott}}",
+  "title": null,
+  "acting": false,
+  "start": "1790-10-20",
+  "end": "1791-03-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "1",
+  "name": "Thomas Chittenden",
+  "range": [
+   "March 5, 1791",
+   "August 25, 1797"
+  ],
+  "party": "No party",
+  "title": "No parties",
+  "acting": false,
+  "start": "1791-03-05",
+  "end": "1797-08-25",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "2",
+  "name": "Paul Brigham",
+  "range": [
+   "August 25, 1797",
+   "October 16, 1797"
+  ],
+  "party": "Democratic- Republican",
+  "title": "Represented the Democratic-Republican Party",
+  "acting": false,
+  "start": "1797-08-25",
+  "end": "1797-10-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "3",
+  "name": "Isaac Tichenor",
+  "range": [
+   "October 16, 1797",
+   "October 9, 1807"
+  ],
+  "party": "Federalist",
+  "title": "Represented the Federalist Party",
+  "acting": false,
+  "start": "1797-10-16",
+  "end": "1807-10-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "4",
+  "name": "Israel Smith",
+  "range": [
+   "October 9, 1807",
+   "October 14, 1808"
+  ],
+  "party": "Democratic- Republican",
+  "title": "Represented the Democratic-Republican Party",
+  "acting": false,
+  "start": "1807-10-09",
+  "end": "1808-10-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "5",
+  "name": "Isaac Tichenor",
+  "range": [
+   "October 14, 1808",
+   "October 14, 1809"
+  ],
+  "party": "Federalist",
+  "title": "Represented the Federalist Party",
+  "acting": false,
+  "start": "1808-10-14",
+  "end": "1809-10-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "6",
+  "name": "Jonas Galusha",
+  "range": [
+   "October 14, 1809",
+   "October 23, 1813"
+  ],
+  "party": "Democratic- Republican",
+  "title": "Represented the Democratic-Republican Party",
+  "acting": false,
+  "start": "1809-10-14",
+  "end": "1813-10-23",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "7",
+  "name": "Martin Chittenden",
+  "range": [
+   "October 23, 1813",
+   "October 14, 1815"
+  ],
+  "party": "Federalist",
+  "title": "Represented the Federalist Party",
+  "acting": false,
+  "start": "1813-10-23",
+  "end": "1815-10-14",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "8",
+  "name": "Jonas Galusha",
+  "range": [
+   "October 14, 1815",
+   "October 13, 1820"
+  ],
+  "party": "Democratic- Republican",
+  "title": "Represented the Democratic-Republican Party",
+  "acting": false,
+  "start": "1815-10-14",
+  "end": "1820-10-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "9",
+  "name": "Richard Skinner",
+  "range": [
+   "October 13, 1820",
+   "October 10, 1823"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1820-10-13",
+  "end": "1823-10-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "10",
+  "name": "Cornelius P. Van Ness",
+  "range": [
+   "October 10, 1823",
+   "October 13, 1826"
+  ],
+  "party": "Democratic- Republican",
+  "title": null,
+  "acting": false,
+  "start": "1823-10-10",
+  "end": "1826-10-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "11",
+  "name": "Ezra Butler",
+  "range": [
+   "October 13, 1826",
+   "October 10, 1828"
+  ],
+  "party": "National Republican",
+  "title": "Represented the National Republican Party",
+  "acting": false,
+  "start": "1826-10-13",
+  "end": "1828-10-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "12",
+  "name": "Samuel C. Crafts",
+  "range": [
+   "October 10, 1828",
+   "October 18, 1831"
+  ],
+  "party": "National Republican",
+  "title": null,
+  "acting": false,
+  "start": "1828-10-10",
+  "end": "1831-10-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "13",
+  "name": "William A. Palmer",
+  "range": [
+   "October 18, 1831",
+   "November 2, 1835"
+  ],
+  "party": "Anti-Masonic",
+  "title": "Represented the Anti-Masonic Party",
+  "acting": false,
+  "start": "1831-10-18",
+  "end": "1835-11-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "14",
+  "name": "Silas H. Jennison",
+  "range": [
+   "November 2, 1835",
+   "October 18, 1841"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": true,
+  "start": "1835-11-02",
+  "end": "1841-10-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "15",
+  "name": "Charles Paine",
+  "range": [
+   "October 18, 1841",
+   "October 13, 1843"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": false,
+  "start": "1841-10-18",
+  "end": "1843-10-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "16",
+  "name": "John Mattocks",
+  "range": [
+   "October 13, 1843",
+   "October 11, 1844"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": false,
+  "start": "1843-10-13",
+  "end": "1844-10-11",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "17",
+  "name": "William Slade",
+  "range": [
+   "October 11, 1844",
+   "October 9, 1846"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": false,
+  "start": "1844-10-11",
+  "end": "1846-10-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "18",
+  "name": "Horace Eaton",
+  "range": [
+   "October 9, 1846",
+   "October 19, 1848"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": false,
+  "start": "1846-10-09",
+  "end": "1848-10-19",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "19",
+  "name": "Carlos Coolidge",
+  "range": [
+   "October 19, 1848",
+   "October 12, 1850"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": false,
+  "start": "1848-10-19",
+  "end": "1850-10-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "20",
+  "name": "Charles K. Williams",
+  "range": [
+   "October 12, 1850",
+   "October 18, 1852"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": false,
+  "start": "1850-10-12",
+  "end": "1852-10-18",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "21",
+  "name": "Erastus Fairbanks",
+  "range": [
+   "October 18, 1852",
+   "November 1, 1853"
+  ],
+  "party": "Whig",
+  "title": null,
+  "acting": false,
+  "start": "1852-10-18",
+  "end": "1853-11-01",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "22",
+  "name": "John S. Robinson",
+  "range": [
+   "November 1, 1853",
+   "October 13, 1854"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1853-11-01",
+  "end": "1854-10-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "23",
+  "name": "Stephen Royce",
+  "range": [
+   "October 13, 1854",
+   "October 10, 1856"
+  ],
+  "party": "Whig",
+  "title": "Represented the Whig Party",
+  "acting": false,
+  "start": "1854-10-13",
+  "end": "1856-10-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "24",
+  "name": "Ryland Fletcher",
+  "range": [
+   "October 10, 1856",
+   "October 15, 1858"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1856-10-10",
+  "end": "1858-10-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "25",
+  "name": "Hiland Hall",
+  "range": [
+   "October 15, 1858",
+   "October 12, 1860"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1858-10-15",
+  "end": "1860-10-12",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "26",
+  "name": "Erastus Fairbanks",
+  "range": [
+   "October 12, 1860",
+   "October 22, 1861"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1860-10-12",
+  "end": "1861-10-22",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "27",
+  "name": "Frederick Holbrook",
+  "range": [
+   "October 22, 1861",
+   "October 9, 1863"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1861-10-22",
+  "end": "1863-10-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "28",
+  "name": "J. Gregory Smith",
+  "range": [
+   "October 9, 1863",
+   "October 13, 1865"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1863-10-09",
+  "end": "1865-10-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "29",
+  "name": "Paul Dillingham",
+  "range": [
+   "October 13, 1865",
+   "October 13, 1867"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1865-10-13",
+  "end": "1867-10-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "30",
+  "name": "John B. Page",
+  "range": [
+   "October 13, 1867",
+   "October 16, 1869"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1867-10-13",
+  "end": "1869-10-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "31",
+  "name": "Peter T. Washburn",
+  "range": [
+   "October 16, 1869",
+   "February 7, 1870"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1869-10-16",
+  "end": "1870-02-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "32",
+  "name": "George Whitman Hendee",
+  "range": [
+   "February 7, 1870",
+   "October 6, 1870"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1870-02-07",
+  "end": "1870-10-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "33",
+  "name": "John Wolcott Stewart",
+  "range": [
+   "October 6, 1870",
+   "October 3, 1872"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1870-10-06",
+  "end": "1872-10-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "34",
+  "name": "Julius Converse",
+  "range": [
+   "October 3, 1872",
+   "October 8, 1874"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1872-10-03",
+  "end": "1874-10-08",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "35",
+  "name": "Asahel Peck",
+  "range": [
+   "October 8, 1874",
+   "October 5, 1876"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1874-10-08",
+  "end": "1876-10-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "36",
+  "name": "Horace Fairbanks",
+  "range": [
+   "October 5, 1876",
+   "October 3, 1878"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1876-10-05",
+  "end": "1878-10-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "37",
+  "name": "Redfield Proctor",
+  "range": [
+   "October 3, 1878",
+   "October 7, 1880"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1878-10-03",
+  "end": "1880-10-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "38",
+  "name": "Roswell Farnham",
+  "range": [
+   "October 7, 1880",
+   "October 5, 1882"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1880-10-07",
+  "end": "1882-10-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "39",
+  "name": "John L. Barstow",
+  "range": [
+   "October 5, 1882",
+   "October 2, 1884"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1882-10-05",
+  "end": "1884-10-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "40",
+  "name": "Samuel E. Pingree",
+  "range": [
+   "October 2, 1884",
+   "October 7, 1886"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1884-10-02",
+  "end": "1886-10-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "41",
+  "name": "Ebenezer J. Ormsbee",
+  "range": [
+   "October 7, 1886",
+   "October 4, 1888"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1886-10-07",
+  "end": "1888-10-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "42",
+  "name": "William P. Dillingham",
+  "range": [
+   "October 4, 1888",
+   "October 2, 1890"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1888-10-04",
+  "end": "1890-10-02",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "43",
+  "name": "Carroll S. Page",
+  "range": [
+   "October 2, 1890",
+   "October 6, 1892"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1890-10-02",
+  "end": "1892-10-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "44",
+  "name": "Levi K. Fuller",
+  "range": [
+   "October 6, 1892",
+   "October 4, 1894"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1892-10-06",
+  "end": "1894-10-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "45",
+  "name": "Urban A. Woodbury",
+  "range": [
+   "October 4, 1894",
+   "October 8, 1896"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1894-10-04",
+  "end": "1896-10-08",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "46",
+  "name": "Josiah Grout",
+  "range": [
+   "October 8, 1896",
+   "October 6, 1898"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1896-10-08",
+  "end": "1898-10-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "47",
+  "name": "Edward Curtis Smith",
+  "range": [
+   "October 6, 1898",
+   "October 4, 1900"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1898-10-06",
+  "end": "1900-10-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "48",
+  "name": "William W. Stickney",
+  "range": [
+   "October 4, 1900",
+   "October 3, 1902"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1900-10-04",
+  "end": "1902-10-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "49",
+  "name": "John G. McCullough",
+  "range": [
+   "October 3, 1902",
+   "October 6, 1904"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1902-10-03",
+  "end": "1904-10-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "50",
+  "name": "Charles J. Bell",
+  "range": [
+   "October 6, 1904",
+   "October 4, 1906"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1904-10-06",
+  "end": "1906-10-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "51",
+  "name": "Fletcher D. Proctor",
+  "range": [
+   "October 4, 1906",
+   "October 8, 1908"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1906-10-04",
+  "end": "1908-10-08",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "52",
+  "name": "George H. Prouty",
+  "range": [
+   "October 8, 1908",
+   "October 6, 1910"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1908-10-08",
+  "end": "1910-10-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "53",
+  "name": "John A. Mead",
+  "range": [
+   "October 6, 1910",
+   "October 3, 1912"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1910-10-06",
+  "end": "1912-10-03",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "54",
+  "name": "Allen M. Fletcher",
+  "range": [
+   "October 3, 1912",
+   "January 7, 1915"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1912-10-03",
+  "end": "1915-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "55",
+  "name": "Charles W. Gates",
+  "range": [
+   "January 7, 1915",
+   "January 4, 1917"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1915-01-07",
+  "end": "1917-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "56",
+  "name": "Horace F. Graham",
+  "range": [
+   "January 4, 1917",
+   "January 10, 1919"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1917-01-04",
+  "end": "1919-01-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "57",
+  "name": "Percival W. Clement",
+  "range": [
+   "January 10, 1919",
+   "January 7, 1921"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1919-01-10",
+  "end": "1921-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "58",
+  "name": "James Hartness",
+  "range": [
+   "January 7, 1921",
+   "January 4, 1923"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1921-01-07",
+  "end": "1923-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "59",
+  "name": "Redfield Proctor Jr.",
+  "range": [
+   "January 4, 1923",
+   "January 8, 1925"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1923-01-04",
+  "end": "1925-01-08",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "60",
+  "name": "Franklin S. Billings",
+  "range": [
+   "January 8, 1925",
+   "January 6, 1927"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1925-01-08",
+  "end": "1927-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "61",
+  "name": "John E. Weeks",
+  "range": [
+   "January 6, 1927",
+   "January 8, 1931"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1927-01-06",
+  "end": "1931-01-08",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "62",
+  "name": "Stanley C. Wilson",
+  "range": [
+   "January 8, 1931",
+   "January 10, 1935"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1931-01-08",
+  "end": "1935-01-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "63",
+  "name": "Charles Manley Smith",
+  "range": [
+   "January 10, 1935",
+   "January 7, 1937"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1935-01-10",
+  "end": "1937-01-07",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "64",
+  "name": "George Aiken",
+  "range": [
+   "January 7, 1937",
+   "January 9, 1941"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1937-01-07",
+  "end": "1941-01-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "65",
+  "name": "William Henry Wills",
+  "range": [
+   "January 9, 1941",
+   "January 4, 1945"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1941-01-09",
+  "end": "1945-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "66",
+  "name": "Mortimer R. Proctor",
+  "range": [
+   "January 4, 1945",
+   "January 9, 1947"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1945-01-04",
+  "end": "1947-01-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "67",
+  "name": "Ernest W. Gibson Jr.",
+  "range": [
+   "January 9, 1947",
+   "January 16, 1950"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1947-01-09",
+  "end": "1950-01-16",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "68",
+  "name": "Harold J. Arthur",
+  "range": [
+   "January 16, 1950",
+   "January 4, 1951"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1950-01-16",
+  "end": "1951-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "69",
+  "name": "Lee E. Emerson",
+  "range": [
+   "January 4, 1951",
+   "January 6, 1955"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1951-01-04",
+  "end": "1955-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "70",
+  "name": "Joseph B. Johnson",
+  "range": [
+   "January 6, 1955",
+   "January 15, 1959"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1955-01-06",
+  "end": "1959-01-15",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "71",
+  "name": "Robert Stafford",
+  "range": [
+   "January 15, 1959",
+   "January 5, 1961"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1959-01-15",
+  "end": "1961-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "72",
+  "name": "F. Ray Keyser Jr.",
+  "range": [
+   "January 5, 1961",
+   "January 10, 1963"
+  ],
+  "party": "Republican",
+  "title": null,
+  "acting": false,
+  "start": "1961-01-05",
+  "end": "1963-01-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "73",
+  "name": "Philip H. Hoff",
+  "range": [
+   "January 10, 1963",
+   "January 9, 1969"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1963-01-10",
+  "end": "1969-01-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "74",
+  "name": "Deane C. Davis",
+  "range": [
+   "January 9, 1969",
+   "January 4, 1973"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1969-01-09",
+  "end": "1973-01-04",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "75",
+  "name": "Thomas P. Salmon",
+  "range": [
+   "January 4, 1973",
+   "January 6, 1977"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1973-01-04",
+  "end": "1977-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "76",
+  "name": "Richard A. Snelling",
+  "range": [
+   "January 6, 1977",
+   "January 10, 1985"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1977-01-06",
+  "end": "1985-01-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "77",
+  "name": "Madeleine Kunin",
+  "range": [
+   "January 10, 1985",
+   "January 10, 1991"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1985-01-10",
+  "end": "1991-01-10",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "78",
+  "name": "Richard A. Snelling",
+  "range": [
+   "January 10, 1991",
+   "August 13, 1991"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "1991-01-10",
+  "end": "1991-08-13",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "79",
+  "name": "Howard Dean",
+  "range": [
+   "August 13, 1991",
+   "January 9, 2003"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "1991-08-13",
+  "end": "2003-01-09",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "80",
+  "name": "Jim Douglas",
+  "range": [
+   "January 9, 2003",
+   "January 6, 2011"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "2003-01-09",
+  "end": "2011-01-06",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "81",
+  "name": "Peter Shumlin",
+  "range": [
+   "January 6, 2011",
+   "January 5, 2017"
+  ],
+  "party": "Democratic",
+  "title": "Represented the Democratic Party",
+  "acting": false,
+  "start": "2011-01-06",
+  "end": "2017-01-05",
+  "sp": "day",
+  "ep": "day"
+ },
+ {
+  "table": 1,
+  "num": "82",
+  "name": "Phil Scott",
+  "range": [
+   "January 5, 2017",
+   "Incumbent"
+  ],
+  "party": "Republican",
+  "title": "Represented the Republican Party",
+  "acting": false,
+  "start": "2017-01-05",
+  "end": null,
+  "sp": "day",
+  "ep": "day"
+ }
+]

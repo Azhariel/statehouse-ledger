@@ -1,0 +1,2408 @@
+{
+  "ND": {
+    "state_name": "North Dakota",
+    "admitted": "1889-11-02",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_North_Dakota",
+    "terms": [
+      {
+        "name": "John Miller",
+        "party_raw": "Republican",
+        "start": "1889-11-20",
+        "end": "1891-01-07",
+        "acting": false
+      },
+      {
+        "name": "Andrew H. Burke",
+        "party_raw": "Republican",
+        "start": "1891-01-07",
+        "end": "1893-01-04",
+        "acting": false
+      },
+      {
+        "name": "Eli C. D. Shortridge",
+        "party_raw": "Populist",
+        "start": "1893-01-04",
+        "end": "1895-01-09",
+        "acting": false
+      },
+      {
+        "name": "Roger Allin",
+        "party_raw": "Republican",
+        "start": "1895-01-09",
+        "end": "1897-01-07",
+        "acting": false
+      },
+      {
+        "name": "Frank A. Briggs",
+        "party_raw": "Republican",
+        "start": "1897-01-07",
+        "end": "1898-08-09",
+        "acting": false
+      },
+      {
+        "name": "Joseph M. Devine",
+        "party_raw": "Republican",
+        "start": "1898-08-09",
+        "end": "1899-01-03",
+        "acting": false
+      },
+      {
+        "name": "Frederick B. Fancher",
+        "party_raw": "Republican",
+        "start": "1899-01-03",
+        "end": "1901-01-07",
+        "acting": false
+      },
+      {
+        "name": "Frank White",
+        "party_raw": "Republican",
+        "start": "1901-01-07",
+        "end": "1905-01-04",
+        "acting": false
+      },
+      {
+        "name": "Elmore Y. Sarles",
+        "party_raw": "Republican",
+        "start": "1905-01-04",
+        "end": "1907-01-09",
+        "acting": false
+      },
+      {
+        "name": "John Burke",
+        "party_raw": "Democratic",
+        "start": "1907-01-09",
+        "end": "1913-01-08",
+        "acting": false
+      },
+      {
+        "name": "L. B. Hanna",
+        "party_raw": "Republican",
+        "start": "1913-01-08",
+        "end": "1917-01-03",
+        "acting": false
+      },
+      {
+        "name": "Lynn Frazier",
+        "party_raw": "Republican/Nonpartisan League",
+        "start": "1917-01-03",
+        "end": "1921-11-23",
+        "acting": false
+      },
+      {
+        "name": "Ragnvald Nestos",
+        "party_raw": "Republican/Independent Voters",
+        "start": "1921-11-23",
+        "end": "1925-01-07",
+        "acting": false
+      },
+      {
+        "name": "Arthur G. Sorlie",
+        "party_raw": "Republican/Nonpartisan League",
+        "start": "1925-01-07",
+        "end": "1928-08-28",
+        "acting": false
+      },
+      {
+        "name": "Walter Maddock",
+        "party_raw": "Republican/Nonpartisan League",
+        "start": "1928-08-28",
+        "end": "1929-01-09",
+        "acting": false
+      },
+      {
+        "name": "George F. Shafer",
+        "party_raw": "Republican/Independent Voters",
+        "start": "1929-01-09",
+        "end": "1933-01-04",
+        "acting": false
+      },
+      {
+        "name": "William Langer",
+        "party_raw": "Republican/Nonpartisan League",
+        "start": "1933-01-04",
+        "end": "1934-07-19",
+        "acting": false
+      },
+      {
+        "name": "Ole H. Olson",
+        "party_raw": "Republican/Nonpartisan League",
+        "start": "1934-07-19",
+        "end": "1935-01-07",
+        "acting": false
+      },
+      {
+        "name": "Thomas H. Moodie",
+        "party_raw": "Democratic",
+        "start": "1935-01-07",
+        "end": "1935-02-02",
+        "acting": false
+      },
+      {
+        "name": "Walter Welford",
+        "party_raw": "Republican/Nonpartisan League",
+        "start": "1935-02-02",
+        "end": "1937-01-06",
+        "acting": false
+      },
+      {
+        "name": "William Langer",
+        "party_raw": "Independent",
+        "start": "1937-01-06",
+        "end": "1939-01-02",
+        "acting": false
+      },
+      {
+        "name": "John Moses",
+        "party_raw": "Democratic",
+        "start": "1939-01-02",
+        "end": "1945-01-02",
+        "acting": false
+      },
+      {
+        "name": "Fred G. Aandahl",
+        "party_raw": "Republican",
+        "start": "1945-01-02",
+        "end": "1951-01-03",
+        "acting": false
+      },
+      {
+        "name": "Norman Brunsdale",
+        "party_raw": "Republican",
+        "start": "1951-01-03",
+        "end": "1957-01-07",
+        "acting": false
+      },
+      {
+        "name": "John E. Davis",
+        "party_raw": "Republican",
+        "start": "1957-01-07",
+        "end": "1961-01-03",
+        "acting": false
+      },
+      {
+        "name": "William L. Guy",
+        "party_raw": "Democratic–Nonpartisan League",
+        "start": "1961-01-03",
+        "end": "1973-01-02",
+        "acting": false
+      },
+      {
+        "name": "Arthur A. Link",
+        "party_raw": "Democratic–Nonpartisan League",
+        "start": "1973-01-02",
+        "end": "1981-01-06",
+        "acting": false
+      },
+      {
+        "name": "Allen I. Olson",
+        "party_raw": "Republican",
+        "start": "1981-01-06",
+        "end": "1984-12-31",
+        "acting": false
+      },
+      {
+        "name": "George A. Sinner",
+        "party_raw": "Democratic–Nonpartisan League",
+        "start": "1985-01-01",
+        "end": "1992-12-15",
+        "acting": false
+      },
+      {
+        "name": "Ed Schafer",
+        "party_raw": "Republican",
+        "start": "1992-12-15",
+        "end": "2000-12-15",
+        "acting": false
+      },
+      {
+        "name": "John Hoeven",
+        "party_raw": "Republican",
+        "start": "2000-12-15",
+        "end": "2010-12-07",
+        "acting": false
+      },
+      {
+        "name": "Jack Dalrymple",
+        "party_raw": "Republican",
+        "start": "2010-12-07",
+        "end": "2016-12-15",
+        "acting": false
+      },
+      {
+        "name": "Doug Burgum",
+        "party_raw": "Republican",
+        "start": "2016-12-15",
+        "end": "2024-12-15",
+        "acting": false
+      },
+      {
+        "name": "Kelly Armstrong",
+        "party_raw": "Republican",
+        "start": "2024-12-15",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "John Miller took office 1889-11-20, 18 days after statehood (1889-11-02); no governor is listed for the interval.",
+      "NPL-era governors are labeled 'Republican/Nonpartisan League' or 'Republican/Independent Voters' (dual labels) exactly as Wikipedia shows them.",
+      "Walter Maddock: in office as 'Republican/Nonpartisan League'; Wikipedia adds a second label 'Democratic/Nonpartisan League' because he switched parties to run in the 1928 election (during his term). Kept the in-office Republican/Nonpartisan League label.",
+      "William Langer 1933 start: sources disagree (State Historical Society says 1932-12-31); used Wikipedia's 1933-01-04. Langer was removed (ruled ineligible 1934-07-17) and Ole H. Olson formally took office 1934-07-19.",
+      "Democratic-NPL era governors (Guy, Link, Sinner) are labeled 'Democratic–Nonpartisan League' (en dash, as on Wikipedia)."
+    ]
+  },
+  "OH": {
+    "state_name": "Ohio",
+    "admitted": "1803-03-01",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_Ohio",
+    "terms": [
+      {
+        "name": "William Medill",
+        "party_raw": "Democratic",
+        "start": "1853-07-13",
+        "end": "1856-01-14",
+        "acting": false
+      },
+      {
+        "name": "Salmon P. Chase",
+        "party_raw": "Republican",
+        "start": "1856-01-14",
+        "end": "1860-01-09",
+        "acting": false
+      },
+      {
+        "name": "William Dennison Jr.",
+        "party_raw": "Republican",
+        "start": "1860-01-09",
+        "end": "1862-01-13",
+        "acting": false
+      },
+      {
+        "name": "David Tod",
+        "party_raw": "Union",
+        "start": "1862-01-13",
+        "end": "1864-01-11",
+        "acting": false
+      },
+      {
+        "name": "John Brough",
+        "party_raw": "Union",
+        "start": "1864-01-11",
+        "end": "1865-08-29",
+        "acting": false
+      },
+      {
+        "name": "Charles Anderson",
+        "party_raw": "Union",
+        "start": "1865-08-29",
+        "end": "1866-01-08",
+        "acting": false
+      },
+      {
+        "name": "Jacob Dolson Cox",
+        "party_raw": "Republican",
+        "start": "1866-01-08",
+        "end": "1868-01-13",
+        "acting": false
+      },
+      {
+        "name": "Rutherford B. Hayes",
+        "party_raw": "Republican",
+        "start": "1868-01-13",
+        "end": "1872-01-08",
+        "acting": false
+      },
+      {
+        "name": "Edward Follansbee Noyes",
+        "party_raw": "Republican",
+        "start": "1872-01-08",
+        "end": "1874-01-12",
+        "acting": false
+      },
+      {
+        "name": "William Allen",
+        "party_raw": "Democratic",
+        "start": "1874-01-12",
+        "end": "1876-01-10",
+        "acting": false
+      },
+      {
+        "name": "Rutherford B. Hayes",
+        "party_raw": "Republican",
+        "start": "1876-01-10",
+        "end": "1877-03-02",
+        "acting": false
+      },
+      {
+        "name": "Thomas L. Young",
+        "party_raw": "Republican",
+        "start": "1877-03-02",
+        "end": "1878-01-14",
+        "acting": false
+      },
+      {
+        "name": "Richard M. Bishop",
+        "party_raw": "Democratic",
+        "start": "1878-01-14",
+        "end": "1880-01-12",
+        "acting": false
+      },
+      {
+        "name": "Charles Foster",
+        "party_raw": "Republican",
+        "start": "1880-01-12",
+        "end": "1884-01-14",
+        "acting": false
+      },
+      {
+        "name": "George Hoadly",
+        "party_raw": "Democratic",
+        "start": "1884-01-14",
+        "end": "1886-01-11",
+        "acting": false
+      },
+      {
+        "name": "Joseph B. Foraker",
+        "party_raw": "Republican",
+        "start": "1886-01-11",
+        "end": "1890-01-13",
+        "acting": false
+      },
+      {
+        "name": "James E. Campbell",
+        "party_raw": "Democratic",
+        "start": "1890-01-13",
+        "end": "1892-01-11",
+        "acting": false
+      },
+      {
+        "name": "William McKinley",
+        "party_raw": "Republican",
+        "start": "1892-01-11",
+        "end": "1896-01-13",
+        "acting": false
+      },
+      {
+        "name": "Asa S. Bushnell",
+        "party_raw": "Republican",
+        "start": "1896-01-13",
+        "end": "1900-01-08",
+        "acting": false
+      },
+      {
+        "name": "George K. Nash",
+        "party_raw": "Republican",
+        "start": "1900-01-08",
+        "end": "1904-01-11",
+        "acting": false
+      },
+      {
+        "name": "Myron T. Herrick",
+        "party_raw": "Republican",
+        "start": "1904-01-11",
+        "end": "1906-01-08",
+        "acting": false
+      },
+      {
+        "name": "John M. Pattison",
+        "party_raw": "Democratic",
+        "start": "1906-01-08",
+        "end": "1906-06-18",
+        "acting": false
+      },
+      {
+        "name": "Andrew L. Harris",
+        "party_raw": "Republican",
+        "start": "1906-06-18",
+        "end": "1909-01-11",
+        "acting": false
+      },
+      {
+        "name": "Judson Harmon",
+        "party_raw": "Democratic",
+        "start": "1909-01-11",
+        "end": "1913-01-13",
+        "acting": false
+      },
+      {
+        "name": "James M. Cox",
+        "party_raw": "Democratic",
+        "start": "1913-01-13",
+        "end": "1915-01-11",
+        "acting": false
+      },
+      {
+        "name": "Frank B. Willis",
+        "party_raw": "Republican",
+        "start": "1915-01-11",
+        "end": "1917-01-08",
+        "acting": false
+      },
+      {
+        "name": "James M. Cox",
+        "party_raw": "Democratic",
+        "start": "1917-01-08",
+        "end": "1921-01-10",
+        "acting": false
+      },
+      {
+        "name": "Harry L. Davis",
+        "party_raw": "Republican",
+        "start": "1921-01-10",
+        "end": "1923-01-08",
+        "acting": false
+      },
+      {
+        "name": "A. Victor Donahey",
+        "party_raw": "Democratic",
+        "start": "1923-01-08",
+        "end": "1929-01-14",
+        "acting": false
+      },
+      {
+        "name": "Myers Y. Cooper",
+        "party_raw": "Republican",
+        "start": "1929-01-14",
+        "end": "1931-01-12",
+        "acting": false
+      },
+      {
+        "name": "George White",
+        "party_raw": "Democratic",
+        "start": "1931-01-12",
+        "end": "1935-01-14",
+        "acting": false
+      },
+      {
+        "name": "Martin L. Davey",
+        "party_raw": "Democratic",
+        "start": "1935-01-14",
+        "end": "1939-01-09",
+        "acting": false
+      },
+      {
+        "name": "John W. Bricker",
+        "party_raw": "Republican",
+        "start": "1939-01-09",
+        "end": "1945-01-08",
+        "acting": false
+      },
+      {
+        "name": "Frank Lausche",
+        "party_raw": "Democratic",
+        "start": "1945-01-08",
+        "end": "1947-01-13",
+        "acting": false
+      },
+      {
+        "name": "Thomas J. Herbert",
+        "party_raw": "Republican",
+        "start": "1947-01-13",
+        "end": "1949-01-10",
+        "acting": false
+      },
+      {
+        "name": "Frank Lausche",
+        "party_raw": "Democratic",
+        "start": "1949-01-10",
+        "end": "1957-01-03",
+        "acting": false
+      },
+      {
+        "name": "John William Brown",
+        "party_raw": "Republican",
+        "start": "1957-01-03",
+        "end": "1957-01-14",
+        "acting": false
+      },
+      {
+        "name": "C. William O'Neill",
+        "party_raw": "Republican",
+        "start": "1957-01-14",
+        "end": "1959-01-12",
+        "acting": false
+      },
+      {
+        "name": "Michael DiSalle",
+        "party_raw": "Democratic",
+        "start": "1959-01-12",
+        "end": "1963-01-14",
+        "acting": false
+      },
+      {
+        "name": "Jim Rhodes",
+        "party_raw": "Republican",
+        "start": "1963-01-14",
+        "end": "1971-01-11",
+        "acting": false
+      },
+      {
+        "name": "John J. Gilligan",
+        "party_raw": "Democratic",
+        "start": "1971-01-11",
+        "end": "1975-01-13",
+        "acting": false
+      },
+      {
+        "name": "Jim Rhodes",
+        "party_raw": "Republican",
+        "start": "1975-01-13",
+        "end": "1983-01-10",
+        "acting": false
+      },
+      {
+        "name": "Dick Celeste",
+        "party_raw": "Democratic",
+        "start": "1983-01-10",
+        "end": "1991-01-14",
+        "acting": false
+      },
+      {
+        "name": "George Voinovich",
+        "party_raw": "Republican",
+        "start": "1991-01-14",
+        "end": "1998-12-31",
+        "acting": false
+      },
+      {
+        "name": "Nancy Hollister",
+        "party_raw": "Republican",
+        "start": "1998-12-31",
+        "end": "1999-01-11",
+        "acting": false
+      },
+      {
+        "name": "Bob Taft",
+        "party_raw": "Republican",
+        "start": "1999-01-11",
+        "end": "2007-01-08",
+        "acting": false
+      },
+      {
+        "name": "Ted Strickland",
+        "party_raw": "Democratic",
+        "start": "2007-01-08",
+        "end": "2011-01-10",
+        "acting": false
+      },
+      {
+        "name": "John Kasich",
+        "party_raw": "Republican",
+        "start": "2011-01-10",
+        "end": "2019-01-14",
+        "acting": false
+      },
+      {
+        "name": "Mike DeWine",
+        "party_raw": "Republican",
+        "start": "2019-01-14",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "Amy Acton (Democratic) is listed as governor-elect taking office 2027-01-11; excluded.",
+      "David Tod, John Brough and Charles Anderson are labeled 'Union' (Civil War National Union coalition) on Wikipedia."
+    ]
+  },
+  "OK": {
+    "state_name": "Oklahoma",
+    "admitted": "1907-11-16",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_Oklahoma",
+    "terms": [
+      {
+        "name": "Charles N. Haskell",
+        "party_raw": "Democratic",
+        "start": "1907-11-16",
+        "end": "1911-01-09",
+        "acting": false
+      },
+      {
+        "name": "Lee Cruce",
+        "party_raw": "Democratic",
+        "start": "1911-01-09",
+        "end": "1915-01-11",
+        "acting": false
+      },
+      {
+        "name": "Robert L. Williams",
+        "party_raw": "Democratic",
+        "start": "1915-01-11",
+        "end": "1919-01-13",
+        "acting": false
+      },
+      {
+        "name": "James B. A. Robertson",
+        "party_raw": "Democratic",
+        "start": "1919-01-13",
+        "end": "1923-01-08",
+        "acting": false
+      },
+      {
+        "name": "Jack C. Walton",
+        "party_raw": "Democratic",
+        "start": "1923-01-08",
+        "end": "1923-11-19",
+        "acting": false
+      },
+      {
+        "name": "Martin E. Trapp",
+        "party_raw": "Democratic",
+        "start": "1923-11-19",
+        "end": "1927-01-10",
+        "acting": false
+      },
+      {
+        "name": "Henry S. Johnston",
+        "party_raw": "Democratic",
+        "start": "1927-01-10",
+        "end": "1929-03-20",
+        "acting": false
+      },
+      {
+        "name": "William J. Holloway",
+        "party_raw": "Democratic",
+        "start": "1929-03-20",
+        "end": "1931-01-12",
+        "acting": false
+      },
+      {
+        "name": "William H. Murray",
+        "party_raw": "Democratic",
+        "start": "1931-01-12",
+        "end": "1935-01-14",
+        "acting": false
+      },
+      {
+        "name": "E. W. Marland",
+        "party_raw": "Democratic",
+        "start": "1935-01-14",
+        "end": "1939-01-09",
+        "acting": false
+      },
+      {
+        "name": "Leon C. Phillips",
+        "party_raw": "Democratic",
+        "start": "1939-01-09",
+        "end": "1943-01-11",
+        "acting": false
+      },
+      {
+        "name": "Robert S. Kerr",
+        "party_raw": "Democratic",
+        "start": "1943-01-11",
+        "end": "1947-01-13",
+        "acting": false
+      },
+      {
+        "name": "Roy J. Turner",
+        "party_raw": "Democratic",
+        "start": "1947-01-13",
+        "end": "1951-01-08",
+        "acting": false
+      },
+      {
+        "name": "Johnston Murray",
+        "party_raw": "Democratic",
+        "start": "1951-01-08",
+        "end": "1955-01-10",
+        "acting": false
+      },
+      {
+        "name": "Raymond D. Gary",
+        "party_raw": "Democratic",
+        "start": "1955-01-10",
+        "end": "1959-01-12",
+        "acting": false
+      },
+      {
+        "name": "J. Howard Edmondson",
+        "party_raw": "Democratic",
+        "start": "1959-01-12",
+        "end": "1963-01-06",
+        "acting": false
+      },
+      {
+        "name": "George Nigh",
+        "party_raw": "Democratic",
+        "start": "1963-01-06",
+        "end": "1963-01-14",
+        "acting": false
+      },
+      {
+        "name": "Henry Bellmon",
+        "party_raw": "Republican",
+        "start": "1963-01-14",
+        "end": "1967-01-09",
+        "acting": false
+      },
+      {
+        "name": "Dewey F. Bartlett",
+        "party_raw": "Republican",
+        "start": "1967-01-09",
+        "end": "1971-01-11",
+        "acting": false
+      },
+      {
+        "name": "David Hall",
+        "party_raw": "Democratic",
+        "start": "1971-01-11",
+        "end": "1975-01-13",
+        "acting": false
+      },
+      {
+        "name": "David Boren",
+        "party_raw": "Democratic",
+        "start": "1975-01-13",
+        "end": "1979-01-02",
+        "acting": false
+      },
+      {
+        "name": "George Nigh",
+        "party_raw": "Democratic",
+        "start": "1979-01-03",
+        "end": "1987-01-12",
+        "acting": false
+      },
+      {
+        "name": "Henry Bellmon",
+        "party_raw": "Republican",
+        "start": "1987-01-12",
+        "end": "1991-01-14",
+        "acting": false
+      },
+      {
+        "name": "David Walters",
+        "party_raw": "Democratic",
+        "start": "1991-01-14",
+        "end": "1995-01-09",
+        "acting": false
+      },
+      {
+        "name": "Frank Keating",
+        "party_raw": "Republican",
+        "start": "1995-01-09",
+        "end": "2003-01-13",
+        "acting": false
+      },
+      {
+        "name": "Brad Henry",
+        "party_raw": "Democratic",
+        "start": "2003-01-13",
+        "end": "2011-01-10",
+        "acting": false
+      },
+      {
+        "name": "Mary Fallin",
+        "party_raw": "Republican",
+        "start": "2011-01-10",
+        "end": "2019-01-14",
+        "acting": false
+      },
+      {
+        "name": "Kevin Stitt",
+        "party_raw": "Republican",
+        "start": "2019-01-14",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "Statehood 1907-11-16; Oklahoma Territory governors excluded.",
+      "Jack C. Walton was impeached 1923-10-23 and Martin E. Trapp acted as governor from then until Walton's removal 1923-11-19; Wikipedia's table dates Trapp from 1923-11-19, so used that (acting period only in a footnote).",
+      "Henry S. Johnston was impeached 1929-01-21 and William J. Holloway acted from then; table dates Holloway from 1929-03-20 (removal), used that.",
+      "George Nigh 1979 term starts 1979-01-03, Boren's ends 1979-01-02 (1-day gap, as on Wikipedia).",
+      "Mike Mazzei (Republican) is listed as governor-elect taking office 2027-01-11; excluded."
+    ]
+  },
+  "OR": {
+    "state_name": "Oregon",
+    "admitted": "1859-02-14",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_Oregon",
+    "terms": [
+      {
+        "name": "John Whiteaker",
+        "party_raw": "Democratic",
+        "start": "1859-02-14",
+        "end": "1862-09-10",
+        "acting": false
+      },
+      {
+        "name": "A. C. Gibbs",
+        "party_raw": "Republican",
+        "start": "1862-09-10",
+        "end": "1866-09-12",
+        "acting": false
+      },
+      {
+        "name": "George Lemuel Woods",
+        "party_raw": "Republican",
+        "start": "1866-09-12",
+        "end": "1870-09-14",
+        "acting": false
+      },
+      {
+        "name": "La Fayette Grover",
+        "party_raw": "Democratic",
+        "start": "1870-09-14",
+        "end": "1877-02-01",
+        "acting": false
+      },
+      {
+        "name": "Stephen F. Chadwick",
+        "party_raw": "Democratic",
+        "start": "1877-02-01",
+        "end": "1878-09-11",
+        "acting": false
+      },
+      {
+        "name": "W. W. Thayer",
+        "party_raw": "Democratic",
+        "start": "1878-09-11",
+        "end": "1882-09-13",
+        "acting": false
+      },
+      {
+        "name": "Zenas Ferry Moody",
+        "party_raw": "Republican",
+        "start": "1882-09-13",
+        "end": "1887-01-12",
+        "acting": false
+      },
+      {
+        "name": "Sylvester Pennoyer",
+        "party_raw": "Democratic",
+        "start": "1887-01-12",
+        "end": "1895-01-16",
+        "acting": false
+      },
+      {
+        "name": "William Paine Lord",
+        "party_raw": "Republican",
+        "start": "1895-01-16",
+        "end": "1899-01-10",
+        "acting": false
+      },
+      {
+        "name": "Theodore Thurston Geer",
+        "party_raw": "Republican",
+        "start": "1899-01-10",
+        "end": "1903-01-14",
+        "acting": false
+      },
+      {
+        "name": "George Earle Chamberlain",
+        "party_raw": "Democratic",
+        "start": "1903-01-14",
+        "end": "1909-03-01",
+        "acting": false
+      },
+      {
+        "name": "Frank W. Benson",
+        "party_raw": "Republican",
+        "start": "1909-03-01",
+        "end": "1910-06-16",
+        "acting": false
+      },
+      {
+        "name": "Jay Bowerman",
+        "party_raw": "Republican",
+        "start": "1910-06-16",
+        "end": "1911-01-10",
+        "acting": false
+      },
+      {
+        "name": "Oswald West",
+        "party_raw": "Democratic",
+        "start": "1911-01-10",
+        "end": "1915-01-12",
+        "acting": false
+      },
+      {
+        "name": "James Withycombe",
+        "party_raw": "Republican",
+        "start": "1915-01-12",
+        "end": "1919-03-03",
+        "acting": false
+      },
+      {
+        "name": "Ben W. Olcott",
+        "party_raw": "Republican",
+        "start": "1919-03-03",
+        "end": "1923-01-08",
+        "acting": false
+      },
+      {
+        "name": "Walter M. Pierce",
+        "party_raw": "Democratic",
+        "start": "1923-01-08",
+        "end": "1927-01-10",
+        "acting": false
+      },
+      {
+        "name": "I. L. Patterson",
+        "party_raw": "Republican",
+        "start": "1927-01-10",
+        "end": "1929-12-21",
+        "acting": false
+      },
+      {
+        "name": "Albin Walter Norblad Sr.",
+        "party_raw": "Republican",
+        "start": "1929-12-21",
+        "end": "1931-01-12",
+        "acting": false
+      },
+      {
+        "name": "Julius Meier",
+        "party_raw": "Independent",
+        "start": "1931-01-12",
+        "end": "1935-01-14",
+        "acting": false
+      },
+      {
+        "name": "Charles Martin",
+        "party_raw": "Democratic",
+        "start": "1935-01-14",
+        "end": "1939-01-09",
+        "acting": false
+      },
+      {
+        "name": "Charles A. Sprague",
+        "party_raw": "Republican",
+        "start": "1939-01-09",
+        "end": "1943-01-13",
+        "acting": false
+      },
+      {
+        "name": "Earl Snell",
+        "party_raw": "Republican",
+        "start": "1943-01-13",
+        "end": "1947-10-28",
+        "acting": false
+      },
+      {
+        "name": "John Hubert Hall",
+        "party_raw": "Republican",
+        "start": "1947-10-28",
+        "end": "1949-01-10",
+        "acting": false
+      },
+      {
+        "name": "Douglas McKay",
+        "party_raw": "Republican",
+        "start": "1949-01-10",
+        "end": "1952-12-17",
+        "acting": false
+      },
+      {
+        "name": "Paul L. Patterson",
+        "party_raw": "Republican",
+        "start": "1952-12-17",
+        "end": "1956-01-31",
+        "acting": false
+      },
+      {
+        "name": "Elmo Smith",
+        "party_raw": "Republican",
+        "start": "1956-01-31",
+        "end": "1957-01-14",
+        "acting": false
+      },
+      {
+        "name": "Robert D. Holmes",
+        "party_raw": "Democratic",
+        "start": "1957-01-14",
+        "end": "1959-01-12",
+        "acting": false
+      },
+      {
+        "name": "Mark Hatfield",
+        "party_raw": "Republican",
+        "start": "1959-01-12",
+        "end": "1967-01-09",
+        "acting": false
+      },
+      {
+        "name": "Tom McCall",
+        "party_raw": "Republican",
+        "start": "1967-01-09",
+        "end": "1975-01-13",
+        "acting": false
+      },
+      {
+        "name": "Robert W. Straub",
+        "party_raw": "Democratic",
+        "start": "1975-01-13",
+        "end": "1979-01-08",
+        "acting": false
+      },
+      {
+        "name": "Victor Atiyeh",
+        "party_raw": "Republican",
+        "start": "1979-01-08",
+        "end": "1987-01-12",
+        "acting": false
+      },
+      {
+        "name": "Neil Goldschmidt",
+        "party_raw": "Democratic",
+        "start": "1987-01-12",
+        "end": "1991-01-14",
+        "acting": false
+      },
+      {
+        "name": "Barbara Roberts",
+        "party_raw": "Democratic",
+        "start": "1991-01-14",
+        "end": "1995-01-09",
+        "acting": false
+      },
+      {
+        "name": "John Kitzhaber",
+        "party_raw": "Democratic",
+        "start": "1995-01-09",
+        "end": "2003-01-13",
+        "acting": false
+      },
+      {
+        "name": "Ted Kulongoski",
+        "party_raw": "Democratic",
+        "start": "2003-01-13",
+        "end": "2011-01-10",
+        "acting": false
+      },
+      {
+        "name": "John Kitzhaber",
+        "party_raw": "Democratic",
+        "start": "2011-01-10",
+        "end": "2015-02-18",
+        "acting": false
+      },
+      {
+        "name": "Kate Brown",
+        "party_raw": "Democratic",
+        "start": "2015-02-18",
+        "end": "2023-01-09",
+        "acting": false
+      },
+      {
+        "name": "Tina Kotek",
+        "party_raw": "Democratic",
+        "start": "2023-01-09",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "John Whiteaker took office under the state constitution on 1858-07-08, before formal admission on 1859-02-14; his start is clipped to the admission date 1859-02-14. George Law Curry (territorial) is excluded."
+    ]
+  },
+  "PA": {
+    "state_name": "Pennsylvania",
+    "admitted": "1787-12-12",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_Pennsylvania",
+    "terms": [
+      {
+        "name": "James Pollock",
+        "party_raw": "Whig",
+        "start": "1855-01-16",
+        "end": "1858-01-19",
+        "acting": false
+      },
+      {
+        "name": "William F. Packer",
+        "party_raw": "Democratic",
+        "start": "1858-01-19",
+        "end": "1861-01-15",
+        "acting": false
+      },
+      {
+        "name": "Andrew Gregg Curtin",
+        "party_raw": "Republican",
+        "start": "1861-01-15",
+        "end": "1867-01-15",
+        "acting": false
+      },
+      {
+        "name": "John W. Geary",
+        "party_raw": "Republican",
+        "start": "1867-01-15",
+        "end": "1873-01-21",
+        "acting": false
+      },
+      {
+        "name": "John F. Hartranft",
+        "party_raw": "Republican",
+        "start": "1873-01-21",
+        "end": "1879-01-21",
+        "acting": false
+      },
+      {
+        "name": "Henry M. Hoyt",
+        "party_raw": "Republican",
+        "start": "1879-01-21",
+        "end": "1883-01-16",
+        "acting": false
+      },
+      {
+        "name": "Robert E. Pattison",
+        "party_raw": "Democratic",
+        "start": "1883-01-16",
+        "end": "1887-01-18",
+        "acting": false
+      },
+      {
+        "name": "James A. Beaver",
+        "party_raw": "Republican",
+        "start": "1887-01-18",
+        "end": "1891-01-20",
+        "acting": false
+      },
+      {
+        "name": "Robert E. Pattison",
+        "party_raw": "Democratic",
+        "start": "1891-01-20",
+        "end": "1895-01-15",
+        "acting": false
+      },
+      {
+        "name": "Daniel H. Hastings",
+        "party_raw": "Republican",
+        "start": "1895-01-15",
+        "end": "1899-01-17",
+        "acting": false
+      },
+      {
+        "name": "William A. Stone",
+        "party_raw": "Republican",
+        "start": "1899-01-17",
+        "end": "1903-01-20",
+        "acting": false
+      },
+      {
+        "name": "Samuel W. Pennypacker",
+        "party_raw": "Republican",
+        "start": "1903-01-20",
+        "end": "1907-01-15",
+        "acting": false
+      },
+      {
+        "name": "Edwin Sydney Stuart",
+        "party_raw": "Republican",
+        "start": "1907-01-15",
+        "end": "1911-01-17",
+        "acting": false
+      },
+      {
+        "name": "John K. Tener",
+        "party_raw": "Republican",
+        "start": "1911-01-17",
+        "end": "1915-01-19",
+        "acting": false
+      },
+      {
+        "name": "Martin Grove Brumbaugh",
+        "party_raw": "Republican",
+        "start": "1915-01-19",
+        "end": "1919-01-21",
+        "acting": false
+      },
+      {
+        "name": "William Cameron Sproul",
+        "party_raw": "Republican",
+        "start": "1919-01-21",
+        "end": "1923-01-16",
+        "acting": false
+      },
+      {
+        "name": "Gifford Pinchot",
+        "party_raw": "Republican",
+        "start": "1923-01-16",
+        "end": "1927-01-18",
+        "acting": false
+      },
+      {
+        "name": "John Stuchell Fisher",
+        "party_raw": "Republican",
+        "start": "1927-01-18",
+        "end": "1931-01-20",
+        "acting": false
+      },
+      {
+        "name": "Gifford Pinchot",
+        "party_raw": "Republican",
+        "start": "1931-01-20",
+        "end": "1935-01-15",
+        "acting": false
+      },
+      {
+        "name": "George Howard Earle III",
+        "party_raw": "Democratic",
+        "start": "1935-01-15",
+        "end": "1939-01-17",
+        "acting": false
+      },
+      {
+        "name": "Arthur James",
+        "party_raw": "Republican",
+        "start": "1939-01-17",
+        "end": "1943-01-19",
+        "acting": false
+      },
+      {
+        "name": "Edward Martin",
+        "party_raw": "Republican",
+        "start": "1943-01-19",
+        "end": "1947-01-02",
+        "acting": false
+      },
+      {
+        "name": "John C. Bell Jr.",
+        "party_raw": "Republican",
+        "start": "1947-01-02",
+        "end": "1947-01-21",
+        "acting": false
+      },
+      {
+        "name": "James H. Duff",
+        "party_raw": "Republican",
+        "start": "1947-01-21",
+        "end": "1951-01-16",
+        "acting": false
+      },
+      {
+        "name": "John S. Fine",
+        "party_raw": "Republican",
+        "start": "1951-01-16",
+        "end": "1955-01-18",
+        "acting": false
+      },
+      {
+        "name": "George M. Leader",
+        "party_raw": "Democratic",
+        "start": "1955-01-18",
+        "end": "1959-01-20",
+        "acting": false
+      },
+      {
+        "name": "David L. Lawrence",
+        "party_raw": "Democratic",
+        "start": "1959-01-20",
+        "end": "1963-01-15",
+        "acting": false
+      },
+      {
+        "name": "William Scranton",
+        "party_raw": "Republican",
+        "start": "1963-01-15",
+        "end": "1967-01-17",
+        "acting": false
+      },
+      {
+        "name": "Raymond P. Shafer",
+        "party_raw": "Republican",
+        "start": "1967-01-17",
+        "end": "1971-01-19",
+        "acting": false
+      },
+      {
+        "name": "Milton Shapp",
+        "party_raw": "Democratic",
+        "start": "1971-01-19",
+        "end": "1979-01-16",
+        "acting": false
+      },
+      {
+        "name": "Dick Thornburgh",
+        "party_raw": "Republican",
+        "start": "1979-01-16",
+        "end": "1987-01-20",
+        "acting": false
+      },
+      {
+        "name": "Bob Casey Sr.",
+        "party_raw": "Democratic",
+        "start": "1987-01-20",
+        "end": "1995-01-17",
+        "acting": false
+      },
+      {
+        "name": "Tom Ridge",
+        "party_raw": "Republican",
+        "start": "1995-01-17",
+        "end": "2001-10-05",
+        "acting": false
+      },
+      {
+        "name": "Mark Schweiker",
+        "party_raw": "Republican",
+        "start": "2001-10-05",
+        "end": "2003-01-21",
+        "acting": false
+      },
+      {
+        "name": "Ed Rendell",
+        "party_raw": "Democratic",
+        "start": "2003-01-21",
+        "end": "2011-01-18",
+        "acting": false
+      },
+      {
+        "name": "Tom Corbett",
+        "party_raw": "Republican",
+        "start": "2011-01-18",
+        "end": "2015-01-20",
+        "acting": false
+      },
+      {
+        "name": "Tom Wolf",
+        "party_raw": "Democratic",
+        "start": "2015-01-20",
+        "end": "2023-01-17",
+        "acting": false
+      },
+      {
+        "name": "Josh Shapiro",
+        "party_raw": "Democratic",
+        "start": "2023-01-17",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "Robert E. Pattison and Gifford Pinchot served non-consecutive terms; each stint is a separate term."
+    ]
+  },
+  "RI": {
+    "state_name": "Rhode Island",
+    "admitted": "1790-05-29",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_Rhode_Island",
+    "terms": [
+      {
+        "name": "William W. Hoppin",
+        "party_raw": "Whig",
+        "start": "1854-05-02",
+        "end": "1857-05-26",
+        "acting": false
+      },
+      {
+        "name": "Elisha Dyer",
+        "party_raw": "Republican",
+        "start": "1857-05-26",
+        "end": "1859-05-31",
+        "acting": false
+      },
+      {
+        "name": "Thomas G. Turner",
+        "party_raw": "Republican",
+        "start": "1859-05-31",
+        "end": "1860-05-29",
+        "acting": false
+      },
+      {
+        "name": "William Sprague IV",
+        "party_raw": "Democratic",
+        "start": "1860-05-29",
+        "end": "1863-03-03",
+        "acting": false
+      },
+      {
+        "name": "William C. Cozzens",
+        "party_raw": "Democratic",
+        "start": "1863-03-03",
+        "end": "1863-05-26",
+        "acting": false
+      },
+      {
+        "name": "James Y. Smith",
+        "party_raw": "Republican",
+        "start": "1863-05-26",
+        "end": "1866-05-29",
+        "acting": false
+      },
+      {
+        "name": "Ambrose Burnside",
+        "party_raw": "Republican",
+        "start": "1866-05-29",
+        "end": "1869-05-25",
+        "acting": false
+      },
+      {
+        "name": "Seth Padelford",
+        "party_raw": "Republican",
+        "start": "1869-05-25",
+        "end": "1873-05-27",
+        "acting": false
+      },
+      {
+        "name": "Henry Howard",
+        "party_raw": "Republican",
+        "start": "1873-05-27",
+        "end": "1875-05-25",
+        "acting": false
+      },
+      {
+        "name": "Henry Lippitt",
+        "party_raw": "Republican",
+        "start": "1875-05-25",
+        "end": "1877-05-29",
+        "acting": false
+      },
+      {
+        "name": "Charles C. Van Zandt",
+        "party_raw": "Republican",
+        "start": "1877-05-29",
+        "end": "1880-05-25",
+        "acting": false
+      },
+      {
+        "name": "Alfred H. Littlefield",
+        "party_raw": "Republican",
+        "start": "1880-05-25",
+        "end": "1883-05-29",
+        "acting": false
+      },
+      {
+        "name": "Augustus O. Bourn",
+        "party_raw": "Republican",
+        "start": "1883-05-29",
+        "end": "1885-05-26",
+        "acting": false
+      },
+      {
+        "name": "George P. Wetmore",
+        "party_raw": "Republican",
+        "start": "1885-05-26",
+        "end": "1887-05-31",
+        "acting": false
+      },
+      {
+        "name": "John W. Davis",
+        "party_raw": "Democratic",
+        "start": "1887-05-31",
+        "end": "1888-05-29",
+        "acting": false
+      },
+      {
+        "name": "Royal C. Taft",
+        "party_raw": "Republican",
+        "start": "1888-05-29",
+        "end": "1889-05-28",
+        "acting": false
+      },
+      {
+        "name": "Herbert W. Ladd",
+        "party_raw": "Republican",
+        "start": "1889-05-28",
+        "end": "1890-05-27",
+        "acting": false
+      },
+      {
+        "name": "John W. Davis",
+        "party_raw": "Democratic",
+        "start": "1890-05-27",
+        "end": "1891-05-26",
+        "acting": false
+      },
+      {
+        "name": "Herbert W. Ladd",
+        "party_raw": "Republican",
+        "start": "1891-05-26",
+        "end": "1892-05-31",
+        "acting": false
+      },
+      {
+        "name": "Daniel Russell Brown",
+        "party_raw": "Republican",
+        "start": "1892-05-31",
+        "end": "1895-05-29",
+        "acting": false
+      },
+      {
+        "name": "Charles W. Lippitt",
+        "party_raw": "Republican",
+        "start": "1895-05-29",
+        "end": "1897-05-25",
+        "acting": false
+      },
+      {
+        "name": "Elisha Dyer Jr.",
+        "party_raw": "Republican",
+        "start": "1897-05-25",
+        "end": "1900-05-29",
+        "acting": false
+      },
+      {
+        "name": "William Gregory",
+        "party_raw": "Republican",
+        "start": "1900-05-29",
+        "end": "1901-12-16",
+        "acting": false
+      },
+      {
+        "name": "Charles D. Kimball",
+        "party_raw": "Republican",
+        "start": "1901-12-16",
+        "end": "1903-01-06",
+        "acting": false
+      },
+      {
+        "name": "Lucius F. C. Garvin",
+        "party_raw": "Democratic",
+        "start": "1903-01-06",
+        "end": "1905-01-03",
+        "acting": false
+      },
+      {
+        "name": "George H. Utter",
+        "party_raw": "Republican",
+        "start": "1905-01-03",
+        "end": "1907-01-01",
+        "acting": false
+      },
+      {
+        "name": "James H. Higgins",
+        "party_raw": "Democratic",
+        "start": "1907-01-01",
+        "end": "1909-01-05",
+        "acting": false
+      },
+      {
+        "name": "Aram J. Pothier",
+        "party_raw": "Republican",
+        "start": "1909-01-05",
+        "end": "1915-01-05",
+        "acting": false
+      },
+      {
+        "name": "Robert Livingston Beeckman",
+        "party_raw": "Republican",
+        "start": "1915-01-05",
+        "end": "1921-01-04",
+        "acting": false
+      },
+      {
+        "name": "Emery J. San Souci",
+        "party_raw": "Republican",
+        "start": "1921-01-04",
+        "end": "1923-01-02",
+        "acting": false
+      },
+      {
+        "name": "William S. Flynn",
+        "party_raw": "Democratic",
+        "start": "1923-01-02",
+        "end": "1925-01-06",
+        "acting": false
+      },
+      {
+        "name": "Aram J. Pothier",
+        "party_raw": "Republican",
+        "start": "1925-01-06",
+        "end": "1928-02-04",
+        "acting": false
+      },
+      {
+        "name": "Norman S. Case",
+        "party_raw": "Republican",
+        "start": "1928-02-04",
+        "end": "1933-01-03",
+        "acting": false
+      },
+      {
+        "name": "Theodore F. Green",
+        "party_raw": "Democratic",
+        "start": "1933-01-03",
+        "end": "1937-01-05",
+        "acting": false
+      },
+      {
+        "name": "Robert E. Quinn",
+        "party_raw": "Democratic",
+        "start": "1937-01-05",
+        "end": "1939-01-03",
+        "acting": false
+      },
+      {
+        "name": "William Henry Vanderbilt III",
+        "party_raw": "Republican",
+        "start": "1939-01-03",
+        "end": "1941-01-07",
+        "acting": false
+      },
+      {
+        "name": "J. Howard McGrath",
+        "party_raw": "Democratic",
+        "start": "1941-01-07",
+        "end": "1945-10-06",
+        "acting": false
+      },
+      {
+        "name": "John Pastore",
+        "party_raw": "Democratic",
+        "start": "1945-10-06",
+        "end": "1950-12-19",
+        "acting": false
+      },
+      {
+        "name": "John S. McKiernan",
+        "party_raw": "Democratic",
+        "start": "1950-12-19",
+        "end": "1951-01-02",
+        "acting": false
+      },
+      {
+        "name": "Dennis J. Roberts",
+        "party_raw": "Democratic",
+        "start": "1951-01-02",
+        "end": "1959-01-06",
+        "acting": false
+      },
+      {
+        "name": "Christopher Del Sesto",
+        "party_raw": "Republican",
+        "start": "1959-01-06",
+        "end": "1961-01-03",
+        "acting": false
+      },
+      {
+        "name": "John A. Notte Jr.",
+        "party_raw": "Democratic",
+        "start": "1961-01-03",
+        "end": "1963-01-01",
+        "acting": false
+      },
+      {
+        "name": "John Chafee",
+        "party_raw": "Republican",
+        "start": "1963-01-01",
+        "end": "1969-01-07",
+        "acting": false
+      },
+      {
+        "name": "Frank Licht",
+        "party_raw": "Democratic",
+        "start": "1969-01-07",
+        "end": "1973-01-02",
+        "acting": false
+      },
+      {
+        "name": "Philip Noel",
+        "party_raw": "Democratic",
+        "start": "1973-01-02",
+        "end": "1977-01-04",
+        "acting": false
+      },
+      {
+        "name": "J. Joseph Garrahy",
+        "party_raw": "Democratic",
+        "start": "1977-01-04",
+        "end": "1985-01-01",
+        "acting": false
+      },
+      {
+        "name": "Edward D. DiPrete",
+        "party_raw": "Republican",
+        "start": "1985-01-01",
+        "end": "1991-01-01",
+        "acting": false
+      },
+      {
+        "name": "Bruce Sundlun",
+        "party_raw": "Democratic",
+        "start": "1991-01-01",
+        "end": "1995-01-03",
+        "acting": false
+      },
+      {
+        "name": "Lincoln Almond",
+        "party_raw": "Republican",
+        "start": "1995-01-03",
+        "end": "2003-01-07",
+        "acting": false
+      },
+      {
+        "name": "Donald Carcieri",
+        "party_raw": "Republican",
+        "start": "2003-01-07",
+        "end": "2011-01-04",
+        "acting": false
+      },
+      {
+        "name": "Lincoln Chafee",
+        "party_raw": "Independent",
+        "start": "2011-01-04",
+        "end": "2015-01-06",
+        "acting": false
+      },
+      {
+        "name": "Gina Raimondo",
+        "party_raw": "Democratic",
+        "start": "2015-01-06",
+        "end": "2021-03-02",
+        "acting": false
+      },
+      {
+        "name": "Dan McKee",
+        "party_raw": "Democratic",
+        "start": "2021-03-02",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "William W. Hoppin (in office on 1856-01-01) is labeled 'Whig' on Wikipedia; a footnote says other sources call him Whig/Maine Law (1854), Whig/American (1855), Republican/American (1856). Used Wikipedia's 'Whig'.",
+      "Helena Foulkes (Democratic) is listed as governor-elect taking office 2027-01-05; excluded."
+    ]
+  },
+  "SC": {
+    "state_name": "South Carolina",
+    "admitted": "1788-05-23",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_South_Carolina",
+    "terms": [
+      {
+        "name": "James Hopkins Adams",
+        "party_raw": "Democratic",
+        "start": "1854-12-13",
+        "end": "1856-12-11",
+        "acting": false
+      },
+      {
+        "name": "Robert Francis Withers Allston",
+        "party_raw": "Democratic",
+        "start": "1856-12-11",
+        "end": "1858-12-13",
+        "acting": false
+      },
+      {
+        "name": "William Henry Gist",
+        "party_raw": "Democratic",
+        "start": "1858-12-13",
+        "end": "1860-12-17",
+        "acting": false
+      },
+      {
+        "name": "Francis Wilkinson Pickens",
+        "party_raw": "Democratic",
+        "start": "1860-12-17",
+        "end": "1862-12-18",
+        "acting": false
+      },
+      {
+        "name": "Milledge Luke Bonham",
+        "party_raw": "Democratic",
+        "start": "1862-12-18",
+        "end": "1864-12-19",
+        "acting": false
+      },
+      {
+        "name": "Andrew Gordon Magrath",
+        "party_raw": "Democratic",
+        "start": "1864-12-19",
+        "end": "1865-05-28",
+        "acting": false
+      },
+      {
+        "name": "(vacant)",
+        "party_raw": "None",
+        "start": "1865-05-28",
+        "end": "1865-06-30",
+        "acting": false
+      },
+      {
+        "name": "Benjamin Franklin Perry",
+        "party_raw": "None",
+        "start": "1865-06-30",
+        "end": "1865-11-29",
+        "acting": false
+      },
+      {
+        "name": "James Lawrence Orr",
+        "party_raw": "Democratic",
+        "start": "1865-11-29",
+        "end": "1868-07-09",
+        "acting": false
+      },
+      {
+        "name": "Robert Kingston Scott",
+        "party_raw": "Republican",
+        "start": "1868-07-09",
+        "end": "1872-12-03",
+        "acting": false
+      },
+      {
+        "name": "Franklin J. Moses Jr.",
+        "party_raw": "Republican",
+        "start": "1872-12-03",
+        "end": "1874-12-01",
+        "acting": false
+      },
+      {
+        "name": "Daniel Henry Chamberlain",
+        "party_raw": "Republican",
+        "start": "1874-12-01",
+        "end": "1877-04-11",
+        "acting": false
+      },
+      {
+        "name": "Wade Hampton III",
+        "party_raw": "Democratic",
+        "start": "1877-04-11",
+        "end": "1879-02-26",
+        "acting": false
+      },
+      {
+        "name": "William Dunlap Simpson",
+        "party_raw": "Democratic",
+        "start": "1879-02-26",
+        "end": "1880-09-01",
+        "acting": false
+      },
+      {
+        "name": "Thomas Bothwell Jeter",
+        "party_raw": "Democratic",
+        "start": "1880-09-01",
+        "end": "1880-11-30",
+        "acting": false
+      },
+      {
+        "name": "Johnson Hagood",
+        "party_raw": "Democratic",
+        "start": "1880-11-30",
+        "end": "1882-12-05",
+        "acting": false
+      },
+      {
+        "name": "Hugh Smith Thompson",
+        "party_raw": "Democratic",
+        "start": "1882-12-05",
+        "end": "1886-07-10",
+        "acting": false
+      },
+      {
+        "name": "John Calhoun Sheppard",
+        "party_raw": "Democratic",
+        "start": "1886-07-10",
+        "end": "1886-11-30",
+        "acting": false
+      },
+      {
+        "name": "John Peter Richardson III",
+        "party_raw": "Democratic",
+        "start": "1886-11-30",
+        "end": "1890-12-04",
+        "acting": false
+      },
+      {
+        "name": "Benjamin Tillman",
+        "party_raw": "Democratic",
+        "start": "1890-12-04",
+        "end": "1894-12-04",
+        "acting": false
+      },
+      {
+        "name": "John Gary Evans",
+        "party_raw": "Democratic",
+        "start": "1894-12-04",
+        "end": "1897-01-18",
+        "acting": false
+      },
+      {
+        "name": "William Haselden Ellerbe",
+        "party_raw": "Democratic",
+        "start": "1897-01-18",
+        "end": "1899-06-02",
+        "acting": false
+      },
+      {
+        "name": "Miles Benjamin McSweeney",
+        "party_raw": "Democratic",
+        "start": "1899-06-02",
+        "end": "1903-01-21",
+        "acting": false
+      },
+      {
+        "name": "Duncan Clinch Heyward",
+        "party_raw": "Democratic",
+        "start": "1903-01-21",
+        "end": "1907-01-15",
+        "acting": false
+      },
+      {
+        "name": "Martin Frederick Ansel",
+        "party_raw": "Democratic",
+        "start": "1907-01-15",
+        "end": "1911-01-17",
+        "acting": false
+      },
+      {
+        "name": "Cole L. Blease",
+        "party_raw": "Democratic",
+        "start": "1911-01-17",
+        "end": "1915-01-14",
+        "acting": false
+      },
+      {
+        "name": "Charles Aurelius Smith",
+        "party_raw": "Democratic",
+        "start": "1915-01-14",
+        "end": "1915-01-19",
+        "acting": false
+      },
+      {
+        "name": "Richard Irvine Manning III",
+        "party_raw": "Democratic",
+        "start": "1915-01-19",
+        "end": "1919-01-21",
+        "acting": false
+      },
+      {
+        "name": "Robert Archer Cooper",
+        "party_raw": "Democratic",
+        "start": "1919-01-21",
+        "end": "1922-05-20",
+        "acting": false
+      },
+      {
+        "name": "Wilson Godfrey Harvey",
+        "party_raw": "Democratic",
+        "start": "1922-05-20",
+        "end": "1923-01-16",
+        "acting": false
+      },
+      {
+        "name": "Thomas Gordon McLeod",
+        "party_raw": "Democratic",
+        "start": "1923-01-16",
+        "end": "1927-01-18",
+        "acting": false
+      },
+      {
+        "name": "John Gardiner Richards Jr.",
+        "party_raw": "Democratic",
+        "start": "1927-01-18",
+        "end": "1931-01-20",
+        "acting": false
+      },
+      {
+        "name": "Ibra Charles Blackwood",
+        "party_raw": "Democratic",
+        "start": "1931-01-20",
+        "end": "1935-01-15",
+        "acting": false
+      },
+      {
+        "name": "Olin D. Johnston",
+        "party_raw": "Democratic",
+        "start": "1935-01-15",
+        "end": "1939-01-17",
+        "acting": false
+      },
+      {
+        "name": "Burnet R. Maybank",
+        "party_raw": "Democratic",
+        "start": "1939-01-17",
+        "end": "1941-11-04",
+        "acting": false
+      },
+      {
+        "name": "Joseph Emile Harley",
+        "party_raw": "Democratic",
+        "start": "1941-11-04",
+        "end": "1942-02-27",
+        "acting": false
+      },
+      {
+        "name": "(vacant)",
+        "party_raw": "None",
+        "start": "1942-02-27",
+        "end": "1942-03-02",
+        "acting": false
+      },
+      {
+        "name": "Richard Manning Jefferies",
+        "party_raw": "Democratic",
+        "start": "1942-03-02",
+        "end": "1943-01-19",
+        "acting": false
+      },
+      {
+        "name": "Olin D. Johnston",
+        "party_raw": "Democratic",
+        "start": "1943-01-19",
+        "end": "1945-01-02",
+        "acting": false
+      },
+      {
+        "name": "Ransome Judson Williams",
+        "party_raw": "Democratic",
+        "start": "1945-01-02",
+        "end": "1947-01-21",
+        "acting": false
+      },
+      {
+        "name": "Strom Thurmond",
+        "party_raw": "Democratic",
+        "start": "1947-01-21",
+        "end": "1951-01-16",
+        "acting": false
+      },
+      {
+        "name": "James F. Byrnes",
+        "party_raw": "Democratic",
+        "start": "1951-01-16",
+        "end": "1955-01-18",
+        "acting": false
+      },
+      {
+        "name": "George Bell Timmerman Jr.",
+        "party_raw": "Democratic",
+        "start": "1955-01-18",
+        "end": "1959-01-20",
+        "acting": false
+      },
+      {
+        "name": "Fritz Hollings",
+        "party_raw": "Democratic",
+        "start": "1959-01-20",
+        "end": "1963-01-15",
+        "acting": false
+      },
+      {
+        "name": "Donald S. Russell",
+        "party_raw": "Democratic",
+        "start": "1963-01-15",
+        "end": "1965-04-22",
+        "acting": false
+      },
+      {
+        "name": "Robert Evander McNair",
+        "party_raw": "Democratic",
+        "start": "1965-04-22",
+        "end": "1971-01-19",
+        "acting": false
+      },
+      {
+        "name": "John C. West",
+        "party_raw": "Democratic",
+        "start": "1971-01-19",
+        "end": "1975-01-15",
+        "acting": false
+      },
+      {
+        "name": "James B. Edwards",
+        "party_raw": "Republican",
+        "start": "1975-01-15",
+        "end": "1979-01-10",
+        "acting": false
+      },
+      {
+        "name": "Richard Riley",
+        "party_raw": "Democratic",
+        "start": "1979-01-10",
+        "end": "1987-01-14",
+        "acting": false
+      },
+      {
+        "name": "Carroll A. Campbell Jr.",
+        "party_raw": "Republican",
+        "start": "1987-01-14",
+        "end": "1995-01-11",
+        "acting": false
+      },
+      {
+        "name": "David Beasley",
+        "party_raw": "Republican",
+        "start": "1995-01-11",
+        "end": "1999-01-13",
+        "acting": false
+      },
+      {
+        "name": "Jim Hodges",
+        "party_raw": "Democratic",
+        "start": "1999-01-13",
+        "end": "2003-01-15",
+        "acting": false
+      },
+      {
+        "name": "Mark Sanford",
+        "party_raw": "Republican",
+        "start": "2003-01-15",
+        "end": "2011-01-12",
+        "acting": false
+      },
+      {
+        "name": "Nikki Haley",
+        "party_raw": "Republican",
+        "start": "2011-01-12",
+        "end": "2017-01-24",
+        "acting": false
+      },
+      {
+        "name": "Henry McMaster",
+        "party_raw": "Republican",
+        "start": "2017-01-24",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "James Hopkins Adams (in office on 1856-01-01) is the first term.",
+      "1865-05-28 to 1865-06-30: office vacant after Magrath was arrested by Union forces; Wikipedia lists a 'Vacant' row, recorded as (vacant).",
+      "Benjamin Franklin Perry (1865-06-30 to 1865-11-29) was a provisional governor appointed by President Johnson; Wikipedia gives no party (cell reads 'Provisional governor appointed by President', colored nonpartisan), so party_raw is 'None'.",
+      "Disputed 1876-77 government: Wikipedia lists Chamberlain (Republican) to 1877-04-11 and Wade Hampton III (Democratic) from 1876-12-14, overlapping. Chamberlain's government held the State House in Columbia (with federal troops) until the troops were withdrawn in April 1877, so Chamberlain is kept to 1877-04-11 and Hampton's start is set to 1877-04-11 (Wikipedia start 1876-12-14).",
+      "James Lawrence Orr (1865-11-29 to 1868-07-09): SC was under Second Military District oversight from 1867 under the Reconstruction Acts, but Wikipedia lists Orr as governor continuously until Scott took office, so no separate military-rule term was added.",
+      "1942-02-27 to 1942-03-02: vacant after Harley's death while Jefferies delayed taking the oath; Wikipedia lists a 'Vacant' row, recorded as (vacant).",
+      "Henry McMaster is term-limited; no governor-elect row was present in the wikitext at download time, and the 2026 winner takes office in 2027 anyway."
+    ]
+  },
+  "SD": {
+    "state_name": "South Dakota",
+    "admitted": "1889-11-02",
+    "source": "https://en.wikipedia.org/wiki/List_of_governors_of_South_Dakota",
+    "terms": [
+      {
+        "name": "Arthur C. Mellette",
+        "party_raw": "Republican",
+        "start": "1889-11-02",
+        "end": "1893-01-03",
+        "acting": false
+      },
+      {
+        "name": "Charles H. Sheldon",
+        "party_raw": "Republican",
+        "start": "1893-01-03",
+        "end": "1897-01-05",
+        "acting": false
+      },
+      {
+        "name": "Andrew E. Lee",
+        "party_raw": "Populist",
+        "start": "1897-01-05",
+        "end": "1901-01-08",
+        "acting": false
+      },
+      {
+        "name": "Charles N. Herreid",
+        "party_raw": "Republican",
+        "start": "1901-01-08",
+        "end": "1905-01-03",
+        "acting": false
+      },
+      {
+        "name": "Samuel H. Elrod",
+        "party_raw": "Republican",
+        "start": "1905-01-03",
+        "end": "1907-01-08",
+        "acting": false
+      },
+      {
+        "name": "Coe I. Crawford",
+        "party_raw": "Republican",
+        "start": "1907-01-08",
+        "end": "1909-01-05",
+        "acting": false
+      },
+      {
+        "name": "Robert S. Vessey",
+        "party_raw": "Republican",
+        "start": "1909-01-05",
+        "end": "1913-01-07",
+        "acting": false
+      },
+      {
+        "name": "Frank M. Byrne",
+        "party_raw": "Republican",
+        "start": "1913-01-07",
+        "end": "1917-01-02",
+        "acting": false
+      },
+      {
+        "name": "Peter Norbeck",
+        "party_raw": "Republican",
+        "start": "1917-01-02",
+        "end": "1921-01-04",
+        "acting": false
+      },
+      {
+        "name": "William H. McMaster",
+        "party_raw": "Republican",
+        "start": "1921-01-04",
+        "end": "1925-01-06",
+        "acting": false
+      },
+      {
+        "name": "Carl Gunderson",
+        "party_raw": "Republican",
+        "start": "1925-01-06",
+        "end": "1927-01-03",
+        "acting": false
+      },
+      {
+        "name": "William J. Bulow",
+        "party_raw": "Democratic",
+        "start": "1927-01-03",
+        "end": "1931-01-06",
+        "acting": false
+      },
+      {
+        "name": "Warren Green",
+        "party_raw": "Republican",
+        "start": "1931-01-06",
+        "end": "1933-01-03",
+        "acting": false
+      },
+      {
+        "name": "Tom Berry",
+        "party_raw": "Democratic",
+        "start": "1933-01-03",
+        "end": "1937-01-05",
+        "acting": false
+      },
+      {
+        "name": "Leslie Jensen",
+        "party_raw": "Republican",
+        "start": "1937-01-05",
+        "end": "1939-01-03",
+        "acting": false
+      },
+      {
+        "name": "Harlan J. Bushfield",
+        "party_raw": "Republican",
+        "start": "1939-01-03",
+        "end": "1943-01-05",
+        "acting": false
+      },
+      {
+        "name": "Merrell Q. Sharpe",
+        "party_raw": "Republican",
+        "start": "1943-01-05",
+        "end": "1947-01-07",
+        "acting": false
+      },
+      {
+        "name": "George T. Mickelson",
+        "party_raw": "Republican",
+        "start": "1947-01-07",
+        "end": "1951-01-02",
+        "acting": false
+      },
+      {
+        "name": "Sigurd Anderson",
+        "party_raw": "Republican",
+        "start": "1951-01-02",
+        "end": "1955-01-04",
+        "acting": false
+      },
+      {
+        "name": "Joe Foss",
+        "party_raw": "Republican",
+        "start": "1955-01-04",
+        "end": "1959-01-06",
+        "acting": false
+      },
+      {
+        "name": "Ralph Herseth",
+        "party_raw": "Democratic",
+        "start": "1959-01-06",
+        "end": "1961-01-03",
+        "acting": false
+      },
+      {
+        "name": "Archie M. Gubbrud",
+        "party_raw": "Republican",
+        "start": "1961-01-03",
+        "end": "1965-01-05",
+        "acting": false
+      },
+      {
+        "name": "Nils Boe",
+        "party_raw": "Republican",
+        "start": "1965-01-05",
+        "end": "1969-01-07",
+        "acting": false
+      },
+      {
+        "name": "Frank Farrar",
+        "party_raw": "Republican",
+        "start": "1969-01-07",
+        "end": "1971-01-05",
+        "acting": false
+      },
+      {
+        "name": "Richard F. Kneip",
+        "party_raw": "Democratic",
+        "start": "1971-01-05",
+        "end": "1978-07-24",
+        "acting": false
+      },
+      {
+        "name": "Harvey Wollman",
+        "party_raw": "Democratic",
+        "start": "1978-07-24",
+        "end": "1979-01-01",
+        "acting": false
+      },
+      {
+        "name": "Bill Janklow",
+        "party_raw": "Republican",
+        "start": "1979-01-01",
+        "end": "1987-01-10",
+        "acting": false
+      },
+      {
+        "name": "George S. Mickelson",
+        "party_raw": "Republican",
+        "start": "1987-01-10",
+        "end": "1993-04-19",
+        "acting": false
+      },
+      {
+        "name": "Walter Dale Miller",
+        "party_raw": "Republican",
+        "start": "1993-04-19",
+        "end": "1995-01-07",
+        "acting": false
+      },
+      {
+        "name": "Bill Janklow",
+        "party_raw": "Republican",
+        "start": "1995-01-07",
+        "end": "2003-01-07",
+        "acting": false
+      },
+      {
+        "name": "Mike Rounds",
+        "party_raw": "Republican",
+        "start": "2003-01-07",
+        "end": "2011-01-08",
+        "acting": false
+      },
+      {
+        "name": "Dennis Daugaard",
+        "party_raw": "Republican",
+        "start": "2011-01-08",
+        "end": "2019-01-05",
+        "acting": false
+      },
+      {
+        "name": "Kristi Noem",
+        "party_raw": "Republican",
+        "start": "2019-01-05",
+        "end": "2025-01-25",
+        "acting": false
+      },
+      {
+        "name": "Larry Rhoden",
+        "party_raw": "Republican",
+        "start": "2025-01-25",
+        "end": null,
+        "acting": false
+      }
+    ],
+    "notes": [
+      "Larry Rhoden succeeded Kristi Noem on 2025-01-25."
+    ]
+  }
+}

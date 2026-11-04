@@ -1,0 +1,1066 @@
+[
+ {
+  "table": 1,
+  "name": "William Gilpin",
+  "term_raw": "March 25, 1861 – March 26, 1862 {{small|(367 days; replaced)}}",
+  "dates": [
+   [
+    "1861-03-25",
+    "day"
+   ],
+   [
+    "1862-03-26",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Abraham|Lincoln}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "William Gilpin {{Small|(1813–1894)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Evans",
+  "term_raw": "March 26, 1862 – October 17, 1865 {{small|(1302 days; resigned)}}",
+  "dates": [
+   [
+    "1862-03-26",
+    "day"
+   ],
+   [
+    "1865-10-17",
+    "day"
+   ],
+   [
+    "1302-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Abraham|Lincoln}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Evans {{Small|(1814–1897)}}"
+ },
+ {
+  "table": 1,
+  "name": "Alexander Cummings",
+  "term_raw": "October 17, 1865 – May 8, 1867 {{small|(569 days; resigned)}}",
+  "dates": [
+   [
+    "1865-10-17",
+    "day"
+   ],
+   [
+    "1867-05-08",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Andrew|Johnson}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Alexander Cummings {{Small|(1810–1879)}}"
+ },
+ {
+  "table": 1,
+  "name": "Alexander Cameron Hunt",
+  "term_raw": "May 8, 1867 – April 19, 1869 {{small|(713 days; replaced)}}",
+  "dates": [
+   [
+    "1867-05-08",
+    "day"
+   ],
+   [
+    "1869-04-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Andrew|Johnson}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Alexander Cameron Hunt {{Small|(1825–1894)}}"
+ },
+ {
+  "table": 1,
+  "name": "Edward M. McCook",
+  "term_raw": "April 19, 1869 – April 17, 1873 {{small|(1460 days; replaced)}}",
+  "dates": [
+   [
+    "1869-04-19",
+    "day"
+   ],
+   [
+    "1873-04-17",
+    "day"
+   ],
+   [
+    "1460-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "{{sortname|Ulysses S.|Grant}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Edward M. McCook {{Small|(1833–1909)}}"
+ },
+ {
+  "table": 1,
+  "name": "Samuel Hitt Elbert",
+  "term_raw": "April 17, 1873 – June 19, 1874 {{small|(429 days; replaced)}}",
+  "dates": [
+   [
+    "1873-04-17",
+    "day"
+   ],
+   [
+    "1874-06-19",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Ulysses S.|Grant}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Samuel Hitt Elbert {{Small|(1833–1899)}}"
+ },
+ {
+  "table": 1,
+  "name": "Edward M. McCook",
+  "term_raw": "June 19, 1874 – February 8, 1875 {{small|(235 days; replaced)}}",
+  "dates": [
+   [
+    "1874-06-19",
+    "day"
+   ],
+   [
+    "1875-02-08",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Ulysses S.|Grant}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Edward M. McCook {{Small|(1833–1909)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Long Routt",
+  "term_raw": "February 8, 1875 – November 3, 1876 {{small|(635 days; elected state governor)}}",
+  "dates": [
+   [
+    "1875-02-08",
+    "day"
+   ],
+   [
+    "1876-11-03",
+    "day"
+   ]
+  ],
+  "party_raw": "{{sortname|Ulysses S.|Grant}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Long Routt {{Small|(1826–1907)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Long Routt",
+  "term_raw": "November 3, 1876 – January 14, 1879 {{small|(803 days; retired)}}",
+  "dates": [
+   [
+    "1876-11-03",
+    "day"
+   ],
+   [
+    "1879-01-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1876",
+  "name_cell": "John Long Routt {{Small|(1826–1907)}}"
+ },
+ {
+  "table": 2,
+  "name": "Frederick Walker Pitkin",
+  "term_raw": "January 14, 1879 – January 9, 1883 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1879-01-14",
+    "day"
+   ],
+   [
+    "1883-01-09",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1878",
+  "name_cell": "Frederick Walker Pitkin {{Small|(1837–1886)}}"
+ },
+ {
+  "table": 2,
+  "name": "James Benton Grant",
+  "term_raw": "January 9, 1883 – January 13, 1885 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1883-01-09",
+    "day"
+   ],
+   [
+    "1885-01-13",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1882",
+  "name_cell": "James Benton Grant {{Small|(1848–1911)}}"
+ },
+ {
+  "table": 2,
+  "name": "Benjamin Harrison Eaton",
+  "term_raw": "January 13, 1885 – January 11, 1887 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1885-01-13",
+    "day"
+   ],
+   [
+    "1887-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1884",
+  "name_cell": "Benjamin Harrison Eaton {{Small|(1833–1904)}}"
+ },
+ {
+  "table": 2,
+  "name": "Alva Adams",
+  "term_raw": "January 11, 1887 – January 8, 1889 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1887-01-11",
+    "day"
+   ],
+   [
+    "1889-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1886",
+  "name_cell": "Alva Adams {{Small|(1850–1922)}}"
+ },
+ {
+  "table": 2,
+  "name": "Job Adams Cooper",
+  "term_raw": "January 8, 1889 – January 13, 1891 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1889-01-08",
+    "day"
+   ],
+   [
+    "1891-01-13",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1888",
+  "name_cell": "Job Adams Cooper {{Small|(1843–1899)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Long Routt",
+  "term_raw": "January 13, 1891 – January 10, 1893 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1891-01-13",
+    "day"
+   ],
+   [
+    "1893-01-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1890",
+  "name_cell": "John Long Routt {{Small|(1826–1907)}}"
+ },
+ {
+  "table": 2,
+  "name": "Davis Hanson Waite",
+  "term_raw": "January 10, 1893 – January 8, 1895 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1893-01-10",
+    "day"
+   ],
+   [
+    "1895-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "People's",
+  "acting_hint": false,
+  "succ_raw": "1892",
+  "name_cell": "Davis Hanson Waite {{Small|(1825–1901)}}"
+ },
+ {
+  "table": 2,
+  "name": "Albert McIntire",
+  "term_raw": "January 8, 1895 – January 12, 1897 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1895-01-08",
+    "day"
+   ],
+   [
+    "1897-01-12",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1894",
+  "name_cell": "Albert McIntire {{Small|(1853–1935)}}"
+ },
+ {
+  "table": 2,
+  "name": "Alva Adams",
+  "term_raw": "January 12, 1897 – January 10, 1899 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1897-01-12",
+    "day"
+   ],
+   [
+    "1899-01-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1896",
+  "name_cell": "Alva Adams {{Small|(1850–1922)}}"
+ },
+ {
+  "table": 2,
+  "name": "Charles S. Thomas",
+  "term_raw": "January 10, 1899 – January 8, 1901 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1899-01-10",
+    "day"
+   ],
+   [
+    "1901-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1898",
+  "name_cell": "Charles S. Thomas {{Small|(1849–1934)}}"
+ },
+ {
+  "table": 2,
+  "name": "James Bradley Orman",
+  "term_raw": "January 8, 1901 – January 13, 1903 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1901-01-08",
+    "day"
+   ],
+   [
+    "1903-01-13",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1900",
+  "name_cell": "James Bradley Orman {{Small|(1849–1919)}}"
+ },
+ {
+  "table": 2,
+  "name": "James Hamilton Peabody",
+  "term_raw": "January 13, 1903 – January 10, 1905 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1903-01-13",
+    "day"
+   ],
+   [
+    "1905-01-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1902",
+  "name_cell": "James Hamilton Peabody {{Small|(1852–1917)}}"
+ },
+ {
+  "table": 2,
+  "name": "Alva Adams",
+  "term_raw": "January 10, 1905 – March 16, 1905 {{small|(66 days; lost election)}}",
+  "dates": [
+   [
+    "1905-01-10",
+    "day"
+   ],
+   [
+    "1905-03-16",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1904",
+  "name_cell": "Alva Adams {{Small|(1850–1922)}}"
+ },
+ {
+  "table": 2,
+  "name": "James Hamilton Peabody",
+  "term_raw": "March 16, 1905 – March 17, 1905 {{small|(1 day; resigned)}}",
+  "dates": [
+   [
+    "1905-03-16",
+    "day"
+   ],
+   [
+    "1905-03-17",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "Republican Party (United States)}};\" title=\"Represented the Republican Party\"|",
+  "name_cell": "James Hamilton Peabody {{Small|(1852–1917)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jesse Fuller McDonald",
+  "term_raw": "March 17, 1905 – January 8, 1907 {{small|(663 days; retired)}}",
+  "dates": [
+   [
+    "1905-03-17",
+    "day"
+   ],
+   [
+    "1907-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Jesse Fuller McDonald {{Small|(1858–1942)}}"
+ },
+ {
+  "table": 2,
+  "name": "Henry Augustus Buchtel",
+  "term_raw": "January 8, 1907 – January 12, 1909 {{small|(736 days; retired)}}",
+  "dates": [
+   [
+    "1907-01-08",
+    "day"
+   ],
+   [
+    "1909-01-12",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1906",
+  "name_cell": "Henry Augustus Buchtel {{Small|(1847–1924)}}"
+ },
+ {
+  "table": 2,
+  "name": "John F. Shafroth",
+  "term_raw": "January 12, 1909 – January 14, 1913 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1909-01-12",
+    "day"
+   ],
+   [
+    "1913-01-14",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1908",
+  "name_cell": "John F. Shafroth {{Small|(1854–1922)}}"
+ },
+ {
+  "table": 2,
+  "name": "Elias M. Ammons",
+  "term_raw": "January 14, 1913 – January 12, 1915 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1913-01-14",
+    "day"
+   ],
+   [
+    "1915-01-12",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1912",
+  "name_cell": "Elias M. Ammons {{Small|(1860–1925)}}"
+ },
+ {
+  "table": 2,
+  "name": "George Alfred Carlson",
+  "term_raw": "January 12, 1915 – January 9, 1917 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1915-01-12",
+    "day"
+   ],
+   [
+    "1917-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1914",
+  "name_cell": "George Alfred Carlson {{Small|(1876–1926)}}"
+ },
+ {
+  "table": 2,
+  "name": "Julius Caldeen Gunter",
+  "term_raw": "January 9, 1917 – January 14, 1919 {{small|(736 days; lost nomination)}}",
+  "dates": [
+   [
+    "1917-01-09",
+    "day"
+   ],
+   [
+    "1919-01-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1916",
+  "name_cell": "Julius Caldeen Gunter {{Small|(1858–1940)}}"
+ },
+ {
+  "table": 2,
+  "name": "Oliver Henry Shoup",
+  "term_raw": "January 14, 1919 – January 9, 1923 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1919-01-14",
+    "day"
+   ],
+   [
+    "1923-01-09",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1918",
+  "name_cell": "Oliver Henry Shoup {{Small|(1869–1940)}}"
+ },
+ {
+  "table": 2,
+  "name": "William Ellery Sweet",
+  "term_raw": "January 9, 1923 – January 13, 1925 {{small|(736 days; lost election)}}",
+  "dates": [
+   [
+    "1923-01-09",
+    "day"
+   ],
+   [
+    "1925-01-13",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1922",
+  "name_cell": "William Ellery Sweet {{Small|(1869–1942)}}"
+ },
+ {
+  "table": 2,
+  "name": "Clarence Morley",
+  "term_raw": "January 13, 1925 – January 11, 1927 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1925-01-13",
+    "day"
+   ],
+   [
+    "1927-01-11",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1924",
+  "name_cell": "Clarence Morley {{Small|(1869–1948)}}"
+ },
+ {
+  "table": 2,
+  "name": "Billy Adams",
+  "term_raw": "January 11, 1927 – January 10, 1933 {{small|(2192 days; retired)}}",
+  "dates": [
+   [
+    "1927-01-11",
+    "day"
+   ],
+   [
+    "1933-01-10",
+    "day"
+   ],
+   [
+    "2192-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1926",
+  "name_cell": "Billy Adams {{Small|(1861–1954)}}"
+ },
+ {
+  "table": 2,
+  "name": "Edwin C. Johnson",
+  "term_raw": "January 10, 1933 – January 2, 1937 {{small|(1454 days; resigned)}}",
+  "dates": [
+   [
+    "1933-01-10",
+    "day"
+   ],
+   [
+    "1937-01-02",
+    "day"
+   ],
+   [
+    "1454-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1932",
+  "name_cell": "Edwin C. Johnson {{Small|(1884–1970)}}"
+ },
+ {
+  "table": 2,
+  "name": "Ray Herbert Talbot",
+  "term_raw": "January 2, 1937 – January 12, 1937 {{small|(11 days; retired)}}",
+  "dates": [
+   [
+    "1937-01-02",
+    "day"
+   ],
+   [
+    "1937-01-12",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Ray Herbert Talbot {{Small|(1896–1955)}}"
+ },
+ {
+  "table": 2,
+  "name": "Teller Ammons",
+  "term_raw": "January 12, 1937 – January 10, 1939 {{small|(729 days; lost election)}}",
+  "dates": [
+   [
+    "1937-01-12",
+    "day"
+   ],
+   [
+    "1939-01-10",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1936",
+  "name_cell": "Teller Ammons {{Small|(1895–1972)}}"
+ },
+ {
+  "table": 2,
+  "name": "Ralph Lawrence Carr",
+  "term_raw": "January 10, 1939 – January 12, 1943 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1939-01-10",
+    "day"
+   ],
+   [
+    "1943-01-12",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1938",
+  "name_cell": "Ralph Lawrence Carr {{Small|(1887–1950)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Charles Vivian",
+  "term_raw": "January 12, 1943 – January 14, 1947 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1943-01-12",
+    "day"
+   ],
+   [
+    "1947-01-14",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1942",
+  "name_cell": "John Charles Vivian {{Small|(1887–1964)}}"
+ },
+ {
+  "table": 2,
+  "name": "William Lee Knous",
+  "term_raw": "January 14, 1947 – April 15, 1950 {{small|(1188 days; resigned)}}",
+  "dates": [
+   [
+    "1947-01-14",
+    "day"
+   ],
+   [
+    "1950-04-15",
+    "day"
+   ],
+   [
+    "1188-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1946",
+  "name_cell": "William Lee Knous {{Small|(1889–1959)}}"
+ },
+ {
+  "table": 2,
+  "name": "Walter Walford Johnson",
+  "term_raw": "April 15, 1950 – January 9, 1951 {{small|(270 days; lost election)}}",
+  "dates": [
+   [
+    "1950-04-15",
+    "day"
+   ],
+   [
+    "1951-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Walter Walford Johnson {{Small|(1904–1987)}}"
+ },
+ {
+  "table": 2,
+  "name": "Daniel I. J. Thornton",
+  "term_raw": "January 9, 1951 – January 11, 1955 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1951-01-09",
+    "day"
+   ],
+   [
+    "1955-01-11",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1950",
+  "name_cell": "Daniel I. J. Thornton {{Small|(1911–1976)}}"
+ },
+ {
+  "table": 2,
+  "name": "Edwin C. Johnson",
+  "term_raw": "January 11, 1955 – January 8, 1957 {{small|(729 days; retired)}}",
+  "dates": [
+   [
+    "1955-01-11",
+    "day"
+   ],
+   [
+    "1957-01-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1954",
+  "name_cell": "Edwin C. Johnson {{Small|(1884–1970)}}"
+ },
+ {
+  "table": 2,
+  "name": "Stephen McNichols",
+  "term_raw": "January 8, 1957 – January 8, 1963 {{small|(2192 days; lost election)}}",
+  "dates": [
+   [
+    "1957-01-08",
+    "day"
+   ],
+   [
+    "1963-01-08",
+    "day"
+   ],
+   [
+    "2192-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1956",
+  "name_cell": "Stephen McNichols {{Small|(1914–1997)}}"
+ },
+ {
+  "table": 2,
+  "name": "John A. Love",
+  "term_raw": "January 8, 1963 – July 16, 1973 {{small|(3843 days; resigned)}}",
+  "dates": [
+   [
+    "1963-01-08",
+    "day"
+   ],
+   [
+    "1973-07-16",
+    "day"
+   ],
+   [
+    "3843-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1962",
+  "name_cell": "John A. Love {{Small|(1916–2002)}}"
+ },
+ {
+  "table": 2,
+  "name": "John D. Vanderhoof",
+  "term_raw": "July 16, 1973 – January 14, 1975 {{small|(548 days; lost election)}}",
+  "dates": [
+   [
+    "1973-07-16",
+    "day"
+   ],
+   [
+    "1975-01-14",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "John D. Vanderhoof {{Small|(1922–2013)}}"
+ },
+ {
+  "table": 2,
+  "name": "Richard Lamm",
+  "term_raw": "January 14, 1975 – January 13, 1987 {{small|(4383 days; retired)}}",
+  "dates": [
+   [
+    "1975-01-14",
+    "day"
+   ],
+   [
+    "1987-01-13",
+    "day"
+   ],
+   [
+    "4383-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1974",
+  "name_cell": "Richard Lamm {{Small|(1935–2021)}}"
+ },
+ {
+  "table": 2,
+  "name": "Roy Romer",
+  "term_raw": "January 13, 1987 – January 12, 1999 {{small|(4383 days; term-limited)}}",
+  "dates": [
+   [
+    "1987-01-13",
+    "day"
+   ],
+   [
+    "1999-01-12",
+    "day"
+   ],
+   [
+    "4383-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1986",
+  "name_cell": "Roy Romer {{Small|({{Abbr|b.|born in}} 1928)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bill Owens",
+  "term_raw": "January 12, 1999 – January 9, 2007 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "1999-01-12",
+    "day"
+   ],
+   [
+    "2007-01-09",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1998",
+  "name_cell": "Bill Owens {{Small|({{Abbr|b.|born in}} 1950)}}"
+ },
+ {
+  "table": 2,
+  "name": "Bill Ritter",
+  "term_raw": "January 9, 2007 – January 11, 2011 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "2007-01-09",
+    "day"
+   ],
+   [
+    "2011-01-11",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2006",
+  "name_cell": "Bill Ritter {{Small|({{Abbr|b.|born in}} 1956)}}"
+ },
+ {
+  "table": 2,
+  "name": "John Hickenlooper",
+  "term_raw": "January 11, 2011 – January 8, 2019 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "2011-01-11",
+    "day"
+   ],
+   [
+    "2019-01-08",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2010",
+  "name_cell": "John Hickenlooper {{Small|({{Abbr|b.|born in}} 1952)}}"
+ },
+ {
+  "table": 2,
+  "name": "Jared Polis",
+  "term_raw": "2019|1|8|duration=on|format=no}}\"|January 8, 2019 – Incumbent {{small|(in office {{Duration in days nts|2019|1|8|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2019-01-01",
+    "year"
+   ],
+   [
+    "2019-01-08",
+    "day"
+   ],
+   [
+    "2019-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2018",
+  "name_cell": "Jared Polis {{Small|({{Abbr|b.|born in}} 1975)}}"
+ },
+ {
+  "table": 2,
+  "name": "Phil Weiser",
+  "term_raw": "2027|1|12|duration=on|format=no}}\"|Governor-elect takes office January 12, 2027",
+  "dates": [
+   [
+    "2027-01-01",
+    "year"
+   ],
+   [
+    "2027-01-12",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2026",
+  "name_cell": "Phil Weiser {{small|({{abbr|b.|born in}} 1968)}}"
+ }
+]

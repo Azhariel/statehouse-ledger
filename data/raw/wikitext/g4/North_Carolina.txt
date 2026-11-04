@@ -1,0 +1,794 @@
+{{Short description|List of heads of government in the state of North Carolina}}
+{{Use mdy dates|date=July 2023}}
+{{History of North Carolina}}
+The [[governor of North Carolina]] is the [[head of government]] of the [[U.S. state]] of [[North Carolina]] and commander-in-chief of the state's [[North Carolina National Guard|military forces]].
+
+There have been 70 governors of North Carolina, with six serving non-consecutive terms, totaling 76 terms. The current governor is Democrat [[Josh Stein]], who took office on January 1, 2025.
+
+== Governors ==
+
+=== Presidents of the Council ===
+Prior to declaring its independence, North Carolina was a [[Province of North Carolina|colony]] of the [[Kingdom of Great Britain]]. The 13-member Provincial Council, renamed the Council of Safety in April 1776, was essentially the executive authority during the second year of the revolution, and was appointed by the [[North Carolina Provincial Congress|Provincial Congress]]. The Presidency of the Council and the Presidency of the Congress could each be considered the highest offices in the state during this time, but the council was supreme when the congress was not in session.
+
+[[Cornelius Harnett]] served as the first president from October 18, 1775, to August 21, 1776. [[Samuel Ashe (North Carolina governor)|Samuel Ashe]] then served until September 27, 1776, and [[Willie Jones (statesman)|Willie Jones]] until October 25, 1776, at which time a state government had been formed.<ref name="1927manual">{{Cite book |last=North Carolina Secretary of State |url=https://books.google.com/books?id=4dUGAQAAIAAJ |title=North Carolina Manual |date=1927 |publisher=North Carolina Historical Commission |pages=67&ndash;69 |language=en}}</ref>
+
+===State governors===
+{{For|the period before independence|List of colonial governors of North Carolina|List of governors of the Province of North Carolina}}
+North Carolina was one of the original [[Thirteen Colonies]], and was admitted as a state on November 21, 1789.<ref>{{Cite web |title=Ratification of the Constitution by the State of North Carolina; November 21, 1789 |url=http://avalon.law.yale.edu/18th_century/ratnc.asp |url-status=live |archive-url=https://web.archive.org/web/20151123223225/http://avalon.law.yale.edu/18th_century/ratnc.asp |archive-date=November 23, 2015 |access-date=October 31, 2015 |publisher=The Avalon Project at Yale Law School}}</ref> It seceded from the [[Union (American Civil War)|Union]] on May 20, 1861,<ref>{{Cite web |title=Secession Ordinances of 13 Confederate States |url=http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |url-status=live |archive-url=https://web.archive.org/web/20150905091739/http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |archive-date=September 5, 2015 |access-date=May 24, 2015 |publisher=[[University of Houston]]}}</ref> and joined the [[Confederate States of America]] on May 21, 1861.<ref>{{Cite web |title=Secession |url=http://northcarolinahistory.org/encyclopedia/secession/ |publisher=John Locke Foundation}}</ref> Following the end of the [[American Civil War]], North Carolina during [[Reconstruction era|Reconstruction]] was part of the [[Second Military District]], which exerted some control over governor appointments and elections. North Carolina was readmitted to the Union on July 4, 1868.<ref>Act authorizing readmission on ratification of 14th amendment: {{usstat|15|73}}. Proclamation of North Carolina's ratification: {{usstat|15|703}}.</ref>
+
+The first constitution of 1776 created the office of governor, to be chosen by the legislature annually, and whom may only serve up to three out of every six years.<ref>1776 Const. art. XV</ref> An amendment in 1835 changed this to popular election for a term of two years,<ref>{{Cite web |title=Constitution, State |url=https://www.ncpedia.org/government/nc-constitution-history |access-date=2023-05-16 |website=www.ncpedia.org}}</ref> allowing them to succeed themselves once.<ref name="1927manual" /> The 1868 constitution lengthened terms to four years, to commence on the first day of January after the election,<ref name="1868 Const. art. III, § 1">1868 Const. art. III, § 1</ref> but they could not succeed themselves,<ref>1868 Const. art. III, § 2</ref> a limit that was changed in 1977 to allow them to succeed themselves once.<ref name="1985manual">{{Cite book |last=North Carolina Secretary of State |url=http://archive.org/details/northcarolinaman1985nort |title=North Carolina manual [serial] |date=1985 |publisher=North Carolina Historical Commission |page=155}}</ref>
+
+The office of [[Lieutenant Governor of North Carolina|lieutenant governor]] was created in 1868, to act as governor when that office is vacant;<ref>1868 Const. art. III, § 12</ref> in 1971 this was changed so that the lieutenant governor becomes governor.<ref>NC Const. art. III, § 3</ref> Before the office was created, the speaker of the senate would act as governor should it be vacant.<ref>1776 Const. art. XIX</ref> The governor and the lieutenant governor are not officially elected on the same ticket.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of North Carolina
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of North Carolina|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1868.<ref name="1868 Const. art. III, § 1">1868 Const. art. III, § 1</ref>}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|1
+|rowspan="4" data-sort-value="Caswell, Richard"|[[File:Richard Caswell (governor).jpg|75px]]
+|rowspan="11" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|rowspan="4"|'''[[Richard Caswell]]'''<br>{{Small|(1729–1789)}}<br><ref name="nga-caswell">{{Cite web |title=Richard Caswell |url=https://www.nga.org/governor/richard-caswell/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1216"|December 23, 1776{{efn|The journal of the [[Fifth North Carolina Provincial Congress]] indicates the ordinance appointing Caswell passed on December 20;<ref>{{cite book |editor-last1=Clark |editor-first1=Walter |title=The State Records of North Carolina |volume=23: Laws 1715–1776 |date=1904 |publisher=Nash Brothers |location=Goldsboro, NC |page=986 |url=https://www.google.com/books/edition/The_State_Records_of_North_Carolina_Laws/zD9aAAAAYAAJ}}</ref> Caswell's term was to begin immediately following the dissolution of the Congress, which occurred on December 23.<ref>{{cite web |author=North Carolina |title=Journal of the Fifth Provincial Congress |date=1776 |url=https://digital.ncdcr.gov/Documents/Detail/fifth-provincial-congress-journal/437144?item=437583 |website=North Carolina Digital Collections |publisher=State Archives of North Carolina}}</ref> Sources disagree on when Caswell actually took office. The 1913 state manual says Caswell's governorship began on December 19,<ref name="1913manual">{{Cite book |last=North Carolina Secretary of State |url=https://books.google.com/books?id=vkRKAQAAMAAJ |title=North Carolina Manual |date=1913 |publisher=North Carolina Historical Commission |pages=417&ndash;420 |language=en}}</ref> the 1981 state manual says December 21,<ref name="1981manual">{{Cite book |last=North Carolina Secretary of State |url=https://www.carolana.com/NC/NC_Manuals/NC_Manual_1981.pdf |title=North Carolina Manual |year=1981 |pages=409&ndash;412}}</ref> while a biography from 1905 says it was December 24.<ref>{{Cite book |last=Ashe |first=Samuel A. (Samuel A'Court) |url=http://archive.org/details/biographicalhis00ashegoog |title=Biographical history of North Carolina from colonial times to the present |date=1905 |publisher=Greensboro, N.C., C.L. Van Noppen |page=74}}</ref> Contemporaneous press accounts stated that Caswell took the oath of office at New Bern, North Carolina, on January 10, 1777.<ref>{{cite book |last1=Mobley |first1=Joe A. |title=North Carolina Governor Richard Caswell: Founding Father and Revolutionary Hero |date=2016 |publisher=History Press |location=Charleston, SC |page=38 |url=https://www.google.com/books/edition/North_Carolina_Governor_Richard_Caswell/NXhmDQAAQBAJ}}</ref>}}<br/>–<br/>April 21, 1780<br>{{small|(1216 days; term-limited)}}{{efn|Under the 1776 constitution, governors were ineligible to hold the office more than three years in six successive years.<ref>{{Cite web |title=1776 N.C. Const. § 15 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NC%27&CID=183&art=&sec=15&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1776}}
+|rowspan="11" style="background:#EEEEEE;"|''No parties''{{sfn|Glashan|1979|p=228}}
+|style="background:#EEEEEE;"|{{small|[[An Ordinance for appointing a Governor, Council of State, and Secretary|Appointed]]<br/>by the<br/>[[North Carolina Provincial Congress|Provincial<br/>Congress]]}}
+|rowspan="83" colspan="2" style="background:#EEEEEE;"|''Office did not exist''
+|- style="height:2em;"
+|[[1777 North Carolina gubernatorial election|1777]]
+|- style="height:2em;"
+|[[1778 North Carolina gubernatorial election|1778]]
+|- style="height:2em;"
+|[[1779 North Carolina gubernatorial election|1779]]
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Nash, Abner"|[[File:AbnerNash.jpg|75px]]
+|'''[[Abner Nash]]'''<br>{{Small|(1740–1786)}}<br><ref name="nga-nash">{{Cite web |title=Abner Nash |url=https://www.nga.org/governor/abner-nash/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="432"|April 21, 1780<ref name="1981manual" /><br/>–<br/>June 26, 1781<br>{{small|(432 days; retired)}}
+|[[1780 North Carolina gubernatorial election|1780]]
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Burke, Thomas"|[[File:N 75 280 Thomas Burke (8407659227).jpg|75px]]
+|'''[[Thomas Burke (North Carolina politician)|Thomas Burke]]'''{{efn|Burke was captured by Loyalists led by [[David Fanning (loyalist)|David Fanning]] on September 13, 1781, and escaped on January 16, 1782;<ref>{{Cite journal |last=Watterson |first=John S. |last2=Roberts |first2=Paul C. |last3=Frisard |first3=Madlyn I. |last4=McMillan |first4=Ryan P. |last5=Brown |first5=Timothy J. |last6=Lawless |first6=Michael H. |last7=Hulver |first7=Matthew W. |last8=Schmelz |first8=Eva M. |date=1971 |title=The Ordeal of Governor Burke |url=https://www.jstor.org/stable/23518387 |journal=The North Carolina Historical Review |volume=48 |issue=2 |pages=95–117 |doi=10.1016/j.yexcr.2013.02.017 |issn=0029-2494 |pmc=3691854 |pmid=23518387}}</ref> during this time, Speaker of the Senate [[Alexander Martin]] acted as governor.{{sfn|Sobel|1978|pp=1111–1112}}}}<br>{{Small|(1747–1783)}}<br><ref name="nga-burke">{{Cite web |title=Thomas Burke |url=https://www.nga.org/governor/thomas-burke/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="301"|June 26, 1781<ref>Minutes of the North Carolina House of Commons, Volume 17, 26 June 1781, [https://docsouth.unc.edu/csr/index.php/document/csr17-0291#p17-897 897]. Documenting the American South, University Library, The University of North Carolina at Chapel Hill. Accessed May 16, 2023.</ref><br/>–<br/>April 22, 1782<br>{{small|(301 days; retired)}}
+|[[1781 North Carolina gubernatorial election|1781]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|4
+|rowspan="3" data-sort-value="Martin, Alexander"|[[File:NCG-AlexanderMartin.jpg|75px]]
+|rowspan="3"|'''[[Alexander Martin]]'''<br>{{Small|(1740–1807)}}<br>{{sfn|Sobel|1978|pp=1111–1112}}<ref name="nga-martin-alexander">{{Cite web |title=Alexander Martin |url=https://www.nga.org/governor/alexander-martin/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1118"|April 22, 1782<ref>Minutes of the North Carolina House of Commons, Volume 16, 22 April 1782, [https://docsouth.unc.edu/csr/index.php/document/csr16-0001#p16-40 40]. Documenting the American South, University Library, The University of North Carolina at Chapel Hill. Accessed May 22, 2023.</ref><br/>–<br/>May 13, 1785<br>{{small|(1118 days; retired)}}
+|[[1782 North Carolina gubernatorial election|1782]]
+|- style="height:2em;"
+|[[1783 North Carolina gubernatorial election|1783]]
+|- style="height:2em;"
+|[[1784 North Carolina gubernatorial election|1784]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Caswell, Richard"|[[File:Richard Caswell (governor).jpg|75px]]
+|rowspan="2"|'''[[Richard Caswell]]'''<br>{{Small|(1729–1789)}}<br><ref name="nga-caswell" />
+|rowspan="2" data-sort-value="952"|May 13, 1785<ref>{{Cite journal |last=Alexander |first=C. B. |date=1946 |title=Richard Caswell's Military and Later Public Services |url=https://www.jstor.org/stable/23515316 |journal=The North Carolina Historical Review |volume=23 |issue=3 |pages=301–302 |issn=0029-2494}}</ref><ref>{{Cite book |last=Wheeler |first=John Hill |url=https://books.google.com/books?id=4rVJAQAAMAAJ&pg=PA105 |title=Reminiscences and Memoirs of North Carolina and Eminent North Carolinians |date=1884 |publisher=Columbus print. works |page=105 |language=en |access-date=May 22, 2023}}</ref><br/>–<br/>December 20, 1787<br>{{small|(952 days; retired)}}
+|[[1785 North Carolina gubernatorial election|1785]]
+|- style="height:2em;"
+|[[1786 North Carolina gubernatorial election|1786]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|6
+|rowspan="3" data-sort-value="Johnston, Samuel"|[[File:Samuel Johnston Bust.JPG|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|rowspan="3"|'''[[Samuel Johnston]]'''<br>{{Small|(1733–1816)}}<br><ref name="nga-johnston">{{Cite web |title=Samuel Johnston |url=https://www.nga.org/governor/samuel-johnston/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="729"|December 20, 1787<ref name="1927manual" /><br/>–<br/>December 17, 1789<br>{{small|(729 days; resigned)}}{{efn|Johnston resigned, having been [[1789 United States Senate elections in North Carolina|elected]] to the [[United States Senate]].<ref name="nga-johnston" />}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1787 North Carolina gubernatorial election|1787]]
+|- style="height:2em;"
+|[[1788 North Carolina gubernatorial election|1788]]
+|- style="height:2em;"
+|[[1789 North Carolina gubernatorial election|1789]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|7
+|rowspan="3" data-sort-value="Martin, Alexander"|[[File:NCG-AlexanderMartin.jpg|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|rowspan="3"|'''[[Alexander Martin]]'''<br>{{Small|(1740–1807)}}<br>{{sfn|Sobel|1978|pp=1111–1112}}<ref name="nga-martin-alexander" />
+|rowspan="3" data-sort-value="1094"|December 17, 1789<ref name="1927manual" /><br/>–<br/>December 14, 1792<br>{{small|(1094 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1789 North Carolina gubernatorial special election|1789]]<br>{{small|(special)}}
+|- style="height:2em;"
+|[[1790 North Carolina gubernatorial election|1790]]
+|- style="height:2em;"
+|[[1791 North Carolina gubernatorial election|1791]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|8
+|rowspan="3" data-sort-value="Spaight, Richard 1"|[[File:NCG-RichardSpaight.jpg|75px]]
+|rowspan="3"|'''[[Richard Dobbs Spaight]]'''<br>{{Small|(1758–1802)}}<br>{{sfn|Sobel|1978|pp=1112–1113}}<ref name="nga-spaight-richard-dobbs-1">{{Cite web |title=Richard Dobbs Spaight Sr. |url=https://www.nga.org/governor/richard-dobbs-spaight-sr/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1071"|December 14, 1792<ref name="1927manual" /><br/>–<br/>November 19, 1795<br>{{small|(1071 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{efn|Spaight is labeled a Federalist by Kallenbach,{{sfn|Kallenbach|1977|pp=440–442}} and a [[Democratic-Republican Party|Democratic-Republican]] by Glashan.{{sfn|Glashan|1979|p=228}}}}
+|[[1792 North Carolina gubernatorial election|1792]]
+|- style="height:2em;"
+|[[1793 North Carolina gubernatorial election|1793]]
+|- style="height:2em;"
+|[[1794 North Carolina gubernatorial election|1794]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|9
+|rowspan="3" data-sort-value="Ashe, Samuel"|[[File:No image.svg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|rowspan="3"|'''[[Samuel Ashe (North Carolina governor)|Samuel Ashe]]'''<br>{{Small|(1725–1813)}}<br>{{sfn|Sobel|1978|p=1113}}<ref name="nga-ashe">{{Cite web |title=Samuel Ashe |url=https://www.nga.org/governor/samuel-ashe/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1115"|November 19, 1795<ref name="1927manual" /><br/>–<br/>December 7, 1798<br>{{small|(1115 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Ashe is labeled an [[Anti-Administration party|Anti-Federalist]] by Kallenbach,{{sfn|Kallenbach|1977|pp=440–442}} and a Democratic-Republican by Dubin{{sfn|Dubin|2003|p=181}} and Glashan.{{sfn|Glashan|1979|p=228}}}}
+|[[1795 North Carolina gubernatorial election|1795]]
+|- style="height:2em;"
+|[[1796 North Carolina gubernatorial election|1796]]
+|- style="height:2em;"
+|[[1797 North Carolina gubernatorial election|1797]]
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Davie, William"|[[File:William Richardson Davie - Charles Willson Peale (full portrait) (frame cropped).jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|'''[[William Richardson Davie]]'''<br>{{Small|(1756–1820)}}<br>{{sfn|Sobel|1978|pp=1114–1115}}<ref name="nga-davie">{{Cite web |title=William Richardson Davie |url=https://www.nga.org/governor/william-richardson-davie/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="352"|December 7, 1798<ref name="1927manual" /><br/>–<br/>November 23, 1799<br>{{small|(352 days; retired)}}{{efn|Some sources say Davie resigned on September 10, 1799, to be a peace envoy to [[France]];<ref>{{Cite book |last=Allen |first=William Cicero |url=https://books.google.com/books?id=jkITAAAAYAAJ&pg=PA161 |title=History of Halifax County |date=1918 |publisher=Cornhill Company |page=161 |language=en}}</ref>{{sfn|Sobel|1978|pp=1114–1115}} however, the state manual does not mention a resignation,<ref name="1927manual" /> and other sources say that, while he left the state, he arranged to formally remain governor.<ref>{{Cite book |last=Ashe |first=Samuel A'Court |url=https://books.google.com/books?id=uEROAQAAMAAJ&pg=PA158 |title=History of North Carolina: From 1783 to 1925 |date=1925 |publisher=C.L. Van Noppen |pages=158&ndash;159 |language=en}}</ref>}}
+|[[Federalist Party|Federalist]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1798 North Carolina gubernatorial election|1798]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|11
+|rowspan="3" data-sort-value="Williams, Benjamin"|[[File:NCG-BenjaminWilliams.jpg|75px]]
+|rowspan="3"|'''[[Benjamin Williams]]'''<br>{{Small|(1751–1814)}}<br>{{sfn|Sobel|1978|pp=1115–1116}}<ref name="nga-williams">{{Cite web |title=Benjamin Williams |url=https://www.nga.org/governor/benjamin-williams/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1109"|November 23, 1799<ref>{{Cite news |date=1799-11-26 |title=General Assembly |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-williams-sworn-i/125174776/ |access-date=2023-05-23}}</ref><br/>–<br/>December 6, 1802<br>{{small|(1109 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{efn|name=williams|Kallenbach labels Williams a [[Democratic-Republican Party|Democratic-Republican]],{{sfn|Kallenbach|1977|pp=440–442}} but Glashan{{sfn|Glashan|1979|p=228}} and Lampi<ref>{{cite web |last1=Lampi |first1=Philip J. |title=Williams, Benjamin, 1751-1814 |url=https://elections.lib.tufts.edu/catalog/WB0039 |website=A New Nation Votes |publisher=American Antiquarian Society |access-date=April 2, 2025}}</ref> label him a Federalist.}}
+|[[1799 North Carolina gubernatorial election|1799]]
+|- style="height:2em;"
+|[[1800 North Carolina gubernatorial election|1800]]
+|- style="height:2em;"
+|[[1801 North Carolina gubernatorial election|1801]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Ashe, John"|[[File:John_Ashe_E-000273-20111012.jpg|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|'''[[John Baptista Ashe (Continental Congress)|John Baptista Ashe]]'''<br>{{small|(1748–1802)}}
+|data-sort-value="0"|''Died before<br />taking office''<ref name="1927manual" />{{sfn|Sobel|1978|p=1116}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=228}}
+|[[1802 North Carolina gubernatorial election|1802]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|12
+|rowspan="3" data-sort-value="Turner, James"|[[File:James Turner Gouverneur von North Carolina.jpg|75px]]
+|rowspan="3"|'''[[James Turner (North Carolina politician)|James Turner]]'''<br>{{Small|(1766–1824)}}<br>{{sfn|Sobel|1978|p=1116}}<ref name="nga-turner">{{Cite web |title=James Turner |url=https://www.nga.org/governor/james-turner/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1101"|December 6, 1802<ref>{{Cite news |date=1802-12-07 |title=none | quote=Governor Turner, this morning, met the two Houses in the Common's Hall, and took the usual oaths of office. |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-turner-sworn-in/125174867/ |access-date=2023-05-23}}</ref><br/>–<br/>December 10, 1805<br>{{small|(1101 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1802 North Carolina gubernatorial special election|1802]]<br>{{small|(special)}}
+|- style="height:2em;"
+|[[1803 North Carolina gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1804 North Carolina gubernatorial election|1804]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|13
+|rowspan="2" data-sort-value="Alexander, Nathaniel"|[[File:No image.svg|75px]]
+|rowspan="2"|'''[[Nathaniel Alexander (governor)|Nathaniel Alexander]]'''<br>{{Small|(1756–1808)}}<br>{{sfn|Sobel|1978|pp=1116–1117}}<ref name="nga-alexander">{{Cite web |title=Nathaniel Alexander |url=https://www.nga.org/governor/nathaniel-alexander/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="722"|December 10, 1805<ref>{{Cite news |date=1805-12-16 |title=General Assembly |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-alexander-sworn/125175328/ |access-date=2023-05-23}}</ref><br/>–<br/>December 1, 1807<br>{{small|(722 days; lost election)}}{{sfn|Sobel|1978|pp=1116–1117}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1805 North Carolina gubernatorial election|1805]]
+|- style="height:2em;"
+|[[1806 North Carolina gubernatorial election|1806]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Williams, Benjamin"|[[File:NCG-BenjaminWilliams.jpg|75px]]
+|style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|'''[[Benjamin Williams]]'''<br>{{Small|(1751–1814)}}<br>{{sfn|Sobel|1978|pp=1115–1116}}<ref name="nga-williams" />
+|data-sort-value="378"|December 1, 1807<ref>{{Cite news |date=1807-12-03 |title=General Assembly |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-williams-sworn-i/125175472/ |access-date=2023-05-23}}</ref><br/>–<br/>December 12, 1808<br>{{small|(378 days; lost election)}}
+|[[Federalist Party|Federalist]]{{efn|name=williams}}
+|[[1807 North Carolina gubernatorial election|1807]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15
+|rowspan="2" data-sort-value="Stone, David"|[[File:NC-Congress-DavidStone.jpg|75px]]
+|rowspan="24" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[David Stone (politician)|David Stone]]'''<br>{{Small|(1770–1818)}}<br>{{sfn|Sobel|1978|pp=1117–1118}}<ref name="nga-stone">{{Cite web |title=David Stone |url=https://www.nga.org/governor/david-stone/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="724"|December 12, 1808<ref>{{Cite news |date=1808-12-15 |title=North Carolina Legislature |page=2 |work=The Raleigh Minerva |url=https://www.newspapers.com/article/the-raleigh-minerva-stone-sworn-in-decem/125175522/ |access-date=2023-05-23}}</ref><br/>–<br/>December 5, 1810<br>{{small|(724 days; lost election)}}<ref>{{Cite news |date=1810-12-06 |title=Legislature of North Carolina |page=2 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-smith-defeats-st/125175648/ |access-date=2023-05-23}}</ref>
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1808 North Carolina gubernatorial election|1808]]
+|- style="height:2em;"
+|[[1809 North Carolina gubernatorial election|1809]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Smith, Benjamin"|[[File:Governor Benjamin Smith.jpg|75px]]
+|'''[[Benjamin Smith (North Carolina politician)|Benjamin Smith]]'''<br>{{Small|(1756–1826)}}<br>{{sfn|Sobel|1978|pp=1118–1119}}<ref name="nga-smith">{{Cite web |title=Benjamin Smith |url=https://www.nga.org/governor/benjamin-smith/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="370"|December 5, 1810<ref>{{Cite news |date=1810-12-06 |title=Legislature of North Carolina |page=3 |work=The Raleigh Minerva |url=https://www.newspapers.com/article/the-raleigh-minerva-smith-sworn-in-decem/125175696/ |access-date=2023-05-23}}</ref><br/>–<br/>December 9, 1811<br>{{small|(370 days; retired)}}{{efn|Smith was nominated and received votes in the first round of balloting, but he had not authorized this and was not interested, so his name was withdrawn.<ref name="hawkins-inaugurated" />}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1810 North Carolina gubernatorial election|1810]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|17
+|rowspan="3" data-sort-value="Hawkins, William"|[[File:William Hawkins.jpg|75px]]
+|rowspan="3"|'''[[William Hawkins (governor)|William Hawkins]]'''<br>{{Small|(1777–1819)}}<br>{{sfn|Sobel|1978|p=1119}}<ref name="nga-hawkins">{{Cite web |title=William Hawkins |url=https://www.nga.org/governor/william-hawkins/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1095"|December 9, 1811<ref name="hawkins-inaugurated">{{Cite news |date=1811-12-13 |title=none | quote=On Saturday, Wm. Hawkins, Esq. of Granville, was elected Governor of this state for the ensuing year; and on Monday, at 12 o'clock he took the usual oaths of office in the Common's Hall, in presence of the two Houses. |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-hawkins-sworn-in/125300146/ |access-date=2023-05-25}}</ref><br/>–<br/>December 7, 1814<br>{{small|(1095 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1811 North Carolina gubernatorial election|1811]]
+|- style="height:2em;"
+|[[1812 North Carolina gubernatorial election|1812]]
+|- style="height:2em;"
+|[[1813 North Carolina gubernatorial election|1813]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|18
+|rowspan="3" data-sort-value="Miller, William"|[[File:Governor William Miller.jpg|75px]]
+|rowspan="3"|'''[[William Miller (North Carolina politician)|William Miller]]'''<br>{{Small|(1783–1825)}}<br>{{sfn|Sobel|1978|p=1120}}<ref name="nga-miller">{{Cite web |title=William Miller |url=https://www.nga.org/governor/william-miller/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3"data-sort-value="1096"|December 7, 1814<ref>{{Cite news |date=1814-12-16 |title=State Legislature |page=1 |work=The Raleigh Minerva |url=https://www.newspapers.com/article/the-raleigh-minerva-miller-sworn-in-dece/125300419/ |access-date=2023-05-25}}</ref><br/>–<br/>December 6, 1817<br>{{small|(1096 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1814 North Carolina gubernatorial election|1814]]
+|- style="height:2em;"
+|[[1815 North Carolina gubernatorial election|1815]]
+|- style="height:2em;"
+|[[1816 North Carolina gubernatorial election|1816]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|19
+|rowspan="3" data-sort-value="Branch, John"|[[File:John Branch.jpg|75px]]
+|rowspan="3"|'''[[John Branch]]'''<br>{{Small|(1782–1863)}}<br>{{sfn|Sobel|1978|pp=1120–1121}}<ref name="nga-branch">{{Cite web |title=John Branch |url=https://www.nga.org/governor/john-branch/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1098"|December 6, 1817<ref>{{Cite news |date=1817-12-12 |title=General Assembly |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-branch-sworn-in/125300528/ |access-date=2023-05-25}}</ref><br/>–<br/>December 7, 1820<br>{{small|(1098 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1817 North Carolina gubernatorial election|1817]]
+|- style="height:2em;"
+|[[1818 North Carolina gubernatorial election|1818]]
+|- style="height:2em;"
+|[[1819 North Carolina gubernatorial election|1819]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Franklin, Jesse"|[[File:No image.svg|75px]]
+|'''[[Jesse Franklin]]'''<br>{{Small|(1760–1823)}}<br>{{sfn|Sobel|1978|pp=1121–1122}}<ref name="nga-franklin">{{Cite web |title=Jesse Franklin |url=https://www.nga.org/governor/jesse-franklin/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="366"|December 7, 1820<ref>{{Cite news |date=1820-12-13 |title=none | quote=On Tuesday last, major Jesse Franklin, of Surry county, was elected by the legislature, governor of this state for the ensuing year. He yesterday took the usual oaths of office, in presence of the two houses. |page=3 |work=The Hillsborough Recorder |url=https://www.newspapers.com/article/the-hillsborough-recorder-franklin-sworn/125374341/ |access-date=2023-05-27}}</ref><br/>–<br/>December 7, 1821<br>{{small|(366 days; retired)}}{{sfn|Sobel|1978|pp=1121–1122}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1820 North Carolina gubernatorial election|1820]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|21
+|rowspan="3" data-sort-value="Holmes, Gabriel"|[[File:No image.svg|75px]]
+|rowspan="3"|'''[[Gabriel Holmes]]'''<br>{{Small|(1769–1829)}}<br>{{sfn|Sobel|1978|pp=1122–1123}}<ref name="nga-holmes">{{Cite web |title=Gabriel Holmes |url=https://www.nga.org/governor/gabriel-holmes/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1097"|December 7, 1821<ref>{{Cite news |date=1821-12-14 |title=General Assembly |page=2 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-holmes-sworn-in/125374434/ |access-date=2023-05-27}}</ref><br/>–<br/>December 7, 1824<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1821 North Carolina gubernatorial election|1821]]
+|- style="height:2em;"
+|[[1822 North Carolina gubernatorial election|1822]]
+|- style="height:2em;"
+|[[1823 North Carolina gubernatorial election|1823]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|22
+|rowspan="3" data-sort-value="Burton, Hutchins"|[[File:Hutchins Gordon Burton.jpg|75px]]
+|rowspan="3"|'''[[Hutchins Gordon Burton]]'''<br>{{Small|(1774–1836)}}<br>{{sfn|Sobel|1978|p=1123}}<ref name="nga-burton">{{Cite web |title=Hutchins Gordon Burton |url=https://www.nga.org/governor/hutchins-gordon-burton/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1097"|December 7, 1824<ref>{{Cite news |date=1824-12-17 |title=none | quote=On Tuesday last, Hutchins G. Burton, Esq. qualified as Governor of this State... |page=3 |work=North-Carolina Free Press |url=https://www.newspapers.com/article/north-carolina-free-press-burton-sworn-i/125374537/ |access-date=2023-05-27}}</ref><br/>–<br/>December 8, 1827<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Glashan{{sfn|Glashan|1979|p=228}} and Kallenbach{{sfn|Kallenbach|1977|pp=440–442}} label Burton a Democratic-Republican, but Sobel labels him a Federalist.{{sfn|Sobel|1978|p=1123}}}}
+|[[1824 North Carolina gubernatorial election|1824]]
+|- style="height:2em;"
+|[[1825 North Carolina gubernatorial election|1825]]
+|- style="height:2em;"
+|[[1826 North Carolina gubernatorial election|1826]]
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Iredell, James"|[[File:James Iredell.jpg|75px]]
+|'''[[James Iredell Jr.]]'''<br>{{Small|(1788–1853)}}<br>{{sfn|Sobel|1978|p=1124}}<ref name="nga-iredell">{{Cite web |title=James Iredell |url=https://www.nga.org/governor/james-iredell/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="371"|December 8, 1827<ref>{{Cite news |date=1827-12-13 |title=Legislative |page=3 |work=The North-Carolina Star |url=https://www.newspapers.com/article/the-north-carolina-star-iredell-sworn-in/125374637/ |access-date=2023-05-27}}</ref><br/>–<br/>December 12, 1828<br>{{small|(371 days; retired)}}{{efn|Iredell was instead [[1828–29 United States Senate elections|elected]] to the [[United States Senate]] on December 1; while Sobel says he resigned to take his new office,{{sfn|Sobel|1978|p=1124}} contemporary sources mention no such resignation.}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1827 North Carolina gubernatorial election|1827]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|24
+|rowspan="2" data-sort-value="Owen, John"|[[File:John Owen.jpg|75px]]
+|rowspan="2"|'''[[John Owen (North Carolina politician)|John Owen]]'''<br>{{Small|(1787–1841)}}<br>{{sfn|Sobel|1978|pp=1124–1125}}<ref name="nga-owen">{{Cite web |title=John Owen |url=https://www.nga.org/governor/john-owen/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="737"|December 12, 1828<ref>{{Cite news |date=1828-12-16 |title=Legislative |page=3 |work=The Raleigh Register |url=https://www.newspapers.com/article/the-raleigh-register-owen-sworn-in-decem/125375276/ |access-date=2023-05-27}}</ref><br/>–<br/>December 18, 1830<br>{{small|(737 days; retired)}}{{efn|Sobel says Owen had been nominated and withdrew,{{sfn|Sobel|1978|pp=1124–1125}} but contemporary sources say only that he requested not to be nominated.<ref>{{Cite news |date=1830-12-16 |title=State Legislature |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-owen-does-not-ru/125376211/ |access-date=2023-05-27}}</ref>}} 
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Glashan{{sfn|Glashan|1979|p=228}} and Kallenbach{{sfn|Kallenbach|1977|pp=440–442}} label Owen a Democratic-Republican, while Sobel says he was a "[[National Republican Party|National Republican]] with Federalist sympathies."{{sfn|Sobel|1978|pp=1124–1125}}}}
+|[[1828 North Carolina gubernatorial election|1828]]
+|- style="height:2em;"
+|[[1829 North Carolina gubernatorial election|1829]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Stokes, Montfort"|[[File:NCG-MontfortStokes.jpg|75px]]
+|rowspan="2"|'''[[Montfort Stokes]]'''<br>{{Small|(1762–1842)}}<br>{{sfn|Sobel|1978|pp=1125–1126}}<ref name="nga-stokes">{{Cite web |title=Montfort Stokes |url=https://www.nga.org/governor/montfort-stokes/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="720"|December 18, 1830<ref>{{Cite news |date=1830-12-23 |title=Legislature of North Carolina |page=2 |work=The North-Carolina Star |url=https://www.newspapers.com/article/the-north-carolina-star-stokes-sworn-in/125376675/ |access-date=2023-05-27}}</ref><br/>–<br/>December 6, 1832<br>{{small|(720 days; retired)}}{{efn|Stokes was appointed to be a commissioner to treat with Indians, and sent a farewell message to the general assembly on November 19.<ref>{{Cite news |date=1832-12-04 |title=Governor's Message |page=1 |work=North-Carolina Free Press |url=https://www.newspapers.com/article/north-carolina-free-press-stokes-perform/125377191/ |access-date=2023-05-27}}</ref> Some sources, both modern and older, interpret this as him resigning;{{sfn|Sobel|1978|pp=1125–1126}}<ref>{{Cite book |url=https://books.google.com/books?id=dQDwh9Ep6jAC&pg=PA409 |title=North Carolina: A Guide to the Old North State |date=1939 |publisher=US History Publishers |isbn=978-1-60354-032-2 |page=409 |language=en}}</ref> however, the 1927 manual says he left office normally on December 6,<ref name="1927manual" /> and contemporary news does not use any term of resignation.}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{efn|Glashan{{sfn|Glashan|1979|p=228}} and Kallenbach{{sfn|Kallenbach|1977|pp=440–442}} label Stokes a Democratic-Republican, while Dubin labels him a [[North Carolina Democratic Party|Democrat]].{{sfn|Dubin|2003|p=181}}}}
+|[[1830 North Carolina gubernatorial election|1830]]
+|- style="height:2em;"
+|[[1831 North Carolina gubernatorial election|1831]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Swain, David"|[[File:David Lowry Swain.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|National Republican Party (United States)}};" title="Represented the National Republican Party"|
+|rowspan="3"|'''[[David Lowry Swain]]'''<br>{{Small|(1801–1868)}}<br>{{sfn|Sobel|1978|pp=1126–1127}}<ref name="nga-swain">{{Cite web |title=David Lowry Swain |url=https://www.nga.org/governor/david-lowry-swain/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1100"|December 6, 1832<ref>{{Cite news |date=1832-12-18 |title=General Assembly |page=2 |work=North-Carolina Free Press |url=https://www.newspapers.com/article/north-carolina-free-press-swain-sworn-in/125377621/ |access-date=2023-05-27}}</ref><br/>–<br/>December 10, 1835<br>{{small|(1100 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[National Republican Party|National<br>Republican]]{{efn|Swain is labeled a [[North Carolina Democratic Party|Democrat]] by Dubin,{{sfn|Dubin|2003|p=181}} a National Republican by Glashan,{{sfn|Glashan|1979|p=228}} a [[Democratic-Republican Party|Democratic-Republican]] by Kallenbach,{{sfn|Kallenbach|1977|pp=440–442}} and a [[Whig Party (United States)|Whig]] by Sobel.{{sfn|Sobel|1978|pp=1126–1127}}}}
+|[[1832 North Carolina gubernatorial election|1832]]
+|- style="height:2em;"
+|[[1833 North Carolina gubernatorial election|1833]]
+|- style="height:2em;"
+|[[1834 North Carolina gubernatorial election|1834]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Spaight, Richard 2"|[[File:RDSpaightJr-NC.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Richard Dobbs Spaight Jr.]]'''<br>{{Small|(1796–1850)}}<br>{{sfn|Sobel|1978|p=1128}}<ref name="nga-spaight-richard-dobbs-2">{{Cite web |title=Richard Dobbs Spaight Jr. |url=https://www.nga.org/governor/richard-dobbs-spaight-jr/ |access-date=May 16, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="388"|December 10, 1835<ref>{{Cite news |date=1835-12-15 |title=Inaugural Address of Governor Spaight |page=2 |work=The Weekly Standard |url=https://www.newspapers.com/article/the-weekly-standard-inaugural-address-of/125377675/ |access-date=2023-05-27}}</ref><br/>–<br/>December 31, 1836<br>{{small|(388 days; lost election)}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1835 North Carolina gubernatorial election|1835]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Dudley, Edward"|[[File:Edward Bishop Dudley.jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|'''[[Edward Bishop Dudley]]'''<br>{{Small|(1789–1855)}}<br>{{sfn|Sobel|1978|pp=1128–1129}}<ref name="nga-dudley">{{Cite web |title=Edward Bishop Dudley |url=https://www.nga.org/governor/edward-bishop-dudley/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1463"|December 31, 1836<ref>{{Cite news |date=1837-01-03 |title=Inauguration |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-dudley-sworn-in/125430622/ |access-date=2023-05-28}}</ref><br/>–<br/>January 1, 1841<br>{{small|(1463 days; term-limited)}}{{efn|Under an 1835 amendment to the constitution, governors were ineligible to hold the office more than four years in six successive years.<ref>{{Cite web |title=1776 N.C. Const. art. II, as amended in 1835 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NC%27&CID=183&art=&sec=&amd=19&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1835}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1836 North Carolina gubernatorial election|1836]]
+|- style="height:2em;"
+|[[1838 North Carolina gubernatorial election|1838]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Morehead, John"|[[File:John Motley Morehead.jpg|75px]]
+|rowspan="2"|'''[[John Motley Morehead]]'''<br>{{Small|(1796–1866)}}<br>{{sfn|Sobel|1978|p=1130}}<ref name="nga-morehead">{{Cite web |title=John Motley Morehead |url=https://www.nga.org/governor/john-motley-morehead/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1841<ref>{{Cite news |date=1841-01-05 |title=Inauguration of Governor |page=3 |work=The Raleigh Register |url=https://www.newspapers.com/article/the-raleigh-register-morehead-sworn-in-j/125430865/ |access-date=2023-05-28}}</ref><br/>–<br/>January 1, 1845<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1835}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1840 North Carolina gubernatorial election|1840]]
+|- style="height:2em;"
+|[[1842 North Carolina gubernatorial election|1842]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Graham, William"|[[File:William Alexander Graham - Brady-Handy.jpg|75px]]
+|rowspan="2"|'''[[William Alexander Graham]]'''<br>{{Small|(1804–1875)}}<br>{{sfn|Sobel|1978|pp=1131–1132}}<ref name="nga-graham">{{Cite web |title=William Alexander Graham |url=https://www.nga.org/governor/william-alexander-graham/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1845<ref>{{Cite news |date=1845-01-03 |title=Gov. Graham's Inauguration |page=2 |work=The Raleigh Register |url=https://www.newspapers.com/article/the-raleigh-register-graham-sworn-in-jan/125430923/ |access-date=2023-05-28}}</ref><br/>–<br/>January 1, 1849<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1835}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1844 North Carolina gubernatorial election|1844]]
+|- style="height:2em;"
+|[[1846 North Carolina gubernatorial election|1846]]
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Manly, Charles"|[[File:Charles Manly.jpg|75px]]
+|'''[[Charles Manly]]'''<br>{{Small|(1795–1871)}}<br>{{sfn|Sobel|1978|pp=1132–1133}}<ref name="nga-manly">{{Cite web |title=Charles Manly |url=https://www.nga.org/governor/charles-manly/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|January 1, 1849<ref>{{Cite news |date=1849-01-06 |title=Inauguration of Governor |page=2 |work=The North-Carolinian |url=https://www.newspapers.com/article/the-north-carolinian-manly-sworn-in-janu/125430999/ |access-date=2023-05-28}}</ref><br/>–<br/>January 1, 1851<br>{{small|(731 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1848 North Carolina gubernatorial election|1848]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Reid, David"|[[File:DavidSettleReid.jpg|75px]]
+|rowspan="8" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[David Settle Reid]]'''<br>{{Small|(1813–1891)}}<br>{{sfn|Sobel|1978|p=1133}}<ref name="nga-reid">{{Cite web |title=David Settle Reid |url=https://www.nga.org/governor/david-settle-reid/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1436"|January 1, 1851<ref>{{Cite news |date=1851-01-03 |title=State Legislature |page=2 |work=The Spirit of the Age |url=https://www.newspapers.com/article/the-spirit-of-the-age-reid-sworn-in-janu/125431052/ |access-date=2023-05-28}}</ref><br/>–<br/>December 6, 1854<br>{{small|(1436 days; resigned)}}{{efn|Reid resigned, having been [[1854–55 United States Senate elections|elected]] to the [[United States Senate]].<ref>{{Cite news |date=1854-12-09 |title=Legislature in North Carolina |page=3 |work=Semi-Weekly Standard |url=https://www.newspapers.com/article/semi-weekly-standard-reid-resigns-decemb/125431635/ |access-date=2023-05-28}}</ref>}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1850 North Carolina gubernatorial election|1850]]
+|- style="height:2em;"
+|[[1852 North Carolina gubernatorial election|1852]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Winslow, Warren"|[[File:Warren Winslow.jpg|75px]]
+|'''[[Warren Winslow]]'''<br>{{Small|(1810–1862)}}<br>{{sfn|Sobel|1978|p=1134}}<ref name="nga-winslow">{{Cite web |title=Warren Winslow |url=https://www.nga.org/governor/warren-winslow/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="27"|December 6, 1854<ref>{{Cite news |date=1854-12-09 |title=The Legislature |page=3 |work=Semi-Weekly Standard |url=https://www.newspapers.com/article/semi-weekly-standard-winslow-is-acting-g/125431697/ |access-date=2023-05-28}}</ref><br/>–<br/>January 1, 1855<br>{{small|(27 days; retired)}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|style="background:#EEEEEE;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34
+|rowspan="2" data-sort-value="Bragg, Thomas"|[[File:Thomas Bragg 1.jpg|75px]]
+|rowspan="2"|'''[[Thomas Bragg]]'''<br>{{Small|(1810–1872)}}<br>{{sfn|Sobel|1978|pp=1134–1135}}<ref name="nga-bragg">{{Cite web |title=Thomas Bragg |url=https://www.nga.org/governor/thomas-bragg/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1855<ref>{{Cite news |date=1855-01-03 |title=Legislature |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-bragg-sworn-in-j/125431755/ |access-date=2023-05-28}}</ref><br/>–<br/>January 1, 1859<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1835}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1854 North Carolina gubernatorial election|1854]]
+|- style="height:2em;"
+|[[1856 North Carolina gubernatorial election|1856]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="Ellis, John"|[[File:John Willis Ellis.jpg|75px]]
+|rowspan="2"|'''[[John Willis Ellis]]'''<br>{{Small|(1820–1861)}}<br>{{sfn|Sobel|1978|pp=1135–1136}}<ref name="nga-ellis">{{Cite web |title=John Willis Ellis |url=https://www.nga.org/governor/john-willis-ellis/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="919"|January 1, 1859<ref>{{Cite news |date=1859-01-05 |title=Inauguration of Gov. Ellis |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-ellis-sworn-in-j/125431790/ |access-date=2023-05-28}}</ref><br/>–<br/>July 7, 1861<br>{{small|(919 days; died in office)}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1858 North Carolina gubernatorial election|1858]]
+|- style="height:2em;"
+|[[1860 North Carolina gubernatorial election|1860]]
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Clark, Henry"|[[File:Henry Toole Clark.jpg|75px]]
+|'''[[Henry Toole Clark]]'''<br>{{Small|(1808–1874)}}<br>{{sfn|Sobel|1978|p=1136}}<ref name="nga-clark">{{Cite web |title=Henry Toole Clark |url=https://www.nga.org/governor/henry-toole-clark/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="429"|July 7, 1861<ref>{{Cite news |date=1861-07-11 |title=none | quote=The duties of the office, as already stated, devolve upon Henry T. Clark, Esq... |page=2 |work=The Daily Journal |url=https://www.newspapers.com/article/the-daily-journal-clark-succeeds-ellis-j/125432002/ |access-date=2023-05-28}}</ref><br/>–<br/>September 8, 1862<br>{{small|(429 days; retired)}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|style="background:#EEEEEE;"|{{small|Speaker of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="Vance, Zebulon"|[[File:Zebulon Baird Vance - Brady-Handy.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Conservative Party (US)}};" title="Represented the Conservative Party"|
+|rowspan="2"|'''[[Zebulon Baird Vance]]'''{{efn|After the Union victory in the [[Battle of New Bern (1862)|Battle of New Bern]], [[Abraham Lincoln]] appointed General [[Edward Stanly]] as military governor of the Union-held regions of North Carolina, and he served in that capacity from May 26, 1862, until early 1863, when he resigned over the [[Emancipation Proclamation]].<ref>{{Cite web |last=Brown |first=Norman D. |date=1994 |title=Stanly, Edward |url=https://ncpedia.org/biography/stanly-edward |access-date=May 27, 2023 |website=NCpedia}}</ref>}}<br>{{Small|(1830–1894)}}<br>{{sfn|Sobel|1978|pp=1137–1138}}<ref name="nga-vance">{{Cite web |title=Zebulon Baird Vance |url=https://www.nga.org/governor/zebulon-baird-vance/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="979"|September 8, 1862<ref>{{Cite news |date=1862-09-10 |title=Inauguration of Gov. Vance |page=1 |work=Semi-Weekly Standard |url=https://www.newspapers.com/article/semi-weekly-standard-vance-sworn-in-sept/125432111/ |access-date=2023-05-28}}</ref><br/>–<br/>May 13, 1865<br>{{small|(979 days;<br>arrested and removed)}}{{efn|Vance left Raleigh on April 12 to negotiate a surrender,<ref>{{Cite web |last=Barrett |first=John G. |date=1996 |title=Vance, Zebulon Baird |url=https://www.ncpedia.org/biography/vance-zebulon-baird |access-date=April 9, 2022 |website=NCpedia}}</ref> surrendered to General [[John Schofield]] on May 2, and was arrested in Statesville on May 13. He was released a few weeks later, and would be pardoned by [[Andrew Johnson]] in 1867.<ref>{{Cite journal |last=McKinney |first=Gordon B. |date=1998 |title=Zebulon Vance and His Reconstruction of the Civil War in North Carolina |url=https://www.jstor.org/stable/23521288 |journal=The North Carolina Historical Review |volume=75 |issue=1 |pages=69–85 |issn=0029-2494}}</ref>}}
+|rowspan="2"|[[Conservative Party (United States)|Conservative]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1862 North Carolina gubernatorial election|1862]]
+|- style="height:2em;"
+|[[1864 North Carolina gubernatorial election|1864]]
+|- style="height:2em;"
+!scope="row"|—
+|colspan="3"|''Vacant''
+|data-sort-value="17"|''May 13, 1865''<br />–<br />''May 29, 1865''<br>{{small|(17 days)}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Office vacated<br>after [[American Civil War|civil war]]}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Holden, William"|[[File:NCG-WilliamHolden.jpg|75px]]
+|style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Appointed"|
+|'''[[William Woods Holden]]'''<br>{{Small|(1818–1892)}}<br>{{sfn|Sobel|1978|pp=1138–1139}}<ref name="nga-holden">{{Cite web |title=William Woods Holden |url=https://www.nga.org/governor/william-woods-holden/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="201"|May 29, 1865<ref>{{Cite news |date=1865-06-07 |title=President Johnson's Proclamation Appointing a Provisional Governor for North Carolina |page=3 |work=The Daily Record |url=https://www.newspapers.com/article/the-daily-record-johnson-appoints-holden/125433253/ |access-date=2023-05-28}}</ref><br/>–<br/>December 15, 1865<br>{{small|(201 days; lost election)}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Provisional governor<br>appointed by President}}{{sfn|Sobel|1978|pp=1138–1139}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|39
+|rowspan="2" data-sort-value="Worth, Jonathan"|[[File:Jonathan Worth (North Carolina).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Conservative Party (US)}};" title="Represented the Conservative Party"|
+|rowspan="2"|'''[[Jonathan Worth (governor)|Jonathan Worth]]'''<br>{{Small|(1802–1869)}}<br>{{sfn|Sobel|1978|pp=1139–1140}}<ref name="nga-worth">{{Cite web |title=Jonathan Worth |url=https://www.nga.org/governor/jonathan-worth/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="930"|December 15, 1865<ref>{{Cite news |date=1865-12-16 |title=Inauguration of the Governor of North Carolina |page=1 |work=The Daily Journal |url=https://www.newspapers.com/article/the-daily-journal-worth-sworn-in-decembe/125433331/ |access-date=2023-05-28}}</ref><br/>–<br/>July 1, 1868<br>{{small|(930 days; retired)}}{{sfn|Sobel|1978|pp=1139–1140}}
+|rowspan="2"|[[Conservative Party (United States)|Conservative]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1865 North Carolina gubernatorial election|1865]]
+|- style="height:2em;"
+|[[1866 North Carolina gubernatorial election|1866]]
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Holden, William"|[[File:NCG-WilliamHolden.jpg|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[William Woods Holden]]'''<br>{{Small|(1818–1892)}}<br>{{sfn|Sobel|1978|pp=1138–1139}}<ref name="nga-holden" />
+|data-sort-value="995"|July 1, 1868<ref>{{Cite news |date=1868-07-02 |title=Meeting of the Legislature |page=3 |work=The Daily Standard |url=https://www.newspapers.com/article/the-daily-standard-holden-sworn-in-july/125433425/ |access-date=2023-05-28}}</ref><br/>–<br/>March 22, 1871<br>{{small|(995 days;<br>impeached and removed)}}{{efn|Holden was impeached over crimes committed during the [[Kirk–Holden war]] against the [[Ku Klux Klan]].{{sfn|Sobel|1978|pp=1138–1139}}}}
+|[[North Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1868 North Carolina gubernatorial election|1868]]
+|rowspan="4" style="background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|&nbsp;
+|{{sortname|Tod Robinson|Caldwell}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Caldwell, Tod"|[[File:Tod Caldwell.jpg|75px]]
+|rowspan="2"|'''[[Tod Robinson Caldwell]]'''<br>{{Small|(1818–1874)}}<br>{{sfn|Sobel|1978|pp=1140–1141}}<ref name="nga-caldwell">{{Cite web |title=Tod Robinson Caldwell |url=https://www.nga.org/governor/tod-robinson-caldwell/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1208"|March 22, 1871{{efn|Holden was impeached on December 19, 1870;<ref>{{Cite journal |last=Brisson |first=Jim D. |date=2011 |title="Civil Government Was Crumbling Around Me": The Kirk-Holden War of 1870 |url=https://www.jstor.org/stable/23523540 |journal=The North Carolina Historical Review |volume=88 |issue=2 |pages=123–163 |issn=0029-2494}}</ref><ref>{{Cite news |date=1870-12-21 |title=Legislature of North Carolina |page=2 |work=The Daily Journal |url=https://www.newspapers.com/article/the-daily-journal-holden-impeached-decem/125434051/ |access-date=2023-05-28}}</ref> per the constitution, Caldwell became acting governor, and served in that capacity until and after Holden was convicted and removed on March 22, 1871.<ref>{{Cite news |date=1871-03-23 |title=Impeachment of Holden |page=4 |work=The Wilmington Morning Star |url=https://www.newspapers.com/article/the-wilmington-morning-star-holden-remov/125434098/ |access-date=2023-05-28}}</ref>}}<br/>–<br/>July 11, 1874<br>{{small|(1208 days; died in office)}}
+|rowspan="2"|[[North Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+|[[1872 North Carolina gubernatorial election|1872]]
+|{{sortname|Curtis Hooks|Brogden}}
+|- style="height:2em;" 
+!scope="row"|42
+|data-sort-value="Brogden, Curtis"|[[File:Curtis Hooks Brogden (1816-1901) portrait.jpg|75px]]
+|'''[[Curtis Hooks Brogden]]'''<br>{{Small|(1816–1901)}}<br>{{sfn|Sobel|1978|p=1141}}<ref name="nga-brogden">{{Cite web |title=Curtis Hooks Brogden |url=https://www.nga.org/governor/curtis-hooks-brogden/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="906"|July 11, 1874<ref>{{Cite news |date=1874-07-13 |title=Death of Gov. Caldwell |page=3 |work=The Charlotte Democrat |url=https://www.newspapers.com/article/the-charlotte-democrat-brogden-succeeds/125490300/ |access-date=2023-05-29}}</ref><br/>–<br/>January 1, 1877<br>{{small|(906 days; retired)}}{{efn|Brogden was instead [[1876–77 United States House of Representatives elections|elected]] to the [[United States House of Representatives]].{{sfn|Sobel|1978|p=1141}}}}
+|[[North Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;" 
+!scope="row"|43
+|data-sort-value="Vance, Zebulon"|[[File:Zebulon Baird Vance - Brady-Handy.jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Zebulon Baird Vance]]'''<br>{{Small|(1830–1894)}}<br>{{sfn|Sobel|1978|pp=1137–1138}}<ref name="nga-vance" />
+|data-sort-value="766"|January 1, 1877<ref>{{Cite news |date=1877-01-04 |title=The Inauguration |page=2 |work=Carolina Watchman |url=https://www.newspapers.com/article/carolina-watchman-vance-sworn-in-january/125490494/ |access-date=2023-05-29}}</ref><br/>–<br/>February 5, 1879<br>{{small|(766 days; resigned)}}{{efn|Vance resigned, having been [[1878–79 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1137–1138}}<ref>{{Cite news |date=1879-02-04 |title=Gov. Vance Resigns |page=2 |work=The Torchlight |url=https://www.newspapers.com/article/the-torchlight-gov-vance-resigns/125490532/ |access-date=2023-05-29}}</ref>}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1876 North Carolina gubernatorial election|1876]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Thomas Jordan|Jarvis}}
+|- style="height:2em;" 
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Jarvis, Thomas"|[[File:Thomas Jordan Jarvis.jpg|75px]]
+|rowspan="2"|'''[[Thomas Jordan Jarvis]]'''<br>{{Small|(1836–1915)}}<br>{{sfn|Sobel|1978|pp=1142–1143}}<ref name="nga-jarvis">{{Cite web |title=Thomas Jordan Jarvis |url=https://www.nga.org/governor/thomas-jordan-jarvis/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2178"|February 5, 1879<ref>{{Cite news |date=1879-02-06 |title=From the Capital |page=2 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-jarvis-succeeds-v/125490606/ |access-date=2023-05-29}}</ref><br/>–<br/>January 21, 1885<br>{{small|(2178 days; term-limited)}}{{efn|Under the 1868 constitution, governors were ineligible to hold the office more than four years in eight successive years.<ref>{{Cite web |title=1868 N.C. Const. art. III, § 2 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NC%27&CID=181&art=3&sec=2&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1868}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+|[[1880 North Carolina gubernatorial election|1880]]
+|{{sortname|James L.|Robinson}}{{efn|Robinson acted as governor from September 1 to September 28, 1883, while Jarvis was out of state.{{sfn|Sobel|1978|p=1143}}}}
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Scales, Alfred"|[[File:NCG-AlfredScales.jpg|75px]]
+|'''[[Alfred Moore Scales]]'''<br>{{Small|(1827–1892)}}<br>{{sfn|Sobel|1978|pp=1143–1144}}<ref name="nga-scales">{{Cite web |title=Alfred Moore Scales |url=https://www.nga.org/governor/alfred-moore-scales/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1458"|January 21, 1885<ref>{{Cite news |date=1885-01-22 |title=The Inauguration |page=4 |work=The Wilmington Morning Star |url=https://www.newspapers.com/article/the-wilmington-morning-star-scales-inaug/125490721/ |access-date=2023-05-29}}</ref><br/>–<br/>January 17, 1889<br>{{small|(1458 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1884 North Carolina gubernatorial election|1884]]
+|{{sortname|Charles Manly|Stedman}}
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Fowle, Daniel"|[[File:NCG-DanielFowle.jpg|75px]]
+|'''[[Daniel Gould Fowle]]'''<br>{{Small|(1831–1891)}}<br>{{sfn|Sobel|1978|pp=1144–1145}}<ref name="nga-fowle">{{Cite web |title=Daniel Gould Fowle |url=https://www.nga.org/governor/daniel-gould-fowle/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="811"|January 17, 1889<ref>{{Cite news |date=1889-01-18 |title=Gov. Daniel G. Fowle |page=1 |work=Asheville Citizen-Times |url=https://www.newspapers.com/article/asheville-citizen-times-fowle-inaugurate/125490767/ |access-date=2023-05-29}}</ref><br/>–<br/>April 7, 1891<br>{{small|(811 days; died in office)}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1888 North Carolina gubernatorial election|1888]]
+|{{sortname|Thomas Michael|Holt}}
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Holt, Thomas"|[[File:Thomas Michael Holt Governor of North Carolina.jpeg|75px]]
+|'''[[Thomas Michael Holt]]'''<br>{{Small|(1831–1896)}}<br>{{sfn|Sobel|1978|pp=1145–1146}}<ref name="nga-holt">{{Cite web |title=Thomas Michael Holt |url=https://www.nga.org/governor/thomas-michael-holt/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="653"|April 7, 1891<ref>{{Cite news |date=1891-04-08 |title=Governor Fowle Dead |page=1 |work=Asheville Citizen-Times |url=https://www.newspapers.com/article/asheville-citizen-times/15396638/ |access-date=2023-05-29}}</ref><br/>–<br/>January 18, 1893<br>{{small|(653 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1145–1146}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Carr, Elias"|[[File:Elias Carr - Gouverneur von Nord-Carolina.jpg|75px]]
+|'''[[Elias Carr]]'''<br>{{Small|(1839–1900)}}<br>{{sfn|Sobel|1978|pp=1146–1147}}<ref name="nga-carr">{{Cite web |title=Elias Carr |url=https://www.nga.org/governor/elias-carr/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1456"|January 18, 1893<ref>{{Cite news |date=1893-01-19 |title=Governor Elias Carr |page=1 |work=The State Chronicle |url=https://www.newspapers.com/article/the-state-chronicle-carr-inaugurated-jan/125491020/ |access-date=2023-05-29}}</ref><br/>–<br/>January 12, 1897<br>{{small|(1456 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1892 North Carolina gubernatorial election|1892]]
+|{{sortname|Rufus A.|Doughton}}
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Russell, Daniel"|[[File:Daniel Lindsay Russell.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Daniel Lindsay Russell]]'''<br>{{Small|(1845–1908)}}<br>{{sfn|Sobel|1978|pp=1147–1148}}<ref name="nga-russell">{{Cite web |title=Daniel Lindsay Russell |url=https://www.nga.org/governor/daniel-lindsay-russell/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 12, 1897<ref>{{Cite news |date=1897-01-13 |title=Russell Inaugurated |page=4 |work=The Wilmington Morning Star |url=https://www.newspapers.com/article/the-wilmington-morning-star-russell-inau/125491042/ |access-date=2023-05-29}}</ref><br/>–<br/>January 15, 1901<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1896 North Carolina gubernatorial election|1896]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Charles A.|Reynolds}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Aycock, Charles"|[[File:Picture of Charles Brantley Aycock.jpg|75px]]
+|rowspan="20" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Charles Brantley Aycock]]'''<br>{{Small|(1859–1912)}}<br>{{sfn|Sobel|1978|pp=1148–1149}}<ref name="nga-aycock">{{Cite web |title=Charles Brantley Aycock |url=https://www.nga.org/governor/charles-brantley-aycock/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1458"|January 15, 1901<ref>{{Cite news |date=1901-01-16 |title=Inauguration of Aycock |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-aycock-inaugurate/125542547/ |access-date=2023-05-30}}</ref><br/>–<br/>January 11, 1905<br>{{small|(1458 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1900 North Carolina gubernatorial election|1900]]
+|rowspan="17" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Wilfred D.|Turner}}
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Glenn, Robert"|[[File:Robert Broadnax Glenn.jpg|75px]]
+|'''[[Robert Broadnax Glenn]]'''<br>{{Small|(1854–1920)}}<br>{{sfn|Sobel|1978|pp=1149–1150}}<ref name="nga-glenn">{{Cite web |title=Robert Broadnax Glenn |url=https://www.nga.org/governor/robert-broadnax-glenn/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1463"|January 11, 1905<ref>{{Cite news |date=1905-01-12 |title=New Governor Inaugurated |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-new-governor-inau/125542642/ |access-date=2023-05-30}}</ref><br/>–<br/>January 12, 1909<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1904 North Carolina gubernatorial election|1904]]
+|{{sortname|Francis D.|Winston}}
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Kitchin, William"|[[File:WilliamWaltonKitchin.jpg|75px]]
+|'''[[William Walton Kitchin]]'''<br>{{Small|(1866–1924)}}<br>{{sfn|Sobel|1978|pp=1150–1151}}<ref name="nga-kitchin">{{Cite web |title=William Walton Kitchin |url=https://www.nga.org/governor/william-walton-kitchin/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1465"|January 12, 1909<ref>{{Cite news |date=1909-01-13 |title=New Officers Take Oath |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-new-officers-take/125542711/ |access-date=2023-05-30}}</ref><br/>–<br/>January 15, 1913<br>{{small|(1465 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1908 North Carolina gubernatorial election|1908]]
+|{{sortname|William C.|Newland}}
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Craig, Locke"|[[File:Locke Craig.jpg|75px]]
+|'''[[Locke Craig]]'''<br>{{Small|(1860–1924)}}<br>{{sfn|Sobel|1978|pp=1151–1152}}<ref name="nga-craig">{{Cite web |title=Locke Craig |url=https://www.nga.org/governor/locke-craig/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1458"|January 15, 1913<ref>{{Cite news |date=1913-01-16 |title=Craig Is Now Our Governor |page=1 |work=The Herald-Sun |url=https://www.newspapers.com/article/the-herald-sun-craig-is-now-our-governor/125542830/ |access-date=2023-05-30}}</ref><br/>–<br/>January 11, 1917<br>{{small|(1458 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1912 North Carolina gubernatorial election|1912]]
+|{{sortname|Elijah L.|Daughtridge}}
+|- style="height:2em;"
+!scope="row"|54
+|data-sort-value="Bickett, Thomas"|[[File:ThomasWBickett.jpg|75px]]
+|'''[[Thomas Walter Bickett]]'''<br>{{Small|(1869–1921)}}<br>{{sfn|Sobel|1978|p=1152}}<ref name="nga-bickett">{{Cite web |title=Thomas Walter Bickett |url=https://www.nga.org/governor/thomas-walter-bickett/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1463"|January 11, 1917<ref>{{Cite news |date=1917-01-12 |title=Thomas Walker Bickett Assumes Governorship |page=1 |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-thomas-walker-bick/125542901/ |access-date=2023-05-30}}</ref><br/>–<br/>January 12, 1921<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1916 North Carolina gubernatorial election|1916]]
+|{{sortname|Oliver Max|Gardner}}
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Morrison, Cameron"|[[File:Cameron A. Morrison.jpg|75px]]
+|'''[[Cameron A. Morrison]]'''<br>{{Small|(1869–1953)}}<br>{{sfn|Sobel|1978|pp=1153–1154}}<ref name="nga-morrison">{{Cite web |title=Cameron A. Morrison |url=https://www.nga.org/governor/cameron-a-morrison/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 12, 1921<ref>{{Cite news |last=Powell |first=R. E. |date=1921-01-13 |title=Ovation to Governor Morrison a Reminder of Vance's Inauguration |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-ovation-to-govern/125542992/ |access-date=2023-05-30}}</ref><br/>–<br/>January 14, 1925<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1920 North Carolina gubernatorial election|1920]]
+|{{sortname|William B.|Cooper|dab=North Carolina politician}}
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="McLean, Angus"|[[File:Angus Wilton McLean.jpg|75px]]
+|'''[[Angus Wilton McLean]]'''<br>{{Small|(1870–1935)}}<br>{{sfn|Sobel|1978|pp=1154–1155}}<ref name="nga-mclean">{{Cite web |title=Angus Wilton Mclean |url=https://www.nga.org/governor/angus-wilton-mclean/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1459"|January 14, 1925<ref>{{Cite news |date=1925-01-15 |title=M'Lean Inaugurated Governor |page=1 |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-mlean-inaugurated/125543067/ |access-date=2023-05-30}}</ref><br/>–<br/>January 11, 1929<br>{{small|(1459 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1924 North Carolina gubernatorial election|1924]]
+|{{sortname|J. Elmer|Long}}
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Gardner, Oliver"|[[File:GARDNER, O.M. GOVERNOR LCCN2016862611 (3x4 crop).jpg|75px]]
+|'''[[Oliver Max Gardner]]'''<br>{{Small|(1882–1947)}}<br>{{sfn|Sobel|1978|pp=1155–1156}}<ref name="nga-gardner">{{Cite web |title=Oliver Max Gardner |url=https://www.nga.org/governor/oliver-max-gardner/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1456"|January 11, 1929<ref>{{Cite news |last=Wade |first=Jake |date=1929-01-12 |title=Thousands Cheer Gardner at Inaugural |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-thousands-cheer-g/125543123/ |access-date=2023-05-30}}</ref><br/>–<br/>January 5, 1933<br>{{small|(1456 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1928 North Carolina gubernatorial election|1928]]
+|{{sortname|Richard T.|Fountain}}
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Ehringhaus, John"|[[File:JohnEhringhaus.jpg|75px]]
+|'''[[John C. B. Ehringhaus]]'''<br>{{Small|(1882–1949)}}<br>{{sfn|Sobel|1978|pp=1156–1157}}<ref name="nga-ehringhaus">{{Cite web |title=John Christopher Blucher Ehringhaus |url=https://www.nga.org/governor/john-christopher-blucher-ehringhaus/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 5, 1933<ref>{{Cite news |last=Parker |first=Charles J. |date=1933-01-06 |title=New Governor Takes Office |page=1 |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-new-governor-takes/125543197/ |access-date=2023-05-30}}</ref><br/>–<br/>January 7, 1937<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1932 North Carolina gubernatorial election|1932]]
+|{{sortname|Alexander H.|Graham}}
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="Hoey, Clyde"|[[File:Clyde Hoey.jpg|75px]]
+|'''[[Clyde R. Hoey]]'''<br>{{Small|(1877–1954)}}<br>{{sfn|Sobel|1978|pp=1157–1158}}<ref name="nga-hoey">{{Cite web |title=Clyde Roark Hoey |url=https://www.nga.org/governor/clyde-roark-hoey/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 7, 1937<ref>{{Cite news |date=1937-01-08 |title=Hoey Outlines Program in Inaugural Address |page=1 |work=The Charlotte Observer |agency=Associated Press |url=https://www.newspapers.com/article/the-charlotte-observer-hoey-outlines-pro/125543288/ |access-date=2023-05-30}}</ref><br/>–<br/>January 9, 1941<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1936 North Carolina gubernatorial election|1936]]
+|{{sortname|Wilkins P.|Horton}}
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Broughton, Melville"|[[File:Melville Broughton.jpg|75px]]
+|'''[[J. Melville Broughton]]'''<br>{{Small|(1888–1949)}}<br>{{sfn|Sobel|1978|pp=1158–1159}}<ref name="nga-broughton">{{Cite web |title=Joseph Melville Broughton |url=https://www.nga.org/governor/joseph-melville-broughton/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 9, 1941<ref>{{Cite news |last=Wohl |first=Stanley |date=1941-01-10 |title=Governor Inducted in Solemn Ceremony |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-governor-inducted/125543327/ |access-date=2023-05-30}}</ref><br/>–<br/>January 4, 1945<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1940 North Carolina gubernatorial election|1940]]
+|{{sortname|Reginald L.|Harris}}
+|- style="height:2em;"
+!scope="row"|61
+|data-sort-value="Cherry, R."|[[File:Robert Gregg Cherry.jpg|75px]]
+|'''[[R. Gregg Cherry]]'''<br>{{Small|(1891–1957)}}<br>{{sfn|Sobel|1978|p=1159}}<ref name="nga-cherry">{{Cite web |title=Robert Gregg Cherry |url=https://www.nga.org/governor/robert-gregg-cherry/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 4, 1945<ref>{{Cite news |last=Newsom |first=Francis |date=1945-01-05 |title=Gregg Cherry Inaugurated As State's New Governor |page=1 |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-gregg-cherry-inaug/125543384/ |access-date=2023-05-30}}</ref><br/>–<br/>January 6, 1949<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1944 North Carolina gubernatorial election|1944]]
+|{{sortname|Lynton Y.|Ballentine}}
+|- style="height:2em;"
+!scope="row"|62
+|data-sort-value="Scott, W."|[[File:W. Kerr Scott.jpg|75px]]
+|'''[[W. Kerr Scott]]'''<br>{{Small|(1896–1958)}}<br>{{sfn|Sobel|1978|pp=1160–1161}}<ref name="nga-scott-w">{{Cite web |title=William Kerr Scott |url=https://www.nga.org/governor/william-kerr-scott/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 6, 1949<ref>{{Cite news |last=M'Caughelty |first=Tom |date=1949-01-07 |title='Go Forward Program' Offered by Kerr Scott; Governor's Oath Taken Before Joint Session |page=1 |work=The Herald-Sun |url=https://www.newspapers.com/article/the-herald-sun-go-forward-program-offe/125543498/ |access-date=2023-05-30}}</ref><br/>–<br/>January 8, 1953<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1868}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1948 North Carolina gubernatorial election|1948]]
+|{{sortname|Hoyt Patrick|Taylor}}
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Umstead, William"|[[File:William Bradley Umstead.jpg|75px]]
+|'''[[William B. Umstead]]'''<br>{{Small|(1895–1954)}}<br>{{sfn|Sobel|1978|pp=1161–1162}}<ref name="nga-umstead">{{Cite web |title=William Bradley Umstead |url=https://www.nga.org/governor/william-bradley-umstead/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="669"|January 8, 1953<ref>{{Cite news |last=Howland |first=Ralph |date=1953-01-09 |title=Umstead Charts Far-Reaching Program After Taking Office |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-umstead-charts-fa/125544599/ |access-date=2023-05-30}}</ref><br/>–<br/>November 7, 1954<br>{{small|(669 days; died in office)}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1952 North Carolina gubernatorial election|1952]]
+|{{sortname|Luther H.|Hodges}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|64
+|rowspan="2" data-sort-value="Hodges, Luther"|[[File:N 85 29 L Hodges-Bill Friday-Bob House 56 (8080601640) (cropped).jpg|75px]]
+|rowspan="2"|'''[[Luther H. Hodges]]'''<br>{{Small|(1898–1974)}}<br>{{sfn|Sobel|1978|pp=1162–1163}}<ref name="nga-hodges">{{Cite web |title=Luther Hartwell Hodges |url=https://www.nga.org/governor/luther-hartwell-hodges/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2252"|November 7, 1954<ref>{{Cite news |date=1954-11-08 |title=State Leaders Are Confronted With Problem |page=1 |work=The Herald-Sun |agency=Associated Press |url=https://www.newspapers.com/article/the-herald-sun-state-leaders-are-confron/125544715/ |access-date=2023-05-30}}</ref><br/>–<br/>January 5, 1961<br>{{small|(2252 days; term-limited)}}{{efn|name=limits-1868}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|style="background:#EEEEEE;"|{{small|Lieutenant<br />governor<br />acting}}
+|style="background:#EEEEEE;"|''Acting as governor''
+|- style="height:2em;"
+|[[1956 North Carolina gubernatorial election|1956]]
+|{{sortname|Luther E.|Barnhardt}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|65
+|rowspan="2" data-sort-value="Sanford, Terry"|[[File:Terry Sanford 1961.jpg|75px]]
+|rowspan="2"|'''[[Terry Sanford]]'''<br>{{Small|(1917–1998)}}<br>{{sfn|Sobel|1978|pp=1163–1164}}<ref name="nga-sanford">{{Cite web |title=James Terry Sanford |url=https://www.nga.org/governor/james-terry-sanford/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1465"|January 5, 1961<ref>{{Cite news |last=Jenkins |first=Jay |date=1961-01-06 |title=Sanford Takes N.C. Helm From Hodges |page=1 |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-sanford-takes-nc/125544903/ |access-date=2023-05-30}}</ref><br/>–<br/>January 8, 1965<br>{{small|(1465 days; term-limited)}}{{efn|Under a 1962 amendment to the constitution, governors were ineligible to succeed themselves.<ref>{{Cite web |title=1868 N.C. Const. art. III, § 2, as amended in 1962 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NC%27&CID=181&art=3&sec=2&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1962}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|rowspan="2"|[[1960 North Carolina gubernatorial election|1960]]
+|{{sortname|Harvey Cloyd|Philpott}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|66
+|data-sort-value="Moore, Dan"|[[File:Dan K. Moore.jpg|75px]]
+|'''[[Dan K. Moore]]'''<br>{{Small|(1906–1986)}}<br>{{sfn|Sobel|1978|p=1165}}<ref name="nga-moore">{{Cite web |title=Dan Killian Moore |url=https://www.nga.org/governor/dan-killian-moore/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 8, 1965<ref>{{Cite news |last=Jenkins |first=Jay |date=1965-01-09 |title=Moore Takes Oath As N.C.'s Governor |page=1A |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-moore-takes-oath/125544988/ |access-date=2023-05-30}}</ref><br/>–<br/>January 3, 1969<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1962}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1964 North Carolina gubernatorial election|1964]]
+|rowspan="6" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Robert W.|Scott}}
+|- style="height:2em;"
+!scope="row"|67
+|data-sort-value="Scott, Robert"|[[File:Robert W. Scott official photo.jpg|96x96px]]
+|'''[[Robert W. Scott]]'''<br>{{Small|(1929–2009)}}<br>{{sfn|Sobel|1978|p=1166}}<ref name="nga-scott-robert">{{Cite web |title=Robert Walter Scott |url=https://www.nga.org/governor/robert-walter-scott/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 3, 1969<ref>{{Cite news |last=Clay |first=Russell |date=1969-01-04 |title=Governor Scott Promises to Steer Progressive Path |page=1 |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-governor-scott-pro/125545071/ |access-date=2023-05-30}}</ref><br/>–<br/>January 5, 1973<br>{{small|(1464 days; term-limited)}}{{efn|Under the 1971 constitution, governors were ineligible to succeed themselves.<ref>{{Cite web |title=1971 N.C. Const. art. III, § 2, original |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27NC%27&CID=182&art=3&sec=2&amd=&key=&Yr= |access-date=2023-12-19 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1971}}
+|[[North Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1968 North Carolina gubernatorial election|1968]]
+|{{sortname|Hoyt Patrick|Taylor Jr.}}
+|- style="height:2em;"
+!scope="row"|68
+|data-sort-value="Holshouser, James"|[[File:James Holshouser official photo.jpg|98x98px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James Holshouser]]'''<br>{{Small|(1934–2013)}}<br>{{sfn|Sobel|1978|p=1167}}<ref name="nga-holshouser">{{Cite web |title=James E. Holshouser |url=https://www.nga.org/governor/james-e-holshouser/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1465"|January 5, 1973<ref>{{Cite news |last=Tarleton |first=Larry |date=1973-01-06 |title=Holshouser Sworn In As Governor |page=1A |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-holshouser-sworn/125573108/ |access-date=2023-05-30}}</ref><br/>–<br/>January 8, 1977<br>{{small|(1465 days; term-limited)}}{{efn|name=limits-1971}}
+|[[North Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=440–442}}
+|[[1972 North Carolina gubernatorial election|1972]]
+|{{sortname|Jim|Hunt}}{{efn|Represented the [[North Carolina Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|69
+|rowspan="2" data-sort-value="Hunt, Jim"|[[File:Jim Hunt (NC, portrait).jpg|91x91px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jim Hunt]]'''<br>{{small|(1937–2025)}}<br>{{sfn|Sobel|1978|p=1168}}<ref name="nga-hunt">{{Cite web |title=James B. Hunt |url=https://www.nga.org/governor/james-b-hunt/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 8, 1977<ref>{{Cite news |last=Covington |first=Howard |date=1977-01-09 |title=Hunt Takes Office As Governor |page=1A |work=The Charlotte Observer |url=https://www.newspapers.com/article/the-charlotte-observer-hunt-takes-office/125575176/ |access-date=2023-05-30}}</ref><br/>–<br/>January 5, 1985<br>{{small|(2920 days; term-limited)}}{{efn|Under a 1977 amendment to the constitution, governors are ineligible for election to more than two consecutive terms.<ref>{{Cite web |title=N.C. Const. art. III, § 2 |url=https://www.ncleg.gov/Laws/Constitution/Article3 |access-date=2023-12-19}}</ref>|name=limits-1977}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]<ref name="nga-hunt" />
+|[[1976 North Carolina gubernatorial election|1976]]
+|rowspan="2"|{{sortname|James C.|Green}}
+|- style="height:2em;"
+|[[1980 North Carolina gubernatorial election|1980]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|70
+|rowspan="2" data-sort-value="Martin, James"|[[File:James G. Martin.jpg|134x134px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[James G. Martin]]'''<br>{{small|({{Abbr|b.|born in}} 1935)}}<br><ref name="nga-martin-james">{{Cite web |title=James G Martin |url=https://www.nga.org/governor/james-g-martin/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 5, 1985<ref>{{Cite news |last=Alston |first=Chuck |last2=Pittman |first2=Tim |date=1985-01-06 |title=Jim Martin Takes Oath As Governor |page=A1 |work=News and Record |url=https://www.newspapers.com/article/news-and-record-jim-martin-takes-oath-as/125575251/ |access-date=2023-05-30}}</ref><br/>–<br/>January 9, 1993<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1977}}
+|rowspan="2"|[[North Carolina Republican Party|Republican]]<ref name="nga-martin-james" />
+|[[1984 North Carolina gubernatorial election|1984]]
+|{{sortname|Robert B.|Jordan}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1988 North Carolina gubernatorial election|1988]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Jim|Gardner|dab=politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|71
+|rowspan="2" data-sort-value="Hunt, Jim"|[[File:Jim Hunt official portrait.jpg|96x96px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Jim Hunt]]'''<br>{{small|(1937–2025)}}<br>{{sfn|Sobel|1978|p=1168}}<ref name="nga-hunt" />
+|rowspan="2" data-sort-value="2920"|January 9, 1993<ref>{{Cite news |last=Christensen |first=Rob |date=1993-01-10 |title=Hunt's Third Oath |page=1A |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-hunts-third-oath/125575345/ |access-date=2023-05-30}}</ref><br/>–<br/>January 6, 2001<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1977}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]<ref name="nga-hunt" />
+|[[1992 North Carolina gubernatorial election|1992]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Dennis A.|Wicker}}
+|- style="height:2em;"
+|[[1996 North Carolina gubernatorial election|1996]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|72
+|rowspan="2" data-sort-value="Easley, Mike"|[[File:Three former North Carolina governors and a transportation secretary (cropped).jpg|89x89px]]
+|rowspan="2"|'''[[Mike Easley]]'''<br>{{small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-easley">{{Cite web |title=Michael F. Easley |url=https://www.nga.org/governor/michael-f-easley/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 6, 2001<ref>{{Cite news |last=Gardner |first=Amy |date=2001-01-07 |title='One State, One People' – Easley Emphasizes Opportunities for All of N.C. |page=1A |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-one-state-one-pe/125575395/ |access-date=2023-05-30}}</ref><br/>–<br/>January 10, 2009<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1977}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]<ref name="nga-easley" />
+|[[2000 North Carolina gubernatorial election|2000]]
+|rowspan="2"|{{sortname|Bev|Perdue}}
+|- style="height:2em;"
+|[[2004 North Carolina gubernatorial election|2004]]
+|- style="height:2em;"
+!scope="row"|73
+|data-sort-value="Perdue, Bev"|[[File:Beverly Perdue official photo.jpg|75px]]
+|'''[[Bev Perdue]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-perdue">{{Cite web |title=Bev Perdue |url=https://www.nga.org/governor/bev-perdue/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 10, 2009<ref>{{Cite news |last=Johnson |first=Mark |last2=Niolet |first2=Benjamin |date=2009-01-11 |title='New Beginning' - First Female Governor Takes Office Vowing to 'Think Big' |page=1A |work=The News and Observer |url=https://www.newspapers.com/article/the-news-and-observer-new-beginning/125575465/ |access-date=2023-05-30}}</ref><br/>–<br/>January 5, 2013<br>{{small|(1457 days; retired)}}
+|[[North Carolina Democratic Party|Democratic]]<ref name="nga-perdue" />
+|[[2008 North Carolina gubernatorial election|2008]]
+|{{sortname|Walter|Dalton}}
+|- style="height:2em;"
+!scope="row"|74
+|data-sort-value="McCrory, Pat"|[[File:Governor Pat McCrory 2014.jpg|101x101px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Pat McCrory]]'''<br>{{small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-mccrory">{{Cite web |title=Pat McCrory |url=https://www.nga.org/governor/pat-mccrory/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1458"|January 5, 2013<ref>{{Cite news |date=2013-01-05 |title=McCrory Sworn In As North Carolina's 74th Governor |language=en-US |url=https://www.carolinajournal.com/mccrory-sworn-in-as-north-carolinas-74th-governor/ |access-date=2023-05-30}}</ref><br/>–<br/>January 1, 2017<br>{{small|(1458 days; lost election)}}
+|[[North Carolina Republican Party|Republican]]<ref name="nga-mccrory" />
+|[[2012 North Carolina gubernatorial election|2012]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Dan|Forest}}{{efn|Represented the [[North Carolina Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|75
+|rowspan="2" data-sort-value="Cooper, Roy"|[[File:RoyCooper2023.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Roy Cooper]]'''<br>{{small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-cooper">{{Cite web |title=Roy Cooper |url=https://www.nga.org/governor/roy-cooper/ |access-date=May 26, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2923"|January 1, 2017<ref>{{Cite news |date=2017-01-01 |title=Roy Cooper Sworn In As North Carolina Governor |language=en |url=https://www.wtkr.com/2017/01/01/roy-cooper-sworn-in-as-north-carolina-governor |access-date=2023-05-30}}</ref><br/>–<br/>January 1, 2025<br>{{small|(2923 days; term-limited)}}{{efn|name=limits-1977}}
+|rowspan="2"|[[North Carolina Democratic Party|Democratic]]<ref name="nga-cooper" />
+|[[2016 North Carolina gubernatorial election|2016]]
+|- style="height:2em;"
+|[[2020 North Carolina gubernatorial election|2020]]
+|{{sortname|Mark|Robinson|dab=American politician}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|76
+|data-sort-value="Stein, Josh"|[[File:Secretary Turner Meeting with Josh Stein, Governor of North Carolina - 54519013726 (cropped).jpg|99x99px]]
+|'''[[Josh Stein]]'''<br>{{small|({{Abbr|b.|born in}} 1966)}}<br><ref name="nga-stein">{{Cite web |title=Josh Stein |url=https://www.nga.org/governor/josh-stein/ |access-date=January 9, 2025 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2025|1|1|duration=on|format=no}}"|January 1, 2025<ref>{{Cite news |last=Perchick |first=Michael |date=2025-01-01 |title=Josh Stein becomes Governor of North Carolina after taking oath of office on New Year's Day |url=https://abc11.com/post/josh-stein-north-carolina-first-jewish-governor-oath-of-office-new-years-day-transfer-power-roy-cooper/15737338/ |access-date=2025-01-23 |work=WTVD |language=en}}</ref><br/>–<br/>Incumbent{{efn|Stein's term [[2028 North Carolina gubernatorial election|will expire]] in January 2029.}}<br>{{small|(in office {{Duration in days nts|2025|1|1|duration=on|format=no}} days)}}
+|[[North Carolina Democratic Party|Democratic]]<ref name="nga-stein" />
+|[[2024 North Carolina gubernatorial election|2024]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Rachel|Hunt}}
+|}
+
+==See also==
+* [[List of first ladies and gentlemen of North Carolina]]
+* [[List of North Carolina state legislatures]]
+
+==Notes==
+{{notelist}}
+
+==References==
+
+;General
+{{refbegin}}
+*{{Cite web |title=Former North Carolina Governors |url=https://www.nga.org/former-governors/north-carolina/ |access-date=May 16, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=May 9, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of North Carolina - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=159 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+* {{Cite web |title=Our Campaigns - Governor of North Carolina (CSA) - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=68431 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|Governors of North Carolina}}
+*[https://governor.nc.gov/ Office of the Governor of North Carolina]
+
+{{Governors of North Carolina}}
+{{Navboxes
+|title=Articles related to governors of North Carolina
+|list1=
+{{North Carolina Council of State}}
+{{Lists of US Governors}}
+{{North Carolina}}
+}}
+{{Portal bar|Biography|Politics|United States}}
+{{Authority control}}
+
+{{DEFAULTSORT:North Carolina, List Of Governors Of}}
+[[Category:Governors of North Carolina|*List]]
+[[Category:Lists of North Carolina politicians|Governors]]
+[[Category:Lists of state governors of the United States]]
+[[Category:North Carolina history-related lists|Governors]]

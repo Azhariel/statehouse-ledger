@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Statehouse Ledger: party control of US states, 1856 to 2026</title>
+<meta name="description" content="An animated map of which party has controlled each US state, year by year since 1856. Count by governor or by 2 of 3 branches, from any start year.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Statehouse Ledger: party control of US states, 1856 to 2026">
+<meta property="og:site_name" content="Statehouse Ledger">
+<meta property="og:url" content="https://statehouse-ledger.vercel.app/">
+<meta property="og:description" content="Every state's running party lead since 1856, by governor or by governor + legislature. Pick any start year, like the year you were born.">
+<meta property="og:image" content="https://statehouse-ledger.vercel.app/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#14161a">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2314161a'/%3E%3Crect x='5' y='5' width='11' height='22' rx='2' fill='%232f5fa7'/%3E%3Crect x='16' y='5' width='11' height='22' rx='2' fill='%23b83a3a'/%3E%3C/svg%3E">
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<script src="data/dataset.js"></script>
+<style>
+  :root {
+    --bg: #14161a;
+    --panel: #1c1f24;
+    --ink: #e8e6e1;
+    --muted: #8b9099;
+    --line: #2c3037;
+    --d-fill: #2f5fa7;
+    --r-fill: #b83a3a;
+    --o-fill: #8a7f6e;
+    --n-fill: #4a4d52;
+    --x-fill: #22252a;
+    --s-fill: #6e5a8a;
+    --s-text: #b9a3d9;
+    --d-text: #6aaeff;
+    --r-text: #ff6060;
+    --halo: #0d0f12;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif;
+    touch-action: manipulation;
+  }
+  main { max-width: 1180px; margin: 0 auto; padding: 20px 24px 40px; }
+  header { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
+  h1 { font-size: 20px; margin: 0 0 4px; font-weight: 600; }
+  h1 .tagline { font-weight: 400; color: var(--muted); font-size: 15px; margin-left: 6px; }
+  .sub { color: var(--muted); font-size: 13px; }
+  .year { font-size: 64px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; letter-spacing: -1px; }
+
+  .controls { display: flex; align-items: center; gap: 10px; margin: 16px 0 4px; flex-wrap: wrap; }
+  button, select, input[type=number] {
+    background: var(--panel); color: var(--ink); border: 1px solid var(--line);
+    border-radius: 6px; padding: 6px 12px; font: inherit; cursor: pointer;
+  }
+  input[type=number] { width: 92px; cursor: text; }
+  button:hover:not(:disabled), select:hover { border-color: var(--muted); }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  button.on { background: #2a2f37; border-color: var(--muted); }
+  #play { width: 84px; }
+  input[type=range] { flex: 1; min-width: 200px; accent-color: #c9c4b8; }
+  .seg { display: inline-flex; }
+  .seg button { border-radius: 0; }
+  .seg button:first-child { border-radius: 6px 0 0 6px; }
+  .seg button:last-child { border-radius: 0 6px 6px 0; border-left: 0; }
+  .from { display: inline-flex; gap: 6px; align-items: center; }
+
+  .stats { display: flex; gap: 6px 28px; flex-wrap: wrap; margin: 10px 0 0; color: var(--muted); font-size: 13px; }
+  .stats b { color: var(--ink); font-variant-numeric: tabular-nums; }
+  .chip { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
+
+  #map { width: 100%; height: auto; display: block; margin-top: 8px; }
+  .state { stroke: var(--bg); stroke-width: .8; transition: fill .25s; cursor: pointer; }
+  .state.hover { stroke: #fff; stroke-width: 1.6; }
+  .label { pointer-events: none; text-anchor: middle; paint-order: stroke; stroke: var(--halo); stroke-linejoin: round; }
+  .label .num { font-weight: 700; font-size: 15px; stroke-width: 3.5px; font-variant-numeric: tabular-nums; }
+  .label .num.callout { font-size: 13px; }
+  .label .code { font-size: 8.5px; fill: #fff; opacity: .65; stroke-width: 2.5px; letter-spacing: .5px; }
+  .label line { stroke: var(--muted); stroke-width: .7; }
+
+  .legend { display: flex; gap: 8px 22px; flex-wrap: wrap; color: var(--muted); font-size: 12.5px; margin: 4px 0 18px; }
+  .legend .num { font-weight: 700; }
+
+  h2 { font-size: 15px; margin: 22px 0 6px; font-weight: 600; }
+  #fedline { color: var(--muted); margin-bottom: 6px; min-height: 20px; }
+  #fedline b { color: var(--ink); }
+  #fed { width: 100%; height: auto; display: block; }
+  #fed .row-label { fill: var(--muted); font-size: 11px; text-anchor: end; }
+  #fed .tick { fill: var(--muted); font-size: 10px; text-anchor: middle; }
+  #fed .cell { cursor: pointer; }
+  #fed .cursor { fill: none; stroke: #fff; stroke-width: 1.5; pointer-events: none; }
+
+  #about { margin-top: 30px; border-top: 1px solid var(--line); padding-top: 6px; color: #c4c2bc; font-size: 13.5px; }
+  #about h3 { font-size: 13.5px; margin: 16px 0 4px; color: var(--ink); }
+  #about p, #about ul { margin: 0 0 8px; }
+  #about ul { padding-left: 20px; }
+  #about li { margin-bottom: 3px; }
+  #about a, footer a { color: var(--muted); }
+  footer { color: var(--muted); font-size: 12px; margin-top: 22px; border-top: 1px solid var(--line); padding-top: 12px; }
+
+  #tip {
+    position: fixed; pointer-events: none; background: #0f1114; border: 1px solid var(--line);
+    border-radius: 6px; padding: 8px 10px; font-size: 12.5px; max-width: min(300px, calc(100vw - 16px)); opacity: 0;
+    transition: opacity .1s; z-index: 10;
+  }
+  #tip .t { font-weight: 600; margin-bottom: 3px; }
+  #tip .m { color: var(--muted); }
+
+  @media (max-width: 720px) {
+    main { padding: 14px 12px 32px; }
+    header { align-items: flex-start; gap: 6px; }
+    h1 { font-size: 17px; }
+    h1 .tagline { display: block; margin: 2px 0 0; font-size: 13px; }
+    .year { font-size: 44px; }
+    .controls { gap: 8px; }
+    .controls input[type=range] { order: -1; flex-basis: 100%; }
+    button, select, input[type=number] { padding: 8px 10px; }
+    .stats { font-size: 12.5px; }
+    .label .code { display: none; }
+    .label .num { font-size: 24px; stroke-width: 4.5px; }
+    .label .num.callout { font-size: 18px; }
+    .legend { font-size: 12px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div>
+      <h1>Statehouse Ledger <span class="tagline">Party control of US states since 1856</span></h1>
+      <div class="sub" id="subtitle"></div>
+    </div>
+    <div class="year" id="year">2026</div>
+  </header>
+
+  <div class="controls">
+    <button id="play">▶ Play</button>
+    <button id="back" title="Previous year (←)" aria-label="Previous year">◀</button>
+    <input type="range" id="slider" aria-label="Year">
+    <button id="fwd" title="Next year (→)" aria-label="Next year">▶</button>
+    <select id="speed" title="Playback speed" aria-label="Playback speed">
+      <option value="2">2 yrs/s</option>
+      <option value="5" selected>5 yrs/s</option>
+      <option value="10">10 yrs/s</option>
+      <option value="20">20 yrs/s</option>
+    </select>
+    <span class="from">
+      <select id="from-preset" title="Start counting from this year" aria-label="Start counting from">
+        <option value="1856" selected>Count from 1856</option>
+        <option value="1900">Count from 1900</option>
+        <option value="1932">Count from 1932 (New Deal)</option>
+        <option value="1964">Count from 1964 (Civil Rights era)</option>
+        <option value="1980">Count from 1980</option>
+        <option value="2000">Count from 2000</option>
+        <option value="custom">Count from a custom year…</option>
+      </select>
+      <input type="number" id="from-year" min="1856" max="2026" placeholder="Birth year?" inputmode="numeric"
+             title="Any year from 1856 to 2026, like the year you were born" aria-label="Custom start year" hidden>
+    </span>
+    <span class="seg" title="Scoring rule">
+      <button class="on" id="mode-gov">Governor</button>
+      <button id="mode-2of3" title="A party needs 2 of 3: governor, state Senate, state House">2 of 3</button>
+    </span>
+  </div>
+
+  <div class="stats" id="stats"></div>
+
+  <svg id="map" viewBox="0 0 975 610" role="img" aria-label="US map colored by party control, with each state's running party lead"></svg>
+
+  <div class="legend">
+    <span><i class="chip" style="background:var(--d-fill)"></i>Democratic <span class="what">governor</span></span>
+    <span><i class="chip" style="background:var(--r-fill)"></i>Republican <span class="what">governor</span></span>
+    <span id="legend-split" hidden><i class="chip" style="background:var(--s-fill)"></i>Split control</span>
+    <span><i class="chip" style="background:var(--o-fill)"></i>Other party</span>
+    <span><i class="chip" style="background:var(--n-fill)"></i>No party / vacant / military rule</span>
+    <span><i class="chip" style="background:var(--x-fill);outline:1px dashed #555"></i>Not yet a state</span>
+    <span><b class="num" style="color:var(--r-text)">30</b> / <b class="num" style="color:var(--d-text)">30</b> other party leads the count</span>
+    <span><b class="num" style="color:#fff">5</b> current party leads (or tied)</span>
+  </div>
+
+  <h2>Federal control</h2>
+  <div id="fedline"></div>
+  <svg id="fed" role="img" aria-label="Timeline of party control of the presidency, Senate and House"></svg>
+
+  <section id="about">
+    <h2>About the data</h2>
+
+    <h3>How the count works</h3>
+    <p>Each year goes to the party in charge of a state on <b>July 1</b>, which is whoever held office for most of that year.
+      The number in each state is the running lead: years for the leading party minus years for the other.
+      It shows in the leading party's color, or in white when the party in charge right now is also the one ahead.</p>
+
+    <h3>The two scoring rules</h3>
+    <ul>
+      <li><b>Governor:</b> the year goes to the governor's party.</li>
+      <li><b>2 of 3:</b> the year goes to whichever party holds at least two of the governorship, the state Senate and the state House.
+        Otherwise the state is split and the year counts for nobody. Tied or coalition-run chambers count for nobody.
+        Where the legislature was nonpartisan (Nebraska since 1937, Minnesota from 1913 to 1973) or has no recorded data, the governor decides.</li>
+    </ul>
+
+    <h3>Party labels are not ideology</h3>
+    <p>The count follows party names, not positions. The Democrats who ran the South for about a century after Reconstruction were mostly conservative,
+      and the region realigned toward the Republicans between roughly the 1960s and the 1990s. That is why Texas and Georgia carry large blue numbers
+      when counted from 1856. Pick a later start year (or your birth year) to see the modern picture.</p>
+
+    <h3>Judgment calls</h3>
+    <ul>
+      <li>Civil War "Union" and "National Union" governors and legislators count as Republican, except in Kentucky, where the Unionists were ex-Whigs and Union Democrats who opposed the Republicans.</li>
+      <li>Reconstruction-era "Conservative" parties in the South count as Democratic, since they were the Democratic Party under another name.</li>
+      <li>North Dakota's Nonpartisan League and Independent Voters Association count as Republican, since both ran inside the state GOP.</li>
+      <li>Andrew Johnson is shown as "other": he was a Democrat elected on Lincoln's National Union ticket.</li>
+      <li>Where two rival governments claimed a state (Civil War and Reconstruction), the one holding the state capital counts.</li>
+      <li>Presidential provisional governors, military rule and vacancies count for no party. Whigs, Know Nothings, Populists and other third parties count for neither side.</li>
+    </ul>
+
+    <h3>Known gaps</h3>
+    <p>Wikipedia's legislature tables leave some years blank, mostly in the 19th century South (Mississippi, Georgia, Arkansas, Kentucky, Alabama)
+      and in Confederate states during the Civil War. In those years the "2 of 3" score uses what is known, and the state's pop-up says "No data" for the missing chamber.</p>
+
+    <h3>Sources and license</h3>
+    <p>Compiled from Wikipedia: the "List of governors of [State]" and "Political party strength in [State]" pages,
+      "Party divisions of United States Congresses" and "List of presidents of the United States".
+      Wikipedia text is available under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>,
+      and the data derived from it here is shared under the same license. Full governor term data: <a href="data/governors.json">data/governors.json</a>.</p>
+  </section>
+
+  <footer>
+    Data from Wikipedia contributors, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>. Results as of November 2026.
+  </footer>
+</main>
+<div id="tip" role="tooltip"></div>
+
+<script>
+const DATA = window.GOV_DATA;
+const Y0 = DATA.startYear, Y1 = DATA.endYear, N = Y1 - Y0 + 1;
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const FILL = { D: css('--d-fill'), R: css('--r-fill'), O: css('--o-fill'), N: css('--n-fill'), S: css('--s-fill'), '-': css('--x-fill') };
+const TEXT = { D: css('--d-text'), R: css('--r-text'), S: css('--s-text') };
+const PARTY_NAME = { D: 'Democratic', R: 'Republican', O: 'Other', N: 'None' };
+const clampYear = y => Math.max(Y0, Math.min(Y1, Math.round(y)));
+
+// Small eastern states get their labels pushed out into the Atlantic.
+const CALLOUTS = { VT: 150, NH: 172, MA: 194, RI: 216, CT: 238, NJ: 260, DE: 282, MD: 304 };
+const CALLOUT_X = 940;
+// Hand nudges where the geometric centroid looks off.
+const NUDGE = { FL: [14, 6], LA: [-10, -2], MI: [10, 18], KY: [4, 2], ID: [0, 16], CA: [-8, 0], HI: [6, 6], AK: [6, 6], WV: [-3, 3], VA: [8, 2], MN: [-6, 8], NY: [6, 0] };
+
+// Scoring modes: 'gov' = governor's party, 'two' = party holding 2 of governor / Senate / House.
+const HAS_LEG = Object.values(DATA.states).every(s => s.codes2);
+let mode = 'gov';
+const codesOf = s => mode === 'two' ? s.codes2 : s.codes;
+
+// Running counts per state and mode: d[i], r[i], o[i] = years through index i; net = d - r.
+function runningCounts(codes) {
+  const out = { d: new Array(N), r: new Array(N), o: new Array(N) };
+  let d = 0, r = 0, o = 0;
+  for (let i = 0; i < N; i++) {
+    const c = codes[i];
+    if (c === 'D') d++; else if (c === 'R') r++; else if (c !== '-') o++;
+    out.d[i] = d; out.r[i] = r; out.o[i] = o;
+  }
+  return out;
+}
+const byFips = {};
+for (const [code, s] of Object.entries(DATA.states)) {
+  s.code = code;
+  s.counts = { gov: runningCounts(s.codes), two: s.codes2 ? runningCounts(s.codes2) : null };
+  byFips[s.fips] = s;
+}
+// Totals only count years from the selected start year (index `base`) onward.
+let base = 0;
+function tally(s, i) {
+  const k = s.counts[mode], b = base - 1;
+  if (b < 0) return { d: k.d[i], r: k.r[i], o: k.o[i] };
+  return { d: k.d[i] - k.d[b], r: k.r[i] - k.r[b], o: k.o[i] - k.o[b] };
+}
+
+function labelFor(s, i) {
+  const holder = codesOf(s)[i];
+  if (holder === '-') return null;
+  const k = tally(s, i), net = k.d - k.r;
+  const leader = net > 0 ? 'D' : net < 0 ? 'R' : null;
+  const color = (leader === null || leader === holder) ? '#fff' : TEXT[leader];
+  return { value: Math.abs(net), color };
+}
+
+let idx = N - 1, timer = null, hovered = null;
+const tip = document.getElementById('tip');
+
+function showTip(evt, html) {
+  tip.innerHTML = html; tip.style.opacity = 1;
+  const pad = 14, w = tip.offsetWidth, h = tip.offsetHeight;
+  let x = evt.clientX + pad, y = evt.clientY + pad;
+  if (x + w > innerWidth - 8) x = evt.clientX - w - pad;
+  if (y + h > innerHeight - 8) y = evt.clientY - h - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+
+// Bold text in the party's color (D/R only; other parties keep the default ink).
+const partyBold = (text, code) => `<b${TEXT[code] ? ` style="color:${TEXT[code]}"` : ''}>${text}</b>`;
+
+const CHAMBER = { D: 'Democratic', R: 'Republican', O: 'Other party', T: 'Tied / coalition', N: 'Nonpartisan', '?': 'No data' };
+const RESULT = { D: 'Democratic control', R: 'Republican control', S: 'Split control', O: 'Other party', N: 'No party' };
+
+function stateTip(s, i) {
+  const year = Y0 + i, c = codesOf(s)[i];
+  if (c === '-') return `<div class="t">${s.name}</div><div class="m">Not yet a state in ${year} (admitted ${s.admitted.slice(0, 4)})</div>`;
+  const t = s.gov[i] >= 0 ? s.terms[s.gov[i]] : null;
+  const who = t ? `${partyBold(t.name, t.party)}${t.acting ? ' (acting)' : ''} <span class="m">· ${t.party_raw}</span>` : '<span class="m">No governor (vacant / military rule)</span>';
+  let leg = '';
+  if (s.legislature) {
+    const L = s.legislature, row = (name, code, seats) =>
+      `<div><span class="m">${name}:</span> ${partyBold(CHAMBER[code] || code, code)}${seats ? ` <span class="m">(${seats})</span>` : ''}</div>`;
+    leg = row('Senate', L.senate[i], L.senate_seats[i]) + row('House', L.house[i], L.house_seats[i]);
+    if (mode === 'two') leg += `<div style="margin-top:2px">${partyBold(RESULT[c] || c, c)}</div>`;
+  }
+  const k = tally(s, i), net = k.d - k.r;
+  const lead = net === 0 ? 'Tied' : `${partyBold(net > 0 ? 'Democrats' : 'Republicans', net > 0 ? 'D' : 'R')} lead by ${Math.abs(net)}`;
+  return `<div class="t">${s.name}, ${year}</div><div><span class="m">Governor:</span> ${who}</div>${leg}
+    <div class="m" style="margin-top:4px">Since ${Math.max(Y0 + base, +s.admitted.slice(0, 4))}: ${k.d} D · ${k.r} R${k.o ? ` · ${k.o} ${mode === 'two' ? 'split/other' : 'other'}` : ''}</div>
+    <div>${lead}</div>`;
+}
+
+// ---------- Map ----------
+const map = d3.select('#map');
+const path = d3.geoPath();
+function clearHover() { map.selectAll('.state.hover').classed('hover', false); hovered = null; }
+function hoverState(evt, f) {
+  if (hovered !== f.s) clearHover();
+  hovered = f.s;
+  d3.select(evt.currentTarget).classed('hover', true).raise();
+  showTip(evt, stateTip(f.s, idx));
+}
+d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json').then(us => {
+  const features = topojson.feature(us, us.objects.states).features.filter(f => byFips[f.id]);
+  features.forEach(f => { f.s = byFips[f.id]; });
+
+  map.append('path')
+    .attr('d', path(topojson.mesh(us, us.objects.states, (a, b) => a === b)))
+    .attr('fill', 'none').attr('stroke', '#333');
+
+  map.append('g').selectAll('path').data(features).join('path')
+    .attr('class', 'state').attr('d', path)
+    .on('mousemove', hoverState)
+    .on('mouseleave', () => { clearHover(); hideTip(); })
+    // Touch screens have no hover: a tap opens the pop-up, a tap elsewhere closes it.
+    .on('click', (evt, f) => { evt.stopPropagation(); hoverState(evt, f); });
+
+  const labels = map.append('g');
+  for (const f of features) {
+    const code = f.s.code;
+    let [x, y] = path.centroid(f);
+    const nudge = NUDGE[code] || [0, 0];
+    x += nudge[0]; y += nudge[1];
+    const g = labels.append('g').attr('class', 'label').datum(f.s);
+    if (code in CALLOUTS) {
+      const ly = CALLOUTS[code];
+      g.append('line').attr('x1', x).attr('y1', y).attr('x2', CALLOUT_X - 26).attr('y2', ly - 4);
+      g.append('text').attr('class', 'code').attr('x', CALLOUT_X - 22).attr('y', ly).attr('text-anchor', 'start').text(code);
+      g.append('text').attr('class', 'num callout').attr('x', CALLOUT_X).attr('y', ly).attr('text-anchor', 'start');
+    } else {
+      g.append('text').attr('class', 'code').attr('x', x).attr('y', y - 11).text(code);
+      g.append('text').attr('class', 'num').attr('x', x).attr('y', y + 5);
+    }
+  }
+  render();
+});
+document.addEventListener('click', () => { clearHover(); hideTip(); });
+
+// ---------- Federal strip ----------
+const fed = d3.select('#fed');
+const FW = 1130, CELL = (FW - 70) / N, ROWS = [['president', 'President'], ['senate', 'Senate'], ['house', 'House']];
+const RH = 18, FH = ROWS.length * (RH + 4) + 22;
+fed.attr('viewBox', `0 0 ${FW} ${FH}`);
+const fedG = fed.append('g').attr('transform', 'translate(64,0)');
+ROWS.forEach(([key, label], r) => {
+  const y = r * (RH + 4);
+  fedG.append('text').attr('class', 'row-label').attr('x', -8).attr('y', y + RH / 2 + 4).text(label);
+  fedG.append('g').selectAll('rect').data(DATA.federal).join('rect')
+    .attr('class', 'cell')
+    .attr('x', (d, i) => i * CELL).attr('y', y).attr('width', CELL + .3).attr('height', RH)
+    .attr('fill', d => d[key] ? FILL[key === 'president' ? d[key].party : d[key].majority] || FILL.O : FILL['-'])
+    .on('mousemove', (evt, d) => showTip(evt, fedTip(d)))
+    .on('mouseleave', hideTip)
+    .on('click', (evt, d) => { evt.stopPropagation(); stop(); setYear(d.year - Y0); showTip(evt, fedTip(d)); });
+});
+for (let y = 1860; y <= Y1; y += 10) {
+  fedG.append('text').attr('class', 'tick').attr('x', (y - Y0 + .5) * CELL).attr('y', FH - 6).text(y);
+}
+// Dims the federal strip before the selected start year.
+const dimmer = fedG.append('rect').attr('x', 0).attr('y', -1).attr('width', 0).attr('height', ROWS.length * (RH + 4) - 2)
+  .attr('fill', css('--bg')).attr('opacity', .7).style('pointer-events', 'none');
+const cursor = fedG.append('rect').attr('class', 'cursor').attr('y', -1).attr('width', CELL + 1).attr('height', ROWS.length * (RH + 4) - 2);
+
+function seats(ch) {
+  if (!ch) return 'unknown';
+  const parts = [];
+  if (ch.D != null) parts.push(`${ch.D} D`);
+  if (ch.R != null) parts.push(`${ch.R} R`);
+  if (ch.O) parts.push(`${ch.O} other`);
+  return parts.join(' · ');
+}
+function chamberText(ch) {
+  if (!ch) return 'unknown';
+  const name = ch.majority === 'O' ? (ch.majority_raw || 'Other') : PARTY_NAME[ch.majority];
+  return `${partyBold(name, ch.majority)} (${seats(ch)})`;
+}
+function presidentText(p) {
+  return p ? `${partyBold(p.name, p.party)} <span class="m">(${p.party_raw})</span>` : '<b>unknown</b>';
+}
+function fedTip(d) {
+  return `<div class="t">${d.year}${d.congress ? ` · ${d.congress}th Congress` : ''}</div>
+    <div>President: ${presidentText(d.president)}</div>
+    <div>Senate: ${chamberText(d.senate)}</div><div>House: ${chamberText(d.house)}</div>`;
+}
+
+// ---------- Render ----------
+function render() {
+  const year = Y0 + idx;
+  document.getElementById('year').textContent = year;
+  slider.value = idx;
+
+  map.selectAll('.state').attr('fill', f => FILL[codesOf(f.s)[idx]] || FILL.O);
+  map.selectAll('.label').each(function (s) {
+    const lab = labelFor(s, idx);
+    const g = d3.select(this);
+    g.style('display', lab ? null : 'none');
+    if (lab) g.select('.num').text(lab.value).attr('fill', lab.color);
+  });
+  if (hovered && tip.style.opacity === '1') tip.innerHTML = stateTip(hovered, idx);
+
+  // Stats
+  const now = { D: 0, R: 0, S: 0, O: 0 }, lead = { D: 0, R: 0, T: 0 };
+  for (const s of Object.values(DATA.states)) {
+    const c = codesOf(s)[idx];
+    if (c === '-') continue;
+    if (c === 'D' || c === 'R' || c === 'S') now[c]++; else now.O++;
+    const k = tally(s, idx), net = k.d - k.r;
+    lead[net > 0 ? 'D' : net < 0 ? 'R' : 'T']++;
+  }
+  document.getElementById('stats').innerHTML =
+    `<span>${mode === 'two' ? 'State control' : 'Governors'} in ${year}: <i class="chip" style="background:${FILL.D}"></i><b>${now.D}</b> D &nbsp;<i class="chip" style="background:${FILL.R}"></i><b>${now.R}</b> R` +
+    `${now.S ? ` &nbsp;<i class="chip" style="background:${FILL.S}"></i><b>${now.S}</b> split` : ''}${now.O ? ` &nbsp;<i class="chip" style="background:${FILL.O}"></i><b>${now.O}</b> other/vacant` : ''}</span>` +
+    `<span>Lead since ${Y0 + base}: <b style="color:${TEXT.D}">${lead.D}</b> states D · <b style="color:${TEXT.R}">${lead.R}</b> states R${lead.T ? ` · <b>${lead.T}</b> tied` : ''}</span>`;
+
+  const f = DATA.federal[idx];
+  cursor.attr('x', idx * CELL - .5);
+  document.getElementById('fedline').innerHTML =
+    `President: ${presidentText(f.president)} &nbsp;·&nbsp; Senate: ${chamberText(f.senate)} &nbsp;·&nbsp; House: ${chamberText(f.house)}`;
+
+  scheduleHashWrite();
+}
+
+// ---------- Shareable URL (#year=1980&mode=two&from=1964) ----------
+// Debounced: Safari throttles rapid replaceState calls, and playback renders up to 20 times a second.
+let hashTimer = null;
+function scheduleHashWrite() {
+  clearTimeout(hashTimer);
+  hashTimer = setTimeout(() => {
+    const h = `year=${Y0 + idx}&mode=${mode}&from=${Y0 + base}`;
+    if (location.hash.slice(1) !== h) history.replaceState(null, '', '#' + h);
+  }, 250);
+}
+function applyHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  setMode(p.get('mode') === 'two' && HAS_LEG ? 'two' : 'gov', false);
+  setBase(p.has('from') ? clampYear(+p.get('from') || Y0) : Y0, false);
+  setYear((p.has('year') ? clampYear(+p.get('year') || Y1) : Y1) - Y0);
+}
+
+function setYear(i) { idx = Math.max(base, Math.min(N - 1, i)); render(); }
+
+// ---------- Start year (presets or any custom year) ----------
+const fromPreset = document.getElementById('from-preset');
+const fromYear = document.getElementById('from-year');
+const PRESETS = [...fromPreset.options].map(o => o.value).filter(v => v !== 'custom');
+function syncFromControls(year) {
+  const isPreset = PRESETS.includes(String(year)) && fromPreset.value !== 'custom';
+  fromPreset.value = isPreset ? String(year) : 'custom';
+  fromYear.hidden = isPreset;
+  if (!isPreset) fromYear.value = year;
+}
+function setBase(year, doRender = true) {
+  base = clampYear(year) - Y0;
+  slider.min = base;
+  dimmer.attr('width', base * CELL);
+  syncFromControls(Y0 + base);
+  if (doRender) setYear(idx); else idx = Math.max(base, idx);
+}
+fromPreset.onchange = () => {
+  if (fromPreset.value === 'custom') {
+    fromYear.hidden = false;
+    fromYear.value = Y0 + base;
+    fromYear.focus();
+    fromYear.select();
+  } else {
+    setBase(+fromPreset.value);
+  }
+};
+// Apply while typing once a full in-range year is entered; clamp on Enter / blur.
+fromYear.addEventListener('input', () => {
+  const y = +fromYear.value;
+  if (fromYear.value.length === 4 && y >= Y0 && y <= Y1) setBase(y);
+});
+fromYear.addEventListener('change', () => { if (fromYear.value) setBase(+fromYear.value); });
+
+// ---------- Scoring mode ----------
+const SUBTITLE = {
+  gov: 'Each year counts for the party holding the governorship on July 1. The number is the running lead.',
+  two: 'Each year counts for the party holding at least 2 of 3 (governor, state Senate, state House). The number is the running lead.',
+};
+function setMode(m, doRender = true) {
+  mode = m;
+  document.getElementById('mode-gov').classList.toggle('on', m === 'gov');
+  document.getElementById('mode-2of3').classList.toggle('on', m === 'two');
+  document.getElementById('subtitle').textContent = SUBTITLE[m];
+  document.getElementById('legend-split').hidden = m !== 'two';
+  document.querySelectorAll('.legend .what').forEach(el => { el.textContent = m === 'two' ? 'control' : 'governor'; });
+  if (doRender) render();
+}
+document.getElementById('mode-gov').onclick = () => setMode('gov');
+document.getElementById('mode-2of3').onclick = () => setMode('two');
+document.getElementById('mode-2of3').disabled = !HAS_LEG;
+
+// ---------- Playback ----------
+const slider = document.getElementById('slider');
+slider.min = 0; slider.max = N - 1;
+slider.addEventListener('input', () => { stop(); setYear(+slider.value); });
+document.getElementById('back').onclick = () => { stop(); setYear(idx - 1); };
+document.getElementById('fwd').onclick = () => { stop(); setYear(idx + 1); };
+const playBtn = document.getElementById('play');
+function stop() { if (timer) { clearInterval(timer); timer = null; } playBtn.textContent = '▶ Play'; }
+function start() {
+  if (idx >= N - 1) setYear(base);
+  playBtn.textContent = '❚❚ Pause';
+  timer = setInterval(() => { if (idx >= N - 1) stop(); else setYear(idx + 1); }, 1000 / +document.getElementById('speed').value);
+}
+playBtn.onclick = () => timer ? stop() : start();
+document.getElementById('speed').onchange = () => { if (timer) { stop(); start(); } };
+document.addEventListener('keydown', e => {
+  if (['SELECT', 'INPUT', 'BUTTON'].includes(e.target.tagName)) return;
+  if (e.key === ' ') { e.preventDefault(); timer ? stop() : start(); }
+  else if (e.key === 'ArrowLeft') { stop(); setYear(idx - 1); }
+  else if (e.key === 'ArrowRight') { stop(); setYear(idx + 1); }
+});
+
+window.addEventListener('hashchange', applyHash);
+applyHash();
+</script>
+</body>
+</html>

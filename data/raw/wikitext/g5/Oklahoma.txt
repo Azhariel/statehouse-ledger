@@ -1,0 +1,359 @@
+{{Short description|List of People that were the Head of Government of Oklahoma}}
+{{Use mdy dates|date=July 2023}}
+[[File:Flag of the Governor of Oklahoma.svg|thumb|right|150px|Standard of the governor of Oklahoma]]
+The [[governor of Oklahoma]] is the [[head of government]] of the [[U.S. state]] of [[Oklahoma]].
+
+==List of governors==
+===Oklahoma Territory===
+[[Oklahoma Territory]] was organized on May 2, 1890.<ref>{{usstat|26|81}}</ref> It had seven governors appointed by the [[president of the United States]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Oklahoma
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor's successor was confirmed, unless noted.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Steele, George"|[[File:GeorgeWashingtonSteele.jpg|75px]]
+|'''[[George Washington Steele]]'''<br>{{small|(1839–1922)}}<br>{{sfn|McMullin|1984|pp=265–266}}
+|data-sort-value="544"|May 14, 1890{{efn|Steele was nominated on May 10, 1890;<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., 1st sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA614 614], accessed June 5, 2023.</ref> confirmed by the Senate on May 14;<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., 1st sess., [https://books.google.com/books?id=ubzy660-TXoC&pg=PA628 628], accessed June 5, 2023.</ref> and arrived in the territory on May 22.{{sfn|McMullin|1984|pp=265–266}}}}<br />&ndash;<br />November 8, 1891<br>{{small|(544 days; resigned)}}{{efn|Steele resigned due to frustration with the legislature. Territorial Secretary [[Robert Martin (Oklahoma governor)|Robert Martin]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=265–266}}}}
+|{{sortname|Benjamin|Harrison}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Seay, Abraham"|[[File:Abraham Jefferson Seay.jpg|75px]]
+|'''[[Abraham Jefferson Seay]]'''<br>{{small|(1832–1915)}}<br>{{sfn|McMullin|1984|pp=266–267}}
+|data-sort-value="475"|January 18, 1892{{efn|Seay was nominated on January 5, 1892;<ref>U.S. Congress. ''Senate Exec. Journal''. 52nd Cong., 1st sess., [https://books.google.com/books?id=1ZKIAAAAMAAJ&pg=PA108 108], accessed June 5, 2023.</ref> confirmed by the Senate on January 18;<ref>U.S. Congress. ''Senate Exec. Journal''. 51st Cong., 1st sess., [https://books.google.com/books?id=1ZKIAAAAMAAJ&pg=PA133 133], accessed June 5, 2023.</ref> and took the oath of office on February 2.{{sfn|McMullin|1984|pp=266–267}}}}<br />&ndash;<br />May 6, 1893<br>{{small|(476 days; replaced)}}{{efn|McMullin says Seay resigned when Grover Cleveland became president, but Cleveland's nomination of his successor specifies he is being removed.<ref name="renfrow-nomination" />}}
+|{{sortname|Benjamin|Harrison}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Renfrow, William"|[[File:William Cary Renfrow.jpg|75px]]
+|'''[[William Cary Renfrow]]'''<br>{{small|(1845–1922)}}<br>{{sfn|McMullin|1984|pp=267–268}}
+|data-sort-value="1467"|May 6, 1893{{efn|Renfrow was appointed on May 6, 1893, during a Senate recess;<ref name="renfrow-nomination">U.S. Congress. ''Senate Exec. Journal''. 53rd Cong., 1st sess., [https://books.google.com/books?id=qTgtAQAAMAAJ&pg=PA32 32], accessed June 5, 2023.</ref> nominated on August 18;<ref name="renfrow-nomination" /> and confirmed by the Senate on August 22.<ref>U.S. Congress. ''Senate Exec. Journal''. 53rd Cong., 1st sess., [https://books.google.com/books?id=qTgtAQAAMAAJ&pg=PA46 46], accessed June 5, 2023.</ref> He was inaugurated on May 10.{{sfn|McMullin|1984|pp=267–268}}}}<br />&ndash;<br />May 11, 1897<br>{{small|(1467 days; resigned)}}{{efn|The nomination of Renfrow's successor specifies that Renfrow resigned<ref name="barnes-nomination" /> but no reason is given.}}
+|{{sortname|Grover|Cleveland}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Barnes, Cassius"|[[File:Cassius McDonald Barnes.jpg|75px]]
+|'''[[Cassius McDonald Barnes]]'''<br>{{small|(1845–1925)}}<br>{{sfn|McMullin|1984|pp=268–269}}
+|data-sort-value="1440"|May 11, 1897{{efn|Barnes was nominated on May 3, 1897;<ref name="barnes-nomination">U.S. Congress. ''Senate Exec. Journal''. 55th Cong., 1st sess., [https://books.google.com/books?id=eaeIAAAAMAAJ&pg=PA85 85], accessed June 5, 2023.</ref> confirmed by the Senate on May 11;<ref>U.S. Congress. ''Senate Exec. Journal''. 55th Cong., 1st sess., [https://books.google.com/books?id=eaeIAAAAMAAJ&pg=PA110 110], accessed June 5, 2023.</ref> and took the oath of office on May 24.{{sfn|McMullin|1984|pp=268–269}}}}<br />&ndash;<br />April 20, 1901<br>{{small|(1440 days; replaced)}}
+|{{sortname|William|McKinley}}
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Jenkins, William"|[[File:William Miller Jenkins.jpg|75px]]
+|'''[[William Miller Jenkins]]'''<br>{{small|(1856–1941)}}<br>{{sfn|McMullin|1984|pp=269–270}}
+|data-sort-value="225"|April 20, 1901{{efn|Jenkins was appointed on April 20, 1901, during a Senate recess, but was removed before he was formally nominated and confirmed.<ref name="ferguson-nomination" />}}<br />&ndash;<br />November 30, 1901<br>{{small|(225 days; removed)}}{{efn|Jenkins was removed due to a corruption scandal, though he was later exonerated. Territorial Secretary [[William C. Grimes (Oklahoma politician)|William C. Grimes]] acted as governor until his successor arrived.{{sfn|McMullin|1984|pp=269–270}}}}
+|{{sortname|William|McKinley}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Ferguson, Thompson"|[[File:Thompson Benton Ferguson.jpg|75px]]
+|'''[[Thompson Benton Ferguson]]'''<br>{{small|(1857–1921)}}<br>{{sfn|McMullin|1984|pp=271–272}}
+|data-sort-value="1506"|November 30, 1901{{efn|Ferguson was appointed on November 30, 1901, during a Senate recess;<ref name="ferguson-nomination" /> nominated on December 5, 1901;<ref name="ferguson-nomination">U.S. Congress. ''Senate Exec. Journal''. 57th Cong., 1st sess., [https://books.google.com/books?id=loJNAQAAMAAJ&pg=PA134 134], accessed June 5, 2023.</ref> and confirmed by the Senate on January 13, 1902.<ref>U.S. Congress. ''Senate Exec. Journal''. 57th Cong., 1st sess., [https://books.google.com/books?id=loJNAQAAMAAJ&pg=PA248 248], accessed June 5, 2023.</ref> He took the oath of office on December 9, 1901.{{sfn|McMullin|1984|pp=271–272}}}}<br />&ndash;<br />January 13, 1906<br>{{small|(1506 days; replaced)}}
+|{{sortname|Theodore|Roosevelt}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Frantz, Frank"|[[File:Frank Frantz.jpg|75px]]
+|'''[[Frank Frantz]]'''<br>{{small|(1872–1941)}}<br>{{sfn|McMullin|1984|pp=272–273}}
+|data-sort-value="673"|January 13, 1906{{efn|Frantz was nominated on December 6, 1905, for a term beginning January 13;<ref>U.S. Congress. ''Senate Exec. Journal''. 59th Cong., 1st sess., [https://books.google.com/books?id=gjotAQAAMAAJ&pg=PA28 28], accessed June 5, 2023.</ref> confirmed by the Senate on January 10, 1906;<ref>U.S. Congress. ''Senate Exec. Journal''. 59th Cong., 1st sess., [https://books.google.com/books?id=gjotAQAAMAAJ&pg=PA157 157], accessed June 5, 2023.</ref> and was inaugurated on January 13, 1906.{{sfn|McMullin|1984|pp=272–273}}}}<br />&ndash;<br />November 16, 1907<br>{{small|(673 days; lost election)}}
+|{{sortname|Theodore|Roosevelt}}
+|}
+
+===State of Oklahoma===
+[[Indian Territory]] and [[Oklahoma Territory]] were combined and [[admitted to the Union]] as the State of [[Oklahoma]] on November 16, 1907.<ref>{{USStat|35|2160}}</ref>
+
+The [[Constitution of Oklahoma]] calls for the election of a governor every four years, to take office on the second Monday in January after the election.<ref name="const-art1-sec4">OK Const. Art. I, § 4</ref> Originally, governors could not succeed themselves, with no limit on total terms;<ref>{{Cite book |url=https://books.google.com/books?id=aDdOAAAAYAAJ&pg=PA37 |title=Constitution and Enabling Act of the State of Oklahoma Annotated and Indexed |date=1907 |publisher=Bunn brothers |page=37 |language=en}}</ref> a 1966 constitutional amendment allowed them to succeed themselves once.<ref>{{Cite web |title=Oklahoma Succession of Office, State Question 436 (May 1966) |url=https://ballotpedia.org/Oklahoma_Succession_of_Office,_State_Question_436_(May_1966) |access-date=2023-06-05 |website=Ballotpedia |language=en}}</ref> An amendment in 2010 limited them to eight years in total, retroactively applying to all living former governors.<ref>{{Cite web |title=Oklahoma Term Limits, State Question 747 (2010) |url=https://ballotpedia.org/Oklahoma_Term_Limits,_State_Question_747_(2010) |access-date=2023-06-05 |website=Ballotpedia |language=en}}</ref> Should the office become vacant because of a death, resignation or removal of the governor, the lieutenant governor immediately succeeds to the governorship.<ref>OK Const. Art. 4, § 16</ref> After [[Jack C. Walton]] was impeached and removed in 1923, Lieutenant Governor [[Martin E. Trapp]] served in the office for the remainder of the term. He styled himself "Acting Governor," as the constitution only specified that the powers of the office devolved upon the lieutenant governor, hoping that he would not be prevented from running in the next election. However, the [[Oklahoma Supreme Court]] ruled in 1926 that, in the case of a vacancy in the office, the lieutenant governor becomes governor, and he was ineligible to run for a consecutive term.{{sfn|Sobel|1978|p=1245}}<ref>{{Cite journal |last=Abel |first=Kevin M. |date=2013 |title=The Right of Succession by the Oklahoma Lieutenant Governor to the Office of the Governor and the Appointment of a Successor Lieutenant Governor |url=https://digitalcommons.law.utulsa.edu/tlr/vol36/iss1/8 |journal=Tulsa Law Review |volume=36 |issue=1 |pages=217&ndash;229}}</ref> The governor and the lieutenant governor are not formally elected on the same ticket.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Oklahoma
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Oklahoma|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Haskell, Charles"|[[File:HASKELL, C.N. GOVERNOR LCCN2016858937 (cropped).jpg|75px]]
+|rowspan="17" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|'''[[Charles N. Haskell]]'''<br>{{small|(1860–1933)}}<br>{{sfn|Sobel|1978|p=1241}}<ref name="nga-haskell">{{Cite web |title=Charles Nathaniel Haskell |url=https://www.nga.org/governor/charles-nathaniel-haskell/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1151"|November 16, 1907<ref>{{Cite news |date=1907-11-16 |title=Oklahoma State Is Now a Reality |page=1 |work=Muskogee Times-Democrat |url=https://www.newspapers.com/article/muskogee-times-democrat-oklahoma-state-i/125935586/ |access-date=2023-06-06}}</ref><br />&ndash;<br />January 9, 1911<br>{{small|(1151 days; term-limited)}}{{efn|Under the original provisions of the 1907 constitution, governors were ineligible to immediately succeed themselves.<ref>{{Cite web |title=Ok. Const. art. VI, § 4, original |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27OK%27&CID=171&art=6&sec=4&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1907 Oklahoma gubernatorial election|1907]]
+|rowspan="5" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|{{sortname|George W.|Bellamy}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Cruce, Lee"|[[File:Lee Cruce.jpg|75px]]
+|'''[[Lee Cruce]]'''<br>{{small|(1863–1933)}}<br>{{sfn|Sobel|1978|p=1242}}<ref name="nga-cruce">{{Cite web |title=Lee Cruce |url=https://www.nga.org/governor/lee-cruce/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 9, 1911<ref>{{Cite news |date=1911-01-09 |title=Cruce Is Now Governor |page=1 |work=Muskogee Times-Democrat |url=https://www.newspapers.com/article/muskogee-times-democrat-cruce-is-now-gov/125936067/ |access-date=2023-06-06}}</ref><br />&ndash;<br />January 11, 1915<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1910 Oklahoma gubernatorial election|1910]]
+|{{sortname|J. J.|McAlester}}
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Williams, Robert"|[[File:RobertLWilliams.jpg|75px]]
+|'''[[Robert L. Williams]]'''<br>{{small|(1868–1948)}}<br>{{sfn|Sobel|1978|pp=1242–1243}}<ref name="nga-williams">{{Cite web |title=Robert Lee Williams |url=https://www.nga.org/governor/robert-lee-williams/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 1915<ref>{{Cite news |date=1915-01-11 |title=Gov. Robt. L. Williams Takes Oath of Office at Capitol |page=1 |work=The Daily Ardmoreite |url=https://www.newspapers.com/article/the-daily-ardmoreite-gov-robt-l-willi/125936778/ |access-date=2023-06-06}}</ref><br />&ndash;<br />January 13, 1919<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1914 Oklahoma gubernatorial election|1914]]
+|rowspan="3"|{{sortname|Martin E.|Trapp}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Robertson, James"|{{Css Image Crop|Image=JBA Robertson 1920.jpg|bSize=200|cWidth=75|cHeight=100|oTop=15|oLeft=27|Location=center}}
+|'''[[James B. A. Robertson]]'''<br>{{small|(1871–1938)}}<br>{{sfn|Sobel|1978|pp=1243–1244}}<ref name="nga-robertson">{{Cite web |title=James Brooks Ayers Robertson |url=https://www.nga.org/governor/james-brooks-ayers-robertson/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 13, 1919<ref>{{Cite news |date=1919-01-13 |title=Oklahoma Governor Takes Oath |page=1 |work=The Ponca City News |url=https://www.newspapers.com/article/the-ponca-city-news-oklahoma-governor-ta/125936858/ |access-date=2023-06-06}}</ref><br />&ndash;<br />January 8, 1923<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1918 Oklahoma gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|5
+|data-sort-value="Walton, Jack"|[[File:Jack Walton.jpg|75px]]
+|'''[[Jack C. Walton]]'''<br>{{small|(1881–1949)}}<br>{{sfn|Sobel|1978|pp=1244–1245}}<ref name="nga-walton">{{Cite web |title=John Callaway (Jack) Walton |url=https://www.nga.org/governor/john-callaway-jack-walton/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="316"|January 8, 1923<ref>{{Cite news |date=1923-01-08 |title=Walton Now Is Governor |page=1 |work=Nowata Daily Star |agency=Associated Press |url=https://www.newspapers.com/article/nowata-daily-star-walton-now-is-governor/125936990/ |access-date=2023-06-06}}</ref><br />&ndash;<br />November 19, 1923<br>{{small|(316 days;<br>impeached and removed)}}{{efn|Walton was convicted on multiple charges of corruption, abuse of power, and for violating the state constitution by suspending [[habeas corpus]].{{sfn|Sobel|1978|pp=1244–1245}}<ref>{{Cite thesis |last=Wyatt |first=Clarence C. |title=Impeachment of J.C. "Jack" Walton |date=1937 |url=https://shareok.org/handle/11244/300128}}</ref>}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1922 Oklahoma gubernatorial election|1922]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Trapp, Martin"|[[File:MartinETrapp.jpg|75px]]
+|'''[[Martin E. Trapp]]'''<br>{{small|(1877–1951)}}<br>{{sfn|Sobel|1978|p=1245}}<ref name="nga-trapp">{{Cite web |title=Martin Edwin Trapp |url=https://www.nga.org/governor/martin-edwin-trapp/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1149"|November 19, 1923<ref>{{Cite news |date=1923-11-20 |title=Jack Walton Ousted |page=1 |work=Okmulgee Daily Times |url=https://www.newspapers.com/article/okmulgee-daily-times-jack-walton-ousted/125937273/ |access-date=2023-06-06}}</ref><br />&ndash;<br />January 10, 1927<br>{{small|(1149 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}{{efn|Jack C. Walton was impeached on October 23, 1923, at which point Trapp began acting as governor; per the 1926 Oklahoma Supreme Court ruling, when Walton was removed from office on November 19, Trapp became governor.{{sfn|Sobel|1978|p=1245}}}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Johnston, Henry"|[[File:Henry S. Johnston2.jpg|75px]]
+|'''[[Henry S. Johnston]]'''<br>{{small|(1867–1965)}}<br>{{sfn|Sobel|1978|p=1246}}<ref name="nga-johnston">{{Cite web |title=Henry Simpson Johnston |url=https://www.nga.org/governor/henry-simpson-johnston/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="801"|January 10, 1927<ref>{{Cite news |date=1927-01-10 |title=New Governor Inducted Into Office Amid Scenes of Impressive Inaugural |page=1 |work=Bristow Daily Record |agency=Associated Press |url=https://www.newspapers.com/article/bristow-daily-record-new-governor-induct/125937332/ |access-date=2023-06-06}}</ref><br />&ndash;<br />March 20, 1929<br>{{small|(801 days;<br>impeached and removed)}}{{efn|Johnston was convicted on a charge of general incompetence.<ref>{{Cite encyclopedia |title=Johnston, Henry Simpson |encyclopedia=The Encyclopedia of Oklahoma History and Culture |url=https://www.okhistory.org/publications/enc/entry.php?entry=JO015 |access-date=June 5, 2023 |last=Burke |first=Bob}}</ref>}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1926 Oklahoma gubernatorial election|1926]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William J.|Holloway}}
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Holloway, William"|[[File:Governor William Holloway.jpg|75px]]
+|'''[[William J. Holloway]]'''<br>{{small|(1888–1970)}}<br>{{sfn|Sobel|1978|pp=1246–1247}}<ref name="nga-holloway">{{Cite web |title=William Judson Holloway |url=https://www.nga.org/governor/william-judson-holloway/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="664"|March 20, 1929<ref>{{Cite news |date=1929-03-20 |title=Johnston Is Convicted |page=1 |work=The Frederick Leader |agency=United Press |url=https://www.newspapers.com/article/the-frederick-leader-johnston-is-convict/125937416/ |access-date=2023-06-06}}</ref><br />&ndash;<br />January 12, 1931<br>{{small|(664 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}{{efn|Henry S. Johnston was impeached on January 21, 1929, at which point Holloway began acting as governor.<ref>[https://www.ilga.gov/commission/lru/24.U.S.GovImpeachments.pdf Governor's Impeachments in U.S. History], Illinois General Assembly Research Response, accessed June 5, 2023</ref>}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Murray, William"|[[File:Alfalfa Bill.jpg|75px]]
+|'''[[William H. Murray]]'''<br>{{small|(1869–1956)}}<br>{{sfn|Sobel|1978|pp=1247–1248}}<ref name="nga-murray-william">{{Cite web |title=William Henry Murray |url=https://www.nga.org/governor/william-henry-murray/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 12, 1931<ref>{{Cite news |date=1931-01-12 |title='Sage' Is Sworn In As Oklahoma's Ninth Governor |page=1 |work=Pawhuska Journal-Capital |agency=United Press |url=https://www.newspapers.com/article/pawhuska-journal-capital-sage-is-sworn/126016901/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 14, 1935<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1930 Oklahoma gubernatorial election|1930]]
+|rowspan="8" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Robert|Burns|dab=Oklahoma politician}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Marland, E. W."|[[File:E. W. Marland (Oklahoma Governor).jpg|75px]]
+|'''[[E. W. Marland]]'''<br>{{small|(1874–1941)}}<br>{{sfn|Sobel|1978|pp=1248–1249}}<ref name="nga-marland">{{Cite web |title=Ernest Whitworth Marland |url=https://www.nga.org/governor/ernest-whitworth-marland/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 14, 1935<ref>{{Cite news |date=1935-01-14 |title=Marland Ready With Plans |page=1 |work=Daily American-Democrat |agency=Associated Press |url=https://www.newspapers.com/article/daily-american-democrat-marland-ready-wi/126017218/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 9, 1939<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1934 Oklahoma gubernatorial election|1934]]
+|rowspan="5"|{{sortname|James E.|Berry}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Phillips, Leon"|{{Css Image Crop|Image=Leon Phillips 1938.jpg|bSize=185|cWidth=75|cHeight=100|oTop=15|oLeft=55|Location=center}}
+|'''[[Leon C. Phillips]]'''<br>{{small|(1890–1958)}}<br>{{sfn|Sobel|1978|pp=1249–1250}}<ref name="nga-phillips">{{Cite web |title=Leon Chase Phillips |url=https://www.nga.org/governor/leon-chase-phillips/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 9, 1939<ref>{{Cite news |date=1939-01-09 |title=Phillips Demands Economy; 20-Point Program Outlined |page=1 |work=The Norman Transcript |agency=United Press |url=https://www.newspapers.com/article/the-norman-transcript-phillips-demands-e/126017316/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 11, 1943<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1938 Oklahoma gubernatorial election|1938]]
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Kerr, Robert"|[[File:Robert S. Kerr (OK).png|75px]]
+|'''[[Robert S. Kerr]]'''<br>{{small|(1896–1963)}}<br>{{sfn|Sobel|1978|p=1250}}<ref name="nga-kerr">{{Cite web |title=Robert Samuel Kerr |url=https://www.nga.org/governor/robert-samuel-kerr/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 1943<ref>{{Cite news |date=1943-01-11 |title=Robert S. Kerr Is Inaugurated |page=1 |work=The Daily Ardmoreite |agency=Associated Press |url=https://www.newspapers.com/article/the-daily-ardmoreite-robert-s-kerr-is-i/126017401/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 13, 1947<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1942 Oklahoma gubernatorial election|1942]]
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Turner, Roy"|[[File:Roy J. Turner.jpg|75px]]
+|'''[[Roy J. Turner]]'''<br>{{small|(1894–1973)}}<br>{{sfn|Sobel|1978|p=1251}}<ref name="nga-turner">{{Cite web |title=Roy Joseph Turner |url=https://www.nga.org/governor/roy-joseph-turner/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 13, 1947<ref>{{Cite news |date=1947-01-13 |title=Tax Reductions Pledged by Turner; Increased Pensions, Aid to Veterans Promised |page=1 |work=The Lawton Constitution |agency=United Press |url=https://www.newspapers.com/article/the-lawton-constitution-tax-reductions-p/126017479/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 8, 1951<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1946 Oklahoma gubernatorial election|1946]]
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Murray, Johnston"|[[File:Gov Johnston Murray.jpg|75px]]
+|'''[[Johnston Murray]]'''<br>{{small|(1902–1974)}}<br>{{sfn|Sobel|1978|pp=1251–1252}}<ref name="nga-murray-johnston">{{Cite web |title=Johnston Murray |url=https://www.nga.org/governor/johnston-murray/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 8, 1951<ref>{{Cite news |last=Wilson |first=Howard |date=1951-01-08 |title=5,000 Watch Second Murray Take Office in Capitol Ceremony |page=1 |work=The Clinton Daily News |agency=United Press |url=https://www.newspapers.com/article/the-clinton-daily-news-5000-watch-secon/126017571/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 10, 1955<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1950 Oklahoma gubernatorial election|1950]]
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Gary, Raymond"|[[File:Raymond Gary.jpg|75px]]
+|'''[[Raymond D. Gary]]'''<br>{{small|(1908–1993)}}<br>{{sfn|Sobel|1978|pp=1252–1253}}<ref name="nga-gary">{{Cite web |title=Raymond Dancel Gary |url=https://www.nga.org/governor/raymond-dancel-gary/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 10, 1955<ref>{{Cite news |last=Bachman |first=Bill |date=1955-01-11 |title=Gary Takes Over As 15th Governor of Oklahoma |page=1 |work=Okmulgee Daily Times |agency=Associated Press |url=https://www.newspapers.com/article/okmulgee-daily-times-gary-takes-over-as/126029370/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 12, 1959<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1954 Oklahoma gubernatorial election|1954]]
+|{{sortname|Cowboy Pink|Williams}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Edmondson, J."|[[File:J. Howard Edmondson (OK).png|75px]]
+|'''[[J. Howard Edmondson]]'''<br>{{small|(1925–1971)}}<br>{{sfn|Sobel|1978|pp=1253–1254}}<ref name="nga-edmondson">{{Cite web |title=James Howard Edmondson |url=https://www.nga.org/governor/james-howard-edmondson/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1456"|January 12, 1959<ref>{{Cite news |last=Dessauer |first=Phil |date=1959-01-13 |title=Edmondson Sworn In as Governor |page=1 |work=Tulsa World |url=https://www.newspapers.com/article/tulsa-world-edmondson-sworn-in-as-govern/126029468/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 6, 1963<br>{{small|(1456 days; resigned)}}{{efn|Edmondson resigned so that his successor would appoint him to the [[United States Senate]].{{sfn|Sobel|1978|pp=1253–1254}}}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1958 Oklahoma gubernatorial election|1958]]
+|{{sortname|George|Nigh}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Nigh, George"|[[File:George Nigh 1972.jpg|75px]]
+|'''[[George Nigh]]'''<br>{{small|(1927–2025)}}<br>{{sfn|Sobel|1978|p=1254}}<ref name="nga-nigh">{{Cite web |title=George Patterson Nigh |url=https://www.nga.org/governor/george-patterson-nigh/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="9"|January 6, 1963<ref>{{Cite news |last=Walsh |first=Travis |date=1963-01-07 |title=Edmondson Resigns, Nigh at Once Makes Him Kerr's Successor |page=1 |work=Tulsa World |url=https://www.newspapers.com/article/tulsa-world-edmondson-resigns-nigh-at-o/126029559/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 14, 1963<br>{{small|(9 days; retired)}}{{efn|Nigh had already lost the Democratic nomination for governor when he succeeded Edmondson.}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Bellmon, Henry"|[[File:BellmonHL.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Henry Bellmon]]'''<br>{{small|(1921–2009)}}<br>{{sfn|Sobel|1978|pp=1254–1255}}<ref name="nga-bellmon">{{Cite web |title=Henry Louis Bellmon |url=https://www.nga.org/governor/henry-louis-bellmon/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 14, 1963<ref>{{Cite news |last=Parr |first=Ray |date=1963-01-15 |title=Bellmon, GOP Mark Victory As New Governor Takes Reins |page=1 |work=The Daily Oklahoman |url=https://www.newspapers.com/article/the-daily-oklahoman-bellmon-gop-mark-vi/126029632/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 9, 1967<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1907}}
+|[[Oklahoma Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1962 Oklahoma gubernatorial election|1962]]
+|rowspan="9" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Leo|Winters}}{{efn|Represented the [[Oklahoma Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Bartlett, Dewey"|[[File:Dewey Bartlett.jpg|75px]]
+|'''[[Dewey F. Bartlett]]'''<br>{{small|(1919–1979)}}<br>{{sfn|Sobel|1978|pp=1255–1256}}<ref name="nga-bartlett">{{Cite web |title=Dewey Follett Bartlett |url=https://www.nga.org/governor/dewey-follett-bartlett/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 9, 1967<ref>{{Cite news |last=Young |first=Jim |date=1967-01-10 |title=Bartlett Challenges All Oklahomans to Excel |page=1 |work=The Daily Oklahoman |url=https://www.newspapers.com/article/the-daily-oklahoman-bartlett-challenges/126029739/ |access-date=2023-06-07}}</ref><br />&ndash;<br />January 11, 1971<br>{{small|(1464 days; lost election)}}
+|[[Oklahoma Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1966 Oklahoma gubernatorial election|1966]]
+|rowspan="3"|{{sortname|George|Nigh}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Hall, David"|[[File:David Hall (OK).jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[David Hall (Oklahoma politician)|David Hall]]'''<br>{{small|(1930–2016)}}<br>{{sfn|Sobel|1978|pp=1256–1257}}<ref name="nga-hall">{{Cite web |title=David Hall |url=https://www.nga.org/governor/david-hall-2/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 1971<ref>{{Cite news |last=Standard |first=Jim |date=1971-01-12 |title=New Directions Promised in Oklahoma Government As Hall Takes Over Office |page=1 |work=The Daily Oklahoman |url=https://www.newspapers.com/article/the-daily-oklahoman-new-directions-promi/126045795/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 13, 1975<br>{{small|(1464 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1256–1257}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1970 Oklahoma gubernatorial election|1970]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Boren, David"|[[File:David Boren (OK).png|75px]]
+|'''[[David Boren]]'''<br>{{small|(1941–2025)}}<br>{{sfn|Sobel|1978|p=1257}}<ref name="nga-boren">{{Cite web |title=David Lyle Boren |url=https://www.nga.org/governor/david-lyle-boren/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1451"|January 13, 1975<ref>{{Cite news |last=Montgomery |first=Ed |date=1975-01-14 |title=4,500 See David Boren Become Governor |page=1 |work=The Daily Oklahoman |url=https://www.newspapers.com/article/the-daily-oklahoman-4500-see-david-bore/126045865/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 2, 1979<br>{{small|(1451 days; resigned)}}{{efn|Boren resigned, having been [[1978 United States Senate election in Oklahoma|elected]] to the [[United States Senate]].<ref>{{Cite encyclopedia |title=Nigh, George Patterson |encyclopedia=The Encyclopedia of Oklahoma History and Culture |url=https://www.okhistory.org/publications/enc/entry.php?entry=NI007 |access-date=June 5, 2023 |last=Burke |first=Bob}}</ref>}}
+|[[Oklahoma Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=475–476}}
+|[[1974 Oklahoma gubernatorial election|1974]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|22
+|rowspan="3" data-sort-value="Nigh, George"|[[File:George Nigh (cropped).jpg|75px]]
+|rowspan="3"|'''[[George Nigh]]'''<br>{{small|(1927–2025)}}<br>{{sfn|Sobel|1978|p=1254}}<ref name="nga-nigh" />
+|rowspan="3" data-sort-value="2932"|January 3, 1979<ref>{{Cite news |last=Montgomery |first=Ed |date=1979-01-03 |title=Boren Out at Midnight, Nigh In at Noon |page=3 |work=The Daily Oklahoman |url=https://www.newspapers.com/article/the-daily-oklahoman-boren-out-at-midnigh/126045955/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 12, 1987<br>{{small|(2932 days; term-limited)}}{{efn|Under a 1966 amendment to the constitution, governors were ineligible to be elected more than two times in succession.<ref>{{Cite web |title=Oklahoma Succession of Office, State Question 436 (May 1966) |url=https://ballotpedia.org/Oklahoma_Succession_of_Office,_State_Question_436_(May_1966) |access-date=2023-06-05 |website=Ballotpedia |language=en}}</ref>|name=limits-1966}}
+|rowspan="3"|[[Oklahoma Democratic Party|Democratic]]<ref name="nga-nigh" />
+|style="background:#EEEEEE;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="3"|{{sortname|Spencer|Bernard|dab=politician}}
+|- style="height:2em;"
+|[[1978 Oklahoma gubernatorial election|1978]]
+|- style="height:2em;"
+|[[1982 Oklahoma gubernatorial election|1982]]
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Bellmon, Henry"|[[File:BellmonHL.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Henry Bellmon]]'''<br>{{small|(1921–2009)}}<br>{{sfn|Sobel|1978|pp=1254–1255}}<ref name="nga-bellmon" />
+|data-sort-value="1464"|January 12, 1987<ref>{{Cite news |last=Ervin |first=Chuck |date=1987-01-13 |title=Bellmon Inaugurated As Governor |page=A1 |work=Tulsa World |url=https://www.newspapers.com/article/tulsa-world-bellmon-inaugurated-as-gover/126046036/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 14, 1991<br>{{small|(1464 days; retired)}}
+|[[Oklahoma Republican Party|Republican]]<ref name="nga-bellmon" />
+|[[1986 Oklahoma gubernatorial election|1986]]
+|{{sortname|Robert S.|Kerr III}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Walters, David"|[[File:David Walters.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[David Walters]]'''<br>{{small|({{Abbr|b.|born in}} 1951)}}<br><ref name="nga-walters">{{Cite web |title=David Lee Walters |url=https://www.nga.org/governor/david-lee-walters/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 14, 1991<ref>{{Cite news |last=Ervin |first=Chuck |date=1991-01-15 |title=Walters Sworn In as 24th Governor |page=A1 |work=Tulsa World |url=https://www.newspapers.com/article/tulsa-world-walters-sworn-in-as-24th-gov/126046056/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 9, 1995<br>{{small|(1457 days; retired)}}
+|[[Oklahoma Democratic Party|Democratic]]<ref name="nga-walters" />
+|[[1990 Oklahoma gubernatorial election|1990]]
+|{{sortname|Jack|Mildren}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Keating, Frank"|[[File:Frank Keating at a conference, Oct 20, 2001 - cropped.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Frank Keating]]'''<br>{{small|({{Abbr|b.|born in}} 1944)}}<br><ref name="nga-keating">{{Cite web |title=Francis Anthony Keating |url=https://www.nga.org/governor/francis-anthony-keating/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 9, 1995<ref>{{Cite news |last=Ervin |first=Chuck |date=1995-01-10 |title=Be Bold, Keating Tells Oklahomans |page=1 |work=Tulsa World |url=https://www.newspapers.com/article/tulsa-world-be-bold-keating-tells-oklah/126046087/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 13, 2003<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1966}}
+|rowspan="2"|[[Oklahoma Republican Party|Republican]]<ref name="nga-keating" />
+|[[1994 Oklahoma gubernatorial election|1994]]
+|rowspan="3" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Mary|Fallin}}{{efn|Represented the [[Oklahoma Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+|[[1998 Oklahoma gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26
+|rowspan="2" data-sort-value="Henry, Brad"|[[File:BradhenryDEA.jpg|75px]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Brad Henry]]'''<br>{{small|({{Abbr|b.|born in}} 1963)}}<br><ref name="nga-henry">{{Cite web |title=Brad Henry |url=https://www.nga.org/governor/brad-henry/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 13, 2003<ref>{{Cite news |last=English |first=Paul |date=2003-01-14 |title=Budget Crisis Noted in Inaugural Address |page=A1 |work=Tulsa World |url=https://www.newspapers.com/article/tulsa-world-budget-crisis-noted-in-inaug/126046113/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 10, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1966}}
+|rowspan="2"|[[Oklahoma Democratic Party|Democratic]]<ref name="nga-henry" />
+|[[2002 Oklahoma gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Oklahoma gubernatorial election|2006]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Jari|Askins}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"scope="rowgroup"|27
+|rowspan="2" data-sort-value="Fallin, Mary"|[[File:Governor Mary Fallin May 2015.jpg|75px]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Mary Fallin]]'''<br>{{small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-fallin">{{Cite web |title=Mary Fallin |url=https://www.nga.org/governor/mary-fallin/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 10, 2011<ref>{{Cite news |last=McNutt |first=Michael |date=2011-01-11 |title='There Truly Is No Place Like Oklahoma' |page=1A |work=The Daily Oklahoman |url=https://www.newspapers.com/article/the-daily-oklahoman-there-truly-is-no-p/126046142/ |access-date=2023-06-08}}</ref><br />&ndash;<br />January 14, 2019<br>{{small|(2927 days; term-limited)}}{{efn|Under a 2010 amendment to the constitution, governors are limited to serving eight years in total, not counting partial terms towards the limit.<ref>{{Cite web |title=Oklahoma Term Limits, State Question 747 (2010) |url=https://ballotpedia.org/Oklahoma_Term_Limits,_State_Question_747_(2010) |access-date=2023-12-20 |website=Ballotpedia |language=en}}</ref>|name=limits-2010}}
+|rowspan="2"|[[Oklahoma Republican Party|Republican]]<ref name="nga-fallin" />
+|[[2010 Oklahoma gubernatorial election|2010]]
+|rowspan="5" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Todd|Lamb|dab=politician}}
+|- style="height:2em;"
+|[[2014 Oklahoma gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28
+|rowspan="2" data-sort-value="Stitt, Kevin"|[[File:Kevin Stitt 2021.jpg|75px]]
+|rowspan="2"|'''[[Kevin Stitt]]'''<br>{{small|({{Abbr|b.|born in}} 1972)}}<br><ref name="nga-stitt">{{Cite web |title=Kevin Stitt |url=https://www.nga.org/governor/kevin-stitt/ |access-date=June 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|14|duration=on|format=no}}"|January 14, 2019<ref>{{Cite news |last=Sweeney |first=Catherine |date=2019-01-15 |title=J. Kevin Stitt, Oklahoma’s 28th Governor |language=en-US |work=The Journal Record |url=https://journalrecord.com/2019/01/14/j-kevin-stitt-oklahomas-28th-governor/,%20https://journalrecord.com/2019/01/14/j-kevin-stitt-oklahomas-28th-governor/ |access-date=2023-06-08}}</ref><br />&ndash;<br />Incumbent{{efn|Stitt's second term began on January 9, 2023,<ref>{{Cite news |last=Mills |first=Kateleigh |date=2023-01-09 |title=Oklahoma Gov. Kevin Stitt sworn in for second term. Read his full inaugural speech |url=https://www.kosu.org/politics/2023-01-09/gov-stitt-sworn-into-second-term-read-his-full-inaugural-speech |access-date=2025-01-23 |work=KOSU |language=en}}</ref> and [[2026 Oklahoma gubernatorial election|will expire]] on January 11, 2027; he is term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|14|duration=on|format=no}} days)}}
+|rowspan="2"|[[Oklahoma Republican Party|Republican]]<ref name="nga-stitt" />
+|[[2018 Oklahoma gubernatorial election|2018]]
+|rowspan="2"|{{sortname|Matt|Pinnell}}
+|- style="height:2em;"
+|[[2022 Oklahoma gubernatorial election|2022]]
+|- style="height:2em;"
+!scope="row"|''29''
+|data-sort-value="Mazzei, Mike"|[[File:Mike_Mazzei_OK_Senate_Headshot.jpg|75px]]
+|'''''[[Mike Mazzei]]'''''<br>{{small|({{abbr|b.|born in}} 1965)}}
+|data-sort-value="{{Duration in days nts|2027|1|11|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 11, 2027''
+|''[[Oklahoma Republican Party|Republican]]''
+|[[2026 Oklahoma gubernatorial election|2026]]
+|''{{sortname|T. W.|Shannon}}''
+|}
+
+==See also==
+* [[List of Oklahoma state legislatures]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former Oklahoma Governors |url=https://www.nga.org/former-governors/oklahoma/ |access-date=June 4, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4 |access-date=January 19, 2023}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0003sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. III |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=March 25, 2023}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Oklahoma - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=179 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+*[https://oklahoma.gov/governor.html Office of the Governor of Oklahoma]
+
+{{Oklahoma}}
+{{Lists of US Governors}}
+
+{{DEFAULTSORT:Oklahoma, List of Governors of}}
+[[Category:Lists of state governors of the United States|Oklahoma]]
+[[Category:Governors of Oklahoma|*]]
+[[Category:Lists of Oklahoma politicians|Governors]]
+[[Category:Oklahoma history-related lists|Governors]]

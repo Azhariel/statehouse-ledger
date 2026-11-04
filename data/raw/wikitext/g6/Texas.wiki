@@ -1,0 +1,568 @@
+{{Short description|None}}
+{{Use American English|date=September 2026}}
+{{Use mdy dates|date=July 2023}}
+
+The [[governor of Texas]] is the [[chief executive officer]] of the [[U.S. state]] of [[Texas]] and the commander in chief of the state’s military forces. The incumbent governor is Greg Abbott, who assumed office on January 20, 2015. Since [[Admission to the Union|Texas' statehood]] in 1845, 45 individuals have served in 48 governorships. The discrepancy is due to the nonconsecutive terms of [[Elisha M. Pease]], [[Miriam A. Ferguson]], and [[Bill Clements]].<ref>{{Cite web |last=Association |first=Texas State Historical |title=History and Powers of the Governor of Texas |url=https://www.tshaonline.org/handbook/entries/governor |access-date=2026-08-21 |website=Texas State Historical Association |language=en}}</ref><ref>{{Cite web |title=The Governors |url=https://txfgm.org/the-governors/ |access-date=2026-08-21 |website=Friends of the Governor's Mansion |language=en-US}}</ref><ref>{{Cite web |title=Governors of Texas - Texas Legislative Reference Library |url=https://lrl.texas.gov/legeleaders/governors/govBrowse.cfm |access-date=2026-08-21 |website=lrl.texas.gov}}</ref>
+
+When compared to those of other states, the governorship of Texas has been described as one of relative weakness.<ref name="slate">{{Cite web |last=Suellentrop, Chip |date=2000-01-05 |title=Is George W. Bush a "Weak" Governor? |url=http://www.slate.com/id/1004307/ |access-date=2010-01-25 |publisher=Slate Magazine - Explainer}}</ref><ref name="molly">{{Cite book |last=Ivins, Molly |title=Shrub: The Short But Happy Political Life of George W. Bush |last2=Lou Dubose |publisher=Vintage Books |year=2000 |isbn=0-375-75714-7 |location=New York |pages=xii-xiii |author-link=Molly Ivins}}</ref> In some respects, it is the [[Lieutenant Governor of Texas|lieutenant governor of Texas]], who presides over the [[Texas Senate]], who possesses greater influence to exercise their prerogatives.<ref name=slate/><ref name=molly/>
+
+== Governors ==
+{{for|the period before annexation|List of Texas governors and presidents}}
+
+Texas was [[Texas annexation|annexed]] by the [[United States]] and [[admission to the Union|admitted to the Union]] on December 29, 1845.<ref>{{usstat|9|108}}</ref>
+
+The governor is inaugurated on the third Tuesday of January every four years along with the lieutenant governor, and serves a term of four years. Prior to the present laws, in 1845, the state's first constitution established the office of governor, serving a term of two years, but no more than four years of every six.<ref>1845 Const. Art V sec 4</ref> The 1861 constitution, following [[Secession in the United States|secession]] from the Union, established the first Monday of November following election as the term's start.<ref>1861 Const. art V sec 12</ref> Following the end of the [[American Civil War]], the 1866 constitution increased term length to four years, limiting overall service to no more than eight years of every twelve, moving the term's start to the first Thursday following organization of the legislature, or "as soon thereafter as practicable."<ref>1866 Const. art V sec 4</ref> The constitution of 1869, enacted during [[Reconstruction era of the United States|Reconstruction]], removed term limitations,<ref>1869 Const. Art IV sec 4</ref> to this day making Texas one of sixteen states, territory or jurisdiction (including the U.S. Territory [[Puerto Rico]] and the [[District of Columbia]]<ref>[http://www.nga.org/files/pdf/BOS4-9.pdf Executive Branch] {{webarchive|url=https://web.archive.org/web/20110629023725/http://www.nga.org/files/pdf/BOS4-9.pdf|date=2011-06-29 }} retrieved 23-October-2008</ref> with no [[Term limits in the United States#Gubernatorial term limits|limit]] on gubernatorial terms. The present constitution of 1876 returned terms to two years,<ref>TX Const. Art IV sec 4</ref> but a 1972 amendment again returned them to four.<ref>[http://texaspolitics.laits.utexas.edu/1_3_1.html Texas Politics - The Executive Branch] {{webarchive|url=https://web.archive.org/web/20090211001255/http://texaspolitics.laits.utexas.edu/1_3_1.html|date=2009-02-11 }}. Texaspolitics.laits.utexas.edu. Retrieved on 2013-07-15.</ref>
+
+In the case of a vacancy in the office, the lieutenant governor becomes governor.<ref>TX Const. art IV sec 16 graf d</ref> Prior to a 1999 amendment, the lieutenant governor only acted as governor until the expiration of the term to which he succeeded.<ref>Under the 1861 constitution, law provided that the lieutenant governor would be "styled Governor of those state of Republicans" in case of vacancy.</ref><ref>1861 Const art V sec 12</ref> The governor and the lieutenant governor are not officially elected on the same ticket.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Texas
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Texas|Lt. Governor]]{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|1
+|data-sort-value="Henderson, J."|[[File:James Pinckney Henderson-p.jpg|75px]]
+|rowspan="8" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|'''[[J. Pinckney Henderson]]'''<br>{{Small|(1808–1858)}}<br>{{sfn|Sobel|1978|p=1515}}<ref name="nga-henderson-jpinckney">{{Cite web |title=James Pinckney Henderson |url=https://www.nga.org/governor/james-pinckney-henderson/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="671"|February 19, 1846<ref>Texas Legislature. ''Journal of the Senate''. 1st general assembly, [https://lrl.texas.gov/collections/journals/journalsSenate1.cfm 15], accessed July 9, 2023</ref><br/>–<br/>December 21, 1847<br>{{small|(671 days; retired)}}{{sfn|Sobel|1978|p=1515}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1845 Texas gubernatorial election|1845]]
+|rowspan="4" style="background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|{{sortname|Albert Clinton|Horton}}{{efn|Horton acted as governor from May 19 to November 15, 1846, while Henderson was out of state commanding troops in Mexico.{{sfn|Kallenbach|1977|pp=570–572}}}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Wood, George"|[[File:George wood.jpg|75px]]
+|'''[[George Tyler Wood]]'''<br>{{Small|(1795–1858)}}<br>{{sfn|Sobel|1978|p=1516}}<ref name="nga-wood">{{Cite web |title=George T. Wood |url=https://www.nga.org/governor/george-t-wood/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|December 21, 1847<ref>Texas Legislature. ''Journal of the Senate''. 2nd Legislature, [https://lrl.texas.gov/collections/journals/journalsSenate2.cfm 40], accessed July 9, 2023</ref><br/>–<br/>December 21, 1849<br>{{small|(732 days; lost election)}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1847 Texas gubernatorial election|1847]]
+|rowspan="2"|{{sortname|John Alexander|Greer}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Bell, Peter"|[[File:Peter bell.jpg|75px]]
+|rowspan="2"|'''[[Peter Hansborough Bell]]'''<br>{{Small|(1810–1898)}}<br>{{sfn|Sobel|1978|pp=1516–1517}}<ref name="nga-bell">{{Cite web |title=Peter Hansborough Bell |url=https://www.nga.org/governor/peter-hansborough-bell/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1434"|December 21, 1849<ref>Texas Legislature. ''Journal of the Senate''. 3rd Legislature, [https://lrl.texas.gov/collections/journals/journalsSenate3.cfm 273], accessed July 9, 2023</ref><br/>–<br/>November 23, 1853<br>{{small|(1434 days; resigned)}}{{efn|Bell resigned, having been [[1852–53 United States House of Representatives elections|elected]] to the [[United States House of Representatives]].{{sfn|Kallenbach|1977|pp=570–572}}<ref>{{Cite news |date=1853-08-18 |title=Later from Texas |page=2 |work=The Times-Picayune |url=https://www.newspapers.com/article/the-times-picayune-later-from-texas/127888578/ |access-date=2023-07-09}}</ref>}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1849 Texas gubernatorial election|1849]]
+|- style="height:2em;"
+|[[1851 Texas gubernatorial election|1851]]
+|{{sortname|James W.|Henderson}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Henderson, James."|[[File:James w henderson.jpg|75px]]
+|'''[[James W. Henderson]]'''<br>{{Small|(1817–1880)}}<br><ref name="state-henderson-james">{{Cite web |last=Kemp |first=L. W. |title=Henderson, James Wilson |url=https://www.tshaonline.org/handbook/entries/henderson-james-wilson |access-date=2023-07-09 |website=Handbook of Texas Online |publisher=Texas State Historical Association |language=en}}</ref>
+|data-sort-value="29"|November 23, 1853<ref>Texas Legislature. ''Journal of the Senate''. 5th Legislature, [https://lrl.texas.gov/collections/journals/journalsSenate5.cfm 78], accessed July 9, 2023</ref><br/>–<br/>December 21, 1853<br>{{small|(29 days; retired)}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5 
+|rowspan="2" data-sort-value="Pease, Elisha"|[[File:Elisha pease.jpg|75px]]
+|rowspan="2"|'''[[Elisha M. Pease]]'''<br>{{Small|(1812–1883)}}<br>{{sfn|Sobel|1978|p=1517}}<ref name="nga-pease">{{Cite web |title=Elisha Marshall Pease |url=https://www.nga.org/governor/elisha-marshall-pease/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|December 21, 1853<ref>Texas Legislature. ''Journal of the Senate''. 5th Legislature, Part II, [https://lrl.texas.gov/collections/journals/journalsSenate5.cfm 1], accessed July 9, 2023</ref><br/>–<br/>December 21, 1857<br>{{small|(1462 days; term-limited)}}{{efn|Under the 1845 constitution, governors were ineligible to serve more than four years in any term of six years.<ref>{{Cite web |title=1845 Texas Const. art. V, § 4 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27TX%27&CID=264&art=5&sec=4&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1853 Texas gubernatorial election|1853]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|David Catchings|Dickson}}
+|- style="height:2em;"
+|[[1855 Texas gubernatorial election|1855]]
+|{{sortname|Hardin Richard|Runnels}}
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Runnels, Hardin"|[[File:Hardin runnels.jpg|75px]]
+|'''[[Hardin Richard Runnels]]'''<br>{{Small|(1820–1873)}}<br>{{sfn|Sobel|1978|p=1518}}<ref name="nga-runnels">{{Cite web |title=Hardin Richard Runnels |url=https://www.nga.org/governor/hardin-richard-runnels/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 21, 1857<ref>Texas Legislature. ''Journal of the Senate''. 7th Legislature, [https://lrl.texas.gov/collections/journals/journalsSenate7.cfm 244], accessed July 9, 2023</ref><br/>–<br/>December 21, 1859<br>{{small|(731 days; lost election)}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1857 Texas gubernatorial election|1857]]
+|{{sortname|Francis|Lubbock}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Houston, Sam"|[[File:Hon. Sam Houston, Texas - NARA - 527675-crop.png|75px]]
+|style="color:inherit;background:{{party color|Independent (United States)}};" title="Represented no party"|
+|'''[[Sam Houston]]'''<br>{{Small|(1793–1863)}}<br>{{sfn|Sobel|1978|pp=1518–1519}}<ref name="nga-houston">{{Cite web |title=Samuel Houston |url=https://www.nga.org/governor/samuel-houston-2/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="452"|December 21, 1859<ref>Texas Legislature. ''Journal of the Senate''. 8th Legislature, [https://lrl.texas.gov/collections/journals/journalsSenate8.cfm 169], accessed July 9, 2023</ref><br/>–<br/>March 16, 1861<br>{{small|(452 days; removed)}}{{efn|Houston refused to take the oath of allegiance to the [[Confederate States of America]], so the secession convention declared the office vacant.{{sfn|Sobel|1978|pp=1518–1519}}}}
+|[[Independent (politician)|Independent]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1859 Texas gubernatorial election|1859]]
+|{{sortname|Edward|Clark|dab=governor}}
+|- style="height:2em;"
+!scope="row"|8 
+|data-sort-value="Clark, Edward"|[[File:Edward clark.jpg|75px]]
+|rowspan="3" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Edward Clark (governor)|Edward Clark]]'''<br>{{Small|(1815–1880)}}<br>{{sfn|Sobel|1978|pp=1519–1520}}<ref name="nga-clark">{{Cite web |title=Edward Clark |url=https://www.nga.org/governor/edward-clark/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="237"|March 16, 1861<ref>{{Cite web |date=1861-03-30 |title=Houston removed March 16 |url=https://www.newspapers.com/article/baton-rouge-tri-weekly-gazette-and-comet/127944057/ |access-date=2023-07-10 |website=Baton Rouge Tri-Weekly Gazette and Comet |page=8}}</ref><br />–<br />November 7, 1861<br>{{small|(237 days; lost election)}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Lubbock, Francis"|[[File:Francis lubbock.jpg|75px]]
+|'''[[Francis Lubbock]]'''<br>{{Small|(1815–1905)}}<br>{{sfn|Sobel|1978|pp=1520–1521}}<ref name="nga-lubbock">{{Cite web |title=Francis Richard Lubbock |url=https://www.nga.org/governor/francis-richard-lubbock/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|November 7, 1861<ref>Texas Legislature. ''Journal of the Senate''. 9th Legislature, [https://lrl.texas.gov/collections/journals/journalsSenate9.cfm 14], accessed July 9, 2023</ref><br />–<br />November 5, 1863<br>{{small|(729 days; retired)}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1861 Texas gubernatorial election|1861]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John McClannahan|Crockett}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Murrah, Pendleton"|[[File:Pendleton murrah.jpg|75px]]
+|'''[[Pendleton Murrah]]'''<br>{{small|({{Abbr|d.|died in}} 1865)}}<br>{{sfn|Sobel|1978|p=1521}}<ref name="nga-murrah">{{Cite web |title=Pendleton Murrah |url=https://www.nga.org/governor/pendleton-murrah/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="591"|November 5, 1863<ref>Texas Legislature. ''Journal of the Senate''. 10th Legislature, [https://lrl.texas.gov/collections/journals/journalsSenate10.cfm 47], accessed July 9, 2023</ref><br />–<br />June 17, 1865<br>{{small|(591 days; office vacated)}}{{efn|Murrah fled for Mexico around June 11, during the collapse of the Confederacy, dying there two months later.{{sfn|Sobel|1978|p=1521}} Some sources list Lieutenant Governor [[Fletcher Stockdale]] as succeeding him and serving from June 11, to either June 16, when [[Andrew Jackson Hamilton]] was appointed military governor,{{sfn|Sobel|1978|pp=1521–1522}}<ref name="nga-stockdale">{{Cite web |title=Fletcher Summerfield Stockdale |url=https://www.nga.org/governor/fletcher-summerfield-stockdale/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref> or July 25, when Hamilton arrived in Austin.<ref>{{Cite web |date=1941-08-08 |title=No title |url=https://www.newspapers.com/article/the-brownsville-herald-1941-claim-fletc/127953995/ |access-date=2023-07-10 |website=The Brownsville Herald |page=8}}</ref> However, some historians disagree on if the office formally transferred to Stockdale,<ref>{{Cite journal |last=Carroll |first=H. Bailey |date=1946 |title=Texas Collection |url=https://www.jstor.org/stable/30240640 |journal=The Southwestern Historical Quarterly |volume=49 |issue=3 |pages=445–446 |issn=0038-478X}}</ref> and he is noted in the 2004-2005 [[Texas Almanac]] as only "having performed some duties of office."<ref name="almanac">[https://texashistory.unt.edu/ark:/67531/metapth162511/m1/427/ Texas Almanac, 2004-2005], p. 427, hosted by [https://texashistory.unt.edu/ The Portal to Texas History], accessed July 9, 2023.</ref>}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1863 Texas gubernatorial election|1863]]
+|{{sortname|Fletcher|Stockdale}}
+|- style="height:2em;"
+!scope="row"|11 
+|data-sort-value="Hamilton, Andrew"|[[File:Andrew Jackson Hamilton.jpg|75px]]
+|style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Military"|
+|'''[[Andrew Jackson Hamilton]]'''<br>{{Small|(1815–1875)}}<br>{{sfn|Sobel|1978|pp=1522–1523}}<ref name="nga-hamilton">{{Cite web |title=Andrew Jackson Hamilton |url=https://www.nga.org/governor/andrew-jackson-hamilton/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="419"|June 17, 1865<ref>[https://www.presidency.ucsb.edu/node/202228 Andrew Johnson, Proclamation 139—Reorganizing a Constitutional Government in Texas] Online by Gerhard Peters and John T. Woolley, The American Presidency Project, accessed July 9, 2023</ref><br />–<br />August 9, 1866<br>{{small|(419 days; retired)}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Military governor<br>appointed by President}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|12 
+|data-sort-value="Throckmorton, James"|[[File:James W. Throckmorton - Brady-Handy.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James W. Throckmorton]]'''<br>{{Small|(1825–1894)}}<br>{{sfn|Sobel|1978|p=1523}}<ref name="nga-throckmorton">{{Cite web |title=James Webb Throckmorton |url=https://www.nga.org/governor/james-webb-throckmorton/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="356"|August 9, 1866<ref>Texas Legislature. ''Journal of the House of Representatives''. 11th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse11.cfm 25], accessed July 9, 2023</ref><br />–<br />July 30, 1867<br>{{small|(356 days; removed)}}{{efn|Throckmorton was removed from office by General [[Charles Griffin]] for being an "impediment to [[Reconstruction era|reconstruction]]," and Pease was installed in his place.{{sfn|Sobel|1978|p=1523}}}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1866 Texas gubernatorial election|1866]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|George Washington|Jones|dab=Texas politician}}
+|- style="height:2em;"
+!scope="row"|13 
+|data-sort-value="Pease, Elisha"|[[File:Elisha pease.jpg|75px]]
+|style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Appointed"|
+|'''[[Elisha M. Pease]]'''<br>{{Small|(1812–1883)}}<br>{{sfn|Sobel|1978|p=1517}}<ref name="nga-pease" />
+|data-sort-value="794"|July 30, 1867<ref>{{Cite journal |date=1867-08-01 |title=Throckmorton replaced with Pease July 30 |url=https://www.newspapers.com/article/the-daily-standard-throckmorton-replaced/127955192/ |journal=The Daily Standard |location=Raleigh, North Carolina |page=2}}</ref><br />–<br />September 30, 1869<br>{{small|(794 days; resigned)}}{{efn|Pease resigned due to disagreements with General [[Joseph J. Reynolds]].{{sfn|Sobel|1978|p=1517}}}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Installed by<br>military occupation}}
+|rowspan="3" colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|—
+|colspan="3"|''Vacant''<br><ref name="almanac" />
+|data-sort-value="101"|''September 30, 1869<br />&ndash;<br />January 8, 1870''<br>{{small|(101 days)}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Office vacated<br />after resignation}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Davis, Edmund"|[[File:Edmund Davis.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Edmund J. Davis]]'''<br>{{Small|(1827–1883)}}<br>{{sfn|Sobel|1978|p=1524}}<ref name="nga-davis">{{Cite web |title=Edmund Jackson Davis |url=https://www.nga.org/governor/edmund-jackson-davis/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1469"|January 8, 1870<ref>{{Cite news |date=1870-01-18 |title=Texas |page=2 |work=The Times-Picayune |url=https://www.newspapers.com/article/the-times-picayune-davis-elected-and-be/127955476/ |access-date=2023-07-10}}</ref><br />–<br />January 15, 1874<br>{{small|(1469 days; lost election)}}
+|[[Republican Party of Texas|Republican]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1869 Texas gubernatorial election|1869]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|15 
+|rowspan="2" data-sort-value="Coke, Richard"|[[File:Richard Coke - Brady-Handy (cropped).jpg|75px]]
+|rowspan="56" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Richard Coke]]'''<br>{{Small|(1829–1897)}}<br>{{sfn|Sobel|1978|pp=1524–1525}}<ref name="nga-coke">{{Cite web |title=Richard Coke |url=https://www.nga.org/governor/richard-coke/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1052"|January 15, 1874<ref>Texas Legislature. ''Journal of the House of Representatives''. 14th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse14.cfm 7], accessed July 9, 2023</ref><br />–<br />December 1, 1876<br>{{small|(1052 days; resigned)}}{{efn|Coke resigned, having been [[1876–77 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1524–1525}}}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1873 Texas gubernatorial election|1873]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Richard B.|Hubbard}}
+|- style="height:2em;"
+|[[1876 Texas gubernatorial election|1876]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Hubbard, Richard"|[[File:Richard hubbard.jpg|75px]]
+|'''[[Richard B. Hubbard]]'''<br>{{Small|(1832–1901)}}<br>{{sfn|Sobel|1978|pp=1525–1526}}<ref name="nga-hubbard">{{Cite web |title=Richard Bennett Hubbard |url=https://www.nga.org/governor/richard-bennett-hubbard/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="782"|December 1, 1876<ref>{{Cite news |date=1876-12-02 |title=Resignation of Gov. Coke and Installation of His Successor |page=1 |work=The Galveston Daily News |url=https://www.newspapers.com/article/the-galveston-daily-news-hubbard-succeed/127955606/ |access-date=2023-07-10}}</ref><br />–<br />January 21, 1879<br>{{small|(782 days; retired)}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Roberts, Oran"|[[File:Oran roberts.jpg|75px]]
+|rowspan="2"|'''[[Oran Milo Roberts]]'''<br>{{Small|(1815–1898)}}<br>{{sfn|Sobel|1978|pp=1526–1527}}<ref name="nga-roberts">{{Cite web |title=Oran Milo Roberts |url=https://www.nga.org/governor/oran-milo-roberts/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 21, 1879<ref>Texas Legislature. ''Journal of the House of Representatives''. 16th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse16.cfm 106], accessed July 9, 2023</ref><br />–<br />January 16, 1883<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1878 Texas gubernatorial election|1878]]
+|rowspan="20" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Joseph D.|Sayers}}
+|- style="height:2em;"
+|[[1880 Texas gubernatorial election|1880]]
+|{{sortname|Leonidas Jefferson|Storey}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|18 
+|rowspan="2" data-sort-value="Ireland, John"|[[File:John ireland.jpg|75px]]
+|rowspan="2"|'''[[John Ireland (politician)|John Ireland]]'''<br>{{Small|(1827–1896)}}<br>{{sfn|Sobel|1978|p=1527}}<ref name="nga-ireland">{{Cite web |title=John Ireland |url=https://www.nga.org/governor/john-ireland/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 16, 1883<ref>Texas Legislature. ''Journal of the House of Representatives''. 18th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse18.cfm 38], accessed July 9, 2023</ref><br />–<br />January 18, 1887<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1882 Texas gubernatorial election|1882]]
+|{{sortname|Francis Marion|Martin}}
+|- style="height:2em;"
+|[[1884 Texas gubernatorial election|1884]]
+|{{sortname|Barnett|Gibbs}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Ross, Lawrence"|[[File:Lawrence Sullivan "Sul" Ross.jpg|75px]]
+|rowspan="2"|'''[[Lawrence Sullivan Ross]]'''<br>{{Small|(1838–1898)}}<br>{{sfn|Sobel|1978|p=1528}}<ref name="nga-ross">{{Cite web |title=Lawrence Sullivan Ross |url=https://www.nga.org/governor/lawrence-sullivan-ross/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 18, 1887<ref>Texas Legislature. ''Journal of the House of Representatives''. 20th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse20.cfm 64], accessed July 9, 2023</ref><br />–<br />January 20, 1891<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1886 Texas gubernatorial election|1886]]
+|rowspan="2"|{{sortname|Thomas Benton|Wheeler}}
+|- style="height:2em;"
+|[[1888 Texas gubernatorial election|1888]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Hogg, Jim"|[[File:Jim hogg.jpg|75px]]
+|rowspan="2"|'''[[Jim Hogg]]'''<br>{{Small|(1851–1906)}}<br>{{sfn|Sobel|1978|pp=1528–1529}}<ref name="nga-hogg">{{Cite web |title=James Stephen Hogg |url=https://www.nga.org/governor/james-stephen-hogg/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 20, 1891<ref>Texas Legislature. ''Journal of the House of Representatives''. 22nd Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse22.cfm 6], accessed July 9, 2023</ref><br/>–<br/>January 15, 1895<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1890 Texas gubernatorial election|1890]]
+|{{sortname|George C.|Pendleton}}
+|- style="height:2em;"
+|[[1892 Texas gubernatorial election|1892]]
+|{{sortname|Martin McNulty|Crane}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|21
+|rowspan="2" data-sort-value="Culberson, Charles"|[[File:Charles Allen Culberson.jpg|75px]]
+|rowspan="2"|'''[[Charles A. Culberson]]'''<br>{{Small|(1855–1925)}}<br>{{sfn|Sobel|1978|pp=1529–1530}}<ref name="nga-culberson">{{Cite web |title=Charles Allen Culberson |url=https://www.nga.org/governor/charles-allen-culberson/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 15, 1895<ref>Texas Legislature. ''Journal of the House of Representatives''. 24th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse24.cfm 44], accessed July 9, 2023</ref><br/>–<br/>January 17, 1899<br>{{small|(1464 days; retired)}}{{efn|Culberson was instead [[1899 United States Senate election in Texas|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1529–1530}}}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1894 Texas gubernatorial election|1894]]
+|rowspan="2"|{{sortname|George Taylor|Jester}}
+|- style="height:2em;"
+|[[1896 Texas gubernatorial election|1896]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Sayers, Joseph"|[[File:Joseph D. Sayers (cropped).jpg|75px]]
+|rowspan="2"|'''[[Joseph D. Sayers]]'''<br>{{Small|(1841–1929)}}<br>{{sfn|Sobel|1978|p=1530}}<ref name="nga-sayers">{{Cite web |title=Joseph Draper Sayers |url=https://www.nga.org/governor/joseph-draper-sayers/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 17, 1899<ref>Texas Legislature. ''Journal of the House of Representatives''. 26th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse26.cfm 82], accessed July 9, 2023</ref><br/>–<br/>January 20, 1903<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|p=1530}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1898 Texas gubernatorial election|1898]]
+|rowspan="2"|{{sortname|James|Browning|dab=Texas politician}}
+|- style="height:2em;"
+|[[1900 Texas gubernatorial election|1900]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Lanham, S. W. T."|[[File:Swtlanham.jpg|75px]]
+|rowspan="2"|'''[[S. W. T. Lanham]]'''<br>{{Small|(1846–1908)}}<br>{{sfn|Sobel|1978|pp=1530–1531}}<ref name="nga-lanham">{{Cite web |title=Samuel Willis Tucker Lanham |url=https://www.nga.org/governor/samuel-willis-tucker-lanham/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 20, 1903<ref>Texas Legislature. ''Journal of the House of Representatives''. 28th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse28.cfm 104], accessed July 9, 2023</ref><br/>–<br/>January 15, 1907<br>{{small|(1457 days; retired)}}{{sfn|Sobel|1978|pp=1530–1531}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1902 Texas gubernatorial election|1902]]
+|rowspan="2"|{{sortname|George D.|Neal}}
+|- style="height:2em;"
+|[[1904 Texas gubernatorial election|1904]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|24
+|rowspan="2" data-sort-value="Campbell, Thomas"|[[File:T.M. Campbell, Governor, Bain portrait bust.jpg|75px]]
+|rowspan="2"|'''[[Thomas Mitchell Campbell]]'''<br>{{Small|(1856–1923)}}<br>{{sfn|Sobel|1978|pp=1531–1532}}<ref name="nga-campbell">{{Cite web |title=Thomas Mitchell Campbell |url=https://www.nga.org/governor/thomas-mitchell-campbell/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 15, 1907<ref>Texas Legislature. ''Journal of the House of Representatives''. 30th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse30.cfm 109], accessed July 9, 2023</ref><br />–<br />January 17, 1911<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=1531–1532}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1906 Texas gubernatorial election|1906]]
+|rowspan="3"|{{sortname|Asbury Bascom|Davidson}}
+|- style="height:2em;"
+|[[1908 Texas gubernatorial election|1908]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Colquitt, Oscar"|[[File:Oscar Branch Colquitt.jpg|75px]]
+|rowspan="2"|'''[[Oscar Branch Colquitt]]'''<br>{{Small|(1861–1940)}}<br>{{sfn|Sobel|1978|p=1532}}<ref name="nga-colquitt">{{Cite web |title=Oscar Branch Colquitt |url=https://www.nga.org/governor/oscar-branch-colquitt/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 17, 1911<ref>Texas Legislature. ''Journal of the House of Representatives''. 32nd Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse32.cfm 137], accessed July 9, 2023</ref><br />–<br />January 19, 1915<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|p=1532}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1910 Texas gubernatorial election|1910]]
+|- style="height:2em;"
+|[[1912 Texas gubernatorial election|1912]]
+|{{sortname|William Harding|Mayes}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|26 
+|rowspan="2" data-sort-value="Ferguson, James"|[[File:Jas. E. Ferguson LCCN2014697048 (cropped).jpg|75px]]
+|rowspan="2"|'''[[James E. Ferguson]]'''<br>{{Small|(1871–1944)}}<br>{{sfn|Sobel|1978|pp=1532–1533}}<ref name="nga-ferguson-james">{{Cite web |title=James Edward Ferguson |url=https://www.nga.org/governor/james-edward-ferguson/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="978"|January 19, 1915<ref>Texas Legislature. ''Journal of the House of Representatives''. 34th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse34.cfm 125], accessed July 9, 2023</ref><br />–<br />September 22, 1917<br>{{small|(978 days;<br>impeached and removed)}}{{efn|Ferguson was [[Impeachment in the United States|impeached]] and convicted for mismanagement of funds.{{sfn|Sobel|1978|pp=1532–1533}} Modern sources say he resigned before the trial was complete, but contemporary news shows he still maintained his office and refused to resign.<ref>{{Cite news |date=1917-09-22 |title=Ferguson Had Opportunity to Resign but He Declined |page=1 |work=The Houston Post |url=https://www.newspapers.com/article/the-houston-post-ferguson-had-opportunit/127970188/ |access-date=2023-07-10}}</ref>}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1914 Texas gubernatorial election|1914]]
+|rowspan="2"|{{sortname|William P.|Hobby}}
+|- style="height:2em;"
+|[[1916 Texas gubernatorial election|1916]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|27
+|rowspan="2" data-sort-value="Hobby, William"|[[File:William hobby.jpg|75px]]
+|rowspan="2"|'''[[William P. Hobby]]'''<br>{{Small|(1878–1964)}}<br>{{sfn|Sobel|1978|p=1534}}<ref name="nga-hobby">{{Cite web |title=William Pettus Hobby |url=https://www.nga.org/governor/william-pettus-hobby/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1215"|September 22, 1917{{efn|Hobby became acting governor upon Ferguson's impeachment on August 24;<ref>{{Cite news |date=1917-08-25 |title=Formal and Official Shift Governor's Office to W. P. Hobby |page=1 |work=The Waco Times-Herald |agency=Associated Press |url=https://www.newspapers.com/article/the-waco-times-herald-hobby-becomes-acti/127969290/ |access-date=2023-07-10}}</ref> Ferguson was convicted and removed on September 22.<ref>{{Cite news |date=1917-09-23 |title=Governor Is Impeached by Vote of 27–4 |page=1 |work=El Paso Times |agency=Associated Press |url=https://www.newspapers.com/article/el-paso-times-hobby-succeeds-ferguson-se/127969706/ |access-date=2023-07-10}}</ref>}}<br />–<br />January 18, 1921<br>{{small|(1215 days; retired)}}{{sfn|Sobel|1978|p=1534}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1918 Texas gubernatorial election|1918]]
+|rowspan="12" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Willard Arnold|Johnson}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|28 
+|rowspan="2" data-sort-value="Neff, Pat"|[[File:PatMNeff.jpg|75px]]
+|rowspan="2"|'''[[Pat Morris Neff]]'''<br>{{Small|(1871–1952)}}<br>{{sfn|Sobel|1978|pp=1534–1535}}<ref name="nga-neff">{{Cite web |title=Pat Morris Neff |url=https://www.nga.org/governor/pat-morris-neff/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 18, 1921<ref>Texas Legislature. ''Journal of the House of Representatives''. 37th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse37.cfm 148], accessed July 9, 2023</ref><br />–<br />January 20, 1925<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=1534–1535}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1920 Texas gubernatorial election|1920]]
+|{{sortname|Lynch|Davidson}}
+|- style="height:2em;"
+|[[1922 Texas gubernatorial election|1922]]
+|{{sortname|Thomas Whitfield|Davidson}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Ferguson, Miriam"|[[File:Miriam A. Ferguson.jpg|75px]]
+|'''[[Miriam A. Ferguson]]'''<br>{{Small|(1875–1961)}}<br>{{sfn|Sobel|1978|p=1535}}<ref name="nga-ferguson-miriam">{{Cite web |title=Miriam Amanda Ferguson |url=https://www.nga.org/governor/miriam-amanda-ferguson/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 20, 1925<ref>Texas Legislature. ''Journal of the House of Representatives''. 39th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse39.cfm 98], accessed July 9, 2023</ref><br />–<br />January 18, 1927<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=1535}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1924 Texas gubernatorial election|1924]]
+|rowspan="3"|{{sortname|Barry|Miller|dab=politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|30
+|rowspan="2" data-sort-value="Moody, Dan"|[[File:Dan Moody LCCN2014713451 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Dan Moody]]'''<br>{{Small|(1893–1966)}}<br>{{sfn|Sobel|1978|p=1536}}<ref name="nga-moody">{{Cite web |title=Daniel J. Moody |url=https://www.nga.org/governor/daniel-j-moody/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 18, 1927<ref>Texas Legislature. ''Journal of the House of Representatives''. 40th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse40.cfm 81], accessed July 9, 2023</ref><br />–<br />January 20, 1931<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|p=1536}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1926 Texas gubernatorial election|1926]]
+|- style="height:2em;"
+|[[1928 Texas gubernatorial election|1928]]
+|- style="height:2em;"
+!scope="row"|31 
+|data-sort-value="Sterling, Ross"|[[File:Ross Sterling.png|75px]]
+|'''[[Ross S. Sterling]]'''<br>{{Small|(1875–1949)}}<br>{{sfn|Sobel|1978|pp=1536–1537}}<ref name="nga-sterling">{{Cite web |title=Ross S. Sterling |url=https://www.nga.org/governor/ross-s-sterling/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|January 20, 1931<ref>Texas Legislature. ''Journal of the House of Representatives''. 42nd Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse42.cfm 74], accessed July 9, 2023</ref><br />–<br />January 17, 1933<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1536–1537}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1930 Texas gubernatorial election|1930]]
+|rowspan="2"|{{sortname|Edgar E.|Witt}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Ferguson, Miriam"|[[File:Miriam A. Ferguson.jpg|75px]]
+|'''[[Miriam A. Ferguson]]'''<br>{{Small|(1875–1961)}}<br>{{sfn|Sobel|1978|p=1535}}<ref name="nga-ferguson-miriam" />
+|data-sort-value="729"|January 17, 1933<ref>Texas Legislature. ''Journal of the House of Representatives''. 43rd Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse43.cfm 98], accessed July 9, 2023</ref><br/>–<br/>January 15, 1935<br>{{small|(729 days; retired)}}{{sfn|Sobel|1978|p=1535}}
+|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1932 Texas gubernatorial election|1932]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33 
+|rowspan="2" data-sort-value="Allred, James"|[[File:James Allred.png|75px]]
+|rowspan="2"|'''[[James Burr V Allred]]'''<br>{{Small|(1899–1959)}}<br>{{sfn|Sobel|1978|pp=1537–1538}}<ref name="nga-allred">{{Cite web |title=James V. Allred |url=https://www.nga.org/governor/james-v-allred/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 15, 1935<ref>Texas Legislature. ''Journal of the House of Representatives''. 44th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse44.cfm 93], accessed July 9, 2023</ref><br/>–<br/>January 17, 1939<br>{{small|(1464 days; retired)}}{{sfn|Sobel|1978|pp=1537–1538}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1934 Texas gubernatorial election|1934]]
+|rowspan="2"|{{sortname|Walter Frank|Woodul}}
+|- style="height:2em;"
+|[[1936 Texas gubernatorial election|1936]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|34 
+|rowspan="2" data-sort-value="O'Daniel, W. Lee"|[[File:W. Lee "Pappy" O'Daniel, 1939 (cropped) (3x4).jpg|75px]]
+|rowspan="2"|'''[[W. Lee O'Daniel]]'''<br>{{Small|(1890–1969)}}<br>{{sfn|Sobel|1978|p=1538}}<ref name="nga-odaniel">{{Cite web |title=Wilbert Lee O'Daniel |url=https://www.nga.org/governor/wilbert-lee-odaniel/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="931"|January 17, 1939<ref>Texas Legislature. ''Journal of the House of Representatives''. 46th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse46.cfm 100], accessed July 9, 2023</ref><br />–<br />August 4, 1941<br>{{small|(931 days; resigned)}}{{efn|O'Daniel resigned, having been [[1941 United States Senate elections|elected]] to the [[United States Senate]].<ref name="nga-odaniel" />}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1938 Texas gubernatorial election|1938]]
+|rowspan="2"|{{sortname|Coke R.|Stevenson}}
+|- style="height:2em;"
+|[[1940 Texas gubernatorial election|1940]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Stevenson, Coke"|[[File:Coke R. Stevenson.jpg|75px]]
+|rowspan="3"|'''[[Coke R. Stevenson]]'''<br>{{Small|(1888–1975)}}<br>{{sfn|Sobel|1978|pp=1538–1539}}<ref name="nga-stevenson">{{Cite web |title=Coke R. Stevenson |url=https://www.nga.org/governor/coke-r-stevenson/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1997"|August 4, 1941<ref>{{Cite news |date=1941-08-04 |title=Stevenson Is New Governor of Texas |page=1 |work=Big Spring Daily Herald |agency=Associated Press |url=https://www.newspapers.com/article/big-spring-daily-herald-stevenson-succee/127971382/ |access-date=2023-07-10}}</ref><br />–<br />January 21, 1947<br>{{small|(1997 days; retired)}}
+|rowspan="3"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1942 Texas gubernatorial election|1942]]
+|rowspan="4" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|John Lee|Smith}}
+|- style="height:2em;"
+|[[1944 Texas gubernatorial election|1944]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|36 
+|rowspan="2" data-sort-value="Jester, Beauford"|[[File:Beauford H. Jester.jpg|75px]]
+|rowspan="2"|'''[[Beauford H. Jester]]'''<br>{{Small|(1893–1949)}}<br>{{sfn|Sobel|1978|p=1539}}<ref name="nga-jester">{{Cite web |title=Beauford Halbert Jester |url=https://www.nga.org/governor/beauford-halbert-jester/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="903"|January 21, 1947<ref>Texas Legislature. ''Journal of the House of Representatives''. 50th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse50.cfm 60], accessed July 9, 2023</ref><br />–<br />July 11, 1949<br>{{small|(903 days; died in office)}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1946 Texas gubernatorial election|1946]]
+|rowspan="2"|{{sortname|Allan|Shivers}}
+|- style="height:2em;"
+|[[1948 Texas gubernatorial election|1948]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|37
+|rowspan="4" data-sort-value="Shivers, Allan"|[[File:Allan Shivers.jpg|75px]]
+|rowspan="4"|'''[[Allan Shivers]]'''<br>{{Small|(1907–1985)}}<br>{{sfn|Sobel|1978|pp=1539–1540}}<ref name="nga-shivers">{{Cite web |title=Allan Shivers |url=https://www.nga.org/governor/allan-shivers/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2746"|July 11, 1949<ref>{{Cite news |date=1949-07-11 |title=Gov. Jester Found Dead in Pullman Berth at Houston |page=1 |work=Fort Worth Star-Telegram |agency=Associated Press |url=https://www.newspapers.com/article/fort-worth-star-telegram-shivers-succeed/127971555/ |access-date=2023-07-10}}</ref><br />–<br />January 15, 1957<br>{{small|(2746 days; retired)}}{{sfn|Sobel|1978|pp=1539–1540}}
+|rowspan="4"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1950 Texas gubernatorial election|1950]]
+|rowspan="6" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="6"|{{sortname|Ben|Ramsey|dab=politician}}
+|- style="height:2em;"
+|[[1952 Texas gubernatorial election|1952]]
+|- style="height:2em;"
+|[[1954 Texas gubernatorial election|1954]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|38
+|rowspan="4" data-sort-value="Daniel, Price"|[[File:Price Daniel (TX).png|75px]]
+|rowspan="4"|'''[[Price Daniel]]'''<br>{{Small|(1910–1988)}}<br>{{sfn|Sobel|1978|pp=1540–1541}}<ref name="nga-daniel">{{Cite web |title=Price Daniel |url=https://www.nga.org/governor/price-daniel/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2192"|January 15, 1957<ref>Texas Legislature. ''Journal of the House of Representatives''. 55th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse55.cfm 64], accessed July 9, 2023</ref><br />–<br />January 15, 1963<br>{{small|(2192 days;<br>lost nomination)}}{{sfn|Sobel|1978|pp=1540–1541}}
+|rowspan="4"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1956 Texas gubernatorial election|1956]]
+|- style="height:2em;"
+|[[1958 Texas gubernatorial election|1958]]
+|- style="height:2em;"
+|rowspan="2"|[[1960 Texas gubernatorial election|1960]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|39 
+|rowspan="3" data-sort-value="Connally, John"|[[File:John Connally (cropped).jpg|75px]]
+|rowspan="3"|'''[[John Connally]]'''<br>{{Small|(1917–1993)}}<br>{{sfn|Sobel|1978|pp=1541–1542}}<ref name="nga-connally">{{Cite web |title=John Bowden Connally |url=https://www.nga.org/governor/john-bowden-connally/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="2199"|January 15, 1963<ref>Texas Legislature. ''Journal of the House of Representatives''. 58th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse58.cfm 56], accessed July 9, 2023</ref><br />–<br />January 21, 1969<br>{{small|(2199 days; retired)}}{{sfn|Sobel|1978|pp=1541–1542}}
+|rowspan="3"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1962 Texas gubernatorial election|1962]]
+|rowspan="12" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Preston|Smith|dab=governor}}
+|- style="height:2em;"
+|[[1964 Texas gubernatorial election|1964]]
+|- style="height:2em;"
+|[[1966 Texas gubernatorial election|1966]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Smith, Preston"|[[File:Smith-p01-1.jpg|75px]]
+|rowspan="2"|'''[[Preston Smith (governor)|Preston Smith]]'''<br>{{Small|(1912–2003)}}<br>{{sfn|Sobel|1978|p=1542}}<ref name="nga-smith">{{Cite web |title=Preston Smith |url=https://www.nga.org/governor/preston-smith/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1457"|January 21, 1969<ref>Texas Legislature. ''Journal of the House of Representatives''. 61st Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse61.cfm 98], accessed July 9, 2023</ref><br />–<br />January 16, 1973<br>{{small|(1457 days;<br>lost nomination)}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1968 Texas gubernatorial election|1968]]
+|rowspan="2"|{{sortname|Ben|Barnes|dab=Texas politician}}
+|- style="height:2em;"
+|[[1970 Texas gubernatorial election|1970]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Briscoe, Dolph"|[[File:Dolph Briscoe, 1976.jpg|75px]]
+|rowspan="2"|'''[[Dolph Briscoe]]'''<br>{{Small|(1923–2010)}}<br>{{sfn|Sobel|1978|pp=1542–1543}}<ref name="nga-briscoe">{{Cite web |title=Dolph Briscoe |url=https://www.nga.org/governor/dolph-briscoe/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2192"|January 16, 1973<ref>Texas Legislature. ''Journal of the House of Representatives''. 63rd Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse63.cfm 113], accessed July 9, 2023</ref><br />–<br />January 16, 1979<br>{{small|(2192 days;<br>lost nomination)}}{{efn|Briscoe lost the Democratic nomination to [[John Luke Hill]].}}
+|rowspan="2"|[[Texas Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=570–572}}
+|[[1972 Texas gubernatorial election|1972]]
+|rowspan="5"|{{sortname|William P.|Hobby Jr.}}
+|- style="height:2em;"
+|[[1974 Texas gubernatorial election|1974]]
+|- style="height:2em;"
+!scope="row"|42 
+|data-sort-value="Clements, Bill"|[[File:Bill Clements 1st term portrait.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Bill Clements]]'''<br>{{Small|(1917–2011)}}<br><ref name="nga-clements">{{Cite web |title=William P. Clements |url=https://www.nga.org/governor/william-p-clements/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 16, 1979<ref>Texas Legislature. ''Journal of the House of Representatives''. 66th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse66.cfm 121], accessed July 9, 2023</ref><br />–<br />January 18, 1983<br>{{small|(1464 days; lost election)}}
+|[[Republican Party of Texas|Republican]]<ref name="nga-clements" />
+|[[1978 Texas gubernatorial election|1978]]
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="White, Mark"|[[File:Mark White Portrait.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Mark White (Texas politician)|Mark White]]'''<br>{{Small|(1940–2017)}}<br><ref name="nga-white">{{Cite web |title=Mark White |url=https://www.nga.org/governor/mark-white/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 18, 1983<ref>Texas Legislature. ''Journal of the House of Representatives''. 68th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse68.cfm 138], accessed July 9, 2023</ref><br />–<br />January 20, 1987<br>{{small|(1464 days; lost election)}}
+|[[Texas Democratic Party|Democratic]]<ref name="nga-white" />
+|[[1982 Texas gubernatorial election|1982]]
+|- style="height:2em;"
+!scope="row"|44 
+|data-sort-value="Clements, Bill"|[[File:Bill Clements 2nd term portrait.jpg|75px]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Bill Clements]]'''<br>{{Small|(1917–2011)}}<br><ref name="nga-clements" />
+|data-sort-value="1457"|January 20, 1987<ref>Texas Legislature. ''Journal of the House of Representatives''. 70th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse70.cfm 122], accessed July 9, 2023</ref><br />–<br />January 15, 1991<br>{{small|(1457 days; retired)}}
+|[[Republican Party of Texas|Republican]]<ref name="nga-clements" />
+|[[1986 Texas gubernatorial election|1986]]
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Richards, Ann"|[[File:Ann Richards, Governor of Texas.jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Ann Richards]]'''<br>{{Small|(1933–2006)}}<br><ref name="nga-richards">{{Cite web |title=Dorothy Ann Willis Richards |url=https://www.nga.org/governor/dorothy-ann-willis-richards/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1991<ref>Texas Legislature. ''Journal of the House of Representatives''. 72nd Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse72.cfm 139], accessed July 9, 2023</ref><br />–<br />January 17, 1995<br>{{small|(1464 days; lost election)}}
+|[[Texas Democratic Party|Democratic]]<ref name="nga-richards" />
+|[[1990 Texas gubernatorial election|1990]]
+|rowspan="2"|{{sortname|Bob|Bullock}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|[[Governorship of George W. Bush|46]]
+|rowspan="2" data-sort-value="Bush, George"|[[File:George Bush 45 (49492156502).jpg |75px]]
+|rowspan="9" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[George W. Bush]]'''<br>{{small|({{Abbr|b.|born in}} 1946)}}<br><ref name="nga-bush">{{Cite web |title=George W. Bush |url=https://www.nga.org/governor/george-w-bush/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2166"|January 17, 1995<ref>Texas Legislature. ''Journal of the House of Representatives''. 74th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse74.cfm 35], accessed July 9, 2023</ref><br />–<br />December 21, 2000<br>{{small|(2166 days; resigned)}}{{efn|Bush resigned, having been [[2000 United States presidential election|elected]] [[President of the United States]].}}
+|rowspan="2"|[[Republican Party of Texas|Republican]]<ref name="nga-bush" />
+|[[1994 Texas gubernatorial election|1994]]
+|- style="height:2em;"
+|[[1998 Texas gubernatorial election|1998]]
+|rowspan="8" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Rick|Perry}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|[[Governorship of Rick Perry|47]]
+|rowspan="4" data-sort-value="Perry, Rick"|[[File:Rick Perry by Gage Skidmore 3 (cropped).jpg|75px]]
+|rowspan="4"|'''[[Rick Perry]]'''<br>{{small|({{Abbr|b.|born in}} 1950)}}<br><ref name="nga-perry">{{Cite web |title=Rick Perry |url=https://www.nga.org/governor/rick-perry/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="5144"|December 21, 2000<ref>{{Cite news |last=Susswein |first=Gary |last2=Kurtz |first2=Michele |date=2000-12-22 |title=Perry Promises a Prosperous Future for Texas |page=1 |work=Austin American-Statesman |url=https://www.newspapers.com/article/austin-american-statesman-perry-succeeds/127994613/ |access-date=2023-07-10}}</ref><br />–<br />January 20, 2015<br>{{small|(5144 days; retired)}}
+|rowspan="4"|[[Republican Party of Texas|Republican]]<ref name="nga-perry" />
+|style="background:#EEEEEE;"|{{small|Succeeded from<br />lieutenant<br />governor}}
+|{{sortname|Bill|Ratliff}}
+|- style="height:2em;"
+|[[2002 Texas gubernatorial election|2002]]
+|rowspan="3"|{{sortname|David|Dewhurst}}
+|- style="height:2em;"
+|[[2006 Texas gubernatorial election|2006]]
+|- style="height:2em;"
+|[[2010 Texas gubernatorial election|2010]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|48
+|rowspan="3" data-sort-value="Abbott, Greg"|[[File:Greg Abbott 2024 (cropped).jpg|75px]]
+|rowspan="3"|'''[[Greg Abbott]]'''<br>{{small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-abbott">{{Cite web |title=Greg Abbott |url=https://www.nga.org/governor/greg-abbott/ |access-date=July 5, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="{{Duration in days nts|2015|1|20|duration=on|format=no}}"|January 20, 2015<ref>Texas Legislature. ''Journal of the House of Representatives''. 84th Legislature, [https://lrl.texas.gov/collections/journals/journalsHouse84.cfm 182], accessed July 9, 2023</ref><br />–<br />Incumbent{{efn|Abbott's third term began on January 17, 2023,<ref>{{Cite news |last=Svitek |first=Patrick |date=2023-01-17 |title=Gov. Greg Abbott says in inauguration speech Legislature will prioritize budget surplus, schools and power grid |url=https://www.texastribune.org/2023/01/17/greg-abbott-texas-inauguration/ |access-date=2025-01-23 |work=The Texas Tribune |language=en}}</ref> and [[2026 Texas gubernatorial election|will expire]] on January 19, 2027.}}<br>{{small|(in office {{Duration in days nts|2015|1|20|duration=on|format=no}} days)}}
+|rowspan="3"|[[Republican Party of Texas|Republican]]<ref name="nga-abbott" />
+|[[2014 Texas gubernatorial election|2014]]
+|rowspan="3"|{{sortname|Dan|Patrick|dab=politician}}
+|- style="height:2em;"
+|[[2018 Texas gubernatorial election|2018]]
+|- style="height:2em;"
+|[[2022 Texas gubernatorial election|2022]]
+|- style="height:2em;"
+!scope="row"|''49''
+|data-sort-value="Hinojosa, Gina"|[[File:Gina_Hinojosa_at_LBJ_Library_Forum_(3x4_cropped).jpg|75px]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''''[[Gina Hinojosa]]'''''<br>{{small|({{Abbr|b.|born in}} 1973)}}
+|data-sort-value="{{Duration in days nts|2027|1|19|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 19, 2027''
+|''[[Democratic Party of Texas|Democratic]]''
+|[[2026 Texas gubernatorial election|2026]]
+|style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Vikki|Goodwin}}
+|}
+
+==See also==
+{{Portal|Texas}}
+*[[Lieutenant Governor of Texas]]
+*[[Gubernatorial lines of succession in the United States#Texas|Gubernatorial lines of succession in Texas]]
+*[[List of Texas state legislatures]]
+{{Clear}}
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former Texas Governors |url=https://www.nga.org/former-governors/texas/ |access-date=July 5, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Texas - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=122 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+* {{Cite web |title=Our Campaigns - Governor of Texas (CSA) - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=68434 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+== External links ==
+*[https://gov.texas.gov/ Office of the Governor of Texas]
+* [https://web.archive.org/web/20041019141712/http://www.lrl.state.tx.us/legis/leaders/govbio.html Legislative Reference Library of Texas -- Governors of Texas]
+* {{Handbook of Texas|id=mbg03|name=Governor (of Texas)}}
+* [http://www.tshaonline.org/quiz/0602q.html ''The Handbook of Texas Online:'' Texas History Quiz -- Presidents and Governors of Texas]
+* [http://www.stateline.org/live/details/story?contentId=187648 Explanation of the strengths of governors]
+
+{{Current Texas statewide political officials}}
+{{Lists of US Governors}}
+{{Governors of Texas}}
+{{State agencies of Texas}}
+{{Texas}}
+
+{{DEFAULTSORT:Texas, List Of Governors Of}}
+[[Category:Governors of Texas|*]]
+[[Category:Lists of state governors of the United States]]
+[[Category:Lists of Texas politicians|Governors]]

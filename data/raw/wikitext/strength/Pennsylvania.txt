@@ -1,0 +1,1427 @@
+{{Short description|Politics in the US state of Pennsylvania}}
+{{align|right|{{Switcher |[[File:2025 Pennsylvania voter registration map by county.svg|300px]]|Voter registration by county |[[File:2025 Pennsylvania voter registration map by congressional district.svg|300px]]|Voter registration by congressional district<br>{{collapsible list|title=Legend:|
+{{legend|#A5B0FF|40–50%}} |
+{{legend|#7996E2|50–60%}} |
+{{legend|#6674DE|60–70%}} |
+{{legend|#584CDE|70–80%}} |
+{{legend|#FFB2B2|40–50%}} |
+{{legend|#E27F7F|50–60%}} |
+{{legend|#D75D5D|60–70%}} |
+{{legend|#D72F30|70–80%}} |}}}}}}
+
+==Partisan identification in the electorate==
+On August 10, 2026, the Pennsylvania Department of State reported that there were 3,842,840 (42.8%) registered Democrats, 3,635,181 (40.5%) registered Republicans, 1,183,935 (13.1%) registered unaffiliated and 314,412 (3.5%) registered with other parties.<ref>{{cite web |publisher=Pennsylvania Department of State |url=https://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Pages/VotingElectionStatistics.aspx |title=Voting and Election Statistics, Current Registration Statistics |accessdate=August 10, 2026}}</ref>
+
+==Partisan affiliation of elected officials==
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Pennsylvania]]:
+*[[List of governors of Pennsylvania|Governor]]
+*[[Lieutenant Governor of Pennsylvania|Lieutenant governor]]
+*[[Pennsylvania Attorney General|Attorney general]]
+*[[Pennsylvania Auditor General|State auditor general]]
+*[[Pennsylvania Treasurer|State treasurer]]
+
+The table also indicates the historical party composition in the:
+*[[Pennsylvania State Senate|State senate]]
+*[[Pennsylvania House of Representatives|State house of representatives]]
+*[[List of United States senators from Pennsylvania|State delegation to the United States Senate]]
+*[[List of United States representatives from Pennsylvania|State delegation to the United States House of Representatives]]
+
+Following the [[2020 United States census|2020 Census]], Pennsylvania lost one seat in the U.S. House of Representatives. As a result, starting with the [[2022 United States elections|general election of 2022]], Pennsylvania sent 17 members to the house, and beginning with the [[2024 United States elections|general election of 2024]] has 19 electoral votes.
+
+===1777–1790===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=2 class=unsortable |Executive offices
+!class=unsortable |[[Pennsylvania General Assembly|State Legislature]]
+!colspan=3 class=unsortable |United States Congress
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[Supreme Executive Council of the Commonwealth of Pennsylvania|President]]{{efn |name=exec|From 1777 to 1790, Pennsylvania had a series of presidents and vice presidents of The Supreme Council.}}
+!class=unsortable |[[Supreme Executive Council of the Commonwealth of Pennsylvania|Vice President]]{{efn |name=exec}}
+!class=unsortable |[[Supreme Executive Council of the Commonwealth of Pennsylvania|Executive Council]]
+!class=unsortable |[[List of United States senators from Pennsylvania|Senator (Class I)]]
+!class=unsortable |[[List of United States senators from Pennsylvania|Senator (Class III)]]
+!class=unsortable |[[List of United States representatives from Pennsylvania|House]]
+|- style="height:2em"
+!1777
+|{{Party shading/Democratic/Hold}} |[[Thomas Wharton Jr.]] {{small|({{abbr|CS|Constitutionalist Society}})}}
+|rowspan=2 {{Party shading/Democratic/Hold}} |[[George Bryan]] {{small|({{abbr|CS|Constitutionalist Society}})}}
+|{{Party shading/Democratic/Hold}} |51{{abbr|CS|Constitutionalist Society}}, 15{{abbr|RS|Republican Society}}, 6?
+|colspan=4 rowspan=12 |''began in 1789''
+|- style="height:2em"
+!1778
+|{{Party shading/Democratic/Hold}} |[[George Bryan]] {{small|({{abbr|CS|Constitutionalist Society}})}}
+|{{Party shading/Democratic/Hold}} |54{{abbr|CS|Constitutionalist Society}}, 7?, 5{{abbr|RS|Republican Society}}
+|- style="height:2em"
+!1779
+|rowspan=3 {{Party shading/Democratic/Hold}} |[[Joseph Reed (politician)|Joseph Reed]] {{small|({{abbr|CS|Constitutionalist Society}})}}
+|[[Matthew Smith (Pennsylvania statesman)|Matthew Smith]]
+|{{Party shading/Democratic/Hold}} |43{{abbr|CS|Constitutionalist Society}}, 26{{abbr|RS|Republican Society}}, 3?
+|- style="height:2em"
+!1780
+|rowspan=2 {{Party shading/Independent}} |[[William Moore (Pennsylvania politician, died 1793)|William Moore]] {{small|(I)}}
+|{{Party shading/Democratic/Hold}} |51{{abbr|CS|Constitutionalist Society}}, 14{{abbr|RS|Republican Society}}, 7?
+|- style="height:2em"
+!1781
+|{{Party shading/Democratic/Hold}} |41{{abbr|CS|Constitutionalist Society}}, 31{{abbr|RS|Republican Society}}
+|- style="height:2em"
+!1782
+|{{Party shading/Independent}} |[[William Moore (Pennsylvania politician, died 1793)|William Moore]] {{small|(I)}}
+|{{Party shading/Democratic/Hold}} |[[James Potter (Pennsylvania politician)|James Potter]] {{small|({{abbr|CS|Constitutionalist Society}})}}
+|{{Party shading/Democratic/Hold}} |38{{abbr|CS|Constitutionalist Society}}, 36{{abbr|RS|Republican Society}}
+|- style="height:2em"
+!1783
+|rowspan=3 {{Party shading/Republican/Hold}} |[[John Dickinson]] {{small|({{abbr|RS|Republican Society}})}}
+|rowspan=2 {{Party shading/Republican/Hold}} |[[James Ewing (Pennsylvania politician)|James Ewing]] {{small|({{abbr|RS|Republican Society}})}}
+|{{Party shading/Republican/Hold}} |39{{abbr|RS|Republican Society}}, 34{{abbr|CS|Constitutionalist Society}}, 1?
+|- style="height:2em"
+!1784
+|{{Party shading/Republican/Hold}} |44{{abbr|RS|Republican Society}}, 29{{abbr|CS|Constitutionalist Society}}
+|- style="height:2em"
+!1785
+|{{Party shading/Democratic/Hold}} |[[James Irvine (Pennsylvania politician)|James Irvine]] {{small|({{abbr|CS|Constitutionalist Society}})}}
+|{{Party shading/Democratic/Hold}} |56{{abbr|CS|Constitutionalist Society}}, 18{{abbr|RS|Republican Society}}
+|- style="height:2em"
+!1786
+|rowspan=3 {{Party shading/Independent}} |[[Benjamin Franklin]] {{small|(I)}}
+|rowspan=2 |[[Charles Biddle]]
+|{{Party shading/Republican/Hold}} |38{{abbr|RS|Republican Society}}, 37{{abbr|CS|Constitutionalist Society}}
+|- style="height:2em"
+!1787
+|{{Party shading/Republican/Hold}} |41{{abbr|RS|Republican Society}}, 28{{abbr|CS|Constitutionalist Society}}
+|- style="height:2em"
+!1788
+|[[Peter Muhlenberg]]
+|{{Party shading/Republican/Hold}} |37{{abbr|RS|Republican Society}}, 32{{abbr|CS|Constitutionalist Society}}
+|- style="height:2em"
+!1789
+|rowspan=2 {{Party shading/Republican/Hold}} |[[Thomas Mifflin]] {{small|({{abbr|RS|Republican Society}})}}
+|rowspan=2 |[[George Ross (Pennsylvania statesman)|George Ross]]
+|{{Party shading/Republican/Hold}} |47{{abbr|RS|Republican Society}}, 22{{abbr|CS|Constitutionalist Society}}
+|rowspan=2 {{Party shading/Anti-Administration}} |[[William Maclay (Pennsylvania senator)|William Maclay]] {{small|(AA)}}
+|rowspan=2 {{Party shading/Pro-Administration}} |[[Robert Morris (financier)|Robert Morris]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Pro-Administration}} |6PA, 2AA
+|rowspan=2 {{Party shading/Independent}} |[[George Washington]] {{small|(I)}} /<br>[[John Adams]] {{small|(F)}} {{Aye}}
+|- style="height:2em"
+!1790
+|{{Party shading/Republican/Hold}} |42{{abbr|RS|Republican Society}}, 27{{abbr|CS|Constitutionalist Society}}
+|}
+
+===1791–1872===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class="unsortable" |Year
+!colspan=2 |Executive offices
+!colspan=2 class="unsortable" |[[Pennsylvania General Assembly|State Legislature]]
+!colspan=3 class="unsortable" |United States Congress
+!rowspan=2 class="unsortable" |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class="unsortable" |[[List of governors of Pennsylvania|Governor]]
+!class="unsortable" |[[Pennsylvania Auditor General|Auditor General]]
+!class="unsortable" |[[Pennsylvania State Senate|Senate]]
+!class="unsortable" |[[Pennsylvania House of Representatives|House]]
+!class="unsortable" |[[List of United States senators from Pennsylvania|Senator (Class I)]]
+!class="unsortable" |[[List of United States senators from Pennsylvania|Senator (Class III)]]
+!class="unsortable" |[[List of United States representatives from Pennsylvania|House]]
+|- style="height:2em"
+!1791
+|rowspan=10 {{Party shading/Federalist}} |[[Thomas Mifflin]] {{small|(F)}}
+|rowspan=63 |''not an elected office''
+|rowspan=2 {{Party shading/Federalist}} |10F, 8DR
+|{{Party shading/Federalist}} |36F, 33DR
+|rowspan=3 |''vacant''
+|rowspan=5 {{Party shading/Pro-Administration}} |[[Robert Morris (financier)|Robert Morris]] {{small|(PA)}}
+|rowspan=2 {{Party shading/Tie}} |4PA, 4AA
+|
+|- style="height:2em"
+!1792
+|rowspan=2 {{Party shading/Federalist}} |42F, 27DR
+|rowspan=5 {{Party shading/Independent}} |[[George Washington]] {{small|(I)}} /<br>[[John Adams]] {{small|(F)}} {{Aye}}
+|- style="height:2em"
+!1793
+|{{Party shading/Tie}} |9F, 9DR{{efn |A Federalist, Anthony Morris, was elected as Speaker of the chamber.<ref>{{cite web|title=Anthony Morris|url=https://www.legis.state.pa.us/cfdocs/legis/BiosHistory/MemBio.cfm?ID=4715&body=S|access-date=2021-06-24|website=The official website for the Pennsylvania General Assembly.|language=English}}</ref>}}
+|rowspan=3 {{Party shading/Anti-Administration}} |8AA, 5PA
+|- style="height:2em"
+!rowspan=2 |1794
+|rowspan=2 {{Party shading/Federalist}} |10F, 8DR
+|rowspan=2 {{Party shading/Federalist}} |48F, 21DR
+|{{Party shading/Anti-Administration}} |[[Albert Gallatin]] {{small|(AA)}}
+|- style="height:2em"
+|{{Party shading/Pro-Administration}} |[[James Ross (Pennsylvania politician)|James Ross]] {{small|(PA)}}
+|- style="height:2em"
+!1795
+|{{Party shading/Federalist}} |14F, 10DR
+|{{Party shading/Federalist}} |49F, 29DR
+|rowspan=9 {{Party shading/Federalist}} |[[James Ross (Pennsylvania politician)|James Ross]] {{small|(F)}}
+|rowspan=6 {{Party shading/Federalist}} |[[William Bingham]] {{small|(F)}}
+|{{Party shading/Democratic-Republican}} |8DR, 5F
+|- style="height:2em"
+!1796
+|rowspan=4 {{Party shading/Federalist}} |15F, 9DR
+|{{Party shading/Federalist}} |45F, 33DR
+|{{Party shading/Democratic-Republican}} |7DR, 6F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]] {{small|(DR)}} {{Nay}} /<br> [[John Adams]] {{small|(F)}} {{Nay}}
+|- style="height:2em"
+!1797
+|{{Party shading/Federalist}} |44F, 34DR
+|rowspan=2 {{Party shading/Democratic-Republican}} |8DR, 5F
+|- style="height:2em"
+!1798
+|{{Party shading/Federalist}} |41F, 37DR
+|- style="height:2em"
+!1799
+|{{Party shading/Federalist}} |47F, 31DR
+|rowspan=2 {{Party shading/Democratic-Republican}} |9DR, 4F
+|- style="height:2em"
+!1800
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Thomas McKean]] {{small|(DR)}}
+|{{Party shading/Federalist}} |16F, 8DR
+|{{Party shading/Democratic-Republican}} |41DR, 37F
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]] {{small|(DR)}} {{Aye}} /<br> [[John Adams]] {{small|(F)}} {{Nay}}
+|- style="height:2em"
+!rowspan=2 |1801
+|rowspan=2 {{Party shading/Federalist}} |13F, 11DR
+|rowspan=2 {{Party shading/Democratic-Republican}} |55DR, 23F
+|{{Party shading/Democratic-Republican}} |[[Peter Muhlenberg]] {{small|(DR)}}
+|rowspan=3 {{Party shading/Democratic-Republican}} |10DR, 3F
+|- style="height:2em"
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[George Logan (Pennsylvania politician)|George Logan]] {{small|(DR)}}
+|- style="height:2em"
+!1802
+|{{Party shading/Democratic-Republican}} |17DR, 8F
+|{{Party shading/Democratic-Republican}} |71DR, 15F
+|- style="height:2em"
+!1803
+|{{Party shading/Democratic-Republican}} |21DR, 4F
+|{{Party shading/Democratic-Republican}} |77DR, 9F
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Samuel Maclay]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |18DR
+|- style="height:2em"
+!1804
+|{{Party shading/Democratic-Republican}} |24DR, 1F
+|{{Party shading/Democratic-Republican}} |81DR, 5F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Thomas Jefferson]]/<br>[[George Clinton (vice president)|George Clinton]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1805
+|{{Party shading/Democratic-Republican}} |25DR
+|{{Party shading/Democratic-Republican}} |78DR, 8F
+|rowspan=2 {{Party shading/Democratic-Republican}} |17DR, 1F
+|- style="height:2em"
+!1806
+|rowspan=3 {{Party shading/Fusion}} |[[Thomas McKean]] {{small|(Quid)}}
+|{{Party shading/Fusion}} |15Const, 10DR{{efn |name=coalition|The Federalists and Quids, who were moderates within the [[Democratic-Republican Party]], formed a coalition in the 1805 election and called themselves the Constitutionalists; when they achieved a majority, they organized the chamber together, and this coalition continued in succeeding elections.<ref>{{cite web |url=https://www.boundless.com/u-s-history/textbooks/boundless-u-s-history-textbook/securing-the-republic-1800-1815-11/divisions-in-the-republican-party-97/john-randolph-and-the-old-republicans-524-3388/ |title=John Randolph and the Old Republicans
+|date=July 21, 2015 |website=Boundless |url-status=dead |archive-url=https://web.archive.org/web/20150919125505/https://www.boundless.com/u-s-history/textbooks/boundless-u-s-history-textbook/securing-the-republic-1800-1815-11/divisions-in-the-republican-party-97/john-randolph-and-the-old-republicans-524-3388/ |archive-date=September 19, 2015}}</ref>}}
+|{{Party shading/Fusion}} |53Const, 33DR{{efn |name=coalition}}
+|- style="height:2em"
+!1807
+|{{Party shading/Fusion}} |13Const, 12DR{{efn |name=coalition}}
+|{{Party shading/Democratic-Republican}} |46DR, 40Const{{efn |name=coalition}}
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Andrew Gregg]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |15DR, 3F
+|- style="height:2em"
+!1808
+|{{Party shading/Democratic-Republican}} |14DR, 7Quid, 4F
+|{{Party shading/Democratic-Republican}} |43DR, 23F, 20Quid{{efn |Elected [[Nathaniel Boileau]], a Democratic-Republican, as Speaker.}}
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison]]/<br>[[George Clinton (vice president)|George Clinton]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1809
+|rowspan=9 {{Party shading/Democratic-Republican}} |[[Simon Snyder]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |19DR, 7Quid, 5F
+|{{Party shading/Democratic-Republican}} |74DR, 21F
+|rowspan=5 {{Party shading/Democratic-Republican}} |[[Michael Leib]] {{small|(DR)}}
+|rowspan=2 {{Party shading/Democratic-Republican}} |16DR, 2F
+|- style="height:2em"
+!1810
+|{{Party shading/Democratic-Republican}} |22DR, 6F, 3Quid
+|{{Party shading/Democratic-Republican}} |73DR, 15F, 7Quid
+|- style="height:2em"
+!1811
+|{{Party shading/Democratic-Republican}} |21DR, 7F, 3Quid
+|{{Party shading/Democratic-Republican}} |72DR, 17F, 6Quid
+|rowspan=2 {{Party shading/Democratic-Republican}} |17DR, 1F
+|- style="height:2em"
+!1812
+|rowspan=2 {{Party shading/Democratic-Republican}} |26DR, 5F
+|{{Party shading/Democratic-Republican}} |84DR, 11F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[James Madison]]/<br>[[Elbridge Gerry]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1813
+|{{Party shading/Democratic-Republican}} |77DR, 18F
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Abner Lacock]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |22DR, 1F
+|- style="height:2em"
+!1814
+|{{Party shading/Democratic-Republican}} |25DR, 6F
+|{{Party shading/Democratic-Republican}} |85DR, 10F
+|rowspan=7 {{Party shading/Democratic-Republican}} |[[Jonathan Roberts (politician)|Jonathan Roberts]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |21DR, 2F
+|- style="height:2em"
+!1815
+|{{Party shading/Democratic-Republican}} |21DR, 10F
+|{{Party shading/Democratic-Republican}} |71DR, 24F
+|rowspan=5 {{Party shading/Democratic-Republican}} |19DR, 4F
+|- style="height:2em"
+!1816
+|rowspan=3 {{Party shading/Democratic-Republican}} |19DR, 12F
+|{{Party shading/Democratic-Republican}} |71DR, 26F
+|rowspan=8 {{Party shading/Democratic-Republican}} |[[James Monroe]]/<br>[[Daniel D. Tompkins]] {{small|(DR)}} {{Aye}}
+|- style="height:2em"
+!1817
+|{{Party shading/Democratic-Republican}} |57DR, 30F, 10Quid
+|- style="height:2em"
+!1818
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[William Findlay (governor)|William Findlay]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |55DR, 42F{{efn |Some sources begin to cite the Federalists at the state level as Independent Republicans starting with this year.}}
+|- style="height:2em"
+!1819
+|{{Party shading/Democratic-Republican}} |20DR, 11F
+|{{Party shading/Democratic-Republican}} |64DR, 33F
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[Walter Lowrie (politician)|Walter Lowrie]] {{small|(DR)}}
+|- style="height:2em"
+!1820
+|{{Party shading/Democratic-Republican}} |23DR, 6F, 2Quid
+|{{Party shading/Democratic-Republican}} |67DR, 24F, 6Quid
+|{{Party shading/Democratic-Republican}} |18DR, 5F
+|- style="height:2em"
+!1821
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[Joseph Hiester]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |20DR, 11F
+|{{Party shading/Federalist}} |52F, 45DR
+|''vacant''
+|{{Party shading/Democratic-Republican}} |15DR, 8F
+|- style="height:2em"
+!1822
+|{{Party shading/Democratic-Republican}} |17DR, 14F
+|{{Party shading/Democratic-Republican}} |67DR, 30F
+|rowspan=3 {{Party shading/Democratic-Republican}} |[[William Findlay (governor)|William Findlay]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |16DR, 7F
+|- style="height:2em"
+!1823
+|{{Party shading/Democratic-Republican}} |23DR, 10F
+|{{Party shading/Democratic-Republican}} |71DR, 29F
+|rowspan=2 {{Party shading/Democratic-Republican}} |20DR, 6F
+|- style="height:2em"
+!1824
+|rowspan=6 {{Party shading/Democratic-Republican}} |[[John Andrew Shulze]] {{small|(DR)}}
+|{{Party shading/Democratic-Republican}} |21DR, 11F, 1?
+|{{Party shading/Democratic-Republican}} |77DR, 23F
+|rowspan=4 {{Party shading/Democratic-Republican}} |[[Andrew Jackson]]/<br>[[John C. Calhoun]] {{small|(DR)}} {{Nay}}
+|- style="height:2em"
+!1825
+|{{Party shading/Democratic-Republican}} |26DR, 7F
+|{{Party shading/Democratic-Republican}} |79DR, 21F
+|rowspan=2 {{Party shading/Jacksonian}} |[[William Findlay (governor)|William Findlay]] {{small|(J)}}
+|rowspan=6 {{Party shading/National Republican}} |[[William Marks (politician)|William Marks]] {{small|(NR)}}
+|{{Party shading/Jacksonian}} |14J, 11DR, 1F
+|- style="height:2em"
+!1826
+|rowspan=2 {{Party shading/Democratic-Republican}} |27DR, 6F
+|{{Party shading/Democratic-Republican}} |77DR, 23F
+|{{Party shading/Jacksonian}} |17J, 9DR
+|- style="height:2em"
+!1827
+|{{Party shading/Democratic-Republican}} |74DR, 26F
+|rowspan=5 {{Party shading/Jacksonian}} |[[Isaac D. Barnard]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |22J, 3DR, 1NR
+|- style="height:2em"
+!1828
+|rowspan=2 {{Party shading/Jacksonian}} |26J, 7NR
+|{{Party shading/Jacksonian}} |76J, 22NR, 2&nbsp;vac.
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson]]/<br>[[John C. Calhoun]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1829
+|{{Party shading/Jacksonian}} |89J, 11NR
+|rowspan=2 {{Party shading/Jacksonian}} |24J, {{nowrap|1A-M}}, 1NR
+|- style="height:2em"
+!1830
+|rowspan=6 {{Party shading/Jacksonian}} |[[George Wolf]] {{small|(J)}}
+|{{Party shading/Jacksonian}} |26J, 6NR, {{nowrap|1A-M}}
+|{{Party shading/Jacksonian}} |87J, {{nowrap|13A-M}}
+|- style="height:2em"
+!1831
+|{{Party shading/Jacksonian}} |25J, 5NR, {{nowrap|4A-M}}
+|{{Party shading/Jacksonian}} |72J, {{nowrap|28A-M}}
+|rowspan=4 {{Party shading/Jacksonian}} |[[William Wilkins (American politician)|William Wilkins]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |17J, {{nowrap|7A-M}}, 2NR
+|- style="height:2em"
+!1832
+|{{Party shading/Jacksonian}} |23J, {{nowrap|6A-M}}, 4NR
+|{{Party shading/Jacksonian}} |74J, {{nowrap|22A-M}}, 4NR
+|{{Party shading/Jacksonian}} |[[George M. Dallas]] {{small|(J)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Andrew Jackson]]/<br>[[Martin Van Buren]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1833
+|{{Party shading/Jacksonian}} |22J, {{nowrap|9A-M}}, 2NR
+|{{Party shading/Jacksonian}} |61J, {{nowrap|33A-M}}, 5NR, 1?
+|rowspan=4 {{Party shading/Jacksonian}} |[[Samuel McKean]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |14J, {{nowrap|10A-M}}, 4NR
+|- style="height:2em"
+!1834
+|{{Party shading/Jacksonian}} |24J, {{nowrap|7A-M}}, 2NR
+|{{Party shading/Jacksonian}} |64J, {{nowrap|25A-M}}, 11NR
+|- style="height:2em"
+!1835
+|{{Party shading/Jacksonian}} |25J, {{nowrap|6A-M}}, 2W
+|{{Party shading/Jacksonian}} |62J, {{nowrap|27A-M}}, 11W
+|rowspan=2 {{Party shading/Jacksonian}} |[[James Buchanan]] {{small|(J)}}
+|rowspan=2 {{Party shading/Jacksonian}} |17J, {{nowrap|7A-M}}, 4NR
+|- style="height:2em"
+!1836
+|rowspan=3 {{Party shading/Anti-Masonic}} |[[Joseph Ritner]] {{small|({{nowrap|A-M}})}}
+|{{Party shading/Democratic}} |23D, {{nowrap|9A-M}}, 1W
+|{{Party shading/Anti-Masonic}} |{{nowrap|72A-M/W}}, 28D
+|rowspan=4 {{Party shading/Democratic}} |[[Martin Van Buren]]/<br>[[Richard Mentor Johnson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1837
+|{{Party shading/Whig}} |15D, 12W, {{nowrap|6A-M}}{{efn |The Whigs and Anti-Masons formed a coalition to govern the chamber.}}
+|{{Party shading/Democratic}} |72D, {{nowrap|21A-M}}, 7W
+|rowspan=2 {{Party shading/Democratic}} |[[Samuel McKean]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[James Buchanan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |16D, {{nowrap|7A-M}}, 3W, 2J
+|- style="height:2em"
+!1838
+|{{Party shading/Whig}} |19W, 14D
+|rowspan=2 {{Party shading/Democratic}} |56D, 44W
+|- style="height:2em"
+!1839
+|rowspan=6 {{Party shading/Democratic}} |[[David R. Porter]] {{small|(D)}}
+|{{Party shading/Whig}} |18W, 15D
+|''vacant''
+|rowspan=2 {{Party shading/Democratic}} |17D, 6W, {{nowrap|5A-M}}
+|- style="height:2em"
+!1840
+|{{Party shading/Democratic}} |17D, 16W
+|{{Party shading/Democratic}} |69D, 31W
+|rowspan=12 {{Party shading/Democratic}} |[[Daniel Sturgeon]] {{small|(D)}}
+|rowspan=4 {{Party shading/Whig}} |[[William Henry Harrison]]/<br>[[John Tyler]] {{small|(W)}} {{Aye}}
+|- style="height:2em"
+!1841
+|{{Party shading/Whig}} |20W, 13D
+|{{Party shading/Whig}} |55W, 45D
+|rowspan=2 {{Party shading/Democratic}} |15D, 13W
+|- style="height:2em"
+!1842
+|{{Party shading/Whig}} |17W, 16D
+|{{Party shading/Democratic}} |64D, 34W, 2{{abbr|WM|Workingmen's Party}}
+|- style="height:2em"
+!1843
+|{{Party shading/Democratic}} |19D, 14W
+|{{Party shading/Democratic}} |57D, 40W, 2{{abbr|WM|Workingmen's Party}}, 1I
+|{{Party shading/Tie}} |12D, 12W
+|- style="height:2em"
+!1844
+|{{Party shading/Democratic}} |22D, 11W
+|{{Party shading/Democratic}} |58D, 42W
+|{{Party shading/Whig}} |13W, 11D
+|rowspan=4 {{Party shading/Democratic}} |[[James K. Polk]]/<br>[[George M. Dallas]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1845
+|rowspan=4 {{Party shading/Democratic}} |[[Francis R. Shunk]] {{small|(D)}}
+|{{Party shading/Democratic}} |21D, 11W, 1KN
+|{{Party shading/Democratic}} |51D, 41W, 8KN
+|rowspan=5 {{Party shading/Democratic}} |[[Simon Cameron]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |12D, 10W, 2KN
+|- style="height:2em"
+!1846
+|rowspan=2 {{Party shading/Whig}} |18W, 14D, 1KN
+|{{Party shading/Democratic}} |67D, 33W
+|- style="height:2em"
+!1847
+|{{Party shading/Whig}} |56W, 44D
+|{{Party shading/Whig}} |16W, 7D, 1KN
+|- style="height:2em"
+!rowspan=2 |1848
+|rowspan=2 {{Party shading/Whig}} |19W, 14D
+|rowspan=2 {{Party shading/Democratic}} |64D, 36W
+|rowspan=2 {{Party shading/Whig}} |15W, 8D, 1KN
+|rowspan=5 {{Party shading/Whig}} |[[Zachary Taylor]]/<br>[[Millard Fillmore]] {{small|(W)}} {{Aye}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Whig}} |[[William F. Johnston]] {{small|(W)}}
+|- style="height:2em"
+!1849
+|{{Party shading/Whig}} |21W, 12D
+|{{Party shading/Democratic}} |50D, 45W, 5KN{{efn |A Democrat, [[William F. Packer]], was elected as Speaker, and Democrats organized the chamber.}}
+|rowspan=6 {{Party shading/Whig}} |[[James Cooper (Pennsylvania politician)|James Cooper]] {{small|(W)}}
+|rowspan=2 {{Party shading/Tie}} |11W, 11D, 1KN, 1FS
+|- style="height:2em"
+!1850
+|{{Party shading/Democratic}} |17D, 16W
+|{{Party shading/Democratic}} |59D, 41W
+|- style="height:2em"
+!1851
+|rowspan=6 {{Party shading/Democratic}} |[[Ephraim Banks]] {{small|(D)}}
+|{{Party shading/Coalition}} |16W, 16D, 1I{{efn |A Whig, Benjamin Matthias, was elected as Speaker of the Senate on the 7th Ballot.<ref>{{Cite book|url=https://books.google.com/books?id=uyBNAAAAYAAJ|title=Journal of the Senate of the Commonwealth of Pennsylvania|date=1851|language=en|pages=8–9}}</ref>}}
+|{{Party shading/Democratic}} |60D, 36W, 2ID, 1IW, 1&nbsp;vac.
+|rowspan=6 {{Party shading/Democratic}} |[[Richard Brodhead]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 9W
+|- style="height:2em"
+!1852
+|rowspan=3 {{Party shading/Democratic}} |[[William Bigler]] {{small|(D)}}
+|{{Party shading/Whig}} |17W, 16D
+|{{Party shading/Democratic}} |58D, 37W, 5KN
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin Pierce]]/<br>[[William R. King]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1853
+|{{Party shading/Whig}} |17W, 15D, 1KN
+|{{Party shading/Democratic}} |62D, 38W
+|rowspan=2 {{Party shading/Democratic}} |16D, 9W
+|- style="height:2em"
+!1854
+|{{Party shading/Democratic}} |18D, 14W, 1KN
+|{{Party shading/Democratic}} |70D, 26W, 4KN
+|- style="height:2em"
+!1855
+|rowspan=3 {{Party shading/Whig}} |[[James Pollock (American politician)|James Pollock]] {{small|(W)}}
+|{{Party shading/Democratic}} |17D, 15W, 1KN
+|{{Party shading/Coalition}} |46W, 32D, 22KN{{efn |A Whig, Henry K. Strong, was elected in a coalition between the Whigs and Know-Nothings.}}
+|''vacant''
+|rowspan=2 {{Party shading/Opposition}} |13O, 7D, 3W, 1R, 1KN
+|- style="height:2em"
+!1856
+|{{Party shading/Democratic}} |17D, 16Fus
+|{{Party shading/Democratic}} |66D, 34Fus
+|rowspan=5 {{Party shading/Democratic}} |[[William Bigler]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[James Buchanan]]/<br>[[John C. Breckinridge]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1857
+|rowspan=3 {{Party shading/Democratic}} |[[Jacob Fry Jr.]] {{small|(D)}}
+|{{Party shading/Opposition}} |18Fus, 15D
+|{{Party shading/Democratic}} |53D, 47Fus
+|rowspan=4 {{Party shading/Republican}} |[[Simon Cameron]] {{small|(R)}}
+|{{Party shading/Democratic}} |15D, 10R
+|- style="height:2em"
+!1858
+|rowspan=3 {{Party shading/Democratic}} |[[William F. Packer]] {{small|(D)}}
+|{{Party shading/Democratic}} |21D, 12R
+|{{Party shading/Democratic}} |68D, 30R, 2I
+|{{Party shading/Democratic}} |14D, 11R
+|- style="height:2em"
+!1859
+|{{Party shading/Democratic}} |17D, 16R
+|{{Party shading/Republican}} |67R, 33D
+|rowspan=2 {{Party shading/Republican}} |20R, 5D
+|- style="height:2em"
+!1860
+|rowspan=3 {{Party shading/Republican}} |[[Thomas E. Cochran]] {{small|(R)}}
+|{{Party shading/Republican}} |21R, 12D
+|{{Party shading/Republican}} |66R, 34D
+|rowspan=4 {{Party shading/Republican}} |[[Abraham Lincoln]]/<br>[[Hannibal Hamlin]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1861
+|rowspan=6 {{Party shading/Republican}} |[[Andrew Gregg Curtin]] {{small|(R)}}
+|{{Party shading/Republican}} |27R, 6D
+|{{Party shading/Republican}} |71R, 29D
+|rowspan=2 {{Party shading/Republican}} |[[David Wilmot (politician)|David Wilmot]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Edgar Cowan]] {{small|(R)}}
+|{{Party shading/Republican}} |19R, 6D
+|- style="height:2em"
+!1862
+|{{Party shading/Republican}} |23R, 10D
+|{{Party shading/Democratic}} |51D, 49R
+|{{Party shading/Republican}} |17R, 8D
+|- style="height:2em"
+!1863
+|rowspan=3 {{Party shading/Democratic}} |[[Isaac Slenker]] {{small|(D)}}
+|{{Party shading/Republican}} |21R, 12D
+|{{Party shading/Democratic}} |55D, 45R
+|rowspan=6 {{Party shading/Democratic}} |[[Charles R. Buckalew]] {{small|(D)}}
+|rowspan=2 {{Party shading/Tie}} |12R, 12D
+|- style="height:2em"
+!1864
+|{{Party shading/Republican}} |17R, 16D
+|{{Party shading/Republican}} |52R, 48D
+|rowspan=4 {{Party shading/National Union}} |[[Abraham Lincoln]]/<br>[[Andrew Johnson]] {{small|(NU)}} {{Aye}}
+|- style="height:2em"
+!1865
+|{{Party shading/Republican}} |20R, 13D
+|{{Party shading/Republican}} |64R, 36D
+|{{Party shading/Republican}} |15R, 9D
+|- style="height:2em"
+!1866
+|rowspan=7 {{Party shading/Republican}} |[[John F. Hartranft]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |21R, 12D
+|{{Party shading/Republican}} |67R, 33D
+|{{Party shading/Republican}} |16R, 8D
+|- style="height:2em"
+!1867
+|rowspan=7 {{Party shading/Republican}} |[[John W. Geary]] {{small|(R)}}
+|{{Party shading/Republican}} |62R, 38D
+|rowspan=7 {{Party shading/Republican}} |[[Simon Cameron]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 6D
+|- style="height:2em"
+!1868
+|{{Party shading/Republican}} |19R, 14D
+|{{Party shading/Republican}} |54R, 46D
+|rowspan=4 {{Party shading/Republican}} |[[Ulysses S. Grant]]/<br>[[Schuyler Colfax]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1869
+|rowspan=2 {{Party shading/Republican}} |18R, 15D
+|{{Party shading/Republican}} |62R, 38D
+|rowspan=5 {{Party shading/Republican}} |[[John Scott (Pennsylvania politician, born 1824)|John Scott]] {{small|(R)}}
+|{{Party shading/Republican}} |16R, 8D
+|- style="height:2em"
+!1870
+|{{Party shading/Republican}} |60R, 40D
+|{{Party shading/Republican}} |18R, 6D
+|- style="height:2em"
+!1871
+|{{Party shading/Democratic}} |17D, 16R
+|{{Party shading/Republican}} |55R, 45D
+|rowspan=3 {{Party shading/Republican}} |13R, 11D
+|- style="height:2em"
+!rowspan=2 |1872
+|rowspan=2 {{Party shading/Republican}} |17R, 16D
+|rowspan=2 {{Party shading/Republican}} |63R, 39D, 1I
+|rowspan=2 {{Party shading/Republican}} |[[Ulysses S. Grant]]/<br>[[Henry Wilson]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+|[[C. D. Brigham]]
+|}
+
+===1873–1978===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class="unsortable" |Year
+!colspan=4 class="unsortable" |Executive offices
+!colspan=2 class="unsortable" |[[Pennsylvania General Assembly|State Legislature]]
+!colspan=3 class="unsortable" |United States Congress
+!rowspan=2 class="unsortable" |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class="unsortable" |[[List of governors of Pennsylvania|Governor]]
+!class="unsortable" |[[Lieutenant Governor of Pennsylvania|Lieutenant<br>Governor]]
+!class="unsortable" |[[Pennsylvania Auditor General|Auditor<br>General]]
+!class="unsortable" |[[Treasurer of Pennsylvania|Treasurer]]
+!class="unsortable" |[[Pennsylvania State Senate|Senate]]
+!class="unsortable" |[[Pennsylvania House of Representatives|House]]
+!class="unsortable" |[[List of United States senators from Pennsylvania|Senator<br>(Class I)]]
+!class="unsortable" |[[List of United States senators from Pennsylvania|Senator<br>(Class III)]]
+!class="unsortable" |[[List of United States representatives from Pennsylvania|House]]
+|- style="height:2em"
+!1873
+|rowspan=6 {{Party shading/Republican}} |[[John F. Hartranft]] {{small|(R)}}
+|rowspan=2 |''no such office''
+|rowspan=2 {{Party shading/Republican}} |[[Harrison Allen (politician)|Harrison Allen]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Robert W. Mackey]] {{small|(R)}}
+|{{Party shading/Republican}} |18R, 14D, 1LR
+|{{Party shading/Republican}} |60R, 39D, 1I
+|rowspan=2 {{Party shading/Republican}} |[[John Scott (Pennsylvania politician, born 1824)|John Scott]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Simon Cameron]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |22R, 5D
+|rowspan=3 |
+|- style="height:2em"
+!1874
+|{{Party shading/Republican}} |20R, 12D, 1LR
+|{{Party shading/Republican}} |57R, 43D
+|- style="height:2em"
+!1875
+|rowspan=4 {{Party shading/Democratic}} |[[John Latta (politician)|John Latta]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |[[Justus F. Temple]] {{small|(D)}}
+|{{Party shading/Republican}} |30R, 20D{{efn |Effective with the Constitution of 1874, Senators began to serve four-year terms, after a transition period starting with the election of 1874 and continuing through the election of 1876.}}
+|rowspan=2 {{Party shading/Democratic}} |110D, 89R, 1I, 1Proh{{efn |Effective with the Constitution of 1874, House members began to serve two-year terms starting with the election of 1874.}}
+|rowspan=6 {{Party shading/Democratic}} |[[William A. Wallace]] {{small|(D)}}
+|{{Party shading/Democratic}} |17D, 10R
+|- style="height:2em"
+!1876
+|rowspan=2 {{Party shading/Republican}} |[[Henry Rawle]] {{small|(R)}}
+|{{Party shading/Republican}} |29R, 21D
+|{{Party shading/Democratic}} |18D, 9R
+|rowspan=4 {{Party shading/Republican}} |[[Rutherford B. Hayes]]/<br>[[William A. Wheeler]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1877
+|rowspan=2 {{Party shading/Republican}} |31R, 19D
+|rowspan=2 {{Party shading/Republican}} |119R, 81D, 1ID
+|rowspan=21 {{Party shading/Republican}} |[[J. Donald Cameron]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 10D
+|- style="height:2em"
+!1878
+|rowspan=3 {{Party shading/Democratic}} |[[William P. Schell]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Amos C. Noyes]] {{small|(D)}}
+|- style="height:2em"
+!1879
+|rowspan=4 {{Party shading/Republican}} |[[Henry M. Hoyt]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles W. Stone]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |32R, 17D, 1GB
+|rowspan=2 {{Party shading/Republican}} |107R, 77D, 17GB
+|rowspan=2 {{Party shading/Republican}} |17R, 8D, 2GB
+|- style="height:2em"
+!1880
+|rowspan=2 {{Party shading/Republican}} |[[Samuel Butler (politician)|Samuel Butler]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James A. Garfield]]/<br>[[Chester A. Arthur]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1881
+|rowspan=3 {{Party shading/Republican}} |[[John A. Lemon]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |121R, 78D, 1GB, {{nowrap|1Fus-D}}
+|rowspan=6 {{Party shading/Republican}} |[[John I. Mitchell]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 7D, 2GB
+|- style="height:2em"
+!1882
+|rowspan=2 {{Party shading/Republican}} |[[Silas M. Bailey]] {{small|(R)}}
+|- style="height:2em"
+!1883
+|rowspan=4 {{Party shading/Democratic}} |[[Robert E. Pattison]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Chauncey Forward Black]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |30R, 20D
+|rowspan=2 {{Party shading/Democratic}} |113D, 88R
+|rowspan=2 {{Party shading/Republican}} |15R, 12D, 1GB
+|- style="height:2em"
+!1884
+|rowspan=3 {{Party shading/Republican}} |[[Jerome B. Niles]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[William Livsey (Pennsylvania)|William Livsey]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James G. Blaine]]/<br>[[John A. Logan]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1885
+|rowspan=2 {{Party shading/Republican}} |31R, 19D
+|rowspan=2 {{Party shading/Republican}} |140R, 60D, 1GBR
+|rowspan=5 {{Party shading/Republican}} |20R, 8D
+|- style="height:2em"
+!1886
+|{{Party shading/Republican}} |[[Matthew Quay]] {{small|(R)}}
+|- style="height:2em"
+!1887
+|rowspan=5 {{Party shading/Republican}} |[[James A. Beaver]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[William T. Davies]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[A. Wilson Norris]]{{efn |name=died|Died in office.}}
+|{{Party shading/Republican}} |William Livsey {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |34R, 16D
+|rowspan=3 {{Party shading/Republican}} |131R, 69D, 1GBL
+|rowspan=13 {{Party shading/Republican}} |[[Matthew Quay]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1888
+|rowspan=2 {{Party shading/Republican}} |[[William B. Hart]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[Benjamin Harrison]]/<br>[[Levi P. Morton]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Thomas McCamant]] {{small|(R)}}
+|- style="height:2em"
+!1889
+|{{Party shading/Republican}} |William Livsey {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |144R, 60D
+|rowspan=2 {{Party shading/Republican}} |21R, 7D
+|- style="height:2em"
+!1890
+|rowspan=2 {{Party shading/Republican}} |[[Henry K. Boyer]] {{small|(R)}}
+|- style="height:2em"
+!1891
+|rowspan=4 {{Party shading/Democratic}} |[[Robert E. Pattison]] {{small|(D)}}
+|rowspan=4 {{Party shading/Republican}} |[[Louis Arthur Watres]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 19D
+|rowspan=2 {{Party shading/Republican}} |122R, 79D, 3Fus
+|{{Party shading/Republican}} |18R, 10D
+|- style="height:2em"
+!1892
+|rowspan=3 {{Party shading/Republican}} |[[David McMurtrie Gregg]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[John Wallace Morrison]] {{small|(R)}}
+|{{Party shading/Republican}} |17R, 11D
+|rowspan=4 {{Party shading/Republican}} |[[Benjamin Harrison]]/<br>[[Whitelaw Reid]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1893
+|rowspan=2 {{Party shading/Republican}} |33R, 17D
+|rowspan=2 {{Party shading/Republican}} |135R, 69D
+|rowspan=2 {{Party shading/Republican}} |20R, 10D
+|- style="height:2em"
+!1894
+|rowspan=2 {{Party shading/Republican}} |[[Samuel McCartney Jackson|Samuel Jackson]] {{small|(R)}}
+|- style="height:2em"
+!1895
+|rowspan=4 {{Party shading/Republican}} |[[Daniel H. Hastings]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Walter Lyon (politician)|Walter Lyon]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Amos H. Mylin]]
+|rowspan=4 {{Party shading/Republican}} |44R, 6D
+|rowspan=2 {{Party shading/Republican}} |175R, 29D
+|rowspan=2 {{Party shading/Republican}} |28R, 2D
+|- style="height:2em"
+!1896
+|rowspan=2 {{Party shading/Republican}} |[[Benjamin J. Haywood]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley]]/<br>[[Garret Hobart]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Republican}} |172R, 32D
+|rowspan=27 {{Party shading/Republican}} |[[Boies Penrose]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |27R, 3D
+|- style="height:2em"
+!1898
+|rowspan=3 {{Party shading/Republican}} |[[Levi G. McCauley]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[James S. Beacom]] {{small|(R)}}
+|- style="height:2em"
+!1899
+|rowspan=4 {{Party shading/Republican}} |[[William A. Stone]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John P. S. Gobin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |37R, 13D
+|rowspan=2 {{Party shading/Republican}} |127R, 71D, 6Fus
+|rowspan=2 |''vacant''
+|rowspan=2 {{Party shading/Republican}} |20R, 10D
+|- style="height:2em"
+!1900
+|rowspan=2 {{Party shading/Republican}} |[[James E. Barnett]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William McKinley]]/<br>[[Theodore Roosevelt]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1901
+|rowspan=3 {{Party shading/Republican}} |[[Edmund B. Hardenbergh]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |38R, 12D
+|rowspan=2 {{Party shading/Republican}} |156R, 48D
+|rowspan=4 {{Party shading/Republican}} |[[Matthew Quay]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 4D
+|- style="height:2em"
+!1902
+|rowspan=2 {{Party shading/Republican}} |[[Frank G. Harris]] {{small|(R)}}
+|- style="height:2em"
+!1903
+|rowspan=5 {{Party shading/Republican}} |[[Samuel W. Pennypacker]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[William M. Brown (Pennsylvania politician)|William M. Brown]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |40R, 10D
+|rowspan=3 {{Party shading/Republican}} |160R, 44D
+|{{Party shading/Republican}} |28R, 4D
+|- style="height:2em"
+!rowspan=2 |1904
+|rowspan=4 {{Party shading/Republican}} |[[William Preston Snyder]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[William L. Mathues]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |29R, 3D
+|rowspan=5 {{Party shading/Republican}} |[[Theodore Roosevelt]]/<br>[[Charles W. Fairbanks]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[Philander C. Knox]] {{small|(R)}}
+|- style="height:2em"
+!1905
+|rowspan=2 {{Party shading/Republican}} |187R, 17D
+|rowspan=2 {{Party shading/Republican}} |31R, 1D
+|- style="height:2em"
+!1906
+|rowspan=2 {{Party shading/Democratic}} |[[William H. Berry]] {{small|(D)}}
+|- style="height:2em"
+!1907
+|rowspan=4 {{Party shading/Republican}} |[[Edwin Sydney Stuart]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert S. Murphy]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |[[Robert K. Young]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |157R, 50D
+|rowspan=2 {{Party shading/Republican}} |25R, 7D
+|- style="height:2em"
+!1908
+|rowspan=3 {{Party shading/Republican}} |[[John O. Sheatz]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[William Howard Taft]]/<br>[[James S. Sherman]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1909
+|rowspan=2 {{Party shading/Republican}} |39R, 11D
+|rowspan=2 {{Party shading/Republican}} |173R, 34D
+|rowspan=8 {{Party shading/Republican}} |[[George T. Oliver]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 5D
+|- style="height:2em"
+!1910
+|rowspan=3 {{Party shading/Republican}} |[[A. E. Sisson]] {{small|(R)}}
+|- style="height:2em"
+!1911
+|rowspan=4 {{Party shading/Republican}} |[[John K. Tener]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[John Merriman Reynolds]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Charles Frederick Wright]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |38R, 18D
+|rowspan=2 {{Party shading/Republican}} |162R, 44D, 1Soc
+|{{Party shading/Republican}} |23R, 9D
+|- style="height:2em"
+!1912
+|{{Party shading/Republican}} |24R, 8D
+|rowspan=4 {{Party shading/Bull Moose}} |[[Theodore Roosevelt]]/<br>[[Hiram Johnson]] {{small|(Prog)}} {{Nay}}
+|- style="height:2em"
+!1913
+|rowspan=4 {{Party shading/Republican}} |[[Archibald W. Powell]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |Robert K. Young {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |34R, 13D, 3Prog
+|rowspan=2 {{Party shading/Republican}} |127R, 57D, 14Prog, 9Wash
+|rowspan=2 {{Party shading/Republican}} |22R, 12D, 2Prog
+|- style="height:2em"
+!1914
+|- style="height:2em"
+!1915
+|rowspan=4 {{Party shading/Republican}} |[[Martin Grove Brumbaugh]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Frank B. McClain]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |38R, 11D, 1Prog
+|rowspan=2 {{Party shading/Republican}} |164R, 41D, 1Soc, 1Prog
+|rowspan=2 {{Party shading/Republican}} |30R, 6D
+|- style="height:2em"
+!1916
+|rowspan=4 {{Party shading/Republican}} |[[Charles Evans Hughes]]/<br>[[Charles W. Fairbanks]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1917
+|rowspan=4 {{Party shading/Republican}} |[[Charles A. Snyder]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Harmon M. Kephart]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |39R, 10D, 1Prog
+|rowspan=2 {{Party shading/Republican}} |169R, 37D, 1Soc, 1Prog
+|rowspan=5 {{Party shading/Republican}} |[[Philander C. Knox]] {{small|(R)}}
+|{{Party shading/Republican}} |29R, 6D, 1Prog
+|- style="height:2em"
+!1918
+|{{Party shading/Republican}} |28R, 7D, 1Prog
+|- style="height:2em"
+!1919
+|rowspan=6 {{Party shading/Republican}} |[[William Cameron Sproul]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Edward E. Beidleman]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |44R, 6D
+|rowspan=2 {{Party shading/Republican}} |184R, 23D
+|{{Party shading/Republican}} |29R, 7D
+|- style="height:2em"
+!1920
+|{{Party shading/Republican}} |30R, 6D
+|rowspan=6 {{Party shading/Republican}} |[[Warren G. Harding]]/<br>[[Calvin Coolidge]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1921
+|rowspan=6 {{Party shading/Republican}} |[[Samuel S. Lewis]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[Charles A. Snyder]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |47R, 3D
+|rowspan=4 {{Party shading/Republican}} |193R, 14D
+|rowspan=4 {{Party shading/Republican}} |35R, 1D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[William E. Crow]] {{small|(R)}}
+|- style="height:2em"
+!rowspan=2 |1922
+|rowspan=6 {{Party shading/Republican}} |[[George W. Pepper]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=13 {{Party shading/Republican}} |[[David A. Reed]] {{small|(R)}}
+|- style="height:2em"
+!1923
+|rowspan=4 {{Party shading/Republican}} |[[Gifford Pinchot]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[David J. Davis]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |43R, 7D
+|rowspan=2 {{Party shading/Republican}} |167R, 41D
+|rowspan=2 {{Party shading/Republican}} |30R, 6D
+|- style="height:2em"
+!1924
+|rowspan=4 {{Party shading/Republican}} |[[Calvin Coolidge]]/<br>[[Charles G. Dawes]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1925
+|rowspan=4 {{Party shading/Republican}} |[[Edward Martin (Pennsylvania politician)|Edward Martin]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Samuel S. Lewis]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |42R, 8D
+|rowspan=2 {{Party shading/Republican}} |194R, 14D
+|rowspan=2 {{Party shading/Republican}} |36R
+|- style="height:2em"
+!1926
+|- style="height:2em"
+!1927
+|rowspan=4 {{Party shading/Republican}} |[[John Stuchell Fisher]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Arthur James (politician)|Arthur James]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |45R, 5D
+|rowspan=2 {{Party shading/Republican}} |191R, 17D
+|rowspan=3 {{Party shading/Republican}} |[[William Scott Vare]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |34R, 2D
+|- style="height:2em"
+!1928
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover]]/<br>[[Charles Curtis]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1929
+|rowspan=4 {{Party shading/Republican}} |[[Charles A. Waters]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Edward Martin (Pennsylvania politician)|Edward Martin]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |44R, 6D
+|rowspan=2 {{Party shading/Republican}} |192R, 16D
+|{{Party shading/Republican}} |35R, 1D
+|- style="height:2em"
+!1930
+|{{Party shading/Republican}} |[[Joseph R. Grundy]] {{small|(R)}}
+|{{Party shading/Republican}} |36R
+|- style="height:2em"
+!1931
+|rowspan=4 {{Party shading/Republican}} |[[Gifford Pinchot]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Edward C. Shannon]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |46R, 4D
+|rowspan=2 {{Party shading/Republican}} |184R, 22D, 2Soc
+|rowspan=14 {{Party shading/Republican}} |[[James J. Davis]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |33R, 3D
+|- style="height:2em"
+!1932
+|rowspan=4 {{Party shading/Republican}} |[[Herbert Hoover]]/<br>[[Charles Curtis]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1933
+|rowspan=4 {{Party shading/Republican}} |[[Frank E. Baldwin]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles A. Waters]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |43R, 7D
+|rowspan=2 {{Party shading/Republican}} |140R, 65D, 2I, 1Soc
+|{{Party shading/Republican}} |23R, 11D
+|- style="height:2em"
+!1934
+|{{Party shading/Republican}} |22R, 12D
+|- style="height:2em"
+!1935
+|rowspan=4 {{Party shading/Democratic}} |[[George Howard Earle III]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Kennedy (unionist)|Thomas Kennedy]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |31R, 19D
+|rowspan=2 {{Party shading/Democratic}} |117D, 89R, 2Soc
+|rowspan=13 {{Party shading/Democratic}} |[[Joseph F. Guffey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 11R
+|- style="height:2em"
+!1936
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[John Nance Garner]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1937
+|rowspan=4 {{Party shading/Democratic}} |[[Warren R. Roberts]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[F. Clair Ross]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |34D, 16R
+|rowspan=2 {{Party shading/Democratic}} |154D, 54R
+|rowspan=2 {{Party shading/Democratic}} |27D, 7R
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=4 {{Party shading/Republican}} |[[Arthur James (politician)|Arthur James]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Samuel S. Lewis]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 23D
+|rowspan=2 {{Party shading/Republican}} |129R, 79D
+|rowspan=2 {{Party shading/Republican}} |19R, 15D
+|- style="height:2em"
+!1940
+|rowspan=4 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[Henry A. Wallace]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1941
+|rowspan=4 {{Party shading/Democratic}} |[[F. Clair Ross]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[G. Harold Wagner]] {{small|(D)}}
+|rowspan=7 {{Party shading/Republican}} |32R, 18D
+|rowspan=2 {{Party shading/Democratic}} |126D, 82R
+|rowspan=2 {{Party shading/Democratic}} |19D, 15R
+|- style="height:2em"
+!1942
+|- style="height:2em"
+!1943
+|rowspan=5 {{Party shading/Republican}} |[[Edward Martin (Pennsylvania politician)|Edward Martin]] {{small|(R)}}
+|rowspan=5 {{Party shading/Republican}} |[[John C. Bell Jr.]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |132R, 76D
+|{{Party shading/Republican}} |20R, 13D
+|- style="height:2em"
+!1944
+|{{Party shading/Republican}} |21R, 12D
+|rowspan=6 {{Party shading/Democratic}} |[[Franklin D. Roosevelt]]/<br>[[Harry S. Truman]] {{Aye}}
+|- style="height:2em"
+!rowspan=2 |1945
+|{{Party shading/Democratic}} |[[Ted A. Rosenberg]]
+|rowspan=6 {{Party shading/Democratic}} |[[Ramsey S. Black]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |109R, 99D
+|rowspan=8 {{Party shading/Democratic}} |[[Francis J. Myers]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |18R, 15D
+|- style="height:2em"
+|rowspan=5 {{Party shading/Democratic}} |[[G. Harold Wagner]] {{small|(D)}}
+|- style="height:2em"
+!1946
+|{{Party shading/Republican}} |19R, 14D
+|- style="height:2em"
+!rowspan=2 |1947
+|{{Party shading/Republican}} |[[John C. Bell Jr.]] {{small|(R)}}
+|''vacant''
+|rowspan=3 {{Party shading/Republican}} |34R, 16D
+|rowspan=3 {{Party shading/Republican}} |170R, 38D
+|rowspan=13 {{Party shading/Republican}} |[[Edward Martin (Pennsylvania politician)|Edward Martin]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |28R, 5D
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[James H. Duff]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Daniel Strickler]] {{small|(R)}}
+|- style="height:2em"
+!1948
+|rowspan=4 {{Party shading/Republican}} |[[Thomas E. Dewey]]/<br>[[Earl Warren]] {{small|(R)}} {{Nay}}
+|- style="height:2em"
+!1949
+|rowspan=4 {{Party shading/Republican}} |[[Weldon Brinton Heyburn (Pennsylvania politician)|Weldon Brinton Heyburn]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Charles R. Barber]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |35R, 15D
+|rowspan=2 {{Party shading/Republican}} |117R, 91D
+|rowspan=2 {{Party shading/Republican}} |17R, 16D
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!1951
+|rowspan=4 {{Party shading/Republican}} |[[John S. Fine]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Lloyd H. Wood]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |30R, 20D
+|rowspan=2 {{Party shading/Republican}} |120R, 88D
+|rowspan=6 {{Party shading/Republican}} |[[James H. Duff]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |20R, 13D
+|- style="height:2em"
+!1952
+|rowspan=8 {{Party shading/Republican}} |[[Dwight D. Eisenhower]]/<br>[[Richard Nixon]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1953
+|rowspan=4 {{Party shading/Republican}} |[[Charles R. Barber]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Weldon Brinton Heyburn (Pennsylvania politician)|Weldon Brinton Heyburn]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |32R, 18D
+|rowspan=2 {{Party shading/Republican}} |110R, 98D
+|rowspan=2 {{Party shading/Republican}} |19R, 11D
+|- style="height:2em"
+!1954
+|- style="height:2em"
+!1955
+|rowspan=4 {{Party shading/Democratic}} |[[George M. Leader]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Roy E. Furman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |26R, 24D
+|rowspan=2 {{Party shading/Democratic}} |112D, 98R
+|rowspan=2 {{Party shading/Republican}} |16R, 14D
+|- style="height:2em"
+!1956
+|- style="height:2em"
+!1957
+|rowspan=4 {{Party shading/Republican}} |[[Charles C. Smith (Pennsylvania politician)|Charles C. Smith]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Robert F. Kent]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 23D
+|rowspan=2 {{Party shading/Republican}} |126R, 84D
+|rowspan=12 {{Party shading/Democratic}} |[[Joseph S. Clark Jr.]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |17R, 13D
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|rowspan=4 {{Party shading/Democratic}} |[[David L. Lawrence]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[John Morgan Davis]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 22D
+|rowspan=2 {{Party shading/Democratic}} |108D, 102R
+|rowspan=18 {{Party shading/Republican}} |[[Hugh Scott]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |16D, 14R
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy]]/<br>[[Lyndon B. Johnson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1961
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Z. Minehart]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Grace M. Sloan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |25D, 25R{{efn |Due to the Democratic Lt. Governor casting the deciding vote, the Democrats took control of the chamber.}}
+|rowspan=2 {{Party shading/Democratic}} |109D, 101R
+|rowspan=2 {{Party shading/Republican}} |16R, 14D
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=4 {{Party shading/Republican}} |[[William Scranton]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Raymond P. Shafer]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 23D
+|rowspan=2 {{Party shading/Republican}} |108R, 102D
+|rowspan=2 {{Party shading/Republican}} |14R, 13D
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson]]/<br>[[Hubert Humphrey]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1965
+|rowspan=4 {{Party shading/Democratic}} |[[Grace M. Sloan]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Z. Minehart]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 22D
+|rowspan=2 {{Party shading/Democratic}} |116D, 93R
+|rowspan=2 {{Party shading/Democratic}} |15D, 12R
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Republican}} |[[Raymond P. Shafer]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Raymond J. Broderick]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |27R, 23D
+|rowspan=2 {{Party shading/Republican}} |104R, 99D
+|rowspan=6 {{Party shading/Democratic}} |14D, 13R
+|- style="height:2em"
+!1968
+|rowspan=4 {{Party shading/Democratic}} |[[Hubert Humphrey]]/<br>[[Edmund Muskie]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1969
+|rowspan=8 {{Party shading/Democratic}} |[[Bob Casey Sr.]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Grace M. Sloan]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |107D, 96R
+|rowspan=10 {{Party shading/Republican}} |[[Richard Schweiker]] {{small|(R)}}
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=8 {{Party shading/Democratic}} |[[Milton Shapp]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |[[Ernest Kline]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |26D, 24R
+|rowspan=2 {{Party shading/Democratic}} |113D, 90R
+|- style="height:2em"
+!1972
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon]]/<br>[[Spiro Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Republican}} |107R, 96D
+|rowspan=2 {{Party shading/Democratic}} |13D, 12R
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=2 {{Party shading/Democratic}} |30D, 20R
+|rowspan=2 {{Party shading/Democratic}} |113D, 90R
+|rowspan=2 {{Party shading/Democratic}} |14D, 11R
+|- style="height:2em"
+!1976
+|rowspan=3 {{Party shading/Democratic}} |[[Jimmy Carter]]/<br>[[Walter Mondale]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Democratic}} |[[Al Benedict]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Robert E. Casey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |31D, 19R
+|rowspan=2 {{Party shading/Democratic}} |118D, 85R
+|rowspan=2 {{Party shading/Republican}} |[[John Heinz]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |17D, 8R
+|- style="height:2em"
+!1978
+|}
+
+===1978–present===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class="unsortable" |Year
+!colspan=5 class="unsortable" |Executive offices
+!colspan=2 class="unsortable" |[[Pennsylvania General Assembly|State Legislature]]
+!colspan=3 class="unsortable" |United States Congress
+!rowspan=2 class="unsortable" |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class="unsortable" |[[List of governors of Pennsylvania|Governor]]
+!class="unsortable" |[[Lieutenant Governor of Pennsylvania|Lieutenant<br>Governor]]
+!class="unsortable" |[[Pennsylvania Attorney General|Attorney<br>General]]
+!class="unsortable" |[[Pennsylvania Auditor General|Auditor<br>General]]
+!class="unsortable" |[[Pennsylvania Treasurer|Treasurer]]
+!class="unsortable" |[[Pennsylvania State Senate|Senate]]
+!class="unsortable" |[[Pennsylvania House of Representatives|House]]
+!class="unsortable" |[[List of United States senators from Pennsylvania|Senator<br>(Class I)]]
+!class="unsortable" |[[List of United States senators from Pennsylvania|Senator<br>(Class III)]]
+!class="unsortable" |[[List of United States representatives from Pennsylvania|House]]
+|- style="height:2em"
+!1979
+|rowspan=8 {{Party shading/Republican}} |[[Dick Thornburgh]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[William Scranton III]] {{small|(R)}}
+|rowspan=2 |''not an elected office''
+|rowspan=6 {{Party shading/Democratic}} |[[Al Benedict]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Robert E. Casey]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |28D, 22R
+|rowspan=2 {{Party shading/Republican}} |102R, 101D
+|rowspan=13 {{Party shading/Republican}} |[[John Heinz]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |[[Richard Schweiker]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 10R
+|
+|- style="height:2em"
+!1980
+|rowspan=8 {{Party shading/Republican}} |[[Ronald Reagan]]/<br>[[George H. W. Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1981
+|rowspan=8 {{Party shading/Republican}} |[[LeRoy Zimmerman]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican}} |[[R. Budd Dwyer]] {{small|(R)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Republican}} |26R, 24D
+|rowspan=2 {{Party shading/Republican}} |103R, 100D
+|rowspan=34 {{Party shading/Republican}} |[[Arlen Specter]] {{small|(R)}}
+|rowspan=2 {{Party shading/Democratic}} |13D, 12R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=4 {{Party shading/Republican}} |27R, 23D
+|rowspan=4 {{Party shading/Democratic}} |103D, 100R
+|rowspan=4 {{Party shading/Democratic}} |13D, 10R
+|- style="height:2em"
+!1984
+|- style="height:2em"
+!1985
+|rowspan=4 {{Party shading/Democratic}} |[[Donald A. Bailey]] {{small|(D)}}
+|- style="height:2em"
+!1986
+|- style="height:2em"
+!1987
+|rowspan=9 {{Party shading/Democratic}} |[[Bob Casey Sr.]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Mark Singel]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[G. Davis Greene Jr.]] {{small|(D)}}{{efn |name=app|Appointed to fill a vacancy.}}
+|rowspan=2 {{Party shading/Republican}} |26R, 24D
+|rowspan=2 {{Party shading/Democratic}} |102D, 101R
+|rowspan=4 {{Party shading/Democratic}} |12D, 11R
+|- style="height:2em"
+!1988
+|rowspan=5 {{Party shading/Republican}} |[[George H. W. Bush]]/<br>[[Dan Quayle]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1989
+|rowspan=8 {{Party shading/Republican}} |[[Ernie Preate]] {{small|(R)}}{{efn |name=resigned|Resigned.}}
+|rowspan=10 {{Party shading/Republican}} |[[Barbara Hafer]] {{small|(R)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Catherine Baker Knoll]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 23D
+|rowspan=2 {{Party shading/Democratic}} |104D, 99R
+|- style="height:2em"
+!1990
+|- style="height:2em"
+!rowspan=2 |1991
+|rowspan=3 {{Party shading/Republican}} |26R, 24D
+|rowspan=3 {{Party shading/Democratic}} |107D, 96R
+|rowspan=3 {{Party shading/Republican}} |12R, 11D
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[Harris Wofford]] {{small|(D)}}{{efn |Appointed by Governor Casey in May 1991 after Heinz's death and won a special election in November 1991 for the remainder of the term.}}
+|- style="height:2em"
+!1992
+|rowspan=9 {{Party shading/Democratic}} |[[Bill Clinton]]/<br>[[Al Gore]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1993
+|{{Party shading/Democratic}} |25D, 25R{{efn |Sen. [[Frank Pecora]] switched parties from Republican to Democratic, but in the case of ties, the Lt. Governor casts the deciding vote, and as a Democrat, he gave his party control.<ref>{{cite web |url=http://www.legis.state.pa.us/cfdocs/legis/BiosHistory/MemBio.cfm?ID=5341&body=S |title=Frank A Pecora |publisher=Pennsylvania General Assembly |access-date=January 3, 2017}}</ref>}}
+|rowspan=2 {{Party shading/Democratic}} |105D, 98R
+|rowspan=9 {{Party shading/Democratic}} |11D, 10R
+|- style="height:2em"
+!1994
+|{{Party shading/Republican}} |26R, 24D{{efn |After months of turmoil, a special election result was thrown out that had been won by Democrat [[William G. Stinson]], who had succeeded fellow Democrat [[Francis Lynch]]. A federal judge awarded the election to Republican [[Bruce Marks (politician)|Bruce Marks]]. Additionally, Democrat [[Eugene Scanlon]]'s death in March 1994 gave Republicans control.<ref>{{cite news|title=Pa. Sen. Scanlon Dies, Leaving Senate in Grief, GOP in Lead Regardless of the Stinson Outcome, the Republicans Are Now the Majority and Can Control the Action|date=March 11, 1994|page=B06|first=Russell E.|last=Eshleman Jr.|url=http://articles.philly.com/1994-03-11/news/25848967_1_republican-bruce-marks-popular-democratic-senator-senate-session |archive-url=https://web.archive.org/web/20160103151301/http://articles.philly.com/1994-03-11/news/25848967_1_republican-bruce-marks-popular-democratic-senator-senate-session|url-status=dead|archive-date=January 3, 2016|newspaper=Philadelphia Inquirer}}</ref>}}
+|- style="height:2em"
+!rowspan=2 |1995
+|rowspan=8 {{Party shading/Republican}} |[[Tom Ridge]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Mark Schweiker]] {{small|(R)}}
+|rowspan=3 {{Party shading/Republican}} |29R, 21D
+|rowspan=3 {{Party shading/Republican}} |102R, 101D
+|rowspan=15 {{Party shading/Republican}} |[[Rick Santorum]] {{small|(R)}}
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Tom Corbett]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!1997
+|rowspan=9 {{Party shading/Republican}} |[[D. Michael Fisher]] {{small|(R)}}{{efn |name=resigned}}
+|rowspan=10 {{Party shading/Democratic}} |[[Bob Casey Jr.]] {{small|(D)}}
+|rowspan=7 {{Party shading/Republican}} |[[Barbara Hafer]] {{small|(R)}}
+|rowspan=7 {{Party shading/Republican}} |30R, 20D
+|rowspan=2 {{Party shading/Republican}} |104R, 99D
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|rowspan=2 {{Party shading/Republican}} |103R, 100D
+|- style="height:2em"
+!2000
+|rowspan=5 {{Party shading/Democratic}} |[[Al Gore]]/<br>[[Joe Lieberman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!rowspan=2 |2001
+|rowspan=3 {{Party shading/Republican}} |104R, 99D
+|rowspan=3 {{Party shading/Republican}} |11R, 10D
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |[[Mark Schweiker]] {{small|(R)}}{{efn |As lieutenant governor, filled vacancy in office of governor.}}
+|rowspan=2 {{Party shading/Republican}} |[[Robert Jubelirer]] {{small|(R)}}{{efn |name=senpres|As [[president pro tempore]] of the state Senate, filled vacancy in office of lieutenant governor.}}
+|- style="height:2em"
+!2002
+|- style="height:2em"
+!2003
+|rowspan=11 {{Party shading/Democratic}} |[[Ed Rendell]] {{small|(D)}}
+|rowspan=7 {{Party shading/Democratic}} |[[Catherine Baker Knoll]] {{small|(D)}}{{efn |name=died}}
+|rowspan=3 {{Party shading/Democratic}} |[[Barbara Hafer]] {{small|(D)}}
+|rowspan=3 {{Party shading/Republican}} |29R, 21D
+|rowspan=3 {{Party shading/Republican}} |110R, 93D
+|rowspan=5 {{Party shading/Republican}} |12R, 7D
+|- style="height:2em"
+!rowspan=2 |2004
+|rowspan=5 {{Party shading/Democratic}} |[[John Kerry]]/<br>[[John Edwards]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+|{{Party shading/Republican}} |[[Jerry Pappert]] {{small|(R)}}{{efn |name=app}}
+|- style="height:2em"
+!2005
+|rowspan=8 {{Party shading/Republican}} |[[Tom Corbett]] {{small|(R)}}
+|rowspan=10 {{Party shading/Democratic}} |[[Jack Wagner (politician)|Jack Wagner]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Bob Casey Jr.]] {{small|(D)}}{{efn |name=ressen|Resigned following election to U.S. Senate.}}
+|rowspan=2 {{Party shading/Republican}} |30R, 20D
+|rowspan=2 {{Party shading/Republican}} |110R, 93D
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=3 {{Party shading/Democratic}} |[[Robin Wiessmann]] {{small|(D)}}{{efn |name=app}}
+|rowspan=3 {{Party shading/Republican}} |29R, 21D
+|rowspan=3 {{Party shading/Democratic}} |102D, 101R{{efn |Elected a Republican Speaker.}}
+|rowspan=21 {{Party shading/Democratic}} |[[Bob Casey Jr.]] {{small|(D)}}
+|rowspan=3 {{Party shading/Democratic}} |11D, 8R
+|- style="height:2em"
+!rowspan=2 |2008
+|rowspan=10 {{Party shading/Democratic}} |[[Barack Obama]]/<br>[[Joe Biden]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+|rowspan=4 {{Party shading/Republican}} |[[Joe Scarnati]] {{small|(R)}}{{efn |name=senpres}}
+|- style="height:2em"
+!rowspan=2 |2009
+|rowspan=7 {{Party shading/Democratic}} |[[Rob McCord]] {{small|(D)}}{{efn |name=resigned}}<ref>{{cite news |url=http://lancasteronline.com/news/local/pennsylvania-treasurer-rob-mccord-says-he-will-plead-guilty-to/article_3641e3a6-a8c4-11e4-b346-9f1f7587d584.html |title=Pennsylvania treasurer Rob McCord says he will plead guilty to federal charges |newspaper=Lancaster Online |date=January 31, 2015 |access-date=May 20, 2015 |first=Marc |last=Levy |agency=Associated Press}}</ref>
+|rowspan=5 {{Party shading/Republican}} |30R, 20D
+|rowspan=3 {{Party shading/Democratic}} |104D, 99R
+|rowspan=3 {{Party shading/Democratic}} |12D, 7R
+|- style="height:2em"
+|rowspan=2 {{Party shading/Democratic}} |[[Arlen Specter]] {{small|(D)}}<ref>[[Party switching in the United States|Switched parties]] from Republican to Democratic on April 28, 2009.</ref>
+|- style="height:2em"
+!2010
+|- style="height:2em"
+!2011
+|rowspan=4 {{Party shading/Republican}} |[[Tom Corbett]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[Jim Cawley]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |[[Linda L. Kelly]] {{small|(R)}}{{efn |name=app}}{{efn |[[William H. Ryan Jr.]] served as acting Attorney General from January (when Corbett was inaugurated as governor) until Kelly's nomination was confirmed by the [[Pennsylvania Senate|State Senate]].}}
+|rowspan=2 {{Party shading/Republican}} |112R, 91D
+|rowspan=13 {{Party shading/Republican}} |[[Pat Toomey]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |12R, 7D
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|rowspan=4 {{Party shading/Democratic}} |[[Kathleen Kane]] {{small|(D)}}{{efn |name=resigned}}<ref>{{Cite news |first1=Susannah|last1=Cullinane|first2=Ralph|last2=Ellis|date=2016-08-16|title=Pennsylvania Attorney General Kathleen Kane resigning |work=CNN Politics|url=https://www.cnn.com/2016/08/16/politics/pennsylvania-attorney-general-kane/index.html|access-date=2021-06-24 |language=en}}</ref>
+|rowspan=9 {{Party shading/Democratic}} |[[Eugene DePasquale]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |27R, 23D
+|rowspan=2 {{Party shading/Republican}} |111R, 92D
+|rowspan=6 {{Party shading/Republican}} |13R, 5D
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=9 {{Party shading/Democratic}} |[[Tom Wolf]] {{small|(D)}}
+|rowspan=5 {{Party shading/Democratic}} |[[Mike Stack]] {{small|(D)}}
+|rowspan=3 {{Party shading/Independent}} |[[Tim Reese]] {{small|(I)}}{{efn |name=app}}
+|{{Party shading/Republican}} |30R, 20D
+|{{Party shading/Republican}} |120R, 83D
+|- style="height:2em"
+!rowspan=2 |2016
+|rowspan=2 {{Party shading/Republican}} |31R, 19D
+|rowspan=2 {{Party shading/Republican}} |119R, 84D
+|rowspan=5 {{Party shading/Republican}} |[[Donald Trump]]/<br>[[Mike Pence]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Bruce Beemer]] {{small|(D)}}{{efn |name=app}}{{efn |Republican Deputy Attorney General [[Bruce Castor]] served for 13 days from August 17–30 between Kane's resignation and Beemer's assumption of the office.}}
+|- style="height:2em"
+!2017
+|rowspan=6 {{Party shading/Democratic}} |[[Josh Shapiro]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Torsella]] {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} and |34R, 16D
+|rowspan=2 {{Party shading/Republican}} |121R, 82D
+|- style="height:2em"
+!2018
+|{{Party shading/Republican}} |10R, 8D{{efn |Democrat [[Conor Lamb]] won a [[Pennsylvania's 18th congressional district special election, 2018|special election]] to fill a vacancy for Pennsylvania's 18th Congressional District, left by Republican [[Timothy F. Murphy]]'s resignation. Democrats [[Mary Gay Scanlon]] and [[Susan Wild]] won [[2018 Pennsylvania's 7th and 15th congressional district special elections|special elections]] to fill seats left vacant by Republicans [[Pat Meehan]]/<br>[[Charlie Dent]] respectively.}}
+|- style="height:2em"
+!2019
+|rowspan=4 {{Party shading/Democratic}} |[[John Fetterman]] {{small|(D)}}
+|{{Party shading/Republican}} |28R, 22D{{efn |Republican [[Don C. White]] resigned in February 2019 and Republican [[Joe Pittman (politician)|Joe Pittman]] was elected in May 2019 to succeed him.{{Citation needed|date=June 2021}} Also, Republican [[Mike Folmer]] resigned in September 2019 and Republican [[Dave Arnold (politician)|Dave Arnold]] was elected to succeed him in a January 2020 special election.<ref>{{cite news|title=PoliticsPA|url=https://www.politicspa.com/folmer-resigns-after-being-charged-with-possession-of-child-pornography/92304/|access-date=2021-06-24}}</ref><ref>{{Cite news |date=2020-01-14|title=Dave Arnold wins 48th Senatorial District special election |url=https://local21news.com/news/local/dave-arnold-wins-48th-senatorial-district-special-election|access-date=2021-06-24|work=Local 21 News}}</ref>}}
+|rowspan=2 {{Party shading/Republican}} |110R, 93D
+|rowspan=4 {{Party shading/Tie}} |9R, 9D
+|- style="height:2em"
+!2020
+|{{Party shading/Republican}} |28R, 21D, 1I{{efn |[[John Yudichak]] (District 14) [[Party switching in the United States|switched parties]] from Democratic to Independent in November 2019 and began caucusing with the Republican majority.<ref>{{cite web|date=2019-11-19|title=Pa. Dems lose a state senator: John Yudichak of Luzerne County declares himself independent, will caucus with GOP|url=https://www.pennlive.com/news/2019/11/pa-dems-lose-a-state-senator-john-yudichak-of-luzerne-county-declares-himself-independent-will-caucus-with-gop.html|access-date=2021-06-24|website=pennlive|language=en}}</ref>}}
+|rowspan=4 {{party shading/Democratic}} |[[Joe Biden]]/<br>[[Kamala Harris]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2021
+|rowspan=6 {{Party shading/Republican/current}} |[[Timothy DeFoor]] {{small|(R)}}
+|rowspan=6 {{Party shading/Republican/current}} |[[Stacy Garrity]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican}} |28R, 21D, 1I
+|rowspan=2 {{Party shading/Republican}} |113R, 90D
+|- style="height:2em"
+!2022
+|- style="height:2em"
+!2023
+|rowspan=4 {{Party shading/Democratic/current}} |[[Josh Shapiro]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Austin Davis (politician)|Austin Davis]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Michelle Henry]] {{small|(D)}}{{efn |name=app}}
+|rowspan=2 {{Party shading/Republican}} |28R, 22D
+|rowspan=3 {{Party shading/Democratic/current}} |102D, 101R
+|rowspan=4 {{Party shading/Democratic/current}} |[[John Fetterman]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |9D, 8R
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Republican}} |[[Donald Trump]]/<br>[[JD Vance]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Republican/current}} |[[Dave Sunday (politician)|Dave Sunday]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |27R, 23D{{efn |[[Ryan Aument]] (District 36) resigned December 31, 2024 to become State Director to U.S. Senator Dave McCormick. [[James Andrew Malone]] was elected in a special election on March 25, 2025, flipping the seat to Democrats.}}
+|rowspan=2 {{Party shading/Republican/current}} |[[Dave McCormick]] {{small|(R)}}
+|rowspan=2 {{Party shading/Republican/current}} |10R, 7D
+|- style="height:2em"
+!2026
+|rowspan=3 {{Party shading/Democratic/current}} |103D, 100R{{efn |[[Stephenie Scialabba]] (District 12) resigned March 31, 2026. [[Brandon Dukes]] was elected in a special election on August 18, 2026, flipping the seat to Democrats.}}
+|}
+{{United States political party shading key}}
+{{notelist}}
+
+==See also==
+*[[Pennsylvania Democratic Party|Democratic Party of Pennsylvania]]
+*[[Elections in Pennsylvania]]
+*[[Green Party of Pennsylvania]]
+*[[Libertarian Party of Pennsylvania]]
+*[[Politics of Pennsylvania]]
+*[[Republican State Committee of Pennsylvania|Republican Party of Pennsylvania]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states}}
+
+{{DEFAULTSORT:Political Party Strength In Pennsylvania}}
+[[Category:Politics of Pennsylvania]]
+[[Category:Government of Pennsylvania]]
+[[Category:Political party strength in the United States by state|Pennsylvania]]

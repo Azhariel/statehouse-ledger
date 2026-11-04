@@ -1,0 +1,694 @@
+{{Short description|None}}
+{{Use American English|date=April 2026}}
+{{Use mdy dates|date=July 2023}}
+{{For|a list of colonial governors|List of colonial governors of Maryland}}
+
+[[File:Wes_Moore_Official_Governor_Portrait.jpg|thumb|[[Wes Moore]] has been governor since January 18, 2023]]
+The [[governor of Maryland]] is the [[head of government]] of the U.S. state of [[Maryland]]. The current governor is Democrat [[Wes Moore]], who took office on January 18, 2023.
+
+== Governors ==
+{{For|the period before independence|List of colonial governors of Maryland}}
+Maryland was one of the original [[Thirteen Colonies]] and was admitted as a state on April 28, 1788.<ref>{{Cite report |title=Admission of States to the Union: A Historical Reference Guide |url=https://www.congress.gov/crs-product/R47747 |access-date=October 20, 2026 |id=CRS Report no. R47747 |publisher=[[Congressional Research Service]] |date=December 17, 2024}}</ref> Before it declared its independence, Maryland was a [[Province of Maryland|colony]] of the [[Kingdom of Great Britain]].
+
+Under the [[Maryland Constitution of 1776|constitution of 1776]], governors were appointed by the [[Maryland General Assembly]] to one-year terms.{{sfn|Thorpe|1909|p=1695|loc=1776 art. XXV}} They could be reelected for two additional terms, though they must take four years off after leaving office.{{sfn|Thorpe|1909|p=1696|loc=1776 art. XXXI}} An 1837 constitutional amendment allowed for popular election of governors to three-year terms,{{sfn|Thorpe|1909|p=1710|loc=1837 amend., § 20}} though they could not succeed themselves.{{sfn|Thorpe|1909|p=1711|loc=1837 amend., § 23}} The [[Maryland Constitution of 1851|1851 constitution]] removed the term limit, and lengthened terms to four years, to commence on the second Wednesday of January following the election.{{sfn|Thorpe|1909|p=1718|loc=1851 art. II, § 1}} Governors were limited to two consecutive terms beginning in 1948.<ref name="amend1948">{{Cite web |title=Governor |url=http://guide.msa.maryland.gov/pages/history.aspx?ID=SH54 |access-date=October 28, 2026 |website=Guide to Government Records |publisher=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251206173343/https://guide.msa.maryland.gov/pages/history.aspx?ID=SH54 |archive-date=December 6, 2025 |url-status=live}}</ref>
+
+The office of [[Lieutenant Governor of Maryland|lieutenant governor]] was created in 1864,{{sfn|Thorpe|1909|p=1750|loc=1864 art. II, § 6}} abolished in 1867, and recreated in 1970. The lieutenant governor succeeds to the office of governor should it become vacant. In the original constitution, the first named of the Governor's Council would act as governor if it were vacant, until a new governor was selected; this was changed to the [[Secretary of State of Maryland|secretary of state]] in 1837.<ref>{{Cite web |title=Maryland Lieutenant Governor |url=https://msa.maryland.gov/msa/mdmanual/08conoff/ltgov/html/02ltgovf.html |access-date=October 28, 2026 |website=Maryland Manual On-Line |archive-url=https://web.archive.org/web/20251230175428/https://msa.maryland.gov/msa/mdmanual/08conoff/ltgov/html/02ltgovf.html |archive-date=December 30, 2025 |url-status=live}}</ref> The 1867 constitution originally called for the General Assembly to immediately elect a new governor; if they were not in session, the president of the Senate would act as governor until one was elected.{{sfn|Thorpe|1909|p=1786|loc=1867 art. II, § 6–7}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Maryland
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Maryland|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1864, abolished in 1867, and recreated in 1970.<ref>{{Cite web |last=Dayhoff |first=Kevin |date=December 7, 2005 |title=Why We Have a Lieutenant Governor |url=http://www.thetentacle.com/ShowArticle.cfm?mydocid=1376 |archive-url=https://web.archive.org/web/20060619032754/http://www.thetentacle.com/ShowArticle.cfm?mydocid=1376 |archive-date=June 19, 2006 |url-status=dead |access-date=May 30, 2017 |publisher=The Tentacle}}</ref>}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|1
+|rowspan="2" data-sort-value="Johnson, Thomas"|[[File:Thomas Johnson (governor).jpeg|75px]]
+|rowspan="11" style="background:{{party color|Nonpartisan politician}};" title="No parties"|
+|rowspan="2"|'''[[Thomas Johnson (judge)|Thomas Johnson]]'''<br>{{small|(1732–1819)}}<br><ref name="nga-johnson">{{cite web |title=Thomas Johnson |url=https://www.nga.org/governor/thomas-johnson/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710083356/https://www.nga.org/governor/thomas-johnson/ |archive-date=July 10, 2026 |url-status=live}}</ref><ref name="md-johnson">{{Cite web |title=Thomas Johnson |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000700/000743/html/743extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260109093201/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000700/000743/html/743extbio.html |archive-date=January 9, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="967"|March 21, 1777<ref>{{cite book |title=Journal of the Maryland House of Delegates, Feb. 1777 sess. |author=Maryland General Assembly |page=44 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003196/html/m3196-0529.html}}</ref><br>–<br>November 12, 1779<br />{{small|(967 days; retired)}}
+|rowspan="11" style="background:#EEEEEE; color:inherit;"|''No parties''{{sfn|Glashan|1979|p=130}}
+|[[1777 Maryland gubernatorial election|1777]]
+|style="background:#EEEEEE; color:inherit;" colspan="2" rowspan="73"|''Office did not exist''
+|- style="height:2em;"
+|[[1778 Maryland gubernatorial election|1778]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|2
+|rowspan="3" data-sort-value="Lee, Thomas"|[[File:No image.svg|75px]]
+|rowspan="3"|'''[[Thomas Sim Lee]]'''<br>{{small|(1745–1819)}}<br>{{sfn|Sobel|1978|pp=646–647}}<ref name="nga-lee-thomas">{{Cite web |title=Thomas Sim Lee |url=https://www.nga.org/governor/thomas-sim-lee/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512221419/https://www.nga.org/governor/thomas-sim-lee/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="md-lee-thomas">{{Cite web |title=Thomas Sim Lee |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000800/000800/html/800extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260224015555/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000800/000800/html/800extbio.html |archive-date=February 24, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1107"|November 12, 1779<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1779 sess. |author=Maryland General Assembly |page=4 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-0247.html}}</ref><br>–<br>November 22, 1782<br />{{small|(1107 days; term-limited)}}{{efn|Under the 1776 constitution, governors were limited to no more than three years successively, and ineligible until four years after they had been out of office.{{sfn|Thorpe|1909|p=1696|loc=1776 art. XXXI}}|name=limits-1776}}
+|[[1779 Maryland gubernatorial election|1779]]
+|- style="height:2em;"
+|[[1780 Maryland gubernatorial election|1780]]
+|- style="height:2em;"
+|[[1781 Maryland gubernatorial election|1781]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|3
+|rowspan="3" data-sort-value="Paca, William"|[[File:William paca.jpg|75px]]
+|rowspan="3"|'''[[William Paca]]'''<br>{{small|(1740–1799)}}<br><ref name="nga-paca">{{cite web |title=William Paca |url=https://www.nga.org/governor/william-paca/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607074942/https://www.nga.org/governor/william-paca/ |archive-date=June 7, 2026 |url-status=live}}</ref><ref name="md-paca">{{Cite web |title=William Paca |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000965/html/965bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227154336/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000965/html/965bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1101"|November 22, 1782<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1782 sess. |author=Maryland General Assembly |page=6 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-0524.html}}</ref><br>–<br>November 26, 1785<br />{{small|(1101 days; term-limited)}}{{efn|name=limits-1776}}
+|[[1782 Maryland gubernatorial election|1782]]
+|- style="height:2em;"
+|[[1783 Maryland gubernatorial election|1783]]
+|- style="height:2em;"
+|[[1784 Maryland gubernatorial election|1784]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|4
+|rowspan="3" data-sort-value="Smallwood, William"|[[File:General William Smallwood SC-000580.jpg|75px]]
+|rowspan="3"|'''[[William Smallwood]]'''<br>{{small|(1732–1792)}}<br><ref name="md-smallwood">{{Cite web |title=William Smallwood |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001100/001134/html/1134bio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260712180838/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001100/001134/html/1134bio.html |archive-date=July 12, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1098"|November 26, 1785<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1785 sess. |author=Maryland General Assembly |page=10 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-0728.html}}</ref><br>–<br>November 27, 1788<br />{{small|(1098 days; term-limited)}}{{efn|name=limits-1776}}
+|[[1785 Maryland gubernatorial election|1785]]
+|- style="height:2em;"
+|[[1786 Maryland gubernatorial election|1786]]
+|- style="height:2em;"
+|[[1787 Maryland gubernatorial election|1787]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|5
+|rowspan="3" data-sort-value="Howard, John"|[[File:John Eager Howard.jpg|75px]]
+|rowspan="14" style="color:inherit;background:{{party color|Federalist Party}};" title="Represented the Federalist Party"|
+|rowspan="3"|'''[[John Eager Howard]]'''<br>{{small|(1752–1827)}}<br>{{sfn|Sobel|1978|p=645}}<ref name="nga-howard-john">{{Cite web |title=John Eager Howard |url=https://www.nga.org/governor/john-eager-howard/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608211658/https://www.nga.org/governor/john-eager-howard/ |archive-date=June 8, 2026 |url-status=live}}</ref><ref name="md-howard-john">{{Cite web |title=John Eager Howard |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000600/000692/html/692bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227054003/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000600/000692/html/692bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1083"|November 27, 1788<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1788 sess. |author=Maryland General Assembly |page=7 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-0953.html}}</ref><br>–<br>November 14, 1791<br />{{small|(1083 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=130}}
+|[[1788 Maryland gubernatorial election|1788]]
+|- style="height:2em;"
+|[[1789 Maryland gubernatorial election|1789]]
+|- style="height:2em;"
+|[[1790 Maryland gubernatorial election|1790]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Plater, George"|[[File:George Plater.jpg|75px]]
+|'''[[George Plater]]'''<br>{{small|(1735–1792)}}<br>{{sfn|Sobel|1978|p=646}}<ref name="nga-plater">{{cite web |title=George Plater |url=https://www.nga.org/governor/george-plater/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519105317/https://www.nga.org/governor/george-plater/ |archive-date=May 19, 2026 |url-status=live}}</ref><ref name="md-plater">{{Cite web |title=George Plater |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000995/html/995bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260214082345/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000995/html/995bio2.html |archive-date=February 14, 2026 |url-status=live}}</ref>
+|data-sort-value="89"|November 14, 1791<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1791 sess. |author=Maryland General Assembly |page=5 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-1095.html}}</ref><br>–<br>February 10, 1792<br />{{small|(89 days; died in office)}}
+|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=130}}
+|[[1791 Maryland gubernatorial election|1791]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Brice, James"|[[File:Governor James Brice.jpg|75px]]
+|'''[[James Brice]]'''<br>{{small|(1746–1801)}}<br><ref name="nga-brice">{{cite web |title=James Brice |url=https://www.nga.org/governor/james-brice/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261013023232/https://www.nga.org/governor/james-brice/ |archive-date=October 13, 2026 |url-status=live}}</ref><ref name="md-brice">{{Cite web |title=James Brice |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000100/000146/html/146bio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227040445/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000100/000146/html/146bio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="56"|February 10, 1792<ref>{{Cite news |date=February 16, 1792 |title=A Proclamation |page=2 |newspaper=[[Maryland Gazette]] |url=https://www.newspapers.com/article/maryland-gazette-brice-succeeds-plater-f/132044726/ |archive-url=https://web.archive.org/web/20231201055532/https://www.newspapers.com/article/maryland-gazette-brice-succeeds-plater-f/132044726/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>April 5, 1792<br>{{small|(56 days; retired)}}
+|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=130}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Senior council<br />member acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''2''
+|rowspan="2" data-sort-value="Lee, Thomas"|[[File:No image.svg|75px]]
+|rowspan="2"|'''[[Thomas Sim Lee]]'''<br>{{small|(1745–1819)}}<br>{{sfn|Sobel|1978|pp=646–647}}<ref name="nga-lee-thomas" /><ref name="md-lee-thomas" />
+|rowspan="2" data-sort-value="957"|April 5, 1792<ref>{{cite book |title=Journal of the Maryland Senate, Apr. 1792 sess. |author=Maryland General Assembly |page=63 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-1152.html}}</ref><br>–<br>November 17, 1794<br />{{small|(957 days; retired)}}
+|rowspan="2"|[[Federalist Party|Federalist]]{{sfn|Glashan|1979|p=130}}
+|[[1792 Maryland gubernatorial election|1792]]
+|- style="height:2em;"
+|[[1793 Maryland gubernatorial election|1793]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|7
+|rowspan="3" data-sort-value="Stone, John"|[[File:John Hoskins Stone (1749-1804).jpg|75px]]
+|rowspan="3"|'''[[John Hoskins Stone]]'''<br>{{small|(1749–1804)}}<br>{{sfn|Sobel|1978|pp=647–648}}<ref name="nga-stone">{{cite web |title=John Hoskins Stone |url=https://www.nga.org/governor/john-hoskins-stone/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261012231850/https://www.nga.org/governor/john-hoskins-stone/ |archive-date=October 12, 2026 |url-status=live}}</ref><ref name="md-stone">{{Cite web |title=John Hoskins Stone |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001100/001199/html/1199bio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20261013021700/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001100/001199/html/1199bio.html |archive-date=October 13, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1108"|November 17, 1794<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1794 sess. |author=Maryland General Assembly |page=3 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-1256.html}}</ref><br>–<br>November 28, 1797<br />{{small|(1108 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=96}}
+|[[1794 Maryland gubernatorial election|1794]]
+|- style="height:2em;"
+|[[1795 Maryland gubernatorial election|1795]]
+|- style="height:2em;"
+|[[1796 Maryland gubernatorial election|1796]]
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Henry, John"|[[File:No image.svg|75px]]
+|'''[[John Henry (Maryland politician)|John Henry]]'''<br>{{small|(1750–1798)}}<br>{{sfn|Sobel|1978|pp=648–649}}<ref name="nga-henry">{{cite web |title=John Henry |url=https://www.nga.org/governor/john-henry/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608202228/https://www.nga.org/governor/john-henry/ |archive-date=June 8, 2026 |url-status=live}}</ref><ref name="md-henry">{{Cite web |title=John Henry |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000600/000640/html/640bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227153838/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000600/000640/html/640bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="352"|November 28, 1797<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1797 sess. |author=Maryland General Assembly |page=10 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-1425.html}}</ref><br>–<br>November 14, 1798<br />{{small|(352 days; retired)}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=96}}
+|[[1797 Maryland gubernatorial election|1797]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|9
+|rowspan="3" data-sort-value="Ogle, Benjamin"|[[File:Benjamin Ogle I 1749-1809.jpg|75px]]
+|rowspan="3"|'''[[Benjamin Ogle]]'''<br>{{small|(1749–1809)}}<br>{{sfn|Sobel|1978|p=649}}<ref name="nga-ogle">{{cite web |title=Benjamin Ogle |url=https://www.nga.org/governor/benjamin-ogle/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613152641/https://www.nga.org/governor/benjamin-ogle/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="md-ogle">{{Cite web |title=Benjamin Ogle |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000946/html/946bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227154250/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000946/html/946bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1092"|November 14, 1798<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1798 sess. |author=Maryland General Assembly |page=4 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003185/html/m3185-1488.html}}</ref><br>–<br>November 10, 1801<br />{{small|(1092 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=96}}
+|[[1798 Maryland gubernatorial election|1798]]
+|- style="height:2em;"
+|[[1799 Maryland gubernatorial election|1799]]
+|- style="height:2em;"
+|[[1800 Maryland gubernatorial election|1800]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Mercer, John"|[[File:John Francis Mercer.jpg|75px]]
+|rowspan="13" style="color:inherit;background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[John Francis Mercer]]'''<br>{{small|(1759–1821)}}<br>{{sfn|Sobel|1978|p=650}}<ref name="nga-mercer">{{cite web |title=John Francis Mercer |url=https://www.nga.org/governor/john-francis-mercer/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314093542/https://www.nga.org/governor/john-francis-mercer/ |archive-date=March 14, 2026 |url-status=live}}</ref><ref name="md-mercer">{{Cite web |title=John Francis Mercer |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000904/html/904extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227215726/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000900/000904/html/904extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="736"|November 10, 1801<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1801 sess. |author=Maryland General Assembly |page=8 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003186/html/m3186-0075.html}}</ref><br>–<br>November 15, 1803<br />{{small|(736 days; retired)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=96}}
+|[[1801 Maryland gubernatorial election|1801]]
+|- style="height:2em;"
+|[[1802 Maryland gubernatorial election|1802]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|11
+|rowspan="3" data-sort-value="Bowie, Robert"|[[File:Robert Bowie portrait.jpg|75px]]
+|rowspan="3"|'''[[Robert Bowie]]'''<br>{{small|(1750–1818)}}<br>{{sfn|Sobel|1978|pp=650–651}}<ref name="nga-bowie-robert">{{Cite web |title=Robert Bowie |url=https://www.nga.org/governor/robert-bowie/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260610221837/https://www.nga.org/governor/robert-bowie/ |archive-date=June 10, 2026 |url-status=live}}</ref><ref name="md-bowie-robert">{{Cite web |title=Robert Bowie |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000100/000121/html/121extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260513034511/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000100/000121/html/121extbio.html |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1094"|November 15, 1803<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1803 sess. |author=Maryland General Assembly |page=6 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003186/html/m3186-0198.html}}</ref><br>–<br>November 12, 1806<br />{{small|(1094 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=96}}
+|[[1803 Maryland gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1804 Maryland gubernatorial election|1804]]
+|- style="height:2em;"
+|[[1805 Maryland gubernatorial election|1805]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|12
+|rowspan="3" data-sort-value="Wright, Robert"|[[File:Robertwrightofmaryland.jpg|75px]]
+|rowspan="3"|'''[[Robert Wright (Maryland politician)|Robert Wright]]'''<br>{{small|(1752–1826)}}<br>{{sfn|Sobel|1978|pp=651–652}}<ref name="nga-wright">{{cite web |title=Robert Wright |url=https://www.nga.org/governor/robert-wright/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260305112920/https://www.nga.org/governor/robert-wright/ |archive-date=March 5, 2026 |url-status=live}}</ref><ref name="md-wright">{{Cite web |title=Robert Wright |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001425/html/1425extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227195320/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001425/html/1425extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="907"|November 12, 1806<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1806 sess. |author=Maryland General Assembly |page=6 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003186/html/m3186-0358.html}}</ref><br>–<br>May 6, 1809<br />{{small|(907 days; resigned)}}{{efn|Wright resigned due to a loss of popularity,{{sfn|Sobel|1978|p=652}} and to secure a seat on the [[Supreme Court of Maryland]], though he was not appointed to it.<ref name="nga-wright" />}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=96}}
+|[[1806 Maryland gubernatorial election|1806]]
+|- style="height:2em;"
+|[[1807 Maryland gubernatorial election|1807]]
+|- style="height:2em;"
+|[[1808 Maryland gubernatorial election|1808]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Butcher, James"|[[File:No image.svg|75px]]
+|'''[[James Butcher (politician)|James Butcher]]'''
+|data-sort-value="35"|May 6, 1809<ref>{{Cite news |date=May 24, 1809 |title=A Proclamation |page=4 |newspaper=[[Maryland Gazette]] |url=https://www.newspapers.com/article/maryland-gazette-butcher-succeeds-wright/132058511/ |archive-url=https://web.archive.org/web/20231201055528/https://www.newspapers.com/article/maryland-gazette-butcher-succeeds-wright/132058511/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>June 9, 1809<br>{{small|(35 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=254}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Senior council<br />member acting}}<ref name="md-wright" />
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|13
+|rowspan="3" data-sort-value="Lloyd, Edward"|[[File:Edward Lloyd V.jpg|75px]]
+|rowspan="3"|'''[[Edward Lloyd V]]'''<br>{{small|(1779–1834)}}<br>{{sfn|Sobel|1978|pp=652–653}}<ref name="nga-lloyd-edward">{{Cite web |title=Edward Lloyd |url=https://www.nga.org/governor/edward-lloyd/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260916124142/https://www.nga.org/governor/edward-lloyd/ |archive-date=September 16, 2026 |url-status=live}}</ref><ref name="md-lloyd-edward">{{Cite web |title=Edward Lloyd |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001445/html/1445bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227215925/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001445/html/1445bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="891"|June 9, 1809<ref>{{cite book |title=Journal of the Maryland Senate, June 1809 sess. |author=Maryland General Assembly |page=10 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003186/html/m3186-0516.html}}</ref><br>–<br>November 16, 1811<br />{{small|(891 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=96}}
+|[[June 1809 Maryland gubernatorial election|June 1809]]<br>{{small|(special)}}{{efn|Special election to fill the remainder of Robert Wright's term.}}
+|- style="height:2em;"
+|[[November 1809 Maryland gubernatorial election|Nov. 1809]]
+|- style="height:2em;"
+|[[1810 Maryland gubernatorial election|1810]]
+|- style="height:2em;"
+!scope="row"|''11''
+|data-sort-value="Bowie, Robert"|[[File:Robert Bowie portrait.jpg|75px]]
+|'''[[Robert Bowie]]'''<br>{{small|(1750–1818)}}<br>{{sfn|Sobel|1978|pp=650–651}}<ref name="nga-bowie-robert" /><ref name="md-bowie-robert" />
+|data-sort-value="374"|November 16, 1811<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1811 sess. |author=Maryland General Assembly |page=295 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003187/html/m3187-0306.html}}</ref><br>–<br>November 23, 1812<br />{{small|(374 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=96}}
+|[[1811 Maryland gubernatorial election|1811]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|14
+|rowspan="3" data-sort-value="Winder, Levin"|[[File:Levin-Winder GrandMaster 1814 GLOfMD.jpg|75px]]
+|rowspan="7" style="color:inherit;background:{{party color|Federalist Party}};" title="Represented the Federalist Party"|
+|rowspan="3"|'''[[Levin Winder]]'''<br>{{small|(1757–1819)}}<br>{{sfn|Sobel|1978|pp=653–654}}<ref name="nga-winder">{{cite web |title=Levin Winder |url=https://www.nga.org/governor/levin-winder/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613155742/https://www.nga.org/governor/levin-winder/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="md-winder">{{Cite web |title=Levin Winder |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001300/001396/html/1396bio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260123235651/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001300/001396/html/1396bio.html |archive-date=January 23, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1136"|November 23, 1812<ref>{{cite book |title=Journal of the Maryland Senate, Nov. 1812 sess. |author=Maryland General Assembly |page=136 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003187/html/m3187-0612.html}}</ref><br>–<br>January 2, 1816<br />{{small|(1136 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=96}}
+|[[1812 Maryland gubernatorial election|1812]]
+|- style="height:2em;"
+|[[1813 Maryland gubernatorial election|1813]]
+|- style="height:2em;"
+|[[1814 Maryland gubernatorial election|1814]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|15
+|rowspan="3" data-sort-value="Ridgely, Charles"|[[File:Thomas Sully, Charles Carnan Ridgely, 1820, NGA 32582.jpg|75px]]
+|rowspan="3"|'''[[Charles Carnan Ridgely]]'''<br>{{small|(1760–1829)}}<br>{{sfn|Sobel|1978|p=654}}<ref name="nga-ridgely">{{cite web |title=Charles Carnan Ridgely |url=https://www.nga.org/governor/charles-carnan-ridgely/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509171750/https://www.nga.org/governor/charles-carnan-ridgely/ |archive-date=May 9, 2026 |url-status=live}}</ref><ref name="md-ridgely">{{Cite web |title=Charles Ridgely of Hampton |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001446/html/1446extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260714035218/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001446/html/1446extbio.html |archive-date=July 14, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1103"|January 2, 1816<ref>{{cite book |title=Journal of the Maryland Senate, Dec. 1815 sess. |author=Maryland General Assembly |page=123 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003187/html/m3187-1164.html}}</ref><br>–<br>January 8, 1819<br>{{small|(1103 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=96}}
+|[[1815 Maryland gubernatorial election|1815]]
+|- style="height:2em;"
+|[[1816 Maryland gubernatorial election|1816]]
+|- style="height:2em;"
+|[[1817 Maryland gubernatorial election|1817]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Goldsborough, Charles"|[[File:Charles Goldsborough, 1802 painting.jpg|75px]]
+|'''[[Charles Goldsborough]]'''<br>{{small|(1765–1834)}}<br>{{sfn|Sobel|1978|p=655}}<ref name="nga-goldsborough-charles">{{Cite web |title=Charles Goldsborough |url=https://www.nga.org/governor/charles-goldsborough/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512215635/https://www.nga.org/governor/charles-goldsborough/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="md-goldsborough-charles">{{Cite web |title=Charles Goldborough |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001447/html/1447bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227200936/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001447/html/1447bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="347"|January 8, 1819<ref>{{cite book |title=Journal of the Maryland Senate, Dec. 1818 sess. |author=Maryland General Assembly |page=14 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003188/html/m3188-0141.html}}</ref><br>–<br>December 20, 1819<br />{{small|(347 days; lost election)}}
+|[[Federalist Party|Federalist]]{{sfn|Dubin|2003|p=96}}
+|[[1818 Maryland gubernatorial election|1818]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|17
+|rowspan="3" data-sort-value="Sprigg, Samuel"|[[File:Samuel Sprigg.jpg|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|rowspan="3"|'''[[Samuel Sprigg]]'''<br>{{small|(1783–1855)}}<br>{{sfn|Sobel|1978|pp=655–656}}<ref name="nga-sprigg">{{cite web |title=Samuel Sprigg |url=https://www.nga.org/governor/samuel-sprigg/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415040230/https://www.nga.org/governor/samuel-sprigg/ |archive-date=April 15, 2026 |url-status=live}}</ref><ref name="md-sprigg">{{Cite web |title=Samuel Sprigg |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001448/html/1448extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227194905/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001448/html/1448extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|December 20, 1819<ref>{{cite book |title=Journal of the Maryland Senate, Dec. 1819 sess. |author=Maryland General Assembly |page=11 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003188/html/m3188-0200.html}}</ref><br>–<br>December 16, 1822<br />{{small|(1093 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=96}}
+|[[1819 Maryland gubernatorial election|1819]]
+|- style="height:2em;"
+|[[1820 Maryland gubernatorial election|1820]]
+|- style="height:2em;"
+|[[1821 Maryland gubernatorial election|1821]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|18
+|rowspan="3" data-sort-value="Stevens, Samuel"|[[File:Samuel Stevens, Jr. (Maryland Governor).jpg|75px]]
+|rowspan="3"|'''[[Samuel Stevens Jr.]]'''<br>{{small|(1778–1860)}}<br>{{sfn|Sobel|1978|pp=656–657}}<ref name="nga-stevens">{{cite web |title=Samuel Stevens |url=https://www.nga.org/governor/samuel-stevens/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414070408/https://www.nga.org/governor/samuel-stevens/ |archive-date=April 14, 2026 |url-status=live}}</ref><ref name="md-stevens">{{Cite web |title=Samuel Stevens, Jr. |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001449/html/bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227200715/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001449/html/bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1121"|December 16, 1822<ref>{{cite book |title=Journal of the Maryland House of Delegates, Dec. 1822 sess. |author=Maryland General Assembly |page=30 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/012329/html/m12329-0725.html}}</ref><br>–<br>January 9, 1826<br />{{small|(1121 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=254}}
+|[[1822 Maryland gubernatorial election|1822]]
+|- style="height:2em;"
+|[[1823 Maryland gubernatorial election|1823]]
+|- style="height:2em;"
+|[[1824 Maryland gubernatorial election|1824]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|19
+|rowspan="3" data-sort-value="Kent, Joseph"|[[File:Joseph Kent of Maryland.jpg|75px]]
+|rowspan="3"|'''[[Joseph Kent]]'''<br>{{small|(1779–1837)}}<br>{{sfn|Sobel|1978|pp=657–658}}<ref name="nga-kent">{{cite web |title=Joseph Kent |url=https://www.nga.org/governor/joseph-kent/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512212524/https://www.nga.org/governor/joseph-kent/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="md-kent">{{Cite web |title=Joseph Kent |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001450/html/1450extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227153820/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001450/html/1450extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1103"|January 9, 1826<ref>{{cite book |title=Journal of the Maryland Senate, Dec. 1826 sess. |author=Maryland General Assembly |page=25 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003188/html/m3188-0694.html}}</ref><br>–<br>January 15, 1829<br />{{small|(1103 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Kallenbach|1977|p=254}}
+|[[1826 Maryland gubernatorial election|1826]]
+|- style="height:2em;"
+|[[1827 Maryland gubernatorial election|1827]]
+|- style="height:2em;"
+|[[1828 Maryland gubernatorial election|1828]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Martin, Daniel"|[[File:No image.svg|75px]]
+|style="color:inherit;background:{{party color|National Republican Party}};" title="Represented the Anti-Jacksonian Party"|
+|'''[[Daniel Martin (politician)|Daniel Martin]]'''<br>{{small|(1780–1831)}}<br>{{sfn|Sobel|1978|pp=658–659}}<ref name="nga-martin">{{cite web |title=Daniel Martin |url=https://www.nga.org/governor/daniel-martin/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613144919/https://www.nga.org/governor/daniel-martin/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="md-martin">{{Cite web |title=Daniel Martin |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001451/html/1451bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260711081726/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001451/html/1451bio2.html |archive-date=July 11, 2026 |url-status=live}}</ref>
+|data-sort-value="366"|January 15, 1829<ref>{{Cite news |date=January 22, 1829 |title=Legislature of Maryland |page=4 |newspaper=[[Maryland Gazette]] |url=https://www.newspapers.com/article/maryland-gazette-martin-inaugurated-janu/132062455/ |archive-url=https://web.archive.org/web/20231201055528/https://www.newspapers.com/article/maryland-gazette-martin-inaugurated-janu/132062455/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 15, 1830<br />{{small|(366 days; lost election)}}
+|[[National Republican Party|Anti-Jacksonian]]{{sfn|Dubin|2003|p=96}}
+|[[1829 Maryland gubernatorial election|1829]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Carroll, Thomas"|[[File:Thomas King Carroll (Maryland Governor).jpg|75px]]
+|style="color:inherit;background:{{party color|Jacksonian Party (United States)}};" title="Represented the Jacksonian Party"|
+|'''[[Thomas King Carroll]]'''<br>{{small|(1793–1873)}}<br>{{sfn|Sobel|1978|p=659}}<ref name="nga-carroll-thomas">{{Cite web |title=Thomas King Carroll |url=https://www.nga.org/governor/thomas-king-carroll/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616125521/https://www.nga.org/governor/thomas-king-carroll/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="md-carroll-thomas">{{Cite web |title=Thomas King Carroll |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001452/html/1452bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260609153047/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001452/html/1452bio2.html |archive-date=June 9, 2026 |url-status=live}}</ref>
+|data-sort-value="364"|January 15, 1830<ref>{{cite book |title=Journal of the Maryland House of Delegates, Dec. 1830 sess. |author=Maryland General Assembly |page=147 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003200/html/m3200-1456.html}}</ref><br>–<br>January 13, 1831<br />{{small|(364 days; lost election)}}
+|[[Jacksonian democracy|Jacksonian]]{{sfn|Dubin|2003|p=96}}
+|[[1830 Maryland gubernatorial election|1830]]
+|- style="height:2em;"
+!scope="row"|''20''
+|data-sort-value="Martin, Daniel"|[[File:No image.svg|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|National Republican Party}};" title="Represented the Anti-Jacksonian Party"|
+|'''[[Daniel Martin (politician)|Daniel Martin]]'''<br>{{small|(1780–1831)}}<br>{{sfn|Sobel|1978|pp=658–659}}<ref name="nga-martin" /><ref name="md-martin" />
+|data-sort-value="180"|January 13, 1831<ref>{{cite book |title=Journal of the Maryland Senate, Dec. 1830 sess. |author=Maryland General Assembly |page=43 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003189/html/m3189-0055.html}}</ref><br>–<br>July 11, 1831<br />{{small|(180 days; died in office)}}
+|[[National Republican Party|Anti-Jacksonian]]{{sfn|Dubin|2003|p=96}}
+|[[1831 Maryland gubernatorial election|1831]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|22
+|rowspan="2" data-sort-value="Howard, George"|[[File:George Howard (Maryland Governor).jpg|75px]]
+|rowspan="2"|'''[[George Howard (governor of Maryland)|George Howard]]'''<br>{{small|(1789–1846)}}<br>{{sfn|Sobel|1978|p=660}}<ref name="nga-howard-george">{{Cite web |title=George Howard |url=https://www.nga.org/governor/george-howard/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410191141/https://www.nga.org/governor/george-howard/ |archive-date=April 10, 2026 |url-status=live}}</ref><ref name="md-howard-george">{{Cite web |title=George Howard |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001453/html/1453extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260913151326/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001453/html/1453extbio.html |archive-date=September 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="557"|July 11, 1831<ref>{{Cite news |date=July 21, 1831 |title=The New Governor |page=4 |newspaper=The Torch Light And Public Advertiser |url=https://www.newspapers.com/article/the-torch-light-and-public-advertiser-ho/132065270/ |archive-url=https://web.archive.org/web/20231201055526/https://www.newspapers.com/article/the-torch-light-and-public-advertiser-ho/132065270/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 17, 1833<br />{{small|(557 days; retired)}}
+|rowspan="2"|[[National Republican Party|Anti-Jacksonian]]{{sfn|Dubin|2003|p=96}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Senior council<br />member acting}}
+|- style="height:2em;"
+|[[1832 Maryland gubernatorial election|1832]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|23
+|rowspan="3" data-sort-value="Thomas, James"|[[File:James Thomas (1785-1845).jpg|75px]]
+|rowspan="3"|'''[[James Thomas (Maryland politician)|James Thomas]]'''<br>{{small|(1785–1845)}}<br>{{sfn|Sobel|1978|pp=660–661}}<ref name="nga-thomas-james">{{Cite web |title=James Thomas |url=https://www.nga.org/governor/james-thomas/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314091531/https://www.nga.org/governor/james-thomas/ |archive-date=March 14, 2026 |url-status=live}}</ref><ref name="md-thomas-james">{{Cite web |title=James Thomas |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001454/html/1454extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20261002063235/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001454/html/1454extbio.html |archive-date=October 2, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1093"|January 17, 1833<ref>{{cite book |title=Journal of the Maryland Senate, Dec. 1833 sess. |author=Maryland General Assembly |page=48 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003189/html/m3189-0841.html}}</ref><br>–<br>January 14, 1836<br />{{small|(1093 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[National Republican Party|Anti-Jacksonian]]{{sfn|Dubin|2003|p=96}}
+|[[1833 Maryland gubernatorial election|1833]]
+|- style="height:2em;"
+|[[1834 Maryland gubernatorial election|1834]]
+|- style="height:2em;"
+|[[1835 Maryland gubernatorial election|1835]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|24
+|rowspan="3" data-sort-value="Veazey, Thomas"|[[File:Thomas Ward Veazey.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="3"|'''[[Thomas Veazey]]'''<br>{{small|(1774–1842)}}<br>{{sfn|Sobel|1978|pp=661–662}}<ref name="nga-veazey">{{cite web |title=Thomas Ward Veazey |url=https://www.nga.org/governor/thomas-ward-veazey/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613145204/https://www.nga.org/governor/thomas-ward-veazey/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="md-veazey">{{Cite web |title=Thomas W. Veazey |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001455/html/1455bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227200002/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001455/html/1455bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1090"|January 14, 1836<ref>{{cite book |title=Journal of the Maryland Senate, Dec. 1835 sess. |author=Maryland General Assembly |page=38 |url=https://msa.maryland.gov/megafile/msa/speccol/sc4800/sc4872/003190/html/m3190-0655.html}}</ref><br>–<br>January 7, 1839<br />{{small|(1090 days; term-limited)}}{{efn|Under an 1837 amendment to the constitution, elected governors were ineligible to succeed themselves.{{sfn|Thorpe|1909|p=1711|loc=1837 amend., § 23}}|name=limits-1837}}
+|rowspan="3"|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=96}}
+|[[1836 Maryland gubernatorial election|1836]]
+|- style="height:2em;"
+|[[1837 Maryland gubernatorial election|1837]]
+|- style="height:2em;"
+|[[January 1838 Maryland gubernatorial election|Jan. 1838]]
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Grason, William"|[[File:William Grason (Maryland Governor).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[William Grason]]'''<br>{{small|(1788–1868)}}<br>{{sfn|Sobel|1978|pp=662–663}}<ref name="nga-grason">{{cite web |title=William Grason |url=https://www.nga.org/governor/william-grason/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613150617/https://www.nga.org/governor/william-grason/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="md-grason">{{Cite web |title=William Grason |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001456/html/1456bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227195320/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001456/html/1456bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1093"|January 7, 1839<ref>{{Cite news |date=January 9, 1839 |title=Inauguration of Governor Grason |page=2 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-1939-inauguration-sp/22739269/ |archive-url=https://web.archive.org/web/20231201055529/https://www.newspapers.com/article/the-baltimore-sun-1939-inauguration-sp/22739269/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 3, 1842<br />{{small|(1093 days; term-limited)}}{{efn|name=limits-1837}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Dubin|2003|p=96}}
+|[[October 1838 Maryland gubernatorial election|Oct. 1838]]
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Thomas, Francis"|[[File:Francis Thomas of Maryland - photo portrait seated.jpg|75px]]
+|'''[[Francis Thomas]]'''<br>{{small|(1799–1876)}}<br>{{sfn|Sobel|1978|p=663}}<ref name="nga-thomas-francis">{{Cite web |title=Francis Thomas |url=https://www.nga.org/governor/francis-thomas/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510110104/https://www.nga.org/governor/francis-thomas/ |archive-date=May 10, 2026 |url-status=live}}</ref><ref name="md-thomas-francis">{{Cite web |title=Francis Thomas |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001457/html/1457extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260106210908/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001457/html/1457extbio.html |archive-date=January 6, 2026 |url-status=live}}</ref>
+|data-sort-value="1100"|January 3, 1842<ref>{{cite book |title=Journal of the Maryland House of Delegates, Dec. 1841 sess. |author=Maryland General Assembly |page=51 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000689/html/am689--51.html}}</ref><br>–<br>January 6, 1845<br />{{small|(1100 days; term-limited)}}{{efn|name=limits-1837}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Dubin|2003|p=97}}
+|[[1841 Maryland gubernatorial election|1841]]
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Pratt, Thomas"|[[File:Thomas Pratt by Dieterich, 1904.jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|'''[[Thomas Pratt (Maryland politician)|Thomas Pratt]]'''<br>{{small|(1804–1869)}}<br>{{sfn|Sobel|1978|p=664}}<ref name="nga-pratt">{{cite web |title=Thomas George Pratt |url=https://www.nga.org/governor/thomas-george-pratt/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314202800/https://www.nga.org/governor/thomas-george-pratt/ |archive-date=March 14, 2026 |url-status=live}}</ref><ref name="md-pratt">{{Cite web |title=Thomas G. Pratt |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001458/html/1458bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260122044948/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001458/html/1458bio2.html |archive-date=January 22, 2026 |url-status=live}}</ref>
+|data-sort-value="1093"|January 6, 1845<ref>{{cite book |title=Journal of the Maryland House of Delegates, Dec. 1844 sess. |author=Maryland General Assembly |page=34 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000691/html/am691--34.html}}</ref><br>–<br>January 3, 1848<br />{{small|(1093 days; term-limited)}}{{efn|name=limits-1837}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=97}}
+|[[1844 Maryland gubernatorial election|1844]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Thomas, Philip"|[[File:Philip Francis Thomas, sitting (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Philip Francis Thomas]]'''<br>{{small|(1810–1890)}}<br>{{sfn|Sobel|1978|pp=664–665}}<ref name="nga-thomas-philip">{{Cite web |title=Phillip Francis Thomas |url=https://www.nga.org/governor/phillip-francis-thomas/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260311165059/https://www.nga.org/governor/phillip-francis-thomas/ |archive-date=March 11, 2026 |url-status=live}}</ref><ref name="md-thomas-philip">{{Cite web |title=Philip Francis Thomas |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001459/html/1459bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227152845/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001459/html/1459bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1100"|January 3, 1848<ref>{{Cite news |date=January 4, 1848 |title=Inaugural Message of Governor Thomas |page=2 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-thomas-inaugurated-jan/132096705/ |archive-url=https://web.archive.org/web/20231201055531/https://www.newspapers.com/article/the-baltimore-sun-thomas-inaugurated-jan/132096705/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 6, 1851<br />{{small|(1100 days; term-limited)}}{{efn|name=limits-1837}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Dubin|2003|p=97}}
+|[[1847 Maryland gubernatorial election|1847]]
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Lowe, Enoch"|[[File:Enoch Louis Lowe 00.jpg|75px]]
+|'''[[Enoch Louis Lowe]]'''<br>{{small|(1820–1892)}}<br>{{sfn|Sobel|1978|pp=665–666}}<ref name="nga-lowe">{{cite web |title=Enoch Louis Lowe |url=https://www.nga.org/governor/enoch-louis-lowe/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512220922/https://www.nga.org/governor/enoch-louis-lowe/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="md-lowe">{{Cite web |title=Enoch Louis Lowe |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001460/html/1460extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227201538/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001460/html/1460extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1102"|January 6, 1851<ref>{{Cite news |publication-date=January 7, 1851 |date=January 6, 1851 |location=Annapolis, Maryland |publication-place=Baltimore |title=Proceedings of the Maryland Constitutional Reform Convention |page=1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-lowe-inaugurated-janua/132099012/ |archive-url=https://web.archive.org/web/20231201055530/https://www.newspapers.com/article/the-baltimore-sun-lowe-inaugurated-janua/132099012/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 11, 1854<br />{{small|(1102 days; retired)}}{{efn|Sobel says Lowe was limited from succeeding himself due to an 1846 amendment, but this appears to be in error.{{sfn|Sobel|1978|p=666}}}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Dubin|2003|p=97}}
+|[[1850 Maryland gubernatorial election|1850]]
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Ligon, Thomas"|[[File:Thomas ligon maryland.jpg|75px]]
+|'''[[Thomas Watkins Ligon]]'''<br>{{small|(1810–1881)}}<br>{{sfn|Sobel|1978|pp=666–667}}<ref name="nga-ligon">{{cite web |title=Thomas Watkins Ligon |url=https://www.nga.org/governor/thomas-watkins-ligon/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260307124203/https://www.nga.org/governor/thomas-watkins-ligon/ |archive-date=March 7, 2026 |url-status=live}}</ref><ref name="md-ligon">{{Cite web |title=Thomas Watkins Ligon |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001461/html/1461bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227220818/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001461/html/1461bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1854<ref>{{Cite news |date=January 12, 1854 |title=Inauguration of Gov. Ligon |page=2 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-ligon-inaugurated-janu/132099103/ |archive-url=https://web.archive.org/web/20231201055531/https://www.newspapers.com/article/the-baltimore-sun-ligon-inaugurated-janu/132099103/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 13, 1858<br />{{small|(1464 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Dubin|2003|p=98}}
+|[[1853 Maryland gubernatorial election|1853]]
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Hicks, Thomas"|[[File:Thomas H. Hicks, Md - NARA - 525674 (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Know Nothing}};" title="Represented the American Party"|
+|'''[[Thomas Holliday Hicks]]'''<br>{{small|(1798–1865)}}<br>{{sfn|Sobel|1978|p=667}}<ref name="nga-hicks">{{cite web |title=Thomas Holliday Hicks |url=https://www.nga.org/governor/thomas-holliday-hicks/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422111718/https://www.nga.org/governor/thomas-holliday-hicks/ |archive-date=April 22, 2026 |url-status=live}}</ref><ref name="md-hicks">{{Cite web |title=Thomas Holliday Hicks |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001462/html/1462extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251226235933/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001462/html/1462extbio.html |archive-date=December 26, 2025 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1858<ref>{{cite book |title=Journal of the Maryland House of Delegates, Jan. 1858 sess. |author=Maryland General Assembly |page=49 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000665/html/am665--49.html}}</ref><br>–<br>January 8, 1862<br />{{small|(1457 days; retired)}}
+|[[Know Nothing|American]]{{sfn|Dubin|2003|p=98}}
+|[[1857 Maryland gubernatorial election|1857]]
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Bradford, Augustus"|[[File:Augustus Williamson Bradford - photo portrait standing (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Unionist politician (American Civil War)}};" title="Represented the Union Party"|
+|'''[[Augustus Bradford]]'''<br>{{small|(1806–1881)}}<br>{{sfn|Sobel|1978|p=668}}<ref name="nga-bradford">{{cite web |title=Augustus Williamson Bradford |url=https://www.nga.org/governor/augustus-williamson-bradford/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260208132630/https://www.nga.org/governor/augustus-williamson-bradford/ |archive-date=February 8, 2026 |url-status=live}}</ref><ref name="md-bradford">{{Cite web |title=Augustus W. Bradford |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001463/html/1463bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260609152556/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001463/html/1463bio2.html |archive-date=June 9, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1862<ref>{{cite book |title=Journal of the Maryland Senate, Jan. 1862 sess. |author=Maryland General Assembly |page=88 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000756/html/am756--88.html}}</ref><br>–<br>January 10, 1866<br />{{small|(1464 days; retired)}}
+|[[Unionist politician (American Civil War)|Union]]{{sfn|Kallenbach|1977|p=254}}
+|[[1861 Maryland gubernatorial election|1861]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Swann, Thomas"|[[File:Thomas Swann of Maryland, sitting.jpg|75px]]
+|'''[[Thomas Swann]]'''<br>{{small|(1809–1883)}}<br>{{sfn|Sobel|1978|p=669}}<ref name="nga-swann">{{cite web |title=Thomas Swann |url=https://www.nga.org/governor/thomas-swann/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612142924/https://www.nga.org/governor/thomas-swann/ |archive-date=June 12, 2026 |url-status=live}}</ref><ref name="md-swann">{{Cite web |title=Thomas Swann |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001464/html/1464extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227190420/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001464/html/1464extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1100"|January 10, 1866{{sfn|Kallenbach|1977|p=254}}<br>–<br>January 13, 1869<br />{{small|(1100 days; retired)}}
+|[[Unionist politician (American Civil War)|Union]]{{sfn|Kallenbach|1977|p=254}}
+|[[1864 Maryland gubernatorial election|1864]]
+|style="background: {{party color|Unionist politician (American Civil War)}};" title="Represented the Union Party"|
+|{{sortname|Christopher Christian|Cox}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Bowie, Oden"|[[File:Governor oden bowie of maryland.jpg|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Oden Bowie]]'''<br>{{small|(1826–1894)}}<br>{{sfn|Sobel|1978|p=670}}<ref name="nga-bowie-oden">{{Cite web |title=Oden Bowie |url=https://www.nga.org/governor/oden-bowie/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607081429/https://www.nga.org/governor/oden-bowie/ |archive-date=June 7, 2026 |url-status=live}}</ref><ref name="md-bowie-oden">{{Cite web |title=Oden Bowie |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001465/html/1465bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260212212111/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001465/html/1465bio2.html |archive-date=February 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1093"|January 13, 1869<ref>{{Cite news |date=January 14, 1869 |title=Inauguration of Governor Bowie |page=1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-bowie-inaugurated-janu/132100353/ |archive-url=https://web.archive.org/web/20231201055530/https://www.newspapers.com/article/the-baltimore-sun-bowie-inaugurated-janu/132100353/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 10, 1872<br />{{small|(1093 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=254}}
+|[[1867 Maryland gubernatorial election|1867]]
+|style="background:#EEEEEE; color:inherit;" colspan="2" rowspan="29"|''Office did not exist''
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Whyte, William"|[[File:Williampinkneywhite.jpg|75px]]
+|'''[[William Pinkney Whyte]]'''<br>{{small|(1824–1908)}}<br>{{sfn|Sobel|1978|pp=670–671}}<ref name="nga-whyte">{{cite web |title=William Pinkney Whyte |url=https://www.nga.org/governor/william-pinkney-whyte/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617065734/https://www.nga.org/governor/william-pinkney-whyte/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="md-whyte">{{Cite web |title=William Pinkney Whyte |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001466/html/1466bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052807/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001466/html/1466bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="785"|January 10, 1872<ref>{{cite book |title=Journal of the Maryland Senate, Jan. 1872 sess. |author=Maryland General Assembly |page=31 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000190/html/am190--1638.html}}</ref><br>–<br>March 4, 1874<br />{{small|(785 days; resigned)}}{{efn|Whyte resigned, having been [[1874 United States Senate election in Maryland|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=671}}}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=254}}
+|[[1871 Maryland gubernatorial election|1871]]
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Groome, James"|[[File:James Black Groome, sitting.jpg|75px]]
+|'''[[James Black Groome]]'''<br>{{small|(1838–1893)}}<br>{{sfn|Sobel|1978|pp=671–672}}<ref name="nga-groome">{{cite web |title=James Black Groome |url=https://www.nga.org/governor/james-black-groome/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260208103718/https://www.nga.org/governor/james-black-groome/ |archive-date=February 8, 2026 |url-status=live}}</ref><ref name="md-groome">{{Cite web |title=James Black Groome |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001467/html/1467bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052820/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001467/html/1467bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="680"|March 4, 1874<ref>{{cite book |title=Journal of the Maryland Senate, Jan. 1874 sess. |author=Maryland General Assembly |page=472 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000211/html/am211--472.html}}</ref><br>–<br>January 12, 1876<br />{{small|(680 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=254}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Elected<br />governor by<br />legislature}}
+|- style="height:2em;"
+!scope="row"|37
+|data-sort-value="Carroll, John"|[[File:John Lee Carroll (Maryland Governor).jpg|75px]]
+|'''[[John Lee Carroll]]'''<br>{{small|(1830–1911)}}<br>{{sfn|Sobel|1978|p=672}}<ref name="nga-carroll-john">{{Cite web |title=John Lee Carroll |url=https://www.nga.org/governor/john-lee-carroll/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260216083204/https://www.nga.org/governor/john-lee-carroll/ |archive-date=February 16, 2026 |url-status=live}}</ref><ref name="md-carroll-john">{{Cite web |title=John Lee Carroll |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001468/html/1468extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052605/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001468/html/1468extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1876<ref>{{cite book |title=Journal of the Maryland Senate, Jan. 1876 sess. |author=Maryland General Assembly |page=29 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000414/html/am414--29.html}}</ref><br>–<br>January 14, 1880<br />{{small|(1464 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=254}}
+|[[1875 Maryland gubernatorial election|1875]]
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Hamilton, William"|[[File:Williamthamilton.jpg|75px]]
+|'''[[William T. Hamilton]]'''<br>{{small|(1820–1888)}}<br>{{sfn|Sobel|1978|p=673}}<ref name="nga-hamilton">{{cite web |title=William Thomas Hamilton |url=https://www.nga.org/governor/william-thomas-hamilton/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612151115/https://www.nga.org/governor/william-thomas-hamilton/ |archive-date=June 12, 2026 |url-status=live}}</ref><ref name="md-hamilton">{{Cite web |title=William T. Hamilton |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001469/html/1469extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052711/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001469/html/1469extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1880<ref>{{Cite news |publication-date=January 15, 1880 |date=January 14, 1880 |location=Annapolis, Maryland |publication-place=Baltimore |title=The Governor's Inauguration |page=1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-hamilton-inaugurated-j/132183403/ |archive-url=https://web.archive.org/web/20231201055535/https://www.newspapers.com/article/the-baltimore-sun-hamilton-inaugurated-j/132183403/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 9, 1884<br />{{small|(1457 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1879 Maryland gubernatorial election|1879]]
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="McLane, Robert"|[[File:Governor robert mclane of maryland.jpg|75px]]
+|'''[[Robert Milligan McLane]]'''<br>{{small|(1815–1898)}}<br>{{sfn|Sobel|1978|pp=673–674}}<ref name="nga-mclane">{{cite web |title=Robert Milligan McLane |url=https://www.nga.org/governor/robert-milligan-mclane/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510114009/https://www.nga.org/governor/robert-milligan-mclane/ |archive-date=May 10, 2026 |url-status=live}}</ref><ref name="md-mclane">{{Cite web |title=Robert M. McLane |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001470/html/1470bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260923000702/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001470/html/1470bio2.html |archive-date=September 23, 2026 |url-status=live}}</ref>
+|data-sort-value="444"|January 9, 1884<ref>{{Cite news |publication-date=January 10, 1884 |date=January 9, 1884 |location=Annapolis, Maryland |publication-place=Baltimore |title=Gov. Robert M. M'Lane |page=1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-mclane-inaugurated-jan/132183506/ |archive-url=https://web.archive.org/web/20231201055533/https://www.newspapers.com/article/the-baltimore-sun-mclane-inaugurated-jan/132183506/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>March 27, 1885<br />{{small|(444 days; resigned)}}{{efn|McLane resigned, having been confirmed as [[List of ambassadors of the United States to France|United States Minister to France]].{{sfn|Sobel|1978|p=674}}}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1883 Maryland gubernatorial election|1883]]
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Lloyd, Henry"|[[File:Henry Lloyd (Maryland Governor).jpg|75px]]
+|'''[[Henry Lloyd (governor)|Henry Lloyd]]'''<br>{{small|(1852–1920)}}<br>{{sfn|Sobel|1978|p=674}}<ref name="nga-lloyd-henry">{{Cite web |title=Henry Lloyd |url=https://www.nga.org/governor/henry-lloyd/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260824194942/https://www.nga.org/governor/henry-lloyd/ |archive-date=August 24, 2026 |url-status=live}}</ref><ref name="md-lloyd-henry">{{Cite web |title=Henry Lloyd |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001471/html/1471bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052658/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001471/html/1471bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1021"|March 27, 1885<ref>{{Cite news |date=March 27, 1885 |title=Gov. McLane's Resignation |page=1 |newspaper=[[The Capital|Evening Capital]] |url=https://www.newspapers.com/article/evening-capital-lloyd-succeeds-mclane-ma/132183625/ |archive-url=https://web.archive.org/web/20231201055532/https://www.newspapers.com/article/evening-capital-lloyd-succeeds-mclane-ma/132183625/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 11, 1888<br />{{small|(1021 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of the<br />Senate acting}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Jackson, Elihu"|[[File:Governor elihu emory jackson of maryland.jpg|75px]]
+|'''[[Elihu Emory Jackson]]'''<br>{{small|(1837–1907)}}<br>{{sfn|Sobel|1978|pp=674–675}}<ref name="nga-jackson">{{cite web |title=Elihu Emory Jackson |url=https://www.nga.org/governor/elihu-emory-jackson/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422114706/https://www.nga.org/governor/elihu-emory-jackson/ |archive-date=April 22, 2026 |url-status=live}}</ref><ref name="md-jackson">{{Cite web |title=Elihu E. Jackson |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001472/html/1472bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260121034603/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001472/html/1472bio2.html |archive-date=January 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1888<ref>{{Cite news |date=January 11, 1888 |title=The Inauguration |page=4 |newspaper=[[The Capital|Evening Capital]] |url=https://www.newspapers.com/article/evening-capital-jackson-inaugurated-janu/132183747/ |archive-url=https://web.archive.org/web/20231201055531/https://www.newspapers.com/article/evening-capital-jackson-inaugurated-janu/132183747/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 13, 1892<br />{{small|(1464 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1887 Maryland gubernatorial election|1887]]
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Brown, Frank"|[[File:Frank Brown, Maryland governor, portrait.jpg|75px]]
+|'''[[Frank Brown (politician)|Frank Brown]]'''<br>{{small|(1846–1920)}}<br>{{sfn|Sobel|1978|p=675}}<ref name="nga-brown">{{cite web |title=Frank Brown |url=https://www.nga.org/governor/frank-brown/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417192909/https://www.nga.org/governor/frank-brown/ |archive-date=April 17, 2026 |url-status=live}}</ref><ref name="md-brown">{{Cite web |title=Frank Brown |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001473/html/1473extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052719/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001473/html/1473extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1892<ref>{{cite book |title=Journal of the Maryland Senate, Jan. 1892 sess. |author=Maryland General Assembly |page=34 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000400/html/am400--34.html}}</ref><br>–<br>January 8, 1896<br />{{small|(1457 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1891 Maryland gubernatorial election|1891]]
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Lowndes, Lloyd"|[[File:Governor lloyd lowndes of maryland.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Lloyd Lowndes Jr.]]'''<br>{{small|(1845–1905)}}<br>{{sfn|Sobel|1978|p=676}}<ref name="nga-lowndes">{{cite web |title=Lloyd Lowndes |url=https://www.nga.org/governor/lloyd-lowndes/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260416233249/https://www.nga.org/governor/lloyd-lowndes/ |archive-date=April 16, 2026 |url-status=live}}</ref><ref name="md-lowndes">{{Cite web |title=Lloyd Lowndes, Jr. |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001474/html/1474extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052710/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001474/html/1474extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1896<ref>{{Cite news |date=January 8, 1896 |title=Maryland's Republican Governor |page=1 |newspaper=[[The Capital|Evening Capital]] |url=https://www.newspapers.com/article/evening-capital-lowndes-inaugurated-janu/132187594/ |archive-url=https://web.archive.org/web/20231201055533/https://www.newspapers.com/article/evening-capital-lowndes-inaugurated-janu/132187594/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 10, 1900<br>{{small|(1464 days; lost election)}}
+|[[Maryland Republican Party|Republican]]{{sfn|Kallenbach|1977|p=255}}
+|[[1895 Maryland gubernatorial election|1895]]
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Smith, John"|[[File:John Walter Smith, photo portrait head and shoulders.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John Walter Smith]]'''<br>{{small|(1845–1925)}}<br>{{sfn|Sobel|1978|pp=676–677}}<ref name="nga-smith">{{cite web |title=John Walter Smith |url=https://www.nga.org/governor/john-walter-smith/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521014713/https://www.nga.org/governor/john-walter-smith/ |archive-date=May 21, 2026 |url-status=live}}</ref><ref name="md-smith">{{Cite web |title=John Walter Smith |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001475/html/1475extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052712/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001475/html/1475extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1900<ref>{{cite book |title=Journal of the Maryland Senate, Jan. 1900 sess. |author=Maryland General Assembly |page=37 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000096/html/am96--37.html}}</ref><br>–<br>January 13, 1904<br />{{small|(1464 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1899 Maryland gubernatorial election|1899]]
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Warfield, Edwin"|[[File:Edwin Warfield of Maryland, sitting.jpg|75px]]
+|'''[[Edwin Warfield]]'''<br>{{small|(1848–1920)}}<br>{{sfn|Sobel|1978|p=677}}<ref name="nga-warfield">{{cite web |title=Edwin Warfield |url=https://www.nga.org/governor/edwin-warfield/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260308140439/https://www.nga.org/governor/edwin-warfield/ |archive-date=March 8, 2026 |url-status=live}}</ref><ref name="md-warfield">{{Cite web |title=Edwin Warfield |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001476/html/1476bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052710/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001476/html/1476bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1904<ref>{{cite book |title=Journal of the Maryland Senate, Jan. 1904 sess. |author=Maryland General Assembly |page=85 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000401/html/am401--85.html}}</ref><br>–<br>January 8, 1908<br />{{small|(1457 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1903 Maryland gubernatorial election|1903]]
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Crothers, Austin"|[[File:Austin Lane Crothers, photograph of head with top hat.jpg|75px]]
+|'''[[Austin Lane Crothers]]'''<br>{{small|(1860–1912)}}<br>{{sfn|Sobel|1978|p=678}}<ref name="nga-crothers">{{cite web |title=Austin Lane Crothers |url=https://www.nga.org/governor/austin-lane-crothers/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517091111/https://www.nga.org/governor/austin-lane-crothers/ |archive-date=May 17, 2026 |url-status=live}}</ref><ref name="md-crothers">{{Cite web |title=Austin Lane Crothers |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001477/html/1477extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052723/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001477/html/1477extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1908<ref>{{Cite news |date=January 9, 1908 |title=New Governor Plights Faith to the People |page=1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-crothers-inaugurated-j/132189125/ |archive-url=https://web.archive.org/web/20231201055533/https://www.newspapers.com/article/the-baltimore-sun-crothers-inaugurated-j/132189125/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 10, 1912<br />{{small|(1464 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1907 Maryland gubernatorial election|1907]]
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Goldsborough, Phillips"|[[File:Governor phillips goldborough of maryland.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Phillips Lee Goldsborough]]'''<br>{{small|(1865–1946)}}<br>{{sfn|Sobel|1978|pp=678–679}}<ref name="nga-goldsborough-phillips">{{Cite web |title=Phillips Lee Goldsborough |url=https://www.nga.org/governor/phillips-lee-goldsborough/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519094244/https://www.nga.org/governor/phillips-lee-goldsborough/ |archive-date=May 19, 2026 |url-status=live}}</ref><ref name="md-goldsborough-phillips">{{Cite web |title=Phillips Lee Goldsborough |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001478/html/1478extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260130214052/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001478/html/1478extbio.html |archive-date=January 30, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1912<ref>{{Cite news |date=January 10, 1912 |location=Annapolis, Maryland |publication-place=Baltimore |title=Gov. Goldsborough Welcomed by Throng in Cold White Capital |page=1 |newspaper=[[The Baltimore Sun|The Evening Sun]] |url=https://www.newspapers.com/article/the-evening-sun-goldsborough-inaugurated/132214272/ |archive-url=https://web.archive.org/web/20231201055534/https://www.newspapers.com/article/the-evening-sun-goldsborough-inaugurated/132214272/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 12, 1916<br />{{small|(1464 days; retired)}}
+|[[Maryland Republican Party|Republican]]{{sfn|Kallenbach|1977|p=255}}
+|[[1911 Maryland gubernatorial election|1911]]
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Harrington, Emerson"|[[File:Emerson Harrington, Bachrach photo portrait, 1919 (cropped).jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Emerson Harrington]]'''<br>{{small|(1864–1945)}}<br>{{sfn|Sobel|1978|p=679}}<ref name="nga-harrington">{{cite web |title=Emerson Columbus Harrington |url=https://www.nga.org/governor/emerson-columbus-harrington/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710073214/https://www.nga.org/governor/emerson-columbus-harrington/ |archive-date=July 10, 2026 |url-status=live}}</ref><ref name="md-harrington">{{Cite web |title=Emerson C. Harrington |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001479/html/1479bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052726/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001479/html/1479bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1916<ref>{{cite book |title=Journal of the Maryland Senate, Jan 1916 sess. |author=Maryland General Assembly |page=55 |url=https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000658/html/am658--55.html}}</ref><br>–<br>January 14, 1920<br />{{small|(1464 days; retired)}}
+|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1915 Maryland gubernatorial election|1915]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|49
+|rowspan="4" data-sort-value="Ritchie, Albert"|[[File:Albert Ritchie cph.3b33171.jpg|75px]]
+|rowspan="4"|'''[[Albert Ritchie]]'''<br>{{small|(1876–1936)}}<br>{{sfn|Sobel|1978|p=680}}<ref name="nga-ritchie">{{cite web |title=Albert Cabell Ritchie |url=https://www.nga.org/governor/albert-cabell-ritchie/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415034521/https://www.nga.org/governor/albert-cabell-ritchie/ |archive-date=April 15, 2026 |url-status=live}}</ref><ref name="md-ritchie">{{Cite web |title=Albert C. Ritchie |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001480/html/1480extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260414091512/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001480/html/1480extbio.html |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="5475"|January 14, 1920<ref>{{Cite news |date=January 14, 1920 |title=Distinguished Throng Present for Inauguration of Governor Albert C. Ritchie at State House Today |page=1 |newspaper=[[The Capital|Evening Capital]] |url=https://www.newspapers.com/article/evening-capital-ritchie-inaugurated-janu/132214418/ |archive-url=https://web.archive.org/web/20231201055534/https://www.newspapers.com/article/evening-capital-ritchie-inaugurated-janu/132214418/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 9, 1935<br>{{small|(5475 days; lost election)}}
+|rowspan="4"|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1919 Maryland gubernatorial election|1919]]
+|- style="height:2em;"
+|[[1923 Maryland gubernatorial election|1923]]
+|- style="height:2em;"
+|[[1926 Maryland gubernatorial election|1926]]
+|- style="height:2em;"
+|[[1930 Maryland gubernatorial election|1930]]
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Nice, Harry"|[[File:Harry W. Nice circa 1918 (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Harry Nice]]'''<br>{{small|(1877–1941)}}<br>{{sfn|Sobel|1978|pp=680–681}}<ref name="nga-nice">{{cite web |title=Harry Whinna Nice |url=https://www.nga.org/governor/harry-whinna-nice/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260713213241/https://www.nga.org/governor/harry-whinna-nice/ |archive-date=July 13, 2026 |url-status=live}}</ref><ref name="md-nice">{{Cite web |title=Harry W. Nice |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001481/html/bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052627/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001481/html/bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1935<ref>{{Cite news |date=January 9, 1935 |title=Nice Calls for Speedy Aid to Needy |page=1 |location=Annapolis, Maryland |publication-place=Baltimore |newspaper=[[The Baltimore Sun|The Evening Sun]] |url=https://www.newspapers.com/article/the-evening-sun-nice-inaugurated-january/132214468/ |archive-url=https://web.archive.org/web/20231201055535/https://www.newspapers.com/article/the-evening-sun-nice-inaugurated-january/132214468/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 11, 1939<br>{{small|(1464 days; lost election)}}
+|[[Maryland Republican Party|Republican]]{{sfn|Kallenbach|1977|p=255}}
+|[[1934 Maryland gubernatorial election|1934]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|51
+|rowspan="2" data-sort-value="O'Conor, Herbert"|[[File:Herbert O'Conor (MD).png|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Herbert O'Conor]]'''<br>{{small|(1896–1960)}}<br>{{sfn|Sobel|1978|p=681}}<ref name="nga-oconor">{{cite web |title=Herbert Romulus O'Conor |url=https://www.nga.org/governor/herbert-romulus-oconor/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512212258/https://www.nga.org/governor/herbert-romulus-oconor/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="md-oconor">{{Cite web |title=Herbert R. O'Conor |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001482/html/1482extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052834/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001482/html/1482extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2915"|January 11, 1939<ref>{{Cite news |last=O'Donnell |first=Louis J. |publication-date=January 12, 1939 |date=January 11, 1939 |location=Annapolis, Maryland |publication-place=Baltimore |title=State Faces New Taxes, O'Conor Declares After Taking Oath As Governor |page=1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-oconor-inaugurated-ja/132214508/ |archive-url=https://web.archive.org/web/20231201055536/https://www.newspapers.com/article/the-baltimore-sun-oconor-inaugurated-ja/132214508/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 3, 1947<br>{{small|(2915 days; resigned)}}{{efn|O'Conor resigned, having been [[1946 United States Senate election in Maryland|elected]] to the [[United States Senate]]. Lane, who won the election, was elected by the legislature to succeed O'Conor immediately, five days before he would have taken office.<ref>{{Cite news |last=O'Neill |first=Thomas |publication-date=January 3, 1947 |date=January 2, 1947 |location=Annapolis, Maryland |publication-place=Baltimore |title=Lane Elected Governor by Legislature |page=26 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-lane-succeeds-oconor/132214667/ |archive-url=https://web.archive.org/web/20231201055536/https://www.newspapers.com/article/the-baltimore-sun-lane-succeeds-oconor/132214667/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref>|name=oconor-lane}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1938 Maryland gubernatorial election|1938]]
+|- style="height:2em;"
+|[[1942 Maryland gubernatorial election|1942]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|52
+|rowspan="2" data-sort-value="Lane, William"|[[File:William Preston Lane (cropped).jpg|75px]]
+|rowspan="2"|'''[[William Preston Lane Jr.]]'''<br>{{small|(1892–1967)}}<br>{{sfn|Sobel|1978|p=682}}<ref name="nga-lane">{{cite web |title=William Preston Lane |url=https://www.nga.org/governor/william-preston-lane/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414062145/https://www.nga.org/governor/william-preston-lane/ |archive-date=April 14, 2026 |url-status=live}}</ref><ref name="md-lane">{{Cite web |title=William Preston Lane, Jr. |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001483/html/bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052735/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001483/html/bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1469"|January 3, 1947{{efn|name=oconor-lane}}<br>–<br>January 10, 1951<br>{{small|(1469 days; lost election)}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Elected by<br />legislature}}{{efn|name=oconor-lane}}
+|- style="height:2em;"
+|[[1946 Maryland gubernatorial election|1946]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|53
+|rowspan="2" data-sort-value="McKeldin, Theodore"|[[File:MarylandGovnr (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Theodore McKeldin]]'''<br>{{small|(1900–1974)}}<br>{{sfn|Sobel|1978|pp=682–683}}<ref name="nga-mckeldin">{{cite web |title=Theodore Roosevelt McKeldin |url=https://www.nga.org/governor/theodore-roosevelt-mckeldin/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260724095513/https://www.nga.org/governor/theodore-roosevelt-mckeldin/ |archive-date=July 24, 2026 |url-status=live}}</ref><ref name="md-mckeldin">{{Cite web |title=Theodore R. McKeldin |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001484/html/1484extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260211060830/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001484/html/1484extbio.html |archive-date=February 11, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 10, 1951<ref>{{Cite news |last=Jacobs |first=Bradford |date=January 10, 1951 |location=Annapolis, Maryland |publication-place=Baltimore |title=New Governor Takes Office; Lays Stress on Civil Defense |page=1 |newspaper=[[The Baltimore Sun|The Evening Sun]] |url=https://www.newspapers.com/article/the-evening-sun-mckeldin-inaugurated-jan/132244119/ |archive-url=https://web.archive.org/web/20231201055539/https://www.newspapers.com/article/the-evening-sun-mckeldin-inaugurated-jan/132244119/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 14, 1959<br>{{small|(2927 days; term-limited)}}{{efn|Under a 1948 amendment to the constitution, governors who have served two consecutive elected terms are ineligible for the next term.<ref name="amend1948" />|name=limits-1948}}
+|rowspan="2"|[[Maryland Republican Party|Republican]]{{sfn|Kallenbach|1977|p=255}}
+|[[1950 Maryland gubernatorial election|1950]]
+|- style="height:2em;"
+|[[1954 Maryland gubernatorial election|1954]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|54
+|rowspan="2" data-sort-value="Tawes, J"|[[File:J Millard Tawes.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[J. Millard Tawes]]'''<br>{{small|(1894–1979)}}<br>{{sfn|Sobel|1978|pp=683–684}}<ref name="nga-tawes">{{cite web |title=J. Millard Tawes |url=https://www.nga.org/governor/j-millard-tawes/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260704125111/https://www.nga.org/governor/j-millard-tawes/ |archive-date=July 4, 2026 |url-status=live}}</ref><ref name="md-tawes">{{Cite web |title=J. Millard Tawes |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001485/html/bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251228003058/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001485/html/bio2.html |archive-date=December 28, 2025 |url-status=live}}</ref> 
+|rowspan="2" data-sort-value="2934"|January 14, 1959<ref>{{Cite news |date=January 15, 1959 |title=Tawes Sworn In As 59th Governor of Maryland |page=2 |location=Annapolis, Maryland |publication-place=Cumberland, Maryland |newspaper=[[Cumberland Times-News|Cumberland News]] |agency=Associated Press |url=https://www.newspapers.com/article/the-cumberland-news-tawes-inaugurated-ja/132244267/ |archive-url=https://web.archive.org/web/20231201055537/https://www.newspapers.com/article/the-cumberland-news-tawes-inaugurated-ja/132244267/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 25, 1967<br>{{small|(2934 days; term-limited)}}{{efn|name=limits-1948}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1958 Maryland gubernatorial election|1958]]
+|- style="height:2em;"
+|[[1962 Maryland gubernatorial election|1962]]
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Agnew, Spiro"|[[File:Spiro Agnew (MD).png|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Spiro Agnew]]'''<br>{{small|(1918–1996)}}<br>{{sfn|Sobel|1978|p=684}}<ref name="nga-agnew">{{cite web |title=Spiro Theodore Agnew |url=https://www.nga.org/governor/spiro-theodore-agnew/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512222419/https://www.nga.org/governor/spiro-theodore-agnew/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="md-agnew">{{Cite web |title=Spiro T. Agnew |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001486/html/1486extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260520064432/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001486/html/1486extbio.html |archive-date=May 20, 2026 |url-status=live}}</ref>
+|data-sort-value="724"|January 25, 1967<ref>{{Cite news |last=Levine |first=Richard H. |publication-date=January 26, 1967 |date=January 25, 1967 |location=Annapolis, Maryland |publication-place=Baltimore |title=Agnew Takes Oath As 5th GOP Governor |page=C20 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-agnew-inaugurated-janu/132244367/ |archive-url=https://web.archive.org/web/20231201055537/https://www.newspapers.com/article/the-baltimore-sun-agnew-inaugurated-janu/132244367/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 7, 1969<br>{{small|(714 days; resigned)}}{{efn|Agnew resigned, having been [[1968 United States presidential election|elected]] [[Vice President of the United States]].{{sfn|Sobel|1978|p=684}}}}
+|[[Maryland Republican Party|Republican]]{{sfn|Kallenbach|1977|p=255}}
+|[[1966 Maryland gubernatorial election|1966]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|56
+|rowspan="3" data-sort-value="Mandel, Marvin"|[[File:Marvin Mandel (MD).png|75px]]
+|rowspan="10" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[Marvin Mandel]]'''<br>{{small|(1920–2015)}}<br>{{sfn|Sobel|1978|p=685}}<ref name="nga-mandel">{{cite web |title=Marvin Mandel |url=https://www.nga.org/governor/marvin-mandel/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521015134/https://www.nga.org/governor/marvin-mandel/ |archive-date=May 21, 2026 |url-status=live}}</ref><ref name="md-mandel">{{Cite web |title=Marvin Mandel |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001487/html/1487bio2.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227205915/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001487/html/1487bio2.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="3663"|January 7, 1969<ref>{{Cite news |last=Whiteford |first=Charles |publication-date=January 8, 1969 |date=January 7, 1969 |location=Annapolis, Maryland |publication-place=Baltimore |title=Mandel Wins Race for Governor With Large Margin in Assembly; Vows Vigorous Administration |page=A1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-mandel-inaugurated-jan/132244447/ |archive-url=https://web.archive.org/web/20231201055535/https://www.newspapers.com/article/the-baltimore-sun-mandel-inaugurated-jan/132244447/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 17, 1979<br>{{small|(3663 days; term-limited)}}{{efn|name=limits-1948}}
+|rowspan="3"|[[Maryland Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=255}}
+|[[1969 Maryland gubernatorial special election|1969]]<br>{{small|(special)}}{{efn|Mandel was elected by the [[Maryland General Assembly]] to fill the vacancy left by Agnew's resignation.}}
+|rowspan="10" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Blair|Lee III}}
+|- style="height:2em;"
+|[[1970 Maryland gubernatorial election|1970]]
+|- style="height:2em;"
+|[[1974 Maryland gubernatorial election|1974]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Lee, Blair"|[[File:Blair Lee III (Maryland governor).jpg|75px]]
+|'''[[Blair Lee III]]'''<br>{{small|(1916–1985)}}<br>{{sfn|Sobel|1978|pp=685–686}}<ref name="nga-lee-blair">{{Cite web |title=Blair Lee |url=https://www.nga.org/governor/blair-lee/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260904011240/https://www.nga.org/governor/blair-lee/ |archive-date=September 4, 2026 |url-status=live}}</ref><ref name="md-lee-blair">{{Cite web |title=Blair Lee III |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001491/html/1491extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227052753/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001491/html/1491extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|data-sort-value="591"|June 4, 1977{{efn|name=mandel-lee}}<br>–<br>January 15, 1979<br>{{small|(591 days;<br>lost nomination)}}
+|[[Maryland Democratic Party|Democratic]]<ref name="nga-lee-blair" />
+|style="background:#EEEEEE; color:inherit;"|{{small|Lieutenant<br>governor<br>acting}}{{efn|Mandel named Lieutenant Governor Lee acting governor on June 4, 1977, as he was dealing with charges of mail fraud and racketeering, and citing health reasons;<ref>{{Cite news |last=Luxenberg |first=Steven M. |date=June 5, 1977 |title=Mandel Yields Power of Office to Lee |page=A1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-lee-becomes-acting-gov/132244649/ |archive-url=https://web.archive.org/web/20231201055541/https://www.newspapers.com/article/the-baltimore-sun-lee-becomes-acting-gov/132244649/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref> he would be found guilty in August, and sentenced to four years in prison in October. He rescinded the designation on January 15, 1979, two days before the end of the term; he then made Lee acting governor again for a time on January 16 so he could preside at the installation of a judge on the Court of Appeals.<ref name="md-lee-blair" />{{sfn|Sobel|1978|p=685}}|name=mandel-lee}}
+|style="background:#EEEEEE; color:inherit;"|''Acting as governor''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|57
+|rowspan="2" data-sort-value="Hughes, Harry"|[[File:Maryland Governor Harry Hughes speaking at Fort Belvoir, Feb 16, 1985 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Harry Hughes]]'''<br>{{small|(1926–2019)}}<br><ref name="nga-hughes">{{cite web |title=Harry Roe Hughes |url=https://www.nga.org/governor/harry-roe-hughes/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260703143403/https://www.nga.org/governor/harry-roe-hughes/ |archive-date=July 3, 2026 |url-status=live}}</ref><ref name="md-hughes">{{Cite web |title=Harry R. Hughes |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001488/html/1488extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251228033826/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001488/html/1488extbio.html |archive-date=December 28, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 17, 1979<ref>{{Cite news |last=Phelps |first=Timothy M. |last2=Kimelman |first2=Donald |date=January 18, 1979 |title=Hughes Pledges Break With Past in His Inaugural |location=Annapolis, Maryland |publication-place=Baltimore |page=A1 |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-hughes-inaugurated-jan/132244753/ |archive-url=https://web.archive.org/web/20231201055543/https://www.newspapers.com/article/the-baltimore-sun-hughes-inaugurated-jan/132244753/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 21, 1987<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1948}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]<ref name="nga-hughes" />
+|[[1978 Maryland gubernatorial election|1978]]
+|{{sortname|Samuel|Bogley}}
+|- style="height:2em;"
+|[[1982 Maryland gubernatorial election|1982]]
+|{{sortname|J. Joseph|Curran Jr.}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|58
+|rowspan="2" data-sort-value="Schaefer, William"|[[File:William Donald Schaefer.jpg|75px]]
+|rowspan="2"|'''[[William Donald Schaefer]]'''<br>{{small|(1921–2011)}}<br>{{sfn|Mullaney|1994|pp=168–173}}<ref name="nga-schaefer">{{cite web |title=William Donald Schaefer |url=https://www.nga.org/governor/william-donald-schaefer/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612135925/https://www.nga.org/governor/william-donald-schaefer/ |archive-date=June 12, 2026 |url-status=live}}</ref><ref name="md-schaefer">{{Cite web |title=William Donald Schaefer |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001489/html/extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251227210126/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001489/html/extbio.html |archive-date=December 27, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 21, 1987<ref>{{Cite news |last=Frece |first=John W. |last2=Sia |first2=Richard H. P. |date=January 22, 1987 |title=Gov. Schaefer Takes Office |page=1A |newspaper=[[The Baltimore Sun|The Sun]] |location=Annapolis, Maryland |publication-place=Baltimore |url=https://www.newspapers.com/article/the-baltimore-sun-schaefer-inaugurated-j/132244798/ |archive-url=https://web.archive.org/web/20231201055540/https://www.newspapers.com/article/the-baltimore-sun-schaefer-inaugurated-j/132244798/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 18, 1995<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1948}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]<ref name="nga-schaefer" />
+|[[1986 Maryland gubernatorial election|1986]]
+|rowspan="2"|{{sortname|Melvin|Steinberg}}
+|- style="height:2em;"
+|[[1990 Maryland gubernatorial election|1990]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|59
+|rowspan="2" data-sort-value="Glendening, Parris"|[[File:Parris Glendening speaking, September 2006 (cropped).jpg|75px]]
+|rowspan="2"|'''[[Parris Glendening]]'''<br>{{Small|({{Abbr|b.|born in}} 1942)}}<br><ref name="nga-glendening">{{cite web |title=Parris N. Glendening |url=https://www.nga.org/governor/parris-n-glendening/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260826073839/https://www.nga.org/governor/parris-n-glendening/ |archive-date=August 26, 2026 |url-status=live}}</ref><ref name="md-glendening">{{Cite web |title=Parris N. Glendening |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/011500/011536/html/11536extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251228033716/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/011500/011536/html/11536extbio.html |archive-date=December 28, 2025 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 18, 1995<ref>{{Cite news |last=Jensen |first=Peter |date=January 19, 1995 |title=It's Governor Glendening at Last |page=1A |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-glendening-inaugurated/132244867/ |archive-url=https://web.archive.org/web/20231201055538/https://www.newspapers.com/article/the-baltimore-sun-glendening-inaugurated/132244867/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 15, 2003<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1948}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]<ref name="nga-glendening" />
+|[[1994 Maryland gubernatorial election|1994]]
+|rowspan="2"|{{sortname|Kathleen Kennedy|Townsend}}
+|- style="height:2em;"
+|[[1998 Maryland gubernatorial election|1998]]
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Ehrlich, Bob"|[[File:Robert ehrlich speaking at healthierUS summit cropped.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Bob Ehrlich]]'''<br>{{Small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-ehrlich">{{cite web |title=Robert L. Ehrlich |url=https://www.nga.org/governor/robert-l-ehrlich/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260725170714/https://www.nga.org/governor/robert-l-ehrlich/ |archive-date=July 25, 2026 |url-status=live}}</ref><ref name="md-erlich">{{Cite web |title=Robert L. Ehrlich, Jr. |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/012100/012125/html/12125extbio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20251228021752/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/012100/012125/html/12125extbio.html |archive-date=December 28, 2025 |url-status=live}}</ref>
+|data-sort-value="1464"|January 15, 2003<ref>{{Cite news |last=Nitkin |first=David |date=January 16, 2003 |title=Ehrlich Pledges 'Better Ideas' |page=1A |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-ehrlich-inaugurated-ja/132245211/ |archive-url=https://web.archive.org/web/20231201055539/https://www.newspapers.com/article/the-baltimore-sun-ehrlich-inaugurated-ja/132245211/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 17, 2007<br>{{small|(1464 days; lost election)}}
+|[[Maryland Republican Party|Republican]]<ref name="nga-ehrlich" />
+|[[2002 Maryland gubernatorial election|2002]]
+|style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Michael|Steele}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|61
+|rowspan="2" data-sort-value="O'Malley, Martin"|[[File:Governor O'Malley Portrait.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Martin O'Malley]]'''<br>{{Small|({{Abbr|b.|born in}} 1963)}}<br><ref name="nga-omalley">{{cite web |title=Martin O'Malley |url=https://www.nga.org/governor/martin-omalley/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260423020256/https://www.nga.org/governor/martin-omalley/ |archive-date=April 23, 2026 |url-status=live}}</ref><ref name="md-omalley">{{Cite web |title=Martin J. O'Malley |url=https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/013000/013090/html/13090bio.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20260609235632/https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/013000/013090/html/13090bio.html |archive-date=June 9, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 17, 2007<ref>{{Cite news |last=Skalka |first=Jennifer |last2=Green |first2=Andrew A. |date=January 18, 2007 |title='New Day' for Md. |page=1A |newspaper=[[The Baltimore Sun|The Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-omalley-inaugurated-j/132245249/ |archive-url=https://web.archive.org/web/20231201055540/https://www.newspapers.com/article/the-baltimore-sun-omalley-inaugurated-j/132245249/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 21, 2015<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1948}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]<ref name="nga-omalley" />
+|[[2006 Maryland gubernatorial election|2006]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Anthony|Brown|dab=Maryland politician}}
+|- style="height:2em;"
+|[[2010 Maryland gubernatorial election|2010]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|62
+|rowspan="2" data-sort-value="Hogan, Larry"|[[File:Larry Hogan (2021) (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Larry Hogan]]'''<br>{{Small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-hogan">{{cite web |title=Larry Hogan |url=https://www.nga.org/governor/larry-hogan/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617185635/https://www.nga.org/governor/larry-hogan/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="md-hogan">{{Cite web |title=Lawrence J. Hogan, Jr. |url=https://msa.maryland.gov/msa/mdmanual/08conoff/gov/former/html/msa14151.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20261020111709/https://msa.maryland.gov/msa/mdmanual/08conoff/gov/former/html/msa14151.html |archive-date=October 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 21, 2015<ref>{{Cite news |last=Dresser |first=Michael |last2=Cox |first2=Erin |date=January 22, 2015 |title=A Call to the 'Middle Ground' |page=1 |newspaper=[[The Baltimore Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-hogan-inaugurated-janu/132245288/ |archive-url=https://web.archive.org/web/20231201055539/https://www.newspapers.com/article/the-baltimore-sun-hogan-inaugurated-janu/132245288/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>January 18, 2023<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1948}}
+|rowspan="2"|[[Maryland Republican Party|Republican]]<ref name="nga-hogan" />
+|[[2014 Maryland gubernatorial election|2014]]
+|rowspan="2" style="color:inherit;background: {{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Boyd|Rutherford}}
+|- style="height:2em;"
+|[[2018 Maryland gubernatorial election|2018]]
+|- style="height:2em;"
+!rowspan="2" scope="row"|[[Governorship of Wes Moore|63]]
+|rowspan="2" data-sort-value="Moore, Wes"|[[File:Wes Moore Official Governor Portrait (9x12).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Wes Moore]]'''<br>{{Small|({{Abbr|b.|born in}} 1978)}}<br><ref name="nga-moore">{{cite web |title=Wes Moore |url=https://www.nga.org/governor/wes-moore/ |access-date=October 28, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260917174414/https://www.nga.org/governor/wes-moore/ |archive-date=September 17, 2026 |url-status=live}}</ref><ref name="md-moore">{{Cite web |title=Westley Watende Omari (Wes) Moore |url=https://msa.maryland.gov/msa/mdmanual/08conoff/gov/html/msa18374.html |access-date=October 28, 2026 |website=[[Maryland State Archives]] |archive-url=https://web.archive.org/web/20261020111709/https://msa.maryland.gov/msa/mdmanual/08conoff/gov/html/msa18374.html |archive-date=October 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2023|1|18|duration=on|format=no}}"|January 18, 2023<ref>{{Cite news |last=Janesch |first=Sam |last2=Gaskill |first2=Hannah |date=January 19, 2023 |title=A Historic 'Opportunity' |page=1 |newspaper=[[The Baltimore Sun]] |url=https://www.newspapers.com/article/the-baltimore-sun-moore-inaugurated-janu/132245348/ |archive-url=https://web.archive.org/web/20231201055545/https://www.newspapers.com/article/the-baltimore-sun-moore-inaugurated-janu/132245348/ |archive-date=December 1, 2023 |url-status=live |via=Newspapers.com}}</ref><br>–<br>Incumbent{{efn|Moore's term [[2026 Maryland gubernatorial election|will expire]] on January 20, 2027; he was elected to a second term on November 3, 2026.}}<br>{{small|(in office {{Duration in days nts|2023|1|18|duration=on|format=no}} days)}}
+|rowspan="2"|[[Maryland Democratic Party|Democratic]]<ref name="nga-moore" />
+|[[2022 Maryland gubernatorial election|2022]]
+|rowspan="2" style="color:inherit;background: {{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Aruna|Miller}}
+|- style="height:2em;"
+|[[2026 Maryland gubernatorial election|2026]]
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#Maryland]]
+*[[List of Maryland General Assembly sessions]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+== Bibliography ==
+{{refbegin}}
+* {{Cite web |title=Former Maryland Governors |url=https://www.nga.org/former-governors/maryland/ |access-date=March 4, 2023 |website=[[National Governors Association]]}}
+* {{cite web |title=Maryland Constitution |url=https://50constitutions.org/md/constitution |ref={{sfnref|Md. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 25, 2026}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0000sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. II |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=February 27, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Governors of Maryland |url=https://msa.maryland.gov/msa/speccol/sc2600/sc2685/html/govintro.html |access-date=March 4, 2023 |website=[[Maryland State Archives]]}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons03thor/ |volume=3 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{Commons category|Governors of Maryland}}
+*[http://governor.maryland.gov Office of the Governor of Maryland]
+
+{{MD Gov branches}}
+{{Current U.S. governors}}
+{{US Chief Executives}}
+
+{{DEFAULTSORT:Maryland, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Maryland|*]]
+[[Category:Lists of Maryland politicians|Governors]]
+[[Category:Maryland history-related lists|Governors]]

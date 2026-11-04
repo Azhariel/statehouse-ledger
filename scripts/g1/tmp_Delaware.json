@@ -1,0 +1,1666 @@
+[
+ {
+  "table": 0,
+  "name": "(vacant)",
+  "raw": "post = Governor body = Delaware insignia = Seal of Delaware.svg insignia_size = 110px insignia_caption = Great Seal of the State of Delaware image = Delmarva Chicken Association Booster BBQ - 55313846"
+ },
+ {
+  "table": 1,
+  "name": "John McKinly",
+  "term_raw": "February 21, 1777 – September 12, 1777 {{small|(204 days; arrested and removed)}}",
+  "dates": [
+   [
+    "1777-02-21",
+    "day"
+   ],
+   [
+    "1777-09-12",
+    "day"
+   ]
+  ],
+  "party_raw": "No parties",
+  "acting_hint": false,
+  "succ_raw": "1777",
+  "name_cell": "John McKinly {{Small|(1721–1796)}}"
+ },
+ {
+  "table": 1,
+  "name": "Thomas McKean",
+  "term_raw": "September 12, 1777 – October 20, 1777 {{small|(39 days; retired)}}",
+  "dates": [
+   [
+    "1777-09-12",
+    "day"
+   ],
+   [
+    "1777-10-20",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|Speaker of the Assembly acting as vice-president}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Thomas McKean {{Small|(1734–1817)}}"
+ },
+ {
+  "table": 1,
+  "name": "George Read",
+  "term_raw": "October 20, 1777 – March 31, 1778 {{small|(163 days; retired)}}",
+  "dates": [
+   [
+    "1777-10-20",
+    "day"
+   ],
+   [
+    "1778-03-31",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|Speaker of the Legislative Council serving as vice-president}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "George Read {{Small|(1733–1798)}}"
+ },
+ {
+  "table": 1,
+  "name": "Caesar Rodney",
+  "term_raw": "March 31, 1778 – November 13, 1781 {{small|(1324 days; term-limited)}}",
+  "dates": [
+   [
+    "1778-03-31",
+    "day"
+   ],
+   [
+    "1781-11-13",
+    "day"
+   ],
+   [
+    "1324-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "1778",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Caesar Rodney {{Small|(1728–1784)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Dickinson",
+  "term_raw": "November 13, 1781 – January 13, 1783 {{small|(427 days; resigned)}}",
+  "dates": [
+   [
+    "1781-11-13",
+    "day"
+   ],
+   [
+    "1783-01-13",
+    "day"
+   ]
+  ],
+  "party_raw": "1781",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Dickinson {{Small|(1732–1808)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Cook",
+  "term_raw": "January 13, 1783 – February 8, 1783 {{small|(27 days; retired)}}",
+  "dates": [
+   [
+    "1783-01-13",
+    "day"
+   ],
+   [
+    "1783-02-08",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|Speaker of the Legislative Council serving as vice-president}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "John Cook {{Small|(1730–1789)}}"
+ },
+ {
+  "table": 1,
+  "name": "Nicholas Van Dyke",
+  "term_raw": "February 8, 1783 – October 28, 1786 {{small|(1359 days; term-limited)}}",
+  "dates": [
+   [
+    "1783-02-08",
+    "day"
+   ],
+   [
+    "1786-10-28",
+    "day"
+   ],
+   [
+    "1359-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "1783 {{small|(special)}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Nicholas Van Dyke {{Small|(1738–1789)}}"
+ },
+ {
+  "table": 1,
+  "name": "Thomas Collins",
+  "term_raw": "October 28, 1786 – March 29, 1789 {{small|(884 days; died in office)}}",
+  "dates": [
+   [
+    "1786-10-28",
+    "day"
+   ],
+   [
+    "1789-03-29",
+    "day"
+   ]
+  ],
+  "party_raw": "1786",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Thomas Collins {{Small|(1732–1789)}}"
+ },
+ {
+  "table": 1,
+  "name": "Jehu Davis",
+  "term_raw": "March 29, 1789 – June 2, 1789 {{small|(66 days; retired)}}",
+  "dates": [
+   [
+    "1789-03-29",
+    "day"
+   ],
+   [
+    "1789-06-02",
+    "day"
+   ]
+  ],
+  "party_raw": "{{small|Speaker of the Legislative Council serving as vice-president}}",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Jehu Davis {{Small|(1738–1802)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joshua Clayton",
+  "term_raw": "June 2, 1789 – January 13, 1796 {{small|(2417 days; term-limited)}}",
+  "dates": [
+   [
+    "1789-06-02",
+    "day"
+   ],
+   [
+    "1796-01-13",
+    "day"
+   ],
+   [
+    "2417-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1789",
+  "name_cell": "Joshua Clayton {{Small|(1744–1798)}}"
+ },
+ {
+  "table": 1,
+  "name": "Gunning Bedford Sr.",
+  "term_raw": "January 13, 1796 – September 28, 1797 {{small|(625 days; died in office)}}",
+  "dates": [
+   [
+    "1796-01-13",
+    "day"
+   ],
+   [
+    "1797-09-28",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1795",
+  "name_cell": "Gunning Bedford Sr. {{Small|(1742–1797)}}"
+ },
+ {
+  "table": 1,
+  "name": "Daniel Rogers",
+  "term_raw": "September 28, 1797 – January 9, 1799 {{small|(469 days; retired)}}",
+  "dates": [
+   [
+    "1797-09-28",
+    "day"
+   ],
+   [
+    "1799-01-09",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "Daniel Rogers {{Small|(1754–1806)}}"
+ },
+ {
+  "table": 1,
+  "name": "Richard Bassett",
+  "term_raw": "January 9, 1799 – March 3, 1801 {{small|(784 days; resigned)}}",
+  "dates": [
+   [
+    "1799-01-09",
+    "day"
+   ],
+   [
+    "1801-03-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1798",
+  "name_cell": "Richard Bassett {{Small|(1745–1815)}}"
+ },
+ {
+  "table": 1,
+  "name": "James Sykes",
+  "term_raw": "March 3, 1801 – January 19, 1802 {{small|(323 days; retired)}}",
+  "dates": [
+   [
+    "1801-03-03",
+    "day"
+   ],
+   [
+    "1802-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "James Sykes {{Small|(1761–1822)}}"
+ },
+ {
+  "table": 1,
+  "name": "David Hall",
+  "term_raw": "January 19, 1802 – January 15, 1805 {{small|(1093 days; term-limited)}}",
+  "dates": [
+   [
+    "1802-01-19",
+    "day"
+   ],
+   [
+    "1805-01-15",
+    "day"
+   ],
+   [
+    "1093-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "1801",
+  "name_cell": "David Hall {{Small|(1752–1817)}}"
+ },
+ {
+  "table": 1,
+  "name": "Nathaniel Mitchell",
+  "term_raw": "January 15, 1805 – January 19, 1808 {{small|(1100 days; term-limited)}}",
+  "dates": [
+   [
+    "1805-01-15",
+    "day"
+   ],
+   [
+    "1808-01-19",
+    "day"
+   ],
+   [
+    "1100-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1804",
+  "name_cell": "Nathaniel Mitchell {{Small|(1753–1814)}}"
+ },
+ {
+  "table": 1,
+  "name": "George Truitt",
+  "term_raw": "January 19, 1808 – January 15, 1811 {{small|(1093 days; term-limited)}}",
+  "dates": [
+   [
+    "1808-01-19",
+    "day"
+   ],
+   [
+    "1811-01-15",
+    "day"
+   ],
+   [
+    "1093-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1807",
+  "name_cell": "George Truitt {{Small|(1756–1818)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joseph Haslet",
+  "term_raw": "January 15, 1811 – January 18, 1814 {{small|(1100 days; term-limited)}}",
+  "dates": [
+   [
+    "1811-01-15",
+    "day"
+   ],
+   [
+    "1814-01-18",
+    "day"
+   ],
+   [
+    "1100-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "1810",
+  "name_cell": "Joseph Haslet {{Small|(1769–1823)}}"
+ },
+ {
+  "table": 1,
+  "name": "Daniel Rodney",
+  "term_raw": "January 18, 1814 – January 21, 1817 {{small|(1100 days; term-limited)}}",
+  "dates": [
+   [
+    "1814-01-18",
+    "day"
+   ],
+   [
+    "1817-01-21",
+    "day"
+   ],
+   [
+    "1100-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1813",
+  "name_cell": "Daniel Rodney {{Small|(1764–1846)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Clark",
+  "term_raw": "January 21, 1817 – January 15, 1820 {{small|(1090 days; resigned)}}",
+  "dates": [
+   [
+    "1817-01-21",
+    "day"
+   ],
+   [
+    "1820-01-15",
+    "day"
+   ],
+   [
+    "1090-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1816",
+  "name_cell": "John Clark {{Small|(1761–1821)}}"
+ },
+ {
+  "table": 1,
+  "name": "Henry Molleston",
+  "term_raw": "1819",
+  "dates": [
+   [
+    "1819-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "",
+  "acting_hint": false,
+  "succ_raw": "",
+  "name_cell": "Henry Molleston {{Small|(1762–1819)}}"
+ },
+ {
+  "table": 1,
+  "name": "Jacob Stout",
+  "term_raw": "January 15, 1820 – January 16, 1821 {{small|(368 days; retired)}}",
+  "dates": [
+   [
+    "1820-01-15",
+    "day"
+   ],
+   [
+    "1821-01-16",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "Jacob Stout {{Small|(1764–1855)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Collins",
+  "term_raw": "January 16, 1821 – April 16, 1822 {{small|(456 days; died in office)}}",
+  "dates": [
+   [
+    "1821-01-16",
+    "day"
+   ],
+   [
+    "1822-04-16",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "1820 {{small|(special)}}",
+  "name_cell": "John Collins {{Small|(1776–1822)}}"
+ },
+ {
+  "table": 1,
+  "name": "Caleb Rodney",
+  "term_raw": "April 16, 1822 – January 21, 1823 {{small|(218 days; retired)}}",
+  "dates": [
+   [
+    "1822-04-16",
+    "day"
+   ],
+   [
+    "1823-01-21",
+    "day"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "Caleb Rodney {{Small|(1767–1840)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joseph Haslet",
+  "term_raw": "January 21, 1823 – June 20, 1823 {{small|(151 days; died in office)}}",
+  "dates": [
+   [
+    "1823-01-21",
+    "day"
+   ],
+   [
+    "1823-06-20",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": false,
+  "succ_raw": "1822",
+  "name_cell": "Joseph Haslet {{Small|(1769–1823)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles Thomas",
+  "term_raw": "June 20, 1823 – January 20, 1824 {{small|(215 days; retired)}}",
+  "dates": [
+   [
+    "1823-06-20",
+    "day"
+   ],
+   [
+    "1824-01-20",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic- Republican",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "Charles Thomas {{Small|(1790–1848)}}"
+ },
+ {
+  "table": 1,
+  "name": "Samuel Paynter",
+  "term_raw": "January 20, 1824 – January 16, 1827 {{small|(1093 days; term-limited)}}",
+  "dates": [
+   [
+    "1824-01-20",
+    "day"
+   ],
+   [
+    "1827-01-16",
+    "day"
+   ],
+   [
+    "1093-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1823 {{small|(special)}}",
+  "name_cell": "Samuel Paynter {{Small|(1768–1845)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles Polk Jr.",
+  "term_raw": "January 16, 1827 – January 19, 1830 {{small|(1100 days; term-limited)}}",
+  "dates": [
+   [
+    "1827-01-16",
+    "day"
+   ],
+   [
+    "1830-01-19",
+    "day"
+   ],
+   [
+    "1100-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Federalist",
+  "acting_hint": false,
+  "succ_raw": "1826",
+  "name_cell": "Charles Polk Jr. {{Small|(1788–1857)}}"
+ },
+ {
+  "table": 1,
+  "name": "David Hazzard",
+  "term_raw": "January 19, 1830 – January 15, 1833 {{small|(1093 days; term-limited)}}",
+  "dates": [
+   [
+    "1830-01-19",
+    "day"
+   ],
+   [
+    "1833-01-15",
+    "day"
+   ],
+   [
+    "1093-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "National Republican",
+  "acting_hint": false,
+  "succ_raw": "1829",
+  "name_cell": "David Hazzard {{Small|(1781–1864)}}"
+ },
+ {
+  "table": 1,
+  "name": "Caleb P. Bennett",
+  "term_raw": "January 15, 1833 – May 9, 1836 {{small|(1211 days; died in office)}}",
+  "dates": [
+   [
+    "1833-01-15",
+    "day"
+   ],
+   [
+    "1836-05-09",
+    "day"
+   ],
+   [
+    "1211-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1832",
+  "name_cell": "Caleb P. Bennett {{Small|(1758–1836)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles Polk Jr.",
+  "term_raw": "May 9, 1836 – January 17, 1837 {{small|(254 days; retired)}}",
+  "dates": [
+   [
+    "1836-05-09",
+    "day"
+   ],
+   [
+    "1837-01-17",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "Charles Polk Jr. {{Small|(1788–1857)}}"
+ },
+ {
+  "table": 1,
+  "name": "Cornelius P. Comegys",
+  "term_raw": "January 17, 1837 – January 19, 1841 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1837-01-17",
+    "day"
+   ],
+   [
+    "1841-01-19",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1836",
+  "name_cell": "Cornelius P. Comegys {{Small|(1780–1851)}}"
+ },
+ {
+  "table": 1,
+  "name": "William B. Cooper",
+  "term_raw": "January 19, 1841 – January 21, 1845 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1841-01-19",
+    "day"
+   ],
+   [
+    "1845-01-21",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1840",
+  "name_cell": "William B. Cooper {{Small|(1771–1849)}}"
+ },
+ {
+  "table": 1,
+  "name": "Thomas Stockton",
+  "term_raw": "January 21, 1845 – March 2, 1846 {{small|(406 days; died in office)}}",
+  "dates": [
+   [
+    "1845-01-21",
+    "day"
+   ],
+   [
+    "1846-03-02",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": false,
+  "succ_raw": "1844",
+  "name_cell": "Thomas Stockton {{Small|(1781–1846)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joseph Maull",
+  "term_raw": "March 2, 1846 – May 3, 1846 {{small|(63 days; died in office)}}",
+  "dates": [
+   [
+    "1846-03-02",
+    "day"
+   ],
+   [
+    "1846-05-03",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "Joseph Maull {{Small|(1781–1846)}}"
+ },
+ {
+  "table": 1,
+  "name": "William Temple",
+  "term_raw": "May 3, 1846 – January 19, 1847 {{small|(262 days; retired)}}",
+  "dates": [
+   [
+    "1846-05-03",
+    "day"
+   ],
+   [
+    "1847-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "Whig",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "William Temple {{Small|(1814–1863)}}"
+ },
+ {
+  "table": 1,
+  "name": "William Tharp",
+  "term_raw": "January 19, 1847 – January 21, 1851 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1847-01-19",
+    "day"
+   ],
+   [
+    "1851-01-21",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1846 {{small|(special)}}",
+  "name_cell": "William Tharp {{Small|(1803–1865)}}"
+ },
+ {
+  "table": 1,
+  "name": "William H. H. Ross",
+  "term_raw": "January 21, 1851 – January 16, 1855 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1851-01-21",
+    "day"
+   ],
+   [
+    "1855-01-16",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1850",
+  "name_cell": "William H. H. Ross {{Small|(1814–1887)}}"
+ },
+ {
+  "table": 1,
+  "name": "Peter F. Causey",
+  "term_raw": "January 16, 1855 – January 18, 1859 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1855-01-16",
+    "day"
+   ],
+   [
+    "1859-01-18",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "American",
+  "acting_hint": false,
+  "succ_raw": "1854",
+  "name_cell": "Peter F. Causey {{Small|(1801–1871)}}"
+ },
+ {
+  "table": 1,
+  "name": "William Burton",
+  "term_raw": "January 18, 1859 – January 20, 1863 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1859-01-18",
+    "day"
+   ],
+   [
+    "1863-01-20",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1858",
+  "name_cell": "William Burton {{Small|(1789–1866)}}"
+ },
+ {
+  "table": 1,
+  "name": "William Cannon",
+  "term_raw": "January 20, 1863 – March 1, 1865 {{small|(772 days; died in office)}}",
+  "dates": [
+   [
+    "1863-01-20",
+    "day"
+   ],
+   [
+    "1865-03-01",
+    "day"
+   ]
+  ],
+  "party_raw": "Union",
+  "acting_hint": false,
+  "succ_raw": "1862",
+  "name_cell": "William Cannon {{Small|(1809–1865)}}"
+ },
+ {
+  "table": 1,
+  "name": "Gove Saulsbury",
+  "term_raw": "March 1, 1865 – January 17, 1871 {{small|(2149 days; term-limited)}}",
+  "dates": [
+   [
+    "1865-03-01",
+    "day"
+   ],
+   [
+    "1871-01-17",
+    "day"
+   ],
+   [
+    "2149-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "Gove Saulsbury {{Small|(1815–1881)}}"
+ },
+ {
+  "table": 1,
+  "name": "James Ponder",
+  "term_raw": "January 17, 1871 – January 19, 1875 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1871-01-17",
+    "day"
+   ],
+   [
+    "1875-01-19",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1870",
+  "name_cell": "James Ponder {{Small|(1819–1897)}}"
+ },
+ {
+  "table": 1,
+  "name": "John P. Cochran",
+  "term_raw": "January 19, 1875 – January 21, 1879 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1875-01-19",
+    "day"
+   ],
+   [
+    "1879-01-21",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1874",
+  "name_cell": "John P. Cochran {{Small|(1809–1898)}}"
+ },
+ {
+  "table": 1,
+  "name": "John W. Hall",
+  "term_raw": "January 21, 1879 – January 16, 1883 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1879-01-21",
+    "day"
+   ],
+   [
+    "1883-01-16",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1878",
+  "name_cell": "John W. Hall {{Small|(1817–1892)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles C. Stockley",
+  "term_raw": "January 16, 1883 – January 18, 1887 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1883-01-16",
+    "day"
+   ],
+   [
+    "1887-01-18",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1882",
+  "name_cell": "Charles C. Stockley {{Small|(1819–1901)}}"
+ },
+ {
+  "table": 1,
+  "name": "Benjamin T. Biggs",
+  "term_raw": "January 18, 1887 – January 20, 1891 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1887-01-18",
+    "day"
+   ],
+   [
+    "1891-01-20",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1886",
+  "name_cell": "Benjamin T. Biggs {{Small|(1821–1893)}}"
+ },
+ {
+  "table": 1,
+  "name": "Robert J. Reynolds",
+  "term_raw": "January 20, 1891 – January 15, 1895 {{small|(1457 days; term-limited)}}",
+  "dates": [
+   [
+    "1891-01-20",
+    "day"
+   ],
+   [
+    "1895-01-15",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1890",
+  "name_cell": "Robert J. Reynolds {{Small|(1838–1909)}}"
+ },
+ {
+  "table": 1,
+  "name": "Joshua H. Marvil",
+  "term_raw": "January 15, 1895 – April 8, 1895 {{small|(84 days; died in office)}}",
+  "dates": [
+   [
+    "1895-01-15",
+    "day"
+   ],
+   [
+    "1895-04-08",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1894",
+  "name_cell": "Joshua H. Marvil {{Small|(1825–1895)}}"
+ },
+ {
+  "table": 1,
+  "name": "William T. Watson",
+  "term_raw": "April 8, 1895 – January 19, 1897 {{small|(653 days; retired)}}",
+  "dates": [
+   [
+    "1895-04-08",
+    "day"
+   ],
+   [
+    "1897-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": true,
+  "succ_raw": "{{small|Speaker of the Senate acting}}",
+  "name_cell": "William T. Watson {{Small|(1849–1917)}}"
+ },
+ {
+  "table": 1,
+  "name": "Ebe W. Tunnell",
+  "term_raw": "January 19, 1897 – January 15, 1901 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1897-01-19",
+    "day"
+   ],
+   [
+    "1901-01-15",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1896",
+  "name_cell": "Ebe W. Tunnell {{Small|(1844–1917)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Hunn",
+  "term_raw": "January 15, 1901 – January 17, 1905 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1901-01-15",
+    "day"
+   ],
+   [
+    "1905-01-17",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1900",
+  "name_cell": "John Hunn {{Small|(1849–1926)}}"
+ },
+ {
+  "table": 1,
+  "name": "Preston Lea",
+  "term_raw": "January 17, 1905 – January 19, 1909 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1905-01-17",
+    "day"
+   ],
+   [
+    "1909-01-19",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1904",
+  "name_cell": "Preston Lea {{Small|(1841–1916)}}"
+ },
+ {
+  "table": 1,
+  "name": "Simeon S. Pennewill",
+  "term_raw": "January 19, 1909 – January 21, 1913 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1909-01-19",
+    "day"
+   ],
+   [
+    "1913-01-21",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1908",
+  "name_cell": "Simeon S. Pennewill {{Small|(1867–1935)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles R. Miller",
+  "term_raw": "January 21, 1913 – January 16, 1917 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1913-01-21",
+    "day"
+   ],
+   [
+    "1917-01-16",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1912",
+  "name_cell": "Charles R. Miller {{Small|(1857–1927)}}"
+ },
+ {
+  "table": 1,
+  "name": "John G. Townsend Jr.",
+  "term_raw": "January 16, 1917 – January 18, 1921 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1917-01-16",
+    "day"
+   ],
+   [
+    "1921-01-18",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1916",
+  "name_cell": "John G. Townsend Jr. {{Small|(1871–1964)}}"
+ },
+ {
+  "table": 1,
+  "name": "William D. Denney",
+  "term_raw": "January 18, 1921 – January 20, 1925 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1921-01-18",
+    "day"
+   ],
+   [
+    "1925-01-20",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1920",
+  "name_cell": "William D. Denney {{Small|(1873–1953)}}"
+ },
+ {
+  "table": 1,
+  "name": "Robert P. Robinson",
+  "term_raw": "January 20, 1925 – January 15, 1929 {{small|(1457 days; retired)}}",
+  "dates": [
+   [
+    "1925-01-20",
+    "day"
+   ],
+   [
+    "1929-01-15",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1924",
+  "name_cell": "Robert P. Robinson {{Small|(1869–1939)}}"
+ },
+ {
+  "table": 1,
+  "name": "C. Douglass Buck",
+  "term_raw": "January 15, 1929 – January 19, 1937 {{small|(2927 days; term-limited)}}",
+  "dates": [
+   [
+    "1929-01-15",
+    "day"
+   ],
+   [
+    "1937-01-19",
+    "day"
+   ],
+   [
+    "2927-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1928",
+  "name_cell": "C. Douglass Buck {{Small|(1890–1965)}}"
+ },
+ {
+  "table": 1,
+  "name": "Richard McMullen",
+  "term_raw": "January 19, 1937 – January 21, 1941 {{small|(1464 days; retired)}}",
+  "dates": [
+   [
+    "1937-01-19",
+    "day"
+   ],
+   [
+    "1941-01-21",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1936",
+  "name_cell": "Richard McMullen {{Small|(1868–1944)}}"
+ },
+ {
+  "table": 1,
+  "name": "Walter W. Bacon",
+  "term_raw": "January 21, 1941 – January 18, 1949 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "1941-01-21",
+    "day"
+   ],
+   [
+    "1949-01-18",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1940",
+  "name_cell": "Walter W. Bacon {{Small|(1880–1962)}}"
+ },
+ {
+  "table": 1,
+  "name": "Elbert N. Carvel",
+  "term_raw": "January 18, 1949 – January 20, 1953 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1949-01-18",
+    "day"
+   ],
+   [
+    "1953-01-20",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1948",
+  "name_cell": "Elbert N. Carvel {{Small|(1910–2005)}}"
+ },
+ {
+  "table": 1,
+  "name": "J. Caleb Boggs",
+  "term_raw": "January 20, 1953 – December 30, 1960 {{small|(2902 days; resigned)}}",
+  "dates": [
+   [
+    "1953-01-20",
+    "day"
+   ],
+   [
+    "1960-12-30",
+    "day"
+   ],
+   [
+    "2902-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1952",
+  "name_cell": "J. Caleb Boggs {{Small|(1909–1993)}}"
+ },
+ {
+  "table": 1,
+  "name": "David P. Buckson",
+  "term_raw": "December 30, 1960 – January 17, 1961 {{small|(19 days; retired)}}",
+  "dates": [
+   [
+    "1960-12-30",
+    "day"
+   ],
+   [
+    "1961-01-17",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "David P. Buckson {{Small|(1920–2017)}}"
+ },
+ {
+  "table": 1,
+  "name": "Elbert N. Carvel",
+  "term_raw": "January 17, 1961 – January 19, 1965 {{small|(1464 days; term-limited)}}",
+  "dates": [
+   [
+    "1961-01-17",
+    "day"
+   ],
+   [
+    "1965-01-19",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1960",
+  "name_cell": "Elbert N. Carvel {{Small|(1910–2005)}}"
+ },
+ {
+  "table": 1,
+  "name": "Charles L. Terry Jr.",
+  "term_raw": "January 19, 1965 – January 21, 1969 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1965-01-19",
+    "day"
+   ],
+   [
+    "1969-01-21",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1964",
+  "name_cell": "Charles L. Terry Jr. {{Small|(1900–1970)}}"
+ },
+ {
+  "table": 1,
+  "name": "Russell W. Peterson",
+  "term_raw": "January 21, 1969 – January 16, 1973 {{small|(1457 days; lost election)}}",
+  "dates": [
+   [
+    "1969-01-21",
+    "day"
+   ],
+   [
+    "1973-01-16",
+    "day"
+   ],
+   [
+    "1457-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1968",
+  "name_cell": "Russell W. Peterson {{Small|(1916–2011)}}"
+ },
+ {
+  "table": 1,
+  "name": "Sherman W. Tribbitt",
+  "term_raw": "January 16, 1973 – January 18, 1977 {{small|(1464 days; lost election)}}",
+  "dates": [
+   [
+    "1973-01-16",
+    "day"
+   ],
+   [
+    "1977-01-18",
+    "day"
+   ],
+   [
+    "1464-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1972",
+  "name_cell": "Sherman W. Tribbitt {{Small|(1922–2010)}}"
+ },
+ {
+  "table": 1,
+  "name": "Pete du Pont",
+  "term_raw": "January 18, 1977 – January 15, 1985 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "1977-01-18",
+    "day"
+   ],
+   [
+    "1985-01-15",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1976",
+  "name_cell": "Pete du Pont {{Small|(1935–2021)}}"
+ },
+ {
+  "table": 1,
+  "name": "Mike Castle",
+  "term_raw": "January 15, 1985 – January 2, 1993 {{small|(2910 days; resigned)}}",
+  "dates": [
+   [
+    "1985-01-15",
+    "day"
+   ],
+   [
+    "1993-01-02",
+    "day"
+   ],
+   [
+    "2910-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "1984",
+  "name_cell": "Mike Castle {{Small|(1939–2025)}}"
+ },
+ {
+  "table": 1,
+  "name": "Dale E. Wolf",
+  "term_raw": "January 3, 1993 – January 19, 1993 {{small|(17 days; retired)}}",
+  "dates": [
+   [
+    "1993-01-03",
+    "day"
+   ],
+   [
+    "1993-01-19",
+    "day"
+   ]
+  ],
+  "party_raw": "Republican",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Dale E. Wolf {{Small|(1924–2021)}}"
+ },
+ {
+  "table": 1,
+  "name": "Tom Carper",
+  "term_raw": "January 19, 1993 – January 3, 2001 {{small|(2907 days; resigned)}}",
+  "dates": [
+   [
+    "1993-01-19",
+    "day"
+   ],
+   [
+    "2001-01-03",
+    "day"
+   ],
+   [
+    "2907-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "1992",
+  "name_cell": "Tom Carper {{Small|({{Abbr|b.|born in}} 1947)}}"
+ },
+ {
+  "table": 1,
+  "name": "Ruth Ann Minner",
+  "term_raw": "January 3, 2001 – January 20, 2009 {{small|(2940 days; term-limited)}}",
+  "dates": [
+   [
+    "2001-01-03",
+    "day"
+   ],
+   [
+    "2009-01-20",
+    "day"
+   ],
+   [
+    "2940-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Ruth Ann Minner {{Small|(1935–2021)}}"
+ },
+ {
+  "table": 1,
+  "name": "Jack Markell",
+  "term_raw": "January 20, 2009 – January 17, 2017 {{small|(2920 days; term-limited)}}",
+  "dates": [
+   [
+    "2009-01-20",
+    "day"
+   ],
+   [
+    "2017-01-17",
+    "day"
+   ],
+   [
+    "2920-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2008",
+  "name_cell": "Jack Markell {{Small|({{Abbr|b.|born in}} 1960)}}"
+ },
+ {
+  "table": 1,
+  "name": "John Carney",
+  "term_raw": "January 17, 2017 – January 7, 2025 {{small|(2913 days; resigned)}}",
+  "dates": [
+   [
+    "2017-01-17",
+    "day"
+   ],
+   [
+    "2025-01-07",
+    "day"
+   ],
+   [
+    "2913-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2016",
+  "name_cell": "John Carney {{Small|({{Abbr|b.|born in}} 1956)}}"
+ },
+ {
+  "table": 1,
+  "name": "Bethany Hall-Long",
+  "term_raw": "January 7, 2025 – January 21, 2025 {{small|(15 days; retired)}}",
+  "dates": [
+   [
+    "2025-01-07",
+    "day"
+   ],
+   [
+    "2025-01-21",
+    "day"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "{{small|Succeeded from lieutenant governor}}",
+  "name_cell": "Bethany Hall-Long {{small|({{Abbr|b.|born in}} 1963)}}"
+ },
+ {
+  "table": 1,
+  "name": "Matt Meyer",
+  "term_raw": "2025|1|21|duration=on|format=no}}\"|January 21, 2025 – Incumbent {{small|(in office {{Duration in days nts|2025|1|21|duration=on|format=no}} days)}}",
+  "dates": [
+   [
+    "2025-01-01",
+    "year"
+   ],
+   [
+    "2025-01-21",
+    "day"
+   ],
+   [
+    "2025-01-01",
+    "year"
+   ]
+  ],
+  "party_raw": "Democratic",
+  "acting_hint": false,
+  "succ_raw": "2024",
+  "name_cell": "Matt Meyer {{Small|({{Abbr|b.|born in}} 1971)}}"
+ }
+]

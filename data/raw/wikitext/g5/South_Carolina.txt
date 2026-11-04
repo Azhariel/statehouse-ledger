@@ -1,0 +1,919 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+{{Infobox Political post
+|post = Governor
+|body = South Carolina
+|insignia = Seal of the Governor of South Carolina.svg
+|insignia_size = 150
+|insignia_caption = [[Seals of the Governors of the U.S. States|Seal of the Governor]]
+|image =Governor Henry McMaster Official Photo 2019 (crop).jpg
+|incumbent = [[Henry McMaster]]
+|incumbent_since = January 24, 2017
+|style = [[His Excellency]]
+|term_length = Four years, renewable once consecutively
+|website = {{URL|governor.sc.gov}}
+}}
+{{History of South Carolina}}
+
+The '''governor of South Carolina''' is the [[head of government]] of [[South Carolina]] and serves as [[commander-in-chief]] of the [[U.S. state]]'s [[South Carolina National Guard|military forces]]. The current governor is [[Henry McMaster]], who is also the longest serving governor in South Carolina's history.
+
+==Governors==
+{{For|the period before independence|List of colonial governors of South Carolina}}
+South Carolina was one of the original [[Thirteen Colonies]] and was admitted as a state on May 23, 1788.<ref>{{Cite web |title=Ratification of the Constitution by the State of South Carolina; May 23, 1788 |url=http://avalon.law.yale.edu/18th_century/ratsc.asp |url-status=live |archive-url=https://web.archive.org/web/20151108102025/http://avalon.law.yale.edu/18th_century/ratsc.asp |archive-date=November 8, 2015 |access-date=October 31, 2015 |publisher=The Avalon Project at Yale Law School}}</ref> Before it declared its independence, South Carolina was a [[Province of South Carolina|colony]] of the [[Kingdom of Great Britain]]. It seceded from the [[Union (American Civil War)|Union]] on December 20, 1860,<ref>{{Cite web |title=Secession Ordinances of 13 Confederate States |url=http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |url-status=live |archive-url=https://web.archive.org/web/20150905091739/http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |archive-date=September 5, 2015 |access-date=May 24, 2015 |publisher=[[University of Houston]]}}</ref> and was a founding member of the [[Confederate States of America]] on February 4, 1861.<ref>[http://docsouth.unc.edu/imls/19conf/19conf.html#p1 Constitution for the Provisional Government of the Confederate States of America] {{webarchive|url=https://web.archive.org/web/20160820151934/http://docsouth.unc.edu/imls/19conf/19conf.html|date=August 20, 2016 }}, accessed July 8, 2015</ref> Following the end of the [[American Civil War]], South Carolina during [[Reconstruction era|Reconstruction]] was part of the [[Second Military District]], which exerted some control over governor appointments and elections. South Carolina was readmitted to the Union on July 9, 1868.<ref>Act authorizing readmission on ratification of 14th amendment: {{usstat|15|73}}. Proclamation of South Carolina's ratification: {{usstat|15|704}}.</ref>
+
+Under the first [[constitution of South Carolina]], a president of the state was elected for a term of two years, who then could not run again until four years had passed. The 1865 constitution briefly increased terms to four years, but that was changed in the 1868 constitution back to two years, with no term limit. An amendment in 1926 increased term lengths to four years, but limited governors to not being able to succeed themselves; an amendment in 1981 allowed governors to succeed themselves once. The 1776 constitution created the office of vice-president, renamed to lieutenant governor in 1778, to succeed to the governorship should it become vacant.{{sfn|Kallenbach|1977|pp=527–533}}
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of South Carolina
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor{{efn|Office was known as President until 1779.}}
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of South Carolina|Lt. Governor]]{{efn|Office was known as Vice President until 1779.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Rutledge, John"|[[File:John Rutledge.jpg|75px]]
+|rowspan="12" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|'''[[John Rutledge]]'''<br>{{Small|(1739–1800)}}<br><ref name="nga-rutledge-john">{{Cite web |title=John Rutledge |url=https://www.nga.org/governor/john-rutledge/ |access-date=June 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="711"|March 26, 1776<ref name="statelist">{{Cite web |last=Salley, Jr. |first=A.S. |title=Governors of South Carolina 1670&ndash;2022 |url=https://www.scstatehouse.gov/man22/52_FormerGovs.pdf |access-date=July 1, 2023 |publisher=[[South Carolina Legislature]]}}</ref><br />–<br />March 6, 1778<br>{{small|(711 days; resigned)}}{{efn|Rutledge vetoed the new constitution, and after his veto was overturned, he resigned.<ref name="flanders">Flanders, Henry. [https://books.google.com/books?id=eEQEAAAAYAAJ&pg=PA551  ''The Lives and Times of the Chief Justices of the United States Supreme Court''], pp. 551&ndash;552. Philadelphia: [[J. B. Lippincott & Co.]], 1874 at [[Google Books]].</ref>}}
+|rowspan="12" style="background:#EEEEEE;"|''No parties''{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1776 South Carolina gubernatorial election|1776]]
+|rowspan="6" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|{{sortname|Henry|Laurens}}
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Lowndes, Rawlins"|[[File:Rawlins Lowndes.jpg|75px]]
+|'''[[Rawlins Lowndes]]'''<br>{{Small|(1721–1800)}}<br><ref name="nga-lowndes">{{Cite web |title=Rawlins Lowndes |url=https://www.nga.org/governor/rawlins-lowndes/ |access-date=June 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="310"|March 6, 1778<ref name="statelist" /><br />–<br />January 9, 1779<br>{{small|(310 days; retired)}}
+|[[1778 South Carolina gubernatorial election|1778]]{{efn|[[Arthur Middleton]] was elected to succeed Rutledge, but he declined the office, as he shared Rutledge's objections to the new constitution. Lowndes was then elected.<ref name="flanders" />}}
+|{{sortname|James|Parsons|dab=South Carolina politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''31''
+|rowspan="2" data-sort-value="Rutledge, John"|[[File:John Rutledge.jpg|75px]]
+|rowspan="2"|'''[[John Rutledge]]'''<br>{{Small|(1739–1800)}}<br><ref name="nga-rutledge-john" />
+|rowspan="2" data-sort-value="1119"|January 9, 1779<ref name="statelist" /><br/>–<br/>January 31, 1782<br>{{small|(1119 days; term-limited)}}{{efn|There was no 1780 election, due to issues arising from the [[American Revolutionary War]], so Rutledge continued to serve after his term would normally have ended, and Mathews' term was accordingly shortened.{{sfn|Kallenbach|1977|pp=533–536}}}}{{efn|Under the 1778 constitution, governors were ineligible for the office for four years after the end of their term.<ref>{{Cite web |title=1778 S.C. Const. art. VI |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27SC%27&CID=201&art=6&sec=&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1778}}
+|rowspan="2"|[[1779 South Carolina gubernatorial election|1779]]
+|{{sortname|Thomas|Bee}}
+|- style="height:2em"
+|{{sortname|Christopher|Gadsden}}
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Mathews, John"|[[File:John Mathews (South Carolina Governor).jpg|75px]]
+|'''[[John Mathews (lawyer)|John Mathews]]'''<br>{{Small|(1744–1802)}}<br><ref name="nga-mathews">{{Cite web |title=John Mathews |url=https://www.nga.org/governor/john-mathews/ |access-date=June 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="371"|January 31, 1782<ref name="statelist" /><br/>–<br/>February 5, 1783<br>{{small|(371 days; retired)}}
+|[[1782 South Carolina gubernatorial election|1782]]{{efn|[[Christopher Gadsden]] was elected in 1782, but declined, so the legislature then chose Mathews.{{sfn|Kallenbach|1977|pp=533–536}}}}
+|{{sortname|Richard|Hutson}}
+|- style="height:2em"
+!rowspan="3" scope="rowgroup"|34
+|rowspan="3" data-sort-value="Guerard, Benjamin"|[[File:No image.svg|75px]]
+|rowspan="3"|'''[[Benjamin Guerard]]'''<br>{{Small|(1740–1788)}}<br><ref name="nga-guerard">{{Cite web |title=Benjamin Guerard |url=https://www.nga.org/governor/benjamin-guerard/ |access-date=June 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="737"|February 5, 1783<ref>{{Cite news |date=1783-04-03 |title=South Carolina |page=2 |work=Dunlap and Claypoole's American Daily Advertiser |url=https://www.newspapers.com/article/dunlap-and-claypooles-american-daily-ad/2083326/ |access-date=2023-07-02}}</ref><br/>–<br/>February 10, 1785<br>{{small|(737 days; term-limited)}}{{efn|name=limits-1778}}
+|rowspan="3"|[[1783 South Carolina gubernatorial election|1783]]
+|{{sortname|Richard|Beresford}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em"
+|rowspan="6" style="color:inherit;background:{{party color|Nonpartisan politician}};" title="No parties"|
+|{{sortname|William|Moultrie}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Moultrie, William"|[[File:Charles Willson Peale - William Moultrie - NPG.65.57 - National Portrait Gallery.jpg|75px]]
+|'''[[William Moultrie]]'''<br>{{Small|(1730–1805)}}<br>{{sfn|Sobel|1978|p=1388}}<ref name="nga-moultrie">{{Cite web |title=William Moultrie |url=https://www.nga.org/governor/william-moultrie/ |access-date=June 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="742"|February 10, 1785<ref>{{Cite news |date=1785-03-10 |title=Charleston, (S.C.) |page=2 |work=Dunlap and Claypoole's American Daily Advertiser |url=https://www.newspapers.com/article/dunlap-and-claypooles-american-daily-ad/127446838/ |access-date=2023-07-02}}</ref><br/>–<br/>February 21, 1787<br>{{small|(742 days; term-limited)}}{{efn|name=limits-1778}}
+|[[1785 South Carolina gubernatorial election|1785]]
+|{{sortname|Charles|Drayton|nolink=1}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Pinckney, Thomas"|[[File:John Trumbull - Thomas Pinckney - NPG.2007.211 - National Portrait Gallery.jpg|75px]]
+|'''[[Thomas Pinckney]]'''<br>{{Small|(1750–1828)}}<br><ref name="nga-pinckney-thomas">{{Cite web |title=Thomas Pinckney |url=https://www.nga.org/governor/thomas-pinckney/ |access-date=June 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="706"|February 21, 1787<ref>{{Cite news |date=1787-03-09 |title=American Intelligence |page=2 |work=The Independent Gazetteer |url=https://www.newspapers.com/article/the-independent-gazetteer-pinckney-procl/127447030/ |access-date=2023-07-02}}</ref><br/>–<br/>January 26, 1789<br>{{small|(706 days; term-limited)}}{{efn|name=limits-1778}}
+|[[1787 South Carolina gubernatorial election|1787]]
+|{{sortname|Thomas|Gadsden|nolink=1}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="Pinckney, Charles"|[[File:Charles Pinckney.jpg|75px]]
+|rowspan="2"|'''[[Charles Pinckney (governor)|Charles Pinckney]]'''<br>{{Small|(1757–1824)}}<br>{{sfn|Sobel|1978|pp=1387–1388}}<ref name="nga-pinckney-charles">{{Cite web |title=Charles Pinckney |url=https://www.nga.org/governor/charles-pinckney/ |access-date=June 19, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1410"|January 26, 1789<ref>{{Cite news |date=1789-02-23 |title=America |page=2 |work=Dunlap and Claypoole's American Daily Advertiser |url=https://www.newspapers.com/article/dunlap-and-claypooles-american-daily-ad/127447215/ |access-date=2023-07-02}}</ref><br/>–<br/>December 5, 1792<br>{{small|(1410 days; term-limited)}}{{efn|Under the 1790 constitution, governors were ineligible for the office for four years after the end of their term.<ref>{{Cite web |title=1790 S.C. Const. art. II, § 2 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27SC%27&CID=202&art=2&sec=2&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1790}}
+|[[1789 South Carolina gubernatorial election|1789]]
+|rowspan="2"|{{sortname|Alexander|Gillon}}
+|- style="height:2em;"
+|[[1791 South Carolina gubernatorial election|1791]]
+|- style="height:2em;"
+!scope="row"|''35''
+|data-sort-value="Moultrie, William"|[[File:Charles Willson Peale - William Moultrie - NPG.65.57 - National Portrait Gallery.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|'''[[William Moultrie]]'''<br>{{Small|(1730–1805)}}<br>{{sfn|Sobel|1978|p=1388}}<ref name="nga-moultrie" />
+|data-sort-value="743"|December 5, 1792{{sfn|Sobel|1978|p=1388}}<br/>–<br/>December 17, 1794<br>{{small|(743 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Federalist Party (United States)|Federalist]]{{sfn|Glashan|1979|p=278}}
+|[[1792 South Carolina gubernatorial election|1792]]
+|{{sortname|James|Ladson}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Vanderhorst, Arnoldus"|[[File:Arnoldus Vanderhorst (South Carolina Governor).jpg|75px]]
+|'''[[Arnoldus Vanderhorst]]'''<br>{{Small|(1748–1815)}}<br>{{sfn|Sobel|1978|p=1389}}<ref name="nga-vanderhorst">{{Cite web |title=Arnoldus Vandershorst |url=https://www.nga.org/governor/arnoldus-vandershorst/ |access-date=June 20, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="723"|December 17, 1794{{sfn|Sobel|1978|p=1389}}<br/>–<br/>December 8, 1796<br>{{small|(723 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Federalist Party (United States)|Federalist]]{{sfn|Glashan|1979|p=278}}
+|[[1794 South Carolina gubernatorial election|1794]]
+|style="color:inherit;background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|{{sortname|Lewis|Morris|nolink=1}}
+|- style="height:2em;"
+!scope="row"|''37''
+|data-sort-value="Pinckney, Charles"|[[File:Charles Pinckney.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|'''[[Charles Pinckney (governor)|Charles Pinckney]]'''<br>{{Small|(1757–1824)}}<br>{{sfn|Sobel|1978|pp=1387–1388}}<ref name="nga-pinckney-charles" />
+|data-sort-value="742"|December 8, 1796<ref>{{Cite news |date=1796-12-29 |title=By This Day's Mails |page=2 |work=The Philadelphia Inquirer |url=https://www.newspapers.com/article/the-philadelphia-inquirer-1796-1229-john/87917924/ |access-date=2023-07-02}}</ref><br/>–<br/>December 19, 1798<br>{{small|(742 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Glashan|1979|p=278}}
+|[[1796 South Carolina gubernatorial election|1796]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|Robert|Anderson|dab=Revolutionary War}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Rutledge, Edward"|[[File:Edward Rutledge.jpg|75px]]
+|style="color:inherit;background:{{party color|Federalist Party (United States)}};" title="Represented the Federalist Party"|
+|'''[[Edward Rutledge]]'''<br>{{Small|(1749–1800)}}<br>{{sfn|Sobel|1978|pp=1389–1390}}<ref name="nga-rutledge-edward">{{Cite web |title=Edward Rutledge |url=https://www.nga.org/governor/edward-rutledge/ |access-date=June 21, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="401"|December 19, 1798<ref>{{Cite news |date=1799-01-15 |title=Governor Rutledge's Speech |page=3 |work=The North American |url=https://www.newspapers.com/article/the-north-american-rutledge-inaugurated/127447980/ |access-date=2023-07-02}}</ref><br/>–<br/>January 23, 1800<br>{{small|(401 days; died in office)}}
+|[[Federalist Party (United States)|Federalist]]{{sfn|Glashan|1979|p=278}}
+|[[1798 South Carolina gubernatorial election|1798]]
+|{{sortname|John|Drayton}}{{efn|Represented the [[Democratic-Republican Party]]|name=lt-dr}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|40
+|rowspan="2" data-sort-value="Drayton, John"|[[File:JohnDrayton.JPG|75px]]
+|rowspan="15" style="color:inherit;background:{{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[John Drayton]]'''<br>{{Small|(1766–1822)}}<br>{{sfn|Sobel|1978|pp=1390–1391}}<ref name="nga-drayton">{{Cite web |title=John Drayton |url=https://www.nga.org/governor/john-drayton/ |access-date=June 21, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1050"|January 23, 1800{{sfn|Sobel|1978|pp=1390–1391}}<br/>–<br/>December 8, 1802<br>{{small|(1050 days; term-limited)}}{{efn|name=limits-1790}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1800 South Carolina gubernatorial election|1800]]
+|rowspan="14" style="color:inherit;background:{{party color|Democratic-Republican Party (United States)}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|Richard|Winn}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Richardson, James"|[[File:James Burchill Richardson.jpg|75px]]
+|'''[[James Burchill Richardson]]'''<br>{{Small|(1770–1836)}}<br>{{sfn|Sobel|1978|p=1391}}<ref name="nga-richardson-james">{{Cite web |title=James Burchill Richardson |url=https://www.nga.org/governor/james-burchill-richardson/ |access-date=June 28, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 8, 1802{{sfn|Sobel|1978|p=1391}}<br/>–<br/>December 7, 1804<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1802 South Carolina gubernatorial election|1802]]
+|{{sortname|Ezekiel|Pickens}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Hamilton, Paul"|[[File:SECNAVY Paul Hamilton.jpg|75px]]
+|'''[[Paul Hamilton (politician)|Paul Hamilton]]'''<br>{{Small|(1762–1816)}}<br>{{sfn|Sobel|1978|pp=1391–1392}}<ref name="nga-hamilton-paul">{{Cite web |title=Paul Hamilton |url=https://www.nga.org/governor/paul-hamilton/ |access-date=June 28, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="733"|December 7, 1804{{sfn|Sobel|1978|pp=1391–1392}}<br/>–<br/>December 9, 1806<br>{{small|(733 days; resigned)}}{{efn|Hamilton resigned near the end of his natural term,<ref>{{Cite news |date=1806-12-26 |title=none | quote=The Legislature of South Carolina, on the 9th instant, elected Charles Pinckney, Governor of that State, in the place of Paul Hamilton, resigned. |page=3 |work=Virginia Argus |url=https://www.newspapers.com/article/virginia-argus-hamilton-resigned/127248405/ |access-date=2023-06-28}}</ref> due to complaints about him running for a seat in the South Carolina legislature while still sitting as governor.<ref>{{Cite web |title=Governor of the State of South Carolina - Paul Hamilton |url=https://www.carolana.com/SC/Governors/phamilton.html |access-date=2023-06-28 |website=www.carolana.com}}</ref><ref>{{Cite news |date=1806-10-22 |title=Election Returns |page=3 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-election-re/98678884/ |access-date=2023-06-28}}</ref> Hamilton's resignation was submitted on December 1, but it does not appear to have taken effect until his successor was elected.<ref>{{Cite news |date=1806-12-08 |title=Legislature of South-Carolina |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-hamilton-su/127248604/ |access-date=2023-06-28}}</ref>}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1804 South Carolina gubernatorial election|1804]]
+|{{sortname|Thomas|Sumter Jr.}}
+|- style="height:2em;"
+!scope="row"|''37''
+|data-sort-value="Pinckney, Charles"|[[File:Charles Pinckney.jpg|75px]]
+|'''[[Charles Pinckney (governor)|Charles Pinckney]]'''<br>{{Small|(1757–1824)}}<br>{{sfn|Sobel|1978|pp=1387–1388}}<ref name="nga-pinckney-charles" />
+|data-sort-value="733"|December 9, 1806{{sfn|Sobel|1978|pp=1387–1388}}<br/>–<br/>December 10, 1808<br>{{small|(733 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1806 South Carolina gubernatorial election|1806]]
+|{{sortname|John|Hopkins|John Hopkins (South Carolina politician)}}
+|- style="height:2em;"
+!scope="row"|''40''
+|data-sort-value="Drayton, John"|[[File:JohnDrayton.JPG|75px]]
+|'''[[John Drayton]]'''<br>{{Small|(1766–1822)}}<br>{{sfn|Sobel|1978|pp=1390–1391}}<ref name="nga-drayton" />
+|data-sort-value="731"|December 10, 1808<ref>{{Cite news |date=1808-12-17 |title=Legislature of South-Carolina |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-drayton-ina/127517853/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1810<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1808 South Carolina gubernatorial election|1808]]
+|{{sortname|Frederick|Nance|nolink=1}}
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Middleton, Henry"|[[File:HENRY MIDDLETON (Governor).webp|75px]]
+|'''[[Henry Middleton (governor)|Henry Middleton]]'''<br>{{Small|(1770–1846)}}<br>{{sfn|Sobel|1978|pp=1392–1393}}<ref name="nga-middleton">{{Cite web |title=Henry Middleton |url=https://www.nga.org/governor/henry-middleton/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|December 10, 1810<ref>{{Cite news |date=1810-12-20 |title=Legislature of South-Carolina |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-election-of/114970991/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1812<br>{{small|(732 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1810 South Carolina gubernatorial election|1810]]
+|{{sortname|Samuel|Farrow}}
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Alston, Joseph"|[[File:Joseph Alston.jpg|75px]]
+|'''[[Joseph Alston]]'''<br>{{Small|(1779–1816)}}<br>{{sfn|Sobel|1978|p=1393}}<ref name="nga-alston">{{Cite web |title=Joseph Alston |url=https://www.nga.org/governor/joseph-alston/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 10, 1812{{sfn|Sobel|1978|p=1393}}<br/>–<br/>December 10, 1814<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1812 South Carolina gubernatorial election|1812]]
+|{{sortname|Eldred|Simkins}}
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Williams, David"|[[File:David Rogerson Williams (South Carolina Governor).jpg|75px]]
+|'''[[David Rogerson Williams]]'''<br>{{Small|(1776–1830)}}<br>{{sfn|Sobel|1978|p=1394}}<ref name="nga-williams-david">{{Cite web |title=David Rogerson Williams |url=https://www.nga.org/governor/david-rogerson-williams/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="727"|December 10, 1814{{sfn|Sobel|1978|p=1394}}<br/>–<br/>December 5, 1816<br>{{small|(727 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1814 South Carolina gubernatorial election|1814]]
+|{{sortname|Robert|Creswell}}
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Pickens, Andrew"|[[File:Francis Wilkinson Pickens (cropped).jpg|75px]]
+|'''[[Andrew Pickens (governor)|Andrew Pickens]]'''<br>{{Small|(1779–1838)}}<br>{{sfn|Sobel|1978|pp=1394–1395}}<ref name="nga-pickens-andrew">{{Cite web |title=Andrew Pickens |url=https://www.nga.org/governor/andrew-pickens/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="734"|December 5, 1816{{sfn|Sobel|1978|pp=1394–1395}}<br/>–<br/>December 8, 1818<br>{{small|(734 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1816 South Carolina gubernatorial election|1816]]
+|{{sortname|John A.|Cuthbert}}
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Geddes, John"|[[File:No image.svg|75px]]
+|'''[[John Geddes (politician)|John Geddes]]'''<br>{{Small|(1777–1828)}}<br>{{sfn|Sobel|1978|p=1395}}<ref name="nga-geddes">{{Cite web |title=Geddes John |url=https://www.nga.org/governor/geddes-john/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 8, 1818<ref>{{Cite news |date=1818-12-12 |title=none |quote=The Hon. John Geddes was, on Tuesday last, elected Governor of this State.|page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-geddes-elec/127518309/ |access-date=2023-07-03}}</ref><br/>–<br/>December 7, 1820<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1818 South Carolina gubernatorial election|1818]]
+|{{sortname|William|Youngblood|nolink=1}}
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Bennett, Thomas"|[[File:Thomas Bennett Jr.PNG|75px]]
+|'''[[Thomas Bennett Jr.]]'''<br>{{Small|(1781–1865)}}<br>{{sfn|Sobel|1978|p=1396}}<ref name="nga-bennett">{{Cite web |title=Thomas Bennett |url=https://www.nga.org/governor/thomas-bennett/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="733"|December 7, 1820<ref>{{Cite news |date=1820-12-20 |title=none | quote=The hon. Thomas Bennett was elected on the 7th inst. governor of the state of South CArolina... |page=2 |work=The Evening Post |url=https://www.newspapers.com/article/the-evening-post-bennett-elected-decembe/127518372/ |access-date=2023-07-03}}</ref><br/>–<br/>December 9, 1822<br>{{small|(733 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1820 South Carolina gubernatorial election|1820]]
+|{{sortname|William|Pinckney|nolink=1}}
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Wilson, John"|[[File:John Lyde Wilson.jpg|75px]]
+|'''[[John Lyde Wilson]]'''<br>{{Small|(1784–1849)}}<br>{{sfn|Sobel|1978|pp=1396–1397}}<ref name="nga-wilson">{{Cite web |title=John Lyde Wilson |url=https://www.nga.org/governor/john-lyde-wilson/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="726"|December 9, 1822<ref>{{Cite news |date=1822-12-19 |title=South-Carolina Legislature |page=1 |work=The Charleston Mercury |url=https://www.newspapers.com/article/the-charleston-mercury-wilson-inaugurate/127518547/ |access-date=2023-07-03}}</ref><br/>–<br/>December 3, 1824<br>{{small|(726 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1822 South Carolina gubernatorial election|1822]]
+|{{sortname|Henry|Bradley}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Manning, Richard 1"|[[File:Richard Irvine Manning I.jpg|75px]]
+|'''[[Richard Irvine Manning I]]'''<br>{{Small|(1789–1836)}}<br>{{sfn|Sobel|1978|pp=1397–1398}}<ref name="nga-manning-richard-1">{{Cite web |title=Richard Irvine Manning |url=https://www.nga.org/governor/richard-irvine-manning/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="739"|December 3, 1824<ref>{{Cite news |date=1824-12-07 |title=From Columbia |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-manning-ele/127518666/ |access-date=2023-07-03}}</ref><br/>–<br/>December 11, 1826<br>{{small|(739 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Sobel|1978|pp=1397–1398}}
+|[[1824 South Carolina gubernatorial election|1824]]
+|{{sortname|William A.|Bull|nolink=1}}
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Taylor, John"|[[File:John Taylor South Carolina governor.jpg|75px]]
+|'''[[John Taylor (South Carolina governor)|John Taylor]]'''<br>{{Small|(1770–1832)}}<br>{{sfn|Sobel|1978|p=1398}}<ref name="nga-taylor">{{Cite web |title=John Taylor |url=https://www.nga.org/governor/john-taylor/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 11, 1826<ref>{{Cite news |date=1826-12-15 |title=Columbia |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-taylor-inau/127518716/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1828<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Sobel|1978|p=1398}}
+|[[1826 South Carolina gubernatorial election|1826]]
+|{{sortname|James|Witherspoon|James Witherspoon Sr.|nolink=1}}
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Miller, Stephen"|[[File:Stephen Decatur Miller.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Nullifier Party (United States)}};" title="Represented the Nullifier Party"|
+|'''[[Stephen Decatur Miller]]'''<br>{{Small|(1787–1838)}}<br>{{sfn|Sobel|1978|pp=1398–1399}}<ref name="nga-miller">{{Cite web |title=Stephen Decatur Miller |url=https://www.nga.org/governor/stephen-decatur-miller/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="730"|December 10, 1828<ref>{{Cite news |date=1828-12-15 |title=none | quote=At 12 o'clock, the inauguration of the Governor and Lieutenant-Governor elect, took place with the customary ceremonies. |page=2 |work=The Charleston Mercury |url=https://www.newspapers.com/article/the-charleston-mercury-miller-inaugurate/127518775/ |access-date=2023-07-03}}</ref><br/>–<br/>December 9, 1830<br>{{small|(730 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Nullifier Party|Nullifier]]{{sfn|Sobel|1978|pp=1398–1399}}
+|[[1828 South Carolina gubernatorial election|1828]]
+|rowspan="3" style="color:inherit;background:{{party color|Nullifier Party (United States)}};" title="Represented the Nullifier Party"|
+|{{sortname|Thomas|Williams|nolink=1}}
+|- style="height:2em;"
+!scope="row"|53
+|data-sort-value="Hamilton, James"|[[File:James Hamilton, Jr.jpg|75px]]
+|'''[[James Hamilton Jr.]]'''<br>{{Small|(1786–1857)}}<br>{{sfn|Sobel|1978|pp=1399–1400}}<ref name="nga-hamilton-james">{{Cite web |title=James Jr. Hamilton |url=https://www.nga.org/governor/james-jr-hamilton/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="734"|December 9, 1830<ref>{{Cite news |date=1830-12-14 |title=From Columbia |page=2 |work=The Charleston Mercury |url=https://www.newspapers.com/article/the-charleston-mercury-hamilton-elected/127518941/ |access-date=2023-07-03}}</ref><br/>–<br/>December 11, 1832<br>{{small|(734 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Nullifier Party|Nullifier]]{{sfn|Sobel|1978|pp=1399–1400}}
+|[[1830 South Carolina gubernatorial election|1830]]
+|{{sortname|Patrick|Noble}}
+|- style="height:2em;"
+!scope="row"|54
+|data-sort-value="Hayne, Robert"|[[File:Robert Y Hayne (cropped).jpg|75px]]
+|'''[[Robert Y. Hayne]]'''<br>{{Small|(1791–1839)}}<br>{{sfn|Sobel|1978|pp=1400–1401}}<ref name="nga-hayne">{{Cite web |title=Robert Young Hayne |url=https://www.nga.org/governor/robert-young-hayne/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 11, 1832<ref>{{Cite news |date=1832-12-14 |title=South-Carolina Legislature |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-hayne-inaug/127519039/ |access-date=2023-07-03}}</ref><br/>–<br/>December 11, 1834<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[Nullifier Party|Nullifier]]{{sfn|Sobel|1978|pp=1400–1401}}
+|[[1832 South Carolina gubernatorial election|1832]]
+|{{sortname|Charles Cotesworth|Pinckney II|nolink=1}}
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="McDuffie, George"|[[File:George-McDuffie.jpg|75px]]
+|rowspan="18" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[George McDuffie]]'''<br>{{Small|(1790–1851)}}<br>{{sfn|Sobel|1978|pp=1401–1402}}<ref name="nga-mcduffie">{{Cite web |title=George McDuffie |url=https://www.nga.org/governor/george-mcduffie/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 11, 1834<ref>{{Cite news |date=1834-12-15 |title=State Legislature |page=2 |work=The Charleston Mercury |url=https://www.newspapers.com/article/the-charleston-mercury-mcduffie-inaugur/127519090/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1836<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1834 South Carolina gubernatorial election|1834]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Whitemarsh Benjamin|Seabrook}}
+|- style="height:2em;"
+!scope="row"|56
+|data-sort-value="Butler, Pierce"|[[File:Pierce Mason Butler.jpg|75px]]
+|'''[[Pierce Mason Butler]]'''<br>{{Small|(1798–1847)}}<br>{{sfn|Sobel|1978|p=1402}}<ref name="nga-butler">{{Cite web |title=Pierce Mason Butler |url=https://www.nga.org/governor/pierce-mason-butler/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 10, 1836{{sfn|Sobel|1978|p=1402}}<br/>–<br/>December 10, 1838<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1836 South Carolina gubernatorial election|1836]]
+|{{sortname|William|DuBose|dab=politician}}
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Noble, Patrick"|[[File:Patrick Noble.jpg|75px]]
+|'''[[Patrick Noble]]'''<br>{{Small|(1787–1840)}}<br>{{sfn|Sobel|1978|p=1403}}<ref name="nga-noble">{{Cite web |title=Patrick Noble |url=https://www.nga.org/governor/patrick-noble/ |access-date=June 29, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="485"|December 10, 1838<ref>{{Cite news |date=1838-12-27 |title=South Carolina Legislature |page=2 |work=Edgefield Advertiser |url=https://www.newspapers.com/article/edgefield-advertiser-noble-inaugurated-d/127519324/ |access-date=2023-07-03}}</ref><br/>–<br/>April 7, 1840<br>{{small|(485 days; died in office)}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1838 South Carolina gubernatorial election|1838]]
+|{{sortname|Barnabas Kelet|Henagan}}
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Henagan, Barnabas"|[[File:No image.svg|75px]]
+|'''[[Barnabas Kelet Henagan]]'''<br>{{Small|(1798–1855)}}<br>{{sfn|Sobel|1978|pp=1403–1404}}<ref name="nga-henagan">{{Cite web |title=Barnabas Kelet Henagan |url=https://www.nga.org/governor/barnabas-kelet-henagan/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="248"|April 7, 1840<ref>{{Cite news |date=1840-04-13 |title=Death of Gov. Noble |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-henagan-suc/127519429/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1840<br>{{small|(248 days; retired)}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="Richardson, John 2"|[[File:John Peter Richardson II.jpg|75px]]
+|'''[[John Peter Richardson II]]'''<br>{{Small|(1801–1864)}}<br>{{sfn|Sobel|1978|p=1404}}<ref name="nga-richardson-john-2">{{Cite web |title=John Peter Richardson II |url=https://www.nga.org/governor/john-peter-richardson-ii/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 10, 1840<ref>{{Cite news |date=1840-12-17 |title=The Inauguration |page=2 |work=Edgefield Advertiser |url=https://www.newspapers.com/article/edgefield-advertiser-richardson-inaugura/127531660/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1842<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1840 South Carolina gubernatorial election|1840]]
+|rowspan="12" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William K.|Clowney}}
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Hammond, James"|[[File:J.H. Hammond, Senator from South Carolina, LCCN2010649189 (cropped).jpg|75px]]
+|'''[[James H. Hammond]]'''<br>{{Small|(1807–1864)}}<br>{{sfn|Sobel|1978|p=1405}}<ref name="nga-hammond">{{Cite web |title=James Henry Hammond |url=https://www.nga.org/governor/james-henry-hammond/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|December 10, 1842<ref>{{Cite news |date=1842-12-12 |title=South Carolina Legislature |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-hammond-ina/127531743/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1844<br>{{small|(732 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1842 South Carolina gubernatorial election|1842]]
+|{{sortname|Isaac D.|Witherspoon}}
+|- style="height:2em;"
+!scope="row"|61
+|data-sort-value="Aiken, William"|[[File:William Aiken.jpg|75px]]
+|'''[[William Aiken Jr.]]'''<br>{{Small|(1806–1887)}}<br>{{sfn|Sobel|1978|pp=1405–1406}}<ref name="nga-aiken">{{Cite web |title=William Aiken |url=https://www.nga.org/governor/william-aiken/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 10, 1844<ref>{{Cite news |date=1844-12-12 |title=South Carolina Legislature |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-aiken-inaug/127531792/ |access-date=2023-07-03}}</ref><br/>–<br/>December 10, 1846<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1844 South Carolina gubernatorial election|1844]]
+|{{sortname|J. F.|Ervin|nolink=1}}
+|- style="height:2em;"
+!scope="row"|62
+|data-sort-value="Johnson, David"|[[File:David Johnson (governor).jpg|75px]]
+|'''[[David Johnson (governor)|David Johnson]]'''<br>{{Small|(1782–1855)}}<br>{{sfn|Sobel|1978|pp=1406–1407}}<ref name="nga-johnson">{{Cite web |title=David Johnson |url=https://www.nga.org/governor/david-johnson/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|December 10, 1846<ref>{{Cite news |date=1846-12-16 |title=Governor Johnson's Inauguration |page=2 |work=Edgefield Advertiser |url=https://www.newspapers.com/article/edgefield-advertiser-johnson-inaugurated/127531838/ |access-date=2023-07-03}}</ref><br/>–<br/>December 14, 1848<br>{{small|(736 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1846 South Carolina gubernatorial election|1846]]
+|{{sortname|William|Cain|William Cain (American politician)}}
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Seabrook, Whitemarsh"|[[File:Gov-seabrook.jpg|75px]]
+|'''[[Whitemarsh Benjamin Seabrook]]'''<br>{{Small|(1793–1855)}}<br>{{sfn|Sobel|1978|p=1407}}<ref name="nga-seabrook">{{Cite web |title=Whitemarsh Benjamin Seabrook |url=https://www.nga.org/governor/whitemarsh-benjamin-seabrook/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="733"|December 14, 1848<ref>{{Cite news |date=1848-12-15 |title=From Columbia |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-seabrook-in/127531876/ |access-date=2023-07-03}}</ref><br/>–<br/>December 16, 1850<br>{{small|(733 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1848 South Carolina gubernatorial election|1848]]
+|{{sortname|William Henry|Gist}}
+|- style="height:2em;"
+!scope="row"|64
+|data-sort-value="Means, John"|[[File:JohnHughMeans (cropped).JPG|75px]]
+|'''[[John Hugh Means]]'''<br>{{Small|(1812–1862)}}<br>{{sfn|Sobel|1978|pp=1407–1408}}<ref name="nga-means">{{Cite web |title=John Hugh Means |url=https://www.nga.org/governor/john-hugh-means/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|December 16, 1850<ref>{{Cite news |date=1850-12-18 |title=Proceedings of the So. Ca. Legislature |page=2 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-means-inaug/127531921/ |access-date=2023-07-03}}</ref><br/>–<br/>December 13, 1852<br>{{small|(729 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1850 South Carolina gubernatorial election|1850]]
+|{{sortname|Joshua John|Ward}}
+|- style="height:2em;"
+!scope="row"|65
+|data-sort-value="Manning, John"|[[File:John-lawrence-manning.jpg|75px]]
+|'''[[John Lawrence Manning]]'''<br>{{Small|(1816–1889)}}<br>{{sfn|Sobel|1978|pp=1408–1409}}<ref name="nga-manning-john">{{Cite web |title=John Laurence Manning |url=https://www.nga.org/governor/john-laurence-manning/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|December 13, 1852<ref>{{Cite news |date=1852-12-16 |title=Legislative Proceedings - The Inauguration |page=1 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-manning-ina/127531982/ |access-date=2023-07-03}}</ref><br/>–<br/>December 13, 1854<br>{{small|(731 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1852 South Carolina gubernatorial election|1852]]
+|{{sortname|James|Irby|nolink=1}}
+|- style="height:2em;"
+!scope="row"|66
+|data-sort-value="Adams, James"|[[File:Portrait of Governor James Hopkins Adams of South Carolina.jpg|75px]]
+|'''[[James Hopkins Adams]]'''<br>{{Small|(1812–1861)}}<br>{{sfn|Sobel|1978|pp=1409–1410}}<ref name="nga-adams">{{Cite web |title=James Hopkins Adams |url=https://www.nga.org/governor/james-hopkins-adams/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="730"|December 13, 1854<ref>{{Cite news |date=1854-12-20 |title=Legislative Proceedings |page=2 |work=Edgefield Advertiser |url=https://www.newspapers.com/article/edgefield-advertiser-adams-inaugurated-d/127532055/ |access-date=2023-07-03}}</ref><br/>–<br/>December 11, 1856<br>{{small|(730 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1854 South Carolina gubernatorial election|1854]]
+|{{sortname|Richard|de Treville|nolink=1}}
+|- style="height:2em;"
+!scope="row"|67
+|data-sort-value="Allston, Robert"|[[File:Allston portrait by Flagg small.jpg|75px]]
+|'''[[Robert Francis Withers Allston]]'''<br>{{Small|(1801–1864)}}<br>{{sfn|Sobel|1978|pp=1410–1411}}<ref name="nga-allston">{{Cite web |title=Robert Francis Withers Allston |url=https://www.nga.org/governor/robert-francis-withers-allston/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="733"|December 11, 1856<ref>{{Cite news |date=1856-12-18 |title=South Carolina Legislature |page=2 |work=Yorkville Enquirer |url=https://www.newspapers.com/article/yorkville-enquirer-allston-inaugurated-d/127532131/ |access-date=2023-07-03}}</ref><br/>–<br/>December 13, 1858<br>{{small|(733 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1856 South Carolina gubernatorial election|1856]]
+|{{sortname|Gabriel|Cannon}}
+|- style="height:2em;"
+!scope="row"|68
+|data-sort-value="Gist, William"|[[File:William Henry Gist.jpg|75px]]
+|'''[[William Henry Gist]]'''<br>{{Small|(1807–1874)}}<br>{{sfn|Sobel|1978|p=1411}}<ref name="nga-gist">{{Cite web |title=William Henry Gist |url=https://www.nga.org/governor/william-henry-gist/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|December 13, 1858<ref>{{Cite news |date=1858-12-15 |title=The Inauguration |page=1 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-gist-inaugu/127532256/ |access-date=2023-07-03}}</ref><br/>–<br/>December 17, 1860<br>{{small|(736 days; term-limited)}}{{efn|name=limits-1790}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1858 South Carolina gubernatorial election|1858]]
+|{{sortname|M. E.|Carn}}
+|- style="height:2em;"
+!scope="row"|69
+|data-sort-value="Pickens, Francis"|[[File:Francis Wilkinson Pickens (cropped).jpg|75px]]
+|'''[[Francis Wilkinson Pickens]]'''<br>{{small|({{Abbr|d.|died in}} 1869)}}<br>{{sfn|Sobel|1978|pp=1411–1412}}<ref name="nga-pickens-francis">{{Cite web |title=Francis Wilkinson Pickens |url=https://www.nga.org/governor/francis-wilkinson-pickens/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="732"|December 17, 1860<ref>{{Cite news |date=1860-12-18 |title=South Carolina Legislature |page=1 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-pickens-ina/127532385/ |access-date=2023-07-03}}</ref><br/>–<br/>December 18, 1862<br>{{small|(732 days; term-limited)}}{{efn|Under the 1861 constitution, governors were ineligible for the office for four years after the end of their term.<ref>{{Cite web |title=1861 S.C. Const. art. II, § 2 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27SC%27&CID=203&art=2&sec=2&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1861}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1860 South Carolina gubernatorial election|1860]]
+|{{sortname|W. W.|Harllee|nolink=1}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|70
+|rowspan="2" data-sort-value="Bonham, Milledge"|[[File:Hon. Milledge L. Bonham, S.C - NARA - 528412 (cropped) (cropped).jpg|75px]]
+|rowspan="2"|'''[[Milledge Luke Bonham]]'''<br>{{Small|(1813–1890)}}<br>{{sfn|Sobel|1978|pp=1412–1413}}<ref name="nga-bonham">{{Cite web |title=Milledge Luke Bonham |url=https://www.nga.org/governor/milledge-luke-bonham/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="733"|December 18, 1862<ref>{{Cite news |date=1862-12-20 |title=Inauguration of Governor Bonham |page=1 |work=The Charleston Mercury |url=https://www.newspapers.com/article/the-charleston-mercury-bonham-inaugurate/127532648/ |access-date=2023-07-03}}</ref><br/>–<br/>December 19, 1864<br>{{small|(733 days; term-limited)}}{{efn|name=limits-1861}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|rowspan="2"|[[1862 South Carolina gubernatorial election|1862]]
+|{{sortname|Plowden|Weston}}<br>{{small|(died)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|71
+|data-sort-value="Magrath, Andrew"|[[File:Andrew Gordon Magrath.jpg|75px]]
+|'''[[Andrew Gordon Magrath]]'''<br>{{Small|(1813–1893)}}<br>{{sfn|Sobel|1978|pp=1413–1414}}<ref name="nga-magrath">{{Cite web |title=Andrew Gordon MacGrath |url=https://www.nga.org/governor/andrew-gordon-macgrath/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="161"|December 19, 1864<ref>{{Cite news |date=1864-12-22 |title=The Inauguration of Governor Magrath |page=1 |work=The Charleston Mercury |url=https://www.newspapers.com/article/the-charleston-mercury-magrath-inaugurat/127532774/ |access-date=2023-07-03}}</ref><br/>–<br/>May 28, 1865<br>{{small|(161 days;<br>arrested and removed)}}{{efn|Magrath was arrested by [[Union (American Civil War)|Union]] forces soon after the [[American Civil War]] ended; he was released seven months later.{{sfn|Sobel|1978|pp=1413–1414}}}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1864 South Carolina gubernatorial election|1864]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Robert|McCaw}}
+|- style="height:2em;"
+!scope="row"|—
+|colspan="3"|''Vacant''
+|data-sort-value="34"|''May 28, 1865<br />&ndash;<br />June 30, 1865''<br>{{small|(34 days)}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Office vacated<br />after [[American Civil War|civil war]]}}
+|rowspan="2" colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|72
+|data-sort-value="Perry, Benjamin"|[[File:Benjamin Franklin Perry.jpg|75px]]
+|style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Appointed"|
+|'''[[Benjamin Franklin Perry]]'''<br>{{Small|(1805–1886)}}<br>{{sfn|Sobel|1978|pp=1414–1415}}<ref name="nga-perry">{{Cite web |title=Benjamin Franklin Perry |url=https://www.nga.org/governor/benjamin-franklin-perry/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="153"|June 30, 1865<ref>Presidential Proclamation No. 46, 30 June 1865, {{USStat|13|769}}, 770</ref><br />&ndash;<br />November 29, 1865<br />{{small|(153 days; retired)}}{{sfn|Sobel|1978|pp=1414–1415}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Provisional governor<br>appointed by President}}
+|- style="height:2em;" 
+!scope="row"|73
+|data-sort-value="Orr, James"|[[File:James Lawrence Orr - Brady-Handy (3x4).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James Lawrence Orr]]'''<br>{{Small|(1822–1873)}}<br>{{sfn|Sobel|1978|p=1415}}<ref name="nga-orr">{{Cite web |title=James Lawrence Orr |url=https://www.nga.org/governor/james-lawrence-orr/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="954"|November 29, 1865<ref>{{Cite news |date=1865-11-30 |title=Journal of the Senate of the State of South Carolina |page=2 |work=The Daily Phoenix |url=https://www.newspapers.com/article/the-daily-phoenix-orr-inaugurated-novemb/127533493/ |access-date=2023-07-03}}</ref><br/>–<br/>July 9, 1868<br>{{small|(954 days; retired)}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Glashan|1979|p=284}}
+|[[1865 South Carolina gubernatorial election|1865]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William Dennison|Porter}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|74
+|rowspan="2" data-sort-value="Scott, Robert"|[[File:Robert Kingston Scott - Brady-Handy.jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Robert Kingston Scott]]'''<br>{{Small|(1826–1900)}}<br>{{sfn|Sobel|1978|p=1416}}<ref name="nga-scott">{{Cite web |title=Robert Kingston Scott |url=https://www.nga.org/governor/robert-kingston-scott/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1609"|July 9, 1868<ref>{{Cite news |date=1868-07-10 |title=Inauguration of Gov. Scott |page=2 |work=The Daily Phoenix |url=https://www.newspapers.com/article/the-daily-phoenix-scott-inaugurated-july/127533652/ |access-date=2023-07-03}}</ref><br/>–<br/>December 3, 1872<br>{{small|(1609 days; retired)}}
+|rowspan="2"|[[South Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1868 South Carolina gubernatorial election|1868]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Lemuel|Boozer}}
+|- style="height:2em;"
+|[[1870 South Carolina gubernatorial election|1870]]
+|{{sortname|Alonzo J.|Ransier}}
+|- style="height:2em;"
+!scope="row"|75
+|data-sort-value="Moses, Franklin"|[[File:Franklin J. Moses, Jr.jpg|75px]]
+|'''[[Franklin J. Moses Jr.]]'''<br>{{Small|(1838–1906)}}<br>{{sfn|Sobel|1978|p=1417}}<ref name="nga-moses">{{Cite web |title=Franklin J. Moses |url=https://www.nga.org/governor/franklin-j-moses/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="729"|December 3, 1872<ref>{{Cite news |date=1872-12-04 |title=The Governor Elect |page=1 |work=The Charleston Daily Courier |url=https://www.newspapers.com/article/the-charleston-daily-courier-moses-inaug/127533799/ |access-date=2023-07-03}}</ref><br/>–<br/>December 1, 1874<br>{{small|(729 days; retired)}}
+|[[South Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1872 South Carolina gubernatorial election|1872]]
+|rowspan="3"|{{sortname|Richard Howell|Gleaves}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|76
+|rowspan="2" data-sort-value="Chamberlain, Daniel"|[[File:Daniel Henry Chamberlain.jpg|75px]]
+|rowspan="2"|'''[[Daniel Henry Chamberlain]]'''<br>{{Small|(1835–1907)}}<br>{{sfn|Sobel|1978|p=1418}}<ref name="nga-chamberlain">{{Cite web |title=Daniel Henry Chamberlain |url=https://www.nga.org/governor/daniel-henry-chamberlain/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="863"|December 1, 1874<ref>{{Cite news |date=1874-12-02 |title=Inaugural Address of the Governor |page=3 |work=The Daily Phoenix |url=https://www.newspapers.com/article/the-daily-phoenix-chamberlain-inaugurate/127533913/ |access-date=2023-07-03}}</ref><br/>–<br/>April 11, 1877<br>{{small|(863 days; lost election)}}
+|rowspan="2"|[[South Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1874 South Carolina gubernatorial election|1874]]
+|- style="height:2em;"
+|rowspan="2"|[[1876 South Carolina gubernatorial election|1876]]{{efn|The 1876 election was very close, and [[Disputed government of South Carolina of 1876-77|two governments emerged]], one run by Chamberlain, the other by Hampton. The dispute [[Compromise of 1877|ended in April 1877]] with Hampton and the Democratic Party taking control of the state.{{sfn|Sobel|1978|p=1418}}}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|77 
+|rowspan="2" data-sort-value="Hampton, Wade"|[[File:Wade Hampton III - Brady-Handy.jpg|75px]]
+|rowspan="37" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Wade Hampton III]]'''<br>{{Small|(1818–1902)}}<br>{{sfn|Sobel|1978|pp=1418–1419}}<ref name="nga-hampton">{{Cite web |title=Wade Hampton III |url=https://www.nga.org/governor/wade-hampton-iii/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="805"|December 14, 1876<ref>{{Cite news |date=1876-12-21 |title=Editorial Correspondence |page=2 |work=The Pickens Sentinel |url=https://www.newspapers.com/article/the-pickens-sentinel-hampton-inaugurated/127534382/ |access-date=2023-07-03}}</ref><br/>–<br/>February 26, 1879<br>{{small|(805 days; resigned)}}{{efn|Hampton resigned, having been [[1878–79 United States Senate elections|elected]] to the [[United States Senate]]; some modern sources say he resigned after being wounded in a hunting accident,{{sfn|Sobel|1978|pp=1418–1419}} but the letter of resignation makes no mention of this.<ref name="hampton-resigns">{{Cite news |date=1879-03-04 |title=Gov. Hampton's Farewell |page=1 |work=The News and Herald |url=https://www.newspapers.com/article/the-news-and-herald-simpson-succeeds-ham/127554700/ |access-date=2023-07-03}}</ref>}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|William Dunlap|Simpson}}
+|- style="height:2em;"
+|[[1878 South Carolina gubernatorial election|1878]]
+|- style="height:2em;"
+!scope="row"|78
+|data-sort-value="Simpson, William"|[[File:William Dunlap Simpson.jpg|75px]]
+|'''[[William Dunlap Simpson]]'''<br>{{Small|(1823–1890)}}<br>{{sfn|Sobel|1978|pp=1419–1420}}<ref name="nga-simpson">{{Cite web |title=William Dunlap Simpson |url=https://www.nga.org/governor/william-dunlap-simpson/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="554"|February 26, 1879<ref name="hampton-resigns" /><br/>–<br/>September 1, 1880<br>{{small|(554 days; resigned)}}{{efn|Simpson resigned, having been elected Chief Justice of the [[South Carolina Supreme Court]].{{sfn|Sobel|1978|pp=1419–1420}}}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="2" colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|79
+|data-sort-value="Jeter, Thomas"|[[File:Thomas Bothwell Jeter.jpg|75px]]
+|'''[[Thomas Bothwell Jeter]]'''<br>{{Small|(1827–1883)}}<br>{{sfn|Sobel|1978|p=1420}}<ref name="nga-jeter">{{Cite web |title=Thomas Bothwell Jeter |url=https://www.nga.org/governor/thomas-bothwell-jeter/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="91"|September 1, 1880<ref>{{Cite news |date=1880-09-08 |title=Gov. Simpson's Farewell |page=2 |work=The Newberry Weekly Herald |url=https://www.newspapers.com/article/the-newberry-weekly-herald-jeter-succeed/127580111/ |access-date=2023-07-04}}</ref><br/>–<br/>November 30, 1880<br>{{small|(91 days; retired)}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>president<br>pro tempore<br>of the Senate}}
+|- style="height:2em;"
+!scope="row"|80
+|data-sort-value="Hagood, Johnson"|[[File:Johnson Hagood.jpg|75px]]
+|'''[[Johnson Hagood (governor)|Johnson Hagood]]'''<br>{{Small|(1829–1898)}}<br>{{sfn|Sobel|1978|p=1421}}<ref name="nga-hagood">{{Cite web |title=Johnson Hagood |url=https://www.nga.org/governor/johnson-hagood/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="736"|November 30, 1880<ref>{{Cite news |date=1880-12-02 |title=Inauguration Day |page=2 |work=The News and Herald |url=https://www.newspapers.com/article/the-news-and-herald-hagood-inaugurated-n/127580170/ |access-date=2023-07-04}}</ref><br/>–<br/>December 5, 1882<br>{{small|(736 days; retired)}}{{sfn|Sobel|1978|p=1421}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1880 South Carolina gubernatorial election|1880]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John Doby|Kennedy}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|81
+|rowspan="2" data-sort-value="Thompson, Hugh"|[[File:Hugh Smith Thompson, Governor of South Carolina.jpg|75px]]
+|rowspan="2"|'''[[Hugh Smith Thompson]]'''<br>{{Small|(1836–1904)}}<br>{{sfn|Sobel|1978|pp=1421–1422}}<ref name="nga-thompson">{{Cite web |title=Hugh Smith Thompson |url=https://www.nga.org/governor/hugh-smith-thompson/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1314"|December 5, 1882<ref>{{Cite news |date=1882-12-15 |title=The Inauguration |page=1 |work=Union Times |url=https://www.newspapers.com/article/union-times-thompson-inaugurated-decembe/127580266/ |access-date=2023-07-04}}</ref><br/>–<br/>July 10, 1886<br>{{small|(1314 days; resigned)}}{{efn|Thompson resigned, having been confirmed as [[United States Assistant Secretary of the Treasury]].{{sfn|Sobel|1978|pp=1421–1422}}}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1882 South Carolina gubernatorial election|1882]]
+|rowspan="2"|{{sortname|John Calhoun|Sheppard}}
+|- style="height:2em;"
+|[[1884 South Carolina gubernatorial election|1884]]
+|- style="height:2em;"
+!scope="row"|82
+|data-sort-value="Sheppard, John"|[[File:John Calhoun Sheppard.jpg|75px]]
+|'''[[John Calhoun Sheppard]]'''<br>{{Small|(1850–1931)}}<br>{{sfn|Sobel|1978|p=1422}}<ref name="nga-sheppard">{{Cite web |title=John Calhoun Sheppard |url=https://www.nga.org/governor/john-calhoun-sheppard/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="144"|July 10, 1886<ref>{{Cite news |date=1886-07-13 |title=The Two Governors |page=2 |work=The Watchman and Southron |url=https://www.newspapers.com/article/the-watchman-and-southron-sheppard-succe/127580419/ |access-date=2023-07-04}}</ref><br/>–<br/>November 30, 1886<br>{{small|(144 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=1422}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|83
+|rowspan="2" data-sort-value="Richardson, John 3"|[[File:John Peter Richardson III, Governor of South Carolina.jpg|75px]]
+|rowspan="2"|'''[[John Peter Richardson III]]'''<br>{{Small|(1831–1899)}}<br>{{sfn|Sobel|1978|p=1423}}<ref name="nga-richardson-john-3">{{Cite web |title=John Peter Richardson |url=https://www.nga.org/governor/john-peter-richardson/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1466"|November 30, 1886<ref>{{Cite news |date=1886-12-08 |title=His Inaugural Address |page=1 |work=Yorkville Enquirer |url=https://www.newspapers.com/article/yorkville-enquirer-richardson-inaugurate/127580531/ |access-date=2023-07-04}}</ref><br/>–<br/>December 4, 1890<br>{{small|(1466 days; retired)}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1886 South Carolina gubernatorial election|1886]]
+|rowspan="15" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|William L.|Mauldin}}
+|- style="height:2em;"
+|[[1888 South Carolina gubernatorial election|1888]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|84
+|rowspan="2" data-sort-value="Tillman, Benjamin"|[[File:Tillman crop.jpg|75px]]
+|rowspan="2"|'''[[Benjamin Tillman]]'''<br>{{Small|(1847–1918)}}<br>{{sfn|Sobel|1978|pp=1423–1424}}<ref name="nga-tillman">{{Cite web |title=Benjamin Ryan Tillman |url=https://www.nga.org/governor/benjamin-ryan-tillman/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|December 4, 1890<ref>{{Cite news |date=1890-12-11 |title=A Political Drama |page=1 |work=The Newberry Herald and News |url=https://www.newspapers.com/article/the-newberry-herald-and-news-tillman-ina/127580703/ |access-date=2023-07-04}}</ref><br/>–<br/>December 4, 1894<br>{{small|(1462 days; retired)}}{{efn|Tillman was instead [[1894–95 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1423–1424}}}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1890 South Carolina gubernatorial election|1890]]
+|{{sortname|Eugene|Gary}}
+|- style="height:2em;"
+|[[1892 South Carolina gubernatorial election|1892]]
+|rowspan="2"|{{sortname|Washington Hodges|Timmerman|nolink=1}}
+|- style="height:2em;"
+!scope="row"|85
+|data-sort-value="Evans, John"|[[File:John Gary Evans.jpg|75px]]
+|'''[[John Gary Evans]]'''<br>{{Small|(1863–1942)}}<br>{{sfn|Sobel|1978|pp=1424–1425}}<ref name="nga-evans">{{Cite web |title=John Gary Evans |url=https://www.nga.org/governor/john-gary-evans/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="777"|December 4, 1894<ref>{{Cite news |date=1894-12-07 |title=Evans Is Governor |page=1 |work=The Gaffney Ledger |url=https://www.newspapers.com/article/the-gaffney-ledger-evans-inaugurated-dec/127580765/ |access-date=2023-07-04}}</ref><br/>–<br/>January 18, 1897<br>{{small|(777 days; retired)}}{{efn|Evans instead [[1897 United States Senate election in South Carolina|ran unsuccessfully]] for the Democratic nomination to the [[United States Senate]].{{sfn|Sobel|1978|pp=1424–1425}}}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1894 South Carolina gubernatorial election|1894]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|86
+|rowspan="2" data-sort-value="Ellerbe, William"|[[File:William H Ellerbe.jpg|75px]]
+|rowspan="2"|'''[[William Haselden Ellerbe]]'''<br>{{Small|(1862–1899)}}<br>{{sfn|Sobel|1978|p=1425}}<ref name="nga-ellerbe">{{Cite web |title=William Haselden Ellerbe |url=https://www.nga.org/governor/william-haselden-ellerbe/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="866"|January 18, 1897<ref>{{Cite news |date=1897-01-20 |title=Governor Ellerbe |page=1 |work=The Times and Democrat |url=https://www.newspapers.com/article/the-times-and-democrat-ellerbe-inaugurat/127580843/ |access-date=2023-07-04}}</ref><br/>–<br/>June 2, 1899<br>{{small|(866 days; died in office)}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1896 South Carolina gubernatorial election|1896]]
+|rowspan="2"|{{sortname|Miles Benjamin|McSweeney}}
+|- style="height:2em;"
+|[[1898 South Carolina gubernatorial election|1898]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|87
+|rowspan="2" data-sort-value="McSweeney, Miles"|[[File:Miles Benjamin McSweeney.jpg|75px]]
+|rowspan="2"|'''[[Miles Benjamin McSweeney]]'''<br>{{Small|(1855–1909)}}<br>{{sfn|Sobel|1978|p=1426}}<ref name="nga-mcsweeney">{{Cite web |title=Miles Benjamin McSweeney |url=https://www.nga.org/governor/miles-benjamin-mcsweeney/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1329"|June 2, 1899<ref>{{Cite news |date=1899-06-07 |title=Gov. Ellerbe Dead |page=1 |work=The Intelligencer |url=https://www.newspapers.com/article/the-intelligencer-elerby-dead-mcs-gov/30196530/ |access-date=2023-07-04}}</ref><br/>–<br/>January 21, 1903<br>{{small|(1329 days; retired)}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="2"|{{sortname|Robert B.|Scarborough}}
+|- style="height:2em;"
+|[[1900 South Carolina gubernatorial election|1900]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|88
+|rowspan="2" data-sort-value="Heyward, Duncan"|[[File:Duncan Clinch Heyward.jpg|75px]]
+|rowspan="2"|'''[[Duncan Clinch Heyward]]'''<br>{{Small|(1864–1943)}}<br>{{sfn|Sobel|1978|pp=1426–1427}}<ref name="nga-heyward">{{Cite web |title=Duncan Clinch Heyward |url=https://www.nga.org/governor/duncan-clinch-heyward/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1456"|January 21, 1903<ref>{{Cite news |date=1903-01-28 |title=Our New Governor |page=4 |work=The Intelligencer |url=https://www.newspapers.com/article/the-intelligencer-heyward-inaugurated-ja/127581225/ |access-date=2023-07-04}}</ref><br/>–<br/>January 15, 1907<br>{{small|(1456 days; retired)}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1902 South Carolina gubernatorial election|1902]]
+|{{sortname|James H.|Tillman}}
+|- style="height:2em"
+|[[1904 South Carolina gubernatorial election|1904]]
+|{{sortname|John|Sloan}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|89
+|rowspan="2" data-sort-value="Ansel, Martin"|[[File:Martin Frederick Ansel.jpg|75px]]
+|rowspan="2"|'''[[Martin Frederick Ansel]]'''<br>{{Small|(1850–1945)}}<br>{{sfn|Sobel|1978|pp=1427–1428}}<ref name="nga-ansel">{{Cite web |title=Martin Frederick Ansel |url=https://www.nga.org/governor/martin-frederick-ansel/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 15, 1907<ref>{{Cite news |date=1907-01-17 |title=Martin F. Ansel Is Now Chief Executive |page=8 |work=The County Record |url=https://www.newspapers.com/article/the-county-record-ansel-inaugurated-janu/127581307/ |access-date=2023-07-04}}</ref><br/>–<br/>January 17, 1911<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1906 South Carolina gubernatorial election|1906]]
+|rowspan="2"|{{sortname|Thomas Gordon|McLeod}}
+|- style="height:2em;"
+|[[1908 South Carolina gubernatorial election|1908]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|90
+|rowspan="2" data-sort-value="Blease, Coleman"|[[File:Coleman L Blease (cropped).jpg|75px]]
+|rowspan="2"|'''[[Cole L. Blease]]'''<br>{{Small|(1868–1942)}}<br>{{sfn|Sobel|1978|p=1428}}<ref name="nga-blease">{{Cite web |title=Coleman Livingston Blease |url=https://www.nga.org/governor/coleman-livingston-blease/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1459"|January 17, 1911<ref>{{Cite news |date=1911-01-19 |title=Takes Reins |page=1 |work=The Times and Democrat |url=https://www.newspapers.com/article/the-times-and-democrat-blease-inaugurate/127581400/ |access-date=2023-07-04}}</ref><br/>–<br/>January 14, 1915<br>{{small|(1459 days; resigned)}}{{efn|Blease resigned, citing no reason.<ref name="blease-resigns">{{Cite news |date=1915-01-14 |title=Gov. Blease Resigns and Lieut. Gov. Chas. Smith Succeeds Him |page=1 |work=The Columbia Record |url=https://www.newspapers.com/article/the-columbia-record-smith-succeeds-bleas/127581576/ |access-date=2023-07-04}}</ref>}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1910 South Carolina gubernatorial election|1910]]
+|rowspan="2"|{{sortname|Charles Aurelius|Smith}}
+|- style="height:2em;"
+|[[1912 South Carolina gubernatorial election|1912]]
+|- style="height:2em;"
+!scope="row"|91
+|data-sort-value="Smith, Charles"|[[File:Charles Aurelius Smith.jpg|75px]]
+|'''[[Charles Aurelius Smith]]'''<br>{{Small|(1861–1916)}}<br>{{sfn|Sobel|1978|p=1429}}<ref name="nga-smith">{{Cite web |title=Charles A. Smith |url=https://www.nga.org/governor/charles-a-smith/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="6"|January 14, 1915<ref name="blease-resigns" /><br/>–<br/>January 19, 1915<br>{{small|(6 days; retired)}}{{efn|Smith had already lost the Democratic nomination for governor when he succeeded Blease.}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|92
+|rowspan="2" data-sort-value="Manning, Richard 3"|[[File:Richard Irvine Manning III circa 1915.jpg|75px]]
+|rowspan="2"|'''[[Richard Irvine Manning III]]'''<br>{{Small|(1859–1931)}}<br>{{sfn|Sobel|1978|pp=1429–1430}}<ref name="nga-manning-richard-3">{{Cite web |title=Richard Irvine Manning III |url=https://www.nga.org/governor/richard-irvine-manning-iii/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 19, 1915<ref>{{Cite news |date=1915-01-19 |title=Manning Took Oath As the Governor of South Carolina at Noon Today |page=1 |work=The Herald |url=https://www.newspapers.com/article/the-herald-manning-inaugurated-january-1/127581738/ |access-date=2023-07-04}}</ref><br/>–<br/>January 21, 1919<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1914 South Carolina gubernatorial election|1914]]
+|rowspan="4" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Andrew|Bethea}}
+|- style="height:2em;"
+|[[1916 South Carolina gubernatorial election|1916]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|93
+|rowspan="2" data-sort-value="Cooper, Robert"|[[File:Robert Archer Cooper (South Carolina Governor).jpg|75px]]
+|rowspan="2"|'''[[Robert Archer Cooper]]'''<br>{{Small|(1874–1953)}}<br>{{sfn|Sobel|1978|pp=1430–1431}}<ref name="nga-cooper">{{Cite web |title=Robert Archer Cooper |url=https://www.nga.org/governor/robert-archer-cooper/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1216"|January 21, 1919<ref>{{Cite news |date=1919-01-22 |title=Robert A. Cooper Became Governor at 1:05 Yesterday |page=1 |work=The Greenville News |url=https://www.newspapers.com/article/the-greenville-news-cooper-inaugurated-j/127581795/ |access-date=2023-07-04}}</ref><br/>–<br/>May 20, 1922<br>{{small|(1216 days; resigned)}}{{efn|Cooper resigned, having been appointed to the [[Federal Farm Loan Board]].{{sfn|Sobel|1978|pp=1430–1431}}}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1918 South Carolina gubernatorial election|1918]]
+|{{sortname|J. T.|Lyles|nolink=1}}
+|- style="height:2em"
+|[[1920 South Carolina gubernatorial election|1920]]
+|{{sortname|Wilson Godfrey|Harvey}}
+|- style="height:2em;"
+!scope="row"|94
+|data-sort-value="Harvey, Wilson"|[[File:Wilson Godfrey Harvey.jpg|75px]]
+|'''[[Wilson Godfrey Harvey]]'''<br>{{Small|(1866–1932)}}<br>{{sfn|Sobel|1978|p=1431}}<ref name="nga-harvey">{{Cite web |title=Wilson Godfrey Harvey |url=https://www.nga.org/governor/wilson-godfrey-harvey/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="242"|May 20, 1922<ref>{{Cite news |date=1922-05-20 |title=New Governor Is Inaugurated at Noon Today |page=1 |work=The Columbia Record |url=https://www.newspapers.com/article/the-columbia-record-harvey-succeeds-coop/127581888/ |access-date=2023-07-04}}</ref><br/>–<br/>January 16, 1923<br>{{small|(242 days; retired)}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|95
+|rowspan="2" data-sort-value="McLeod, Thomas"|[[File:ThomasGordonMcLeod.jpg|75px]]
+|rowspan="2"|'''[[Thomas Gordon McLeod]]'''<br>{{Small|(1868–1932)}}<br>{{sfn|Sobel|1978|p=1432}}<ref name="nga-mcleod">{{Cite web |title=Thomas Gordon McLeod |url=https://www.nga.org/governor/thomas-gordon-mcleod/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 16, 1923<ref>{{Cite news |date=1923-01-17 |title=McLeod Takes Oath As Chief Executive |page=1 |work=The State |url=https://www.newspapers.com/article/the-state-mcleod-inaugurated-january-16/127581950/ |access-date=2023-07-04}}</ref><br/>–<br/>January 18, 1927<br>{{small|(1464 days; term-limited)}}{{efn|Under the 1926 constitution, governors were ineligible to succeed themselves.{{sfn|Kallenbach|1977|p=528}}|name=limits-1926}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1922 South Carolina gubernatorial election|1922]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|E. B.|Jackson|nolink=1}}
+|- style="height:2em;"
+|[[1924 South Carolina gubernatorial election|1924]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|96
+|rowspan="2" data-sort-value="Richards, John"|[[File:John Gardiner Richards, Jr..jpg|75px]]
+|rowspan="2"|'''[[John Gardiner Richards Jr.]]'''<br>{{Small|(1864–1941)}}<br>{{sfn|Sobel|1978|pp=1432–1433}}<ref name="nga-richards">{{Cite web |title=John Gardiner Richards |url=https://www.nga.org/governor/john-gardiner-richards/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1464"|January 18, 1927<ref>{{Cite news |date=1927-01-19 |title=John G. Richards Takes Office As Governor of S.C. |page=1 |work=The Press and Standard |url=https://www.newspapers.com/article/the-press-and-standard-richards-inaugura/127581986/ |access-date=2023-07-04}}</ref><br/>–<br/>January 20, 1931<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1926}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|rowspan="2"|[[1926 South Carolina gubernatorial election|1926]]
+|{{sortname|Thomas Bothwell|Butler}}<br>{{small|(died)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|97
+|data-sort-value="Blackwood, Ibra"|[[File:Ibra Charles Blackwood (SC).png|75px]]
+|'''[[Ibra Charles Blackwood]]'''<br>{{Small|(1878–1936)}}<br>{{sfn|Sobel|1978|pp=1433–1434}}<ref name="nga-blackwood">{{Cite web |title=Ibra Charles Blackwood |url=https://www.nga.org/governor/ibra-charles-blackwood/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 20, 1931<ref>{{Cite news |date=1931-01-21 |title=Inauguration of Governor Marked Yesterday at Capitol |page=1 |work=The Press and Standard |url=https://www.newspapers.com/article/the-press-and-standard-blackwood-inaugur/127582049/ |access-date=2023-07-04}}</ref><br/>–<br/>January 15, 1935<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1930 South Carolina gubernatorial election|1930]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|James O.|Sheppard}}
+|- style="height:2em;"
+!scope="row"|98
+|data-sort-value="Johnston, Olin"|[[File:JOHNSTON, OLIN D. GOVERNOR LCCN2016862698 (cropped).jpg|75px]]
+|'''[[Olin D. Johnston]]'''<br>{{Small|(1896–1965)}}<br>{{sfn|Sobel|1978|p=1434}}<ref name="nga-johnston">{{Cite web |title=Olin De Witt Talmadge Johnston |url=https://www.nga.org/governor/olin-de-witt-talmadge-johnston/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1935<ref>{{Cite news |date=1935-01-15 |title=Olin D. Johnston Is Inaugurated As New Governor |page=1 |work=The Item |agency=Associated Press |url=https://www.newspapers.com/article/the-item-johnson-inaugurated-january-15/127582194/ |access-date=2023-07-04}}</ref><br/>–<br/>January 17, 1939<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1934 South Carolina gubernatorial election|1934]]
+|rowspan="2"|{{sortname|Joseph Emile|Harley}}
+|- style="height:2em;"
+!scope="row"|99
+|data-sort-value="Maybank, Burnet"|[[File:Burnet R. Maybank.jpg|75px]]
+|'''[[Burnet R. Maybank]]'''<br>{{Small|(1899–1954)}}<br>{{sfn|Sobel|1978|p=1435}}<ref name="nga-maybank">{{Cite web |title=Burnet Rhett Maybank |url=https://www.nga.org/governor/burnet-rhett-maybank/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1023"|January 17, 1939<ref>{{Cite news |date=1939-01-18 |title=Governor Maybank for Progressive Regime |page=1 |work=The Greenville News |url=https://www.newspapers.com/article/the-greenville-news-maybank-inaugurated/127582256/ |access-date=2023-07-04}}</ref><br/>–<br/>November 4, 1941<br>{{small|(1023 days; resigned)}}{{efn|Maybank resigned, having been [[1941 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1435}}}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1938 South Carolina gubernatorial election|1938]]
+|- style="height:2em;"
+!scope="row"|100
+|data-sort-value="Harley, Joseph"|[[File:Joseph Emile Harley.jpg|75px]]
+|'''[[Joseph Emile Harley]]'''<br>{{Small|(1880–1942)}}<br>{{sfn|Sobel|1978|pp=1435–1436}}<ref name="nga-harley">{{Cite web |title=Joseph Emile Harley |url=https://www.nga.org/governor/joseph-emile-harley/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="116"|November 4, 1941<ref>{{Cite news |date=1941-11-04 |title=Barnwell Attorney Is Sworn In Succeeding Senator-Elect |page=1 |work=The Herald |agency=Associated Press |url=https://www.newspapers.com/article/the-herald-harley-succeeds-maybank/127582478/ |access-date=2023-07-04}}</ref><br/>–<br/>February 27, 1942<br>{{small|(116 days; died in office)}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|rowspan="3" colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|—
+|colspan="3"|''Vacant''
+|data-sort-value="4"|''February 27, 1942<br />&ndash;<br />March 2, 1942''<br>{{small|(4 days)}}
+|—
+|style="background:#EEEEEE;"|{{small|Office vacant<br />after death}}{{efn|name=harley-jefferies}}
+|- style="height:2em;" 
+!scope="row"|101
+|data-sort-value="Jefferies, Richard"|[[File:Richard Manning Jefferies.jpg|75px]]
+|rowspan="11" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Richard Manning Jefferies]]'''<br>{{Small|(1889–1964)}}<br>{{sfn|Sobel|1978|pp=1436–1437}}<ref name="nga-jefferies">{{Cite web |title=Richard Manning Jeffries |url=https://www.nga.org/governor/richard-manning-jeffries/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="324"|March 2, 1942{{efn|Harley died on February 27; even though the constitution says that the president pro tempore of the Senate would succeed to the office of governor should both it and lieutenant governor become vacant, Jefferies delayed accepting for several days,<ref>{{Cite news |date=1942-03-03 |title=Jefferies Takes Oath As Governor of SC |page=1 |work=The State |url=https://www.newspapers.com/article/the-state-jefferies-inaugurated-march-2/127582868/ |access-date=2023-07-04}}</ref> unsure if he wanted to leave his Senate duties.<ref>{{Cite news |date=1942-03-02 |title=S.C. Is Without Leader For Third Day As Jefferies Ponders Move |page=1 |work=The Index-Journal |agency=Associated Press |url=https://www.newspapers.com/article/the-index-journal-s-c-is-without-leade/127582787/ |access-date=2023-07-04}}</ref>|name=harley-jefferies}}<br/>–<br/>January 19, 1943<br>{{small|(324 days; retired)}}{{efn|Jefferies was instead reelected to the [[South Carolina Senate]].}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>president<br>pro tempore<br>of the Senate}}
+|- style="height:2em;"
+!scope="row"|''98''
+|data-sort-value="Johnston, Olin"|[[File:JOHNSTON, OLIN D. GOVERNOR LCCN2016862698 (cropped).jpg|75px]]
+|'''[[Olin D. Johnston]]'''<br>{{Small|(1896–1965)}}<br>{{sfn|Sobel|1978|p=1434}}<ref name="nga-johnston" />
+|data-sort-value="715"|January 19, 1943<ref>{{Cite news |date=1943-01-20 |title=Johnston Envisions Dry South Carolina in Inaugural Talk |page=1 |work=The Greenville News |agency=Associated Press |url=https://www.newspapers.com/article/the-greenville-news-johnston-inaugurated/127585071/ |access-date=2023-07-04}}</ref><br/>–<br/>January 2, 1945<br>{{small|(715 days; resigned)}}{{efn|Johnston resigned, having been [[1944 United States Senate election in South Carolina|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=1434}}}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1942 South Carolina gubernatorial election|1942]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Ransome Judson|Williams}}
+|- style="height:2em;"
+!scope="row"|102
+|data-sort-value="Williams, Ransome"|[[File:Ransome J. Williams (South Carolina Governor).jpg|75px]]
+|'''[[Ransome Judson Williams]]'''<br>{{Small|(1892–1970)}}<br>{{sfn|Sobel|1978|p=1437}}<ref name="nga-williams-ransome">{{Cite web |title=Ransome Judson Williams |url=https://www.nga.org/governor/ransome-judson-williams/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="750"|January 2, 1945<ref>{{Cite news |last=Wood |first=Reginald L. |date=1945-01-03 |title=Williams Takes Oath As Governor of This State |page=2 |work=The Greenville News |agency=Associated Press |url=https://www.newspapers.com/article/the-greenville-news-williams-succeeds-jo/127585258/ |access-date=2023-07-04}}</ref><br/>–<br/>January 21, 1947<br>{{small|(750 days;<br>lost nomination)}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|103
+|data-sort-value="Thurmond, Strom"|[[File:Governor Strom Thurmond.jpg|75px]]
+|'''[[Strom Thurmond]]'''<br>{{Small|(1902–2003)}}<br>{{sfn|Sobel|1978|pp=1437–1438}}<ref name="nga-thurmond">{{Cite web |title=James Strom Thurmond |url=https://www.nga.org/governor/james-strom-thurmond/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 21, 1947<ref>{{Cite news |last=Freeman |first=Wayne |date=1947-01-22 |title=Thurmond Inaugural Is Brilliant |page=1 |work=The Greenville News |url=https://www.newspapers.com/article/the-greenville-news-thurmond-inaugurated/127585323/ |access-date=2023-07-04}}</ref><br/>–<br/>January 16, 1951<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1946 South Carolina gubernatorial election|1946]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|George Bell|Timmerman Jr.}}
+|- style="height:2em;"
+!scope="row"|104
+|data-sort-value="Byrnes, James"|[[File:James F. Byrnes cph.3c32232.jpg|75px]]
+|'''[[James F. Byrnes]]'''<br>{{Small|(1882–1972)}}<br>{{sfn|Sobel|1978|pp=1438–1439}}<ref name="nga-byrnes">{{Cite web |title=James Francis Byrnes |url=https://www.nga.org/governor/james-francis-byrnes/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 16, 1951<ref>{{Cite news |last=Lavisky |first=Saul |date=1951-01-17 |title=Crowd and Good Weather Brightened 'Byrnes Day' |page=4 |work=The Herald |url=https://www.newspapers.com/article/the-herald-byrnes-inaugurated-january-16/127585396/ |access-date=2023-07-04}}</ref><br/>–<br/>January 18, 1955<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1950 South Carolina gubernatorial election|1950]]
+|- style="height:2em;"
+!scope="row"|105
+|data-sort-value="Timmerman, George"|[[File:SC Gov. George Timmerman (cropped).jpg|75px]]
+|'''[[George Bell Timmerman Jr.]]'''<br>{{Small|(1912–1994)}}<br>{{sfn|Sobel|1978|pp=1439–1440}}<ref name="nga-timmerman">{{Cite web |title=George Bell Timmerman |url=https://www.nga.org/governor/george-bell-timmerman/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 18, 1955<ref>{{Cite news |last=Duncan |first=Alderman |date=1955-01-19 |title=New Governor Out to Retain 'Way of Life' |page=1 |work=The Greenville News |agency=Associated Press |url=https://www.newspapers.com/article/the-greenville-news-timmerman-george-be/25796186/ |access-date=2023-07-04}}</ref><br/>–<br/>January 20, 1959<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1954 South Carolina gubernatorial election|1954]]
+|{{sortname|Fritz|Hollings}}
+|- style="height:2em;"
+!scope="row"|106
+|data-sort-value="Hollings, Fritz"|[[File:Fritz Hollings (SC).png|75px]]
+|'''[[Fritz Hollings]]'''<br>{{Small|(1922–2019)}}<br>{{sfn|Sobel|1978|pp=1440–1441}}<ref name="nga-hollings">{{Cite web |title=Ernest Frederick Hollings |url=https://www.nga.org/governor/ernest-frederick-hollings/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 20, 1959<ref>{{Cite news |date=1959-01-21 |title=Hollings Is Inaugurated As State's Eightieth Governor |page=1 |work=The Times and Democrat |agency=Associated Press |url=https://www.newspapers.com/article/the-times-and-democrat-hollings-inaugura/127585474/ |access-date=2023-07-04}}</ref><br/>–<br/>January 15, 1963<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1958 South Carolina gubernatorial election|1958]]
+|{{sortname|Burnet R.|Maybank Jr.}}
+|- style="height:2em;"
+!scope="row"|107
+|data-sort-value="Russell, Donald"|[[File:DonaldRussell.jpg|75px]]
+|'''[[Donald S. Russell]]'''<br>{{Small|(1906–1998)}}<br>{{sfn|Sobel|1978|p=1441}}<ref name="nga-russell">{{Cite web |title=Donald Stuart Russell |url=https://www.nga.org/governor/donald-stuart-russell/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="829"|January 15, 1963<ref>{{Cite news |last=Wickenberg |first=Charles H. |date=1963-01-16 |title=Russell Takes Office; Urges Better Schools |page=1 |work=The State |url=https://www.newspapers.com/article/the-state-russell-inaugurated-january-15/127585549/ |access-date=2023-07-04}}</ref><br/>–<br/>April 22, 1965<br>{{small|(829 days; resigned)}}{{efn|Russell resigned so that his successor would appoint him to the [[United States Senate]].{{sfn|Sobel|1978|p=1441}}}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1962 South Carolina gubernatorial election|1962]]
+|{{sortname|Robert Evander|McNair}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|108
+|rowspan="2" data-sort-value="McNair, Robert"|[[File:An undated portrait of South Carolina Governor Robert E. McNair.jpg|75px]]
+|rowspan="2"|'''[[Robert Evander McNair]]'''<br>{{Small|(1923–2007)}}<br>{{sfn|Sobel|1978|pp=1441–1442}}<ref name="nga-mcnair">{{Cite web |title=Robert Evander McNair |url=https://www.nga.org/governor/robert-evander-mcnair/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2099"|April 22, 1965<ref>{{Cite news |date=1965-04-23 |title=Gov. McNair Inaugurated; Appoints Russell to Senate |page=1 |work=The Greenville News |agency=Associated Press |url=https://www.newspapers.com/article/the-greenville-news-mcnair-succeeds-russ/127585682/ |access-date=2023-07-04}}</ref><br/>–<br/>January 19, 1971<br>{{small|(2099 days; term-limited)}}{{efn|name=limits-1926}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1966 South Carolina gubernatorial election|1966]]
+|rowspan="7" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John C.|West}}
+|- style="height:2em;"
+!scope="row"|109
+|data-sort-value="West, John"|[[File:Gov. John C. West portrait.jpg|75px]]
+|'''[[John C. West]]'''<br>{{Small|(1922–2004)}}<br>{{sfn|Sobel|1978|pp=1442–1443}}<ref name="nga-west">{{Cite web |title=John Carl West |url=https://www.nga.org/governor/john-carl-west/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1458"|January 19, 1971<ref>{{Cite news |last=Milkie |first=Joyce W. |date=1971-01-20 |title=Pomp, Ceremony and Just Plain Cold |page=1 |work=The Times and Democrat |url=https://www.newspapers.com/article/the-times-and-democrat-west-inaugurated/127585771/ |access-date=2023-07-04}}</ref><br/>–<br/>January 15, 1975<br>{{small|(1458 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Democratic Party|Democratic]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1970 South Carolina gubernatorial election|1970]]
+|{{sortname|Earle|Morris Jr.}}
+|- style="height:2em;"
+!scope="row"|110
+|data-sort-value="Edwards, James"|[[File:U.S. Secretary of Energy James Edwards of South Carolina.jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James B. Edwards]]'''<br>{{Small|(1927–2014)}}<br>{{sfn|Sobel|1978|pp=1443–1444}}<ref name="nga-edwards">{{Cite web |title=James Burrows Edwards |url=https://www.nga.org/governor/james-burrows-edwards/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 15, 1975<ref>{{Cite news |date=1975-01-15 |title=Sworn In As S.C.'s 86th Chief Executive |page=1 |work=The Columbia Record |url=https://www.newspapers.com/article/the-columbia-record-edwards-inaugurated/127585848/ |access-date=2023-07-04}}</ref><br/>–<br/>January 10, 1979<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1926}}
+|[[South Carolina Republican Party|Republican]]{{sfn|Kallenbach|1977|pp=533–536}}
+|[[1974 South Carolina gubernatorial election|1974]]
+|{{sortname|W. Brantley|Harvey Jr.}}{{efn|Represented the [[South Carolina Democratic Party|Democratic Party]]|name=lt-dem}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|111
+|rowspan="2" data-sort-value="Riley, Richard"|[[File:Portrait of SC Governor Dick Riley.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Richard Riley]]'''<br>{{small|({{Abbr|b.|born in}} 1933)}}<br><ref name="nga-riley">{{Cite web |title=Richard Wilson Riley |url=https://www.nga.org/governor/richard-wilson-riley/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2927"|January 10, 1979<ref>{{Cite news |last=Surratt |first=W. Clark |date=1979-01-11 |title=Gov. Riley Outlines Plans on S.C. Future |page=1A |work=The State |url=https://www.newspapers.com/article/the-state-riley-inaugurated-january-10/127585900/ |access-date=2023-07-04}}</ref><br/>–<br/>January 14, 1987<br>{{small|(2927 days; term-limited)}}{{efn|Under a 1981 amendment to the constitution, governors are ineligible to be elected for more than two successive terms.<ref>{{Cite web |title=S.C. Const. art. II, § 2 |url=http://www.stateconstitutions.umd.edu/Search/results.aspx?srch=1&state=%27SC%27&CID=206&art=4&sec=3&amd=&key=&Yr= |access-date=2023-12-20 |website=www.stateconstitutions.umd.edu}}</ref>|name=limits-1981}}
+|rowspan="2"|[[South Carolina Democratic Party|Democratic]]<ref name="nga-riley" />
+|[[1978 South Carolina gubernatorial election|1978]]
+|{{sortname|Nancy|Stevenson}}
+|- style="height:2em;"
+|[[1982 South Carolina gubernatorial election|1982]]
+|{{sortname|Michael R.|Daniel}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|112
+|rowspan="2" data-sort-value="Campbell, Carroll"|[[File:Campbell, Carroll (cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Carroll A. Campbell Jr.]]'''<br>{{Small|(1940–2005)}}<br><ref name="nga-campbell">{{Cite web |title=Carroll A. Campbell |url=https://www.nga.org/governor/carroll-a-campbell/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 14, 1987<ref>{{Cite news |last=Adams |first=Jerry |date=1987-01-15 |title=Campbell: S.C. Should Be 'State of Opportunity' |page=1A |work=The State |url=https://www.newspapers.com/article/the-state-campbell-inaugurated-january-1/127585928/ |access-date=2023-07-04}}</ref><br/>–<br/>January 11, 1995<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1981}}
+|rowspan="2"|[[South Carolina Republican Party|Republican]]<ref name="nga-campbell" />
+|[[1986 South Carolina gubernatorial election|1986]]
+|rowspan="2"|{{sortname|Nick|Theodore}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[1990 South Carolina gubernatorial election|1990]]
+|- style="height:2em;"
+!scope="row"|113
+|data-sort-value="Beasley, David"|[[File:GovernorBeasley.JPG|75px]]
+|'''[[David Beasley]]'''<br>{{small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-beasley">{{Cite web |title=David M. Beasley |url=https://www.nga.org/governor/david-m-beasley/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 1995<ref>{{Cite news |last=Bandy |first=Lee |date=1995-01-12 |title=GOP's Beasley Takes Oath As 113th Governor |page=1 |work=The State |url=https://www.newspapers.com/article/the-state-beasley-inaugurated-january-11/127585956/ |access-date=2023-07-04}}</ref><br/>–<br/>January 13, 1999<br>{{small|(1464 days; lost election)}}
+|[[South Carolina Republican Party|Republican]]<ref name="nga-beasley" />
+|[[1994 South Carolina gubernatorial election|1994]]
+|rowspan="6" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Bob|Peeler}}{{efn|Represented the [[South Carolina Republican Party|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|114
+|data-sort-value="Hodges, Jim"|[[File:Portrait of Jim Hodges.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Jim Hodges]]'''<br>{{small|({{Abbr|b.|born in}} 1956)}}<br><ref name="nga-hodges">{{Cite web |title=Jim Hodges |url=https://www.nga.org/governor/jim-hodges/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 13, 1999<ref>{{Cite news |date=1999-01-14 |title=Hodges Takes Oath |page=1 |work=The State |url=https://www.newspapers.com/article/the-state-hodges-inaugurated-january-13/127585976/ |access-date=2023-07-04}}</ref><br/>–<br/>January 15, 2003<br>{{small|(1464 days; lost election)}}
+|[[South Carolina Democratic Party|Democratic]]<ref name="nga-hodges" />
+|[[1998 South Carolina gubernatorial election|1998]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|115
+|rowspan="2" data-sort-value="Sanford, Mark"|[[File:Mark Sanford, Official Portrait, 113th Congress (cropped).jpg|75px]]
+|rowspan="9" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Mark Sanford]]'''<br>{{small|({{Abbr|b.|born in}} 1960)}}<br><ref name="nga-sanford">{{Cite web |title=Mark Sanford |url=https://www.nga.org/governor/mark-sanford/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="2920"|January 15, 2003<ref>{{Cite news |last=Sheinin |first=Aaron |last2=Harris |first2=Kenneth A. |date=2003-01-16 |title='Forward... With Each Other' |page=1 |work=The State |url=https://www.newspapers.com/article/the-state-sanford-inaugurated-january-15/127586003/ |access-date=2023-07-04}}</ref><br/>–<br/>January 12, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1981}}
+|rowspan="2"|[[South Carolina Republican Party|Republican]]<ref name="nga-sanford" />
+|[[2002 South Carolina gubernatorial election|2002]]
+|rowspan="2"|{{sortname|André|Bauer}}
+|- style="height:2em;"
+|[[2006 South Carolina gubernatorial election|2006]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|116
+|rowspan="4" data-sort-value="Haley, Nikki"|[[File:Official Photo of SC Governor Nikki Haley (cropped).jpg|75px]]
+|rowspan="4"|'''[[Nikki Haley]]'''<br>{{small|({{Abbr|b.|born in}} 1972)}}<br><ref name="nga-haley">{{Cite web |title=Nikki R. Haley |url=https://www.nga.org/governor/nikki-r-haley/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="2205"|January 12, 2011<ref>{{Cite news |last=Davenport |first=Jim |date=2011-01-13 |title=Haley Sworn In |page=1 |work=The Island Packet |agency=Associated Press |url=https://www.newspapers.com/article/the-island-packet-haley-inaugurated-janu/127586059/ |access-date=2023-07-04}}</ref><br/>–<br/>January 24, 2017<br>{{small|(2205 days; resigned)}}{{efn|Haley resigned, having been confirmed as [[United States Ambassador to the United Nations]].<ref name="mcmaster-haley" />}}
+|rowspan="4"|[[South Carolina Republican Party|Republican]]<ref name="nga-haley" />
+|rowspan="3"|[[2010 South Carolina gubernatorial election|2010]]
+|{{sortname|Ken|Ard|dab=politician}}
+|- style="height:2em;"
+|{{sortname|Glenn F.|McConnell}}
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Yancey|McGill}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+|[[2014 South Carolina gubernatorial election|2014]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Henry|McMaster}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|117
+|rowspan="3" data-sort-value="McMaster, Henry"| [[File:Governor Henry McMaster Official Photo 2019 (crop).jpg|75px]]
+|rowspan="3"|'''[[Henry McMaster]]'''<br>{{small|({{Abbr|b.|born in}} 1947)}}<br><ref name="nga-mcmaster">{{Cite web |title=Henry McMaster |url=https://www.nga.org/governor/henry-mcmaster/ |access-date=June 30, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="{{Duration in days nts|2017|1|24|duration=on|format=no}}"|January 24, 2017<ref name="mcmaster-haley">{{Cite news |last=Self |first=Jamie |date=2017-01-25 |title=Haley Gets UN Post; McMaster Is Governor |page=A1 |work=The State |url=https://www.newspapers.com/article/the-state-mcmaster-succeeds-haley-januar/127586101/ |access-date=2023-07-04}}</ref><br/>–<br/>Incumbent{{efn|McMaster's second full term began on January 11, 2023,<ref>{{Cite news |last=Bustos |first=Joseph |last2=Harris |first2=Javon L. |date=2023-01-11 |title=SC Gov. McMaster targets $50K teacher pay, judicial transparency in 2nd inauguration speech |url=https://www.thestate.com/news/politics-government/article270988787.html |archive-url=https://web.archive.org/web/20230111210712/https://www.thestate.com/news/politics-government/article270988787.html |archive-date=2023-01-11 |access-date=2025-01-23 |work=The State |language=en}}</ref> and [[2026 South Carolina gubernatorial election|will expire]] on January 13, 2027; he will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2017|1|24|duration=on|format=no}} days)}}
+|rowspan="3"|[[South Carolina Republican Party|Republican]]<ref name="nga-mcmaster" />
+|style="background:#EEEEEE"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|{{sortname|Kevin L.|Bryant}}
+|- style="height:2em;"
+|[[2018 South Carolina gubernatorial election|2018]]
+|rowspan="2"|{{sortname|Pamela|Evette}}
+|- style="height:2em;"
+||[[2022 South Carolina gubernatorial election|2022]]
+|}
+
+==See also==
+* [[List of South Carolina state legislatures]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+* {{Cite web |title=Former South Carolina Governors |url=https://www.nga.org/former-governors/south-carolina/ |access-date=June 17, 2023 |publisher=National Governors Association}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of South Carolina - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=167 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+* {{Cite web |title=Our Campaigns - Governor of South Carolina (CSA) - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=68432 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+; Specific
+{{reflist}}
+
+==External links==
+*[https://governor.sc.gov/ Office of the Governor of South Carolina]
+* [http://www.sciway.net/hist/governors/gov_term.html SCIway List of South Carolina Governors in Chronological Order]
+* [http://www.halseymap.com/Flash/governors.asp "South Carolina's Colonial Governors" Preservation Society Halsey Map]
+
+{{Governors of South Carolina}}
+{{South Carolina}}
+{{US Chief Executives}}
+
+[[Category:Governors of South Carolina|*]]
+[[Category:South Carolina history-related lists|Governors]]
+[[Category:Lists of South Carolina politicians|Governors]]
+[[Category:Lists of state governors of the United States|South Carolina]]

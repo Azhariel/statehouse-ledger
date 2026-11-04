@@ -1,0 +1,934 @@
+{{Short description|Politics in the US state of Hawaii}}
+{{multiple issues|
+{{original research|date=December 2011}}
+{{more citations needed|date=December 2011}}
+}}
+
+The following table indicates the party of elected officials in the [[U.S. state]] of [[Hawaii]]:
+*[[Governor of Hawaii|Governor]]
+*[[Lieutenant Governor of Hawaii|Lieutenant Governor]]
+
+The table also indicates the historical party composition in the:
+*[[Hawaii Senate|State Senate]]
+*[[Hawaii House of Representatives|State House of Representatives]]
+*[[List of United States senators from Hawaii|State delegation to the U.S. Senate]]
+*[[List of United States representatives from Hawaii|State delegation to the U.S. House of Representatives]]
+
+For years in which a [[United States presidential election|presidential election]] was held, the table indicates which party's nominees received the state's electoral votes.
+
+The parties are as follows: 
+*{{legend2|#FAD6A5 |[[Home Rule Party of Hawaii|Home Rule]] |border=1px solid #AAAAAA}} (HR)
+*{{legend2|#B0CEFF |[[Democratic Party of Hawaii|Democratic]] |border=1px solid #AAAAAA}} {{small|(D)}}
+*[[Independent (Kuokoa) Party|Independent (Kuoka)]] (IK)
+*{{legend2|#D99FE8 |[[Lunalilo Party|Lunalilo]] |border=1px solid #AAAAAA}} (Lu)
+*{{legend2|#FFD700 |[[National Liberal Party (Hawaii)|National Liberal]] |border=1px solid #AAAAAA}} (NL)
+*{{legend2|#FFA500 |[[National Party (Hawaii)|National/King's]] |border=1px solid #AAAAAA}} (N)
+*{{legend2|#DDDDAA |[[National Reform Party (Hawaii)|National Reform]] |border=1px solid #AAAAAA}} {{small|(NR)}}
+*[[Queen Emma Party]] (Q)
+*{{legend2|#FFB6B6 |[[Hawaii Republican Party|Reform/Republican]] |border=1px solid #AAAAAA}} {{small|(R)}}
+*{{legend2|#F0C862 |[[Whig Party (United States)|Whig]] |border=1px solid #AAAAAA}} {{small|(W)}}
+*[[Independent politician|No Party]] {{small|(NP)}}
+
+== Kingdom of Hawaii ==
+===1810–1843===
+{|class="wikitable" style="text-align:center"
+!rowspan=2 |Year
+!colspan=2 |Executive offices
+!colspan=2 |[[Hawaii State Legislature|Legislature]]
+!colspan=4 |[[United States Department of State|State Department]]
+|- style="height:2em"
+![[List of Hawaiian monarchs|Monarch]]
+![[Kuhina Nui|Prime Minister]]
+![[Legislature of the Hawaiian Kingdom|House of Nobles]]
+![[Hawaii House of Representatives|House of Rep.]]
+!colspan=4 |[[List of ministers of the United States to Hawaii|Agent]]
+|- style="height:2em"
+!1810
+|rowspan=4 |[[Kamehameha I]] {{small|(NP)}}
+|rowspan=3 |''no such office''
+|rowspan=14 |''no such offices''
+|rowspan=14 |''no such offices''
+|colspan=4 rowspan=4 |''no such office''
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1818
+|- style="height:2em"
+!1819
+|rowspan=7 |[[Kaʻahumanu]] {{small|(?)}}
+|- style="height:2em"
+!1820
+|rowspan=3 |[[Kamehameha II]] {{small|(?)}}
+|colspan=4 rowspan=9 |[[John Coffin Jones Jr.]] {{small|(?)}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1824
+|- style="height:2em"
+!1825
+|rowspan=10 |[[Kamehameha III]] {{small|(?)}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1832
+|- style="height:2em"
+!1833
+|rowspan=4 |[[Kīnaʻu]] {{small|(?)}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1838
+|- style="height:2em"
+!1839
+|colspan=4 rowspan=4 |[[Peter A. Brinsmade]] {{small|(?)}}
+|- style="height:2em"
+!1840
+|rowspan=3 |[[Kekāuluohi]] {{small|(?)}}
+|- style="height:2em"
+!...
+|- style="height:2em"
+!1843
+|}
+
+===1843===
+{|class="wikitable" style="text-align:center"
+!
+!colspan=5 |[[Paulet affair|Provisional Cession]]
+|- style="height:2em"
+!Year
+![[Local Representative of Her Majesty Queen Victoria|Representative]]
+!Commissioners
+!Deputy
+![[List of ministers of the United States to Hawaii|Commissioner]]
+![[List of ministers of the United States to Hawaii|Agent]]
+|- style="height:2em"
+!rowspan=2 |1843
+|[[Lord George Paulet|George Paulet]] {{small|(NP)}}
+|[[Duncan Forbes Mackay|Duncan F. Mackay]] {{small|(NP)}}<br>and [[John E. Frere]] {{small|(NP)}}
+|rowspan=2 |[[Gerrit P. Judd]] {{small|(?)}}
+|rowspan=2 |George Brown {{small|(?)}}
+|rowspan=2 |[[Peter A. Brinsmade]] {{small|(?)}}
+|- style="height:2em"
+|[[Richard Darton Thomas|Richard D. Thomas]] {{small|(NP)}}
+|[[John E. Frere]] {{small|(NP)}}
+|}
+
+===1843–1893===
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=8 |[[Hawaiian Kingdom|Kingdom]]
+!rowspan=2 class=unsortable |[[Kingdom of Hawaii#Elected monarchy|Royal Elections]]
+|- style="height:2em"
+!class=unsortable |[[List of Hawaiian monarchs|Monarch]]
+!class=unsortable |[[Kuhina Nui|Prime Minister]]
+!class=unsortable |[[Legislature of the Hawaiian Kingdom|House of Nobles]]
+!class=unsortable |[[Hawaii House of Representatives|House of Rep.]]
+!colspan=2 class=unsortable |[[List of ministers of the United States to Hawaii|Commissioner]]
+!colspan=2 class=unsortable |[[List of ministers of the United States to Hawaii|Consul]]
+|- style="height:2em"
+!1843
+|rowspan=12 |[[Kamehameha III]] {{small|(?)}}
+|rowspan=3 |[[Kekāuluohi]] {{small|(?)}}
+|
+|
+|rowspan=3 colspan=2 |George Brown {{small|(?)}}
+|colspan=2 |[[Peter A. Brinsmade]] {{small|(?)}}
+|colspan=2 rowspan=30 |''no such office''
+|- style="height:2em"
+!1844
+|rowspan=2 |&nbsp;
+|rowspan=2 |&nbsp;
+|rowspan=2 colspan=2 |[[Alexander G. Abell]] {{small|(?)}}
+|- style="height:2em"
+!1845
+|- style="height:2em"
+!1846
+|rowspan=10 |[[Keoni Ana]] {{small|(?)}}
+|rowspan=3 |&nbsp;
+|rowspan=3 |&nbsp;
+|rowspan=3 colspan=2 |Anthony Ten Eyke {{small|(?)}}
+|{{party shading/Democratic}} rowspan=4 colspan=2 |[[Joel Turrill]] {{small|(D)}}
+|- style="height:2em"
+!1847
+|- style="height:2em"
+!1848
+|- style="height:2em"
+!1849
+|
+|
+|rowspan=1 colspan=2 |Charles Eames {{small|(?)}}
+|- style="height:2em"
+!1850
+|rowspan=3 |&nbsp;
+|rowspan=3 |&nbsp;
+|{{party shading/Whig}} rowspan=3 colspan=2 |[[Luther Severance]] {{small|(W)}}
+|{{party shading/Whig}} rowspan=3 colspan=2 |[[Elisha H. Allen]] {{small|(W)}}
+|- style="height:2em"
+!1851
+|- style="height:2em"
+!1852
+|- style="height:2em"
+!1853
+|
+|
+|rowspan=5 colspan=2 {{Party shading/Democratic}} |[[David L. Gregg]] {{small|(D–IL)}}
+|rowspan=1 colspan=2 {{Party shading/Democratic}} |[[Benjamin F. Angel]] {{small|(D)}}
+|- style="height:2em"
+!1854
+|rowspan=3 |&nbsp;
+|rowspan=3 |&nbsp;
+|rowspan=3 colspan=2 {{Party shading/Democratic}} |[[Darius A. Ogden]] {{small|(D-NY)}}
+|- style="height:2em"
+!1855
+|rowspan=9 |[[Kamehameha IV]] {{small|(?)}}
+|- style="height:2em"
+!1856
+|rowspan=8 |[[Victoria Kamāmalu]] {{small|(?)}}
+|- style="height:2em"
+!1857
+|
+|
+|rowspan=3 colspan=2 |[[Abner Pratt]] {{small|(?)}}
+|- style="height:2em"
+!1858
+|rowspan=2 |&nbsp;
+|rowspan=2 |&nbsp;
+|rowspan=3 colspan=2 {{Party shading/Democratic}} |[[James W. Borden]] {{small|(D–IN)}}
+|- style="height:2em"
+!1859
+|- style="height:2em"
+!1860
+|
+|
+|rowspan=34 colspan=2 |''no such office''
+|- style="height:2em"
+!1861
+|rowspan=2 |&nbsp;
+|rowspan=2 |&nbsp;
+|{{party shading/Whig}} rowspan=2 colspan=2 |[[Thomas J. Dryer]] {{small|(W)}}
+|- style="height:2em"
+!1862
+|- style="height:2em"
+!1863
+|rowspan=3 |&nbsp;
+|rowspan=3 |&nbsp;
+|{{Party shading/Republican}} rowspan=3 colspan=2 |[[James McBride (politician)|James McBride]] {{small|(R-OR)}}
+|- style="height:2em"
+!1864
+|rowspan=9 |[[Kamehameha V]] {{small|(?)}}
+|[[Kekūanaōʻa]] {{small|(?)}}
+|- style="height:2em"
+!1865
+|rowspan=17 |''no such office''
+|- style="height:2em"
+!1866
+|rowspan=3 |&nbsp;
+|rowspan=3 |&nbsp;
+|{{Party shading/Republican}} rowspan=3 colspan=2 |[[Edward M. McCook]] {{small|(R-CO)}}
+|- style="height:2em"
+!1867
+|- style="height:2em"
+!1868
+|- style="height:2em"
+!1869
+|rowspan=4 |&nbsp;
+|rowspan=4 |&nbsp;
+|rowspan=8 colspan=2 |[[Henry A. Peirce]] {{small|(?)}}
+|- style="height:2em"
+!1870
+|- style="height:2em"
+!1871
+|- style="height:2em"
+!1872
+|- style="height:2em"
+!1873
+|rowspan=2 {{Party shading/Lunalilo Party}} |[[Lunalilo]] {{small|([[Lunalilo Party|Lu]])}}
+|
+|
+|{{Party shading/Lunalilo Party}} |[[Lunalilo]] {{small|(Lu)}}, [[House of Keoua|Kalaimamahu Dynasty]]
+|- style="height:2em"
+!1874
+|
+|
+|rowspan=20 {{Party shading/King's Party (Kalakaua)}} |[[Kalākaua]] {{small|(N)}}, [[House of Kalākaua|Kalākaua Dynasty]]
+|- style="height:2em"
+!1875
+|rowspan=17 {{Party shading/King's Party (Kalakaua)}} |[[Kalākaua]] {{small|([[National Party (Hawaii)|N]])}}
+|colspan=2 rowspan=2 |{{data missing|?|date=June 2021}}
+|- style="height:2em"
+!1876
+|- style="height:2em"
+!1877
+|colspan=2 rowspan=2 |?N, [[Queen Emma Party|2Q]], [[Hawaii Republican Party|?R]], ?NP<br>{{data missing|?|date=June 2021}}
+|colspan=2 rowspan=5 {{Party shading/Republican}} |[[James M. Comly]] {{small|(R)}}
+|- style="height:2em"
+!1878
+|- style="height:2em"
+!1879
+|colspan=2 rowspan=2 |{{data missing|?|date=June 2021}}
+|- style="height:2em"
+!1880
+|- style="height:2em"
+!1881
+|colspan=2 rowspan=2 |?N, ?Q, ?R, ?NP<br>{{data missing|?|date=June 2021}}
+|- style="height:2em"
+!1882
+|rowspan=5 {{Party shading/King's Party (Kalakaua)}} |[[Walter M. Gibson]] {{small|(N)}}
+|colspan=2 rowspan=3 {{Party shading/Republican}} |[[Rollin M. Daggett]] {{small|(R)}}
+|- style="height:2em"
+!1883
+|colspan=2 rowspan=2 |?N, 3Q, ?R, ?NP<br>{{data missing|?|date=June 2021}}
+|- style="height:2em"
+!1884
+|- style="height:2em"
+!1885
+|colspan=2 rowspan=2 {{Party shading/King's Party (Kalakaua)}} |15N, [[Independent (Kuokoa) Party|13IK]]{{efn |The House of Nobles and House of Representatives were merged into a 28-member body in 1864.}}
+|colspan=2 rowspan=4 |[[George W. Merrill]] {{small|(?)}}
+|- style="height:2em"
+!1886
+|- style="height:2em"
+!1887
+|rowspan=7 |''no such office''
+|colspan=2 {{Party shading/King's Party (Kalakaua)}} |18N, 10IK
+|- style="height:2em"
+!1888
+|rowspan=3 {{Party shading/Republican}} |{{data missing|?|date=June 2021}}
+|rowspan=3 {{Party shading/Republican}} |{{data missing|?|date=June 2021}}
+|- style="height:2em"
+!1889
+|colspan=2 rowspan=5 {{Party shading/Republican}} |[[John L. Stevens]] {{small|(R)}}
+|- style="height:2em"
+!1890
+|- style="height:2em"
+!1891
+|rowspan=2 {{Party shading/Republican}} |13R, [[National Reform Party (Hawaii)|9NR]], 2IK
+|rowspan=2 {{Party shading/ReformUSA}} |[[National Reform Party (Hawaii)|14NR]], 10R
+|- style="height:2em"
+!1892
+|rowspan=2 {{Party shading/ReformUSA}} |[[Liliʻuokalani]] {{small|(NP, NR [[Cabinet (government)|cabinet]])}}
+|- style="height:2em"
+!1893
+|{{Party shading/Republican}} |14R, 3NR, [[National Liberal Party (Hawaii)|2NL]]
+|{{Party shading/Hawaiian National Liberal Party}} |[[National Liberal Party (Hawaii)|12NL]], 9R, 5NR, 3IK
+|}
+
+== Republic of Hawaii ==
+{|class="wikitable" style="text-align:center"
+!
+![[President of Hawaii|President]]
+![[Vice President of Hawaii|Vice President]]{{efn |The office of Vice-President was not carried over into the [[Republic of Hawaii]]. In case of the president's inability to govern (absence, death, or incapacitation) the Minister of Foreign Affairs would have become acting president. Previously, this would be the case if both the President and Vice-president were unable to govern.}}
+![[Hawaii Senate|Senate]]
+![[Hawaii House of Representatives|House of Rep.]]
+|- style="height:2em"
+!1893
+|rowspan=6 {{Party shading/Republican}} |[[Sanford B. Dole]] {{small|(R)}}
+|{{Party shading/Republican}} |[[William Chauncey Wilder]] {{small|(R)}}<ref>Hawaiian Kingdom 1874–1893, the Kalakaua Dynastism by Ralph S. Kuykendall page 521</ref>
+|colspan=2 |''no such bodies''
+|- style="height:2em"
+!1894
+|rowspan=5 |''no such office''
+|rowspan=3 {{Party shading/Republican}} |15R
+|rowspan=5 {{Party shading/Republican}} |15R
+|- style="height:2em"
+!1895
+|- style="height:2em"
+!1896
+|- style="height:2em"
+!1897
+|rowspan=2 {{Party shading/Republican}} |15R
+|- style="height:2em"
+!1898
+|}
+
+== Territory of Hawaii ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=4 |Executive offices
+!colspan=2 |Territorial Legislature
+!rowspan=2 class=unsortable |[[Hawaii Territory's at-large congressional district|Territorial delegate]]
+|- style="height:2em"
+!class=unsortable |[[Governor of Hawaii|Governor]]
+!class=unsortable |Sec. of Terr.
+!class=unsortable |Attorney General
+!class=unsortable |Treasurer
+!class=unsortable |[[Hawaii Senate|Senate]]
+!class=unsortable |[[Hawaii House of Representatives|House of Rep.]]
+|- style="height:2em"
+!1898
+|rowspan=6 {{Party shading/Republican}} |[[Sanford B. Dole]] {{small|(R)}}{{efn |name=terrgov|Territorial governor appointed by the [[President of the United States]].}}{{efn |Resigned to take seat on the [[United States District Court for the District of Hawaii|United States District Court for Hawaii Territory]].}}
+|colspan=3 |''no such offices''
+|rowspan=2 {{Party shading/Republican}} |
+|rowspan=2 {{Party shading/Republican}} |
+|rowspan=2 |''no such office''
+|- style="height:2em"
+!1899
+|Ernest A. Mott-Smith
+|[[Henry E. Cooper]]
+|Henry E. Cooper
+|- style="height:2em"
+!1900
+|rowspan=3 |Henry E. Cooper
+|rowspan=4 |[[Edmund Pearson Dole]]
+|Theodore F. Lansing
+|rowspan=3 {{Party shading/Aloha Aina}} |[[Home Rule Party of Hawaii|9HR]], 6R
+|rowspan=3 {{Party shading/Aloha Aina}} |[[Home Rule Party of Hawaii|17HR]], 9R, [[Democratic Party of Hawaii|4D]]
+|rowspan=3 {{Party shading/Aloha Aina}} |[[Robert William Wilcox]] {{small|([[Home Rule Party of Hawaii|HR]])}}<ref>{{CongBio|W000459|Robert William Wilcox|inline=yes}}</ref>
+|- style="height:2em"
+!1901
+|rowspan=2 |William H. Wright
+|- style="height:2em"
+!1902
+|- style="height:2em"
+!1903
+|{{Party shading/Republican}} |George R. Carter {{small|(R)}}
+|A. N. Kepoikai
+|rowspan=2 {{Party shading/Republican}} |10R, 4HR, 1D
+|rowspan=2 {{Party shading/Republican}} |20R, 10HR
+|rowspan=21 {{Party shading/Republican}} |[[Jonah Kūhiō Kalanianaʻole]] {{small|(R)}}
+|- style="height:2em"
+!1904
+|rowspan=4 {{Party shading/Republican}} |[[George R. Carter]] {{small|(R)}}{{efn |name=terrgov}}{{efn |Resigned; term was to have ended November 23, 1907.}}
+|rowspan=4 |A. L. C. Atkinson
+|rowspan=2 |Lorrin Andrews
+|rowspan=5 |A. J. Campbell
+|- style="height:2em"
+!1905
+|rowspan=2 {{Party shading/Republican}} |14R, 1D
+|rowspan=2 {{Party shading/Republican}} |28R, 1D, 1HR
+|- style="height:2em"
+!1906
+|rowspan=2 |Emil C. Peters
+|- style="height:2em"
+!1907
+|rowspan=2 {{Party shading/Republican}} |12R, 2D, 1HR
+|rowspan=2 {{Party shading/Republican}} |24R, 6HR
+|- style="height:2em"
+!1908
+|rowspan=7 {{Party shading/Republican}} |[[Walter F. Frear]] {{small|(R)}}{{efn |name=terrgov}}
+|rowspan=7 |Ernest A. Mott-Smith
+|rowspan=3 |Charles R. Hemenway
+|- style="height:2em"
+!1909
+|Charles Reed Hemenway
+|rowspan=2 {{Party shading/Republican}} |9R, 4D, 2HR
+|rowspan=2 {{Party shading/Republican}} |22R, 7D, 1HR
+|- style="height:2em"
+!1910
+|rowspan=6 |D. L. Conkling
+|- style="height:2em"
+!1911
+|rowspan=4 |Alexander Lindsay Jr.
+|rowspan=2 {{Party shading/Republican}} |12R, 2HR, 1D
+|rowspan=2 {{Party shading/Republican}} |28R, 2HR
+|- style="height:2em"
+!1912
+|- style="height:2em"
+!rowspan=2 |1913
+|- style="height:2em"
+|rowspan=2 {{Party shading/Republican}} |18R, 15D, 2HR
+|rowspan=2 {{Party shading/Republican}} |18R, 11D, 1HR
+|- style="height:2em"
+!1914
+|rowspan=5 {{Party shading/Democratic}} |[[Lucius E. Pinkham]] {{small|(D)}}{{efn |name=terrgov}}
+|rowspan=4 |Wade Warren Thayer
+|Wade Warren Thayer
+|- style="height:2em"
+!1915
+|rowspan=4 {{Party shading/Democratic}} |[[Ingram Stainback]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |Charles J. McCarthy {{small|(D)}}
+|rowspan=2 {{Party shading/Republican}} |8R, 7D
+|rowspan=2 {{Party shading/Republican}} |29R, 1D
+|- style="height:2em"
+!1916
+|- style="height:2em"
+!1917
+|rowspan=3 {{Party shading/Republican}} |12R, 3D
+|rowspan=3 {{Party shading/Republican}} |24R, 6D
+|- style="height:2em"
+!rowspan=2 |1918
+|rowspan=5 |Curtis P. Iaukea
+|- style="height:2em"
+|rowspan=4 {{Party shading/Democratic}} |[[Charles J. McCarthy]] {{small|(D)}}{{efn |name=terrgov}}
+|Arthur G. Smith
+|rowspan=4 |Delbert E. Metzger
+|- style="height:2em"
+!1919
+|rowspan=4 |Harry Irwin
+|rowspan=2 {{Party shading/Republican}} |14R, 1D
+|rowspan=2 {{Party shading/Republican}} |24R, 6D
+|- style="height:2em"
+!1920
+|- style="height:2em"
+!1921
+|rowspan=2 {{Party shading/Republican}} |{{data missing|?|date=June 2021}}
+|rowspan=2 {{Party shading/Republican}} |26R, 4D
+|- style="height:2em"
+!1922
+|rowspan=8 {{Party shading/Republican}} |[[Wallace Rider Farrington]] {{small|(R)}}{{efn |name=terrgov}}
+|rowspan=13 |Raymond C. Brown
+|A. Lewis Jr.
+|{{Party shading/Republican}} |[[Henry Alexander Baldwin]] {{small|(R)}}
+|- style="height:2em"
+!1923
+|rowspan=3 |John A. Matthewman
+|rowspan=7 |Henry C. Hapai
+|rowspan=2 {{Party shading/Republican}} |15R, 0D
+|rowspan=2 {{Party shading/Republican}} |29R, 1D<ref>{{cite web|title=Laws of the Territory of Hawaii Passed by the Twelfth Legislature – Regular Session 1923|url=http://www.llmc.com/OpenAccess/docDisplay5.aspx?textid=26257822|publisher=LLMC Digital|access-date=17 February 2021}}</ref>
+|rowspan=4 {{Party shading/Democratic}} |[[William Paul Jarrett]] {{small|(D)}}
+|- style="height:2em"
+!1924
+|- style="height:2em"
+!1925
+|rowspan=2 {{Party shading/Republican}} |{{data missing|?|date=June 2021}}
+|rowspan=2 {{Party shading/Republican}} |27R, 3D
+|- style="height:2em"
+!1926
+|rowspan=2 |William B. Lymer
+|- style="height:2em"
+!1927
+|rowspan=2 {{Party shading/Republican}} |13R, 2D
+|rowspan=2 {{Party shading/Republican}} |28R, 2D<ref>{{cite web|title=Laws of the Territory of Hawaii Passed by the Fourteenth Legislature – Regular Session 1927|url=http://www.llmc.com/OpenAccess/docDisplay5.aspx?textid=26258288|publisher=LLMC Digital|access-date=17 February 2021}}</ref>
+|rowspan=6 {{Party shading/Republican}} |[[Victor S. K. Houston]] {{small|(R)}}
+|- style="height:2em"
+!1928
+|rowspan=7 |Harry P. Hewitt
+|- style="height:2em"
+!1929
+|rowspan=2 {{Party shading/Republican}} |14R, 1D
+|rowspan=2 {{Party shading/Republican}} |27R, 3D<ref>{{cite web|title=Laws of the Territory of Hawaii Passed by the Fifteenth Legislature – Regular Session 1929|url=http://www.llmc.com/OpenAccess/docDisplay5.aspx?textid=26258536|publisher=LLMC Digital|access-date=19 February 2021|page=iv}}</ref>
+|- style="height:2em"
+!1930
+|rowspan=5 {{Party shading/Republican}} |[[Lawrence M. Judd]] {{small|(R)}}{{efn |name=terrgov}}
+|rowspan=5 |E. S. Smith
+|- style="height:2em"
+!1931
+|rowspan=2 {{Party shading/Republican}} |14R, 1D
+|rowspan=2 {{Party shading/Republican}} |28R, 2D
+|- style="height:2em"
+!1932
+|- style="height:2em"
+!1933
+|rowspan=3 {{Party shading/Republican}} |11R, 4D
+|rowspan=3 {{Party shading/Republican}} |20R, 10D
+|rowspan=3 {{Party shading/Democratic}} |[[Lincoln L. McCandless]] {{small|(D)}}
+|- style="height:2em"
+!rowspan=2 |1934
+|- style="height:2em"
+|rowspan=9 {{Party shading/Democratic}} |[[Joseph Poindexter]] {{small|(D)}}{{efn |name=terrgov}}{{efn |Remained in office for several months after his term expired until his successor was confirmed.}}
+|rowspan=2 |Arthur A. Greene
+|rowspan=3 |William B. Pittman
+|rowspan=6 |William C. McGonagle
+|- style="height:2em"
+!1935
+|rowspan=2 {{Party shading/Republican}} |10R, 5D
+|rowspan=2 {{Party shading/Republican}} |23R, 7D
+|rowspan=9 {{Party shading/Republican}} |[[Samuel Wilder King]] {{small|(R)}}
+|- style="height:2em"
+!1936
+|rowspan=7 |Charles Maner Hite
+|- style="height:2em"
+!1937
+|rowspan=2 |Samuel B. Kemp
+|rowspan=2 {{Party shading/Republican}} |10R, 4D, 1I
+|rowspan=2 {{Party shading/Republican}} |26R, 4D
+|- style="height:2em"
+!1938
+|- style="height:2em"
+!1939
+|rowspan=3 |Joseph V. Hodgson
+|rowspan=2 {{Party shading/Republican}} |12R, 3D
+|rowspan=2 {{Party shading/Republican}} |27R, 3D
+|- style="height:2em"
+!1940
+|rowspan=4 |Norman D. Godbold Jr.
+|- style="height:2em"
+!1941
+|rowspan=3 {{Party shading/Republican}} |12R, 3D
+|rowspan=3 {{Party shading/Republican}} |27R, 3D
+|- style="height:2em"
+!rowspan=2 |1942
+|Ernest K. Kai
+|- style="height:2em"
+|rowspan=10 {{Party shading/Democratic}} |[[Ingram Stainback]] {{small|(D)}}{{efn |name=terrgov}}{{efn |Had little power until October 24, 1944, as his predecessor, Joseph Poindexter, had declared martial law on December 7, 1941, following the [[attack on Pearl Harbor]], delegating executive authority to the military. During the period of military rule, the territory was governed by Lieutenant Generals [[Walter Short]], [[Delos Emmons]], and [[Robert C. Richardson, Jr.]]}}
+|rowspan=2 |Ernest K. Kai
+|rowspan=2 |J. Garner Anthony
+|- style="height:2em"
+!1943
+|rowspan=4 |Walter D. Ackerman Jr.
+|rowspan=2 {{Party shading/Republican}} |11R, 4D
+|rowspan=2 {{Party shading/Republican}} |25R, 5D
+|rowspan=13 {{Party shading/Republican}} |[[Joseph R. Farrington]] {{small|(R)}}
+|- style="height:2em"
+!1944
+|rowspan=2 |Gerald R. Corbett
+|rowspan=2 |[[Cyrus Nils Tavares]]
+|- style="height:2em"
+!1945
+|rowspan=2 {{Party shading/Republican}} |8R, 7D
+|rowspan=2 {{Party shading/Republican}} |21R, 9D
+|- style="height:2em"
+!1946
+|rowspan=6 {{Party shading/Democratic}} |Oren E. Long {{small|(D)}}
+|Rhoda V. Lewis
+|- style="height:2em"
+!1947
+|rowspan=7 |Walter D. Ackerman Jr.
+|Howard H. Adams
+|rowspan=2 {{Party shading/Republican}} |8R, 7D
+|rowspan=2 {{Party shading/Republican}} |15R, 15D{{efn |The House elected a Republican speaker, who broke ties.}}
+|- style="height:2em"
+!1948
+|rowspan=4 |William B. Brown
+|- style="height:2em"
+!1949
+|rowspan=2 {{Party shading/Republican}} |9R, 6D
+|rowspan=2 {{Party shading/Republican}} |20R, 10D
+|- style="height:2em"
+!1950
+|- style="height:2em"
+!rowspan=2 |1951
+|rowspan=3 {{Party shading/Republican}} |9R, 6D
+|rowspan=3 {{Party shading/Republican}} |21R, 9D
+|- style="height:2em"
+|rowspan=3 {{Party shading/Democratic}} |[[Oren E. Long]] {{small|(D)}}{{efn |name=terrgov}}
+|rowspan=3 |Frank G. Serrao
+|Howard H. Adams
+|- style="height:2em"
+!1952
+|[[Sakae Takahashi (politician)|Sakae Takahashi]]
+|- style="height:2em"
+!rowspan=2 |1953
+|Michiro Watanabe
+|rowspan=8 |Kam Tai Lee
+|rowspan=3 {{Party shading/Republican}} |8R, 7D
+|rowspan=3 {{Party shading/Republican}} |19R, 11D
+|- style="height:2em"
+|rowspan=5 {{Party shading/Republican}} |[[Samuel Wilder King]] {{small|(R)}}{{efn |name=terrgov}}{{efn |Resigned immediately when denied a second term by Eisenhower.}}
+|rowspan=7 |Farrant L. Turner
+|rowspan=3 |Edward N. Sylva
+|- style="height:2em"
+!1954
+|rowspan=3 {{Party shading/Republican}} |[[Elizabeth P. Farrington]] {{small|(R)}}
+|- style="height:2em"
+!1955
+|rowspan=2 {{Party shading/Democratic}} |9D, 6R
+|rowspan=2 {{Party shading/Democratic}} |22D, 8R
+|- style="height:2em"
+!1956
+|Richard K. Sharpless
+|- style="height:2em"
+!rowspan=2 |1957
+|[[Shiro Kashiwa]]
+|rowspan=3 {{Party shading/Democratic}} |12D, 3R
+|rowspan=3 {{Party shading/Democratic}} |18D, 12R
+|rowspan=4 {{Party shading/Democratic}} |[[John A. Burns]] {{small|(D)}}
+|- style="height:2em"
+|rowspan=3 {{Party shading/Republican}} |[[William F. Quinn]] {{small|(R)}}{{efn |name=terrgov}}
+|rowspan=2 |[[Herbert Choy]]
+|- style="height:2em"
+!1958
+|- style="height:2em"
+!1959
+|Edward E. Johnston
+|[[Jack Mizuha]]
+|Raymond Y. C. Ho
+|{{Party shading/Democratic}} |16D, 9R
+|{{Party shading/Democratic}} |33D, 18R<ref>{{cite web|title=Laws of the Territory of Hawaii Passed by the Thirtieth Legislature – Regular Session 1959|url=http://www.llmc.com/OpenAccess/docDisplay5.aspx?textid=26242939|publisher=LLMC Digital|access-date=19 February 2021}}</ref>
+|}
+
+== State of Hawaii ==
+{{sticky header}}
+{|class="wikitable sortable sticky-header-multi" style="text-align:center"
+!rowspan=2 class=unsortable |Year
+!colspan=2 |Executive Offices
+!colspan=2 |State Legislature
+!colspan=4 |U.S. Congress
+!rowspan=2 class=unsortable |[[United States presidential election|Electoral votes]]
+|- style="height:2em"
+!class=unsortable |[[Governor of Hawaii|Governor]]
+!class=unsortable |[[Lieutenant Governor of Hawaii|Lieutenant Governor]]
+!class=unsortable |[[Hawaii Senate|State Senate]]
+!class=unsortable |[[Hawaii House of Representatives|State House]]
+!class=unsortable |[[List of United States senators from Hawaii|U.S. Senator (Class I)]]
+!class=unsortable |[[List of United States senators from Hawaii|U.S. Senator (Class III)]]
+!class=unsortable |[[Hawaii's 1st congressional district|U.S. House District 1]]
+!class=unsortable |[[Hawaii's 2nd congressional district|U.S. House District 2]]
+|- style="height:2em"
+!1959
+|rowspan=4 {{Party shading/Republican}} |[[William F. Quinn]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |[[James Kealoha]] {{small|(R)}}
+|rowspan=4 {{Party shading/Republican}} |14R, 11D
+|rowspan=4 {{Party shading/Democratic}} |33D, 18R
+|rowspan=18 {{Party shading/Republican}} |[[Hiram Fong]] {{small|(R)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Oren E. Long]] {{small|(D)}}
+|colspan=2 rowspan=4 {{Party shading/Democratic}} |[[Daniel Inouye]] {{small|(D)}}{{efn |name=atlarge|Elected [[Hawaii's At-large congressional district|at-large]] on a [[general ticket]].}}
+|
+|- style="height:2em"
+!1960
+|rowspan=4 {{Party shading/Democratic}} |[[John F. Kennedy]]/<br>[[Lyndon B. Johnson]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1961
+|- style="height:2em"
+!1962
+|- style="height:2em"
+!1963
+|rowspan=12 {{Party shading/Democratic}} |[[John A. Burns]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[William S. Richardson]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |15D, 10R
+|rowspan=2 {{Party shading/Democratic}} |40D, 11R
+|rowspan=54 {{Party shading/Democratic}} |[[Daniel Inouye]] {{small|(D)}}{{efn |name=died}}
+|rowspan=2 {{Party shading/Democratic}} |[[Thomas Gill (politician)|Thomas Gill]] {{small|(D)}}{{efn |name=atlarge}}
+|rowspan=14 {{Party shading/Democratic}} |[[Spark Matsunaga]] {{small|(D)}}{{efn |name=atlargeuntil71|Elected at-large on a general ticket until districts were implemented beginning with the 1970 elections.}}
+|- style="height:2em"
+!1964
+|rowspan=4 {{Party shading/Democratic}} |[[Lyndon B. Johnson]]/<br>[[Hubert Humphrey]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1965
+|rowspan=2 {{Party shading/Democratic}} |16D, 9R
+|rowspan=4 {{Party shading/Democratic}} |39D, 12R
+|rowspan=12 {{Party shading/Democratic}} |[[Patsy Mink]] {{small|(D)}}{{efn |name=atlargeuntil71}}
+|- style="height:2em"
+!1966
+|- style="height:2em"
+!1967
+|rowspan=4 {{Party shading/Democratic}} |[[Thomas Gill (politician)|Thomas Gill]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |15D, 10R
+|- style="height:2em"
+!1968
+|rowspan=4 {{Party shading/Democratic}} |[[Hubert Humphrey]]/<br>[[Edmund Muskie]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1969
+|rowspan=2 {{Party shading/Democratic}} |38D, 13R
+|- style="height:2em"
+!1970
+|- style="height:2em"
+!1971
+|rowspan=4 {{Party shading/Democratic}} |[[George Ariyoshi]] {{small|(D)}}
+|rowspan=8 {{Party shading/Democratic}} |17D, 8R
+|rowspan=2 {{Party shading/Democratic}} |34D, 17R
+|- style="height:2em"
+!1972
+|rowspan=4 {{Party shading/Republican}} |[[Richard Nixon]]/<br>[[Spiro Agnew]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1973
+|rowspan=2 {{Party shading/Democratic}} |35D, 16R
+|- style="height:2em"
+!1974
+|- style="height:2em"
+!1975
+|rowspan=14 {{Party shading/Democratic}} |[[George Ariyoshi]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |[[Nelson Doi]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |34D, 17R
+|- style="height:2em"
+!1976
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter]]/<br>[[Walter Mondale]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1977
+|rowspan=2 {{Party shading/Democratic}} |41D, 10R
+|rowspan=16 {{Party shading/Democratic}} |[[Spark Matsunaga]] {{small|(D)}}{{efn |name=died|Died in office.}}
+|rowspan=10 {{Party shading/Democratic}} |[[Cecil Heftel]] {{small|(D)}}{{efn |Resigned to run for Governor.}}
+|rowspan=16 {{Party shading/Democratic}} |[[Daniel Akaka]] {{small|(D)}}
+|- style="height:2em"
+!1978
+|- style="height:2em"
+!1979
+|rowspan=4 {{Party shading/Democratic}} |[[Jean King]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |18D, 7R
+|rowspan=2 {{Party shading/Democratic}} |42D, 9R
+|- style="height:2em"
+!1980
+|rowspan=4 {{Party shading/Democratic}} |[[Jimmy Carter]]/<br>[[Walter Mondale]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1981
+|rowspan=4 {{Party shading/Democratic}} |17D, 8R
+|rowspan=2 {{Party shading/Democratic}} |39D, 12R
+|- style="height:2em"
+!1982
+|- style="height:2em"
+!1983
+|rowspan=6 {{Party shading/Democratic}} |[[John D. Waiheʻe III]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |43D, 8R
+|- style="height:2em"
+!1984
+|rowspan=6 {{Party shading/Republican}} |[[Ronald Reagan]]/<br>[[George H. W. Bush]] {{small|(R)}} {{Aye}}
+|- style="height:2em"
+!1985
+|rowspan=4 {{Party shading/Democratic}} |22D, 3R
+|rowspan=6 {{Party shading/Democratic}} |40D, 11R
+|- style="height:2em"
+!rowspan=3 |1986
+|- style="height:2em"
+|''vacant''
+|- style="height:2em"
+|{{Party shading/Democratic}} |[[Neil Abercrombie]] {{small|(D)}}{{efn |Elected in special election to complete term of Heftel, who resigned to run for governor.}}
+|- style="height:2em"
+!1987
+|rowspan=9 {{Party shading/Democratic}} |[[John D. Waiheʻe III]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Ben Cayetano]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |20D, 5R
+|rowspan=5 {{Party shading/Republican}} |[[Pat Saiki]] {{small|(R)}}
+|- style="height:2em"
+!1988
+|rowspan=5 {{Party shading/Democratic}} |[[Michael Dukakis]]/<br>[[Lloyd Bentsen]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!1989
+|rowspan=7 {{Party shading/Democratic}} |22D, 3R
+|rowspan=5 {{Party shading/Democratic}} |45D, 6R
+|- style="height:2em"
+!rowspan=2 |1990
+|- style="height:2em"
+|rowspan=24 {{Party shading/Democratic}} |[[Daniel Akaka]] {{small|(D)}}
+|''vacant''
+|- style="height:2em"
+!1991
+|rowspan=20 {{Party shading/Democratic}} |[[Neil Abercrombie]] {{small|(D)}}{{efn |Resigned to run for Governor.}}
+|rowspan=12 {{Party shading/Democratic}} |[[Patsy Mink]] {{small|(D)}}
+|- style="height:2em"
+!1992
+|rowspan=8 {{Party shading/Democratic}} |[[Bill Clinton]]/<br>[[Al Gore]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!1993
+|rowspan=2 {{Party shading/Democratic}} |47D, 4R
+|- style="height:2em"
+!1994
+|- style="height:2em"
+!1995
+|rowspan=9 {{Party shading/Democratic}} |[[Ben Cayetano]] {{small|(D)}}
+|rowspan=9 {{Party shading/Democratic}} |[[Mazie Hirono]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |23D, 2R
+|rowspan=2 {{Party shading/Democratic}} |44D, 7R
+|- style="height:2em"
+!1996
+|- style="height:2em"
+!1997
+|rowspan=4 {{Party shading/Democratic}} |39D, 12R
+|- style="height:2em"
+!1998
+|- style="height:2em"
+!1999
+|- style="height:2em"
+!2000
+|rowspan=5 {{Party shading/Democratic}} |[[Al Gore]]/<br>[[Joe Lieberman]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2001
+|rowspan=3 {{Party shading/Democratic}} |22D, 3R
+|rowspan=3 {{Party shading/Democratic}} |32D, 19R
+|- style="height:2em"
+!rowspan=2 |2002
+|- style="height:2em"
+|''vacant''
+|- style="height:2em"
+!2003
+|rowspan=8 {{Party shading/Republican}} |[[Linda Lingle]] {{small|(R)}}
+|rowspan=8 {{Party shading/Republican}} |[[Duke Aiona]] {{small|(R)}}
+|rowspan=6 {{Party shading/Democratic}} |20D, 5R
+|rowspan=2 {{Party shading/Democratic}} |36D, 15R
+|rowspan=4 {{Party shading/Democratic}} |[[Ed Case]] {{small|(D)}}
+|- style="height:2em"
+!2004
+|rowspan=4 {{Party shading/Democratic}} |[[John Kerry]]/<br>[[John Edwards]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2005
+|rowspan=2 {{Party shading/Democratic}} |41D, 10R
+|- style="height:2em"
+!2006
+|- style="height:2em"
+!2007
+|rowspan=2 {{Party shading/Democratic}} |43D, 8R
+|rowspan=6 {{Party shading/Democratic}} |[[Mazie Hirono]] {{small|(D)}}
+|- style="height:2em"
+!2008
+|rowspan=8 {{Party shading/Democratic}} |[[Barack Obama]]/<br>[[Joe Biden]] {{small|(D)}} {{Aye}}
+|- style="height:2em"
+!2009
+|rowspan=2 {{Party shading/Democratic}} |23D, 2R
+|rowspan=2 {{Party shading/Democratic}} |45D, 6R
+|- style="height:2em"
+!2010
+|{{Party shading/Republican}} |[[Charles Djou]] {{small|(R)}}
+|- style="height:2em"
+!2011
+|rowspan=4 {{Party shading/Democratic}} |[[Neil Abercrombie]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Brian Schatz]] {{small|(D)}}
+|rowspan=6 {{Party shading/Democratic}} |24D, 1R
+|rowspan=2 {{Party shading/Democratic}} |43D, 8R
+|rowspan=4 {{Party shading/Democratic}} |[[Colleen Hanabusa]] {{small|(D)}}
+|- style="height:2em"
+!2012
+|- style="height:2em"
+!2013
+|rowspan=5 {{party shading/Democratic}} |[[Shan Tsutsui]] {{small|(D)}}{{efn |name=resigned|Resigned.}}
+|rowspan=4 {{Party shading/Democratic}} |44D, 7R
+|rowspan=14 {{Party shading/Democratic/current}} |[[Mazie Hirono]] {{small|(D)}}
+|rowspan=14 {{Party shading/Democratic/current}} |[[Brian Schatz]] {{small|(D)}}{{efn |name=appointed|Appointed to fill a vacancy.}}
+|rowspan=8 {{Party shading/Democratic}} |[[Tulsi Gabbard]] {{small|(D)}}
+|- style="height:2em"
+!2014
+|- style="height:2em"
+!2015
+|rowspan=8 {{party shading/Democratic}} |[[David Ige]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |[[Mark Takai]] {{small|(D)}}{{efn |name=died}}
+|- style="height:2em"
+!2016
+|rowspan=4 {{Party shading/Democratic}} |[[Hillary Clinton]]/<br>[[Tim Kaine]] {{small|(D)}} {{Nay}}
+|- style="height:2em"
+!2017
+|rowspan=2 {{Party shading/Democratic}} |25D
+|rowspan=4 {{Party shading/Democratic}} |46D, 5R
+|rowspan=2 {{Party shading/Democratic}} |[[Colleen Hanabusa]] {{small|(D)}}
+|- style="height:2em"
+!2018
+|{{Party shading/Democratic}} |[[Doug Chin]] {{small|(D)}}{{efn |name=appointed}}
+|- style="height:2em"
+!2019
+|rowspan=4 {{Party shading/Democratic}} |[[Josh Green (politician)|Josh Green]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic}} |24D, 1R
+|rowspan=8 {{Party shading/Democratic/current}} |[[Ed Case]] {{small|(D)}}
+|- style="height:2em"
+!2020
+|rowspan=4 {{Party shading/Democratic}} |[[Joe Biden]]/<br>[[Kamala Harris]] {{small|(D)}} {{aye}}
+|- style="height:2em"
+!2021
+|rowspan=2 {{Party shading/Democratic}} |47D, 4R
+|rowspan=2 {{Party shading/Democratic}} |[[Kai Kahele]] {{small|(D)}}
+|- style="height:2em"
+!2022
+|-
+!2023
+|rowspan=4 {{Party shading/Democratic/current}} |[[Josh Green (politician)|Josh Green]] {{small|(D)}}
+|rowspan=4 {{Party shading/Democratic/current}} |[[Sylvia Luke]] {{small|(D)}}
+|rowspan=2 {{Party shading/Democratic}} |23D, 2R
+|rowspan=2 {{Party shading/Democratic}} |45D, 6R
+|rowspan=4 {{Party shading/Democratic/current}} |[[Jill Tokuda]] {{small|(D)}}
+|- style="height:2em"
+!2024
+|rowspan=3 {{Party shading/Democratic}} |[[Kamala Harris]]/<br>[[Tim Walz]] {{small|(D)}} {{nay}}
+|- style="height:2em"
+!2025
+|rowspan=2 {{Party shading/Democratic/current}} |22D, 3R
+|{{Party shading/Democratic}} |42D, 9R
+|- style="height:2em"
+!2026
+|{{Party shading/Democratic/current}} |41D, 10R{{efn |[[Elle Cochran]] switched party registration to Republican on March 16.}}
+|}
+{{notelist}}
+
+==See also==
+*[[Hawaii#Governance|Law and government in Hawaii]]
+*[[Politics of Hawaii]]
+*[[Elections in Hawaii]]
+*[[Government of Hawaii]]
+
+==References==
+{{reflist}}
+
+{{Political party strength in U.S. states|state=expanded}}
+{{Hawaii}}
+
+{{DEFAULTSORT:Political Party Strength In Hawaii}}
+[[Category:Politics of Hawaii]]
+[[Category:Government of Hawaii]]
+[[Category:Political parties in Hawaii|Political parties in Hawaii]]
+[[Category:Political party strength in the United States by state|Hawaii]]

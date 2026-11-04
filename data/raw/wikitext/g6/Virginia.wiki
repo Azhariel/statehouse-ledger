@@ -1,0 +1,846 @@
+{{Short description|None}}
+{{Use mdy dates|date=January 2026}}
+{{Infobox official post
+| post = Governor
+| body = Virginia
+| native_name = 
+| insignia = Seal of Virginia.svg
+| insignia_size = 110px
+| insignia_caption = [[Seal of Virginia | Commonwealth Seal]]
+| image = Abigail Spanberger at JLDC Groundbreaking Event (cropped).jpg
+| image_size = 200px
+| incumbent = [[Abigail Spanberger]]
+| incumbent_since = January 17, 2026
+| style = The Honorable
+| residence = [[Virginia Executive Mansion]]
+| term_length = Four years, renewable once nonconsecutively
+| inaugural = [[Patrick Henry]]
+| formation = Official Statehood of the Constitution of Virginia, June 25, 1788
+| succession = [[Gubernatorial_lines_of_succession_in_the_United_States#Virginia|Line of succession]]
+| deputy = [[Lieutenant Governor of Virginia]]
+| salary = $174,000 (2026)
+| website = {{url|governor.virginia.gov}}
+}}
+
+The [[governor of Virginia]] is the [[head of government]] of the [[Commonwealth (U.S. state)|Commonwealth]] of [[Virginia]], as well as [[commander-in-chief]] of the state's [[Virginia National Guard|national guard]].<ref>VA Const. art V.</ref> 
+
+The first Constitution of 1776 created the office of governor, to be elected annually by the [[Virginia State Legislature]]. The governor could serve up to three years at a time, and once out of office, could not serve again for four years.<ref name="1776 Const">1776 Const.</ref> The 1830 constitution changed the thrice-renewable one-year term length to a non-renewable three-year term, and set the start date at the first day in January following an election.<ref>1830 Const. Art IV section 1.</ref> This constitution also prevented governors from succeeding themselves, a prohibition that exists to the present day.<ref>VA Const. Art V sec 1</ref> The 1851 Constitution increased terms to four years<ref>1851 Const. art V section 1.</ref> and made the office elected by the people, rather than the legislature.<ref>1851 Const. Art V section 2.</ref> The commencement of the Governor's term was moved to the first day in February by the 1902 Constitution,<ref>1902 Const. Art V section 69.</ref> and then to the Saturday after the second Wednesday in January by the 1971 and current [[Constitution of Virginia|Constitution]].<ref>VA Const. art V section 1.</ref>
+
+If the governor dies, resigns or is removed from office (via impeachment conviction), the [[lieutenant governor of Virginia]] becomes governor.<ref>VA Const. Art V section 16.</ref> The office of lieutenant governor was created in 1851.<ref>1851 Const. art V section 8.</ref> Prior to that a Council of State existed; it chose from among its members a president who would be "lieutenant-governor" and would act as governor when there was a vacancy in that office.<ref name="1776 Const" /><ref>1830 Const. art IV section 5.</ref> The governor and the lieutenant governor are elected at the same time but not on the same ticket. Officially, there have been 75 governors of Virginia; the acting governors are not counted.
+
+The current governor is Democrat [[Abigail Spanberger]], who took office on January 17, 2026.
+
+==Governors==
+{{For|the period before independence|List of colonial governors of Virginia}}
+
+Virginia was one of the original [[Thirteen Colonies]] and was admitted as a state on June 25, 1788.<ref>{{Cite web |title=Ratification of the Constitution by the State of Virginia; June 26, 1788 |url=http://avalon.law.yale.edu/18th_century/ratva.asp |url-status=live |archive-url=https://web.archive.org/web/20150822161000/http://avalon.law.yale.edu/18th_century/ratva.asp |archive-date=August 22, 2015 |access-date=October 31, 2015 |publisher=The Avalon Project at Yale Law School}}</ref> Before it declared its independence, Virginia was a [[Colony of Virginia|colony]] of the [[Kingdom of Great Britain]]. It seceded from the [[Union (American Civil War)|Union]] on April 17, 1861,<ref>{{Cite web |title=Secession Ordinances of 13 Confederate States |url=http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |url-status=live |archive-url=https://web.archive.org/web/20150905091739/http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |archive-date=September 5, 2015 |access-date=May 24, 2015 |publisher=[[University of Houston]]}}</ref> and was admitted to the [[Confederate States of America]] on May 7, 1861.<ref>[http://docsouth.unc.edu/imls/19conf/19conf.html#p104 An Act to admit the Commonwealth of Virginia as a member of the Confederate States of America] {{webarchive|url=https://web.archive.org/web/20160820151934/http://docsouth.unc.edu/imls/19conf/19conf.html|date=August 20, 2016 }}, accessed July 8, 2015</ref> Following the end of the [[American Civil War]], Virginia during [[Reconstruction era|Reconstruction]] constituted the [[First Military District]], which exerted some control over governor appointments and elections. Virginia was readmitted to the Union on January 26, 1870.<ref>{{usstat|16|62}}</ref>
+
+The federal government recognized the [[Restored Government of Virginia]], based in [[Wheeling, West Virginia|Wheeling]], as the legitimate government in Virginia on June 25, 1861. It elected its own slate of governors, and after [[West Virginia]] was split from Virginia on June 20, 1863, the restored government relocated to [[Alexandria, Virginia|Alexandria]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Commonwealth of Virginia
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Virginia|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1851 and first filled in 1852.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|1
+|rowspan="3" data-sort-value="Henry, Patrick"|[[File:Patrick henry (3x4 Cropped).JPG|75px]]
+|rowspan="19" style="background:{{party color|Nonpartisan politician}};" title="No parties"|&nbsp;
+|rowspan="3"|'''[[Patrick Henry]]'''<br>{{Small|(1736–1799)}}<br><ref name="nga-henry">{{Cite web |title=Patrick Henry |url=https://www.nga.org/governor/patrick-henry/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1061"|July 6, 1776<ref>{{Cite web |title=Fifth Virginia Revolutionary Convention Elected Patrick Henry Governor, June 29, 1776 |url=https://edu.lva.virginia.gov/oc/stc/entries/fifth-virginia-revolutionary-convention-elected-patrick-henry-governor-june-29-1776 |access-date=2023-07-17 |website=edu.lva.virginia.gov}}</ref><br />–<br />June 1, 1779<br>{{small|(1061 days; term-limited)}}{{efn|Under the 1776 constitution, governors were ineligible to serve longer than three years successively.<ref>{{Cite web |title=1776 Va. Const. |url=https://encyclopediavirginia.org/entries/the-constitution-of-virginia-1776/ |access-date=2023-12-20}}</ref>|name=limits-1776}}
+|rowspan="19" style="background:#EEEEEE;"|''No parties''{{sfn|Glashan|1979|p=322}}
+|[[1776 Virginia gubernatorial election|1776]]
+|colspan="2" rowspan="76" style="background:#EEEEEE;"|''Office did not exist''
+|- style="height:2em;"
+|[[1777 Virginia gubernatorial election|1777]]
+|- style="height:2em;"
+|[[1778 Virginia gubernatorial election|1778]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|2
+|rowspan="2" data-sort-value="Jefferson, Thomas"|[[File:Mather Brown - Thomas Jefferson - Google Art Project (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[Thomas Jefferson]]'''<br>{{Small|(1743–1826)}}<br><ref name="nga-jefferson">{{Cite web |title=Thomas Jefferson |url=https://www.nga.org/governor/thomas-jefferson/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="735"|June 1, 1779<ref>{{Cite web |title=Thomas Jefferson's Election to Governor; an excerpt from the Journal of the House of Delegates (June 1, 1779) |url=https://encyclopediavirginia.org/entries/thomas-jeffersons-election-to-governor-an-excerpt-from-the-journal-of-the-house-of-delegates-june-1-1779/ |access-date=2023-07-17 |website=Encyclopedia Virginia |language=en-US}}</ref><br />–<br />June 4, 1781<br>{{small|(735 days; retired)}}
+|[[1779 Virginia gubernatorial election|1779]]
+|- style="height:2em;"
+|[[1780 Virginia gubernatorial election|1780]]
+|- style="height:2em;"
+!scope="row"|3
+|data-sort-value="Fleming, William"|[[File:No image.svg|75px]]
+|'''[[William Fleming (governor)|William Fleming]]'''<br>{{Small|(1727–1795)}}<br><ref name="nga-fleming">{{Cite web |title=William Fleming |url=https://www.nga.org/governor/william-fleming/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="9"|June 4, 1781<ref>{{Cite web |title=Jack Jouett's Ride (1781) |url=https://encyclopediavirginia.org/entries/jack-jouetts-ride-1781/ |access-date=2023-07-18 |website=Encyclopedia Virginia |language=en-US}}</ref><br />–<br />June 12, 1781<br>{{small|(9 days; retired)}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}{{efn|Jefferson refused reelection and left office at the end of his term. As the legislature had not yet elected a successor, due in part to chaos stemming from the [[Raid on Richmond]], Fleming acted as governor until the next election.<ref name="nga-fleming" />{{sfn|Kallenbach|1977|pp=613–616}}<ref name="monticello">{{Cite web |title=Governor of Virginia |url=https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/governor-virginia/ |access-date=2023-07-17 |website=Monticello |language=en}}</ref>}}
+|- style="height:2em;"
+!scope="row"|4
+|data-sort-value="Nelson, Thomas"|[[File:Thomas Nelson Jr.jpg|75px]]
+|'''[[Thomas Nelson Jr.]]'''<br>{{Small|(1738–1789)}}<br><ref name="nga-nelson">{{Cite web |title=Thomas Nelson |url=https://www.nga.org/governor/thomas-nelson/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="164"|June 12, 1781<ref name="monticello" /><br />–<br />November 22, 1781<br>{{small|(164 days; resigned)}}{{efn|Nelson resigned due to ill health.{{sfn|Kallenbach|1977|pp=613–616}}}}
+|[[June 1781 Virginia gubernatorial election|June 1781]]
+|- style="height:2em;"
+!scope="row"|–
+|data-sort-value="Jameson, David"|[[File:No image.svg|75px]]
+|'''[[David Jameson (governor)|David Jameson]]'''<br>{{Small|(1723–1793)}}<br><ref name="nga-jameson">{{Cite web |title=David Jameson |url=https://www.nga.org/governor/david-jameson/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="10"|November 22, 1781<ref name="hornbook">{{Cite web |last=History |first=The Hornbook of Virginia |title=Governors of Virginia |url=https://encyclopediavirginia.org/entries/governors-of-virginia/ |access-date=2023-07-17 |website=Encyclopedia Virginia |language=en-US}}</ref><br />–<br />December 1, 1781<br>{{small|(10 days; retired)}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|5
+|rowspan="3" data-sort-value="Harrison, Benjamin"|[[File:Benjamin Harrison V portrait (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[Benjamin Harrison V]]'''<br>{{Small|(1726–1791)}}<br><ref name="nga-harrison-benjamin">{{Cite web |title=Benjamin Harrison |url=https://www.nga.org/governor/benjamin-harrison/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1096"|December 1, 1781<ref name="hornbook" /><br />–<br />November 30, 1784<br>{{small|(1096 days; term-limited)}}{{efn|name=limits-1776}}
+|[[November 1781 Virginia gubernatorial election|Nov. 1781]]
+|- style="height:2em;"
+|[[1782 Virginia gubernatorial election|1782]]
+|- style="height:2em;"
+|[[1783 Virginia gubernatorial election|1783]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|6
+|rowspan="2" data-sort-value="Henry, Patrick"|[[File:Patrick henry (3x4 Cropped).JPG|75px]]
+|rowspan="2"|'''[[Patrick Henry]]'''<br>{{Small|(1736–1799)}}<br><ref name="nga-henry" />
+|rowspan="2" data-sort-value="731"|November 30, 1784<ref name="register">{{Cite book |last=Virginia |url=https://books.google.com/books?id=S6E0AQAAMAAJ&pg=RA8-PA9 |title=A Register of the General Assembly of Virginia 1776-1918 and of the Constitutional Conventions |date=1918 |pages=viii&ndash;ix |language=en}}</ref><br />–<br />November 30, 1786<br>{{small|(731 days; retired)}}
+|[[1784 Virginia gubernatorial election|1784]]
+|- style="height:2em;"
+|[[1785 Virginia gubernatorial election|1785]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|7
+|rowspan="2" data-sort-value="Randolph, Edmund"|[[File:Edmund Randolph (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[Edmund Randolph]]'''<br>{{Small|(1753–1813)}}<br><ref name="nga-randolph-edmund">{{Cite web |title=Edmund Randolph |url=https://www.nga.org/governor/edmund-randolph/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="714"|November 30, 1786<ref>{{Cite news |date=1786-12-04 |title=Richmond, (Virginia) Nov. 9 |page=4 |work=Hartford Courant |url=https://www.newspapers.com/article/hartford-courant-randolph-to-take-office/128426263/ |access-date=2023-07-18}}</ref><br />–<br />November 12, 1788<br>{{small|(714 days; resigned)}}{{efn|Randolph resigned to serve in the [[Virginia House of Delegates]] and promote the [[United States Constitution]] there.<ref>{{Cite news |date=1788-12-08 |title=New York, November 28 |page=3 |work=Hartford Courant |url=https://www.newspapers.com/article/hartford-courant-randolph-resigned/128426697/ |access-date=2023-07-18}}</ref><ref>{{Cite web |title=Edmund Randolph |url=https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/edmund-randolph/ |access-date=2023-07-18 |website=George Washington's Mount Vernon |language=en}}</ref><ref name="register" />}}
+|[[1786 Virginia gubernatorial election|1786]]
+|- style="height:2em;"
+|[[1787 Virginia gubernatorial election|1787]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|8
+|rowspan="4" data-sort-value="Randolph, Beverley"|[[File:No image.svg|75px]]
+|rowspan="4"|'''[[Beverley Randolph]]'''<br>{{Small|(1754–1797)}}<br>{{sfn|Sobel|1978|p=1623}}<ref name="nga-randolph-beverley">{{Cite web |title=Beverley Randolph |url=https://www.nga.org/governor/beverley-randolph/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1115"|November 12, 1788<ref name="register" /><br />–<br />December 1, 1791<br>{{small|(1115 days; term-limited)}}{{efn|name=limits-1776}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}} 
+|- style="height:2em;"
+|[[1788 Virginia gubernatorial election|1788]]
+|- style="height:2em;"
+|[[1789 Virginia gubernatorial election|1789]]
+|- style="height:2em;"
+|[[1790 Virginia gubernatorial election|1790]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|9
+|rowspan="3" data-sort-value="Lee, Henry"|[[File:General Henry Lee (3x4 cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Federalist}};" title="Represented the Federalist Party"|
+|rowspan="3"|'''[[Henry Lee III]]'''<br>{{Small|(1756–1818)}}<br>{{sfn|Sobel|1978|pp=1623–1624}}<ref name="nga-lee-henry">{{Cite web |title=Henry Lee |url=https://www.nga.org/governor/henry-lee/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1097"|December 1, 1791<ref name="register" /><br />–<br />December 1, 1794<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Federalist Party (United States)|Federalist]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1791 Virginia gubernatorial election|1791]]
+|- style="height:2em;"
+|[[1792 Virginia gubernatorial election|1792]]
+|- style="height:2em;"
+|[[1793 Virginia gubernatorial election|1793]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Brooke, Robert"|[[File:Robert Brooke Virginia Governor (3x4 cropped).jpg|75px]]
+|rowspan="42" style="color:inherit;background:{{party color|Democratic-Republican}};" title="Represented the Democratic-Republican Party"|
+|rowspan="2"|'''[[Robert Brooke (Virginia governor)|Robert Brooke]]'''<br>{{small|({{Abbr|d.|died in}} 1800)}}<br>{{sfn|Sobel|1978|pp=1624–1625}}<ref name="nga-brooke">{{Cite web |title=Robert Brooke |url=https://www.nga.org/governor/robert-brooke/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="731"|December 1, 1794<ref name="register" /><br />–<br />November 30, 1796<br>{{small|(731 days; resigned)}}{{efn|Brooke resigned, having been elected [[Attorney General of Virginia]].<ref name="register" />}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1794 Virginia gubernatorial election|1794]]
+|- style="height:2em;"
+|[[1795 Virginia gubernatorial election|1795]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|11
+|rowspan="4" data-sort-value="Wood, James"|[[File:James Wood (1741-1813, Virginia governor) (3x4 cropped).jpg|75px]]
+|rowspan="4"|'''[[James Wood (governor)|James Wood]]'''<br>{{Small|(1741–1813)}}<br>{{sfn|Sobel|1978|pp=1625–1626}}<ref name="nga-wood">{{Cite web |title=James Wood |url=https://www.nga.org/governor/james-wood/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="4" data-sort-value="1115"|November 30, 1796<ref name="register" /><br />–<br />December 19, 1799<br>{{small|(1115 days; term-limited)}}{{efn|Many sources say that [[Hardin Burnley]] acted as governor, either from February 7, 1799,<ref>{{Cite book |last=Dicken |first=Emma |url=http://archive.org/details/ourburnleyancest00dick |title=Our Burnley ancestors and allied families / compiled by Emma Dicken. |date=1946 |publisher=New York : Hobson Book Press, 1946.}}</ref> or December 7,<ref>“From James Madison to James Monroe, 21 March 1785,” Founders Online, National Archives, https://founders.archives.gov/documents/Madison/01-08-02-0137. [Original source: The Papers of James Madison, vol. 8, 10 March 1784 – 28 March 1786, ed. Robert A. Rutland and William M. E. Rachal. Chicago: The University of Chicago Press, 1973, pp. 255–257.] Accessed July 17, 2023</ref> serving until he resigned due to poor health on December 11,<ref name="nga-burnley">{{Cite web |title=Hardin Burnley |url=https://www.nga.org/governor/hardin-burnley/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref> at which time [[John Pendleton Jr.]] took over as acting governor<ref name="nga-pendleton">{{Cite web |title=John Pendleton |url=https://www.nga.org/governor/john-pendleton/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref> until Monroe became governor on December 19. However, details of their terms are sparse and it's unknown how official their capacity was, and Sobel's entry on Wood mentions no acting governors and says that he left office on December 19.{{sfn|Sobel|1978|pp=1625–1626}}}}{{efn|name=limits-1776}}
+|rowspan="4"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Sobel|1978|pp=1625–1626}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}} 
+|- style="height:2em;"
+|[[1796 Virginia gubernatorial election|1796]]
+|- style="height:2em;"
+|[[1797 Virginia gubernatorial election|1797]]
+|- style="height:2em;"
+|[[1798 Virginia gubernatorial election|1798]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|12
+|rowspan="3" data-sort-value="Monroe, James"|[[File:James Monroe (1758-1831).jpg|75px]]
+|rowspan="3"|'''[[James Monroe]]'''<br>{{Small|(1758–1831)}}<br>{{sfn|Sobel|1978|pp=1626–1627}}<ref name="nga-monroe">{{Cite web |title=James Monroe |url=https://www.nga.org/governor/james-monroe/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1106"|December 19, 1799<ref>{{Cite news |date=1799-12-31 |title=none |page=3 |work=Weekly Raleigh Register |url=https://www.newspapers.com/article/weekly-raleigh-register-monroe-inaugurat/128427191/ |access-date=2023-07-18 | quote=On the 19th inst. his Excellenecy James Monroe, Esq., qualified as Governor of the state of Virginia...}}</ref><br />–<br />December 29, 1802<br>{{small|(1106 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1799 Virginia gubernatorial election|1799]]
+|- style="height:2em;"
+|[[1800 Virginia gubernatorial election|1800]]
+|- style="height:2em;"
+|[[1801 Virginia gubernatorial election|1801]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|13
+|rowspan="3" data-sort-value="Page, John"|[[File:John Page Rosewell Gloucester County Virginia (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[John Page (Virginia politician)|John Page]]'''<br>{{Small|(1743–1808)}}<br>{{sfn|Sobel|1978|pp=1627–1628}}<ref name="nga-page">{{Cite web |title=John Page |url=https://www.nga.org/governor/john-page-2/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1079"|December 29, 1802<ref name="register" /><br />–<br />December 11, 1805<br>{{small|(1079 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1802 Virginia gubernatorial election|1802]]
+|- style="height:2em;"
+|[[1803 Virginia gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1804 Virginia gubernatorial election|1804]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|14
+|rowspan="3" data-sort-value="Cabell, William"|[[File:William H. Cabell (cropped).jpg|75px]]
+|rowspan="3"|'''[[William H. Cabell]]'''<br>{{Small|(1772–1853)}}<br>{{sfn|Sobel|1978|p=1628}}<ref name="nga-cabell">{{Cite web |title=William Henry Cabell |url=https://www.nga.org/governor/william-henry-cabell/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1098"|December 11, 1805<ref name="register" /><br />–<br />December 12, 1808<br>{{small|(1098 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1805 Virginia gubernatorial election|1805]]
+|- style="height:2em;"
+|[[1806 Virginia gubernatorial election|1806]]
+|- style="height:2em;"
+|[[1807 Virginia gubernatorial election|1807]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|15
+|rowspan="3" data-sort-value="Tyler, John 1"|[[File:John Tyler Sr (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[John Tyler Sr.]]'''<br>{{Small|(1747–1813)}}<br>{{sfn|Sobel|1978|pp=1628–1629}}<ref name="nga-tyler-john-1">{{Cite web |title=John Tyler Sr. |url=https://www.nga.org/governor/john-tyler-sr/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="765"|December 12, 1808<ref name="register" /><br />–<br />January 15, 1811<br>{{small|(765 days; resigned)}}{{efn|Tyler resigned, having been confirmed to the [[United States District Court for the District of Virginia]].{{sfn|Sobel|1978|pp=1628–1629}}}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1808 Virginia gubernatorial election|1808]]
+|- style="height:2em;"
+|[[1809 Virginia gubernatorial election|1809]]
+|- style="height:2em;"
+|[[1810 Virginia gubernatorial election|1810]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Smith, George"|[[File:George William Smith Governor of Virginia (3x4 cropped).jpg|75px]]
+|'''[[George William Smith (politician)|George William Smith]]'''<br>{{Small|(1762–1811)}}<br>{{sfn|Sobel|1978|pp=1629–1630}}<ref name="nga-smith-george">{{Cite web |title=George William Smith |url=https://www.nga.org/governor/george-william-smith/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="5"|January 15, 1811<ref name="register" /><br />–<br />January 19, 1811<br>{{small|(5 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Monroe, James"|[[File:James Monroe (1758-1831).jpg|75px]]
+|'''[[James Monroe]]'''<br>{{Small|(1758–1831)}}<br>{{sfn|Sobel|1978|pp=1626–1627}}<ref name="nga-monroe" />
+|data-sort-value="75"|January 19, 1811<ref name="register" /><br />–<br />April 3, 1811<br>{{small|(75 days; resigned)}}{{efn|Monroe resigned, having been appointed [[United States Secretary of State]].<ref name="nga-monroe" />}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1811 Virginia gubernatorial special election|1811]]<br>{{small|(special)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|17
+|rowspan="2" data-sort-value="Smith, George"|[[File:George William Smith Governor of Virginia (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[George William Smith (politician)|George William Smith]]'''<br>{{Small|(1762–1811)}}<br>{{sfn|Sobel|1978|pp=1629–1630}}<ref name="nga-smith-george" />
+|rowspan="2" data-sort-value="268"|April 3, 1811<ref name="register" /><br />–<br />December 26, 1811<br>{{small|(268 days; died in office)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}
+|- style="height:2em;"
+|[[1811 Virginia gubernatorial election|1811]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Randolph, Peyton"|[[File:Peyton Randolph Virginia Governor (3x4 cropped).jpg|75px]]
+|'''[[Peyton Randolph (governor)|Peyton Randolph]]'''<br>{{Small|(1779–1828)}}<br>{{sfn|Sobel|1978|p=1630}}<ref name="nga-randolph-peyton">{{Cite web |title=Peyton Randolph |url=https://www.nga.org/governor/peyton-randolph/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="10"|December 26, 1811<ref name="register" /><br />–<br />January 4, 1812<br>{{small|(10 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|18
+|rowspan="3" data-sort-value="Barbour, James"|[[File:Portrait of James Barbour, by Chester Harding (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[James Barbour]]'''<br>{{Small|(1775–1842)}}<br>{{sfn|Sobel|1978|pp=1630–1631}}<ref name="nga-barbour">{{Cite web |title=James Barbour |url=https://www.nga.org/governor/james-barbour/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1073"|January 4, 1812<ref name="register" /><br />–<br />December 11, 1814<br>{{small|(1073 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1812 Virginia gubernatorial special election|1812]]<br/>{{small|(special)}}
+|- style="height:2em;"
+|[[1812 Virginia gubernatorial election|1812]]
+|- style="height:2em;"
+|[[1813 Virginia gubernatorial election|1813]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|19
+|rowspan="2" data-sort-value="Nicholas, Wilson"|[[File:Wilson Cary Nicholas 2 (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[Wilson Cary Nicholas]]'''<br>{{Small|(1761–1820)}}<br>{{sfn|Sobel|1978|pp=1631–1632}}<ref name="nga-nicholas">{{Cite web |title=Wilson Cary Nicholas |url=https://www.nga.org/governor/wilson-cary-nicholas/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="732"|December 11, 1814<ref name="register" /><br />–<br />December 11, 1816<br>{{small|(732 days; retired)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1814 Virginia gubernatorial election|1814]]
+|- style="height:2em;"
+|[[1815 Virginia gubernatorial election|1815]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|20
+|rowspan="3" data-sort-value="Preston, James"|[[File:James Patton Preston by Gilbert Stuart, 1803 (Cropped).jpg|75px]]
+|rowspan="3"|'''[[James Patton Preston]]'''<br>{{Small|(1774–1843)}}<br>{{sfn|Sobel|1978|p=1632}}<ref name="nga-preston">{{Cite web |title=James Patton Preston |url=https://www.nga.org/governor/james-patton-preston/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1096"|December 11, 1816<ref name="register" /><br />–<br />December 11, 1819<br>{{small|(1096 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1816 Virginia gubernatorial election|1816]]
+|- style="height:2em;"
+|[[1817 Virginia gubernatorial election|1817]]
+|- style="height:2em;"
+|[[1818 Virginia gubernatorial election|1818]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|21
+|rowspan="3" data-sort-value="Randolph, Thomas"|[[File:Thomas Mann Randolph (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[Thomas Mann Randolph Jr.]]'''<br>{{Small|(1768–1828)}}<br>{{sfn|Sobel|1978|pp=1632–1633}}<ref name="nga-randolph-thomas">{{Cite web |title=Thomas Mann Randolph |url=https://www.nga.org/governor/thomas-mann-randolph/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1097"|December 11, 1819<ref name="register" /><br />–<br />December 11, 1822<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1819 Virginia gubernatorial election|1819]]
+|- style="height:2em;"
+|[[1820 Virginia gubernatorial election|1820]]
+|- style="height:2em;"
+|[[1821 Virginia gubernatorial election|1821]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|22
+|rowspan="3" data-sort-value="Pleasants, James"|[[File:James Pleasants bioguide (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[James Pleasants]]'''<br>{{Small|(1769–1836)}}<br>{{sfn|Sobel|1978|pp=1633–1634}}<ref name="nga-pleasants">{{Cite web |title=James Pleasants |url=https://www.nga.org/governor/james-pleasants/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1097"|December 11, 1822<ref name="register" /><br />–<br />December 11, 1825<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1822 Virginia gubernatorial election|1822]]
+|- style="height:2em;"
+|[[1823 Virginia gubernatorial election|1823]]
+|- style="height:2em;"
+|[[1824 Virginia gubernatorial election|1824]]
+|- style="height:2em;"
+!rowspan="2" scope="row"|23
+|rowspan="2" data-sort-value="Tyler, John 2"|[[File:John Tyler - Governor of Virginia (c. 1826) (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[John Tyler]]'''<br>{{Small|(1790–1862)}}<br>{{sfn|Sobel|1978|pp=1634–1635}}<ref name="nga-tyler-john-2">{{Cite web |title=John Tyler Jr. |url=https://www.nga.org/governor/john-tyler-jr/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="449"|December 11, 1825<ref name="register" /><br />–<br />March 4, 1827<br>{{small|(449 days; resigned)}}{{efn|Tyler resigned, having been [[1826–27 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|pp=1634–1635}}}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1825 Virginia gubernatorial election|1825]]
+|- style="height:2em;"
+|[[1826 Virginia gubernatorial election|1826]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|24
+|rowspan="3" data-sort-value="Giles, William"|[[File:Portrait of William Branch Giles (3x4 cropped).jpg|75px]]
+|rowspan="3"|'''[[William Branch Giles]]'''<br>{{Small|(1762–1830)}}<br>{{sfn|Sobel|1978|pp=1635–1636}}<ref name="nga-giles">{{Cite web |title=William Branch Giles |url=https://www.nga.org/governor/william-branch-giles/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1097"|March 4, 1827<ref name="register" /><br />–<br />March 4, 1830<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1776}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{efn|Giles is labeled a Democrat by Dubin{{sfn|Dubin|2003|p=283}} and Sobel,{{sfn|Sobel|1978|pp=1635–1636}} and a Democratic-Republican by Glashan{{sfn|Glashan|1979|p=322}} and Kallenbach.{{sfn|Kallenbach|1977|pp=613–616}}}}
+|[[1827 Virginia gubernatorial special election|1827]]<br>{{small|(special)}}
+|- style="height:2em;"
+|[[1827 Virginia gubernatorial election|1827]]
+|- style="height:2em;"
+|[[1828 Virginia gubernatorial election|1828]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|25
+|rowspan="2" data-sort-value="Floyd, John"|[[File:John Floyd Portrait (3x4 cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[John Floyd (Virginia politician)|John Floyd]]'''<br>{{Small|(1783–1837)}}<br>{{sfn|Sobel|1978|p=1636}}<ref name="nga-floyd-john">{{Cite web |title=John Floyd Sr. |url=https://www.nga.org/governor/john-floyd-sr/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2"data-sort-value="1489"|March 4, 1830<ref name="register" /><br />–<br />March 31, 1834<br>{{small|(1489 days; term-limited)}}{{efn|Under the 1830 constitution, governors were ineligible to serve again until three years after their term.<ref>{{Cite web |title=1830 Va. Const. art. IV, § 1 |url=https://vagovernmentmatters.org/primary-sources/518.html |access-date=2023-12-20}}</ref>|name=limits-1830}}
+|rowspan="2"|[[Democratic Party of Virginia|Democratic]]{{sfn|Sobel|1978|p=1636}}
+|[[1830 Virginia gubernatorial election|1830]]
+|- style="height:2em;"
+|[[1831 Virginia gubernatorial election|1831]]
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Tazewell, Littleton"|[[File:Portrait of Littleton Waller Tazewell (3x4 cropped).jpg|75px]]
+|'''[[Littleton Waller Tazewell]]'''<br>{{Small|(1774–1860)}}<br>{{sfn|Sobel|1978|pp=1636–1637}}<ref name="nga-tazewell">{{Cite web |title=Littleton Waller Tazewell |url=https://www.nga.org/governor/littleton-waller-tazewell/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="731"|March 31, 1834<ref name="register" /><br />–<br />March 30, 1836<br>{{small|(731 days; resigned)}}{{efn|Tazewell resigned over disagreements with the General Assembly.{{sfn|Sobel|1978|pp=1636–1637}}}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Sobel|1978|pp=1636–1637}}
+|[[1834 Virginia gubernatorial election|1834]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Robertson, Wyndham"|[[File:Portrait of Wyndham Robertson (3x4 cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (US)}};" title="Represented the Whig Party"|
+|'''[[Wyndham Robertson]]'''<br>{{Small|(1803–1888)}}<br>{{sfn|Sobel|1978|pp=1637–1638}}<ref name="nga-robertson">{{Cite web |title=Wyndham Robertson |url=https://www.nga.org/governor/wyndham-robertson/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="367"|March 30, 1836<ref name="register" /><br />–<br />March 31, 1837<br>{{small|(367 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{efn|Robertson is labeled a State's Rights Democrat by Kallenbach,{{sfn|Kallenbach|1977|pp=613–616}} a Democrat by Glashan,{{sfn|Glashan|1979|p=322}} and a Whig by Sobel.{{sfn|Sobel|1978|pp=1637–1638}}}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Campbell, David"|[[File:Portrait of Virginia Governor David Campbell (3x4 cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[David Campbell (Virginia politician)|David Campbell]]'''<br>{{Small|(1779–1859)}}<br>{{sfn|Sobel|1978|p=1638}}<ref name="nga-campbell">{{Cite web |title=David Campbell |url=https://www.nga.org/governor/david-campbell/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1097"|March 31, 1837<ref name="register" /><br />–<br />March 31, 1840<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1830}}
+|[[Democratic Party of Virginia|Democratic]]{{efn|Campbell is labeled a Whig by Glashan{{sfn|Glashan|1979|p=322}} and Kallenbach,{{sfn|Kallenbach|1977|pp=613–616}} and a Democrat by Dubin{{sfn|Dubin|2003|p=283}} and Sobel.{{sfn|Sobel|1978|p=1638}}}}
+|[[1837 Virginia gubernatorial election|1837]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Gilmer, Thomas"|[[File:Thomas Walker Gilmer SecNavy (3x4 cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Whig Party (US)}};" title="Represented the Whig Party"|
+|'''[[Thomas Walker Gilmer]]'''<br>{{Small|(1802–1844)}}<br>{{sfn|Sobel|1978|pp=1638–1639}}<ref name="nga-gilmer">{{Cite web |title=Thomas Walker Gilmer |url=https://www.nga.org/governor/thomas-walker-gilmer/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="355"|March 31, 1840<ref name="register" /><br />–<br />March 20, 1841<br>{{small|(355 days; resigned)}}{{efn|Gilmer resigned, having been [[1840–41 United States House of Representatives elections|elected]] to the [[United States House of Representatives]] for a term beginning March 4, 1841; he delayed his resignation two weeks, finally resigning due to a disagreement with the General Assembly on extradition.{{sfn|Sobel|1978|pp=1638–1639}}}}
+|[[Whig Party (United States)|Whig]]{{sfn|Sobel|1978|pp=1638–1639}}
+|[[1840 Virginia gubernatorial election|1840]]
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Patton, John"|[[File:John Mercer Patton (3x4 cropped).jpg|75px]]
+|'''[[John M. Patton]]'''<br>{{Small|(1797–1858)}}<br>{{sfn|Sobel|1978|p=1639}}<ref name="nga-patton">{{Cite web |title=John Mercer Patton |url=https://www.nga.org/governor/john-mercer-patton/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="12"|March 20, 1841<ref name="register" /><br />–<br />March 31, 1841<br>{{small|(12 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Sobel|1978|p=1639}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}{{efn|After Gilmer's resignation, Patton acted as governor until the election, but the General Assembly failed to elect a successor, so the senior members of the [[Virginia Governor's Council|Governor's Council]] each acted as governor for a year.{{sfn|Kallenbach|1977|pp=613–616}}|name=gilmer}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Rutherfoord, John"|[[File:John Rutherford Virginia Governor (3x4 cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[John Rutherfoord]]'''<br>{{Small|(1792–1866)}}<br>{{sfn|Sobel|1978|p=1640}}<ref name="nga-rutherfoord">{{Cite web |title=John Rutherfoord |url=https://www.nga.org/governor/john-rutherfoord/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="366"|March 31, 1841<ref name="register" /><br />–<br />March 31, 1842<br>{{small|(366 days; retired)}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Sobel|1978|p=1640}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}{{efn|name=gilmer}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Gregory, John"|[[File:John Munford Gregory (3x4 cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Whig Party (US)}};" title="Represented the Whig Party"|
+|'''[[John Munford Gregory]]'''<br>{{Small|(1804–1884)}}<br>{{sfn|Sobel|1978|pp=1640–1641}}<ref name="nga-gregory">{{Cite web |title=John Munford Gregory |url=https://www.nga.org/governor/john-munford-gregory/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="281"|March 31, 1842<ref name="register" /><br />–<br />January 5, 1843<br>{{small|(281 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Sobel|1978|pp=1640–1641}}
+|style="background:#EEEEEE;"|{{small|Senior member of<br />[[Virginia Governor's Council|Governor's Council]]<br />acting}}{{efn|name=gilmer}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="McDowell, James"|[[File:James McDowell (3x4 cropped).jpg|75px]]
+|rowspan="8" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[James McDowell]]'''<br>{{Small|(1775–1851)}}<br>{{sfn|Sobel|1978|p=1641}}<ref name="nga-mcdowell">{{Cite web |title=James McDowell |url=https://www.nga.org/governor/james-mcdowell/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1093"|January 5, 1843<ref name="register" /><br />–<br />January 1, 1846<br>{{small|(1093 days; term-limited)}}{{efn|name=limits-1830}}
+|[[Democratic Party (United States)|Democratic]]{{efn|McDowell is labeled a Whig by Sobel{{efn|Sobel|1978|p=1641}} and Dubin,{{sfn|Dubin|2003|p=283}} and a Democrat by Kallenbach{{sfn|Kallenbach|1977|pp=613–616}} and Glashan.{{sfn|Glashan|1979|p=324}}}}
+|[[1842 Virginia gubernatorial election|1842]]
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Smith, William"|[[File:Hon. William Smith Virginia governor (3x4 cropped).jpg|75px]]
+|'''[[William Smith (Virginia governor)|William Smith]]'''<br>{{Small|(1797–1887)}}<br>{{sfn|Sobel|1978|pp=1641–1642}}<ref name="nga-smith-william">{{Cite web |title=William Smith |url=https://www.nga.org/governor/william-smith-was-born-in-marengo-in-king-george-county-virginia-he-attended-an-old-field-school-near-home-studied-privately-in-fredericksburg-virginia-attended-the-plainfield-academy-in-plainfie/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1097"|January 1, 1846<ref name="register" /><br />–<br />January 1, 1849<br>{{small|(1097 days; term-limited)}}{{efn|name=limits-1830}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1845 Virginia gubernatorial election|1845]]
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Floyd, John B."|[[File:John Buchanan Floyd (3x4 cropped).jpg|75px]]
+|'''[[John B. Floyd]]'''<br>{{Small|(1806–1863)}}<br>{{sfn|Sobel|1978|p=1643}}<ref name="nga-floyd-john-b">{{Cite web |title=John Buchanan Floyd Jr. |url=https://www.nga.org/governor/john-buchanan-floyd-jr/ |access-date=July 17, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1096"|January 1, 1849<ref>{{Cite news |date=1849-01-02 |title=Virginia Legislature |page=2 |work=Alexandria Gazette |url=https://www.newspapers.com/article/alexandria-gazette-floyd-takes-office-ja/128481548/ |access-date=2023-07-19}}</ref><br />–<br />January 1, 1852<br>{{small|(1096 days; term-limited)}}{{efn|name=limits-1830}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1848 Virginia gubernatorial election|1848]]
+|- style="height:2em;" 
+!scope="row"|32
+|data-sort-value="Johnson, Joseph"|[[File:Joseph Johnson, Governor of Virginia (3x4 cropped).jpg|75px]]
+|'''[[Joseph Johnson (Virginia politician)|Joseph Johnson]]'''<br>{{Small|(1785–1877)}}<br>{{sfn|Sobel|1978|pp=1643–1644}}<ref name="nga-johnson">{{Cite web |title=Joseph Johnson |url=https://www.nga.org/governor/joseph-johnson/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1852<ref>{{Cite news |date=1852-01-02 |title=none |page=2 |work=Richmond Enquirer |url=https://www.newspapers.com/article/richmond-enquirer-johnson-inaugurated-ja/128484510/ |access-date=2023-07-19 | quote=Governor Floyd's term expired on Wednesday, and yesterday, at 12 M., Governor Joseph Johnson appeared at the Council Chamber... when the oaths of office, required to be taken by a Governor of the Commonwealth, were administered to Governor Johnson.}}</ref><br/>–<br/>January 1, 1856<br>{{small|(1462 days; term-limited)}}{{efn|Under the 1851 constitution, governors were ineligible to succeed themselves.<ref>{{Cite web |title=1851 Va. Const. art. V, § 1 |url=https://vagovernmentmatters.org/primary-sources/519.html |access-date=2023-12-20}}</ref>|name=limits-1851}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1851 Virginia gubernatorial election|1851]]
+|rowspan="5" style="background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|&nbsp;
+|{{sortname|Shelton|Leake}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|33
+|rowspan="2" data-sort-value="Wise, Henry"|[[File:Henry A. Wise (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[Henry A. Wise]]'''<br>{{Small|(1806–1876)}}<br>{{sfn|Sobel|1978|pp=1644–1645}}<ref name="nga-wise">{{Cite web |title=Henry Alexander Wise |url=https://www.nga.org/governor/henry-alexander-wise/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1856<ref>{{Cite news |date=1856-01-02 |title=Inauguration of Governor |page=3 |work=Lynchburg Daily Virginian |url=https://www.newspapers.com/article/lynchburg-daily-virginian-wise-inaugurat/128484541/ |access-date=2023-07-19}}</ref><br/>–<br/>January 1, 1860<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1851}}
+|rowspan="2"|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|rowspan="2"|[[1855 Virginia gubernatorial election|1855]]
+|{{sortname|Elisha W.|McComas}}<br>{{small|(resigned December 7, 1857)}}
+|- style="height:2em;"
+|{{sortname|William Lowther|Jackson}}
+|- style="height:2em;" 
+!scope="row"|34
+|data-sort-value="Letcher, John"|[[File:John Letcher, govenor of Virginia, half-length portrait, facing front (3x4 cropped).jpg|75px]]
+|'''[[John Letcher]]'''<br>{{Small|(1813–1884)}}<br>{{sfn|Sobel|1978|pp=1645–1646}}<ref name="nga-letcher">{{Cite web |title=John Letcher |url=https://www.nga.org/governor/john-letcher/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1860<ref name="register" /><br/>–<br/>January 1, 1864<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1859 Virginia gubernatorial election|1859]]{{efn|name=schism}}
+|{{sortname|Robert Latane|Montague}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Smith, William"|[[File:Hon. William Smith Virginia governor (3x4 cropped).jpg|75px]]
+|'''[[William Smith (Virginia governor)|William Smith]]'''<br>{{Small|(1797–1887)}}<br>{{sfn|Sobel|1978|pp=1641–1642}}<ref name="nga-smith-william" />
+|data-sort-value="495"|January 1, 1864<ref name="register" /><br/>–<br/>May 9, 1865<br>{{small|(495 days; government<br>disestablished)}}{{efn|President [[Andrew Johnson]] issued an executive order on May 9, 1865, proclaiming that the state government run by Letcher and Smith had been illegitimate as of April 17, 1861, and that Pierpont was the legitimate governor.<ref>Andrew Johnson, [https://www.presidency.ucsb.edu/node/202017 Executive Order—To Reestablish the Authority of the United States and Execute the Laws Within the Geographical Limits Known as the State of Virginia] Online by Gerhard Peters and John T. Woolley, The American Presidency Project, accessed July 18, 2023</ref> Smith continued to attempt to claim the office until May 20.<ref name="register" />}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1863 Virginia gubernatorial elections|1863]]<br>([[Confederate States of America|Confederate]]){{efn|Virginia proclaimed its secession from the Union on April 17, 1861. In response, delegates from the northwestern counties [[Wheeling Convention|assembled at Wheeling]] and formed the [[Restored Government of Virginia]], which the federal government recognized as the legitimate government of Virginia on June 25, 1861. It operated a government, including state and federal elections, over the northwestern part of the state, the counties immediately around [[Washington, D.C.]], and the [[Eastern Shore of Virginia|eastern shore]]. On June 20, 1863, the northwestern counties were split into their own state, [[West Virginia]], and the Restored Government relocated to [[Alexandria, Virginia|Alexandria]], and after the [[Siege of Petersburg|fall of Richmond]], the government relocated to Richmond to be the sole state government.|name=schism}}
+|{{sortname|Samuel|Price}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|35
+|rowspan="3" data-sort-value="Pierpont, Francis"|[[File:Francis Pierpont portrait.gif|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Unionist Party (US)}};" title="Represented the Union Party"|
+|rowspan="3"|'''[[Francis Harrison Pierpont]]'''<br>{{Small|(1814–1889)}}<br>{{sfn|Sobel|1978|pp=1646–1647}}
+|rowspan="3" data-sort-value="2481"|June 20, 1861<ref>{{Cite news |date=1861-06-21 |title=Western Virginia |page=2 |work=Portland Press Herald |url=https://www.newspapers.com/article/portland-press-herald-pierpont-inaugurat/128485054/ |access-date=2023-07-19}}</ref><br/>–<br/>April 4, 1868<br>{{small|(2481 days; removed)}}{{efn|The [[Reconstruction Acts]] placed Virginia under full military control, and General [[John Schofield]] appointed Wells provisional governor.{{sfn|Sobel|1978|p=1647}}}}
+|rowspan="3"|[[Unionist politician (American Civil War)|Union]]{{sfn|Kallenbach|1977|pp=613–616}}
+|rowspan="2"|[[Wheeling Convention|1861]]<br>([[Restored Government of Virginia|Union]]){{efn|name=schism}}
+|style="color:inherit;background:{{party color|Unionist Party (US)}};" title="Represented the Union Party"|
+|{{sortname|Daniel|Polsley}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|[[1863 Virginia gubernatorial election|1863]]<br>([[Restored Government of Virginia|Union]]){{efn|name=schism}}
+|style="color:inherit;background:{{party color|Unionist Party (US)}};" title="Represented the Union Party"|
+|{{sortname|Leopold Copeland Parker|Cowper}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Wells, Henry"|[[File:Henry Wells (3x4 cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Nonpartisan politician}};" title="Appointed"|
+|'''[[Henry H. Wells]]'''<br>{{Small|(1823–1900)}}<br>{{sfn|Sobel|1978|p=1647}}<ref name="nga-wells">{{Cite web |title=Henry Horatio Wells |url=https://www.nga.org/governor/henry-horatio-wells/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="536"|April 4, 1868<ref>{{Cite news |date=1868-04-04 |title=Gov. Wells Appointed Governor of Virginia |page=1 |work=Evening Star |url=https://www.newspapers.com/article/evening-star-wells-appointed-april-4/128485112/ |access-date=2023-07-19}}</ref><br/>–<br/>September 21, 1869<br>{{small|(536 days; resigned)}}{{efn|Wells was ordered to resign by General [[Edward Canby]], who appointed Walker (who had already won election) in his place.}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Appointed by<br>military occupation}}
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|36
+|rowspan="2" data-sort-value="Walker, Gilbert"|[[File:Gilbert C. Walker (Virginia Governor) (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[Gilbert Carlton Walker]]'''<br>{{Small|(1833–1885)}}<br>{{sfn|Sobel|1978|pp=1647–1648}}<ref name="nga-walker">{{Cite web |title=Gilbert Carlton Walker |url=https://www.nga.org/governor/gilbert-carlton-walker/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1564"|September 21, 1869<ref>{{Cite news |date=1869-09-22 |title=Local Matters |page=1 |work=Richmond Dispatch |url=https://www.newspapers.com/article/richmond-dispatch-walker-inaugurated-sep/128485256/ |access-date=2023-07-19}}</ref><br/>–<br/>January 1, 1874<br>{{small|(1564 days; term-limited)}}{{efn|Under the 1864 constitution, governors were ineligible to succeed themselves.<ref>{{Cite web |title=1864 Va. Const. art. V, § 1 |url=https://vagovernmentmatters.org/primary-sources/520.html |access-date=2023-12-20}}</ref>}}
+|colspan="2" style="background:#EEEEEE;"|{{small|Appointed by<br />military occupation}}
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John F.|Lewis}}
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|[[Republican Party of Virginia|Republican]]{{efn|Walker ran in 1869 as a "Conservative Republican"{{sfn|Kallenbach|1977|pp=613–616}} to differentiate from his opponent who was running as a [[Radical Republican]].{{sfn|Sobel|1978|pp=1647–1648}}}}
+|[[1869 Virginia gubernatorial election|1869]]
+|style="color:inherit;background:{{party color|Conservative Party (US)}};" title="Represented the Conservative Party"|
+|{{sortname|John Lawrence|Marye Jr.}}{{efn|Represented the [[Conservative Party (Virginia, 1867)|Conservative Party]]|name=lt-con}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="Kemper, James"|[[File:Portrait of James Lawson Kemper 1876 (3x4 cropped).jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[James L. Kemper]]'''<br>{{Small|(1823–1895)}}<br>{{sfn|Sobel|1978|pp=1648–1649}}<ref name="nga-kemper">{{Cite web |title=James Lawson Kemper |url=https://www.nga.org/governor/james-lawson-kemper/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1462"|January 1, 1874<ref>{{Cite news |date=1874-01-01 |title=none |page=2 |work=Alexandria Gazette |url=https://www.newspapers.com/article/alexandria-gazette-kemper-inaugurated-ja/128485324/ |access-date=2023-07-19 | quote=Gen. James L. Kemper was today inaugurated Governor of Virginia.}}</ref><br/>–<br/>January 1, 1878<br>{{small|(1462 days; term-limited)}}{{efn|Under the 1870 constitution, governors were ineligible to succeed themselves.<ref>{{Cite web |title=1870 Va. Const. art. IV, § 1 |url=https://vagovernmentmatters.org/primary-sources/516.html |access-date=2023-12-20}}</ref>|name=limits-1870}}
+|rowspan="2"|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|rowspan="2"|[[1873 Virginia gubernatorial election|1873]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Robert E.|Withers}}<br>{{small|(resigned March 1, 1875)}}
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Henry Wirtz|Thomas}}{{efn|Represented the [[Republican Party of Virginia|Republican Party]]|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Holliday, Frederick"|[[File:Portrait of Frederick W. M. Holliday, by Thomas Cromwell Corner (3x4 cropped).jpg|75px]]
+|'''[[Frederick W. M. Holliday]]'''<br>{{Small|(1828–1899)}}<br>{{sfn|Sobel|1978|p=1649}}<ref name="nga-holliday">{{Cite web |title=Frederick William Mackey Holliday |url=https://www.nga.org/governor/frederick-william-mackey-holliday/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1878<ref>{{Cite news |date=1878-01-01 |title=Inauguration of Governor Holliday |page=3 |work=Alexandria Gazette |url=https://www.newspapers.com/article/alexandria-gazette-holliday-inaugurated/128485365/ |access-date=2023-07-19}}</ref><br/>–<br/>January 1, 1882<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1870}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1877 Virginia gubernatorial election|1877]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|James A.|Walker}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Cameron, William"|[[File:WE Cameron (3x4 cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Readjuster Party (United States)}};" title="Represented the Readjuster Party"|
+|'''[[William E. Cameron]]'''<br>{{Small|(1842–1927)}}<br>{{sfn|Sobel|1978|pp=1650–1651}}<ref name="nga-cameron">{{Cite web |title=William E. Cameron |url=https://www.nga.org/governor/william-e-cameron/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1882{{efn|The constitutional start date of the gubernatorial term was January 1, with no requirement for an oath; Cameron was not sworn in until January 2, presumably because January 1 was a Sunday.<ref>{{Cite news |date=1882-01-03 |title=New State Government |page=2 |work=Staunton Spectator |url=https://www.newspapers.com/article/staunton-spectator-cameron-sworn-in-janu/128497367/ |access-date=2023-07-19}}</ref>}}<br/>–<br/>January 1, 1886<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1870}}
+|[[Readjuster Party|Readjuster]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1881 Virginia gubernatorial election|1881]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John F.|Lewis}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Lee, Fitzhugh"|[[File:Fitzhugh Lee 1885 (3x4 cropped).jpg|75px]]
+|rowspan="24" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Fitzhugh Lee]]'''<br>{{Small|(1835–1905)}}<br>{{sfn|Sobel|1978|p=1651}}<ref name="nga-lee-fitzhugh">{{Cite web |title=Fitzhugh Lee |url=https://www.nga.org/governor/fitzhugh-lee/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1886<ref>{{Cite news |date=1886-01-02 |title=Fitz Lee Governor |page=4 |work=Richmond Dispatch |url=https://www.newspapers.com/article/richmond-dispatch-lee-inaugurated-januar/128497485/ |access-date=2023-07-19}}</ref><br/>–<br/>January 1, 1890<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1870}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1885 Virginia gubernatorial election|1885]]
+|rowspan="14" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John E.|Massey}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="McKinney, Philip"|[[File:Philip McKinney 3x4.jpg|75px]]
+|'''[[Philip W. McKinney]]'''<br>{{Small|(1832–1899)}}<br>{{sfn|Sobel|1978|p=1652}}<ref name="nga-mckinney">{{Cite web |title=Philip Watkins McKinney |url=https://www.nga.org/governor/philip-watkins-mckinney/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1890<ref>{{Cite news |date=1890-01-02 |title=New Men in Office |page=1 |work=Richmond Dispatch |url=https://www.newspapers.com/article/richmond-dispatch-mckinney-inaugurated-j/128497732/ |access-date=2023-07-19}}</ref><br/>–<br/>January 1, 1894<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1870}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1889 Virginia gubernatorial election|1889]]
+|{{sortname|James H.|Tyler}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="O'Ferrall, Charles"|[[File:Portrait of Charles T. O'Ferrall , by Osmond S. Morton (detail).jpg|75px]]
+|'''[[Charles Triplett O'Ferrall]]'''<br>{{Small|(1840–1905)}}<br>{{sfn|Sobel|1978|pp=1652–1653}}<ref name="nga-oferrall">{{Cite web |title=Charles Triplett O'Ferrall |url=https://www.nga.org/governor/charles-triplett-oferrall/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|January 1, 1894<ref>{{Cite news |date=1894-01-02 |title=It's Now Gov. O'Ferrall |page=1 |work=The Norfolk Virginian |url=https://www.newspapers.com/article/the-norfolk-virginian-oferrall-inaugura/128497801/ |access-date=2023-07-19}}</ref><br/>–<br/>January 1, 1898<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1870}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1893 Virginia gubernatorial election|1893]]
+|{{sortname|Robert C.|Kent}}
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Tyler, James"|[[File:James Hoge Tyler (3x4 cropped).jpg|75px]]
+|'''[[James Hoge Tyler]]'''<br>{{Small|(1846–1925)}}<br>{{sfn|Sobel|1978|pp=1653–1654}}<ref name="nga-tyler-james">{{Cite web |title=James Hoge Tyler |url=https://www.nga.org/governor/james-hoge-tyler/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1461"|January 1, 1898<ref>{{Cite news |date=1898-01-01 |title=Gov. Tyler Inaugurated |page=1 |work=The Portsmouth Star |url=https://www.newspapers.com/article/the-portsmouth-star-tyler-inaugurated-ja/128501768/ |access-date=2023-07-19}}</ref><br/>–<br/>January 1, 1902<br>{{small|(1461 days; term-limited)}}{{efn|name=limits-1870}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1897 Virginia gubernatorial election|1897]]
+|{{sortname|Edward|Echols}}
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Montague, Andrew"|[[File:Andrew J. Montague (3x4 cropped).jpg|75px]]
+|'''[[Andrew Jackson Montague]]'''<br>{{Small|(1862–1937)}}<br>{{sfn|Sobel|1978|pp=1654–1655}}<ref name="nga-montague">{{Cite web |title=Andrew Jackson Montague |url=https://www.nga.org/governor/andrew-jackson-montague/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1493"|January 1, 1902<ref>{{Cite news |date=1902-01-02 |title=New Governor Is Now at the Helm |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-montague-inaugur/128501857/ |access-date=2023-07-19}}</ref><br/>–<br/>February 1, 1906<br>{{small|(1493 days; term-limited)}}{{efn|Under the 1902 constitution, governors were ineligible to succeed themselves.<ref>{{Cite web |title=1902 Va. Const. art. V, § 69 |url=https://vagovernmentmatters.org/primary-sources/517.html |access-date=2023-12-20}}</ref>|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1901 Virginia gubernatorial election|1901]]
+|{{sortname|Joseph Edward|Willard}}
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Swanson, Claude"|[[File:Claude Agustus Swanson, 1862-1939, facing left (3x4 cropped).jpg|75px]]
+|'''[[Claude A. Swanson]]'''<br>{{Small|(1862–1939)}}<br>{{sfn|Sobel|1978|p=1655}}<ref name="nga-swanson">{{Cite web |title=Claude Augustus Swanson |url=https://www.nga.org/governor/claude-augustus-swanson/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|February 1, 1906<ref>{{Cite news |date=1906-02-02 |title=Governor C. A. Swanson Takes Office Before a Brilliant Throng |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-swanson-inaugura/128501968/ |access-date=2023-07-19}}</ref><br/>–<br/>February 1, 1910<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1905 Virginia gubernatorial election|1905]]
+|rowspan="3"|{{sortname|James Taylor|Ellyson}}
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Mann, William"|[[File:William Hodges Mann, ca. 1914 (3x4 cropped).jpg|75px]]
+|'''[[William Hodges Mann]]'''<br>{{Small|(1843–1927)}}<br>{{sfn|Sobel|1978|p=1656}}<ref name="nga-mann">{{Cite web |title=William Hodges Mann |url=https://www.nga.org/governor/william-hodges-mann/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|February 1, 1910<ref>{{Cite news |date=1910-02-02 |title=Governor Mann Warmly Greeted |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-mann-inaugurated/128502052/ |access-date=2023-07-19}}</ref><br/>–<br/>February 1, 1914<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1909 Virginia gubernatorial election|1909]]
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Stuart, Henry"|[[File:Henry Carter Stuart (3x4 cropped).jpg|75px]]
+|'''[[Henry Carter Stuart]]'''<br>{{Small|(1855–1933)}}<br>{{sfn|Sobel|1978|pp=1656–1657}}<ref name="nga-stuart">{{Cite web |title=Henry Carter Stuart |url=https://www.nga.org/governor/henry-carter-stuart/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|February 1, 1914{{efn|The constitutional start date of the gubernatorial term was February 1, with no requirement for an oath; Stuart was not sworn in until February 2, presumably because February 1 was a Sunday.<ref>{{Cite news |date=1914-02-03 |title=Thousands Cheer As New Executive Assumes Office |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-stuart-sworn-in/128502370/ |access-date=2023-07-19}}</ref>}}<br/>–<br/>February 1, 1918<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1913 Virginia gubernatorial election|1913]]
+|- style="height:2em;"
+!scope="row"|48
+|data-sort-value="Davis, Westmoreland"|[[File:Westmoreland Davis GOVERNOR (3x4 cropped).jpg|75px]]
+|'''[[Westmoreland Davis]]'''<br>{{Small|(1859–1942)}}<br>{{sfn|Sobel|1978|pp=1657–1658}}<ref name="nga-davis">{{Cite web |title=Westmoreland Davis |url=https://www.nga.org/governor/westmoreland-davis/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|February 1, 1918<ref>{{Cite news |date=1918-02-02 |title=Governor Davis Is Inaugurated in Hall of House |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-davis-inaugurate/128504810/ |access-date=2023-07-19}}</ref><br/>–<br/>February 1, 1922<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1917 Virginia gubernatorial election|1917]]
+|{{sortname|Benjamin Franklin|Buchanan}}
+|- style="height:2em;"
+!scope="row"|49
+|data-sort-value="Trinkle, Elbert"|[[File:Elbert Lee Trinkle Portrait (3x4 cropped).jpg|75px]]
+|'''[[Elbert Lee Trinkle]]'''<br>{{Small|(1876–1939)}}<br>{{sfn|Sobel|1978|pp=1658–1659}}<ref name="nga-trinkle">{{Cite web |title=Elbert Lee Trinkle |url=https://www.nga.org/governor/elbert-lee-trinkle/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1462"|February 1, 1922<ref>{{Cite news |date=1922-02-02 |title=While Guns Boom in Salute, Takes Pledge of Office |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-trinkle-inaugura/128504885/ |access-date=2023-07-19}}</ref><br/>–<br/>February 1, 1926<br>{{small|(1462 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1921 Virginia gubernatorial election|1921]]
+|rowspan="2"|{{sortname|Junius Edgar|West}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Byrd, Harry"|[[File:Harry F. Byrd (3x4 cropped).jpg|75px]]
+|'''[[Harry F. Byrd]]'''<br>{{Small|(1887–1966)}}<br>{{sfn|Sobel|1978|pp=1659–1660}}<ref name="nga-byrd">{{Cite web |title=Harry Flood Byrd |url=https://www.nga.org/governor/harry-flood-byrd/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1445"|February 1, 1926<ref>{{Cite news |date=1926-02-02 |title=Harry F. Byrd Takes Reins of Government |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-byrd-inaugurated/128504923/ |access-date=2023-07-19}}</ref><br/>–<br/>January 15, 1930<br>{{small|(1445 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1925 Virginia gubernatorial election|1925]]
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Pollard, John"|[[File:John Garland Pollard (3x4 cropped).jpg|75px]]
+|'''[[John Garland Pollard]]'''<br>{{Small|(1871–1937)}}<br>{{sfn|Sobel|1978|pp=1660–1661}}<ref name="nga-pollard">{{Cite web |title=John Garland Pollard |url=https://www.nga.org/governor/john-garland-pollard/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1463"|January 15, 1930<ref>{{Cite news |date=1930-01-16 |title=Pollard Stresses Need of Public Support of Laws in His Inaugural Address; Many Witness Ceremony |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-pllard-inaugurat/128504968/ |access-date=2023-07-19}}</ref><br/>–<br/>January 16, 1934<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1929 Virginia gubernatorial election|1929]]
+|rowspan="2"|{{sortname|James Hubert|Price}}
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Peery, George"|[[File:George C. Peery (3x4 cropped).jpg|75px]]
+|'''[[George C. Peery]]'''<br>{{Small|(1873–1952)}}<br>{{sfn|Sobel|1978|pp=1661–1662}}<ref name="nga-peery">{{Cite web |title=George Campbell Peery |url=https://www.nga.org/governor/george-campbell-peery/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1463"|January 17, 1934<ref>{{Cite news |last=Southall |first=William B. |date=1934-01-18 |title=Peery Inaugurated 50th Governor As Crowds Cheer; Recommends $3,000,000 More for Schools, Roads |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-peery-inaugurate/128505973/ |access-date=2023-07-19}}</ref><br/>–<br/>January 18, 1938<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1933 Virginia gubernatorial election|1933]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|53
+|rowspan="2" data-sort-value="Price, James"|[[File:JamesHPrice (3x4 cropped).jpg|75px]]
+|rowspan="2"|'''[[James Hubert Price]]'''<br>{{Small|(1878–1943)}}<br>{{sfn|Sobel|1978|pp=1662–1663}}<ref name="nga-price">{{Cite web |title=James Hubert Price |url=https://www.nga.org/governor/james-hubert-price/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="2" data-sort-value="1463"|January 19, 1938<ref>{{Cite news |last=Latimer |first=James |date=1938-01-20 |title=Price Dons Robe of State as Governor |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-price-inaugurate/128506007/ |access-date=2023-07-19}}</ref><br/>–<br/>January 20, 1942<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1902}}
+|rowspan="2"|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|rowspan="2"|[[1937 Virginia gubernatorial election|1937]]
+|{{sortname|Saxon W.|Holt}}<br>{{small|(died March 31, 1940)}}
+|- style="height:2em;" 
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|54
+|data-sort-value="Darden, Colgate"|[[File:Colgate Darden (VA).png|75px]]
+|'''[[Colgate Darden]]'''<br>{{Small|(1897–1981)}}<br>{{sfn|Sobel|1978|pp=1663–1664}}<ref name="nga-darden">{{Cite web |title=Colgate Whitehead Darden |url=https://www.nga.org/governor/colgate-whitehead-darden/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1456"|January 21, 1942<ref>{{Cite news |last=Latimer |first=James |date=1942-01-22 |title=Small Loan Rate Slash Is Advocated |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-darden-inaugurat/128506040/ |access-date=2023-07-19}}</ref><br/>–<br/>January 15, 1946<br>{{small|(1456 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1941 Virginia gubernatorial election|1941]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|William M.|Tuck}}
+|- style="height:2em;"
+!scope="row"|55
+|data-sort-value="Tuck, William"|[[File:William M. Tuck (VA).png|75px]]
+|'''[[William M. Tuck]]'''<br>{{Small|(1896–1983)}}<br>{{sfn|Sobel|1978|p=1664}}<ref name="nga-tuck">{{Cite web |title=William Munford Tuck |url=https://www.nga.org/governor/william-munford-tuck/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1463"|January 16, 1946<ref>{{Cite news |date=1946-01-17 |title=Governor Would End Federal Aid |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-tuck-inaugurated/128506135/ |access-date=2023-07-19}}</ref><br/>–<br/>January 17, 1950<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1945 Virginia gubernatorial election|1945]]
+|rowspan="2"|{{sortname|Lewis Preston|Collins II}}<br>{{small|(died September 20, 1952)}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|56
+|rowspan="3" data-sort-value="Battle, John"|[[File:John S. Battle (VA) (3x4 cropped).png|75px]]
+|rowspan="3"|'''[[John S. Battle]]'''<br>{{Small|(1890–1972)}}<br>{{sfn|Sobel|1978|p=1665}}<ref name="nga-battle">{{Cite web |title=John Stewart Battle |url=https://www.nga.org/governor/john-stewart-battle/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1463"|January 18, 1950<ref>{{Cite news |last=Latimer |first=James |date=1950-01-19 |title=New Governor Urges Fast Vote of Grants and Loans in 'Crisis' |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-battle-inaugurat/128506258/ |access-date=2023-07-19}}</ref><br/>–<br/>January 19, 1954<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1902}}
+|rowspan="3"|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|rowspan="3"|[[1949 Virginia gubernatorial election|1949]]
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|rowspan="6" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|{{sortname|Allie Edward Stakes|Stephens}}<br>{{small|(elected December 2, 1952)}}
+|- style="height:2em;"
+!scope="row"|57
+|data-sort-value="Stanley, Thomas"|[[File:Thomas Bahnson Stanley (3x4a).jpg|75px]]
+|'''[[Thomas B. Stanley]]'''<br>{{Small|(1890–1970)}}<br>{{sfn|Sobel|1978|pp=1665–1666}}<ref name="nga-stanley">{{Cite web |title=Thomas Bahnson Stanley |url=https://www.nga.org/governor/thomas-bahnson-stanley/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1453"|January 20, 1954<ref>{{Cite news |last=Latimer |first=James |date=1954-01-21 |title=Stanley Asks One-Cent Boost in Gas Tax |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-stanley-inaugura/128506299/ |access-date=2023-07-19}}</ref><br/>–<br/>January 11, 1958<br>{{small|(1453 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1953 Virginia gubernatorial election|1953]]
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Almond, J. Lindsay"|[[File:J. Lindsay Almond (3x4 cropped).jpg|75px]]
+|'''[[J. Lindsay Almond]]'''<br>{{Small|(1898–1986)}}<br>{{sfn|Sobel|1978|pp=1666–1667}}<ref name="nga-almond">{{Cite web |title=James Lindsay Almond |url=https://www.nga.org/governor/james-lindsay-almond/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 1958<ref>{{Cite news |last=Latimer |first=James |date=1958-01-12 |title=Almond Asks 2 Moves to Combat Integration |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-almond-inaugurat/128506359/ |access-date=2023-07-19}}</ref><br/>–<br/>January 13, 1962<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1957 Virginia gubernatorial election|1957]]
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="Harrison, Albertis"|[[File:Albertis Harrison 1962.jpg|75px]]
+|'''[[Albertis Harrison]]'''<br>{{Small|(1907–1995)}}<br>{{sfn|Sobel|1978|pp=1667–1668}}<ref name="nga-harrison-albertis">{{Cite web |title=Albertis S. Harrison |url=https://www.nga.org/governor/albertis-s-harrison/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 13, 1962<ref>{{Cite news |last=Latimer |first=James |date=1962-01-14 |title=Harrison Asks Educational Renaissance |page=1A |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-harrison-inaugur/128506410/ |access-date=2023-07-19}}</ref><br/>–<br/>January 15, 1966<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1961 Virginia gubernatorial election|1961]]
+|{{sortname|Mills|Godwin}}
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Godwin, Mills"|[[File:Mills Godwin 1974.jpg|75px]]
+|'''[[Mills Godwin]]'''<br>{{Small|(1914–1999)}}<br>{{sfn|Sobel|1978|pp=1668–1669}}<ref name="nga-godwin">{{Cite web |title=Mills Edwin Godwin |url=https://www.nga.org/governor/mills-edwin-godwin/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1966<ref>{{Cite news |last=Latimer |first=James |date=1966-01-16 |title=New Governor Exhorts Virginia to Seek Progress in Education |page=1A |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-godwin-inaugurat/128506438/ |access-date=2023-07-19}}</ref><br/>–<br/>January 17, 1970<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1902}}
+|[[Democratic Party of Virginia|Democratic]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1965 Virginia gubernatorial election|1965]]
+|{{sortname|Fred G.|Pollard}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|61
+|rowspan="3" data-sort-value="Holton, Linwood"|[[File:Linwood Holton 1970.jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="3"|'''[[Linwood Holton]]'''<br>{{Small|(1923–2021)}}<br>{{sfn|Sobel|1978|pp=1669–1670}}<ref name="nga-holton">{{Cite web |title=Linwood Holton |url=https://www.nga.org/governor/linwood-holton/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|rowspan="3" data-sort-value="1457"|January 17, 1970<ref>{{Cite news |last=Latimer |first=James |date=1970-01-18 |title=Holton to Strive to Make State 'A Model of Race Relations' |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-holton-inaugurat/128506492/ |access-date=2023-07-19}}</ref><br/>–<br/>January 12, 1974<br>{{small|(1457 days; term-limited)}}{{efn|Under the 1971 constitution, governors are ineligible to succeed themselves.<ref>{{Cite web |title=Va. Const. art. V, § 1 |url=https://law.justia.com/constitution/virginia/constitution.html#5S1 |access-date=2023-12-20}}</ref>|name=limits-1971}}
+|rowspan="3"|[[Republican Party of Virginia|Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|rowspan="3"|[[1969 Virginia gubernatorial election|1969]]
+|{{sortname|J. Sargeant|Reynolds}}{{efn|Represented the [[Democratic Party of Virginia|Democratic Party]]|name=lt-dem}}<br>{{small|(died June 13, 1971)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Henry|Howell}}{{efn|name=lt-dem}}<br>{{small|(elected December 4, 1971)}}
+|- style="height:2em;"
+!scope="row"|62
+|data-sort-value="Godwin, Mills"|[[File:Mills Godwin 1974.jpg|75px]]
+|'''[[Mills Godwin]]'''<br>{{Small|(1914–1999)}}<br>{{sfn|Sobel|1978|pp=1668–1669}}<ref name="nga-godwin" />
+|data-sort-value="1464"|January 12, 1974<ref>{{Cite news |last=Latimer |first=James |date=1974-01-13 |title=Set Example of Integrity for U.S., New Governor Urges Virginians |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-godwin-inaugurat/128506532/ |access-date=2023-07-19}}</ref><br/>–<br/>January 14, 1978<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Republican Party of Virginia|Republican]]{{sfn|Kallenbach|1977|pp=613–616}}
+|[[1973 Virginia gubernatorial election|1973]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John N.|Dalton}}
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Dalton, John"|[[File:John N. Dalton (VA) (cropped).jpg|75px]]
+|'''[[John N. Dalton]]'''<br>{{Small|(1931–1986)}}<br>{{sfn|Sobel|1978|pp=1670–1671}}<ref name="nga-dalton">{{Cite web |title=John Nichols Dalton |url=https://www.nga.org/governor/john-nichols-dalton/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 14, 1978<ref>{{Cite news |last=Latimer |first=James |date=1978-01-15 |title=Dalton Pledges 'New Dominion' |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-dalton-inaugurat/128506579/ |access-date=2023-07-19}}</ref><br/>–<br/>January 16, 1982<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Republican Party of Virginia|Republican]]<ref name="nga-dalton" />
+|[[1977 Virginia gubernatorial election|1977]]
+|rowspan="5" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Chuck|Robb}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|64
+|data-sort-value="Robb, Chuck"|[[File:Chuck Robb (VA) (3x4 cropped).png|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Chuck Robb]]'''<br>{{small|({{Abbr|b.|born in}} 1939)}}<br><ref name="nga-robb">{{Cite web |title=Charles Spittal Robb |url=https://www.nga.org/governor/charles-spittal-robb/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 16, 1982<ref>{{Cite news |last=Eisman |first=Dale |date=1982-01-17 |title=Robb Sees National Role for Virginia |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-robb-inaugurated/128506601/ |access-date=2023-07-19}}</ref><br/>–<br/>January 11, 1986<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-robb" />
+|[[1981 Virginia gubernatorial election|1981]]
+|{{sortname|Dick|Davis|dab=politician}}
+|- style="height:2em;"
+!scope="row"|65
+|data-sort-value="Baliles, Gerald"|[[File:Gerald Baliles 1986.jpg|75px]]
+|'''[[Gerald Baliles]]'''<br>{{Small|(1940–2019)}}<br><ref name="nga-baliles">{{Cite web |title=Gerald L. Baliles |url=https://www.nga.org/governor/gerald-l-baliles/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 1986<ref>{{Cite news |last=Eisman |first=Dale |date=1986-01-12 |title=Baliles, Wilder, Ms. Terry Sworn In, Say State 'Leading the Nation Again' |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-baliles-inaugura/128506630/ |access-date=2023-07-19}}</ref><br/>–<br/>January 13, 1990<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-baliles" />
+|[[1985 Virginia gubernatorial election|1985]]
+|{{sortname|Douglas|Wilder}}
+|- style="height:2em;"
+!scope="row"|66
+|data-sort-value="Wilder, Douglas"|[[File:Douglas Wilder 2003 NIH.jpg|75px]]
+|'''[[Douglas Wilder]]'''<br>{{small|({{Abbr|b.|born in}} 1931)}}<br><ref name="nga-wilder">{{Cite web |title=L. Douglas Wilder |url=https://www.nga.org/governor/l-douglas-wilder/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 13, 1990<ref>{{Cite news |last=Hardy |first=Michael |last2=Schapiro |first2=Jeff E. |date=1990-01-14 |title=Salute Freedom Today, Expand It, Wilder Tells 30,000 at Inaugural |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-wilder-inaugurat/128506672/ |access-date=2023-07-19}}</ref><br/>–<br/>January 15, 1994<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-wilder" />
+|[[1989 Virginia gubernatorial election|1989]]
+|rowspan="2"|{{sortname|Don|Beyer}}{{efn|name=lt-dem}}
+|- style="height:2em;"
+!scope="row"|67
+|data-sort-value="Allen, George"|[[File:George Allen official portrait (3x4 cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[George Allen (American politician)|George Allen]]'''<br>{{small|({{Abbr|b.|born in}} 1952)}}<br><ref name="nga-allen">{{Cite web |title=George Allen |url=https://www.nga.org/governor/george-allen/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 1994<ref>{{Cite news |last=Whitley |first=Tyler |date=1994-01-16 |title=It's Allen, for a Change |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-allen-inaugurate/128506701/ |access-date=2023-07-19}}</ref><br/>–<br/>January 17, 1998<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Republican Party of Virginia|Republican]]<ref name="nga-allen" />
+|[[1993 Virginia gubernatorial election|1993]]
+|- style="height:2em;"
+!scope="row"|68
+|data-sort-value="Gilmore, Jim"|[[File:Jim Gilmore 2004 NSTAC (3x4 cropped).jpg|75px]]
+|'''[[Jim Gilmore]]'''<br>{{small|({{Abbr|b.|born in}} 1949)}}<br><ref name="nga-gilmore">{{Cite web |title=James S. Gilmore |url=https://www.nga.org/governor/james-s-gilmore/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 17, 1998<ref>{{Cite news |last=Intress |first=Ruth S. |last2=Stallsmith |first2=Pamela |date=1998-01-18 |title='Common Man' Now Governor |page=1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-gilmore-inaugura/128506747/ |access-date=2023-07-19}}</ref><br/>–<br/>January 12, 2002<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Republican Party of Virginia|Republican]]<ref name="nga-gilmore" />
+|[[1997 Virginia gubernatorial election|1997]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|John H.|Hager}}
+|- style="height:2em;"
+!scope="row"|69
+|data-sort-value="Warner, Mark"|[[File:Governor Warner (1).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Mark Warner]]'''<br>{{small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-warner">{{Cite web |title=Mark R. Warner |url=https://www.nga.org/governor/mark-r-warner/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 12, 2002<ref>{{Cite news |last=Schapiro |first=Jeff E. |date=2002-01-13 |title=Warner Inaugurated |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-warner-inaugurat/128506789/ |access-date=2023-07-19}}</ref><br/>–<br/>January 14, 2006<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-warner" />
+|[[2001 Virginia gubernatorial election|2001]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Tim|Kaine}}
+|- style="height:2em;"
+!scope="row"|70
+|data-sort-value="Kaine, Tim"|[[File:Gov. Tim Kaine (cropped).jpg|75px]]
+|'''[[Tim Kaine]]'''<br>{{small|({{Abbr|b.|born in}} 1958)}}<br><ref name="nga-kaine">{{Cite web |title=Tim Kaine |url=https://www.nga.org/governor/tim-kaine/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 14, 2006<ref>{{Cite news |last=Schapiro |first=Jeff E. |date=2006-01-15 |title=Gov. Kaine Takes Office |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-kaine-inaugurate/128506837/ |access-date=2023-07-19}}</ref><br/>–<br/>January 16, 2010<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-kaine" />
+|[[2005 Virginia gubernatorial election|2005]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Bill|Bolling}}{{efn|name=lt-rep}}
+|- style="height:2em;"
+!scope="row"|71
+|data-sort-value="McDonnell, Bob"|[[File:Bob McDonnell by Gage Skidmore (3x4 cropped b).jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Bob McDonnell]]'''<br>{{small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-mcdonnell">{{Cite web |title=Robert McDonnell |url=https://www.nga.org/governor/robert-mcdonnell/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1457"|January 16, 2010<ref>{{Cite news |last=Whitley |first=Tyler |date=2010-01-17 |title=State of Opportunity |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-mcdonnell-inaugu/128506913/ |access-date=2023-07-19}}</ref><br/>–<br/>January 11, 2014<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Republican Party of Virginia|Republican]]<ref name="nga-mcdonnell" />
+|[[2009 Virginia gubernatorial election|2009]]
+|- style="height:2em;"
+!scope="row"|72
+|data-sort-value="McAuliffe, Terry"|[[File:Virginia Governor Democrats Terry McAuliffe 095 (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Terry McAuliffe]]'''<br>{{small|({{Abbr|b.|born in}} 1957)}}<br><ref name="nga-mcauliffe">{{Cite web |title=Terry McAuliffe |url=https://www.nga.org/governor/terry-mcauliffe/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 11, 2014<ref>{{Cite news |last=Nolan |first=Jim |last2=Meola |first2=Olympia |date=2014-01-12 |title=The Work Begins |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-mcauliffe-inaugu/128507872/ |access-date=2023-07-19}}</ref><br/>–<br/>January 13, 2018<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-mcauliffe" />
+|[[2013 Virginia gubernatorial election|2013]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Ralph|Northam}}
+|- style="height:2em;"
+!scope="row"|73
+|data-sort-value="Northam, Ralph"|[[File:Governor Ralph Northam Gives Inaugural Address (3x4 cropped).jpg|75px]]
+|'''[[Ralph Northam]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br><ref name="nga-northam">{{Cite web |title=Ralph Northam |url=https://www.nga.org/governor/ralph-northam/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 13, 2018<ref>{{Cite news |last=Moomaw |first=Graham |date=2018-01-14 |title=New Hand at the Helm |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-northam-inaugura/128507902/ |access-date=2023-07-19}}</ref><br/>–<br/>January 15, 2022<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-northam" />
+|[[2017 Virginia gubernatorial election|2017]]
+|{{sortname|Justin|Fairfax}}
+|- style="height:2em;"
+!scope="row"|74
+|data-sort-value="Youngkin, Glenn"|[[File:Glenn Youngkin 2025 (cropped).jpg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Glenn Youngkin]]'''<br>{{small|({{Abbr|b.|born in}} 1966)}}<br><ref name="nga-youngkin">{{Cite web |title=Glenn Youngkin |url=https://www.nga.org/governor/glenn-youngkin/ |access-date=July 18, 2023 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="1464"|January 15, 2022<ref>{{Cite news |last=Leonor |first=Mel |date=2022-01-16 |title=Youngkin Sworn In As Governor |page=A1 |work=Richmond Times-Dispatch |url=https://www.newspapers.com/article/richmond-times-dispatch-youngkin-inaugur/128507950/ |access-date=2023-07-19}}</ref><br/>–<br/>January 17, 2026<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1971}}
+|[[Republican Party of Virginia|Republican]]<ref name="nga-youngkin" />
+|[[2021 Virginia gubernatorial election|2021]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Winsome|Earle-Sears}}
+|-
+!scope="row"|75 
+|data-sort-value="Spanberger, Abigail"| [[File:Abigail Spanberger at JLDC Groundbreaking Event (cropped).jpg|Rep. Abigail Spanberger - 118th Congress | 100x100px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Abigail Spanberger]]'''<br>{{small|({{Abbr|b.|born in}} 1979)}}<br><ref name="nga-spanberger">{{Cite web |title=Abigail Spanberger |url=https://www.nga.org/governor/abigail-spanberger/ |access-date=January 17, 2026 |publisher=[[National Governors Association]]}}</ref>
+|data-sort-value="{{Duration in days nts|2026|1|17|duration=on|format=no}}"|January 17, 2026<ref>{{Cite web |last=Diaz |first=Olivia |date=2026-01-17 |title=Abigail Spanberger becomes Virginia’s 1st female governor in historic inauguration |url=https://apnews.com/article/abigail-spanberger-virginia-governor-inauguration-5a0da64bf53f8e800783fa428cb99d50 |website=Associated Press |access-date=2026-01-17}}</ref><br/>–<br/>Incumbent{{efn|Spanbergers's term [[2029 Virginia gubernatorial election|will expire]] on January 12, 2030; she will be term-limited.}}<br>{{small|(in office {{Duration in days nts|2026|1|17|duration=on|format=no}} days)}}
+|[[Democratic Party of Virginia|Democratic]]<ref name="nga-spanberger" />
+|[[2025 Virginia gubernatorial election|2025]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Ghazala|Hashmi}}<br>
+|}
+
+==See also==
+* [[Gubernatorial lines of succession in the United States#Virginia|Gubernatorial lines of succession in Virginia]]
+* [[List of Virginia state legislatures]]
+* [[List of first ladies and first gentlemen of Virginia|First ladies and first gentlemen of Virginia]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+{{refbegin}}
+*{{Cite web |title=Former Virginia Governors |url=https://www.nga.org/former-governors/virginia/ |access-date=July 16, 2023 |publisher=National Governors Association}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0004unse/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. IV |publisher=Meckler Books |year=1978 |isbn=9780930466008 |access-date=June 13, 2023}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |language=en}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |access-date=September 23, 2023}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+* {{Cite web |title=Our Campaigns - Governor of Virginia - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=286 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+* {{Cite web |title=Our Campaigns - Governor of Virginia (CSA) - History |url=https://www.ourcampaigns.com/ContainerHistory.html?ContainerID=68435 |access-date=2023-07-25 |website=www.ourcampaigns.com}}
+{{refend}}
+
+;Specific
+{{reflist}}
+
+==External links==
+*[https://www.governor.virginia.gov/ Office of the Governor of Virginia]
+
+{{Virginia}}
+{{Lists of US Governors}}
+
+{{DEFAULTSORT:Virginia, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Virginia|*]]
+[[Category:Lists of Virginia politicians|Governors]]
+[[Category:Political history of Virginia|governor]]
+[[Category:Virginia history-related lists|Governors]]

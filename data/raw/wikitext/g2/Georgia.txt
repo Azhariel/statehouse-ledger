@@ -1,0 +1,810 @@
+{{Short description|None}}
+{{distinguish|text=the state commissioners (informally referred to as "Governor"), the chief executives of the [[Mkhare|Regions of Georgia (country)]]}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=July 2023}}
+
+The [[governor of Georgia]] is the [[head of government]] of the U.S. state of [[Government of Georgia (U.S. state)|Georgia]] and the commander-in-chief of the [[U.S. state|state]]'s [[Georgia National Guard|military forces]]. [[Georgia Republican Party|Republican]] [[Brian Kemp]] assumed office on January 14, 2019.
+{{History of Georgia (U.S. state)}}
+
+There have officially been 83 governors of the State of Georgia, including 11 who served more than one distinct term ([[John Houstoun]], [[George Walton]], [[Edward Telfair]], [[George Mathews (Georgia politician)|George Mathews]], [[Jared Irwin]], [[David Brydie Mitchell]], [[George R. Gilmer]], [[Hoke Smith]], [[Joseph Mackey Brown]], [[John M. Slaton]] and [[Eugene Talmadge]], with [[Herman Talmadge]] serving two ''de facto'' distinct terms).
+
+The longest-serving governors are [[George Busbee]], [[Joe Frank Harris]], [[Zell Miller]], [[Sonny Perdue]] and [[Nathan Deal]], each of whom served two full four-year terms; [[Joseph E. Brown]], governor during the Civil War, was elected four times, serving seven and a half years. The shortest term of the post-revolutionary period is that of [[Matthew Talbot]], who served 13 days after succeeding his predecessor, who died in office. [[Eugene Talmadge]] died in December 1946 before taking office in his second distinct term, leading to [[Three governors controversy|a dispute]] in which three people claimed the office.
+
+==Governors==
+{{For|the period before independence|List of colonial governors of Georgia}}
+
+Georgia was one of the original [[Thirteen Colonies]] and was admitted as a state on January 2, 1788.<ref>{{Cite report |title=Admission of States to the Union: A Historical Reference Guide |url=https://www.congress.gov/crs-product/R47747 |access-date=October 20, 2026 |id=CRS Report no. R47747 |publisher=[[Congressional Research Service]] |date=December 17, 2024}}</ref> Before it declared its independence, [[Province of Georgia|Georgia was a colony]] of the [[Kingdom of Great Britain]]. It seceded from the [[Union (American Civil War)|Union]] on January 19, 1861,<ref>{{Cite web |title=Secession Ordinances of 13 Confederate States |url=http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |url-status=live |archive-url=https://web.archive.org/web/20150905091739/http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=3953 |archive-date=September 5, 2015 |access-date=May 24, 2015 |publisher=[[University of Houston]]}}</ref> and was a founding member of the [[Confederate States of America]] on February 4, 1861.<ref>{{cite book |url=https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t2t44fh2r&seq=23 |page=1 |title=The Statutes at Large of the Provisional Government of the Confederate States of America |editor-last=Matthews |editor-first=James M. |year=1864 |location=Richmond, Virginia |publisher=R.M. Smith |via=[[HathiTrust]]}}</ref> Following the end of the [[American Civil War]], Georgia during [[Reconstruction era|Reconstruction]] was part of the [[Third Military District]], which exerted some control over governor appointments and elections. Georgia was readmitted to the Union on July 21, 1868;<ref>{{usstat|15|708}}</ref> again expelled from Congress on March 3, 1869;<ref>{{cite book |title=Hinds' Precedents of the House of Representatives of the United States |volume=1 |author-last=Hinds |author-first=Asher C. |publisher=[[Government Printing Office]] |location=Washington, D.C. |year=1907 |chapter=XI, § 388 |pages=338–341 |url=https://archive.org/details/hindsprecedentso00hind/page/338}}</ref> and again readmitted on July 15, 1870.<ref>{{usstat|16|363}}</ref>
+
+The Rules and Regulations of the Colony, drafted in 1776, provided for a president to serve a term of 6 months.<ref>{{Cite web |title=Rules and Regulations of the Colony of Georgia, 1776 |url=http://georgiainfo.galileo.usg.edu/con1776.htm |url-status=dead |archive-url=https://web.archive.org/web/20130815012131/http://georgiainfo.galileo.usg.edu/con1776.htm |archive-date=August 15, 2013 |access-date=November 28, 2012}}</ref> [[Constitution of Georgia (U.S. state)|A formal constitution]] was drafted in 1777, providing for a governor to serve a term of one year, but no more than one year out of every three.{{sfn|Thorpe|1909|p=781|loc=1777 art. XXIII}} The term was lengthened to two years in 1789, but with no term limit.{{sfn|Thorpe|1909|p=787|loc=1789 art. II, § 1}} The 1865 constitution required governors to take four years off after serving two terms,{{sfn|Thorpe|1909|p=816|loc=1865 art. III, § 1}} but that was quickly changed in the 1868 constitution, which allowed four-year terms with no limits.{{sfn|Thorpe|1909|p=831|loc=1868 art. IV, § 1}} The term length was returned to the two-year term and limit of the 1865 constitution in 1877.{{sfn|Thorpe|1909|p=|loc=1877 art. V, § 1}}
+
+The 1945 constitution changed the length of terms to four years, with governors required to take four years off before running again, and it created the office of [[Lieutenant Governor of Georgia]], who would exercise the powers of the governor should the office become vacant.<ref>{{cite book |title=Georgia Constitution of 1945 |url=https://digitalcommons.law.uga.edu/ga_constitutions/31/ |via=[[University of Georgia School of Law]] |page=23}}</ref> This was changed in 1983 so that the lieutenant governor fully becomes governor in that circumstance.{{sfn|Ga. Const.|loc=[https://50constitutions.org/ga/constitution/section-id-78205 art. V, § 1]}} Before the creation of the office of lieutenant governor, the president of the senate (or, before 1789, the president of the executive council{{sfn|Thorpe|1909|p=782|loc=1777 art. XXIX}}) would exercise the powers of governor.{{sfn|Thorpe|1909|p=787|loc=1789 art. II, § 4}} The 1983 constitution also allows governors to succeed themselves once, before having to wait four years to run again.{{sfn|Ga. Const.|loc=[https://50constitutions.org/ga/constitution/section-id-78205 art. V, § 1]}} The governor and the lieutenant governor are not officially elected on the same ticket.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Georgia
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|The state says Brian Kemp is the 83rd governor; this number is derived from the Official and Statistical Register of Georgia, last published by the Office of Secretary of State in 1978. It continues the numbering from the colonial governors and omits repeat governors, thus marking Archibald Bulloch as 7th and George Busbee as 77th.<ref name="register-1978">{{Cite book |year=1978 |title=Georgia Official and Statistical Register, 1977-78 |url=https://dlg.galileo.usg.edu/data/dlg/sreg/pdfs/dlg_sreg_1977.pdf |format=PDF |access-date=October 20, 2026 |via=[[Georgia Library Learning Online]] |pages=1145–1149}}</ref>}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Georgia|Lt. Governor]]{{efn|The office of lieutenant governor was created in 1945, first being filled in 1947.}}{{efn|Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Bulloch, Archibald"|[[File:Anonymous - Archibald Bulloch, Governor of Georgia - 1975.77.2 - Smithsonian American Art Museum.jpg|75px]]
+|rowspan="4" style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="No parties"|
+|'''[[Archibald Bulloch]]'''<br>{{Small|(1730–1777)}}<br><ref name="nga-bulloch">{{Cite web |title=Archibald Bulloch |url=https://www.nga.org/governor/archibald-bulloch/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260720111236/https://www.nga.org/governor/archibald-bulloch/ |archive-date=July 20, 2026 |url-status=live}}</ref><ref name="ga-bulloch">{{Cite web |last=Schmidt |first=Jim |date=January 23, 2019 |title=Archibald Bulloch |url=https://www.georgiaencyclopedia.org/articles/government-politics/archibald-bulloch-1730-1777/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260423024453/https://www.georgiaencyclopedia.org/articles/government-politics/archibald-bulloch-1730-1777/ |archive-date=April 23, 2026 |url-status=live}}</ref>
+|data-sort-value="398"|January 22, 1776<ref name="register-1990">{{Cite book |year=1990 |title=Georgia Official and Statistical Register, 1989–90 |url=https://dlg.galileo.usg.edu/data/dlg/sreg/pdfs/dlg_sreg_1989.pdf |format=PDF |via=[[Georgia Library Learning Online]] |access-date=October 20, 2026 |pages=199–207}}</ref><br />–<br />February 22, 1777<br>{{small|(398 days; died in office)}}
+|rowspan="4" style="background:#EEEEEE; color:inherit;"|''No parties''
+|—{{efn|The revolutionary government did not necessarily follow any schedule or term lengths, so the election year is omitted until 1781, when it becomes easier to determine.|name=dashelections}}
+|rowspan="106" colspan="2" style="background:#EEEEEE; color:inherit;"|''Office did not exist''
+|- style="height:2em;"
+!scope="row"|8
+|data-sort-value="Gwinnett, Button"|[[File:Button Gwinnett Portrait.png|75px]]
+|'''[[Button Gwinnett]]'''<br>{{Small|(1735–1777)}}<br><ref name="nga-gwinnett">{{Cite web |title=Button Gwinnett |url=https://www.nga.org/governor/button-gwinnett/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417181800/https://www.nga.org/governor/button-gwinnett/ |archive-date=April 17, 2026 |url-status=live}}</ref><ref name="ga-gwinnett">{{Cite web |last=Deaton |first=Stan |date=August 1, 2019 |title=Button Gwinnett |url=https://www.georgiaencyclopedia.org/articles/government-politics/button-gwinnett-1735-1777/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260726133250/https://www.georgiaencyclopedia.org/articles/government-politics/button-gwinnett-1735-1777/ |archive-date=July 26, 2026 |url-status=live}}</ref>
+|data-sort-value="66"|March 4, 1777<ref name="register-1990" /><br />–<br />May 8, 1777<br>{{small|(66 days; retired)}}{{efn|name=leftoffice}}
+|—{{efn|name=dashelections}}{{efn|As speaker of the provincial Congress, Gwinnett was elected by the Council of Safety to succeed Bulloch.<ref name="nga-gwinnett" />}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Treutlen, John"|[[File:John Adam Treutlen (Georgia Salzburger Society).jpg|75px]]
+|'''[[John A. Treutlen]]'''<br>{{Small|(1734–1782)}}<br><ref name="nga-treutlen">{{Cite web |title=John Adam Treutlen |url=https://www.nga.org/governor/john-adam-treutlen/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410200229/https://www.nga.org/governor/john-adam-treutlen/ |archive-date=April 10, 2026 |url-status=live}}</ref><ref name="ga-treutlen">{{Cite web |last=Schmidt |first=Jim |date=February 21, 2018 |title=John Adam Treutlen |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-adam-treutlen-1733-1782/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260617222612/https://www.georgiaencyclopedia.org/articles/government-politics/john-adam-treutlen-1733-1782/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="248"|May 8, 1777<ref name="register-1990" /><br />–<br />January 10, 1778<br>{{small|(248 days; retired)}}{{efn|No sources specify if the governor stood for election to the following term.|name=leftoffice}}
+|—{{efn|name=dashelections}}
+|- style="height:2em;"
+!scope="row"|10
+|data-sort-value="Houstoun, John"|[[File:Portrait_of_John_Houstoun.png|75px]]
+|'''[[John Houstoun]]'''<br>{{Small|(1744–1796)}}<br><ref name="nga-houstoun">{{Cite web |title=John Houstoun |url=https://www.nga.org/governor/john-houstoun/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511210651/https://www.nga.org/governor/john-houstoun/ |archive-date=May 11, 2026 |url-status=live}}</ref><ref name="ga-houstoun">{{Cite web |last=Schmidt |first=Jim |date=December 10, 2019 |title=John Houstoun |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-houstoun-ca-1747-1796/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260713064946/https://www.georgiaencyclopedia.org/articles/government-politics/john-houstoun-ca-1747-1796/ |archive-date=July 13, 2026 |url-status=live}}</ref>
+|data-sort-value="354"|January 10, 1778<ref name="register-1990" /><br />–<br />December 29, 1778<br>{{small|(354 days; fled from capture)}}{{efn|The date given is the [[capture of Savannah]], where the New Georgia Encyclopedia says his last official act as governor was to flee.<ref name="ga-houstoun" />}}
+|—{{efn|name=dashelections}}
+|- style="height:2em;"
+!scope="row"|—
+|colspan="3"|''Competing governments''
+|data-sort-value="221"|''December 29, 1778<br />–<br />August 6, 1779''<br>{{small|(221 days)}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Government in chaos<br>after fall of Savannah}}{{efn|The [[capture of Savannah]] threw the government into disarray and exile, and records are scarce as to dates and leadership. [[William Glascock]] (elected January 21, 1779)<ref>{{Cite book |url=https://books.google.com/books?id=F48MqKjgVOIC&lpg=PP1&pg=PA127 |title=Autobiography of a Colony: The First Half-Century of Augusta, Georgia |publisher=[[University of Georgia Press]] |year=2009 |isbn=9780820334424 |page=127 |access-date=October 20, 2026 |via=[[Google Books]]}}</ref> and [[Seth John Cuthbert]] (elected July 24, 1779), while often included in lists of governors, are omitted from the official state register. A school pamphlet from 1977 notes, "This confusing situation resulted in a number of radical Whigs, mainly from Wilkes County, organizing a second government with George Walton as governor and Glascock as speaker of the assembly. ... As a result of this makeshift election, there were two Whig governments plus the restored loyalist government."<ref>{{Cite web |title=Political Changes in Georgia 1775–1787 |url=https://files.eric.ed.gov/fulltext/ED156589.pdf |access-date=October 20, 2026 |publisher=[[Georgia Department of Education]] |archive-url=https://web.archive.org/web/20260617222035/https://files.eric.ed.gov/fulltext/ED156589.pdf |archive-date=June 17, 2026 |url-status=live |format=PDF}}</ref>|name=savannah}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Wereat, John"|[[File:John Wereat.jpg|75px]]
+|rowspan="13" style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="No parties"|
+|'''[[John Wereat]]'''<br>{{Small|({{Abbr|d.|died in}} 1799)}}<br><ref name="nga-wereat">{{Cite web |title=John Wereat |url=https://www.nga.org/governor/john-wereat/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414062212/https://www.nga.org/governor/john-wereat/ |archive-date=April 14, 2026 |url-status=live}}</ref><ref name="ga-wereat">{{Cite web |last=Lamplugh |first=George R. |date=September 15, 2014 |title=John Wereat |url=https://www.georgiaencyclopedia.org/articles/history-archaeology/john-wereat-ca-1733-1799/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260617222612/https://www.georgiaencyclopedia.org/articles/history-archaeology/john-wereat-ca-1733-1799/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="100"|August 6, 1779<ref name="register-1990" /><br>–<br>November 1779<br>{{small|(~100 days; retired)}}{{efn|name=leftoffice}}
+|rowspan="13" style="background:#EEEEEE; color:inherit;"|''No parties''
+|—{{efn|name=dashelections}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Walton, George"|[[File:George Walton (ca 1749-1804).jpg|75px]]
+|'''[[George Walton]]'''<br>{{Small|({{Abbr|d.|died in}} 1804)}}<br>{{sfn|Sobel|1978|pp=279–280}}<ref name="nga-walton">{{Cite web |title=George Walton |url=https://www.nga.org/governor/george-walton/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260727155307/https://www.nga.org/governor/george-walton/ |archive-date=July 27, 2026 |url-status=live}}</ref><ref name="ga-walton">{{Cite web |last=Deaton |first=Stan |date=February 21, 2018 |title=George Walton |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-walton-ca-1749-1804/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260814153305/https://www.georgiaencyclopedia.org/articles/government-politics/george-walton-ca-1749-1804/ |archive-date=August 14, 2026 |url-status=live}}</ref>
+|data-sort-value="50"|November 1779<ref name="register-1990" /><br>–<br>January 4, 1780<br>{{small|(~50 days; retired)}}{{efn|name=leftoffice}}
+|—{{efn|name=dashelections}}
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Howly, Richard"|[[File:Richard Howly portrait.jpg|75px]]
+|'''[[Richard Howly]]'''<br>{{Small|(1740–1784)}}<br><ref name="nga-howly">{{Cite web |title=Richard Howley |url=https://www.nga.org/governor/richard-howley/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616122113/https://www.nga.org/governor/richard-howley/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|data-sort-value="33"|January 4, 1780<ref name="register-1990" /><br />–<br />February 5, 1780<br>{{small|(33 days; retired)}}{{efn|Howly had also been elected as a delegate to the [[Continental Congress]], and the Council voted on February 5 that he must take that seat;<ref name="wells" /> it is unclear if this means he was removed or he resigned.}}
+|—{{efn|name=dashelections}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Wells, George"|[[File:No image.svg|75px]]
+|'''[[George Wells (Georgia politician)|George Wells]]'''<br>{{Small|({{Abbr|d.|died in}} 1780)}}
+|data-sort-value="12"|February 5, 1780<br>–<br>February 16, 1780<br>{{small|(12 days; died in office)}}{{efn|George Wells succeeded Howly, but was killed in a duel on February 16, 1780; he is omitted from nearly every list of governors, including the official register.<ref name="wells">{{Cite journal |last=Cashin |first=Edward J. |date=1974 |title='The Famous Colonel Wells': Factionalism in Revolutionary Georgia |journal=The Georgia Historical Quarterly |volume=58 |issue=Supplement |page=151 |jstor=40579633}}</ref>}}
+|—{{efn|name=dashelections}}
+|- style="height:2em;"
+!scope="row"|14
+|data-sort-value="Heard, Stephen"|[[File:Stephen Heard.jpg|75px]]
+|'''[[Stephen Heard]]{{efn|Some sources say [[Myrick Davies]] served as governor in August 1780,<ref name="ga-heard" /> but he is omitted from the official state register and it is unknown if this was in an acting fashion.}}'''<br>{{Small|(1740–1815)}}<br><ref name="nga-heard">{{Cite web |title=Stephen Heard |url=https://www.nga.org/governor/stephen-heard/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260727095311/https://www.nga.org/governor/stephen-heard/ |archive-date=July 27, 2026 |url-status=live}}</ref><ref name="ga-heard">{{Cite web |last=Ouzts |first=Clay |date=February 20, 2026 |title=Stephen Heard |url=https://www.georgiaencyclopedia.org/articles/history-archaeology/stephen-heard-1740-1815/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260713072501/https://www.georgiaencyclopedia.org/articles/history-archaeology/stephen-heard-1740-1815/ |archive-date=July 13, 2026 |url-status=live}}</ref>
+|data-sort-value="548"|February 18, 1780{{efn|The official register says Heard took office on February 18, 1870;<ref name="register-1990" /> an article from 1967 says [[Humphrey Wells]] was elected governor on February 16, but declined two days later.<ref>{{Cite news |last=Woodall |first=W. C. |date=January 16, 1967 |title=In Sixty Days, Four Governors! |page=13 |newspaper=[[Ledger-Enquirer|Columbus Ledger]] |url=https://www.newspapers.com/article/the-columbus-ledger-in-sixty-days-four/124388699/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20231027203050/https://www.newspapers.com/article/the-columbus-ledger-in-sixty-days-four/124388699/ |archive-date=October 27, 2023 |url-status=live |via=Newspapers.com}}</ref> Other sources, including the New Georgia Encyclopedia, say Heard did not take office until May 24.<ref name="ga-heard" /><ref name="nga-heard" />}}<br>–<br>August 18, 1781<br>{{small|(548 days; retired)}}{{efn|name=leftoffice}}
+|—{{efn|name=dashelections}}
+|- style="height:2em;"
+!scope="row"|15
+|data-sort-value="Brownson, Nathan"|[[File:Gov. Brownson portrait.jpg|75px]]
+|'''[[Nathan Brownson]]'''<br>{{Small|(1742–1796)}}<br><ref name="nga-brownson">{{Cite web |title=Nathan Brownson |url=https://www.nga.org/governor/nathan-brownson/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608201331/https://www.nga.org/governor/nathan-brownson/ |archive-date=June 8, 2026 |url-status=live}}</ref><ref name="ga-brownson">{{Cite web |last=Schmidt |first=Jim |date=September 16, 2014 |title=Nathan Brownson |url=https://www.georgiaencyclopedia.org/articles/history-archaeology/nathan-brownson-1742-1796/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260809173009/https://www.georgiaencyclopedia.org/articles/history-archaeology/nathan-brownson-1742-1796/ |archive-date=August 9, 2026 |url-status=live}}</ref>
+|data-sort-value="139"|August 18, 1781<ref name="register-1990" /><br />–<br />January 3, 1782<br>{{small|(139 days; term-limited)}}{{efn|Under the 1777 constitution, governors were ineligible for office for more than one year out of three.{{sfn|Thorpe|1909|p=781|loc=1777 art. XXIII}}|name=limits-1777}}
+|[[1781 Georgia gubernatorial election|1781]]
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Martin, John"|[[File:No image.svg|75px]]
+|'''[[John Martin (Georgia politician)|John Martin]]'''<br>{{Small|({{Abbr|d.|died in}} 1786)}}<br><ref name="nga-martin">{{Cite web |title=John Martin |url=https://www.nga.org/governor/john-martin/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513073003/https://www.nga.org/governor/john-martin/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="ga-martin">{{Cite web |last=Schmidt |first=Jim |date=February 23, 2026 |title=John Martin |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-martin-ca-1730-1786/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260714102838/https://www.georgiaencyclopedia.org/articles/government-politics/john-martin-ca-1730-1786/ |archive-date=July 14, 2026 |url-status=live}}</ref>
+|data-sort-value="371"|January 3, 1782<ref name="register-1990" /><br />–<br />January 8, 1783<br>{{small|(371 days; term-limited)}}{{efn|name=limits-1777}}
+|[[1782 Georgia gubernatorial election|1782]]
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Hall, Lyman"|[[File:Lyman Hall (NYPL Hades-287613-EM4090) (Cropped).jpg|75px]]
+|'''[[Lyman Hall]]'''<br>{{Small|(1724–1790)}}<br><ref name="nga-hall">{{Cite web |title=Lyman Hall |url=https://www.nga.org/governor/lyman-hall/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617190038/https://www.nga.org/governor/lyman-hall/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="ga-hall">{{Cite web |last=Deaton |first=Stan |date=February 21, 2018 |title=Lyman Hall |url=https://www.georgiaencyclopedia.org/articles/government-politics/lyman-hall-1724-1790/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260925072601/https://www.georgiaencyclopedia.org/articles/government-politics/lyman-hall-1724-1790/ |archive-date=September 25, 2026 |url-status=live}}</ref>
+|data-sort-value="367"|January 8, 1783<ref name="register-1990" /><br />–<br />January 9, 1784<br>{{small|(367 days; term-limited)}}{{efn|name=limits-1777}}
+|[[1783 Georgia gubernatorial election|1783]]
+|- style="height:2em;"
+!scope="row"|''10''
+|data-sort-value="Houstoun, John"|[[File:Portrait_of_John_Houstoun.png|75px]]
+|'''[[John Houstoun]]'''<br>{{Small|(1744–1796)}}<br><ref name="nga-houstoun" /><ref name="ga-houstoun" />
+|data-sort-value="364"|January 9, 1784<ref name="register-1990" /><br />–<br />January 6, 1785<br>{{small|(364 days; term-limited)}}{{efn|name=limits-1777}}
+|[[1784 Georgia gubernatorial election|1784]]
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Elbert, Samuel"|[[File:Samuel-elbert 001.webp|75px]]
+|'''[[Samuel Elbert]]'''<br>{{Small|(1740–1788)}}<br><ref name="nga-elbert">{{Cite web |title=Samuel Elbert |url=https://www.nga.org/governor/samuel-elbert/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513070051/https://www.nga.org/governor/samuel-elbert/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="ga-elbert">{{Cite web |last=Diamond |first=Beryl I. |date=September 17, 2014 |title=Samuel Elbert |url=https://www.georgiaencyclopedia.org/articles/government-politics/samuel-elbert-1740-1788/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260615202440/https://www.georgiaencyclopedia.org/articles/government-politics/samuel-elbert-1740-1788/ |archive-date=June 15, 2026 |url-status=live}}</ref>
+|data-sort-value="369"|January 6, 1785<ref name="register-1990" /><br />–<br />January 9, 1786<br>{{small|(369 days; term-limited)}}{{efn|name=limits-1777}}
+|[[1785 Georgia gubernatorial election|1785]]
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Telfair, Edward"|
+|'''[[Edward Telfair]]'''<br>{{Small|(1735–1807)}}<br>{{sfn|Sobel|1978|p=280}}<ref name="nga-telfair">{{Cite web |title=Edward Telfair |url=https://www.nga.org/governor/edward-telfair/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260812194330/https://www.nga.org/governor/edward-telfair/ |archive-date=August 12, 2026 |url-status=live}}</ref><ref name="ga-telfair">{{Cite web |last=Johnson |first=Charles J. |date=February 23, 2026 |title=Edward Telfair |url=https://www.georgiaencyclopedia.org/articles/government-politics/edward-telfair-1735-1807/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260914192127/https://www.georgiaencyclopedia.org/articles/government-politics/edward-telfair-1735-1807/ |archive-date=September 14, 2026 |url-status=live}}</ref>
+|data-sort-value="366"|January 9, 1786<ref name="register-1990" /><br />–<br />January 9, 1787<br>{{small|(366 days; term-limited)}}{{efn|name=limits-1777}}
+|[[1786 Georgia gubernatorial election|1786]]
+|- style="height:2em;"
+!scope="row"|20
+|data-sort-value="Mathews, George"|[[File:Gen._George_Mathews_profile.png|75px]]
+|'''[[George Mathews (Georgia politician)|George Mathews]]'''<br>{{Small|(1739–1812)}}<br>{{sfn|Sobel|1978|p=281}}<ref name="nga-mathews">{{Cite web |title=George Mathews |url=https://www.nga.org/governor/george-mathews/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521011039/https://www.nga.org/governor/george-mathews/ |archive-date=May 21, 2026 |url-status=live}}</ref><ref name="ga-mathews">{{Cite web |last=Ebel |first=Carol |date=February 20, 2026 |title=George Mathews |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-mathews-1739-1812/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193908/https://www.georgiaencyclopedia.org/articles/government-politics/george-mathews-1739-1812/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="383"|January 9, 1787<ref name="register-1990" /><br />–<br />January 26, 1788<br>{{small|(383 days; term-limited)}}{{efn|name=limits-1777}}
+|[[1787 Georgia gubernatorial election|1787]]
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Handley, George"|[[File:No image.svg|75px]]
+|'''[[George Handley (politician)|George Handley]]'''<br>{{Small|(1752–1793)}}<br><ref name="nga-handley">{{Cite web |title=George Handley |url=https://www.nga.org/governor/george-handley/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512212912/https://www.nga.org/governor/george-handley/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="ga-handley">{{Cite web |last=Hulett |first=Keith |date=February 23, 2026 |title=George Handley |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-handley-1752-1793/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193856/https://www.georgiaencyclopedia.org/articles/government-politics/george-handley-1752-1793/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="348"|January 26, 1788<ref name="register-1990" /><br />–<br />January 7, 1789<br>{{small|(348 days; term-limited)}}{{efn|name=limits-1777}}
+|[[1788 Georgia gubernatorial election|1788]]{{efn|[[James Jackson (Georgia politician)|James Jackson]] was elected in 1788, but declined the position, citing inexperience.{{sfn|Sobel|1978|p=282}}}}
+|- style="height:2em;"
+!scope="row"|''12''
+|data-sort-value="Walton, George"|[[File:George Walton.jpg|75px]]
+|rowspan="27" style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|'''[[George Walton]]'''<br>{{Small|({{Abbr|d.|died in}} 1804)}}<br>{{sfn|Sobel|1978|pp=279–280}}<ref name="nga-walton" /><ref name="ga-walton" />
+|data-sort-value="307"|January 7, 1789<ref name="register-1990" /><br />–<br />November 9, 1789<br>{{small|(307 days; term-limited)}}{{efn|Sobel notes that Walton was term-limited under the 1777 constitution;{{sfn|Sobel|1978|p=279}} it is unclear if the provisions of that, or the 1789 constitution, would have applied to Walton.}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Sobel|1978|p=279}}
+|data-sort-value="1789-01"|[[Georgia gubernatorial election, January 1789|Jan. 1789]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''19''
+|rowspan="2" data-sort-value="Telfair, Edward"|
+|rowspan="2"|'''[[Edward Telfair]]'''<br>{{Small|(1735–1807)}}<br>{{sfn|Sobel|1978|p=280}}<ref name="nga-telfair" /><ref name="ga-telfair" />
+|rowspan="2" data-sort-value="1460"|November 9, 1789<ref name="register-1990" /><br />–<br />November 7, 1793<br>{{small|(1460 days; lost election)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Sobel|1978|p=280}}
+|data-sort-value="1789-11"|[[November 1789 Georgia gubernatorial election|Nov. 1789]]{{efn|First term under the 1789 constitution, which lengthened terms to two years.{{sfn|Thorpe|1909|p=787|loc=1789 art. II, § 1}}}}
+|- style="height:2em;"
+|[[1791 Georgia gubernatorial election|1791]]
+|- style="height:2em;"
+!scope="row"|''20''
+|data-sort-value="Mathews, George"|[[File:Gen._George_Mathews_profile.png|75px]]
+|'''[[George Mathews (Georgia politician)|George Mathews]]'''<br>{{Small|(1739–1812)}}<br>{{sfn|Sobel|1978|p=281}}<ref name="nga-mathews" /><ref name="ga-mathews" />
+|data-sort-value="800"|November 7, 1793<ref name="register-1990" /><br />–<br />January 15, 1796<br>{{small|(800 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Sobel|1978|p=281}}
+|[[1793 Georgia gubernatorial election|1793]]
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Irwin, Jared"|[[File:Jared Irwin.jpg|75px]]
+|'''[[Jared Irwin]]'''<br>{{Small|(1750–1818)}}<br>{{sfn|Sobel|1978|pp=281–282}}<ref name="nga-irwin">{{Cite web |title=Jared Irwin |url=https://www.nga.org/governor/jared-irwin/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512220554/https://www.nga.org/governor/jared-irwin/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="ga-irwin">{{Cite web |last=Rohrer |first=Katherine E. |date=September 15, 2014 |title=Jared Irwin |url=https://www.georgiaencyclopedia.org/articles/government-politics/jared-irwin-ca-1750-1818/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193854/https://www.georgiaencyclopedia.org/articles/government-politics/jared-irwin-ca-1750-1818/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|January 15, 1796<ref name="register-1990" /><br />–<br />January 12, 1798<br>{{small|(729 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1795 Georgia gubernatorial election|1795]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|23
+|rowspan="2" data-sort-value="Jackson, James"|[[File:JamesJackson.jpg|75px]]
+|rowspan="2"|'''[[James Jackson (Georgia politician)|James Jackson]]'''<br>{{Small|(1757–1806)}}<br>{{sfn|Sobel|1978|pp=282–283}}<ref name="nga-jackson">{{Cite web |title=James Jackson |url=https://www.nga.org/governor/james-jackson/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617193902/https://www.nga.org/governor/james-jackson/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="ga-jackson">{{Cite web |last=Lamplugh |first=George R. |date=September 15, 2014 |title=James Jackson |url=https://www.georgiaencyclopedia.org/articles/government-politics/james-jackson-1757-1806/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193909/https://www.georgiaencyclopedia.org/articles/government-politics/james-jackson-1757-1806/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1146"|January 12, 1798<ref name="register-1990" /><br />–<br />March 3, 1801<br>{{small|(1146 days; resigned)}}{{efn|Jackson resigned, having been [[1800 United States Senate election in Georgia|elected]] to the [[United States Senate]].<ref name="nga-jackson" />}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1797 Georgia gubernatorial election|1797]]
+|- style="height:2em;"
+|[[1799 Georgia gubernatorial election|1799]]
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Emanuel, David"|[[File:No image.svg|75px]]
+|'''[[David Emanuel (politician)|David Emanuel]]'''<br>{{Small|(1744–1808)}}<br>{{sfn|Sobel|1978|p=283}}<ref name="nga-emanuel">{{Cite web |title=David Emanuel |url=https://www.nga.org/governor/david-emanuel/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513214135/https://www.nga.org/governor/david-emanuel/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="ga-emanuel">{{Cite web |last=Brown |first=Russell K. |date=September 2, 2016 |title=David Emanuel |url=https://www.georgiaencyclopedia.org/articles/government-politics/david-emanuel-ca-1744-1808/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261014225904/https://www.georgiaencyclopedia.org/articles/government-politics/david-emanuel-ca-1744-1808/ |archive-date=October 14, 2026 |url-status=live}}</ref>
+|data-sort-value="250"|March 3, 1801<ref name="register-1990" /><br />–<br />November 7, 1801<br>{{small|(250 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Tattnall, Josiah"|[[File:No image.svg|75px]]
+|'''[[Josiah Tattnall (politician)|Josiah Tattnall]]'''<br>{{Small|({{Abbr|d.|died in}} 1803)}}<br>{{sfn|Sobel|1978|pp=283–284}}<ref name="nga-tattnall">{{Cite web |title=Josiah Tattnall |url=https://www.nga.org/governor/josiah-tattnall/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613191334/https://www.nga.org/governor/josiah-tattnall/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="ga-tattnall">{{Cite web |last=Brown |first=Russell K. |date=September 15, 2014 |title=Josiah Tattnall |url=https://www.georgiaencyclopedia.org/articles/government-politics/josiah-tattnall-ca-1764-1803/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193857/https://www.georgiaencyclopedia.org/articles/government-politics/josiah-tattnall-ca-1764-1803/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="363"|November 7, 1801<ref name="register-1990" /><br />–<br />November 4, 1802<br>{{small|(363 days; resigned)}}{{efn|Tattnall resigned due to declining health.<ref name="nga-tattnall" />}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1801 Georgia gubernatorial election|1801]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|26
+|rowspan="3" data-sort-value="Milledge, John"|[[File:JohnMilledge.jpg|75px]]
+|rowspan="3"|'''[[John Milledge]]'''<br>{{Small|(1757–1818)}}<br>{{sfn|Sobel|1978|pp=284–285}}<ref name="nga-milledge">{{Cite web |title=John Milledge |url=https://www.nga.org/governor/john-milledge/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260714013602/https://www.nga.org/governor/john-milledge/ |archive-date=July 14, 2026 |url-status=live}}</ref><ref name="ga-milledge">{{Cite web |last=Myers |first=Barton |date=February 23, 2026 |title=John Milledge |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-milledge-1757-1818/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193859/https://www.georgiaencyclopedia.org/articles/government-politics/john-milledge-1757-1818/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1420"|November 4, 1802<ref name="register-1990" /><br />–<br />September 23, 1806<br>{{small|(1420 days; resigned)}}{{efn|Milledge resigned, having been [[1806 United States Senate special election in Georgia|elected]] to the [[United States Senate]].<ref name="nga-milledge" />}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1802 Georgia gubernatorial special election|1802]]<br>{{small|(special)}}{{efn|Special election for the remainder of Josiah Tattnall's term}}
+|- style="height:2em;"
+|[[1803 Georgia gubernatorial election|1803]]
+|- style="height:2em;"
+|[[1805 Georgia gubernatorial election|1805]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|''22''
+|rowspan="2" data-sort-value="Irwin, Jared"|[[File:Jared Irwin.jpg|75px]]
+|rowspan="2"|'''[[Jared Irwin]]'''<br>{{Small|(1750–1818)}}<br>{{sfn|Sobel|1978|pp=281–282}}<ref name="nga-irwin" /><ref name="ga-irwin" />
+|rowspan="2" data-sort-value="1145"|September 23, 1806<ref name="register-1990" /><br />–<br />November 10, 1809<br>{{small|(1145 days; lost election)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+|[[1807 Georgia gubernatorial election|1807]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|27
+|rowspan="2" data-sort-value="Mitchell, David"|[[File:Davidbrydiemitchell.jpg|75px]]
+|rowspan="2"|'''[[David Brydie Mitchell]]'''<br>{{Small|(1766–1837)}}<br>{{sfn|Sobel|1978|p=285}}<ref name="nga-mitchell">{{Cite web |title=David Brydie Mitchell |url=https://www.nga.org/governor/david-brydie-mitchell/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418111145/https://www.nga.org/governor/david-brydie-mitchell/ |archive-date=April 18, 2026 |url-status=live}}</ref><ref name="ga-mitchell">{{Cite web |last=Rohrer |first=Katherine E. |date=February 20, 2026 |title=David B. Mitchell |url=https://www.georgiaencyclopedia.org/articles/government-politics/david-b-mitchell-1766-1837/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803201203/https://www.georgiaencyclopedia.org/articles/government-politics/david-b-mitchell-1766-1837/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|November 10, 1809<ref name="register-1990" /><br />–<br />November 5, 1813<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1809 Georgia gubernatorial election|1809]]
+|- style="height:2em;"
+|[[1811 Georgia gubernatorial election|1811]]
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Early, Peter"|[[File:GovernorPeterEarly.jpg|75px]]
+|'''[[Peter Early]]'''<br>{{Small|(1773–1817)}}<br>{{sfn|Sobel|1978|p=286}}<ref name="nga-early">{{Cite web |title=Peter Early |url=https://www.nga.org/governor/peter-early/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616122201/https://www.nga.org/governor/peter-early/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="ga-early">{{Cite web |last=Hulett |first=Keith |date=February 20, 2026 |title=Peter Early |url=https://www.georgiaencyclopedia.org/articles/government-politics/peter-early-1773-1817/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260831084823/https://www.georgiaencyclopedia.org/articles/government-politics/peter-early-1773-1817/ |archive-date=August 31, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|November 5, 1813<ref name="register-1990" /><br />–<br />November 10, 1815<br>{{small|(736 days; lost election)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1813 Georgia gubernatorial election|1813]]
+|- style="height:2em;"
+!scope="row"|''27''
+|data-sort-value="Mitchell, David"|[[File:Davidbrydiemitchell.jpg|75px]]
+|'''[[David Brydie Mitchell]]'''<br>{{Small|(1766–1837)}}<br>{{sfn|Sobel|1978|p=285}}<ref name="nga-mitchell" /><ref name="ga-mitchell" />
+|data-sort-value="481"|November 10, 1815<ref name="register-1990" /><br />–<br />March 4, 1817<br>{{small|(481 days; resigned)}}{{efn|Mitchell resigned to be appointed agent to the [[Muscogee|Creek]] Indians.<ref name="nga-mitchell" />}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1815 Georgia gubernatorial election|1815]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|29
+|rowspan="2" data-sort-value="Rabun, William"|[[File:No image.svg|75px]]
+|rowspan="2"|'''[[William Rabun]]'''<br>{{Small|(1771–1819)}}<br>{{sfn|Sobel|1978|pp=286–287}}<ref name="nga-rabun">{{Cite web |title=William Rabun |url=https://www.nga.org/governor/william-rabun/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418071429/https://www.nga.org/governor/william-rabun/ |archive-date=April 18, 2026 |url-status=live}}</ref><ref name="ga-rabun">{{Cite web |last=Luckett |first=Robert E. |date=February 20, 2026 |title=William Rabun |url=https://www.georgiaencyclopedia.org/articles/government-politics/william-rabun-1771-1819/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193858/https://www.georgiaencyclopedia.org/articles/government-politics/william-rabun-1771-1819/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="965"|March 4, 1817<ref name="register-1990" /><br />–<br />October 24, 1819<br>{{small|(965 days; died in office)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+|[[1817 Georgia gubernatorial election|1817]]
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="Talbot, Matthew"|[[File:GovernorMTalbot.jpg|75px]]
+|'''[[Matthew Talbot]]'''<br>{{Small|(1767–1827)}}<br><ref name="nga-talbot">{{Cite web |title=Matthew Talbot |url=https://www.nga.org/governor/matthew-talbot/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261004055801/https://www.nga.org/governor/matthew-talbot/ |archive-date=October 4, 2026 |url-status=live}}</ref>
+|data-sort-value="13"|October 24, 1819<ref name="register-1990" /><br />–<br />November 5, 1819<br>{{small|(13 days; retired)}}
+|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>president of<br>the Senate}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|31
+|rowspan="2" data-sort-value="Clark, John"|[[File:John Clark.jpg|75px]]
+|rowspan="2"|'''[[John Clark (Georgia politician)|John Clark]]'''<br>{{Small|(1766–1832)}}<br>{{sfn|Sobel|1978|p=287}}<ref name="nga-clark">{{Cite web |title=John Clark |url=https://www.nga.org/governor/john-clark-2/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521023050/https://www.nga.org/governor/john-clark-2/ |archive-date=May 21, 2026 |url-status=live}}</ref><ref name="ga-clark">{{Cite web |last=Floyd |first=Christopher J. |date=February 20, 2026 |title=John Clark |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-clark-1766-1832/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260908093703/https://www.georgiaencyclopedia.org/articles/government-politics/john-clark-1766-1832/ |archive-date=September 8, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|November 5, 1819<ref name="register-1990" /><br />–<br />November 7, 1823<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=30}}
+|[[1819 Georgia gubernatorial election|1819]]
+|- style="height:2em;"
+|[[1821 Georgia gubernatorial election|1821]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|32
+|rowspan="2" data-sort-value="Troup, George"|[[File:George Troup (Cropped).jpg|75px]]
+|rowspan="2"|'''[[George Troup]]'''<br>{{Small|(1780–1856)}}<br>{{sfn|Sobel|1978|p=288}}<ref name="nga-troup">{{Cite web |title=George Michael Troup |url=https://www.nga.org/governor/george-michael-troup/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261007085926/https://www.nga.org/governor/george-michael-troup/ |archive-date=October 7, 2026 |url-status=live}}</ref><ref name="ga-troup">{{Cite web |last=Saba |first=Natalie D. |date=February 23, 2026 |title=George Troup |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-troup-1780-1856/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261014215916/https://www.georgiaencyclopedia.org/articles/government-politics/george-troup-1780-1856 |archive-date=October 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1462"|November 7, 1823<ref name="register-1990" /><br />–<br />November 7, 1827<br>{{small|(1462 days; retired)}}
+|rowspan="2"|[[George Troup|Troup]] [[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=66}}
+|[[1823 Georgia gubernatorial election|1823]]
+|- style="height:2em;"
+|[[1825 Georgia gubernatorial election|1825]]
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Forsyth, John"|[[File:John Forsyth US Secretary of State.jpg|75px]]
+|'''[[John Forsyth (politician)|John Forsyth]]'''<br>{{Small|(1780–1841)}}<br>{{sfn|Sobel|1978|pp=288–289}}<ref name="nga-forsyth">{{Cite web |title=John Forsyth |url=https://www.nga.org/governor/john-forsyth/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606071151/https://www.nga.org/governor/john-forsyth/ |archive-date=June 6, 2026 |url-status=live}}</ref><ref name="ga-forsyth">{{Cite web |last=Luckett |first=Robert E. |date=September 15, 2014 |title=John Forsyth |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-forsyth-1780-1841/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193859/https://www.georgiaencyclopedia.org/articles/government-politics/john-forsyth-1780-1841/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|November 7, 1827<ref name="register-1990" /><br />–<br />November 4, 1829<br>{{small|(729 days; retired)}}{{efn|Forsyth was instead [[1828–29 United States Senate elections|elected]] to the [[United States Senate]].}}
+|[[George Troup|Troup]] [[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Glashan|1979|p=66}}
+|[[1827 Georgia gubernatorial election|1827]]
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="Gilmer, George"|[[File:George R. Gilmer.jpg|75px]]
+|'''[[George R. Gilmer]]'''<br>{{Small|(1790–1859)}}<br>{{sfn|Sobel|1978|pp=289–290}}<ref name="nga-gilmer">{{Cite web |title=George Rockingham Gilmer |url=https://www.nga.org/governor/george-rockingham-gilmer/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260731132028/https://www.nga.org/governor/george-rockingham-gilmer/ |archive-date=July 31, 2026 |url-status=live}}</ref><ref name="ga-gilmer">{{Cite web |last=Rohrer |first=Katherine E. |date=May 13, 2013 |title=George R. Gilmer |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-r-gilmer-1790-1859/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193854/https://www.georgiaencyclopedia.org/articles/government-politics/george-r-gilmer-1790-1859/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|November 4, 1829<ref name="register-1990" /><br />–<br />November 9, 1831<br>{{small|(736 days; lost election)}}
+|[[George Troup|Troup]] [[Democratic-Republican Party|Democratic-<br />Republican]]{{sfn|Dubin|2003|p=32}}
+|[[1829 Georgia gubernatorial election|1829]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|35
+|rowspan="2" data-sort-value="Lumpkin, Wilson"|[[File:Wilson Lumpkin.jpg|75px]]
+|rowspan="3" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Wilson Lumpkin]]'''<br>{{Small|(1783–1870)}}<br>{{sfn|Sobel|1978|pp=290–291}}<ref name="nga-lumpkin">{{Cite web |title=Wilson Lumpkin |url=https://www.nga.org/governor/wilson-lumpkin/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617185153/https://www.nga.org/governor/wilson-lumpkin/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="ga-lumpkin">{{Cite web |last=Tate |first=Benjamin B. |date=September 25, 2014 |title=Wilson Lumpkin |url=https://www.georgiaencyclopedia.org/articles/government-politics/wilson-lumpkin-1783-1870/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260825053509/https://www.georgiaencyclopedia.org/articles/government-politics/wilson-lumpkin-1783-1870/ |archive-date=August 25, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|November 9, 1831<ref name="register-1990" /><br />–<br />November 4, 1835<br>{{small|(1457 days; retired)}}
+|rowspan="2"|Union<br />([[Democratic Party of Georgia|Democratic]]){{sfn|Dubin|2003|pp=32–33}}
+|[[1831 Georgia gubernatorial election|1831]]
+|- style="height:2em;"
+|[[1833 Georgia gubernatorial election|1833]]
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Schley, William"|[[File:William Schley.jpg|75px]]
+|'''[[William Schley]]'''<br>{{Small|(1786–1858)}}<br>{{sfn|Sobel|1978|pp=291–292}}<ref name="nga-schley">{{Cite web |title=William Schley |url=https://www.nga.org/governor/william-schley/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511203939/https://www.nga.org/governor/william-schley/ |archive-date=May 11, 2026 |url-status=live}}</ref><ref name="ga-schley">{{Cite web |last=Brown |first=Russell K. |date=February 23, 206 |title=William Schley |url=https://www.georgiaencyclopedia.org/articles/government-politics/william-schley-1786-1858/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193857/https://www.georgiaencyclopedia.org/articles/government-politics/william-schley-1786-1858/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|November 4, 1835<ref name="register-1990" /><br />–<br />November 8, 1837<br>{{small|(736 days; lost election)}}
+|Union<br />([[Democratic Party of Georgia|Democratic]]){{sfn|Dubin|2003|p=34}}
+|[[1835 Georgia gubernatorial election|1835]]
+|- style="height:2em;"
+!scope="row"|''34''
+|data-sort-value="Gilmer, George"|[[File:George R. Gilmer.jpg|75px]]
+|style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|'''[[George R. Gilmer]]'''<br>{{Small|(1790–1859)}}<br>{{sfn|Sobel|1978|pp=289–290}}<ref name="nga-gilmer" /><ref name="ga-gilmer" />
+|data-sort-value="729"|November 8, 1837<ref name="register-1990" /><br />–<br />November 6, 1839<br>{{small|(729 days; retired)}}
+|State Rights<br />([[Whig Party (United States)|Whig]]){{sfn|Dubin|2003|p=34}}
+|[[1837 Georgia gubernatorial election|1837]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|37
+|rowspan="2" data-sort-value="McDonald, Charles"|[[File:CharlesJamesMcDonald (cropped).jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Charles James McDonald]]'''<br>{{Small|(1793–1860)}}<br>{{sfn|Sobel|1978|pp=292–293}}<ref name="nga-mcdonald">{{Cite web |title=Charles James McDonald |url=https://www.nga.org/governor/charles-james-mcdonald/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260517082410/https://www.nga.org/governor/charles-james-mcdonald/ |archive-date=May 17, 2026 |url-status=live}}</ref><ref name="ga-mcdonald">{{Cite web |last=Luckett |first=Robert E. |date=September 5, 2014 |title=Charles McDonald |url=https://www.georgiaencyclopedia.org/articles/government-politics/charles-mcdonald-1793-1860/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193855/https://www.georgiaencyclopedia.org/articles/government-politics/charles-mcdonald-1793-1860/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|November 6, 1839<ref name="register-1990" /><br />–<br />November 8, 1843<br>{{small|(1464 days; retired)}}
+|rowspan="2"|Union<br />([[Democratic Party of Georgia|Democratic]]){{sfn|Dubin|2003|pp=35–36}}
+|[[1839 Georgia gubernatorial election|1839]]
+|- style="height:2em;"
+|[[1841 Georgia gubernatorial election|1841]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|38
+|rowspan="2" data-sort-value="Crawford, George"|[[File:GeorgeWCrawford.jpg|75px]]
+|rowspan="2" style="background:{{party color|Whig Party (United States)}}; color:inherit;" title="Represented the Whig Party"|
+|rowspan="2"|'''[[George W. Crawford]]'''<br>{{Small|(1798–1872)}}<br>{{sfn|Sobel|1978|pp=293–294}}<ref name="nga-crawford">{{Cite web |title=George Walker Crawford |url=https://www.nga.org/governor/george-walker-crawford/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260310214247/https://www.nga.org/governor/george-walker-crawford/ |archive-date=March 10, 2026 |url-status=live}}</ref><ref name="ga-crawford">{{Cite web |last=Summerlin |first=Donnie |date=December 9, 2013 |title=George W. Crawford |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-w-crawford-1798-1872/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260819122940/https://www.georgiaencyclopedia.org/articles/government-politics/george-w-crawford-1798-1872/ |archive-date=August 19, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|November 8, 1843<ref name="register-1990" /><br />–<br />November 3, 1847<br>{{small|(1457 days; retired)}}
+|rowspan="2"|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=37}}
+|[[1843 Georgia gubernatorial election|1843]]
+|- style="height:2em;"
+|[[1845 Georgia gubernatorial election|1845]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|39
+|rowspan="2" data-sort-value="Towns, George"|[[File:GeorgeWashTowns.jpg|75px]]
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[George W. Towns]]'''<br>{{Small|(1801–1854)}}<br>{{sfn|Sobel|1978|pp=294–295}}<ref name="nga-towns">{{Cite web |title=George Washington Towns |url=https://www.nga.org/governor/george-washington-towns/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512215600/https://www.nga.org/governor/george-washington-towns/ |archive-date=May 12, 2026 |url-status=live}}</ref><ref name="ga-towns">{{Cite web |last=Hulett |first=Keith |date=August 20, 2013 |title=George W. Towns |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-w-towns-1801-1854/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193857/https://www.georgiaencyclopedia.org/articles/government-politics/george-w-towns-1801-1854/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|November 3, 1847<ref name="register-1990" /><br />–<br />November 5, 1851<br>{{small|(1464 days; retired)}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Dubin|2003|pp=47–48}}
+|[[1847 Georgia gubernatorial election|1847]]
+|- style="height:2em;"
+|[[1849 Georgia gubernatorial election|1849]]
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Cobb, Howell"|[[File:Howell Cobb-crop.jpg|75px]]
+|style="background:{{party color|Unionist Party (United States)}}; color:inherit;" title="Represented the Constitutional Union Party"|
+|'''[[Howell Cobb]]'''<br>{{Small|(1815–1868)}}<br>{{sfn|Sobel|1978|pp=295–296}}<ref name="nga-cobb">{{Cite web |title=Howell Cobb |url=https://www.nga.org/governor/howell-cobb/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710082718/https://www.nga.org/governor/howell-cobb/ |archive-date=July 10, 2026 |url-status=live}}</ref><ref name="ga-cobb">{{Cite web |last=Reid |first=R. L. |date=September 20, 2018 |title=Howell Cobb |url=https://www.georgiaencyclopedia.org/articles/government-politics/howell-cobb-1815-1868/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261006083244/https://www.georgiaencyclopedia.org/articles/government-politics/howell-cobb-1815-1868/ |archive-date=October 6, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|November 5, 1851<ref name="register-1990" /><br />–<br />November 9, 1853<br>{{small|(736 days; retired)}}
+|[[Union Party (United States, 1850)|Constitutional<br/>Union]]{{efn|Not to be confused with the 1860s [[Constitutional Union Party (United States)|Constitutional Union Party]], the Georgia Constitutional Union Party was a brief merger of [[Southern Unionist]] Democrats and Whigs during the early 1850s.<ref>{{Cite journal |last=Murray |first=Paul |date=1945 |title=Party Organization in Georgia Politics 1825-1853 |journal=The Georgia Historical Quarterly |volume=29 |issue=4 |pages=206–207 |jstor=40576991}}</ref>}}
+|[[1851 Georgia gubernatorial election|1851]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|41
+|rowspan="2" data-sort-value="Johnson, Herschel"|[[File:Herschel V. Johnson cph.3a02862.jpg|75px]]
+|rowspan="6" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Herschel V. Johnson]]'''<br>{{Small|(1812–1880)}}<br>{{sfn|Sobel|1978|pp=296–297}}<ref name="nga-johnson-herschel">{{Cite web |title=Herschel Vespasian Johnson |url=https://www.nga.org/governor/herschel-vespasian-johnson/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260622035736/https://www.nga.org/governor/herschel-vespasian-johnson/ |archive-date=June 22, 2026 |url-status=live}}</ref><ref name="ga-johnson-herschel">{{Cite web |last=Morgan |first=Chad |date=June 8, 2017 |title=Herschel Johnson |url=https://www.georgiaencyclopedia.org/articles/government-politics/herschel-johnson-1812-1880/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260819122940/https://www.georgiaencyclopedia.org/articles/government-politics/herschel-johnson-1812-1880/ |archive-date=August 19, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1459"|November 9, 1853<ref name="register-1990" /><br />–<br />November 6, 1857<br>{{small|(1459 days; retired)}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Dubin|2003|pp=40–41}}
+|[[1853 Georgia gubernatorial election|1853]]
+|- style="height:2em;"
+|[[1855 Georgia gubernatorial election|1855]]
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|42
+|rowspan="4" data-sort-value="Brown, Joseph E."|[[File:Joseph Emerson Brown.jpg|75px]]
+|rowspan="4"|'''[[Joseph E. Brown]]'''<br>{{Small|(1821–1894)}}<br>{{sfn|Sobel|1978|pp=297–298}}<ref name="nga-brown-joseph-e">{{Cite web |title=Joseph Emerson Brown |url=https://www.nga.org/governor/joseph-emerson-brown/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260427182533/https://www.nga.org/governor/joseph-emerson-brown/ |archive-date=April 27, 2026 |url-status=live}}</ref><ref name="ga-brown-joseph-e">{{Cite web |last=Boney |first=F. N. |date=September 30, 2020 |title=Joseph E. Brown |url=https://www.georgiaencyclopedia.org/articles/government-politics/joseph-e-brown-1821-1894/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803231610/https://www.georgiaencyclopedia.org/articles/government-politics/joseph-e-brown-1821-1894/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="2781"|November 6, 1857<ref name="register-1990" /><br />–<br />June 17, 1865<br>{{small|(2781 days; resigned)}}{{efn|Brown was arrested by Union forces on May 9, 1865, and resigned after he was released.{{sfn|Kallenbach|1977|p=138}}}}
+|rowspan="4"|[[Democratic Party of Georgia|Democratic]]{{sfn|Dubin|2003|pp=43–44}}
+|[[1857 Georgia gubernatorial election|1857]]
+|- style="height:2em;"
+|[[1859 Georgia gubernatorial election|1859]]
+|- style="height:2em;"
+|[[1861 Georgia gubernatorial election|1861]]
+|- style="height:2em;"
+|[[1863 Georgia gubernatorial election|1863]]
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Johnson, James"|[[File:James Johnson (Georgia politician).jpg|75px]]
+|style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="Appointed"|
+|'''[[James Johnson (Georgia politician)|James Johnson]]'''<br>{{Small|(1811–1891)}}<br>{{sfn|Sobel|1978|pp=298–299}}<ref name="nga-johnson-james">{{Cite web |title=James Johnson |url=https://www.nga.org/governor/james-johnson/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519105037/https://www.nga.org/governor/james-johnson/ |archive-date=May 19, 2026 |url-status=live}}</ref><ref name="ga-johnson-james">{{Cite web |last=Davis |first=Matthew |date=November 12, 2019 |title=James Johnson |url=https://www.georgiaencyclopedia.org/articles/government-politics/james-johnson-1811-1891/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193853/https://www.georgiaencyclopedia.org/articles/government-politics/james-johnson-1811-1891/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="186"|June 17, 1865<ref name="register-1990" /><br />–<br />December 19, 1865<br>{{small|(186 days; retired)}}{{efn|Johnson left office on December 19, five days after his successor was sworn in.{{sfn|Sobel|1978|p=298}}<ref name="nga-johnson-james" /><ref name="ga-johnson-james" />}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Provisional governor<br>appointed by President}}<ref name="nga-johnson-james" />
+|- style="height:2em;"
+!scope="row"|44
+|data-sort-value="Jenkins, Charles"|[[File:Charles Jones Jenkins.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''[[Charles J. Jenkins]]'''<br>{{Small|(1805–1883)}}<br>{{sfn|Sobel|1978|pp=299–300}}<ref name="nga-jenkins">{{Cite web |title=Charles Jones Jenkins |url=https://www.nga.org/governor/charles-jones-jenkins/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260723113539/https://www.nga.org/governor/charles-jones-jenkins/ |archive-date=July 23, 2026 |url-status=live}}</ref><ref name="ga-jenkins">{{Cite web |last=Brown |first=Russell K. |date=July 15, 2020 |title=Charles Jones Jenkins |url=https://www.georgiaencyclopedia.org/articles/government-politics/charles-jones-jenkins-1805-1883/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193900/https://www.georgiaencyclopedia.org/articles/government-politics/charles-jones-jenkins-1805-1883/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="761"|December 14, 1865<ref name="register-1990" /><br />–<br />January 13, 1868<br>{{small|(761 days; removed)}}{{efn|Jenkins was removed from office by the military because he refused to allow state funds to be used for a racially integrated state constitutional convention; the state was still under military occupation during [[Reconstruction era|Reconstruction]].<ref name="ga-jenkins" />}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Glashan|1979|p=66}}
+|[[1865 Georgia gubernatorial election|1865]]
+|- style="height:2em;"
+!scope="row"|45
+|data-sort-value="Ruger, Thomas"|[[File:Thomas H. Ruger (cropped).jpg|75px]]
+|style="background:{{party color|Nonpartisan politician}}; color:inherit;" title="Military"|
+|'''[[Thomas H. Ruger]]'''<br>{{Small|(1833–1907)}}<br>{{sfn|Sobel|1978|p=300}}<ref name="nga-ruger">{{Cite web |title=Thomas Howard Ruger |url=https://www.nga.org/governor/thomas-howard-ruger/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260710143333/https://www.nga.org/governor/thomas-howard-ruger/ |archive-date=July 10, 2026 |url-status=live}}</ref><ref name="ga-ruger">{{Cite web |last=Davis |first=Matthew |date=June 8, 2017 |title=Thomas Ruger |url=https://www.georgiaencyclopedia.org/articles/government-politics/thomas-ruger-1833-1907/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260905013221/https://www.georgiaencyclopedia.org/articles/government-politics/thomas-ruger-1833-1907/ |archive-date=September 5, 2026 |url-status=live}}</ref>
+|data-sort-value="174"|January 13, 1868<ref name="register-1990" /><br />–<br />July 4, 1868<br>{{small|(174 days; state readmitted)}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Military occupation}}{{efn|Provisional governor appointed by General [[George Meade]]<ref name="ga-ruger" />}}
+|- style="height:2em;"
+!scope="row"|46
+|data-sort-value="Bullock, Rufus"|[[File:Rufus Bullock - Brady-Handy.jpg|75px]]
+|rowspan="2" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|'''[[Rufus Bullock]]'''<br>{{Small|(1834–1907)}}<br>{{sfn|Sobel|1978|p=301}}<ref name="nga-bullock">{{Cite web |title=Rufus Brown Bullock |url=https://www.nga.org/governor/rufus-brown-bullock/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617075001/https://www.nga.org/governor/rufus-brown-bullock/ |archive-date=June 17, 2026 |url-status=live}}</ref><ref name="ga-bullock">{{Cite web |last=Duncan |first=Russell |date=June 8, 2017 |title=Rufus Bullock |url=https://www.georgiaencyclopedia.org/articles/government-politics/rufus-bullock-1834-1907/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193908/https://www.georgiaencyclopedia.org/articles/government-politics/rufus-bullock-1834-1907/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="1214"|July 4, 1868{{efn|Bullock was appointed governor on July 4 by General [[George Meade]] to replace Ruger, who was being removed;<ref>{{Cite news |publication-date=July 4, 1868 |date=July 3, 1868 |location=Atlanta |publication-place=Portland, Maine |title=Georgia: Removals and Appointments |page=3 |newspaper=[[Portland Daily Press]] |url=https://www.newspapers.com/article/the-portland-daily-press-ruger-replaced/119393425/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230928222027/https://www.newspapers.com/article/the-portland-daily-press-ruger-replaced/119393425/ |archive-date=September 28, 2023 |url-status=live |via=Newspapers.com}}</ref> however, Bullock had already won the election, and would be formally inaugurated into the post on July 21.{{sfn|Sobel|1978|p=301}}<ref name="nga-bullock" />}}<br />–<br />October 30, 1871<br>{{small|(1214 days; resigned)}}{{efn|Bullock resigned and fled the state to avoid impeachment; he was arrested in 1876 and found not guilty of embezzlement.<ref name="nga-bullock" /> Some sources state Bullock resigned on October 23, but that is when he secretly submitted his resignation; it did not take effect until October 30.<ref>{{Cite news |date=October 30, 1871 |publication-date=October 31, 1871 |title=Gov. Bullock Resigns |page=1 |location=Atlanta |publication-place=Leavenworth, Kansas |newspaper=Leavenworth Daily Commercial |url=https://www.newspapers.com/article/leavenworth-daily-commercial-gov-bulloc/119393792/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230926201311/https://www.newspapers.com/article/leavenworth-daily-commercial-gov-bulloc/119393792/ |archive-date=September 26, 2023 |url-status=live |via=Newspapers.com}}</ref>}}
+|[[Georgia Republican Party|Republican]]{{sfn|Kallenbach|1977|p=138}}
+|[[1868 Georgia gubernatorial election|1868]]{{efn|First term under the 1868 constitution, which lengthened terms to four years.{{sfn|Thorpe|1909|p=831|loc=1868 art. IV, § 1}}}}
+|- style="height:2em;"
+!scope="row"|47
+|data-sort-value="Conley, Benjamin"|[[File:Benjamin Conley.jpg|75px]]
+|'''[[Benjamin F. Conley]]'''<br>{{Small|(1815–1886)}}<br>{{sfn|Sobel|1978|p=302}}<ref name="nga-conley">{{Cite web |title=Benjamin F. Conley |url=https://www.nga.org/governor/benjamin-f-conley/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260904113554/https://www.nga.org/governor/benjamin-f-conley/ |archive-date=September 4, 2026 |url-status=live}}</ref>
+|data-sort-value="75"|October 30, 1871<ref name="register-1990" /><br />–<br />January 12, 1872<br>{{small|(75 days; retired)}}
+|[[Georgia Republican Party|Republican]]{{sfn|Kallenbach|1977|p=139}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|48
+|rowspan="2" data-sort-value="Smith, James"|[[File:JamesMiltonSmith.jpg|75px]]
+|rowspan="56" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[James Milton Smith]]'''<br>{{Small|(1823–1890)}}<br>{{sfn|Sobel|1978|pp=302–303}}<ref name="nga-smith-james">{{Cite web |title=James Milton Smith |url=https://www.nga.org/governor/james-milton-smith/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511204858/https://www.nga.org/governor/james-milton-smith/ |archive-date=May 11, 2026 |url-status=live}}</ref><ref name="ga-milton-smith">{{Cite web |last=Hulett |first=Keith |date=September 29, 2020 |title=James M. Smith |url=https://www.georgiaencyclopedia.org/articles/government-politics/james-m-smith-1823-1890/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193855/https://www.georgiaencyclopedia.org/articles/government-politics/james-m-smith-1823-1890/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1828"|January 12, 1872<ref name="register-1990" /><br />–<br />January 12, 1877<br>{{small|(1828 days; retired)}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1871 Georgia gubernatorial special election|1871]]<br>{{small|(special)}}{{efn|Special election for the remainder of Rufus Bullock's term<ref name="nga-smith-james" />}}
+|- style="height:2em;"
+|[[1872 Georgia gubernatorial election|1872]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|49
+|rowspan="2" data-sort-value="Colquitt, Alfred"|[[File:Alfred Holt Colquitt.jpg|75px]]
+|rowspan="2"|'''[[Alfred H. Colquitt]]'''<br>{{Small|(1824–1894)}}<br>{{sfn|Sobel|1978|pp=303–304}}<ref name="nga-colquitt">{{Cite web |title=Alfred Holt Colquitt |url=https://www.nga.org/governor/alfred-holt-colquitt/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513220816/https://www.nga.org/governor/alfred-holt-colquitt/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="ga-colquitt">{{Cite web |last=Myers |first=Barton |date=April 14, 2016 |title=Alfred H. Colquitt |url=https://www.georgiaencyclopedia.org/articles/government-politics/alfred-h-colquitt-1824-1894/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260805083258/https://www.georgiaencyclopedia.org/articles/government-politics/alfred-h-colquitt-1824-1894/ |archive-date=August 5, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2123"|January 12, 1877<ref>{{cite book |title=Journal of the Georgia Senate, 1877 sess. |author=Georgia General Assembly |page=45 |url=https://babel.hathitrust.org/cgi/pt?id=chi.096218594&seq=51 |via=[[HathiTrust]]}}</ref><br />–<br />November 4, 1882<br>{{small|(2123 days; retired)}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1876 Georgia gubernatorial election|1876]]
+|- style="height:2em;"
+|[[1880 Georgia gubernatorial election|1880]]{{efn|First term under the 1877 constitution, which shortened terms to two years.{{sfn|Thorpe|1909|p=|loc=1877 art. V, § 1}}}}
+|- style="height:2em;"
+!scope="row"|50
+|data-sort-value="Stephens, Alexander"|[[File:Alexander Stephens.jpg|75px]]
+|'''[[Alexander H. Stephens]]'''<br>{{Small|(1812–1883)}}<br>{{sfn|Sobel|1978|pp=304–305}}<ref name="nga-stephens">{{Cite web |title=Alexander Hamilton Stephens |url=https://www.nga.org/governor/alexander-hamilton-stephens/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260216113356/https://www.nga.org/governor/alexander-hamilton-stephens/ |archive-date=February 16, 2026 |url-status=live}}</ref><ref name="ga-stephens">{{Cite web |last=Morgan |first=Chad |date=June 6, 2017 |title=Alexander Stephens |url=https://www.georgiaencyclopedia.org/articles/government-politics/alexander-stephens-1812-1883/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260819122943/https://www.georgiaencyclopedia.org/articles/government-politics/alexander-stephens-1812-1883/ |archive-date=August 19, 2026 |url-status=live}}</ref>
+|data-sort-value="121"|November 4, 1882<ref>{{cite book |title=Journal of the Georgia Senate, 1882 sess. |author=Georgia General Assembly |page=48 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl402-b1882}}</ref><br />–<br />March 4, 1883<br>{{small|(121 days; died in office)}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1882 Georgia gubernatorial election|1882]]
+|- style="height:2em;"
+!scope="row"|51
+|data-sort-value="Boynton, James"|[[File:James S. Boynton.jpg|75px]]
+|'''[[James S. Boynton]]'''<br>{{Small|(1833–1902)}}<br>{{sfn|Sobel|1978|p=305}}<ref name="nga-boynton">{{Cite web |title=James Boynton |url=https://www.nga.org/governor/james-boynton/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606071739/https://www.nga.org/governor/james-boynton/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="68"|March 4, 1883{{efn|Stephens died on March 4, and Boynton was formally sworn in on March 5.<ref>{{Cite news |date=March 5, 1883 |publication-date=March 6, 1883 |title=Gov. Boynton |location=Atlanta |publication-place=Columbus, Georgia |page=1 |newspaper=[[Ledger-Enquirer|Columbus Daily Enquirer-Sun]] |url=https://www.newspapers.com/article/ledger-enquirer-boynton-succeeds-stephen/129862486/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230812093100/https://www.newspapers.com/article/ledger-enquirer-boynton-succeeds-stephen/129862486/ |archive-date=August 12, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />May 10, 1883<br>{{small|(68 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=305}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|52
+|rowspan="2" data-sort-value="McDaniel, Henry"|[[File:HenryDickersonMcDaniel.jpg|75px]]
+|rowspan="2"|'''[[Henry Dickerson McDaniel]]'''<br>{{Small|(1836–1926)}}<br>{{sfn|Sobel|1978|pp=305–306}}<ref name="nga-mcdaniel">{{Cite web |title=Henry Dickerson McDaniel |url=https://www.nga.org/governor/henry-dickerson-mcdaniel/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613154420/https://www.nga.org/governor/henry-dickerson-mcdaniel/ |archive-date=June 13, 2026 |url-status=live}}</ref><ref name="ga-mcdaniel">{{Cite web |last=Luckett |first=Robert E. |date=July 23, 2018 |title=Henry McDaniel |url=https://www.georgiaencyclopedia.org/articles/government-politics/henry-mcdaniel-1836-1926/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803201203/https://www.georgiaencyclopedia.org/articles/government-politics/henry-mcdaniel-1836-1926/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1280"|May 10, 1883<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1883 sess. |author=Georgia General Assembly |page=20 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1883}}</ref><br />–<br />November 9, 1886<br>{{small|(1280 days; retired)}}{{efn|McDaniel's first term was shortened, so it is not known if he can be considered term-limited.}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1883 Georgia gubernatorial special election|1883]]<br>{{small|(special)}}{{efn|Special election for the remainder of Alexander Stephens' term<ref name="nga-mcdaniel" />}}
+|- style="height:2em;"
+|[[1884 Georgia gubernatorial election|1884]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|53
+|rowspan="2" data-sort-value="Gordon, John"|[[File:Jbgordon.jpg|75px]]
+|rowspan="2"|'''[[John B. Gordon]]'''<br>{{Small|(1832–1904)}}<br>{{sfn|Sobel|1978|pp=306–307}}<ref name="nga-gordon">{{Cite web |title=John Brown Gordon |url=https://www.nga.org/governor/john-brown-gordon/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513221416/https://www.nga.org/governor/john-brown-gordon/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="ga-gordon">{{Cite web |last=Groce |first=W. Todd |date=June 8, 2017 |title=John B. Gordon |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-b-gordon-1832-1904/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260922001303/https://www.georgiaencyclopedia.org/articles/government-politics/john-b-gordon-1832-1904/ |archive-date=September 22, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1461"|November 9, 1886<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1886 sess. |author=Georgia General Assembly |page=101 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1886}}</ref><br />–<br />November 8, 1890<br>{{small|(1461 days; term-limited)}}{{efn|Under the 1877 constitution, governors were ineligible for reelection until four years after the expiration of their second term.{{sfn|Thorpe|1909|p=|loc=1877 art. V, § 1}}|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1886 Georgia gubernatorial election|1886]]
+|- style="height:2em;"
+|[[1888 Georgia gubernatorial election|1888]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|54
+|rowspan="2" data-sort-value="Northen, William"|[[File:William J. Northen.jpg|75px]]
+|rowspan="2"|'''[[William J. Northen]]'''<br>{{Small|(1835–1913)}}<br>{{sfn|Sobel|1978|pp=307–308}}<ref name="nga-northen">{{Cite web |title=William Jonathan Northen |url=https://www.nga.org/governor/william-jonathan-northen/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260723231443/https://www.nga.org/governor/william-jonathan-northen/ |archive-date=July 23, 2026 |url-status=live}}</ref><ref name="ga-northen">{{Cite web |last=Cater |first=Casey P. |date=March 11, 2020 |title=William J. Northen |url=https://www.georgiaencyclopedia.org/articles/government-politics/william-j-northen-1835-1913/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193904/https://www.georgiaencyclopedia.org/articles/government-politics/william-j-northen-1835-1913/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1450"|November 8, 1890<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1890 sess. |author=Georgia General Assembly |page=95 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1890}}</ref><br />–<br />October 27, 1894<br>{{small|(1450 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1890 Georgia gubernatorial election|1890]]
+|- style="height:2em;"
+|[[1892 Georgia gubernatorial election|1892]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|55
+|rowspan="2" data-sort-value="Atkinson, William"|[[File:William Yates Atkinson.jpg|75px]]
+|rowspan="2"|'''[[William Yates Atkinson]]'''<br>{{Small|(1854–1899)}}<br>{{sfn|Sobel|1978|p=308}}<ref name="nga-atkinson">{{Cite web |title=William Yates Atkinson |url=https://www.nga.org/governor/william-yates-atkinson/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260928030324/https://www.nga.org/governor/william-yates-atkinson/ |archive-date=September 28, 2026 |url-status=live}}</ref><ref name="ga-atkinson">{{Cite web |last=Hulett |first=Keith |date=September 25, 2014 |title=William Y. Atkinson |url=https://www.georgiaencyclopedia.org/articles/government-politics/william-y-atkinson-1854-1899/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193858/https://www.georgiaencyclopedia.org/articles/government-politics/william-y-atkinson-1854-1899/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|October 27, 1894<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1894 sess. |author=Georgia General Assembly |page=68 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1894}}</ref><br />–<br />October 29, 1898<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1894 Georgia gubernatorial election|1894]]
+|- style="height:2em;"
+|[[1896 Georgia gubernatorial election|1896]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|56
+|rowspan="2" data-sort-value="Candler, Allen"|[[File:Allen D. Candler.jpg|75px]]
+|rowspan="2"|'''[[Allen D. Candler]]'''<br>{{Small|(1834–1910)}}<br>{{sfn|Sobel|1978|pp=308–309}}<ref name="nga-candler">{{Cite web |title=Allen D. Candler |url=https://www.nga.org/governor/allen-d-candler/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260623144254/https://www.nga.org/governor/allen-d-candler/ |archive-date=June 23, 2026 |url-status=live}}</ref><ref name="ga-candler">{{Cite web |last=Luckett |first=Robert E. |date=March 20, 2021 |title=Allen D. Candler |url=https://www.georgiaencyclopedia.org/articles/government-politics/allen-d-candler-1834-1910/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193858/https://www.georgiaencyclopedia.org/articles/government-politics/allen-d-candler-1834-1910/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|October 29, 1898<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1898 sess. |author=Georgia General Assembly |page=93 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1898}}</ref><br />–<br />October 25, 1902<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1898 Georgia gubernatorial election|1898]]
+|- style="height:2em;"
+|[[1900 Georgia gubernatorial election|1900]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|57
+|rowspan="2" data-sort-value="Terrell, Joseph"|[[File:JosephMTerrell.jpg|75px]]
+|rowspan="2"|'''[[Joseph M. Terrell]]'''<br>{{Small|(1861–1912)}}<br>{{sfn|Sobel|1978|pp=309–310}}<ref name="nga-terrell">{{Cite web |title=Joseph Meriwether Terrell |url=https://www.nga.org/governor/joseph-meriwether-terrell/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606080045/https://www.nga.org/governor/joseph-meriwether-terrell/ |archive-date=June 6, 2026 |url-status=live}}</ref><ref name="ga-terrell">{{Cite web |last=Hulett |first=Keith |date=September 8, 2016 |title=Joseph M. Terrell |url=https://www.georgiaencyclopedia.org/articles/government-politics/joseph-m-terrell-1861-1912/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260920154906/https://www.georgiaencyclopedia.org/articles/government-politics/joseph-m-terrell-1861-1912/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1709"|October 25, 1902<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1902 sess. |author=Georgia General Assembly |page=117 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1902}}</ref><br />–<br />June 29, 1907<br>{{small|(1709 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1902 Georgia gubernatorial election|1902]]
+|- style="height:2em;"
+|[[1904 Georgia gubernatorial election|1904]]{{efn|The start of a gubernatorial term has always been set by the legislature, rather than the constitution; it appears the start of this term changed from the last Saturday in October to the last Saturday in June, lengthening it by eight months.}}
+|- style="height:2em;"
+!scope="row"|58
+|data-sort-value="Smith, M. Hoke"|[[File:Hoke Smith cph.3a02321 (3x4b).jpg|75px]]
+|'''[[Hoke Smith]]'''<br>{{Small|(1855–1931)}}<br>{{sfn|Sobel|1978|pp=310–311}}<ref name="nga-smith-hoke">{{Cite web |title=Hoke Smith |url=https://www.nga.org/governor/hoke-smith/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513070955/https://www.nga.org/governor/hoke-smith/ |archive-date=May 13, 2026 |url-status=live}}</ref><ref name="ga-smith-hoke">{{Cite web |last=Maysilles |first=Duncan |date=November 10, 2021 |title=Hoke Smith |url=https://www.georgiaencyclopedia.org/articles/government-politics/hoke-smith-1855-1931/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261002230215/https://www.georgiaencyclopedia.org/articles/government-politics/hoke-smith-1855-1931/ |archive-date=October 2, 2026 |url-status=live}}</ref>
+|data-sort-value="729"|June 29, 1907<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1907 sess. |author=Georgia General Assembly |page=166 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1907}}</ref><br />–<br />June 26, 1909<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=310}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1906 Georgia gubernatorial election|1906]]
+|- style="height:2em;"
+!scope="row"|59
+|data-sort-value="Brown, Joseph M."|[[File:JosephMacBrown (cropped).jpg|75px]]
+|'''[[Joseph Mackey Brown]]'''<br>{{Small|(1851–1932)}}<br>{{sfn|Sobel|1978|p=311}}<ref name="nga-brown-joseph-m">{{Cite web |title=Joseph Mackey Brown |url=https://www.nga.org/governor/joseph-mackey-brown/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260731110006/https://www.nga.org/governor/joseph-mackey-brown/ |archive-date=July 31, 2026 |url-status=live}}</ref><ref name="ga-brown-joseph-m">{{Cite web |last=Myers |first=Barton |date=March 11, 2020 |title=Joseph M. Brown |url=https://www.georgiaencyclopedia.org/articles/government-politics/joseph-m-brown-1851-1932/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193902/https://www.georgiaencyclopedia.org/articles/government-politics/joseph-m-brown-1851-1932/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|June 26, 1909<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1909 sess. |author=Georgia General Assembly |page=218 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1909}}</ref><br />–<br />July 1, 1911<br>{{small|(736 days; lost election)}}{{efn|Brown lost the Democratic nomination to [[Hoke Smith]], and ran as an independent.<ref name="ga-brown-joseph-m" />}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1908 Georgia gubernatorial election|1908]]
+|- style="height:2em;"
+!scope="row"|''58''
+|data-sort-value="Smith, M. Hoke"|[[File:Hoke Smith cph.3a02321 (3x4b).jpg|75px]]
+|'''[[Hoke Smith]]'''<br>{{Small|(1855–1931)}}<br>{{sfn|Sobel|1978|pp=310–311}}<ref name="nga-smith-hoke" /><ref name="ga-smith-hoke" />
+|data-sort-value="138"|July 1, 1911<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1911 sess. |author=Georgia General Assembly |page=203 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1911}}</ref><br />–<br />November 15, 1911<br>{{small|(138 days; resigned)}}{{efn|Smith resigned, having been [[1911 United States Senate special election in Georgia|elected]] to the [[United States Senate]].<ref name="nga-smith-hoke" />}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1910 Georgia gubernatorial election|1910]]
+|- style="height:2em;"
+!scope="row"|60
+|data-sort-value="Slaton, John"|[[File:John Marshall Slaton.jpg|75px]]
+|'''[[John M. Slaton]]'''<br>{{Small|(1866–1955)}}<br>{{sfn|Sobel|1978|p=312}}<ref name="nga-slaton">{{Cite web |title=John Marshall Slaton |url=https://www.nga.org/governor/john-marshall-slaton/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260509173838/https://www.nga.org/governor/john-marshall-slaton/ |archive-date=May 9, 2026 |url-status=live}}</ref><ref name="ga-slaton">{{Cite web |last=Galloway |first=Tammy H. |date=September 15, 2014 |title=John M. Slaton |url=https://www.georgiaencyclopedia.org/articles/government-politics/john-m-slaton-1866-1955/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193905/https://www.georgiaencyclopedia.org/articles/government-politics/john-m-slaton-1866-1955/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="72"|November 15, 1911{{efn|Smith resigned on November 15, and Slaton was sworn in on November 16; at least one contemporary news source regarded this as a vacancy rather than an automatic succession.<ref>{{Cite news |date=November 16, 1911 |title=Slaton Becomes Governor Today |page=1 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-slaton-succeeds/129976268/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814022251/https://www.newspapers.com/article/the-atlanta-constitution-slaton-succeeds/129976268/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref>}}<br />–<br />January 25, 1912<br>{{small|(72 days; retired)}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|style="background:#EEEEEE; color:inherit;"|{{small|President of<br>the Senate<br>acting}}
+|- style="height:2em;"
+!scope="row"|''59''
+|data-sort-value="Brown, Joseph M."|[[File:JosephMacBrown (cropped).jpg|75px]]
+|'''[[Joseph Mackey Brown]]'''<br>{{Small|(1851–1932)}}<br>{{sfn|Sobel|1978|p=311}}<ref name="nga-brown-joseph-m" /><ref name="ga-brown-joseph-m" />
+|data-sort-value="521"|January 25, 1912<ref>{{Cite news |date=January 26, 1912 |title=Brown Inducted As Governor by Simple Service |page=1 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-brown-inaugurat/129976427/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814023754/https://www.newspapers.com/article/the-atlanta-constitution-brown-inaugurat/129976427/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />June 28, 1913<br>{{small|(521 days; retired)}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1912 Georgia gubernatorial special election|1912]]<br>{{small|(special)}}{{efn|Special election for the remainder of Hoke Smith's term<ref name="nga-brown-joseph-m" />}}
+|- style="height:2em;"
+!scope="row"|''60''
+|data-sort-value="Slaton, John"|[[File:John Marshall Slaton.jpg|75px]]
+|'''[[John M. Slaton]]'''<br>{{Small|(1866–1955)}}<br>{{sfn|Sobel|1978|p=312}}<ref name="nga-slaton" /><ref name="ga-slaton" />
+|data-sort-value="729"|June 28, 1913<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1913 sess. |author=Georgia General Assembly |page=150 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1913}}</ref><br />–<br />June 26, 1915<br>{{small|(729 days; retired)}}{{efn|Slaton instead [[1914_United_States_Senate_elections#Georgia|ran unsuccessfully]] for the Democratic nomination for the [[United States Senate]].{{sfn|Sobel|1978|p=312}}}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1912 Georgia gubernatorial election|1912]]
+|- style="height:2em;"
+!scope="row"|61
+|data-sort-value="Harris, Nathaniel"|[[File:Nathaniel Harris 1882.png|75px]]
+|'''[[Nathaniel Edwin Harris]]'''<br>{{Small|(1846–1929)}}<br>{{sfn|Sobel|1978|p=313}}<ref name="nga-harris-nathaniel">{{Cite web |title=Nathaniel Edwin Harris |url=https://www.nga.org/governor/nathaniel-edwin-harris/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260729202447/https://www.nga.org/governor/nathaniel-edwin-harris/ |archive-date=July 29, 2026 |url-status=live}}</ref><ref name="ga-harris-nathaniel">{{Cite web |last=Myers |first=Barton |date=May 14, 2013 |title=Nathaniel E. Harris |url=https://www.georgiaencyclopedia.org/articles/government-politics/nathaniel-e-harris-1846-1929/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193858/https://www.georgiaencyclopedia.org/articles/government-politics/nathaniel-e-harris-1846-1929/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|June 26, 1915<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1915 sess. |author=Georgia General Assembly |page=245 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1915}}</ref><br />–<br />June 30, 1917<br>{{small|(736 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=313}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1914 Georgia gubernatorial election|1914]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|62
+|rowspan="2" data-sort-value="Dorsey, Hugh"|[[File:Hugh Dorsey.jpg|75px]]
+|rowspan="2"|'''[[Hugh Dorsey]]'''<br>{{Small|(1871–1948)}}<br>{{sfn|Sobel|1978|p=314}}<ref name="nga-dorsey">{{Cite web |title=Hugh Manson Dorsey |url=https://www.nga.org/governor/hugh-manson-dorsey/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612144307/https://www.nga.org/governor/hugh-manson-dorsey/ |archive-date=June 12, 2026 |url-status=live}}</ref><ref name="ga-dorsey">{{Cite web |last=Stallings |first=Patricia |date=May 4, 2021 |title=Hugh M. Dorsey |url=https://www.georgiaencyclopedia.org/articles/government-politics/hugh-m-dorsey-1871-1948/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193846/https://www.georgiaencyclopedia.org/articles/government-politics/hugh-m-dorsey-1871-1948/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|June 30, 1917<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1917 sess. |author=Georgia General Assembly |page=322 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1917}}</ref><br />–<br />June 25, 1921<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1916 Georgia gubernatorial election|1916]]
+|- style="height:2em;"
+|[[1918 Georgia gubernatorial election|1918]]
+|- style="height:2em;"
+!scope="row"|63
+|data-sort-value="Hardwick, Thomas"|[[File:Senator Thomas Hardwick.jpg|75px]]
+|'''[[Thomas W. Hardwick]]'''<br>{{Small|(1872–1944)}}<br>{{sfn|Sobel|1978|pp=314–315}}<ref name="nga-hardwick">{{Cite web |title=Thomas William Hardwick |url=https://www.nga.org/governor/thomas-william-hardwick/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260808132321/https://www.nga.org/governor/thomas-william-hardwick/ |archive-date=August 8, 2026 |url-status=live}}</ref><ref name="ga-hardwick">{{Cite web |last=Luckett |first=Robert E. |date=August 25, 2020 |title=Thomas Hardwick |url=https://www.georgiaencyclopedia.org/articles/government-politics/thomas-hardwick-1872-1944/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193855/https://www.georgiaencyclopedia.org/articles/government-politics/thomas-hardwick-1872-1944/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="736"|June 25, 1921<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1921 sess. |author=Georgia General Assembly |page=220 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1921}}</ref><br />–<br />June 30, 1923<br>{{small|(736 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=315}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1920 Georgia gubernatorial election|1920]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|64
+|rowspan="2" data-sort-value="Walker, Clifford"|[[File:GovernorCliffWalker (3x4).jpg|75px]]
+|rowspan="2"|'''[[Clifford Walker]]'''<br>{{Small|(1877–1954)}}<br>{{sfn|Sobel|1978|pp=315–316}}<ref name="nga-walker">{{Cite web |title=Clifford Mitchell Walker |url=https://www.nga.org/governor/clifford-mitchell-walker/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616115931/https://www.nga.org/governor/clifford-mitchell-walker/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="ga-walker">{{Cite web |last=Huff |first=Christopher Allen |date=September 11, 2019 |title=Clifford Walker |url=https://www.georgiaencyclopedia.org/articles/government-politics/clifford-walker-1877-1954/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260824131147/https://www.georgiaencyclopedia.org/articles/government-politics/clifford-walker-1877-1954/ |archive-date=August 24, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1457"|June 30, 1923<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1923 sess. |author=Georgia General Assembly |page=221 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1923}}</ref><br />–<br />June 25, 1927<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1922 Georgia gubernatorial election|1922]]
+|- style="height:2em;"
+|[[1924 Georgia gubernatorial election|1924]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|65
+|rowspan="2" data-sort-value="Hardman, Lamartine"|[[File:Hardman222.jpg|75px]]
+|rowspan="2"|'''[[Lamartine Griffin Hardman]]'''<br>{{Small|(1856–1937)}}<br>{{sfn|Sobel|1978|p=316}}<ref name="nga-hardman">{{Cite web |title=Lamartine Griffin Hardman |url=https://www.nga.org/governor/lamartine-griffin-hardman/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260415030340/https://www.nga.org/governor/lamartine-griffin-hardman/ |archive-date=April 15, 2026 |url-status=live}}</ref><ref name="ga-hardman">{{Cite web |last=Chapman |first=David A. |date=March 11, 2020 |title=Lamartine Hardman |url=https://www.georgiaencyclopedia.org/articles/government-politics/lamartine-hardman-1856-1937/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193905/https://www.georgiaencyclopedia.org/articles/government-politics/lamartine-hardman-1856-1937/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|June 25, 1927<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1927 sess. |author=Georgia General Assembly |page=193 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1927}}</ref><br />–<br />June 27, 1931<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1926 Georgia gubernatorial election|1926]]
+|- style="height:2em;"
+|[[1928 Georgia gubernatorial election|1928]]
+|- style="height:2em;"
+!scope="row"|66
+|data-sort-value="Russel, Richard"|[[File:Richard Brevard Russell.jpg|75px]]
+|'''[[Richard Russell Jr.]]'''<br>{{Small|(1897–1971)}}<br>{{sfn|Sobel|1978|pp=316–317}}<ref name="nga-russell">{{Cite web |title=Richard Brevard Russell |url=https://www.nga.org/governor/richard-brevard-russell/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260917085033/https://www.nga.org/governor/richard-brevard-russell/ |archive-date=September 17, 2026 |url-status=live}}</ref><ref name="ga-russell">{{Cite web |last=Vogt |first=Sheryl B. |date=September 9, 2019 |title=Richard B. Russel Jr. |url=https://www.georgiaencyclopedia.org/articles/government-politics/richard-b-russell-jr-1897-1971/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193905/https://www.georgiaencyclopedia.org/articles/government-politics/richard-b-russell-jr-1897-1971/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="564"|June 27, 1931<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1931 sess. |author=Georgia General Assembly |page=212 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1931}}</ref><br />–<br />January 10, 1933<br>{{small|(564 days; retired)}}{{efn|Russell was instead [[1932 United States Senate elections|elected]] to the [[United States Senate]].{{sfn|Sobel|1978|p=317}}}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1930 Georgia gubernatorial election|1930]]{{efn|The start of the term changed from the last Saturday in June to the second Tuesday in January, shortening this term by five months.<ref name="nga-russell" />}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|67
+|rowspan="2" data-sort-value="Talmadge, Eugene"|[[File:Eugene Talmadge circa 1935.jpg|75px]]
+|rowspan="2"|'''[[Eugene Talmadge]]'''<br>{{Small|(1884–1946)}}<br>{{sfn|Sobel|1978|pp=317–318}}<ref name="nga-talmadge-eugene">{{Cite web |title=Eugene Talmadge |url=https://www.nga.org/governor/eugene-talmadge-2/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260721211635/https://www.nga.org/governor/eugene-talmadge-2/ |archive-date=July 21, 2026 |url-status=live}}</ref><ref name="ga-talmadge-eugene">{{Cite web |last=Henderson |first=Harold Paulk |date=September 9, 2019 |title=Eugene Talmadge |url=https://www.georgiaencyclopedia.org/articles/government-politics/eugene-talmadge-1884-1946/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193907/https://www.georgiaencyclopedia.org/articles/government-politics/eugene-talmadge-1884-1946/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 10, 1933<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1933 special sess. |author=Georgia General Assembly |page=203 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1933}}</ref><br />–<br />January 12, 1937<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1932 Georgia gubernatorial election|1932]]
+|- style="height:2em;"
+|[[1934 Georgia gubernatorial election|1934]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|68
+|rowspan="2" data-sort-value="Rivers, Eurith"|[[File:Discusses Georgia's problems with President. Washington, D.C., Dec. 22. Governor-elect E.D. Rivers was at the White House today where he discussed Georgia's problems with President Roosevelt LCCN2016871021 Crop.jpg|75px]]
+|rowspan="2"|'''[[Eurith D. Rivers]]'''<br>{{Small|(1895–1967)}}<br>{{sfn|Sobel|1978|pp=318–319}}<ref name="nga-rivers">{{Cite web |title=Eurith Dickinson Rivers |url=https://www.nga.org/governor/eurith-dickinson-rivers/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260729233141/https://www.nga.org/governor/eurith-dickinson-rivers/ |archive-date=July 29, 2026 |url-status=live}}</ref><ref name="ga-rivers">{{Cite web |last=Patton |first=Randall L. |date=April 5, 2021 |title=E. D. Rivers |url=https://www.georgiaencyclopedia.org/articles/government-politics/e-d-rivers-1895-1967/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260830220602/https://www.georgiaencyclopedia.org/articles/government-politics/e-d-rivers-1895-1967/ |archive-date=August 30, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="1464"|January 12, 1937<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1937 sess. |author=Georgia General Assembly |page=509 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1937-bv-p1}}</ref><br />–<br />January 14, 1941<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1877}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1936 Georgia gubernatorial election|1936]]
+|- style="height:2em;"
+|[[1938 Georgia gubernatorial election|1938]]
+|- style="height:2em;"
+!scope="row"|''67''
+|data-sort-value="Talmadge, Eugene"|[[File:Eugene Talmadge circa 1935.jpg|75px]]
+|'''[[Eugene Talmadge]]'''<br>{{Small|(1884–1946)}}<br>{{sfn|Sobel|1978|pp=317–318}}<ref name="nga-talmadge-eugene" /><ref name="ga-talmadge-eugene" />
+|data-sort-value="729"|January 14, 1941<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1941 special sess. |author=Georgia General Assembly |page=32 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1941}}</ref><br />–<br />January 12, 1943<br>{{small|(729 days;<br>lost nomination)}}{{sfn|Sobel|1978|p=318}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1940 Georgia gubernatorial election|1940]]
+|- style="height:2em;"
+!scope="row"|69
+|data-sort-value="Arnall, Ellis"|[[File:Ellis Gibbs Arnall, Governor of Georgia Edit.jpg|75px]]
+|'''[[Ellis Arnall]]'''<br>{{Small|(1907–1992)}}<br>{{sfn|Sobel|1978|pp=319–320}}<ref name="nga-arnall">{{Cite web |title=Ellis Gibbs Arnall |url=https://www.nga.org/governor/ellis-gibbs-arnall-2/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616114908/https://www.nga.org/governor/ellis-gibbs-arnall-2/ |archive-date=June 16, 2026 |url-status=live}}</ref><ref name="ga-arnall">{{Cite web |last=Henderson |first=Harold Paulk |date=August 19, 2020 |title=Ellis Arnall |url=https://www.georgiaencyclopedia.org/articles/government-politics/ellis-arnall-1907-1992/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193846/https://www.georgiaencyclopedia.org/articles/government-politics/ellis-arnall-1907-1992/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1943<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1943 special sess. |author=Georgia General Assembly |page=34 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1943}}</ref><br />–<br />January 14, 1947<br>{{small|(1464 days; term-limited)}}{{efn|Under the 1945 constitution, governors were ineligible for reelection until the expiration of four years from the end of their term.<ref>{{cite book |title=Georgia Constitution of 1945 |url=https://digitalcommons.law.uga.edu/ga_constitutions/31/ |via=[[University of Georgia School of Law]] |page=30}}</ref>|name=limits-1945}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1942 Georgia gubernatorial election|1942]]{{efn|First term under a 1941 amendment to the constitution which lengthened terms to four years.<ref name="register-1990" />}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Talmadge, Eugene"|[[File:Eugene Talmadge circa 1935.jpg|75px]]
+|'''[[Eugene Talmadge]]'''<br>{{Small|(1884–1946)}}<br>{{sfn|Sobel|1978|pp=317–318}}<ref name="nga-talmadge-eugene" /><ref name="ga-talmadge-eugene" />
+|data-sort-value="0"|''Died before<br />taking office''
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|rowspan="2"|[[1946 Georgia gubernatorial election|1946]]{{efn|Eugene Talmadge was elected to a third term in 1946, but died before taking office. Ellis Arnall, governor at the time, claimed the office, as did Lieutenant Governor Melvin Thompson. The state legislature chose Eugene Talmadge's son, Herman Talmadge, to be governor, but during what came to be called the [[three governors controversy]], the state supreme court declared this unconstitutional and declared Thompson rightful governor, and Talmadge stepped down after 67 days. Talmadge later defeated Thompson in a special election.<ref>{{Cite web |last=Buchanan |first=Scott E. |date=October 5, 2021 |title=Three Governors Controversy |url=https://www.georgiaencyclopedia.org/articles/government-politics/three-governors-controversy |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260729202249/https://www.georgiaencyclopedia.org/articles/government-politics/three-governors-controversy/ |archive-date=July 29, 2026 |url-status=live}}</ref>|name=3govs}}
+|rowspan="2" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Melvin E.|Thompson}}
+|- style="height:2em;"
+!scope="row"|—
+|data-sort-value="Talmadge, Herman"|[[File:HermanTalmadge.jpg|75px]]
+|'''[[Herman Talmadge]]'''<br>{{Small|(1913–2002)}}<br>{{sfn|Sobel|1978|pp=320–321}}<ref name="nga-talmadge-herman">{{Cite web |title=Herman Eugene Talmadge |url=https://www.nga.org/governor/herman-eugene-talmadge/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260305105540/https://www.nga.org/governor/herman-eugene-talmadge/ |archive-date=March 5, 2026 |url-status=live}}</ref><ref name="ga-talmadge-herman">{{Cite web |last=Buchanan |first=Scott E. |date=August 14, 2020 |title=Herman Talmadge |url=https://www.georgiaencyclopedia.org/articles/government-politics/herman-talmadge-1913-2002/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193847/https://www.georgiaencyclopedia.org/articles/government-politics/herman-talmadge-1913-2002/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="65"|January 14, 1947<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1947 sess. |author=Georgia General Assembly |page=43 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1947}}</ref><br />–<br />March 19, 1947<br>{{small|(65 days; removed)}}{{efn|name=3govs}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|- style="height:2em;"
+!scope="row"|70
+|data-sort-value="Thompson, Melvin"|[[File:Lt. Gov. M.E. Thompson Edit.jpg|75px]]
+|'''[[Melvin E. Thompson]]'''<br>{{Small|(1903–1980)}}<br>{{sfn|Sobel|1978|p=321}}<ref name="nga-thompson">{{Cite web |title=Melvin Ernest Thompson |url=https://www.nga.org/governor/melvin-ernest-thompson/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260727001532/https://www.nga.org/governor/melvin-ernest-thompson/ |archive-date=July 27, 2026 |url-status=live}}</ref><ref name="ga-thompson">{{Cite web |last=Henderson |first=Harold Paulk |date=August 10, 2018 |title=Melvin E. Thompson |url=https://www.georgiaencyclopedia.org/articles/government-politics/melvin-e-thompson-1903-1980/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193846/https://www.georgiaencyclopedia.org/articles/government-politics/melvin-e-thompson-1903-1980/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="610"|March 19, 1947<ref>{{Cite news |date=March 19, 1947 |title=Court Says Assembly Lacked Jurisdiction |page=1 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Journal]] |url=https://www.newspapers.com/article/the-atlanta-journal-thompson-succeeds-ta/130010820/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814200300/https://www.newspapers.com/article/the-atlanta-journal-thompson-succeeds-ta/130010820/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />November 17, 1948<br>{{small|(610 days;<br>lost nomination)}}<ref name="ga-thompson" />
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|71
+|rowspan="2" data-sort-value="Talmadge, Herman"|[[File:HermanTalmadge.jpg|75px]]
+|rowspan="2"|'''[[Herman Talmadge]]'''<br>{{Small|(1913–2002)}}<br>{{sfn|Sobel|1978|pp=320–321}}<ref name="nga-talmadge-herman" /><ref name="ga-talmadge-herman" />
+|rowspan="2" data-sort-value="2247"|November 17, 1948<ref>{{cite book |title=Journal of the Georgia House of Representatives, Nov. 1948 special sess. |author=Georgia General Assembly |page=42 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1950}}</ref><br />–<br />January 11, 1955<br>{{small|(2247 days; term-limited)}}{{efn|name=limits-1945}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1948 Georgia gubernatorial special election|1948]]<br>{{small|(special)}}{{efn|name=3govs}}
+|rowspan="15" style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Marvin|Griffin}}
+|- style="height:2em;"
+|[[1950 Georgia gubernatorial election|1950]]
+|- style="height:2em;"
+!scope="row"|72
+|data-sort-value="Griffin, Marvin"|[[File:Marvingriffin (cropped).gif|75px]]
+|'''[[Marvin Griffin]]'''<br>{{Small|(1907–1982)}}<br>{{sfn|Sobel|1978|p=322}}<ref name="nga-griffin">{{Cite web |title=Samuel Marvin Griffin |url=https://www.nga.org/governor/samuel-marvin-griffin/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261002010135/https://www.nga.org/governor/samuel-marvin-griffin/ |archive-date=October 2, 2026 |url-status=live}}</ref><ref name="ga-griffin">{{Cite web |last=Buchanan |first=Scott E. |date=April 14, 2021 |title=Marvin Griffin |url=https://www.georgiaencyclopedia.org/articles/government-politics/marvin-griffin-1907-1982/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260831001654/https://www.georgiaencyclopedia.org/articles/government-politics/marvin-griffin-1907-1982/ |archive-date=August 31, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1955<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1955 sess. |author=Georgia General Assembly |page=37 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1955}}</ref><br />–<br />January 13, 1959<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1954 Georgia gubernatorial election|1954]]
+|{{sortname|Ernest|Vandiver}}
+|- style="height:2em;"
+!scope="row"|73
+|data-sort-value="Vandiver, Ernest"|[[File:Ernest Vandiver (1962).jpg|75px]]
+|'''[[Ernest Vandiver]]'''<br>{{Small|(1918–2005)}}<br>{{sfn|Sobel|1978|pp=322–323}}<ref name="nga-vandiver">{{Cite web |title=Samuel Ernest Vandiver |url=https://www.nga.org/governor/samuel-ernest-vandiver/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260427182533/https://www.nga.org/governor/samuel-ernest-vandiver/ |archive-date=April 27, 2026 |url-status=live}}</ref><ref name="ga-vandiver">{{Cite web |last=Henderson |first=Harold Paulk |date=April 5, 2021 |title=Ernest Vandiver Jr. |url=https://www.georgiaencyclopedia.org/articles/government-politics/ernest-vandiver-jr-1918-2005/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193846/https://www.georgiaencyclopedia.org/articles/government-politics/ernest-vandiver-jr-1918-2005/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 13, 1959<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1959 sess. |author=Georgia General Assembly |page=31 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl404-b1959}}</ref><br />–<br />January 15, 1963<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1958 Georgia gubernatorial election|1958]]
+|{{sortname|Garland T.|Byrd}}
+|- style="height:2em;"
+!scope="row"|74
+|data-sort-value="Sanders, Carl"|[[File:Carl Sanders.jpg|75px]]
+|'''[[Carl Sanders]]'''<br>{{Small|(1925–2014)}}<br>{{sfn|Sobel|1978|pp=323–324}}<ref name="nga-sanders">{{Cite web |title=Carl Edward Sanders |url=https://www.nga.org/governor/carl-edward-sanders/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519095716/https://www.nga.org/governor/carl-edward-sanders/ |archive-date=May 19, 2026 |url-status=live}}</ref><ref name="ga-sanders">{{Cite web |last=Cook |first=James F. |date=March 27, 2021 |title=Carl Sanders |url=https://www.georgiaencyclopedia.org/articles/government-politics/carl-sanders-1925-2014/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261016001019/https://www.georgiaencyclopedia.org/articles/government-politics/carl-sanders-1925-2014/ |archive-date=October 16, 2026 |url-status=live}}</ref>
+|data-sort-value="1458"|January 15, 1963<ref>{{cite book |title=Journal of the Georgia House of Representatives, 1963 sess. |author=Georgia General Assembly |page=88 |url=https://dlg.usg.edu/record/dlg_ggpd_y-ga-bl402-b1963}}</ref><br />–<br />January 11, 1967<br>{{small|(1458 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1962 Georgia gubernatorial election|1962]]
+|{{sortname|Peter Zack|Geer}}
+|- style="height:2em;"
+!scope="row"|75
+|data-sort-value="Maddox, Lester"|[[File:Lester Maddox.jpg|75px]]
+|'''[[Lester Maddox]]'''<br>{{Small|(1915–2003)}}<br>{{sfn|Sobel|1978|pp=324–325}}<ref name="nga-maddox">{{Cite web |title=Lester Garfield Maddox |url=https://www.nga.org/governor/lester-garfield-maddox/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260913042046/https://www.nga.org/governor/lester-garfield-maddox/ |archive-date=September 13, 2026 |url-status=live}}</ref><ref name="ga-maddox">{{Cite web |last=Nystrom |first=Justin |date=August 11, 2020 |title=Lester Maddox |url=https://www.georgiaencyclopedia.org/articles/government-politics/lester-maddox-1915-2003/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193857/https://www.georgiaencyclopedia.org/articles/government-politics/lester-maddox-1915-2003/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="1463"|January 11, 1967<ref>{{Cite news |last=Riner |first=Duane |date=January 12, 1967 |title=Progressive Aims Cheer Leaders |page=1 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-maddox-inaugura/130015165/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205916/https://www.newspapers.com/article/the-atlanta-constitution-maddox-inaugura/130015165/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1971<br>{{small|(1463 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1966 Georgia gubernatorial election|1966]]
+|{{sortname|George T.|Smith}}
+|- style="height:2em;"
+!scope="row"|76
+|data-sort-value="Carter, Jimmy"|[[File:Jimmy Carter official portrait as Governor.jpg|75px]]
+|'''[[Jimmy Carter]]'''<br>{{Small|(1924–2024)}}<br>{{sfn|Sobel|1978|pp=325–326}}<ref name="nga-carter">{{Cite web |title=Jimmy Earl Carter |url=https://www.nga.org/governor/jimmy-earl-carter/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260929230103/https://www.nga.org/governor/jimmy-earl-carter/ |archive-date=September 29, 2026 |url-status=live}}</ref><ref name="ga-carter">{{Cite web |last=Fink |first=Gary M. |date=March 14, 2025 |title=Jimmy Carter |url=https://www.georgiaencyclopedia.org/articles/government-politics/jimmy-carter/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261011104756/https://www.georgiaencyclopedia.org/articles/government-politics/jimmy-carter/ |archive-date=October 11, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1971<ref>{{Cite news |last=Shipp |first=Bill |date=January 13, 1971 |title=Carter Is Sworn In, Says Bias Must End |page=1A |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution/86879060/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205912/https://www.newspapers.com/article/the-atlanta-constitution/86879060/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1975<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1945}}
+|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1970 Georgia gubernatorial election|1970]]
+|{{sortname|Lester|Maddox}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|77
+|rowspan="2" data-sort-value="Busbee, George"|[[File:George Busbee.jpg|75px]]
+|rowspan="2"|'''[[George Busbee]]'''<br>{{Small|(1927–2004)}}<br>{{sfn|Sobel|1978|pp=326–327}}<ref name="nga-busbee">{{Cite web |title=George Dekle Busbee |url=https://www.nga.org/governor/george-dekle-busbee/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260427182534/https://www.nga.org/governor/george-dekle-busbee/ |archive-date=April 27, 2026 |url-status=live}}</ref><ref name="ga-busbee">{{Cite web |last=Cook |first=James F. |date=July 13, 2018 |title=George Busbee |url=https://www.georgiaencyclopedia.org/articles/government-politics/george-busbee-1927-2004/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193847/https://www.georgiaencyclopedia.org/articles/government-politics/george-busbee-1927-2004/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 14, 1975<ref>{{Cite news |last=Granum |first=Rex |date=January 15, 1975 |title=Busbee Inaugurated, Issues Unity Call |page=1A |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-busbee-inaugura/130015384/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205919/https://www.newspapers.com/article/the-atlanta-constitution-busbee-inaugura/130015384/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1983<br>{{small|(2920 days; term-limited)}}{{efn|Under the 1976 constitution, governors were ineligible to succeed themselves, or to hold the office until the expiration of four years from the end of their term.<ref>{{cite book |title=Georgia Constitution of 1976 |url=https://digitalcommons.law.uga.edu/ga_constitutions/36/ |via=[[University of Georgia School of Law]] |page=43}}</ref>|name=limits-1976}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]{{sfn|Kallenbach|1977|p=139}}
+|[[1974 Georgia gubernatorial election|1974]]
+|rowspan="4"|{{sortname|Zell|Miller}}
+|- style="height:2em;"
+|[[1978 Georgia gubernatorial election|1978]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|78
+|rowspan="2" data-sort-value="Harris, Joe"|[[File:Joe Frank Harris.jpg|75px]]
+|rowspan="2"|'''[[Joe Frank Harris]]'''<br>{{Small|({{Abbr|b.|born in}} 1936)}}<br>{{sfn|Mullaney|1994|pp=94–97}}<ref name="nga-harris-joe">{{Cite web |title=Joe Frank Harris |url=https://www.nga.org/governor/joe-frank-harris/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418073824/https://www.nga.org/governor/joe-frank-harris/ |archive-date=April 18, 2026 |url-status=live}}</ref><ref name="ga-harris-joe">{{Cite web |last=Buchanan |first=Scott E. |date=July 23, 2018 |title=Joe Frank Harris |url=https://www.georgiaencyclopedia.org/articles/government-politics/joe-frank-harris-b-1936/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193901/https://www.georgiaencyclopedia.org/articles/government-politics/joe-frank-harris-b-1936/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2926"|January 11, 1983<ref>{{Cite news |last=Palmer |first=Prentice |date=January 12, 1983 |title=Harris Vows To Run Tight Ship |page=1A |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-harris-inaugura/130015466/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205920/https://www.newspapers.com/article/the-atlanta-constitution-harris-inaugura/130015466/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1991<br>{{small|(2926 days; term-limited)}}{{efn|Under the 1983 constitution, those governors who have succeeded themselves were ineligible to be elected to the office four years after the end of their term.{{sfn|Ga. Const.|loc=[https://50constitutions.org/ga/constitution/section-id-78205 art. V, § 1]}}|name=limits-1982}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]<ref name="ga-harris-joe" />
+|[[1982 Georgia gubernatorial election|1982]]
+|- style="height:2em;"
+|[[1986 Georgia gubernatorial election|1986]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|79
+|rowspan="2" data-sort-value="Miller, Zell"|[[File:Zell B Miller (cropped).jpg|75px]]
+|rowspan="2"|'''[[Zell Miller]]'''<br>{{Small|(1932–2018)}}<br>{{sfn|Mullaney|1994|pp=98–102}}<ref name="nga-miller">{{Cite web |title=Zell Miller |url=https://www.nga.org/governor/zell-miller/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260910050013/https://www.nga.org/governor/zell-miller/ |archive-date=September 10, 2026 |url-status=live}}</ref><ref name="ga-miller">{{Cite web |last=Grant |first=Chris |date=June 4, 2018 |title=Zell Miller |url=https://www.georgiaencyclopedia.org/articles/government-politics/zell-miller-1932-2018/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193903/https://www.georgiaencyclopedia.org/articles/government-politics/zell-miller-1932-2018/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 14, 1991<ref>{{Cite news |last=Cummings |first=Jeanne |date=January 15, 1991 |title=Cannons, Country Music for Miller |page=F1 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-miller-inaugura/130015705/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205918/https://www.newspapers.com/article/the-atlanta-constitution-miller-inaugura/130015705/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 11, 1999<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1982}}
+|rowspan="2"|[[Democratic Party of Georgia|Democratic]]<ref name="ga-miller" />
+|[[1990 Georgia gubernatorial election|1990]]
+|rowspan="2"|{{sortname|Pierre|Howard}}
+|- style="height:2em;"
+|[[1994 Georgia gubernatorial election|1994]]
+|- style="height:2em;"
+!scope="row"|80
+|data-sort-value="Barnes, Roy"|[[File:Roy Barnes official portrait.webp|75px]]
+|'''[[Roy Barnes]]'''<br>{{Small|({{Abbr|b.|born in}} 1948)}}<br><ref name="nga-barnes">{{Cite web |title=Roy E. Barnes |url=https://www.nga.org/governor/roy-e-barnes/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260718165019/https://www.nga.org/governor/roy-e-barnes/ |archive-date=July 18, 2026 |url-status=live}}</ref><ref name="ga-barnes">{{Cite web |last=Brooks |first=F. Erik |date=May 14, 2013 |title=Roy Barnes |url=https://www.georgiaencyclopedia.org/articles/government-politics/roy-barnes-b-1948/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20260803193907/https://www.georgiaencyclopedia.org/articles/government-politics/roy-barnes-b-1948/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1999<ref>{{Cite news |last=Pruitt |first=Kathey |date=January 12, 1999 |title=Barnes Bows To Target Sprawl, Education, Health Care, Taxes |page=A1 |newspaper=[[The Atlanta Journal-Constitution|The Atlanta Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-barnes-inaugura/130015791/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205918/https://www.newspapers.com/article/the-atlanta-constitution-barnes-inaugura/130015791/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 2003<br>{{small|(1464 days; lost election)}}
+|[[Democratic Party of Georgia|Democratic]]<ref name="ga-barnes" />
+|[[1998 Georgia gubernatorial election|1998]]
+|rowspan="2"|{{sortname|Mark|Taylor|dab=American politician}}{{efn|Represented the [[Democratic Party of Georgia|Democratic Party]]}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|81
+|rowspan="2" data-sort-value="Purdue, Sonny"|[[File:Sonny Perdue official portrait 2.webp|75px]]
+|rowspan="6" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Sonny Perdue]]'''<br>{{Small|({{Abbr|b.|born in}} 1946)}}<br><ref name="nga-perdue">{{Cite web |title=Sonny Perdue |url=https://www.nga.org/governor/sonny-perdue/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260510115531/https://www.nga.org/governor/sonny-perdue/ |archive-date=May 10, 2026 |url-status=live}}</ref><ref name="ga-perdue">{{Cite web |last=Hulbert |first=Matthew C. |date=June 14, 2022 |title=Sonny Perdue |url=https://www.georgiaencyclopedia.org/articles/government-politics/sonny-perdue-b-1946/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261013035923/https://www.georgiaencyclopedia.org/articles/government-politics/sonny-perdue-b-1946/ |archive-date=October 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 13, 2003<ref>{{Cite news |last=Galloway |first=Jim |date=January 14, 2003 |title='A New Day for Georgia': Republican Governor Takes Control As Parties Split House, Senate |page=A1 |newspaper=[[The Atlanta Journal-Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-perdue-inaugura/130015853/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205914/https://www.newspapers.com/article/the-atlanta-constitution-perdue-inaugura/130015853/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 10, 2011<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1982}}
+|rowspan="2"|[[Georgia Republican Party|Republican]]<ref name="ga-perdue" />
+|[[2002 Georgia gubernatorial election|2002]]
+|- style="height:2em;"
+|[[2006 Georgia gubernatorial election|2006]]
+|rowspan="5" style="background:{{party color|Republican Party (United States)}}; color:inherit;" title="Represented the Republican Party"|
+|rowspan="3"|{{sortname|Casey|Cagle}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|82
+|rowspan="2" data-sort-value="Deal, Nathan"|[[File:Nathan Deal official portrait (cropped).jpg|75px]]
+|rowspan="2"|'''[[Nathan Deal]]'''<br>{{Small|({{Abbr|b.|born in}} 1942)}}<br><ref name="nga-deal">{{Cite web |title=Nathan Deal |url=https://www.nga.org/governor/nathan-deal/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608203735/https://www.nga.org/governor/nathan-deal/ |archive-date=June 8, 2026 |url-status=live}}</ref><ref name="ga-deal">{{Cite web |last=McKee |first=Sarah E. |date=January 17, 2019 |title=Nathan Deal |url=https://www.georgiaencyclopedia.org/articles/government-politics/nathan-deal-b-1942/ |access-date=October 20, 2026 |website=[[New Georgia Encyclopedia]] |archive-url=https://web.archive.org/web/20261014225903/https://www.georgiaencyclopedia.org/articles/government-politics/nathan-deal-b-1942/ |archive-date=October 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 10, 2011<ref>{{Cite news |last=Sheinin |first=Aaron Gould |date=January 11, 2011 |title=Deal Vows Era of Frugality |page=A1 |newspaper=The Atlanta Constitution |url=https://www.newspapers.com/article/the-atlanta-constitution-deal-inaugurate/130015923/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205912/https://www.newspapers.com/article/the-atlanta-constitution-deal-inaugurate/130015923/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 2019<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1982}}
+|rowspan="2"|[[Georgia Republican Party|Republican]]<ref name="ga-deal" />
+|[[2010 Georgia gubernatorial election|2010]]
+|- style="height:2em;"
+|[[2014 Georgia gubernatorial election|2014]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|83
+|rowspan="2" data-sort-value="Kemp, Brian"|[[File:Brian Kemp portrait, 2024 (cropped 2).jpg|93x93px]]
+|rowspan="2"|'''[[Brian Kemp]]'''<br>{{Small|({{Abbr|b.|born in}} 1963)}}<br><ref name="nga-kemp">{{Cite web |title=Brian Kemp |url=https://www.nga.org/governor/brian-kemp/ |access-date=October 20, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260714132114/https://www.nga.org/governor/brian-kemp/ |archive-date=July 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="{{Duration in days nts|2019|1|14|duration=on|format=no}}"|January 14, 2019<ref>{{Cite news |last=Bluestein |first=Greg |date=January 15, 2019 |title='I Will Fight for All Georgians': In His Inauguration Speech, Gov. Brian Kemp Pledges To Work With Democrats To Unite the State |page=A1 |newspaper=[[The Atlanta Journal-Constitution]] |url=https://www.newspapers.com/article/the-atlanta-constitution-kemp-inaugurate/130015962/ |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20230814205914/https://www.newspapers.com/article/the-atlanta-constitution-kemp-inaugurate/130015962/ |archive-date=August 14, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />Incumbent{{efn|Kemp's second term began on January 12, 2023,<ref>{{Cite news |last=Hurt |first=Emma |date=January 12, 2023 |title=Brian Kemp inaugurated to a second term as Georgia governor |url=https://www.axios.com/2023/01/12/brian-kemp-inaugurated-to-a-second-term-as-georgia-governor |access-date=October 20, 2026 |website=Axios |archive-url=https://web.archive.org/web/20230112180919/https://www.axios.com/2023/01/12/brian-kemp-inaugurated-to-a-second-term-as-georgia-governor |archive-date=January 12, 2023 |url-status=live}}</ref> and [[2026 Georgia gubernatorial election|will expire]] on January 11, 2027; he is term-limited.}}<br>{{small|(in office {{Duration in days nts|2019|1|14|duration=on|format=no}} days)}}
+|rowspan="2"|[[Georgia Republican Party|Republican]]<ref name="nga-kemp" />
+|[[2018 Georgia gubernatorial election|2018]]
+|{{sortname|Geoff|Duncan}}
+|- style="height:2em;"
+|[[2022 Georgia gubernatorial election|2022]]
+|{{sortname|Burt|Jones}}
+|- style="height:2em;"
+!scope="row"|''84''
+|data-sort-value="Bottoms, Keisha Lance"|[[File:Keisha_Lance_Bottoms.jpg|75px]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|'''''[[Keisha Lance Bottoms]]'''''<br>{{small|({{abbr|b.|born in}} 1970)}}
+|data-sort-value="{{Duration in days nts|2027|1|11|duration=on|format=no}}"|''Governor-elect<br>takes office<br>January 11, 2027''
+|''[[Democratic Party of Georgia|Democratic]]''
+|[[2026 Georgia gubernatorial election|2026]]
+|style="background:{{party color|Democratic Party (United States)}}; color:inherit;" title="Represented the Democratic Party"|
+|''{{sortname|Josh|McLaurin}}''
+|}
+
+==See also==
+*[[Gubernatorial lines of succession in the United States#Georgia]]
+*[[First ladies of Georgia (U.S. state)|First ladies of Georgia]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+*{{Cite web |title=Former Georgia Governors |url=https://www.nga.org/former-governors/georgia/ |access-date=October 20, 2026 |website=[[National Governors Association]]}}
+*{{cite web |title=Georgia Constitution |url=https://50constitutions.org/ga/constitution |ref={{sfnref|Ga. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 19, 2026}}
+*''A History of Georgia'', second ed.  Kenneth Coleman, general editor.  University of Georgia Press: 1991.
+*{{Cite book |last=Candler |first=Allen Daniel |url=https://books.google.com/books?id=sFZEAAAAIAAJ |title=The Revolutionary Records of the State of Georgia Volume 1 |publisher=Franklin-Turner Company |year=1908 |access-date=August 28, 2016}}
+*{{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0 |via=[[Internet Archive]]}}
+*{{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8 |via=[[Internet Archive]]}}
+*{{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6 |via=[[Internet Archive]]}}
+*{{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0 |via=[[Internet Archive]]}}
+*{{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+*{{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015 |via=[[Internet Archive]]}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons02thor/ |volume=2 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+== External links ==
+*[https://gov.georgia.gov/ Office of the Governor of Georgia]
+
+{{Georgia (U.S. state)}}
+{{Lists of US Governors}}
+{{Governors of Georgia}}
+
+{{DEFAULTSORT:Georgia, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Georgia (U.S. state)|*]]
+[[Category:Lists of Georgia (U.S. state) politicians|Governors]]

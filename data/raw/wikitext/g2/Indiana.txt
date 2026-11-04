@@ -1,0 +1,627 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2023}}
+[[File:StateCapitolIndiana.jpg|300px|thumb|The [[Indiana Statehouse]] in [[Indianapolis]], which houses the office of the governor]]
+The [[governor of Indiana]] is the [[head of government]] of the [[U.S. state]] of [[Indiana]]. The [[Governor (United States)|governor]] is the head of the [[executive (government)|executive branch]] of [[Government of Indiana|Indiana's state government]] and is charged with enforcing state laws.
+
+While a territory, Indiana had two governors appointed by the [[president of the United States]]. Since statehood in 1816, it has had 50 governors, serving 52 distinct terms; [[Isaac P. Gray]] and [[Henry F. Schricker]] are the only governors to have served non-consecutive terms. Four governors have served two four-year terms; territorial governor [[William Henry Harrison]] served for 11 years. The shortest-serving governor is [[Henry S. Lane]], who served two days before resigning to become a [[United States Senate|U.S. senator]]. The current governor is [[Mike Braun]], who took office on January 13, 2025.
+
+==List of governors==
+
+===Territory of Indiana===
+[[Indiana Territory]] was formed on July 4, 1800, from the [[Northwest Territory]]. Despite remaining a territory for nearly 16 years, it had only two governors appointed by the [[president of the United States]] before it became a state.
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the Territory of Indiana
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}
+!scope="colgroup" colspan="2"|Governor
+!scope="col" data-sort-type="number"|Term in office{{efn|The range given is from the date the governor was confirmed by the Senate, or appointed by the President during a Senate recess, to the date the governor left office.}}
+!scope="col"|Appointed by
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|1
+|rowspan="3" data-sort-value="Harrison, William Henry"|[[File:Rembrandt Peale - William Henry Harrison - Google Art Project.jpg|75px]]
+|rowspan="3"|'''[[William Henry Harrison]]'''{{efn|[[John Gibson (American soldier)|John Gibson]] served as acting governor during the absences of Governor William Henry Harrison.<ref>{{Cite web |title=John Gibson Letters |url=http://www.in.gov/library/exhibits/lawyers/aids/s510.html |url-status=dead |archive-url=https://web.archive.org/web/20081202174351/http://www.in.gov/library/exhibits/lawyers/aids/s510.html |archive-date=December 2, 2008 |access-date=December 6, 2008 |publisher=Indiana State Library}}</ref>{{sfn|McMullin|1984|p=150}}}}<br>{{small|(1773–1841)}}<br>{{sfn|McMullin|1984|pp=149–151}}
+|rowspan="3" data-sort-value="4613"|May 13, 1800{{efn|Harrison was nominated on May 12, 1800,<ref>{{cite book |title=Senate Executive Journal, 6th Cong., 1st sess. |author=United States Senate |page=353 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178776&seq=365 |via=[[HathiTrust]]}}</ref> confirmed on May 13,<ref>{{cite book |title=Senate Executive Journal, 6th Cong., 1st sess. |author=United States Senate |page=354 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178776&seq=366 |via=[[HathiTrust]]}}</ref> and took office on July 4.<ref name="papers-harrison">{{Cite book |url=https://books.google.com/books?id=wXwmAQAAMAAJ |title=The Territorial Papers of the United States: Volume VII: The Territory of Indiana |date=1939 |publisher=[[United States Government Publishing Office]] |page=14–16}}</ref> He was reconfirmed by the Senate on February 8, 1803;<ref>{{cite book |title=Senate Executive Journal, 7th Cong., 2nd sess. |author=United States Senate |page=442 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178776&seq=454 |via=[[HathiTrust]]}}</ref> recommissioned by the President for an interim term on May 5, 1806;<ref name="papers-harrison" /> reconfirmed by the Senate on December 17, 1806;<ref>{{cite book |title=Senate Executive Journal, 9th Cong., 2nd sess. |author=United States Senate |page=45 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=47 |via=[[HathiTrust]]}}</ref> and again on December 20, 1809.<ref>{{cite book |title=Senate Executive Journal, 11th Cong., 2nd sess. |author=United States Senate |page=131 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=133 |via=[[HathiTrust]]}}</ref>}}<br />–<br />December 28, 1812<br>{{small|(4613 days; resigned)}}{{efn|Harrison resigned; he had recently been commissioned a [[Major general (United States)|major general]], and had been drawing pay from both jobs.{{sfn|Gugin|St. Clair|2006|p=23}}}}
+|{{sortname|John|Adams}}
+|- style="height:2em;"
+|{{sortname|Thomas|Jefferson}}
+|- style="height:2em;"
+|{{sortname|James|Madison}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Posey, Thomas"|[[File:Thomas Posey Portrait.jpg|75px]]
+|'''[[Thomas Posey]]'''<br>{{small|(1750–1818)}}<br>{{sfn|McMullin|1984|pp=152–153}}
+|data-sort-value="1346"|March 3, 1813{{efn|Posey was nominated on February 27, 1813,<ref>{{cite book |title=Senate Executive Journal, 12th Cong., 2nd sess. |author=United States Senate |page=329 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=331 |via=[[HathiTrust]]}}</ref> confirmed by the Senate on March 3,<ref>{{cite book |title=Senate Executive Journal, 12th Cong., 2nd sess. |author=United States Senate |page=333 |url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044121178784&seq=335 |via=[[HathiTrust]]}}</ref> and took office on May 25.{{sfn|McMullin|1984|p=152}}}}<br />–<br />November 7, 1816<br>{{small|(1346 days; lost election)}}
+|{{sortname|James|Madison}}
+|}
+
+===State of Indiana===
+Indiana was [[List of U.S. states by date of admission to the Union|admitted to the Union]] on December 11, 1816.
+
+The original 1816 [[Constitution of Indiana]] provided for the election of a governor and a lieutenant governor every three years, limited to six years out of any nine-year period.{{sfn|Thorpe|1909|p=1063|loc=1816 art. IV, § 3}} The second and current constitution of 1851 lengthened terms to four years and set the commencement of the governor's term on the second Monday in the January following the election.{{sfn|Thorpe|1909|p=1081|loc=1851 art. V, § 1}} Governors were allowed to serve for four years in any eight-year period,{{sfn|Thorpe|1909|p=1081|loc=1851 art. V, § 1}} but a 1972 amendment permitted governors to serve for eight years in any twelve-year period.<ref name="amend1972">{{cite news |url=https://www.newspapers.com/article/the-indianapolis-star-4-out-of-5-amendme/208914509/ |title=4 out of 5 Amendments Adopted |page=6 |newspaper=[[The Indianapolis Star]] |via=Newspapers.com}}</ref> Should the office of governor become vacant, the lieutenant governor becomes governor.{{sfn|Ind. Const.|loc=[https://50constitutions.org/in/constitution/section-id-65066 art. V, § 10]}} If the office of lieutenant governor is vacant, the president ''pro tempore'' of the [[Indiana Senate]] becomes governor; this has happened once, when [[James B. Ray]] succeeded [[William Hendricks]].
+
+{{sticky header}}
+{| class="wikitable sortable mw-collapsible sticky-header-multi" style="text-align:center;"
+|+ Governors of the State of Indiana
+!scope="col" data-sort-type="number"|{{abbr|No.|Number}}{{efn|The official site labeled Mike Braun as the 52nd governor;<ref>{{Cite web |title=About Governor Mike Braun |url=https://www.in.gov/gov/about-the-governor/about-governor-mike-braun |access-date=October 24, 2026 |website=State of Indiana |archive-url=https://web.archive.org/web/20260920100747/https://www.in.gov/gov/about-the-governor/about-governor-mike-braun/ |archive-date=September 20, 2026 |url-status=live}}</ref> based on this, repeat non-consecutive terms are numbered.}}
+!scope="colgroup" colspan="3"|Governor
+!scope="col" data-sort-type="number"|Term in office
+!scope="col"|Party
+!scope="col"|Election
+!scope="colgroup" colspan="2"|[[Lieutenant Governor of Indiana|Lt. Governor]]{{efn|Does not include acting lieutenant governors. Lieutenant governors represented the same party as their governor unless noted.}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|1
+|rowspan="3" data-sort-value="Jennings, Jonathan"|[[File:Jonathan Jennings.jpg|75px]]
+|rowspan="9" style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|rowspan="3"|'''[[Jonathan Jennings]]'''<br>{{small|(1784–1834)}}<br>{{sfn|Sobel|1978|pp=395–396}}<ref name="nga-jennings">{{cite web |title=Johnathan Jennings |url=https://www.nga.org/governor/johnathan-jennings/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417191454/https://www.nga.org/governor/johnathan-jennings/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2136"|November 7, 1816<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1816 sess. |author=Indiana General Assembly |page=10 |url=https://archive.org/details/journalofhouse1816indi/page/n11 |via=[[Internet Archive]]}}</ref><br />–<br />September 12, 1822<br>{{small|(2136 days; resigned)}}{{efn|Jennings resigned, having been [[1822 United States House of Representatives elections in Indiana|elected]] to the [[United States House of Representatives]].<ref name="nga-jennings" />}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|p=171}}
+|rowspan="2"|[[1816 Indiana gubernatorial election|1816]]
+|style="background:{{party color|Democratic-Republican Party}}; color:inherit;" title="Represented the Democratic-Republican Party"|
+|{{sortname|Christopher|Harrison|dab=politician}}<br />{{small|(resigned December 18, 1818)}}{{efn|Jennings was appointed a United States commissioner to conclude a treaty with native tribes on April 15, 1818; after this time, Harrison was acting as governor. However, by accepting the post, Harrison believed Jennings had vacated the seat, and thus felt he had succeeded Jennings to the governorship. The state legislature declined to confirm this, and Harrison resigned on December 18, 1818.<ref>{{Cite book |url=https://books.google.com/books?id=hMEaAQAAIAAJ&pg=PA981 |title=Year Book of the State of Indiana for the year 1918 |year=1919 |page=981 |via=[[Google Books]]}}
+</ref>}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1819 Indiana gubernatorial election|1819]]
+|style="color:inherit;background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|Ratliff|Boon}}
+|- style="height:2em;"
+!scope="row"|2
+|data-sort-value="Boon, Ratliff"|[[File:Ratliffboonindiana.jpg|75px]]
+|'''[[Ratliff Boon]]'''<br>{{small|(1781–1844)}}<br>{{sfn|Sobel|1978|p=396}}<ref name="nga-boon">{{cite web |title=Ratliff Boon |url=https://www.nga.org/governor/ratliff-boon/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512215802/https://www.nga.org/governor/ratliff-boon/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|data-sort-value="84"|September 12, 1822{{sfn|Kallenbach|1977|p=171}}<br />–<br />December 4, 1822<br>{{small|(84 days; retired)}}{{efn|Boon had already been reelected lieutenant governor when he succeeded Jennings.{{sfn|Sobel|1978|p=396}}}}
+|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|p=171}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|3
+|rowspan="2" data-sort-value="Hendricks, William"|[[File:William hendricks sr.jpg|75px]]
+|rowspan="2"|'''[[William Hendricks]]'''<br>{{small|(1782–1850)}}<br>{{sfn|Sobel|1978|pp=396–397}}<ref name="nga-hendricks-william">{{Cite web |title=William Hendricks |url=https://www.nga.org/governor/william-hendricks/ |access-date=October 24, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612151551/https://www.nga.org/governor/william-hendricks/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="802"|December 4, 1822<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1822 sess. |author=Indiana General Assembly |page=26 |url=https://archive.org/details/journalofhouseof182223indi/page/26/ |via=[[Internet Archive]]}}</ref><br />–<br />February 12, 1825<br>{{small|(802 days; resigned)}}{{efn|Hendricks resigned, having been [[1824 United States Senate election in Indiana|elected]] to the [[United States Senate]].<ref name="nga-hendricks-william" />}}
+|rowspan="2"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{sfn|Kallenbach|1977|p=171}}
+|rowspan="2"|[[1822 Indiana gubernatorial election|1822]]
+|style="color:inherit;background:{{party color|Democratic-Republican Party}};" title="Represented the Democratic-Republican Party"|
+|{{sortname|Ratliff|Boon}}<br />{{small|(resigned January 30, 1824)}}
+|- style="height:2em;"
+|rowspan="2" colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|4
+|rowspan="3" data-sort-value="Ray, James"|[[File:Indiana Governor James B. Ray.jpg|75px]]
+|rowspan="3"|'''[[James B. Ray]]'''<br>{{small|(1794–1848)}}<br>{{sfn|Sobel|1978|pp=397–398}}<ref name="nga-ray">{{cite web |title=James Brown Ray |url=https://www.nga.org/governor/james-brown-ray/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261015010749/https://www.nga.org/governor/james-brown-ray/ |archive-date=October 15, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2490"|February 12, 1825{{sfn|Kallenbach|1977|p=171}}<br />–<br />December 7, 1831<br>{{small|(2490 days; term-limited)}}{{efn|Under the 1816 constitution, governors were not capable of holding the office longer than six years in any term of nine years.{{sfn|Thorpe|1909|p=1063|loc=1816 art. IV, § 3}}|name=limits-1816}}
+|rowspan="3"|[[Democratic-Republican Party|Democratic-<br>Republican]]{{efn|Kallenbach labels Ray a Clay Republican,{{sfn|Kallenbach|1977|p=171}} but Glashan{{sfn|Glashan|1979|p=86}} and Sobel{{sfn|Sobel|1978|p=397}} label him a Democratic-Republican.}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>president of<br>the Senate}}{{efn|As the office of lieutenant governor was vacant, president pro tempore of the Senate Ray succeeded Hendricks.<ref name="nga-ray" />}}
+|- style="height:2em;"
+|[[1825 Indiana gubernatorial election|1825]]
+|style="color:inherit;background:{{party color|Jacksonian Party}};" title="Represented the Jacksonian faction of the Democratic-Republican Party"|
+|{{sortname|John H.|Thompson|dab=politician}}{{efn|Represented the [[Jacksonian democracy|Jacksonian faction]]}}
+|- style="height:2em;"
+|[[1828 Indiana gubernatorial election|1828]]
+|style="color:inherit;background:{{party color|Independent (US)}};" title="Represented no party"|
+|{{sortname|Milton|Stapp}}{{efn|Represented no party}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|5
+|rowspan="2" data-sort-value="Noble, Noah"|[[File:Noah Noble Portrait.jpg|75px]]
+|style="color:inherit;background:{{party color|National Republican Party (US)}};" title="Represented the National Republican Party"|
+|rowspan="2"|'''[[Noah Noble]]'''<br>{{small|(1794–1844)}}<br>{{sfn|Sobel|1978|pp=398–399}}<ref name="nga-noble">{{cite web |title=Noah Noble |url=https://www.nga.org/governor/noah-noble/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513072340/https://www.nga.org/governor/noah-noble/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2192"|December 7, 1831<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1831 sess. |author=Indiana General Assembly |page=32 |url=https://archive.org/details/journalofhouseof183132indi/page/32 |via=[[Internet Archive]]}}</ref><br />–<br />December 6, 1837<br>{{small|(2192 days; term-limited)}}{{efn|name=limits-1816}}
+|[[National Republican Party|National<br />Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1831 Indiana gubernatorial election|1831]]
+|rowspan="4" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|rowspan="2"|{{sortname|David|Wallace|dab=Indiana politician}}
+|- style="height:2em;"
+|rowspan="3" style="color:inherit;background:{{party color|Whig Party (United States)}};" title="Represented the Whig Party"|
+|[[Whig Party (United States)|Whig]]{{sfn|Kallenbach|1977|p=171}}
+|[[1834 Indiana gubernatorial election|1834]]
+|- style="height:2em;"
+!scope="row"|6
+|data-sort-value="Wallace, David"|[[File:Gov David Wallace Portrait.jpg|75px]]
+|'''[[David Wallace (Indiana politician)|David Wallace]]'''<br>{{small|(1799–1859)}}<br>{{sfn|Sobel|1978|pp=399–400}}<ref name="nga-wallace">{{cite web |title=David Wallace |url=https://www.nga.org/governor/david-wallace/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417192421/https://www.nga.org/governor/david-wallace/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1100"|December 6, 1837<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1837 sess. |author=Indiana General Assembly |page=30 |url=https://archive.org/details/journalofhouseof183738indi/page/30 |via=[[Internet Archive]]}}</ref><br />–<br />December 9, 1840<br>{{small|(1100 days; retired)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=59}}
+|[[1837 Indiana gubernatorial election|1837]]
+|{{sortname|David|Hillis|dab=politician}}
+|- style="height:2em;"
+!scope="row"|7
+|data-sort-value="Bigger, Samuel"|[[File:Samuel Bigger Portrait.jpg|75px]]
+|'''[[Samuel Bigger]]'''<br>{{small|(1802–1846)}}<br>{{sfn|Sobel|1978|p=400}}<ref name="nga-bigger">{{cite web |title=Samuel Bigger |url=https://www.nga.org/governor/samuel-bigger/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512215055/https://www.nga.org/governor/samuel-bigger/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1093"|December 9, 1840<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1840 sess. |author=Indiana General Assembly |page=35 |url=https://archive.org/details/journalofhouseof184041indi/page/35 |via=[[Internet Archive]]}}</ref><br />–<br />December 6, 1843<br>{{small|(1093 days; lost election)}}
+|[[Whig Party (United States)|Whig]]{{sfn|Dubin|2003|p=60}}
+|[[1840 Indiana gubernatorial election|1840]]
+|{{sortname|Samuel|Hall|dab=politician}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|8
+|rowspan="3" data-sort-value="Whitcomb, James"|[[File:Whitcombj.gif|75px]]
+|rowspan="8" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="3"|'''[[James Whitcomb]]'''<br>{{small|(1795–1852)}}<br>{{sfn|Sobel|1978|pp=400–401}}<ref name="nga-whitcomb-james">{{Cite web |title=James Whitcomb |url=https://www.nga.org/governor/james-whitcomb/ |access-date=October 24, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417181643/https://www.nga.org/governor/james-whitcomb/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1849"|December 6, 1843<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1843 sess. |author=Indiana General Assembly |page=33 |url=https://archive.org/details/journalofhouseof184344indi/page/33 |via=[[Internet Archive]]}}</ref><br />–<br />December 27, 1848<br>{{small|(1849 days; resigned)}}{{efn|Whitcomb resigned, having been [[1848 United States Senate election in Indiana|elected]] to the [[United States Senate]].<ref name="nga-whitcomb-james" />}}
+|rowspan="3"|[[Indiana Democratic Party|Democratic]]{{sfn|Dubin|2003|pp=60–61}}
+|rowspan="2"|[[1843 Indiana gubernatorial election|1843]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Jesse D.|Bright}}<br />{{small|(resigned December 8, 1845)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|[[1846 Indiana gubernatorial election|1846]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Paris C.|Dunning}}
+|- style="height:2em;"
+!scope="row"|9
+|data-sort-value="Dunning, Paris"|[[File:Governor of indiana paris c dunning.gif|75px]]
+|'''[[Paris C. Dunning]]'''<br>{{small|(1806–1884)}}<br>{{sfn|Sobel|1978|pp=401–402}}<ref name="nga-dunning">{{cite web |title=Paris Chipman Dunning |url=https://www.nga.org/governor/paris-chipman-dunning/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260613155909/https://www.nga.org/governor/paris-chipman-dunning/ |archive-date=June 13, 2026 |url-status=live}}</ref>
+|data-sort-value="344"|December 27, 1848<ref>{{cite book |title=Journal of the Indiana Senate, 1848 sess. |author=Indiana General Assembly |page=204 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433082053483&seq=210 |via=[[HathiTrust]]}}</ref><br />–<br />December 5, 1849<br>{{small|(344 days; retired)}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|10
+|rowspan="2" data-sort-value="Wright, Joseph"|[[File:Joseph A Wright Portrait.jpg|75px]]
+|rowspan="2"|'''[[Joseph A. Wright]]'''<br>{{small|(1810–1867)}}<br>{{sfn|Sobel|1978|p=402}}<ref name="nga-wright">{{cite web |title=Joseph Albert Wright |url=https://www.nga.org/governor/joseph-albert-wright/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260414063644/https://www.nga.org/governor/joseph-albert-wright/ |archive-date=April 14, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2596"|December 5, 1849<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1849 sess. |author=Indiana General Assembly |page=42 |url=https://archive.org/details/journalofhouseof184950indi/page/42 |via=[[Internet Archive]]}}</ref><br />–<br />January 12, 1857<br>{{small|(2596 days; term-limited)}}{{efn|Under the 1851 constitution, governors were ineligible to hold the office more than four years in any period of eight years.{{sfn|Thorpe|1909|p=1081|loc=1851 art. V, § 1}}|name=limits-1851}}
+|rowspan="2"|[[Indiana Democratic Party|Democratic]]{{sfn|Dubin|2003|pp=62–63}}
+|[[1849 Indiana gubernatorial election|1849]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Jim|Lane|dab=politician}}
+|- style="height:2em;"
+|[[1852 Indiana gubernatorial election|1852]]{{efn|First term under the 1851 constitution, which lengthened terms to four years.{{sfn|Thorpe|1909|p=1081|loc=1851 art. V, § 1}}}}
+|{{sortname|Ashbel P.|Willard}}
+|- style="height:2em;"
+!scope="row"|11
+|data-sort-value="Willard, Ashbel"|[[File:Ashbel Parsons Willard.jpg|75px]]
+|'''[[Ashbel P. Willard]]'''<br>{{small|(1820–1860)}}<br>{{sfn|Sobel|1978|p=403}}<ref name="nga-willard">{{cite web |title=Ashbel Parsons Willard |url=https://www.nga.org/governor/ashbel-parsons-willard/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260511204339/https://www.nga.org/governor/ashbel-parsons-willard/ |archive-date=May 11, 2026 |url-status=live}}</ref>
+|data-sort-value="1362"|January 12, 1857<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1857 sess. |author=Indiana General Assembly |page=60 |url=https://archive.org/details/journalofhouseof1857indi/page/60 |via=[[Internet Archive]]}}</ref><br />–<br />October 4, 1860<br>{{small|(1362 days; died in office)}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Dubin|2003|p=63}}
+|[[1856 Indiana gubernatorial election|1856]]
+|{{sortname|Abram A.|Hammond}}
+|- style="height:2em;"
+!scope="row"|12
+|data-sort-value="Hammond, Abram"|[[File:Govabramhammond.gif|75px]]
+|'''[[Abram A. Hammond]]'''<br>{{small|(1814–1874)}}<br>{{sfn|Sobel|1978|pp=403–404}}<ref name="nga-hammond">{{cite web |title=Abram Adams Hammond |url=https://www.nga.org/governor/abram-adams-hammond/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608204926/https://www.nga.org/governor/abram-adams-hammond/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|data-sort-value="103"|October 4, 1860<ref>{{Cite news |date=October 11, 1860 |title=Death of Gov. Willard |page=2 |newspaper=[[Palladium-Item|Richmond Palladium]] |url=https://www.newspapers.com/article/richmond-weekly-palladium-hammond-succee/130285552/ |archive-url=https://web.archive.org/web/20230819200224/https://www.newspapers.com/article/richmond-weekly-palladium-hammond-succee/130285552/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 1861<br>{{small|(103 days; retired)}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|13
+|data-sort-value="Lane, Henry S."|[[File:Sen Henry Smith Lane (cropped).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Henry S. Lane]]'''<br>{{small|(1811–1881)}}<br>{{sfn|Sobel|1978|p=404}}<ref name="nga-lane">{{cite web |title=Henry Smith Lane |url=https://www.nga.org/governor/henry-smith-lane/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260307125411/https://www.nga.org/governor/henry-smith-lane/ |archive-date=March 7, 2026 |url-status=live}}</ref>
+|data-sort-value="3"|January 14, 1861<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1861 sess. |author=Indiana General Assembly |page=60 |url=https://archive.org/details/journalofhouseof1861regu/page/60 |via=[[Internet Archive]]}}</ref><br />–<br />January 16, 1861<br>{{small|(3 days; resigned)}}{{efn|Lane resigned, having been [[1860 United States Senate election in Indiana|elected]] to the [[United States Senate]].<ref name="nga-lane" />}}
+|[[Indiana Republican Party|Republican]]{{sfn|Dubin|2003|p=64}}
+|[[1860 Indiana gubernatorial election|1860]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Oliver P.|Morton}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|14
+|rowspan="2" data-sort-value="Morton, Oliver"|[[File:Oliver Hazard Perry Morton - Brady-Handy.jpg|75px]]
+|rowspan="2"|'''[[Oliver P. Morton]]'''<br>{{small|(1823–1877)}}<br>{{sfn|Sobel|1978|p=405}}<ref name="nga-morton">{{cite web |title=Oliver Morton Perry |url=https://www.nga.org/governor/oliver-perry-morton/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260218220327/https://www.nga.org/governor/oliver-perry-morton/ |archive-date=February 18, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2200"|January 16, 1861<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1861 sess. |author=Indiana General Assembly |page=94 |url=https://archive.org/details/journalofhouseof1861regu/page/94 |via=[[Internet Archive]]}}</ref><br />–<br />January 24, 1867<br>{{small|(2200 days; resigned)}}{{efn|Morton resigned, having been [[1867 United States Senate election in Indiana|elected]] to the [[United States Senate]].<ref name="nga-morton" />}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background:{{party color|National Union Party (United States)}};" title="Represented the Union Party"|
+|[[National Union Party (United States)|Union]]{{sfn|Thornbrough|1989|p=209}}
+|[[1864 Indiana gubernatorial election|1864]]
+|style="color:inherit;background:{{party color|National Union Party (United States)}};" title="Represented the Union Party"|
+|{{sortname|Conrad|Baker}}{{efn|Baker acted as governor from October 1865 to March 1866 while Morton sought medical treatment.<ref name="nga-baker" />}}
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|15
+|rowspan="3" data-sort-value="Baker, Conrad"|[[File:Conradbakerindiana.jpg|75px]]
+|rowspan="3"|'''[[Conrad Baker]]'''<br>{{small|(1817–1885)}}<br>{{sfn|Sobel|1978|pp=405–406}}<ref name="nga-baker">{{cite web |title=Conrad Baker |url=https://www.nga.org/governor/conrad-baker/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410192834/https://www.nga.org/governor/conrad-baker/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="2182"|January 24, 1867<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1867 sess. |author=Indiana General Assembly |page=197 |url=https://archive.org/details/journalofhouseof18671indi/page/197 |via=[[Internet Archive]]}}</ref><br />–<br />January 13, 1873<br>{{small|(2182 days; term-limited)}}{{efn|name=limits-1851}}
+|[[National Union Party (United States)|Union]]{{sfn|Thornbrough|1989|p=210}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|rowspan="2"|[[1868 Indiana gubernatorial election|1868]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William|Cumback}}<br />{{small|(resigned January 11, 1871)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|16
+|data-sort-value="Hendricks, Thomas"|[[File:Thomas Andrews Hendricks.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Thomas A. Hendricks]]'''<br>{{small|(1819–1885)}}<br>{{sfn|Sobel|1978|pp=406–407}}<ref name="nga-hendricks-thomas">{{Cite web |title=Thomas Andrews Hendricks |url=https://www.nga.org/governor/thomas-andrews-hendricks/ |access-date=October 24, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617192802/https://www.nga.org/governor/thomas-andrews-hendricks/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1873<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1873 sess. |author=Indiana General Assembly |page=77 |url=https://archive.org/details/journalofhouseof1873indi/page/77 |via=[[Internet Archive]]}}</ref><br />–<br />January 8, 1877<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1872 Indiana gubernatorial election|1872]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Leonidas|Sexton}}{{efn|name=rr|Represented the [[Republican Party (United States)|Republican Party]]}}
+|- style="height:2em;"
+!scope="row"|17
+|data-sort-value="Williams, James"|[[File:James D. Williams - Brady-Handy.jpg|75px]]
+|'''[[James D. Williams]]'''<br>{{small|(1808–1880)}}<br>{{sfn|Sobel|1978|p=407}}<ref name="nga-williams">{{cite web |title=James Douglas Williams |url=https://www.nga.org/governor/james-douglas-williams/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260418074340/https://www.nga.org/governor/james-douglas-williams/ |archive-date=April 18, 2026 |url-status=live}}</ref>
+|data-sort-value="1413"|January 8, 1877<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1877 sess. |author=Indiana General Assembly |page=66 |url=https://archive.org/details/journalofhouseof1877indi/page/66 |via=[[Internet Archive]]}}</ref><br />–<br />November 20, 1880<br>{{small|(1413 days; died in office)}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1876 Indiana gubernatorial election|1876]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Isaac P.|Gray}}
+|- style="height:2em;"
+!scope="row"|18
+|data-sort-value="Gray, Isaac"|[[File:IsaacPGray.png|75px]]
+|'''[[Isaac P. Gray]]'''<br>{{small|(1828–1895)}}<br>{{sfn|Sobel|1978|pp=407–408}}<ref name="nga-gray">{{cite web |title=Isaac Pusey Gray |url=https://www.nga.org/governor/isaac-pusey-gray/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260703022941/https://www.nga.org/governor/isaac-pusey-gray/ |archive-date=July 3, 2026 |url-status=live}}</ref>
+|data-sort-value="52"|November 20, 1880<ref>{{Cite news |date=November 20, 1880 |title=none |quote=He will be succeeded in office by Lieutenant-Governor Gray... |page=1 |newspaper=[[South Bend Tribune]] |url=https://www.newspapers.com/article/the-south-bend-tribune-gray-succeeds-wil/130286640/ |archive-url=https://web.archive.org/web/20230819201724/https://www.newspapers.com/article/the-south-bend-tribune-gray-succeeds-wil/130286640/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 10, 1881<br>{{small|(52 days; retired)}}{{efn|Gray had already lost the election for lieutenant governor when he succeeded Williams.{{sfn|Sobel|1978|p=408}}}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|19
+|data-sort-value="Porter, Albert"|[[File:Albert-G-Porter.jpeg|75px]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Albert G. Porter]]'''<br>{{small|(1824–1897)}}<br>{{sfn|Sobel|1978|pp=408–409}}<ref name="nga-porter">{{cite web |title=Albert Gallatin Porter |url=https://www.nga.org/governor/albert-gallatin-porter/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410203751/https://www.nga.org/governor/albert-gallatin-porter/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 10, 1881<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1881 sess. |author=Indiana General Assembly |page=79 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112108237865&seq=85 |via=[[HathiTrust]]}}</ref><br />–<br />January 12, 1885<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1880 Indiana gubernatorial election|1880]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Thomas|Hanna|dab=Indiana politician}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|20
+|rowspan="2" data-sort-value="Gray, Isaac"|[[File:IsaacPGray.png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Isaac P. Gray]]'''<br>{{small|(1828–1895)}}<br>{{sfn|Sobel|1978|pp=407–408}}<ref name="nga-gray" />
+|rowspan="2" data-sort-value="1464"|January 12, 1885<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1885 sess. |author=Indiana General Assembly |page=60 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112108237832&seq=64 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1889<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|rowspan="2"|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|rowspan="2"|[[1884 Indiana gubernatorial election|1884]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Mahlon Dickerson|Manson}}<br />{{small|(resigned July 1886)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|21
+|data-sort-value="Hovey, Alvin"|[[File:Gen Alvin P Hovey 06985r.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Alvin Peterson Hovey]]'''<br>{{small|(1821–1891)}}<br>{{sfn|Sobel|1978|pp=409–410}}<ref name="nga-hovey">{{cite web |title=Alvin Peterson Hovey |url=https://www.nga.org/governor/alvin-peterson-hovey/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314092901/https://www.nga.org/governor/alvin-peterson-hovey/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|data-sort-value="1044"|January 14, 1889<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1889 sess. |author=Indiana General Assembly |page=62 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093267692&seq=68 |via=[[HathiTrust]]}}</ref><br />–<br />November 23, 1891<br>{{small|(1044 days; died in office)}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1888 Indiana gubernatorial election|1888]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Ira Joy|Chase}}
+|- style="height:2em;"
+!scope="row"|22
+|data-sort-value="Chase, Ira"|[[File:Gov ira chase of indiana.gif|75px]]
+|'''[[Ira Joy Chase]]'''<br>{{small|(1834–1895)}}<br>{{sfn|Sobel|1978|p=410}}<ref name="nga-chase">{{cite web |title=Ira Joy Chase |url=https://www.nga.org/governor/ira-joy-chase/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417002320/https://www.nga.org/governor/ira-joy-chase/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="414"|November 23, 1891<ref>{{Cite news |date=November 23, 1891 |title=The Governor Dead |page=1 |newspaper=[[Indianapolis News]] |url=https://www.newspapers.com/article/the-indianapolis-news-chase-succeeds-hov/130287560/ |archive-url=https://web.archive.org/web/20230819201723/https://www.newspapers.com/article/the-indianapolis-news-chase-succeeds-hov/130287560/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1893<br>{{small|(414 days; lost election)}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|23
+|data-sort-value="Matthews, Claude"|[[File:Claudematthewsindiana.jpg|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Claude Matthews]]'''<br>{{small|(1845–1898)}}<br>{{sfn|Sobel|1978|pp=410–411}}<ref name="nga-matthews">{{cite web |title=Claude Matthews |url=https://www.nga.org/governor/claude-matthews/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260616113055/https://www.nga.org/governor/claude-matthews/ |archive-date=June 16, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1893<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1893 sess. |author=Indiana General Assembly |page=50 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093267718&seq=74 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1897<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1892 Indiana gubernatorial election|1892]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Mortimer|Nye}}
+|- style="height:2em;"
+!scope="row"|24
+|data-sort-value="Mount, James"|[[File:Indiana Governor James A. Mount.gif|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James A. Mount]]'''<br>{{small|(1843–1901)}}<br>{{sfn|Sobel|1978|p=411}}<ref name="nga-mount">{{cite web |title=James Atwell Mount |url=https://www.nga.org/governor/james-atwell-mount/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521013848/https://www.nga.org/governor/james-atwell-mount/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1897<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1897 sess. |author=Indiana General Assembly |page=63 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093267734&seq=103 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1901<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1896 Indiana gubernatorial election|1896]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|William S.|Haggard}}
+|- style="height:2em;"
+!scope="row"|25
+|data-sort-value="Durbin, Winfield"|[[File:Indiana Governor Winfield T. Durbin.gif|75px]]
+|'''[[Winfield T. Durbin]]'''<br>{{small|(1847–1928)}}<br>{{sfn|Sobel|1978|pp=411–412}}<ref name="nga-durbin">{{cite web |title=Winfield Taylor Durbin |url=https://www.nga.org/governor/winfield-taylor-durbin/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519103554/https://www.nga.org/governor/winfield-taylor-durbin/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1901<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1901 sess. |author=Indiana General Assembly |page=72 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093267759&seq=78 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1905<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1900 Indiana gubernatorial election|1900]]
+|{{sortname|Newton W.|Gilbert}}
+|- style="height:2em;"
+!scope="row"|26
+|data-sort-value="Hanly, Frank"|[[File:J. Frank Hanly, 1908 (cropped).jpg|75px]]
+|'''[[Frank Hanly]]'''<br>{{small|(1863–1920)}}<br>{{sfn|Sobel|1978|pp=412–413}}<ref name="nga-hanly">{{cite web |title=James Frank Hanly |url=https://www.nga.org/governor/james-frank-hanly/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260512224640/https://www.nga.org/governor/james-frank-hanly/ |archive-date=May 12, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1905<ref>{{cite book |title=Journal of the Indiana Senate, 1905 sess. |author=Indiana General Assembly |page=103 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433082053335&seq=139 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1909<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1904 Indiana gubernatorial election|1904]]
+|{{sortname|Hugh Thomas|Miller}}
+|- style="height:2em;"
+!scope="row"|27
+|data-sort-value="Marshall, Thomas"|[[File:Thomas Riley Marshall headshot.jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Thomas R. Marshall]]'''<br>{{small|(1854–1925)}}<br>{{sfn|Sobel|1978|p=413}}<ref name="nga-marshall">{{cite web |title=Thomas Riley Marshall |url=https://www.nga.org/governor/thomas-riley-marshall/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607075330/https://www.nga.org/governor/thomas-riley-marshall/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1909<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1909 sess. |author=Indiana General Assembly |page=79 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093267668&seq=91 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1913<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1908 Indiana gubernatorial election|1908]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Frank J.|Hall}}
+|- style="height:2em;"
+!scope="row"|28
+|data-sort-value="Ralston, Samuel"|[[File:Samuel Ralston in 1923 (cropped).jpg|99x99px]]
+|'''[[Samuel M. Ralston]]'''<br>{{small|(1857–1925)}}<br>{{sfn|Sobel|1978|p=414}}<ref name="nga-ralston">{{cite web |title=Samuel Moffett Ralston |url=https://www.nga.org/governor/samuel-moffett-ralston/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608195850/https://www.nga.org/governor/samuel-moffett-ralston/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1913<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1913 sess. |author=Indiana General Assembly |page=69 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093267684&seq=73 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1917<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1912 Indiana gubernatorial election|1912]]
+|{{sortname|William P.|O'Neill}}
+|- style="height:2em;"
+!scope="row"|29
+|data-sort-value="Goodrich, James"|[[File:GOODRICH, JAMES GOVERNOR LCCN2016859731 (cropped).jpg|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[James P. Goodrich]]'''<br>{{small|(1864–1940)}}<br>{{sfn|Sobel|1978|pp=414–415}}<ref name="nga-goodrich">{{cite web |title=James Putnam Goodrich |url=https://www.nga.org/governor/james-putnam-goodrich/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260521015700/https://www.nga.org/governor/james-putnam-goodrich/ |archive-date=May 21, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 8, 1917<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1917 sess. |author=Indiana General Assembly |page=51 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112108237964&seq=55 |via=[[HathiTrust]]}}</ref><br />–<br />January 10, 1921<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1916 Indiana gubernatorial election|1916]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Edgar D.|Bush}}
+|- style="height:2em;"
+!scope="row"|30
+|data-sort-value="McCray, Warren"|[[File:Warren T. McCray.jpg|75px]]
+|'''[[Warren T. McCray]]'''<br>{{small|(1865–1938)}}<br>{{sfn|Sobel|1978|pp=415–416}}<ref name="nga-mccray">{{cite web |title=Warren T. McCray |url=https://www.nga.org/governor/warren-t-mccray/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617193801/https://www.nga.org/governor/warren-t-mccray/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1207"|January 10, 1921<ref>{{cite book |title=Journal of the Indiana House of Representatives, 1921 sess. |author=Indiana General Assembly |page=149 |url=https://babel.hathitrust.org/cgi/pt?id=coo.31924093267593&seq=161 |via=[[HathiTrust]]}}</ref><br />–<br />April 30, 1924<br>{{small|(1207 days; resigned)}}{{efn|McCray resigned following his conviction for mail fraud, and served three years in prison; he was pardoned by President [[Herbert Hoover]] in 1930.<ref name="nga-mccray" />}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1920 Indiana gubernatorial election|1920]]
+|{{sortname|Emmett Forest|Branch}}
+|- style="height:2em;"
+!scope="row"|31
+|data-sort-value="Branch, Emmett"|[[File:Emmett F. Branch (Indiana governor).jpg|75px]]
+|'''[[Emmett Forest Branch]]'''<br>{{small|(1874–1932)}}<br>{{sfn|Sobel|1978|p=416}}<ref name="nga-branch">{{cite web |title=Emmett Forrest Branch |url=https://www.nga.org/governor/emmett-forrest-branch/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260314194615/https://www.nga.org/governor/emmett-forrest-branch/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+|data-sort-value="258"|April 30, 1924<ref>{{Cite news |date=April 30, 1924 |title=Branch Made Governor |page=1 |newspaper=[[Indianapolis Times]] |url=https://www.newspapers.com/article/the-indianapolis-times-branch-succeeds-m/130292783/ |archive-url=https://web.archive.org/web/20230819201726/https://www.newspapers.com/article/the-indianapolis-times-branch-succeeds-m/130292783/ |archive-date=August 19, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1925<br>{{small|(258 days; retired)}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|32
+|data-sort-value="Jackson, Edward"|[[File:EdwardLJackson.jpg|75px]]
+|'''[[Edward L. Jackson]]'''<br>{{small|(1873–1954)}}<br>{{sfn|Sobel|1978|pp=416–417}}<ref name="nga-jackson">{{cite web |title=Edward L. Jackson |url=https://www.nga.org/governor/edward-l-jackson/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260307123444/https://www.nga.org/governor/edward-l-jackson/ |archive-date=March 7, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1925<ref>{{cite book |title=Journal of the Indiana Senate, 1925 sess. |author=Indiana General Assembly |page=26 |url=https://babel.hathitrust.org/cgi/pt?id=inu.30000125050561&seq=30 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1929<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1924 Indiana gubernatorial election|1924]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|F. Harold|Van Orman}}
+|- style="height:2em;"
+!scope="row"|33
+|data-sort-value="Leslie, Harry"|[[File:Harry G. Leslie (Indiana governor).jpg|75px]]
+|'''[[Harry G. Leslie]]'''<br>{{small|(1878–1937)}}<br>{{sfn|Sobel|1978|p=417}}<ref name="nga-leslie">{{cite web |title=Harry Guyer Leslie |url=https://www.nga.org/governor/4485-2/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260608202358/https://www.nga.org/governor/4485-2/ |archive-date=June 8, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1929<ref>{{cite book |title=Journal of the Indiana Senate, 1929 sess. |author=Indiana General Assembly |page=13 |url=https://babel.hathitrust.org/cgi/pt?id=inu.30000117931224&seq=19 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1933<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1928 Indiana gubernatorial election|1928]]
+|{{sortname|Edgar D.|Bush}}
+|- style="height:2em;"
+!scope="row"|34
+|data-sort-value="McNutt, Paul"|[[File:Mcnutt.jpg|75px]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Paul V. McNutt]]'''<br>{{small|(1891–1955)}}<br>{{sfn|Sobel|1978|pp=417–418}}<ref name="nga-mcnutt">{{cite web |title=Paul Vories McNutt |url=https://www.nga.org/governor/paul-vories-mcnutt/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260410203658/https://www.nga.org/governor/paul-vories-mcnutt/ |archive-date=April 10, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1933<ref>{{cite book |title=Journal of the Indiana Senate, 1933 sess. |author=Indiana General Assembly |page=88 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112109514346&seq=92 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1937<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1932 Indiana gubernatorial election|1932]]
+|rowspan="3" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|M. Clifford|Townsend}}
+|- style="height:2em;"
+!scope="row"|35
+|data-sort-value="Townsend, M. Clifford"|[[File:M. Clfford Townsend (Indiana governor).jpg|75px]]
+|'''[[M. Clifford Townsend]]'''<br>{{small|(1884–1954)}}<br>{{sfn|Sobel|1978|pp=418–419}}<ref name="nga-townsend">{{cite web |title=Maurice Clifford Townsend |url=https://www.nga.org/governor/maurice-clifford-townsend/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422114957/https://www.nga.org/governor/maurice-clifford-townsend/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1937<ref>{{cite book |title=Journal of the Indiana Senate, 1937 sess. |author=Indiana General Assembly |page=76 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112109513736&seq=80 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1941<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1936 Indiana gubernatorial election|1936]]
+|{{sortname|Henry F.|Schricker}}
+|- style="height:2em;"
+!scope="row"|36
+|data-sort-value="Schricker, Henry"|[[File:Henry F. Schricker (IN).jpg|75px]]
+|'''[[Henry F. Schricker]]'''<br>{{small|(1883–1966)}}<br>{{sfn|Sobel|1978|pp=419–420}}<ref name="nga-schricker">{{cite web |title=Henry Frederick Schricker |url=https://www.nga.org/governor/henry-frederick-schricker/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422113924/https://www.nga.org/governor/henry-frederick-schricker/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1941<ref>{{cite book |title=Journal of the Indiana Senate, 1941 sess. |author=Indiana General Assembly |page=97 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112109513769&seq=101 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1945<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1940 Indiana gubernatorial election|1940]]
+|{{sortname|Charles M.|Dawson}}
+|- style="height:2em;"
+!rowspan="4" scope="rowgroup"|37
+|rowspan="4" data-sort-value="Gates, Ralph"|[[File:Ralph F. Gates (IN).png|75px]]
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="4"|'''[[Ralph F. Gates]]'''<br>{{small|(1893–1978)}}<br>{{sfn|Sobel|1978|p=420}}<ref name="nga-gates">{{cite web |title=Ralph Fesler Gates |url=https://www.nga.org/governor/ralph-fesler-gates/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260607073432/https://www.nga.org/governor/ralph-fesler-gates/ |archive-date=June 7, 2026 |url-status=live}}</ref>
+|rowspan="4" data-sort-value="1464"|January 8, 1945<ref>{{Cite news |last=Maddox |first=Tom |publication-date=January 9, 1945 |date=January 8, 1945 |title=Gates Pledges Service to All Indiana People |page=1 |location=Indianapolis |publication-place=Muncie, Indiana |newspaper=[[The Star Press|The Muncie Star]] |agency=Associated Press |url=https://www.newspapers.com/article/the-star-press-gates-inaugurated-january/130318969/ |archive-url=https://web.archive.org/web/20230820051445/https://www.newspapers.com/article/the-star-press-gates-inaugurated-january/130318969/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 10, 1949<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|rowspan="4"|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|rowspan="4"|[[1944 Indiana gubernatorial election|1944]]
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Richard T.|James|dab=politician}}<br />{{small|(resigned April 1, 1948)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Rue J.|Alexander}}<br />{{small|(appointed April 14, 1948)<br />(died January 2, 1949)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+!scope="row"|38
+|data-sort-value="Schricker, Henry"|[[File:Henry F. Schricker (IN 2).png|75px]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Henry F. Schricker]]'''<br>{{small|(1883–1966)}}<br>{{sfn|Sobel|1978|pp=419–420}}<ref name="nga-schricker" />
+|data-sort-value="1464"|January 10, 1949<ref>{{cite book |title=Journal of the Indiana Senate, 1949 sess. |author=Indiana General Assembly |page=54 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112109513801&seq=58 |via=[[HathiTrust]]}}</ref><br />–<br />January 12, 1953<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=171}}
+|[[1948 Indiana gubernatorial election|1948]]
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|John A.|Watkins|dab=politician}}
+|- style="height:2em;"
+!scope="row"|39
+|data-sort-value="Craig, George"|[[File:George N. Craig (IN).png|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[George N. Craig]]'''<br>{{small|(1909–1992)}}<br>{{sfn|Sobel|1978|p=421}}<ref name="nga-craig">{{cite web |title=George N. Craig |url=https://www.nga.org/governor/george-n-craig/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260422105427/https://www.nga.org/governor/george-n-craig/ |archive-date=April 22, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 12, 1953<ref>{{cite book |title=Journal of the Indiana Senate, 1953 sess. |author=Indiana General Assembly |page=44 |url=https://babel.hathitrust.org/cgi/pt?id=inu.30000061425603&seq=48 |via=[[HathiTrust]]}}</ref><br />–<br />January 14, 1957<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=171}}
+|[[1952 Indiana gubernatorial election|1952]]
+|rowspan="2" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Harold W.|Handley}}
+|- style="height:2em;"
+!scope="row"|40
+|data-sort-value="Handley, Harold"|[[File:Harold W. Handley (Indiana Governor) 2.jpg|75px]]
+|'''[[Harold W. Handley]]'''<br>{{small|(1909–1972)}}<br>{{sfn|Sobel|1978|pp=421–422}}<ref name="nga-handley">{{cite web |title=Harold Willis Handley |url=https://www.nga.org/governor/harold-willis-handley/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260617200637/https://www.nga.org/governor/harold-willis-handley/ |archive-date=June 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 14, 1957<ref>{{cite book |title=Journal of the Indiana Senate, 1957 sess. |author=Indiana General Assembly |page=47 |url=https://babel.hathitrust.org/cgi/pt?id=inu.30000061425629&seq=51 |via=[[HathiTrust]]}}</ref><br />–<br />January 9, 1961<br>{{small|(1457 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=172}}
+|[[1956 Indiana gubernatorial election|1956]]
+|{{sortname|Crawford F.|Parker}}
+|- style="height:2em;"
+!scope="row"|41
+|data-sort-value="Welsh, Matthew"|[[File:Matthew_E._Welsh_(IN).jpg|75px]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|'''[[Matthew E. Welsh]]'''<br>{{small|(1912–1995)}}<br>{{sfn|Sobel|1978|p=422}}<ref name="nga-welsh">{{cite web |title=Matthew Empson Welsh |url=https://www.nga.org/governor/matthew-empson-welsh/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260417194858/https://www.nga.org/governor/matthew-empson-welsh/ |archive-date=April 17, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 9, 1961<ref>{{cite book |title=Journal of the Indiana Senate, 1961 sess. |author=Indiana General Assembly |page=55 |url=https://babel.hathitrust.org/cgi/pt?id=inu.30000061425652&seq=59 |via=[[HathiTrust]]}}</ref><br />–<br />January 11, 1965<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=172}}
+|[[1960 Indiana gubernatorial election|1960]]
+|rowspan="2" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Richard O.|Ristine}}{{efn|name=rr}}
+|- style="height:2em;"
+!scope="row"|42
+|data-sort-value="Branigin, Roger"|[[File:Roger D. Branigin (IN).png|75px]]
+|'''[[Roger D. Branigin]]'''<br>{{small|(1902–1975)}}<br>{{sfn|Sobel|1978|p=423}}<ref name="nga-branigin">{{cite web |title=Roger Douglas Branigin |url=https://www.nga.org/governor/roger-douglas-branigin/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260519103720/https://www.nga.org/governor/roger-douglas-branigin/ |archive-date=May 19, 2026 |url-status=live}}</ref>
+|data-sort-value="1464"|January 11, 1965<ref>{{cite book |title=Journal of the Indiana Senate, 1965 sess. |author=Indiana General Assembly |page=50 |url=https://babel.hathitrust.org/cgi/pt?id=inu.30000061425678&seq=54 |via=[[HathiTrust]]}}</ref><br />–<br />January 13, 1969<br>{{small|(1464 days; term-limited)}}{{efn|name=limits-1851}}
+|[[Indiana Democratic Party|Democratic]]{{sfn|Kallenbach|1977|p=172}}
+|[[1964 Indiana gubernatorial election|1964]]
+|{{sortname|Robert L.|Rock}}
+|- style="height:2em;"
+!scope="row"|43
+|data-sort-value="Whitcomb, Edgar"|[[File:Edgar_D._Whitcomb_(IN).png|75px]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|'''[[Edgar Whitcomb]]'''<br>{{small|(1917–2016)}}<br>{{sfn|Sobel|1978|pp=423–424}}<ref name="nga-whitcomb-edgar">{{Cite web |title=Edgar Doud Whitcomb |url=https://www.nga.org/governor/edgar-doud-whitcomb/ |access-date=October 24, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260606073334/https://www.nga.org/governor/edgar-doud-whitcomb/ |archive-date=June 6, 2026 |url-status=live}}</ref>
+|data-sort-value="1457"|January 13, 1969<ref>{{cite book |title=Journal of the Indiana Senate, 1969 sess. |author=Indiana General Assembly |page=89 |url=https://babel.hathitrust.org/cgi/pt?id=inu.30000061425694&seq=95 |via=[[HathiTrust]]}}</ref><br />–<br />January 8, 1973<br>{{small|(1457 days; term-limited)}}<ref>{{cite news |url=https://www.newspapers.com/article/the-louisville-times-whitcomb-says-term/204763277/ |title=Whitcomb says term limit enabled him to 'act for the people' |location=Indianapolis |publication-place=Louisville, Kentucky |newspaper=[[The Louisville Times]] |date=November 10, 1972 |via=Newspapers.com}}</ref>
+|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=172}}
+|[[1968 Indiana gubernatorial election|1968]]
+|rowspan="5" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Richard E.|Folz}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|44
+|rowspan="2" data-sort-value="Bowen, Otis"|[[File:Otis R. Bowen (1).jpg|75px]]
+|rowspan="2"|'''[[Otis Bowen]]'''<br>{{small|(1918–2013)}}<br>{{sfn|Sobel|1978|pp=424–425}}<ref name="nga-bowen">{{cite web |title=Otis Ray Bowen |url=https://www.nga.org/governor/otis-ray-bowen/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260513074501/https://www.nga.org/governor/otis-ray-bowen/ |archive-date=May 13, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 8, 1973<ref>{{Cite news |last=Mooney |first=Robert P. |date=January 9, 1973 |title=Bowen Asks for Guidance in Taking His Oath of Office |page=10 |newspaper=[[The Indianapolis Star]] |url=https://www.newspapers.com/article/the-indianapolis-star-bowen-inaugurated/130319281/ |archive-url=https://web.archive.org/web/20230820052950/https://www.newspapers.com/article/the-indianapolis-star-bowen-inaugurated/130319281/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 12, 1981<br>{{small|(2927 days; term-limited)}}{{efn|Under a 1972 amendment to the constitution, governors were ineligible to hold the office more than eight years in any period of twelve years.<ref name="amend1972" />|name=limits-1972}}
+|rowspan="2"|[[Indiana Republican Party|Republican]]{{sfn|Kallenbach|1977|p=172}}
+|[[1972 Indiana gubernatorial election|1972]]
+|rowspan="2"|{{sortname|Robert D.|Orr}}
+|- style="height:2em;"
+|[[1976 Indiana gubernatorial election|1976]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|45
+|rowspan="2" data-sort-value="Orr, Robert"|[[File:Ford A9514 NLGRF photo contact sheet (1976-05-01)(Gerald Ford Library) (cropped) (cropped).jpg|75px]]
+|rowspan="2"|'''[[Robert D. Orr]]'''<br>{{small|(1917–2004)}}<br>{{sfn|Mullaney|1994|pp=121–125}}<ref name="nga-orr">{{cite web |title=Robert D. Orr |url=https://www.nga.org/governor/robert-d-orr/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260812021426/https://www.nga.org/governor/robert-d-orr/ |archive-date=August 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2920"|January 12, 1981<ref>{{Cite news |last=Hibbs |first=Maria Pojeta |date=January 13, 1981 |title=Evansville's Orr Assumes Governorship Amid Pomp |page=1 |location=Indianapolis |publication-place=Evansville, Indiana |newspaper=[[Evansville Courier & Press|Evansville Courier]] |url=https://www.newspapers.com/article/evansville-courier-and-press-orr-inaugur/130319311/ |archive-url=https://web.archive.org/web/20230820051456/https://www.newspapers.com/article/evansville-courier-and-press-orr-inaugur/130319311/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 1989<br>{{small|(2920 days; term-limited)}}{{efn|name=limits-1972}}
+|rowspan="2"|[[Indiana Republican Party|Republican]]<ref name="nga-orr" />
+|[[1980 Indiana gubernatorial election|1980]]
+|rowspan="2"|{{sortname|John|Mutz}}
+|- style="height:2em;"
+|[[1984 Indiana gubernatorial election|1984]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|46
+|rowspan="2" data-sort-value="Bayh, Evan"|[[File:Evan Bayh official portrait v2.jpg|75px]]
+|rowspan="6" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|'''[[Evan Bayh]]'''<br>{{small|({{Abbr|b.|born in}} 1955)}}<br>{{sfn|Mullaney|1994|pp=126–129}}<ref name="nga-bayh">{{cite web |title=Evan Bayh |url=https://www.nga.org/governor/evan-bayh/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260903222120/https://www.nga.org/governor/evan-bayh/ |archive-date=September 3, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 9, 1989<ref>{{Cite news |last=Richardson |first=Doug |date=January 10, 1989 |title=Bayh Calls on Hoosier Hysteria |page=1 |newspaper=[[South Bend Tribune]] |agency=Associated Press |location=Indianapolis |publication-place=South Bend, Indiana |url=https://www.newspapers.com/article/the-south-bend-tribune-bayh-inaugurated/130319332/ |archive-url=https://web.archive.org/web/20230820051454/https://www.newspapers.com/article/the-south-bend-tribune-bayh-inaugurated/130319332/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 1997<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1972}}
+|rowspan="2"|[[Indiana Democratic Party|Democratic]]<ref name="nga-bayh" />
+|[[1988 Indiana gubernatorial election|1988]]
+|rowspan="4" style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|rowspan="2"|{{sortname|Frank|O'Bannon}}
+|- style="height:2em;"
+|[[1992 Indiana gubernatorial election|1992]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|47
+|rowspan="2" data-sort-value="O'Bannon, Frank"|[[File:Frank O'Bannon 1990.jpg |75px]]
+|rowspan="2"|'''[[Frank O'Bannon]]'''<br>{{small|(1930–2003)}}<br><ref name="nga-obannon">{{cite web |title=Frank O'Bannon |url=https://www.nga.org/governor/frank-obannon/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260610212643/https://www.nga.org/governor/frank-obannon/ |archive-date=June 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2435"|January 13, 1997<ref>{{Cite news |last=Scheider |first=Mary Beth |date=January 14, 1997 |title=Warm Words on a Cold Day |page=1 |newspaper=[[The Indianapolis Star]] |url=https://www.newspapers.com/article/the-indianapolis-star-obannon-inaugurat/130319385/ |archive-url=https://web.archive.org/web/20230820051454/https://www.newspapers.com/article/the-indianapolis-star-obannon-inaugurat/130319385/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />September 13, 2003<br>{{small|(2435 days; died in office)}}
+|rowspan="2"|[[Indiana Democratic Party|Democratic]]<ref name="nga-obannon" />
+|[[1996 Indiana gubernatorial election|1996]]
+|rowspan="2"|{{sortname|Joe|Kernan|dab=politician}}
+|- style="height:2em;"
+|[[2000 Indiana gubernatorial election|2000]]
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|48
+|rowspan="2" data-sort-value="Kernan, Joe"|[[File:Joe Kernan.jpg|75px]]
+|rowspan="2"|'''[[Joe Kernan (politician)|Joe Kernan]]'''<br>{{small|(1946–2020)}}<br><ref name="nga-kernan">{{cite web |title=Joseph E. Kernan |url=https://www.nga.org/governor/joseph-e-kernan/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260612150014/https://www.nga.org/governor/joseph-e-kernan/ |archive-date=June 12, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="486"|September 13, 2003<ref>{{Cite news |last=Schneider |first=Mary Beth |date=September 14, 2003 |title=O'Bannon Dies |page=A1 |newspaper=[[The Indianapolis Star]] |url=https://www.newspapers.com/article/the-indianapolis-star-kernan-succeeds-o/130319402/ |archive-url=https://web.archive.org/web/20230820053747/https://www.newspapers.com/article/the-indianapolis-star-kernan-succeeds-o/130319402/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 10, 2005<br>{{small|(486 days; lost election)}}
+|rowspan="2"|[[Indiana Democratic Party|Democratic]]<ref name="nga-kernan" />
+|rowspan="2" style="background:#EEEEEE; color:inherit;"|{{small|Succeeded from<br>lieutenant<br>governor}}
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|style="color:inherit;background:{{party color|Democratic Party (United States)}};" title="Represented the Democratic Party"|
+|{{sortname|Kathy|Davis}}<br />{{small|(appointed October 20, 2003)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|49
+|rowspan="2" data-sort-value="Daniels, Mitch"|[[File:Mitch Daniels.jpg|75px]]
+|rowspan="8" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|'''[[Mitch Daniels]]'''<br>{{small|({{Abbr|b.|born in}} 1949)}}<br><ref name="nga-daniels">{{cite web |title=Mitch Daniels |url=https://www.nga.org/governor/mitch-daniels/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260316002515/https://www.nga.org/governor/mitch-daniels/ |archive-date=March 16, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 10, 2005<ref>{{Cite news |last=Schneider |first=Mary Beth |date=January 11, 2005 |title='Our Actions Must Be Bold,' Governor Says at Inauguration |page=A1 |newspaper=[[The Indianapolis Star]] |url=https://www.newspapers.com/article/the-indianapolis-star-daniels-inaugurate/130319414/ |archive-url=https://web.archive.org/web/20230820051455/https://www.newspapers.com/article/the-indianapolis-star-daniels-inaugurate/130319414/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 14, 2013<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1972}}
+|rowspan="2"|[[Indiana Republican Party|Republican]]<ref name="nga-daniels" />
+|[[2004 Indiana gubernatorial election|2004]]
+|rowspan="3" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|rowspan="2"|{{sortname|Becky|Skillman}}
+|- style="height:2em;"
+|[[2008 Indiana gubernatorial election|2008]]
+|- style="height:2em;"
+!rowspan="3" scope="rowgroup"|50
+|rowspan="3" data-sort-value="Pence, Mike"|[[File:Vice President Mike Pence Portrait (cropped).jpg|96x96px]]
+|rowspan="3"|'''[[Mike Pence]]'''<br>{{small|({{Abbr|b.|born in}} 1959)}}<br><ref name="nga-pence">{{cite web |title=Mike Pence |url=https://www.nga.org/governor/mike-pence/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260803222323/https://www.nga.org/governor/mike-pence/ |archive-date=August 3, 2026 |url-status=live}}</ref>
+|rowspan="3" data-sort-value="1457"|January 14, 2013<ref>{{Cite news |last=Bradner |first=Eric |date=January 15, 2013 |title=Pence: 'The Time Is Now' |page=1A |newspaper=[[Evansville Courier & Press]] |location=Indianapolis |publication-place=Evansville, Indiana |url=https://www.newspapers.com/article/evansville-courier-and-press-pence-inaug/130319437/ |archive-url=https://web.archive.org/web/20230820052948/https://www.newspapers.com/article/evansville-courier-and-press-pence-inaug/130319437/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 9, 2017<br>{{small|(1457 days; withdrew)}}{{efn|Pence won the Republican nomination, but withdrew on July 15, 2016, when Republican presidential nominee [[Donald Trump]] selected Pence as his vice presidential running mate. As Pence was barred by Indiana law from simultaneously running for both offices, he subsequently withdrew from the gubernatorial election.<ref>{{Cite news |last1=Bradner |first1=Eric |last2=Bash |first2=Dana |last3=Lee |first3=MJ |date=July 14, 2016 |title=Donald Trump selects Mike Pence as VP |url=https://www.cnn.com/2016/07/14/politics/donald-trump-vice-presidential-choice/index.html |archive-url=https://web.archive.org/web/20160715215928/https://www.cnn.com/2016/07/14/politics/donald-trump-vice-presidential-choice/index.html |archive-date=July 15, 2016 |url-status=live}}</ref>}}
+|rowspan="3"|[[Indiana Republican Party|Republican]]<ref name="nga-pence" />
+|rowspan="3"|[[2012 Indiana gubernatorial election|2012]]
+|{{sortname|Sue|Ellspermann}}<br />{{small|(resigned March 2, 2016)}}
+|- style="height:2em;"
+|colspan="2" style="background:#EEEEEE; color:inherit;"|''Vacant''
+|- style="height:2em;"
+|rowspan="4" style="color:inherit;background:{{party color|Republican Party (United States)}};" title="Represented the Republican Party"|
+|{{sortname|Eric|Holcomb}}<br />{{small|(appointed March 3, 2016)}}
+|- style="height:2em;"
+!rowspan="2" scope="rowgroup"|51
+|rowspan="2" data-sort-value="Holcomb, Eric"|[[File:Gov Holcomb and legislators (cropped).jpg|75px]]
+|rowspan="2"|'''[[Eric Holcomb]]'''<br>{{small|({{Abbr|b.|born in}} 1968)}}<br><ref name="nga-holcomb">{{cite web |title=Eric Holcomb |url=https://www.nga.org/governor/eric-holcomb/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20261010022515/https://www.nga.org/governor/eric-holcomb/ |archive-date=October 10, 2026 |url-status=live}}</ref>
+|rowspan="2" data-sort-value="2927"|January 9, 2017<ref>{{Cite news |last1=Schneider |first1=Chelsea |last2=Lange |first2=Kaitlin L. |last3=Mack |first3=Justin L. |date=January 10, 2017 |title=Igniting State's Third Century |page=1A |newspaper=[[The Indianapolis Star]] |url=https://www.newspapers.com/article/the-indianapolis-star-holcomb-inaugurate/130319453/ |archive-url=https://web.archive.org/web/20230820051443/https://www.newspapers.com/article/the-indianapolis-star-holcomb-inaugurate/130319453/ |archive-date=August 20, 2023 |url-status=live |via=Newspapers.com}}</ref><br />–<br />January 13, 2025<br>{{small|(2927 days; term-limited)}}{{efn|name=limits-1972}}
+|rowspan="2"|[[Indiana Republican Party|Republican]]<ref name="nga-holcomb" />
+|[[2016 Indiana gubernatorial election|2016]]
+|rowspan="2"|{{sortname|Suzanne|Crouch}}
+|- style="height:2em;"
+|[[2020 Indiana gubernatorial election|2020]]
+|- style="height:2em;"
+!scope="row"|52
+|data-sort-value="Braun, Mike"| [[File:Mike Braun - 2025.jpg|75px]]
+|'''[[Mike Braun]]'''<br>{{small|({{Abbr|b.|born in}} 1954)}}<br><ref name="nga-braun">{{cite web |title=Mike Braun |url=https://www.nga.org/governor/mike-braun/ |access-date=October 22, 2026 |website=[[National Governors Association]] |archive-url=https://web.archive.org/web/20260903185106/https://www.nga.org/governor/mike-braun/ |archive-date=September 3, 2026 |url-status=live}}</ref>
+|data-sort-value="{{Duration in days nts|2025|1|13|duration=on|format=no}}"|January 13, 2025<br />–<br />Incumbent{{efn|Braun's term [[2028 Indiana gubernatorial election|will expire]] on January 8, 2029.}}<br>{{small|(in office {{Duration in days nts|2025|1|13|duration=on|format=no}} days)}}
+|[[Indiana Republican Party|Republican]]<ref name="nga-braun" />
+|[[2024 Indiana gubernatorial election|2024]]
+|{{sortname|Micah|Beckwith}}
+|}
+
+==See also==
+*{{slink|Gubernatorial lines of succession in the United States#Indiana}}
+*[[List of Indiana General Assemblies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite web |title=Former Indiana Governors |url=https://www.nga.org/former-governors/indiana/ |access-date=October 24, 2026 |website=[[National Governors Association]]}}
+* {{cite web |title=Indiana Constitution |url=https://50constitutions.org/in/constitution |ref={{sfnref|Ind. Const.}} | website = State Democracy Research Initiative|publisher=University of Wisconsin Law School | access-date=October 12, 2026}}
+* {{Cite book |last=Dubin |first=Michael J. |url=http://archive.org/details/unitedstatesgube0000dubi |title=United States Gubernatorial Elections, 1776-1860: The Official Results by State and County |date=2003 |publisher=McFarland |isbn=978-0-7864-1439-0}}
+* {{Cite book |last=Dubin |first=Michael J. |url=https://books.google.com/books?id=WYJAIOabIPgC |title=United States Gubernatorial Elections, 1861-1911: The Official Results by State and County |date=2014 |publisher=McFarland |isbn=978-0-7864-5646-8}}
+* {{Cite book |last=Glashan |first=Roy R. |url=http://archive.org/details/americangovernor0000glas |title=American Governors and Gubernatorial Elections, 1775-1978 |date=1979 |publisher=Meckler Books |isbn=978-0-930466-17-6}}
+*{{cite book |editor-last1=Gugin |editor-first1=Linda C. |editor-last2=St. Clair |editor-first2=James E. |title=The Governors of Indiana |publisher=Indiana Historical Society Press and the Indiana Historical Bureau |year=2006 |location=Indianapolis |isbn=978-0-87195-196-0 |url-access=registration |url=https://archive.org/details/isbn_9780871951960}}
+* {{Cite book |last=Kallenbach |first=Joseph Ernest |url=http://archive.org/details/americanstategov0000kall |title=American State Governors, 1776-1976 |date=1977 |publisher=Oceana Publications |isbn=978-0-379-00665-0}}
+* {{Cite book |last=McMullin |first=Thomas A. |url=http://archive.org/details/biographicaldire0000mcmu |title=Biographical directory of American territorial governors |date=1984 |publisher=Westport, CT : Meckler |isbn=978-0-930466-11-4}}
+* {{Cite book |last=Mullaney |first=Marie Marmo |url=https://archive.org/details/biographicaldire0000mull |title=Biographical Directory of the Governors of the United States, 1988–1994 |publisher=Greenwood Publishing Group |year=1994 |isbn=0-313-28312-5 |via=[[Internet Archive]]}}
+* {{Cite book |last=Sobel |first=Robert |url=https://archive.org/details/biographicaldire0001sobe/ |title=Biographical directory of the governors of the United States, 1789-1978, Vol. I |publisher=Meckler Books |year=1978 |isbn=9780930466015}}
+* {{Cite book |last1=Thornbrough |first1=Emma Lou |title=Indiana in the Civil War Era, 1850–1880 |date=1989 |publisher=Indiana Historical Society |location=Indianapolis |page=209 |isbn=978-0-87195-050-5 |url=https://archive.org/details/indianaincivilwa0003thor/mode/2up}}
+* {{cite book |title=The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the States, Territories, and Colonies Now or Heretofore Forming the United States of America |url=https://archive.org/details/federalstatecons02thor/ |volume=2 |publisher=[[United States Government Publishing Office]] |editor-last=Thorpe |editor-first=Francis Newton |year=1909 |via=[[Internet Archive]]}}
+{{refend}}
+
+==External links==
+{{commons category | Governors of Indiana}}
+*[https://www.in.gov/gov/ Office of the Governor of Indiana]
+
+{{Governors of Indiana}}
+{{Lists of US Governors}}
+{{Indiana}}
+{{Indiana government}}
+
+{{featured list}}
+
+{{DEFAULTSORT:Indiana, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Indiana|*]]
+[[Category:Lists of Indiana politicians|Governors]]
+[[Category:Indiana history-related lists|Governors]]
