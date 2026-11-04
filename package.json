@@ -1,0 +1,16 @@
+{
+  "name": "statehouse-ledger",
+  "version": "1.0.0",
+  "description": "An animated map of which party has controlled each US state, year by year since 1856",
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Build completed successfully'"
+  },
+  "keywords": ["visualization", "politics", "us-states"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
